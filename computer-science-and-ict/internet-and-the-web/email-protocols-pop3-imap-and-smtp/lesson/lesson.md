@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Email Protocols** — covering: 
 
 In your mind's eye: email Protocols.
 
+[Picture 45898 — email Protocols]
+
 ## Sub lesson 2 — Doing it — Email Protocols POP3 IMAP and SMTP in practice
 
 **Doing it — Email Protocols POP3 IMAP and SMTP in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Email Protocols POP3 IMAP and SMTP in practice.
+
+[Picture 45899 — doing it — Email Protocols POP3 IMAP and SMTP in practice]
 
 ## Say it to your companion
 

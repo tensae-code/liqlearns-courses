@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **The common Platforms for Electro
 
 In your mind's eye: the common Platforms for Electronic mail.
 
+[Picture 45896 — the common Platforms for Electronic mail]
+
 ## Sub lesson 2 — Doing it — Email Platforms Gmail Outlook Yahoo and Others in practice
 
 **Doing it — Email Platforms Gmail Outlook Yahoo and Others in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Email Platforms Gmail Outlook Yahoo and Others in practice.
+
+[Picture 45897 — doing it — Email Platforms Gmail Outlook Yahoo and Others in practice]
 
 ## Say it to your companion
 

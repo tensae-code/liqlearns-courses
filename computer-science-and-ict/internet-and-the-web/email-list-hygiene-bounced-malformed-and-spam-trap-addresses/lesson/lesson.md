@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Types of emails you should rem
 
 In your mind's eye: , Types of emails you should remove from list box.
 
+[Picture 45894 — Types of emails you should remove from list box]
+
 ## Sub lesson 2 — Doing it — Email List Hygiene Bounced Malformed and Spam Trap Addresses in practice
 
 **Doing it — Email List Hygiene Bounced Malformed and Spam Trap Addresses in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Email List Hygiene Bounced Malformed and Spam Trap Addresses in practice.
+
+[Picture 45895 — doing it — Email List Hygiene Bounced Malformed and Spam Trap Addresses in practice]
 
 ## Say it to your companion
 

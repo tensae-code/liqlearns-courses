@@ -10,11 +10,15 @@ Two Mauritanian guides teach downloading — in Grade 7 as its own fiche, and in
 
 In your mind's eye: choosing a safe, legal source.
 
+[Picture 45884 — choosing a safe, legal source]
+
 ## Sub lesson 2 — After the download — check before opening
 
 A downloaded file is a stranger at the door until it is checked: let the **antivirus** scan it before opening, and be most careful with program files, which can change the computer itself. Keep downloads in the **Downloads folder**, give kept files clear names, and delete what you do not need so the folder stays a place you can trust. If a file behaves strangely after opening, stop, disconnect and tell a teacher or another adult.
 
 In your mind's eye: after the download.
+
+[Picture 45885 — after the download]
 
 ## Say it to your companion
 

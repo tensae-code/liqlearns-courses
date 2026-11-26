@@ -10,11 +10,15 @@ Grade 7's last unit changes the subject from the machine to each other. Mongolia
 
 In your mind's eye: e-communication against face-to-face.
 
+[Picture 45888 — e-communication against face-to-face]
+
 ## Sub lesson 2 — The technology family — WWW, social networks, e-mail, chat, video conferences
 
 The carriers form one family, each with its own tempo. The **WWW** publishes pages for anyone to read. **Social networks** link people into ongoing shared spaces. **E-mail** sends letters that wait to be read. **Chat** talks live in short written turns. **Video conferences** restore face and voice across the distance. One family, five tempos — from the page that waits for the world to the call that happens now — and the unit walks them in that order: read, link, write, chat, meet.
 
 In your mind's eye: the technology family — WWW, social networks, e-mail, chat, video conferences.
+
+[Picture 45889 — the technology family — WWW, social networks, e-mail, chat, video conferences]
 
 ## Say it to your companion
 

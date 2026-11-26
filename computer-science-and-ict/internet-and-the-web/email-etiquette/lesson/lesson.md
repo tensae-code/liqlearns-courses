@@ -10,11 +10,15 @@ Email etiquette begins before the message: a **subject line** that says what the
 
 In your mind's eye: the well-made message — subject, greeting, clear words.
 
+[Picture 45890 — the well-made message — subject, greeting, clear words]
+
 ## Sub lesson 2 — Replying and attaching with care
 
 Replies keep the manners: **reply** to the person who needs the answer, use reply-all only when everyone truly needs it, and answer in reasonable time. **Attachments** are announced in the message and kept to a size the receiver can take. And the standing check before Send: the right address, the right words, the right file attached — etiquette is mostly this one pause.
 
 In your mind's eye: replying and attaching with care.
+
+[Picture 45891 — replying and attaching with care]
 
 ## Say it to your companion
 

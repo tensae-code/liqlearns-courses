@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **What are the tricks that can drive mor
 
 In your mind's eye: what are the tricks that can drive more traffic to your blogs?.
 
+[Picture 45886 — what are the tricks that can drive more traffic to your blogs?]
+
 ## Sub lesson 2 — Doing it — What are the tricks that can drive more traffic to your blogs? in practice
 
 This part of South Sudan's book teaches **Doing it — What are the tricks that can drive more traffic to your blogs? in practice** — covering: What are the tricks that can drive more traffic to your blogs?. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: What are the tricks that can drive more traffic to your blogs?. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — What are the tricks that can drive more traffic to your blogs? in practice is part of that chain..
 
 In your mind's eye: doing it — What are the tricks that can drive more traffic to your blogs? in practice.
+
+[Picture 45887 — doing it — What are the tricks that can drive more traffic to your blogs? in practice]
 
 ## Say it to your companion
 
