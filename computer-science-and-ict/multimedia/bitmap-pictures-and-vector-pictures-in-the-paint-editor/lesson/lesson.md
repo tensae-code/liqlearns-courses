@@ -10,11 +10,15 @@ A **vector** picture is built from **shapes** — circles, lines and filled outl
 
 In your mind's eye: a vector circle with its reshape points showing as handles, enlarged large beside its small self, both with clean round edges, and two shapes grouped inside one selection box.
 
+[Picture 46205 — a vector circle with its reshape points showing as handles, enlarged large beside its small self, both with clean round edges, and two shapes grouped inside one selection box]
+
 ## Sub lesson 2 — Bitmap — dots, and what converting loses
 
 A **bitmap** picture is a grid of coloured dots (pixels): the editor remembers dots, not shapes. Dots cannot be reshape-point edited as shapes, and enlarging a bitmap stretches the dots — edges go blocky and soft. The guide's warning is about **converting**: turning a vector drawing into bitmap flattens its shapes into dots, and that change **loses the editable parts and the sharpness** — you cannot convert back and recover them. So convert only when you mean it (for example to paint dot-by-dot with the brush), and keep a copy of the vector version when the drawing still matters as shapes.
 
 In your mind's eye: a grid of coloured pixels forming a small picture, the same picture enlarged with blocky edges, and an arrow from a shape drawing to pixels marked as one-way.
+
+[Picture 46206 — a grid of coloured pixels forming a small picture, the same picture enlarged with blocky edges, and an arrow from a shape drawing to pixels marked as one-way]
 
 ## Say it to your companion
 

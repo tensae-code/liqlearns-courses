@@ -10,11 +10,15 @@ Sound in the air is a **continuous wave**; the computer holds only numbers. **Sa
 
 In your mind's eye: sampling — the wave measured into numbers.
 
+[Picture 46201 — sampling — the wave measured into numbers]
+
 ## Sub lesson 2 — WAV, AIF, MP3 and MID — what each format holds
 
 The sampled sound is kept in **formats** that differ in what they hold. **WAV** and **AIF** hold the samples themselves, full and uncompressed — the masters, large and true. **MP3** holds a **compressed** account: the samples squeezed by discarding what the ear least misses — small files, near-enough sound. **MID (MIDI)** holds no sound at all: it holds **instructions** — which notes, which instruments, how long — from which the sound is rebuilt at playing. Mongolia's row teaches the formats as answers to one question: what, exactly, did you keep — the wave, a squeeze of it, or the recipe?
 
 In your mind's eye: wAV, AIF, MP3 and MID — what each format holds.
+
+[Picture 46202 — wAV, AIF, MP3 and MID — what each format holds]
 
 ## Say it to your companion
 

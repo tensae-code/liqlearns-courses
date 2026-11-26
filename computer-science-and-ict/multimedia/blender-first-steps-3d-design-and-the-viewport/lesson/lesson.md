@@ -10,11 +10,15 @@ Grade 8 leaves flat pictures for solid ones. Kuwait's 3D course is taught in Ble
 
 In your mind's eye: 3D design — and its file formats.
 
+[Picture 46213 — 3D design — and its file formats]
+
 ## Sub lesson 2 — Meeting Blender — Viewport, Outliner, moving and handling
 
 **Blender** is the free 3D program. Its home room is the **3D Viewport**: the space where the model stands and is seen — from any side, as the designer **moves around** it (orbit, pan, zoom), because a solid thing cannot be judged from one view. Beside it the **Outliner** lists every object in the scene by name — the scene's table of contents. **Handling an object** — selecting it, moving it in space — is the first manual skill, practised before any modelling: you cannot build in a room you cannot walk around.
 
 In your mind's eye: meeting Blender — Viewport, Outliner, moving and handling.
+
+[Picture 46214 — meeting Blender — Viewport, Outliner, moving and handling]
 
 ## Say it to your companion
 

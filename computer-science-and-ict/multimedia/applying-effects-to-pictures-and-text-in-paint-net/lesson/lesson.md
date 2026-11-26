@@ -10,11 +10,15 @@ Plain drawing first, effects after — Mongolia's third Paint.NET lesson opens t
 
 In your mind's eye: the Effects families — artistic, distort, noise, fractals.
 
+[Picture 46195 — the Effects families — artistic, distort, noise, fractals]
+
 ## Sub lesson 2 — Effects on text — and the ger
 
 Text in Paint.NET is drawn on its own layer, so every picture effect is also a **text effect**: titles can be textured, shadowed and bent by the same menu — the booklet's display lettering is made this way. The lesson's set piece gathers the strand: **drawing a Mongol ger with effects** — the national dwelling built from the editor's shapes and then finished with its effects, sky, ground and ornament transformed by the menu the lesson teaches. Mongolia's sequence is the teaching: draw truly first, then let effects dress what drawing built.
 
 In your mind's eye: effects on text — and the ger.
+
+[Picture 46196 — effects on text — and the ger]
 
 ## Say it to your companion
 

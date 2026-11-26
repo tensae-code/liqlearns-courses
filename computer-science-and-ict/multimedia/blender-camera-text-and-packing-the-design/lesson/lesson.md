@@ -10,11 +10,15 @@ The scene's **camera** is its official eye: what the camera sees is what the **r
 
 In your mind's eye: the camera — framing, render size and quality.
 
+[Picture 46209 — the camera — framing, render size and quality]
+
 ## Sub lesson 2 — Text in the design — and packing it to move
 
 Blender adds **text** as a 3D object in the scene — letters with depth, given a material like any solid — for titles and labels that belong to the design itself. And when the design must **move** — to another computer, another program, the 3D printer of the next lesson — it is **packed**: its textures and parts gathered **into** the file, so the design arrives whole instead of pointing at files left behind. Packing is the designer's suitcase check: everything the work needs, in the case.
 
 In your mind's eye: text in the design — and packing it to move.
+
+[Picture 46210 — text in the design — and packing it to move]
 
 ## Say it to your companion
 

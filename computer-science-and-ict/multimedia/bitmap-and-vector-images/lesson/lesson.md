@@ -10,11 +10,15 @@ A **bitmap** (or raster) image is built from **pixels** — tiny coloured square
 
 In your mind's eye: bitmap images.
 
+[Picture 46203 — bitmap images]
+
 ## Sub lesson 2 — Vector images — made of shapes and rules
 
 A **vector** image stores no pixels: it stores the **rules** for its shapes — lines, curves and fills described exactly — so the computer redraws it perfectly at any size, from a stamp to a banner. That is why logos, diagrams and lettering are drawn as vectors. Editors such as GIMP and Photoshop work mainly with bitmaps, while drawing programs work with vectors; a vector can always be turned into a bitmap at a chosen size, but a bitmap cannot truly be turned back.
 
 In your mind's eye: vector images.
+
+[Picture 46204 — vector images]
 
 ## Say it to your companion
 

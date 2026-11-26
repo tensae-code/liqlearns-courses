@@ -10,11 +10,15 @@ The same song is 30 MB in one format and 3 MB in another — and sounds almost t
 
 In your mind's eye: lossless and lossy keeping.
 
+[Picture 46199 — lossless and lossy keeping]
+
 ## Sub lesson 2 — The same audio in several formats
 
 Saved across formats, **the same audio** comes out **smallest and slightly thinned in lossy formats**, and **largest and exact in WAV**. Malaysia's comparison is made by listening as well as measuring: at a generous bit rate the lossy copy fools most ears; at a stingy one, the thinning is audible — cymbals smear, voices flatten. The maker's rule follows: keep the master lossless, publish lossy at a bit rate the purpose justifies — size is bought with quality, knowingly.
 
 In your mind's eye: the same audio in several formats.
+
+[Picture 46200 — the same audio in several formats]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Blender works on a solid in two states. **Object Mode** treats the object whole 
 
 In your mind's eye: object Mode and Edit Mode — and the parts of a mesh.
 
+[Picture 46211 — object Mode and Edit Mode — and the parts of a mesh]
+
 ## Sub lesson 2 — Loop Cut and Extrude — the two great reshapers
 
 The **Loop Cut** slices a new ring of edges **around** the mesh — and **Slide** moves the cut along the surface — giving the mesh a new place to bend or widen exactly where the design needs it: the tower's tank gets its rim from a cut. **Extrude** pulls a face **outward** (or inward) into new solid — the tank's top, a building's tower, a handle from a cup are extrusions. Cut to prepare, extrude to grow: the two verbs of mesh modelling in one lesson.
 
 In your mind's eye: loop Cut and Extrude — the two great reshapers.
+
+[Picture 46212 — loop Cut and Extrude — the two great reshapers]
 
 ## Say it to your companion
 

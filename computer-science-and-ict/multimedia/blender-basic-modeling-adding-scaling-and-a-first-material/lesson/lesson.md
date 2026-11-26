@@ -10,11 +10,15 @@ A Blender scene is populated by **adding objects** — the program's ready solid
 
 In your mind's eye: adding, deleting and scaling — the scene's population.
 
+[Picture 46207 — adding, deleting and scaling — the scene's population]
+
 ## Sub lesson 2 — A first material — the object's surface
 
 A grey solid is a ghost of a thing; a **material** gives it a **surface** — its colour and its way with light — so the ball is white and matte, the racket's face red rubber. Giving an object its **first material** is the modelling lesson's completion: form first (added and scaled), then surface. Kuwait keeps the first material simple on purpose: one object, one material, chosen — the textured richness comes in a later lesson.
 
 In your mind's eye: a first material — the object's surface.
+
+[Picture 46208 — a first material — the object's surface]
 
 ## Say it to your companion
 
