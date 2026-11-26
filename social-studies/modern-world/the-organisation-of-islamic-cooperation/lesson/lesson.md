@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: The Muslim world's own
 The Muslim world's own league takes its place beside the Arab and African ones
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40066 — threeleagues]
 ## Sub lesson 2 — Lesson 12: The Organisation of Islamic Cooperation
 
 The Muslim-majority states organise together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40065 — flagring]
 
 ## Say it to your companion
 

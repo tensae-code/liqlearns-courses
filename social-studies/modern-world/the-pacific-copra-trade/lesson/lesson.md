@@ -10,6 +10,8 @@ northern Europe's shortage of dairy fats makes Britain and Germany hungry for co
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40058 — copra]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 3, Fact File Four "The Demand and Supply of Copra and Coconut Oil" — northern Europe's shortage of dairy fats makes Britain and Germany hungry for copra in the 1860s, America follows in the early 1900s, and the big plantations planted in Samoa's German colonial period and under New Zealand administration age into today's low-yield trees. Then let your companion ask you one hard question about it — answer from the lesson.

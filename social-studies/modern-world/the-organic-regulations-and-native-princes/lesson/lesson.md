@@ -10,11 +10,15 @@ the Phanariotes fall, native princes return, and the Organic Regulations of 1831
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40068 — roadopens]
+
 ## Sub lesson 2 — §17: Principatele Române (1822–1848). Suzeranitatea otomană şi protectoratul rusesc
 
 between suzerainty and protectorate, General Kiseleff presides over the divans and backs the Organic Regulations to win the boyars and strengthen Russia's hold
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40067 — kiseleff]
 
 ## Say it to your companion
 

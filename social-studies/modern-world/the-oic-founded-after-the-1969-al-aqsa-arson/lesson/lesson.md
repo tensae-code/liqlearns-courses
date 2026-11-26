@@ -10,6 +10,8 @@ The Organisation of Islamic Cooperation is founded on 25 September 1969 at the f
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 40071 — rabat1969]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Malaysia in the OIC — the Organisation of Islamic Cooperation is founded on 25 September 1969 at the first Islamic summit in Rabat, Morocco, in direct response to the Zionist attack on al-Aqsa Mosque; Malaysia takes its seat among what becomes 57 member states. Then let your companion ask you one hard question about it — answer from the lesson.

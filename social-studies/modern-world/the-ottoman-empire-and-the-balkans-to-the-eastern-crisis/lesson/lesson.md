@@ -10,6 +10,8 @@ a weakening empire reforms on paper while local strongmen and moneylenders take 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40062 — paperstrongmen]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: the Ottoman Empire and the Balkans to the Eastern Crisis — ayans like Havzi Pasha, the Tanzimat charters (Hatt-ı Hümayun) and the old spahi order turning into tax-farming power — a weakening empire reforms on paper while local strongmen and moneylenders take real power in Macedonia. Then let your companion ask you one hard question about it — answer from the lesson.

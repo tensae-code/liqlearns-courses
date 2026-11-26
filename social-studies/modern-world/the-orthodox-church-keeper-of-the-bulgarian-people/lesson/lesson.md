@@ -10,11 +10,15 @@ Monasteries and priests keep language and identity alive when the state is gone 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40064 — monasterylanguage]
+
 ## Sub lesson 2 — Lesson 25: The Orthodox Church and the other religious communities
 
 Church, mosques and synagogues share the Bulgarian lands under the millet order (Lesson 25: The Orthodox Church and the other religious communities)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40063 — threefaiths]
 
 ## Say it to your companion
 

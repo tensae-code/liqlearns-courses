@@ -10,11 +10,15 @@ the 1973 oil crisis (Petrini's Storiografia on its causes) ends the golden age; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40070 — fordismends]
+
 ## Sub lesson 2 — Modulo 11 §§10–11 La fine dell'«età dell'oro»: la crisi petrolifera; L'emergere del problema ambientale
 
 the 1973 oil shock ends the golden age as Chernobyl (Eventi) and the Limits to Growth (Fare storia Document) announce the ecological bill — ecology is the module's keyword
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40069 — oilbill]
 
 ## Say it to your companion
 

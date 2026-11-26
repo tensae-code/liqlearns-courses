@@ -10,11 +10,15 @@ After the failed war of 1857 the Muslims of India organise; the Lahore Resolutio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40057 — provincestower]
+
 ## Sub lesson 2 — Minorities share in the making
 
 The new country is not built by Muslims alone — minority citizens, from the Christians, Hindus, Sikhs and Parsis who chose Pakistan to servants of the sick like Dr Ruth Pfau, share in its making, and the chapter closes with the heroes decorated with the Nishan-e-Haider.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40056 — sharedwall]
 
 ## Sub lesson 3 — The organisers and the name-giver
 
@@ -22,11 +26,15 @@ Begum Rana Liaquat Ali Khan builds the women's movement and founds APWA in 1949;
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40055 — namegiver]
+
 ## Sub lesson 4 — The provinces complete the map
 
 The map is completed piece by piece — Punjab, the movement's centre under leaders like Sir Mian Muhammad Shafi, is divided by the 3 June 1947 plan; Khyber Pakhtunkhwa votes in its referendum; Balochistan's Shahi Jirga and Quetta municipality decide for Pakistan; Mirza Hasan Khan's Gilgit scouts raise Pakistan's flag in Gilgit-Baltistan in November 1947; and Sardar Ibrahim's Azad Jammu and Kashmir joins its future to Pakistan.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40054 — mapcompletes]
 
 ## Sub lesson 5 — Congress is founded, 1885
 
@@ -34,11 +42,15 @@ A retired British official creates India's first national political platform, wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40053 — platform1885]
+
 ## Sub lesson 6 — Bengal divided and the Simla Deputation
 
 Bengal's division shows Muslims the power of a Muslim-majority province, and Agha Khan's deputation turns that lesson into a constitutional demand.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40052 — bengaldivided]
 
 ## Sub lesson 7 — The Muslim League is founded, 1906
 
@@ -46,11 +58,15 @@ Muslims decide they need a party of their own, and the League that will demand P
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40051 — league1906]
+
 ## Sub lesson 8 — The Lucknow Pact, 1916
 
 For once Hindu and Muslim leaders sign the same paper, the high point of cooperation before the split.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40050 — lucknow1916]
 
 ## Sub lesson 9 — The Khilafat Movement, 1919
 

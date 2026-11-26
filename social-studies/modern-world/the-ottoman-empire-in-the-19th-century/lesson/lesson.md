@@ -10,6 +10,8 @@ Tanzimat reforms try to save the 'sick man of Europe' while its Balkan peoples a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40061 — sickman]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §34 The Ottoman empire in the first half and 1860s of the 19th century — Tanzimat reforms try to save the 'sick man of Europe' while its Balkan peoples arm for independence. Then let your companion ask you one hard question about it — answer from the lesson.
