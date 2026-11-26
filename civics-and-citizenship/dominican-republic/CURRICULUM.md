@@ -58,9 +58,9 @@ Primary ends turned outward: the heritage of the world, how society is organised
 
 Secondary opens by naming the pupil a citizen of tomorrow and studying the pillars: rights and duties, national sovereignty, and the Constitution of the Dominican State with its powers and functions; then identity — the national symbols, dialogue, respect for oneself and others; then peace-building — road-safety and tax education, conflict resolution and a culture of peace, human values and harmonious coexistence; and guardianship of the planet — global warming, preserving natural resources, the social impact of pollution. Alongside it, the Grade 7 teacher guide's shared teacher doctrine, its orientations for the four projects, and the key actors in civic formation (teacher-guide evidence only). Lessons: Rights and Duties · National Sovereignty · The Dominican State and Its Powers · Dialogue · Respect for Oneself and Others · Tax Education · Conflict Resolution and a Culture of Peace · Human Values and Harmonious Coexistence · Global Warming · Preserving Natural Resources · The Social Impact of Pollution · Orientations for Citizens of Tomorrow · Orientations for Identity and Harmonious Coexistence · Orientations for Peace Builders · Orientations for Guardians of the Planet · The Key Actors in Civic Formation.
 
-## Level 5 — Rights, Symbols and the Planet — 7 lessons
+## Level 5 — Rights, Symbols and the Planet — 12 lessons
 
-Fundamental rights in the Dominican Republic worked through values, conflict resolution and a culture of peace, and participative solutions; road-safety and tax education under the heading of responsible citizenship; the national symbols returned to, now with the laws that regulate their use; and the planet read through the global proposals of international organisations on environmental rights, actions for the environment joined to citizen duties, and the impact of pollution in the country and the world compared. This level has no teacher-guide lessons: the grade's teacher guide is the filing's UNREAD Book 10 (see ABOUT.md). Lessons: Fundamental Rights in the Dominican Republic · Values Conflict Resolution and a Culture of Peace · Participative Solutions · The National Symbols and the Laws on Their Use · Global Proposals on Environmental Rights · Actions for the Environment and Citizen Duties · The Impact of Pollution in the Country and the World.
+Fundamental rights in the Dominican Republic worked through values, conflict resolution and a culture of peace, and participative solutions; road-safety and tax education under the heading of responsible citizenship; the national symbols returned to, now with the laws that regulate their use; and the planet read through the global proposals of international organisations on environmental rights, actions for the environment joined to citizen duties, and the impact of pollution in the country and the world compared. Alongside it, the Grade 8 teacher guide's shared teacher doctrine, its orientations for the four projects, and its orientations for evaluation in the subject (teacher-guide evidence only). Lessons: Fundamental Rights in the Dominican Republic · Values Conflict Resolution and a Culture of Peace · Participative Solutions · The National Symbols and the Laws on Their Use · Global Proposals on Environmental Rights · Actions for the Environment and Citizen Duties · The Impact of Pollution in the Country and the World · Orientations for Rights, Values and Participation · Orientations for Responsible Citizenship · Orientations for the Symbols and the Laws on Their Use · Orientations for Guardians of the Planet: Acting for a Sustainable Future · Orientations for Evaluation in the Subject.
 
 ## Level 6 — Conscious Citizenship — Democracy as a State of Law — 9 lessons
 
@@ -80,26 +80,27 @@ The final year turns to Dominican thought itself: the historical context of Domi
 
 ## Totals
 
-- **129 lessons** in all, stocked from
-  159 placements (Level 1: 27 lessons, 27 placements filed at the level · Level 2: 19 lessons, 21 placements filed at the level · Level 3: 15 lessons, 19 placements filed at the level · Level 4: 16 lessons, 19 placements filed at the level · Level 5: 7 lessons, 9 placements filed at the level · Level 6: 9 lessons, 12 placements filed at the level · Level 7: 11 lessons, 18 placements filed at the level · Level 8: 12 lessons, 16 placements filed at the level · Level 9: 13 lessons, 18 placements filed at the level) — from
-  seventeen read books in the filing: nine student
-  books and eight teacher guides of the MINERD Libro
+- **134 lessons** in all, stocked from
+  165 placements (Level 1: 27 lessons, 27 placements filed at the level · Level 2: 19 lessons, 21 placements filed at the level · Level 3: 15 lessons, 19 placements filed at the level · Level 4: 16 lessons, 19 placements filed at the level · Level 5: 12 lessons, 15 placements filed at the level · Level 6: 9 lessons, 12 placements filed at the level · Level 7: 11 lessons, 18 placements filed at the level · Level 8: 12 lessons, 16 placements filed at the level · Level 9: 13 lessons, 18 placements filed at the level) — from
+  eighteen read books in the filing: nine student
+  books and nine teacher guides of the MINERD Libro
   Abierto Serie 1 for Educación Moral, Cívica y Ética
-  Ciudadana, Spanish medium (the eighteenth record, the
-  Grade 8 teacher guide, is filed UNREAD — Book 10; see
+  Ciudadana, Spanish medium (the eighteenth book, the
+  Grade 8 teacher guide — Book 10 — was a phantom push
+  as first filed and was read on 2026-11-25; see
   ABOUT.md). 90 lessons stand on
-  student books; 39 lessons stand on
+  student books; 44 lessons stand on
   teacher guides alone (acceptance 0, labelled).
 
 ## Where the build stands
 
 - **Course frame — BUILT** (this CURRICULUM, TITLES.md,
   ABOUT.md, and the folder README entry).
-- **Levels 1–9 — BUILT**: 129 lessons, stocked
-  from 159 placements in the seventeen read
-  filed books (27 placements filed at Level 1 · 21 placements filed at Level 2 · 19 placements filed at Level 3 · 19 placements filed at Level 4 · 9 placements filed at Level 5 · 12 placements filed at Level 6 · 18 placements filed at Level 7 · 16 placements filed at Level 8 · 18 placements filed at Level 9). The coined lesson names in the filing were
-  deduped before building: 159 placements stock
-  129 lessons — every coined lesson name is
+- **Levels 1–9 — BUILT**: 134 lessons, stocked
+  from 165 placements in the eighteen read
+  filed books (27 placements filed at Level 1 · 21 placements filed at Level 2 · 19 placements filed at Level 3 · 19 placements filed at Level 4 · 15 placements filed at Level 5 · 12 placements filed at Level 6 · 18 placements filed at Level 7 · 16 placements filed at Level 8 · 18 placements filed at Level 9). The coined lesson names in the filing were
+  deduped before building: 165 placements stock
+  134 lessons — every coined lesson name is
   exactly one lesson, and every placement stocks into
   exactly one lesson as one of that lesson's parts.
   Because this series is a spiral — the same study
@@ -117,22 +118,25 @@ The final year turns to Dominican thought itself: the historical context of Domi
   no sub lessons.
 - **Footing**: 90 lessons stand on
   student books (114 student-book placements);
-  39 lessons stand on teacher
-  guides alone (45 teacher-guide placements) and stand
+  44 lessons stand on teacher
+  guides alone (51 teacher-guide placements) and stand
   at acceptance 0, labelled evidence only (see
   ABOUT.md). No lesson stands on a programme — the
   filing names none.
-- **Not built, named plainly**: Book 10 of the filing
-  — the Grade 8 (2.° Secundaria) teacher guide — is
-  filed RECORD-ONLY, UNREAD (a phantom push: absent
-  from the tree, from every Release and from disk; see
-  ABOUT.md). It carries 0 placements and no lesson in
-  this course pretends to its content; the grade's
-  student book is read and placed, so the level's
-  teaching is not lost. The filing names no Dominican
-  Republic civics books beyond the eighteen records
-  above — in particular no books for Grades 1–3 — so
-  this course's ladder starts where the filed books
-  start. This build itself downloaded and staged
-  nothing (DISK HOLD in force); everything built here
-  comes from the filing.
+- **Book 10 — the phantom, closed 2026-11-25**: the
+  Grade 8 (2.° Secundaria) teacher guide was filed
+  RECORD-ONLY, UNREAD in the first build (a phantom
+  push: absent from the tree, from every Release and
+  from disk; see ABOUT.md). On 2026-11-25 it was
+  fetched via the live browser from libroabierto.do,
+  staged in phase3-staging, and read in full: its 6
+  placements are stocked (the shared teacher doctrine
+  at Level 2 and five Teaching the Subject lessons at
+  Level 5). No book in the filing remains unread. The
+  filing names no Dominican Republic civics books
+  beyond the eighteen records above — in particular
+  no books for Grades 1–3 — so this course's ladder
+  starts where the filed books start. The first build
+  itself downloaded and staged nothing (DISK HOLD in
+  force); the 2026-11-25 repair fetched and staged
+  Book 10 only.

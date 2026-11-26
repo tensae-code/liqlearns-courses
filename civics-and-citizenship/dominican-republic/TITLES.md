@@ -33,7 +33,7 @@ point down this ladder).
 
 The coined lesson names in the filing were deduped
 before building (see CURRICULUM.md, "Where the build
-stands"): 159 placements stock 129
+stands"): 165 placements stock 134
 lessons. Every placement stocks into exactly one
 lesson, and each placement's provenance row (book +
 printed page, exactly as filed) is in that lesson's
@@ -86,13 +86,14 @@ lessons.
 - `caring-for-the-planet/` — Level 4. Global Warming · Preserving Natural Resources · The Social Impact of Pollution. Caring for the Planet as the Dominican Republic's own books teach it — this title sits at Level 4 because it holds guardianship of the planet and of the nation's soil — resources, pollution, warming, and the environmental threats named in the final year.
 - `teaching-the-subject/` — Level 4. Orientations for Citizens of Tomorrow · Orientations for Identity and Harmonious Coexistence · Orientations for Peace Builders · Orientations for Guardians of the Planet · The Key Actors in Civic Formation. Teaching the Subject as the Dominican Republic's own books teach it — this title sits at Level 4 because it holds the teacher guides' own teaching for teachers — the subject's doctrine, the teacher as model, and project-by-project orientations (teacher-guide evidence only, acceptance 0).
 
-**Level 5 — Rights, Symbols and the Planet** (7 lessons):
+**Level 5 — Rights, Symbols and the Planet** (12 lessons):
 
 - `rights-and-duties/` — Level 5. Fundamental Rights in the Dominican Republic. Rights and Duties as the Dominican Republic's own books teach it — this title sits at Level 5 because it holds what the citizen is owed and what the citizen owes, from first civil and political rights to human rights and tax duties.
 - `peace-and-conflict/` — Level 5. Values Conflict Resolution and a Culture of Peace. Peace and Conflict as the Dominican Republic's own books teach it — this title sits at Level 5 because it holds a culture of peace and the non-violent solving of conflicts, and recognising violence in its social, family and youth forms.
 - `taking-part/` — Level 5. Participative Solutions. Taking Part as the Dominican Republic's own books teach it — this title sits at Level 5 because it holds participation — of civil society in school and nation, participative solutions, and reform proposals.
 - `national-symbols-and-heritage/` — Level 5. The National Symbols and the Laws on Their Use. National Symbols and Heritage as the Dominican Republic's own books teach it — this title sits at Level 5 because it holds the symbols, the territory and the heritage — returned to at every level, deepening from a school exhibition to the laws on their use to guardianship of soil and sovereignty.
 - `caring-for-the-planet/` — Level 5. Global Proposals on Environmental Rights · Actions for the Environment and Citizen Duties · The Impact of Pollution in the Country and the World. Caring for the Planet as the Dominican Republic's own books teach it — this title sits at Level 5 because it holds guardianship of the planet and of the nation's soil — resources, pollution, warming, and the environmental threats named in the final year.
+- `teaching-the-subject/` — Level 5. Orientations for Rights, Values and Participation · Orientations for Responsible Citizenship · Orientations for the Symbols and the Laws on Their Use · Orientations for Guardians of the Planet: Acting for a Sustainable Future · Orientations for Evaluation in the Subject. Teaching the Subject as the Dominican Republic's own books teach it — this title sits at Level 5 because it holds the teacher guides' own teaching for teachers — the subject's doctrine, the teacher as model, and project-by-project orientations (teacher-guide evidence only, acceptance 0).
 
 **Level 6 — Conscious Citizenship — Democracy as a State of Law** (9 lessons):
 

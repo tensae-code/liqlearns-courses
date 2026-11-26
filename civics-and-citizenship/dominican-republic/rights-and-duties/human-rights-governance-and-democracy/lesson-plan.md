@@ -8,7 +8,7 @@
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Before this lesson
-- Recommended first: The Impact of Pollution in the Country and the World (the lesson before it in path order). Recommended, never forced — a learner can jump in here directly.
+- Recommended first: Orientations for Evaluation in the Subject (the lesson before it in path order). Recommended, never forced — a learner can jump in here directly.
 
 ## What the learner can do when it ends
 1. State the lesson's one thing in their own words: Human rights, governance and economic development held together inside democracy as a State of law.

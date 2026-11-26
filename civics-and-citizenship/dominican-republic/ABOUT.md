@@ -36,9 +36,11 @@ student book needed one retry after a transient
 disconnect; the Grade 12 teacher guide's first fetch was
 stopped mid-download by the owner's DISK HOLD of
 2026-11-17 and was completed, byte-verified and read by
-the finisher reader). The Grade 8 teacher guide is
+the finisher reader). The Grade 8 teacher guide was
 absent from the tree, from every Release and from disk —
-filed UNREAD (Book 10 below). Printed page = PDF page − 1
+a phantom push, filed UNREAD as first built; it was
+fetched via the live browser from libroabierto.do on
+2026-11-25, staged, and read (Book 10 below). Printed page = PDF page − 1
 throughout the series, as filed.
 
 The Dominican Republic's own way, preserved whole, as filed:
@@ -72,8 +74,8 @@ conservatism.
 
 The course as built has **nine stocked levels**, from the
 filing for this build (`dominican-republic-placements.md`
-— 18 records / 18 distinct books, 17 read).
-159 placements in all, stocking 129
+— 18 records / 18 distinct books, 18 read).
+165 placements in all, stocking 134
 lessons — the coined lesson names were deduped before
 building (see CURRICULUM.md, "Where the build stands"):
 every placement stocks into exactly one lesson, and
@@ -84,7 +86,7 @@ every placement's provenance row is in that lesson's
 2. **Level 2 — The Constitution Opens the Year (19 lessons, 21 placements filed at the level).** Fundamental Rights in the Constitution · What the Legislative Power Does · Nationality and Citizenship · Natural Historical and Cultural Heritage · Government · The Law That Protects Children (Ley 136-03) · Road and Tax Education · What Traffic Accidents Cost the State · The Impact of Pollution · Daily Situations That Risk Safety and Health · A Culture of Peace and Peaceful Solutions · Democratic Solutions · Social and Family Violence · Youth Violence · The Shared Teacher Doctrine · Orientations for Exploring the Constitution · Orientations for My Country My Rights and Duties · Orientations for Road Tax and Environment Strategies · Orientations for Peace and a Resilient Community.
 3. **Level 3 — How Our Society Is Organised — Turned Outward (15 lessons, 19 placements filed at the level).** World Heritage · What the Judicial Power Does · Municipal Organisation · Social and Civil Participation · Tax Rights and Duties · Road Problems and Tax Education · Fundamental Rights and Duties · Fulfilling Duties and Rights · Values for Life · A Culture of Peace and Conflict Situations · Harmonious Relations in the World · Orientations for Social Organisation and Children's Rights · Orientations for Deepening the Constitution · Orientations for Road and Tax Responsibility · Orientations for Peace and Global Harmony.
 4. **Level 4 — Citizens of Tomorrow — the Pillars (16 lessons, 19 placements filed at the level).** Rights and Duties · National Sovereignty · The Dominican State and Its Powers · Dialogue · Respect for Oneself and Others · Tax Education · Conflict Resolution and a Culture of Peace · Human Values and Harmonious Coexistence · Global Warming · Preserving Natural Resources · The Social Impact of Pollution · Orientations for Citizens of Tomorrow · Orientations for Identity and Harmonious Coexistence · Orientations for Peace Builders · Orientations for Guardians of the Planet · The Key Actors in Civic Formation.
-5. **Level 5 — Rights, Symbols and the Planet (7 lessons, 9 placements filed at the level).** Fundamental Rights in the Dominican Republic · Values Conflict Resolution and a Culture of Peace · Participative Solutions · The National Symbols and the Laws on Their Use · Global Proposals on Environmental Rights · Actions for the Environment and Citizen Duties · The Impact of Pollution in the Country and the World.
+5. **Level 5 — Rights, Symbols and the Planet (12 lessons, 15 placements filed at the level).** Fundamental Rights in the Dominican Republic · Values Conflict Resolution and a Culture of Peace · Participative Solutions · The National Symbols and the Laws on Their Use · Global Proposals on Environmental Rights · Actions for the Environment and Citizen Duties · The Impact of Pollution in the Country and the World · Orientations for Rights, Values and Participation · Orientations for Responsible Citizenship · Orientations for the Symbols and the Laws on Their Use · Orientations for Guardians of the Planet: Acting for a Sustainable Future · Orientations for Evaluation in the Subject.
 6. **Level 6 — Conscious Citizenship — Democracy as a State of Law (9 lessons, 12 placements filed at the level).** Human Rights Governance and Democracy · Using Natural Resources in America and the Country · The National Symbols Their History and Identity · Human Values Conflict Resolution and a Culture of Peace · Healthy Resilient School Environments · Orientations for Conscious Citizenship · Orientations for Being Part of the Change · Orientations for Symbols History and Identity · Orientations for Values That Transform the School.
 7. **Level 7 — Roots of the Nation (11 lessons, 18 placements filed at the level).** National Identity · Human Rights · Protecting the Environment · The Rule of Law · Democratic Coexistence and a Culture of Peace · Values and Conflict Resolution · Listening and Dialogue · Orientations for Roots of the Nation · Orientations for Safe Routes and Conscious Taxes · Orientations for Pillars of the Nation · Orientations for Builders of Harmony.
 8. **Level 8 — Constitutional History and Active Citizenship (12 lessons, 16 placements filed at the level).** The Emergence of the Dominican State · The Dominican Constitutions and Fundamental Rights · Foreign Influences on the Dominican Constitutions · Reform Proposals Vulnerability and Risk · Values and a Culture of Peace · Dialogic Solutions · The Value of One's Own and Others' Lives · Violence and Vulnerability · Orientations for Constitution and Identity · Orientations for a Safe Environment and Responsibility · Orientations for Symbols and Active Citizenship · Orientations for Values and a Culture of Peace.
@@ -131,14 +133,15 @@ the books' own shape, walked in order):
 Book entries are named in full in each lesson's
 `lesson/sources.md`. The set in hand for this build is the
 filing's whole set: 18 distinct books — 9 student
-books and 9 teacher guides, of which 17 were read
-(9 student books, 8 teacher guides) and 1 is filed
-UNREAD. 159 placements in all, stocking 129 lessons
+books and 9 teacher guides, all 18 read
+(9 student books, 9 teacher guides).
+165 placements in all, stocking 134 lessons
 (every placement stocks into exactly one lesson). The
 filing states what it does and does not contain, and this
 course carries only what the filing states: verdicts are
-carried exactly as filed — COMPLETE for all seventeen
-read books, RECORD-ONLY — UNREAD for Book 10.
+carried exactly as filed — COMPLETE for all eighteen
+read books (Book 10 as repaired 2026-11-25 — it was
+RECORD-ONLY — UNREAD as first filed).
 
 **Book 1 (dominican-republic-placements.md) — Grade 4 student book**
 
@@ -176,9 +179,9 @@ read books, RECORD-ONLY — UNREAD for Book 10.
 
 - *Educación Moral, Cívica y Ética Ciudadana — Segundo Grado, Primer Ciclo, Educación Secundaria (cover verified against the record title)* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Proyecto Libro Abierto, Serie 1; year © 2025; ISBN: in process ("En proceso" as printed). Grade: 8 (2.° Secundaria) (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Subject as filed: Educación Moral, Cívica y Ética Ciudadana — track: standalone. **Verdict: COMPLETE** Contents map: front matter pp. 1–14; Project 1 "Derechos, valores y participación para resolver conflictos" p. 15; Project 2 "Ciudadanía responsable: vialidad y tributos para vivir mejor" p. 37; Project 3 "Conociendo nuestros símbolos patrios y leyes que regulan su uso" p. 55; Project 4 "Guardianes del planeta: actuamos por un futuro sostenible" p. 73; closing matter pp. 95–100 Tally: 9 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/dominican-republic-placements.md` (Book 9 in that filing).
 
-**Book 10 (dominican-republic-placements.md) — Grade 8 (2.° Secundaria) teacher guide — UNREAD**
+**Book 10 (dominican-republic-placements.md) — Grade 8 (2.° Secundaria) teacher guide**
 
-- *(record title) Educación Moral, Ética y Ciudadana 2.º Orientaciones para Docentes S* (teacher guide, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Dirección de Currículo (per the series). Grade: 8 (2.° Secundaria) (student/teacher: TEACHER). PDF pages: not obtained. Subject as filed: Educación Moral, Cívica y Ética Ciudadana — track: standalone. **Verdict: RECORD-ONLY — UNREAD. Routes tried: (1) `grab.py tree` on the census path — HTTP 404 (first reader's GRABFAIL marker); (2) GitHub Releases API census of every release — no asset for this book exists in any release (the other 17 books of the series are all present as assets); (3) phase3-staging on disk — the grade-08 Dominican Republic folder exists but is empty; (4) the recorded Google Drive source — returns a sign-in page (login route, not used); (5) MINERD Educando portal direct PDF — the host returns an empty reply from this network, including with a browser user-agent and HTTP/1.1; (6) Wayback Machine — no snapshot of the portal PDF. The record is marked pushed but the file is absent from the tree, from every Release and from disk: a phantom push, recorded as a library debt in the group log** Contents map: not obtained — the volume is the teacher companion to Book 9 above; its student book is read and placed, so the grade's teaching is not lost Tally: 0 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/dominican-republic-placements.md` (Book 10 in that filing).
+- *Orientaciones didácticas para docentes — Educación Moral, Cívica y Ética Ciudadana, Segundo Grado, Primer Ciclo, Educación Secundaria (cover verified against the record title)* (teacher guide, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Dirección de Currículo; year © 2026; ISBN 978-9945-28-177-4. Grade: 8 (2.° Secundaria) (student/teacher: TEACHER). PDF pages: 69 (cover/title page verified against the record title). Subject as filed: Educación Moral, Cívica y Ética Ciudadana — track: standalone. **Verdict: COMPLETE — front matter repeats the series' shared teacher teaching (printed pp. 7–21, placed in full at the Grade 4 guide, Book 2 above) and the Actores clave table (printed pp. 30–31, placed at the Grade 7 guide, Book 8 above); this guide has no constitutional annex — its closing teaching is the subject's evaluation guidance and rubrics (printed pp. 32–45), placed at Orientations for Evaluation in the Subject. REPAIR 2026-11-25: as first filed this volume was RECORD-ONLY — UNREAD, a phantom push (the record marked pushed but the file absent from the tree, from every Release and from disk; routes tried as first filed: (1) `grab.py tree` on the census path — HTTP 404 (the first reader's GRABFAIL marker); (2) GitHub Releases API census of every release — no asset for this book in any release (the other 17 books of the series are all present as assets); (3) phase3-staging on disk — the grade-08 Dominican Republic folder existed but was empty; (4) the recorded Google Drive source — a sign-in page (login route, not used); (5) MINERD Educando portal direct PDF — empty reply from this network, including with a browser user-agent and HTTP/1.1; (6) Wayback Machine — no snapshot of the portal PDF; recorded as a library debt in the group log). Fetched via the live browser from libroabierto.do on 2026-11-25 (3,003,642 bytes — byte size matching the staging record; sha256 1ac7d963b7aa98d81442516f19f032994a9be238bfbb098e6ac2fcc6fe16894e), staged in phase3-staging grade-08 under its census path, and read in full — the phantom is closed** Contents map: Presentación p. 5; shared series front matter pp. 7–21; per-project didactic orientations pp. 22–29 (Proyecto 1 p. 22; Proyecto 2 p. 24; Proyecto 3 p. 26; Proyecto 4 p. 28); Actores clave en el proceso formativo ético y cívico pp. 30–31; Sugerencias y aspectos a considerar p. 32; La evaluación en la Educación Moral, Cívica y Ética Ciudadana pp. 33–45; Bibliografía pp. 47–48; Notas pp. 49–65, Proyecto Libro Abierto p. 66 and Himno Nacional p. 67 (closing matter, inventory only) Tally: 6 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/dominican-republic-placements.md` (Book 10 in that filing).
 
 **Book 11 (dominican-republic-placements.md) — Grade 9 (3.° Secundaria) student book**
 
@@ -215,13 +218,13 @@ read books, RECORD-ONLY — UNREAD for Book 10.
 ## The acceptance reckoning
 
 - **Student books count.** 90 of the
-  129 lessons stand on student books (114
+  134 lessons stand on student books (114
   student-book placements) — each such lesson's
   `lesson/sources.md` carries "**Acceptance count: taught
   in 1 country (Dominican Republic) — this lesson stands on a student
   book.**"
-- **Teacher guides are evidence only.** 39 lessons
-  stand on teacher guides alone (45 teacher-guide
+- **Teacher guides are evidence only.** 44 lessons
+  stand on teacher guides alone (51 teacher-guide
   placements, every one marked TEACHER in the filing) —
   each such lesson's `lesson/sources.md` carries
   "**Acceptance count: taught in 0 countries — this
@@ -236,28 +239,21 @@ read books, RECORD-ONLY — UNREAD for Book 10.
 
 ## Every gap, label and named-not-placed item, carried exactly as filed
 
-- **UNREAD book — Book 10, the Grade 8 (2.° Secundaria)
-  teacher guide — RECORD-ONLY, a phantom push, as
-  filed:** the record is marked pushed but the file is
-  absent from the tree, from every Release and from
-  disk, recorded as a library debt in the filing's group
-  log. Routes tried, as filed: (1) `grab.py tree` on the
-  census path — HTTP 404 (the first reader's GRABFAIL
-  marker); (2) GitHub Releases API census of every
-  release — no asset for this book exists in any release
-  (the other 17 books of the series are all present as
-  assets); (3) phase3-staging on disk — the grade-08
-  Dominican Republic folder exists but is empty; (4) the
-  recorded Google Drive source — returns a sign-in page
-  (login route, not used); (5) MINERD Educando portal
-  direct PDF — the host returns an empty reply from this
-  network, including with a browser user-agent and
-  HTTP/1.1; (6) Wayback Machine — no snapshot of the
-  portal PDF. Tally: 0 placements. Its student book
-  (Book 9) is read and placed, so the grade's teaching
-  is not lost; Level 5 simply has no teacher-guide
-  lessons. This course names the book as not yet in the
-  course and pretends to none of its content.
+- **Book 10 — the Grade 8 (2.° Secundaria) teacher
+  guide — the phantom, closed 2026-11-25:** as first
+  filed this book was RECORD-ONLY — UNREAD, a phantom
+  push: the record marked pushed but the file absent
+  from the tree, from every Release and from disk,
+  recorded as a library debt in the filing's group log
+  (the routes tried as first filed are kept in Book
+  10's entry above). On 2026-11-25 it was fetched via
+  the live browser from libroabierto.do, staged in
+  phase3-staging under its census path, and read in
+  full: 6 placements, stocked at Level 5 (and the
+  shared teacher doctrine at Level 2). No book in this
+  course's filing remains unread, and no lesson
+  pretends to any content beyond the eighteen read
+  books.
 - **Constitutional annexes — inventory only, as filed:**
   the teacher guides' closing annexes reproduce
   constitutional text as a teacher reference; in every
@@ -275,7 +271,7 @@ read books, RECORD-ONLY — UNREAD for Book 10.
   filing places it in each later guide as the single
   placement "The Shared Teacher Doctrine" — stocked here
   exactly as filed, as one lesson whose parts are the
-  seven later guides' front-matter placements. The
+  eight later guides' front-matter placements. The
   Actores clave (key actors) table is likewise placed
   once, at the Grade 7 guide (Book 8), though later
   guides repeat it, as their verdicts state.
@@ -295,7 +291,8 @@ read books, RECORD-ONLY — UNREAD for Book 10.
   byte size verified against the asset size, PDF deleted
   after extraction), as its header states. This build
   itself downloaded and staged nothing (DISK HOLD in
-  force).
+  force); the only later fetch is Book 10's, in the
+  2026-11-25 repair (see its entry above).
 - **Titles and ISBNs exactly as printed, as filed:** the
   Grade 11 and Grade 12 books' titles as printed read
   "Educación Moral, Ética y Ciudadana" (without
@@ -306,7 +303,10 @@ read books, RECORD-ONLY — UNREAD for Book 10.
   as printed), as their headers state; the Grade 4
   student book (ISBN 978-9945-28-164-4), the Grade 4
   teacher guide (ISBN 978-9945-28-173-6), the Grade 12
-  student book (ISBN 978-9945-28-172-9) and the Grade 12
+  student book (ISBN 978-9945-28-172-9), the Grade 8
+  teacher guide (ISBN 978-9945-28-177-4 — the repaired
+  Book 10, whose record title carried no ISBN) and the
+  Grade 12
   teacher guide (ISBN 978-9945-28-181-1) carry printed
   ISBNs, and the other teacher guides' headers print no
   ISBN — none is invented here.

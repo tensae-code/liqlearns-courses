@@ -34,7 +34,7 @@ Paper and a pencil. Nothing else — the lesson is worked from the learner's own
 
 ## If the learner is stuck
 - Go back to the one thing: The impact of environmental pollution in the Dominican Republic and in other countries of the world, compared. Work the Do it first act again, slowly, and name each step aloud.
-- This lesson's next door: the next lesson in path order — Human Rights Governance and Democracy.
+- This lesson's next door: the next lesson in path order — Orientations for Rights, Values and Participation.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

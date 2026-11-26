@@ -1061,7 +1061,7 @@ sources, as provenance.
   programmes or UNREAD books in the filing). See
   `china/ABOUT.md` for the full book list and the
   acceptance reckoning.
-- **Dominican Republic** — [`dominican-republic/`](dominican-republic/) · 129 lessons: Levels
+- **Dominican Republic** — [`dominican-republic/`](dominican-republic/) · 134 lessons: Levels
   1–9 — "my country, my house" (society, nation, State and
   government, the social democratic State of rights, the
   symbols, living together though different), the
@@ -1093,12 +1093,13 @@ sources, as provenance.
   Dominican Republic's *Educación Moral, Cívica y Ética
   Ciudadana* Libro Abierto Serie 1 guides for Grades
   4–6 of Primary and 1°–6° of Secondary (MINERD, Spanish;
-  159 placements, 129 lessons — 114 placements on the
-  nine student books, 45 on the eight read teacher
-  guides, all seventeen read books COMPLETE as filed;
-  the Grade 8 teacher guide is RECORD-ONLY, UNREAD — a
-  phantom push absent from the tree, every Release and
-  disk). See `dominican-republic/ABOUT.md` for the full
+  165 placements, 134 lessons — 114 placements on the
+  nine student books, 51 on the nine read teacher
+  guides, all eighteen read books COMPLETE as filed
+  (the Grade 8 teacher guide was a phantom push as
+  first filed — RECORD-ONLY, UNREAD — and was fetched
+  via libroabierto.do, staged and read on 2026-11-25).
+  See `dominican-republic/ABOUT.md` for the full
   book list and the acceptance reckoning.
 - **Nicaragua** — [`nicaragua/`](nicaragua/) · 175 lessons: Levels
   1–8 — living together begins (myself, my manners, my
