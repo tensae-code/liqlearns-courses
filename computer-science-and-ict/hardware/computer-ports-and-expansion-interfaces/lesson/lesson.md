@@ -10,11 +10,15 @@ Inside the system unit, the motherboard offers **expansion interfaces** — slot
 
 In your mind's eye: expansion interfaces — connections inside the box.
 
+[Picture 45170 — expansion interfaces — connections inside the box]
+
 ## Sub lesson 2 — Ports and storage interfaces — connections at the edge
 
 At the case's edge stand the **ports**: **USB**, the universal port for nearly everything; the older **serial** and **parallel** ports; **FireWire** and **Thunderbolt**, the fast ports for video and drives; and **HDMI**, carrying picture and sound to a screen in one cable. Inside, the disks connect by their own interfaces: **PATA**, the older parallel ribbon, replaced by **SATA**, the serial interface of modern drives. Mongolia's engineering point: every generation of connection is a trade of speed, width and simplicity — read a machine's ports and you read its age and its possibilities.
 
 In your mind's eye: ports and storage interfaces — connections at the edge.
+
+[Picture 45171 — ports and storage interfaces — connections at the edge]
 
 ## Say it to your companion
 

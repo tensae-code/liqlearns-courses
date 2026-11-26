@@ -10,11 +10,15 @@ An **equipment audit** lists every digital device in a place: phones, computers,
 
 In your mind's eye: the audit — count everything.
 
+[Picture 45176 — the audit — count everything]
+
 ## Sub lesson 2 — What the count shows
 
 A finished audit shows more than a number: how many devices **work**, how many are **kept “just in case”**, how many duplicate the same job, and how old the fleet is. Those four views turn a pile into decisions — repair, share, pass on, recycle — and give the class's environmental discussion its facts: the cost of digital life is not an abstraction; it is this list, in this room.
 
 In your mind's eye: what the count shows.
+
+[Picture 45177 — what the count shows]
 
 ## Say it to your companion
 

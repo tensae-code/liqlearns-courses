@@ -10,11 +10,15 @@ A **combinational circuit's** output depends **only on the inputs it holds now**
 
 In your mind's eye: combinational circuits — the answer from today's inputs.
 
+[Picture 45168 — combinational circuits — the answer from today's inputs]
+
 ## Sub lesson 2 — Sequential circuits — circuits with memory
 
 A **sequential circuit's** output depends on its inputs **and on what it remembers** — its stored state. Its atom is the **flip-flop**: a circuit holding **one bit**, set and reset by its inputs, keeping its bit until told to change — memory made of gates. Chained and clocked, flip-flops become **counters** (counting pulses in binary, each flip-flop a place) and the registers of later chapters. The chapter's test for any circuit is now one question: does it remember? Combinational answers; sequential answers *and* remembers.
 
 In your mind's eye: sequential circuits — circuits with memory.
+
+[Picture 45169 — sequential circuits — circuits with memory]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ An **oscillator** is the circuit that makes **clock pulses**. A **clock signal**
 
 In your mind's eye: oscillators and clock signals.
 
+[Picture 45166 — oscillators and clock signals]
+
 ## Sub lesson 2 — Timing inside integrated circuits
 
 Inside an integrated circuit, the parts act **in step with the clock signal**, each **clock cycle** (one full pulse period) moving data on. **More pulses per second means a faster clock.** Parts must share the timing so that **data moves between them correctly** — in a computer, the clock coordinates the processor and the other circuits.
 
 In your mind's eye: timing inside integrated circuits.
+
+[Picture 45167 — timing inside integrated circuits]
 
 ## Say it to your companion
 

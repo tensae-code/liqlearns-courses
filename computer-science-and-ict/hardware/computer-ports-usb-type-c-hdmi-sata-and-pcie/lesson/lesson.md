@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Computer Ports, with USB port an
 
 In your mind's eye: computer Ports, with USB port and USB versions table, Type-C port, HDMI port, SATA port, PCI Express port.
 
+[Picture 45172 — computer ports — USB, Type-C, HDMI, SATA and PCIe]
+
 ## Sub lesson 2 — Doing it — Computer Ports USB Type C HDMI SATA and PCIe in practice
 
 **Doing it — Computer Ports USB Type C HDMI SATA and PCIe in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Computer Ports USB Type C HDMI SATA and PCIe in practice.
+
+[Picture 45173 — computer ports in practice]
 
 ## Say it to your companion
 

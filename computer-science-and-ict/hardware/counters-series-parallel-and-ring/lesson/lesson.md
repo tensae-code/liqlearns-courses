@@ -10,6 +10,8 @@ Wire three T flip-flops in a chain — call their outputs C, B, A from last to f
 
 In your mind's eye: three T flip-flops chained output-to-clock, with the eight states 000 to 111 written under successive pulses and the wrap back to 000 shown as a curved arrow.
 
+[Picture 45174 — a series counter — three T flip-flops in a chain]
+
 The book's name for this wiring is the **series counter**; its other name tells its weakness — **asynchronous**, or ripple, counter. The pulse does not reach all stages at once: the change *ripples* down the chain, stage by stage, each flip-flop answering a little after the one before. For a few stages nobody notices; for a long chain the last stage settles measurably late, and for a brief moment during each ripple the outputs spell wrong intermediate numbers. Simple and cheap — but speed-limited. That is the trade the next wiring fixes.
 
 ## Sub lesson 2 — Parallel counters and ring counters
@@ -17,6 +19,8 @@ The book's name for this wiring is the **series counter**; its other name tells 
 The **parallel counter** — better named the **synchronous counter** — removes the ripple by one decision: *every* flip-flop receives the **same clock**, the pulse line itself. All stages that must change, change together, in one instant, so the outputs never spell a wrong in-between number, and the counter can run as fast as a single flip-flop can. What decides whether a stage toggles on a given pulse? The counting rule itself: a stage flips exactly when all the stages below it are 1 (that is what makes binary count: the twos place changes only as the ones place falls from 1 to 0 through its carry). Small AND gates watch the lower outputs and arm each stage's toggle — a little more wiring than the ripple chain, buying clean speed. Ripple or parallel: same sequence, same modulus 2ⁿ — the difference is entirely in *when* each stage hears the tick.
 
 In your mind's eye: a parallel counter with one clock line running to every flip-flop and small AND gates watching the lower outputs, beside a ring counter drawn as a circle of flip-flops with a single 1 travelling round it.
+
+[Picture 45175 — parallel and ring counters]
 
 The **ring counter** is a different creature: take a shift register, close it into a loop by feeding its last output back into its first input, and start it with **exactly one 1** among 0s. Each pulse shifts the pattern round, so the single 1 circulates: 1000, 0100, 0010, 0001, 1000 again. Four flip-flops give only **four states** — compare the binary counter's sixteen from the same four cells. Why accept so few? Because the ring counter's state needs **no decoding**: exactly one output is active in each state, and that output *is* the answer — the third pulse is simply the moment output 3 stands at 1. Where a machine steps through n actions in turn — first this, then that, then the next — the ring counter hands each action its own private wire, already decoded. Few states, zero translation: another honest trade, and the book teaches all three counters as exactly that — three points on the scale between simple, fast and direct.
 

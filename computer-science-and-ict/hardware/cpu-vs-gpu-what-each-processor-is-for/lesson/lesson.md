@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Difference between GPU and CPU
 
 In your mind's eye: , Difference between GPU and CPU Architecture box.
 
+[Picture 45178 — CPU vs GPU — the architecture difference]
+
 ## Sub lesson 2 — Doing it — CPU vs GPU What Each Processor Is for in practice
 
 **Doing it — CPU vs GPU What Each Processor Is for in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — CPU vs GPU What Each Processor Is for in practice.
+
+[Picture 45179 — CPU vs GPU in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Choosing well means comparing **criteria — specifications** — against the wo
 
 In your mind's eye: criteria for choosing.
 
+[Picture 45164 — criteria for choosing]
+
 ## Sub lesson 2 — Comparing the smart device and the computer
 
 The book **compares the smart device and the computer** directly: what they share (processor, memory, storage, operating system) and where they differ (size, battery, how they are carried and used). The buyer who can read both specification lists with the same criteria can choose either device well — and say why.
 
 In your mind's eye: comparing the smart device and the computer.
+
+[Picture 45165 — comparing the smart device and the computer]
 
 ## Say it to your companion
 
