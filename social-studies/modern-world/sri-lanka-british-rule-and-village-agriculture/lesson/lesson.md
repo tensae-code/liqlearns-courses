@@ -10,6 +10,8 @@ Peasant farming declines as land and labour flow to the estates, until restored 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40490 — villagethins]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: What British rule did to the village economy — peasant farming declines as land and labour flow to the estates, until restored tanks, an irrigation department and cooperatives try to lift it again. Then let your companion ask you one hard question about it — answer from the lesson.

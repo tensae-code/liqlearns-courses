@@ -10,6 +10,8 @@ a priest rings the bell at Dolores and dies; Bolívar's first republics fall to 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40497 — bellrings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.4 Start of emancipation in Spanish America, first stage 1808–1815: Mexico's Hidalgo and Morelos; Venezuela's Miranda and Bolívar, first and second republics, causes of failure — a priest rings the bell at Dolores and dies; Bolívar's first republics fall to royalist reaction — emancipation's first wave breaks. Then let your companion ask you one hard question about it — answer from the lesson.

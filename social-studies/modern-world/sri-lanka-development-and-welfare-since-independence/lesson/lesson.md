@@ -10,6 +10,8 @@ Free education and health spread, D. S. Senanayake's Gal Oya scheme of 1949 revi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40484 — tanksbecomehydro]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Development and social welfare after independence — free education and health spread, D. S. Senanayake's Gal Oya scheme of 1949 revives the dry zone, and the Mahaweli programme with the Victoria dam carries the old tank civilisation into the age of hydro-power. Then let your companion ask you one hard question about it — answer from the lesson.

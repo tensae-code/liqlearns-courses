@@ -10,6 +10,8 @@ The Land Raad gives villagers cheap justice, and clerks write every family, fiel
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40482 — thombo]
+
 ## Sub lesson 2 — Dutch administration, economy and culture
 
 The class collects what the Dutch left behind — words, clothes, foods, furniture, new port towns — and exhibits them as a wall paper

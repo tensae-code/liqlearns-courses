@@ -10,6 +10,8 @@ Universal suffrage brings ministers who answer to voters: C. W. W. Kannangara ma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40491 — malariabeaten]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Economic and social change after 1931 — universal suffrage brings ministers who answer to voters: C. W. W. Kannangara makes education free in 1945, malaria is beaten back by 1946 with new sprays, death rates fall and the population surges. Then let your companion ask you one hard question about it — answer from the lesson.

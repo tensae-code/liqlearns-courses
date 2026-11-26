@@ -10,6 +10,8 @@ Spanish conquest overwhelms the indigenous societies of America, Costa Rica's in
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 40495 — wardiseasealliance]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La conquista española en el continente americano — Spanish conquest overwhelms the indigenous societies of America, Costa Rica's included, by war, disease and alliance. Then let your companion ask you one hard question about it — answer from the lesson.

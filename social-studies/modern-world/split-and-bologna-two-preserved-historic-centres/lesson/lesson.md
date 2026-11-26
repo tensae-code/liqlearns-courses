@@ -10,6 +10,8 @@ Diocletian's palace becomes a living city in Split, while Bologna pioneers savin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40492 — centresalive]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 7.3 (foreign examples): The historic centres of Split and Bologna — Diocletian's palace becomes a living city in Split, while Bologna pioneers saving a whole centre with its people inside. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The 1931 constitution abolishes communal seats, gives every adult the vote — a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40483 — everyadultvotes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Donoughmore reforms — the 1931 constitution abolishes communal seats, gives every adult the vote — a first in Asia — and runs the island through a State Council of executive committees. Then let your companion ask you one hard question about it — answer from the lesson.

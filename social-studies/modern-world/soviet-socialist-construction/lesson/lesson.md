@@ -10,11 +10,15 @@ the USSR industrialises at breakneck speed under five-year plans, building Magni
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40504 — magnitogorsk]
+
 ## Sub lesson 2 — Soviet socialist practice
 
 war communism, the NEP retreat, then Stalin's five-year plans and collectivisation industrialise a peasant empire at terrible cost
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40503 — threestages]
 
 ## Say it to your companion
 

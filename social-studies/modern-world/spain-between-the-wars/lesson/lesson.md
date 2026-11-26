@@ -10,17 +10,23 @@ Spain swings from monarchy to republic and then into a civil war that becomes Eu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40501 — theswing]
+
 ## Sub lesson 2 — §24 Spain in the interwar period
 
 monarchy, republic, civil war — Spain becomes Europe's rehearsal for 1939
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40500 — monarchyrepublic]
+
 ## Sub lesson 3 — §7.4 (Spain part) How did the "Popular Front" resist in Spain?
 
 Spain's Popular Front victory triggers the generals' revolt and civil war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40499 — ballotrevolt]
 
 ## Say it to your companion
 

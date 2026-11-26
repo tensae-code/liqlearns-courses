@@ -10,17 +10,23 @@ A costly colony is investigated in 1833, the coast and Kandy are united under on
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40487 — oneadministration]
+
 ## Sub lesson 2 — Constitutional reforms and the independence movement (competency level 5.1)
 
 Groups complete one great table — year, reform, legislature, members, changes — marching from Colebrooke 1833 through Donoughmore to Soulbury, so parliament is seen as a gradual evolution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40486 — greatreftable]
+
 ## Sub lesson 3 — Development of the constitutional system
 
 From the 1833 Colebrooke–Cameron settlement the book walks each reform forward, constitution by constitution, toward 1948
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40485 — constitutionsteps]
 
 ## Say it to your companion
 

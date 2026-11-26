@@ -10,6 +10,8 @@ Chief Justice Alexander Johnston's advice wins Tamil and Sinhala officials equal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40488 — equalstanding]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Law and the road to 1815 — Chief Justice Alexander Johnston's advice wins Tamil and Sinhala officials equal standing, the 1810 Judicial Charter reforms the courts, and Governor Brownrigg (1812–1820) inherits a coast ready to swallow Kandy. Then let your companion ask you one hard question about it — answer from the lesson.

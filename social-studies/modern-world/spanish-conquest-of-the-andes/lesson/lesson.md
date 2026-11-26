@@ -10,6 +10,8 @@ The invasion reaches the Inca world; adelantados found cities and then fight eac
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40493 — invasioninca]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Invasión europea al Abya Yala — The invasion reaches the Inca world; adelantados found cities and then fight each other — Almagro against Pizarro's men — over the spoils. Then let your companion ask you one hard question about it — answer from the lesson.

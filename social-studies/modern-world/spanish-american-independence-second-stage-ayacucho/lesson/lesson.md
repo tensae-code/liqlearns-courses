@@ -10,6 +10,8 @@ two liberating armies cross the Andes from north and south, meet at Guayaquil, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40496 — twoarmies]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.5 Second stage: Mexico's independence; Bolívar the Liberator's battles; San Martín and the southern campaign; Guayaquil meeting; Junín and Ayacucho — two liberating armies cross the Andes from north and south, meet at Guayaquil, and end Spanish rule at Ayacucho in 1824. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Spain's Italian possessions stagnate under viceroys and plague (Milan 1630, in t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40498 — savoyrises]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 6, Cap. 19 §§2–3 The crisis of the Spanish empire and of Italy; The other Italian states — Spain's Italian possessions stagnate under viceroys and plague (Milan 1630, in the Documents) while Savoy alone manoeuvres upward. Then let your companion ask you one hard question about it — answer from the lesson.

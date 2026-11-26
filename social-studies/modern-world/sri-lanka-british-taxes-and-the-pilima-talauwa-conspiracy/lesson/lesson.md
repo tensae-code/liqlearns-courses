@@ -10,6 +10,8 @@ New taxes on everything from toddy to salt bite the coast, the Company–Crown d
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40489 — taxestwocrowns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Taxes, the double government and the first conspiracy — new taxes on everything from toddy to salt bite the coast, the Company–Crown double government fails by 1802, and chief Pilima Talauwa's plot with Governor North opens the road to Kandy. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -16,6 +16,8 @@ Soviet press campaigns discredit Romania; the Tatarbunary rising of September 19
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40505 — campaignspact]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 18: Relațiile sovieto-române între 1918 și 1940 — Lenin renounces Bessarabia he cannot hold; the 1924 Vienna conference fails, and the Romanian Treasure, evacuated to allied Russia in 1916, becomes the hostage of the whole relationship. Tema 14: Relațiile româno-sovietice în perioada interbelică — Soviet press campaigns discredit Romania; the Tatarbunary rising of September 1924 is the local explosion, and in August 1939 Moscow negotiates with Berlin while the western military delegations are still in town. Then let your companion ask you one hard question about it — answer from the lesson.
