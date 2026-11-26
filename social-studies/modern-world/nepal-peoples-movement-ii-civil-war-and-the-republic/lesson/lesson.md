@@ -10,11 +10,15 @@ multiparty democracy returns, then the Maoist armed conflict begins in 2052 BS, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41059 — accordafterwar]
+
 ## Sub lesson 2 — The Political Event-Chain from 2063 BS to 2079 BS
 
 the constituent assembly elections, the declaration of the federal democratic republic, the long constitution-writing, and the 2072 BS constitution — the lesson closes the chain from monarchy to federal republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41058 — chaintoconstitution]
 
 ## Say it to your companion
 

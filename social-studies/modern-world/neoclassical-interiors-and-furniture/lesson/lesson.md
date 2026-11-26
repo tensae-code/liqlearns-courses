@@ -10,6 +10,8 @@ Pompeii's excavation straightens the line — French and British furniture retur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41073 — pompeiistraightens]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 10: Neoclassicism — Pompeii's excavation straightens the line — French and British furniture returns to the antique. Then let your companion ask you one hard question about it — answer from the lesson.

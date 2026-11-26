@@ -10,11 +10,15 @@ Lenin retreats from war communism to the NEP's mixed economy, and the Soviet rep
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41072 — retreatunion1922]
+
 ## Sub lesson 2 — §9 From war communism to the NEP; the formation of the USSR
 
 Lenin's retreat to a mixed economy, then the republics are bound into the USSR
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41071 — mixedeconomybound]
 
 ## Say it to your companion
 

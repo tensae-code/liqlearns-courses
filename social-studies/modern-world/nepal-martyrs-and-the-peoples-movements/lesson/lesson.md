@@ -10,17 +10,23 @@ under 104 years of Rana rule Shukraraj, Gangalal, Dharmabhakta and Dasharath Cha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41063 — fallineveryera]
+
 ## Sub lesson 2 — Search of Martyrs and Respect
 
 at a Magh 16 programme Shanti garlands Sagar Singh, martyred in Lalitpur in 2046 BS; Lakhan Thapa is named Nepal's first martyr, Shahid Gate in Kathmandu honours the four, and pupils must research martyrs of their own district from newspapers and elders
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41062 — garlandsatgate]
+
 ## Sub lesson 3 — Our Brave Martyrs — Introduction and Contribution
 
 the guide builds the martyrs' lives and contributions with pictures, charts and documentary film — Lakhan Thapa, first martyr, and the four of 1997 BS, Shukraraj Shastri, Dharmabhakta Mathema, Gangalal Shrestha and Dasharath Chand, executed for opposing the Ranas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41061 — firstmartyrsfive]
 
 ## Say it to your companion
 

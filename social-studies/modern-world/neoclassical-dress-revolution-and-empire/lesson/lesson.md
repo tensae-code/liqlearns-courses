@@ -10,6 +10,8 @@ revolutionaries drop the wig and knee-breeches for trousers and a white muslin '
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41074 — wigstogold]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 4: Classicism and Neoclassicism in dress — revolutionaries drop the wig and knee-breeches for trousers and a white muslin 'Greek' dress; Napoleon re-gilds the silhouette as Empire style. Then let your companion ask you one hard question about it — answer from the lesson.

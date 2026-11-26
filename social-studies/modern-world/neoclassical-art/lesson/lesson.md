@@ -10,6 +10,8 @@ David paints Roman virtue for a revolutionary age and marble order returns acros
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41075 — davidvirtue]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 12: Neoclassicism — David paints Roman virtue for a revolutionary age and marble order returns across Europe. Then let your companion ask you one hard question about it — answer from the lesson.

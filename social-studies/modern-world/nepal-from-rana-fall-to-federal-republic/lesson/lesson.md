@@ -10,11 +10,15 @@ a dated timeline runs from the fall of the Ranas and democracy's birth on 7 Falg
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41068 — fallto2072]
+
 ## Sub lesson 2 — Social and Economic Achievements, 2007 BS to the Present
 
 the same timeline is re-read as gains — Nepal Rastra Bank and planned development from 2013 BS, schools and Tribhuvan University, roads, radio, telephone, television and internet, and after 2046 BS private banks and industry — showing how political change changed daily life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41067 — gainstimeline]
 
 ## Sub lesson 3 — The Democratic Republic and Its Achievements
 
@@ -22,17 +26,23 @@ pupils chart what the democratic republic (Loktantrik Ganatantra) brought and hu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41066 — crownvsballot]
+
 ## Sub lesson 4 — The Revolution of 2007 BS and the Delhi Compromise
 
 after 104 years of Rana rule, the Nepali Congress launches an armed revolution in 2006 BS; the four martyrs of 1997 BS are remembered, King Tribhuvan shelters in the Indian embassy and flies to Delhi, and the Delhi Compromise of Falgun 2007 BS ends Rana rule and promises a constituent assembly
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41065 — delhicompromise]
+
 ## Sub lesson 5 — A Decade of the Democratic System (2007–2017 BS)
 
 the decade after the revolution brings parties, the first elections of 2015 BS and B. P. Koirala's elected government — and ends when King Mahendra dismisses it, so the lesson weighs what democracy achieved and why it fell
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41064 — electedthendismissed]
 
 ## Say it to your companion
 

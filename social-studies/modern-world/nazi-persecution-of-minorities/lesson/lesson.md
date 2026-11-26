@@ -10,17 +10,23 @@ A ladder of races with 'Aryans' on top and Jews at the bottom turns prejudice in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41078 — ladderalie]
+
 ## Sub lesson 2 — 13.2 The persecution of the Jews
 
 Boycott (1933), the Nuremberg Laws stripping citizenship (1935) and Kristallnacht's smashed shops and synagogues (1938) drive Jews from German life step by legal step.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41077 — lawbylawout]
+
 ## Sub lesson 3 — 13.3 The treatment of minorities
 
 Roma, gay men, disabled people and the 'asocial' are registered, sterilised, camped or killed as 'burdens on the community' unfit for the Volksgemeinschaft.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41076 — registeredremembered]
 
 ## Say it to your companion
 

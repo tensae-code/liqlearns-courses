@@ -22,17 +22,23 @@ Gleichschaltung brings states, unions and parties into line through 1933 — uni
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41081 — broughtintoline]
+
 ## Sub lesson 4 — 7.4 The importance of the Night of the Long Knives
 
 On 30 June 1934 Hitler purges Röhm and the SA leadership who wanted a 'second revolution', murdering old comrades to buy the army's loyalty.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41080 — comradesmurdered]
+
 ## Sub lesson 5 — 7.5 The support of the army
 
 When Hindenburg dies in August 1934 the army swears its oath to Hitler personally, and he merges Chancellor and President as Führer — the dictatorship is complete.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41079 — officesmerge1934]
 
 ## Say it to your companion
 
