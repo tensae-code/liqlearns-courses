@@ -10,17 +10,23 @@ vase-painters grow rich painting myth and daily life, children included, as blac
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60265 — black-figure to red-figure]
+
 ## Sub lesson 2 — Ch. 8 Archaic art exercises
 
 picture study follows archaic painters from myth scenes to daily life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60266 — picture study of a vase]
+
 ## Sub lesson 3 — Ch. D10 Art (Archaic)
 
 kouroi smile, temples rise in stone, and vase-painting moves from pattern to people
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60267 — a kouros and a stone temple]
 
 ## Say it to your companion
 

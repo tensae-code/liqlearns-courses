@@ -12,6 +12,8 @@ Older peoples had already vanished: the book names the lost peoples Tasm and Jad
 
 In your mind's eye: a camel caravan arriving at Makkah at sunset, merchants unloading goods while tents and low houses spread around the town. The student points to the caravan and says where it has come from and where its goods travel next.
 
+[Picture 60262 — no king over all Arabia]
+
 ## Sub lesson 2 — The values of the tribes
 
 A divided land still held shared values, and the book names them with pride: courage, generosity and protecting the neighbour.

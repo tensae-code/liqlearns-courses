@@ -10,6 +10,8 @@ eloquence is the Arabs' art — prose genres and poetry flourish while sculptors
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60264 — eloquence and building]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Arabia's cultural life: poetry, prose and building — eloquence is the Arabs' art — prose genres and poetry flourish while sculptors and builders raise forts, monasteries and temples. Then let your companion ask you one hard question about it — answer from the lesson.

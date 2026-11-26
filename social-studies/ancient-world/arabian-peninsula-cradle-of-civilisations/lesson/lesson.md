@@ -12,6 +12,8 @@ The book gives the peninsula three honours. It is a bridge between Egypt and Ira
 
 In your mind's eye: a desert valley in the Arabian Peninsula with carved rock inscriptions in the foreground and caravan routes stretching toward Egypt on one side and Iraq on the other. The student points to the carved rock and says what it is and why it matters.
 
+[Picture 60263 — a bridge between Egypt and Iraq]
+
 ## Sub lesson 2 — Kingdoms of the peninsula
 
 The book names the peninsula's early peoples and kingdoms: 'Ad, Thamud, Madyan, al-Maqar, Dadan, the Nabataeans and Kinda.

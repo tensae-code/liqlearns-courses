@@ -10,6 +10,8 @@ Painting, sculpture and calligraphy renew themselves in every place and age to c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60278 — calligraphy and painted tiles]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Art and calligraphy in Islamic Syria. Then let your companion ask you one hard question about it — answer from the lesson.

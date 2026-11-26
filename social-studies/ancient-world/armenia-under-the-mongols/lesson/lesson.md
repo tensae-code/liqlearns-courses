@@ -10,6 +10,8 @@ Mongol armies shatter the Zakaryan world; princes like Hasan Jalal bargain for s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60273 — the khans come]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §1.3 Armenia before new civilisational challenges: the Mongol invasions — Mongol armies shatter the Zakaryan world; princes like Hasan Jalal bargain for survival under the khans. Then let your companion ask you one hard question about it — answer from the lesson.

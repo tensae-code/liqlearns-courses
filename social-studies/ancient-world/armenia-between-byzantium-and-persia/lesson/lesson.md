@@ -10,11 +10,15 @@ two empires carve Armenia between wars and treaties, and Armenians serve, resist
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60271 — carved between two empires]
+
 ## Sub lesson 2 — 5.3 The Arab Caliphate's domination in Armenia
 
 Arab armies take the country in the 7th century, and Armenia lives under caliphs through tribute, revolts and uneasy treaties
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60272 — under the caliphs]
 
 ## Say it to your companion
 

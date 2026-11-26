@@ -18,17 +18,23 @@ Hereditary kingdoms (Ma'in, Saba and Himyar in Yemen, the Munadhira in Iraq, Nab
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60259 — kingdoms beside sheikhdoms]
+
 ## Sub lesson 3 — Unit 4 Lesson 2: Abraha and the Battle of Dhi Qar
 
 Abraha's attempt on Mecca in the Year of the Elephant fails, and around 610 CE the Arab tribes unite and beat Persia at Dhi Qar after the Persians kill al-Nu'man, king of al-Hira — the first Arab victory over an empire (Unit 4 Lesson 2: Abraha and the Battle of Dhi Qar)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60260 — the elephant fails, Dhi Qar wins]
+
 ## Sub lesson 4 — Unit 4 Lesson 3: the Arab markets
 
 Seasonal fairs like Ukaz east of Taif mix trade with poetry contests and tribal gathering before the Hajj, so the market is Arabia's parliament and newspaper in one (Unit 4 Lesson 3: the Arab markets)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60261 — the markets' season round]
 
 ## Say it to your companion
 

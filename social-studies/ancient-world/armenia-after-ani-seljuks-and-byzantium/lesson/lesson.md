@@ -10,6 +10,8 @@ Byzantium annexes Armenia, disbands its armies and exiles its catholicos — and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60270 — the gate opened, the Seljuks enter]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §1.1 The region after the fall of Ani's Bagratuni kingdom — Byzantium annexes Armenia, disbands its armies and exiles its catholicos — and the Seljuks walk through the opened gate. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Tiridates III and Gregory the Illuminator make Armenia the first state to adopt 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60268 — Tiridates and Gregory]
+
 ## Sub lesson 2 — Teaching guidance for Theme 4, Arshakuni Armenia and the Christian turn
 
 lessons weigh why a king's conversion remade a nation, using the church's own histories as sources
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60269 — the guide weighs the conversion]
 
 ## Say it to your companion
 
