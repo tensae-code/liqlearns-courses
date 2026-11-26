@@ -10,6 +10,8 @@ Kuleshov shows the same face reads as hunger, grief or desire beside different s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63233 — one plus one is more]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Montaasi: 1+1>2 (1920-luku). Then let your companion ask you one hard question about it — answer from the lesson.

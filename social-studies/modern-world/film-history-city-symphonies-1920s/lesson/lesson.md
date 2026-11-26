@@ -10,6 +10,8 @@ Strand, Ruttmann and Vertov film Manhattan, Berlin and a man with a movie camera
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63228 — the city as hero]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Kaupunkisinfonia: Elokuvan runollinen muoto (1920-luku). Then let your companion ask you one hard question about it — answer from the lesson.

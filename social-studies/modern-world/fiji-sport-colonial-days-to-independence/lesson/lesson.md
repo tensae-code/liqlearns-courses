@@ -10,11 +10,15 @@ Athletics, cricket (teams photographed in 1895 and 1948) and rugby (the 1952 Fij
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63225 — sport under colonial rules]
+
 ## Sub lesson 2 — Sport and recreation from independence: unifying a nation
 
 From 1970 sport takes up the role of unifying players and spectators across communities — Fiji stages world amateur golf in 1979, and Waisale Serevi dedicates the 2005 Rugby World Cup Sevens win to a nation cheering as one.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63226 — a nation cheering as one]
 
 ## Say it to your companion
 

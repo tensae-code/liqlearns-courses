@@ -10,6 +10,8 @@ Stage magician Georges Méliès turns the camera into a magic box, a jammed film
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63231 — the camera as magic box]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Elokuvan magiaa: Liikkuvan kuvan attraktio (1900-luvun alku). Then let your companion ask you one hard question about it — answer from the lesson.

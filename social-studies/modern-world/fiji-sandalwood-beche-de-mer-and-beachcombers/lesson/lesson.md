@@ -10,6 +10,8 @@ Europeans rush in for sandalwood, Fijians trade it eagerly for tabua, iron and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63224 — sandalwood and muskets]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Early European contact: sandalwood trade, Charles Savage, beche-de-mer. Then let your companion ask you one hard question about it — answer from the lesson.

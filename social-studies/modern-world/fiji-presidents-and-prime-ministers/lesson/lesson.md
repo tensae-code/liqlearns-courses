@@ -18,6 +18,8 @@ A dated table of Fiji's leaders runs through Qarase (2001-2006), Senilagakali an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63222 — continuity and change]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.5 Leaders in our communities; 2.2 Continuity and Change: leaders of the Pacific / Fiji's prime ministers list. Then let your companion ask you one hard question about it — answer from the lesson.

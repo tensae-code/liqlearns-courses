@@ -10,6 +10,8 @@ Against separation, examples of dissent and protest accumulate, and attempts to 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63223 — dissent becomes nationalism]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dissent, protest and nationalism. Then let your companion ask you one hard question about it — answer from the lesson.

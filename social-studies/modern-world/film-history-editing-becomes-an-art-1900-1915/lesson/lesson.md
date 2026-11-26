@@ -10,6 +10,8 @@ Smith cuts a kiss in a tunnel to a passing train, Porter stages the Great Train 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63229 — films own grammar]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Elokuvaleikkaus: Elokuvasta itsenäinen taiteenmuoto (1900–1915). Then let your companion ask you one hard question about it — answer from the lesson.

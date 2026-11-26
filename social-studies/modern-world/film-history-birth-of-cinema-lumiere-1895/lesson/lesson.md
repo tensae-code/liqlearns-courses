@@ -10,6 +10,8 @@ The Lumière brothers light their cinematograph in a Paris café on 28 Dec 1895,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63227 — cinema is born 1895]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Elokuvan synty: Rajaus ja representaatio (1895). Then let your companion ask you one hard question about it — answer from the lesson.

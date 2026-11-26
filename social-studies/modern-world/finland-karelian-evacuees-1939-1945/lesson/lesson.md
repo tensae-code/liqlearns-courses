@@ -10,11 +10,15 @@ After the Winter War Finland cedes about a tenth of its land and 420,000 Karelia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63240 — 420000 leave home]
+
 ## Sub lesson 2 — Tehtävä 1 (yläkoulu): letter from Säkylä, 26 Feb 1941
 
 A Karelian front-line soldier writes that locals in his new home village abuse the evacuees with an ethnic slur, and asks whether law and decency no longer rule in the land he fought for.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63241 — a soldiers letter 1941]
 
 ## Sub lesson 3 — Tehtävä 2 (yläkoulu): letter from Rovaniemi, 27 Feb 1941
 
@@ -22,11 +26,15 @@ A poor evacuee who has hunted three months for a home asks who the much-praised 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63242 — who are the gift houses for]
+
 ## Sub lesson 4 — Tehtävä 3 (yläkoulu): letter from Suonenjoki, 20 Sep 1941
 
 A poor evacuee family in one tiny stove-room watches its rent climb from under 100 to 150 marks as the rich landlord passes his cession tax onto them, with no rent board to appeal to.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63243 — rent climbs no appeal]
 
 ## Sub lesson 5 — Tehtävä 4 (lukio): letter from Oulu, 21 Apr 1941
 
@@ -34,11 +42,15 @@ A reservist corporal from Pitkäranta, who lost everything he owned, is refused 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63244 — refused an advance]
+
 ## Sub lesson 6 — Tehtävä 5 (lukio): letters from Säkylä (1941) and Reposaari, 17 Oct 1944, with the Laukko crofter eviction of 1906–07 as comparison
 
 A family in Kangasala is bundled into a kitchen corner while spare rooms stand empty, officials give no help, and pupils compare the evacuees' lot with the crofter families evicted into the frost at Laukko a generation earlier.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63245 — a kitchen corner]
 
 ## Sub lesson 7 — Tehtävä 6 (lukio): a 1944 letter and Jahvetti's office's reply (Kauhava letter)
 
