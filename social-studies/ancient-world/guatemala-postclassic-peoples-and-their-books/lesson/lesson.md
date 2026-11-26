@@ -10,6 +10,8 @@ After the great Classic cities fall, Guatemala's Grade 4 book turns to the Postc
 
 In your mind's eye: highland kingdom towns in the mountains, with scribes holding folded books. Name Q'umarkaj and Iximche' and one of the books.
 
+[Picture 60798 — kingdoms and their books]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): After the collapse — kingdoms and their own books. Then let your companion ask you one hard question about it — answer from the lesson.

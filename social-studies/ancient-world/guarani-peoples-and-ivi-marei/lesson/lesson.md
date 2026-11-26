@@ -10,11 +10,15 @@ The Guaraní seek Ivy Marei, the Land Without Evil; their tenta communities are 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60796 — land without evil]
+
 ## Sub lesson 2 — Año 2: Los Guaraníes
 
 Teacher-compendium unit on the Guaraní, same arc as the student text (Año 2: Los Guaraníes)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60797 — the tenta communities]
 
 ## Say it to your companion
 

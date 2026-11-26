@@ -10,6 +10,8 @@ The gulf sits between the old world's continents, so dilmun in bahrain ships cop
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60799 — the gulf between worlds]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: dilmun, tarut, hili and magan — the gulf between worlds. Then let your companion ask you one hard question about it — answer from the lesson.

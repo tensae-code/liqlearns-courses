@@ -10,17 +10,23 @@ Greek boys train body and mind in schools whose names our own schools still carr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60793 — gymnasium lyceum academy]
+
 ## Sub lesson 2 — §26 Education and science in ancient Greece
 
 Greek schools, Euclid and Archimedes lay the tracks of European science
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60794 — euclid and archimedes]
+
 ## Sub lesson 3 — §27 Gymnasia, lyceums and academies (lesson plan)
 
 Greek schooling is compared with the pupils' own
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60795 — their school and ours]
 
 ## Say it to your companion
 

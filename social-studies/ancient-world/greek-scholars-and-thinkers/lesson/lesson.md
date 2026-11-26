@@ -10,6 +10,8 @@ Herodotus writes history, Socrates questions, Plato and Aristotle build systems,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60792 — scholars and thinkers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§33–34 The scholars and thinkers of Ancient Greece — Herodotus writes history, Socrates questions, Plato and Aristotle build systems, Archimedes measures the world. Then let your companion ask you one hard question about it — answer from the lesson.

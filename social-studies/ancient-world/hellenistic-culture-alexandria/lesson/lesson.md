@@ -10,6 +10,8 @@ Alexander's cities fuse Greek and conquered cultures; Alexandria's Pharos lighth
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60802 — alexandria pharos library]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea III, Lecția 7: Cultura elenistică — Alexander's cities fuse Greek and conquered cultures; Alexandria's Pharos lighthouse, Museum and Library crown the blend, and Archimedes' screws and levers move the world. Then let your companion ask you one hard question about it — answer from the lesson.

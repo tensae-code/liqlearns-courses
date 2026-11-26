@@ -42,11 +42,15 @@ close observation of a geometric vase turns decoration into evidence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60787 — read a vase as evidence]
+
 ## Sub lesson 6 — Ch. 9 Letters exercises
 
 an acrostic spells out the great poet — archaic literature learned by wordplay
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60788 — acrostic for homer]
 
 ## Sub lesson 7 — Ch. C2 The cultural rebirth
 
@@ -54,11 +58,15 @@ the alphabet returns, Homer's epics are written down, and the first Olympic Game
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60789 — the greek revival]
+
 ## Sub lesson 8 — Ch. D9 Letters (Archaic)
 
 lyric poets, the first philosophers and early historians turn the borrowed alphabet into Greek literature
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60790 — alphabet becomes literature]
 
 ## Say it to your companion
 

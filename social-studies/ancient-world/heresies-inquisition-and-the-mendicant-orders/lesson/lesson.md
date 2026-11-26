@@ -10,11 +10,15 @@ Waldensians and Cathars preach poverty against a rich Church and meet the Inquis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60807 — poverty preached two answers]
+
 ## Sub lesson 2 — Gli ordini mendicanti (with the heresy and inquisitor dossiers)
 
 Francis' rule (DOC) and Dominic's preachers answer the cities' new poverty and heresy; the Church replies with both embrace and inquisition
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60808 — the begging friars]
 
 ## Say it to your companion
 

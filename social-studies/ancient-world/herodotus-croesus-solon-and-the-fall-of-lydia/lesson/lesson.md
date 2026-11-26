@@ -10,6 +10,8 @@ Solon warns the richest king to call no man happy before his end; Croesus, deaf 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60809 — solon warns croesus]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Book I, Unit 2 Croesus and Solon; the novella of Adrastus — Solon warns the richest king to call no man happy before his end; Croesus, deaf to it, loses his son Atys to Adrastus's spear. Then let your companion ask you one hard question about it — answer from the lesson.

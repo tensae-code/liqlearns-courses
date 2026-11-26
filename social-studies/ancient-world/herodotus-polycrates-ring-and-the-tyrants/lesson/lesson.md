@@ -10,6 +10,8 @@ Amasis warns the too-lucky tyrant of Samos; Polycrates throws his ring into the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60810 — the ring comes back]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Book III, Unit 7 The ring of Polycrates — Amasis warns the too-lucky tyrant of Samos; Polycrates throws his ring into the sea, a fish returns it, and his fortune turns to a Persian cross. Then let your companion ask you one hard question about it — answer from the lesson.

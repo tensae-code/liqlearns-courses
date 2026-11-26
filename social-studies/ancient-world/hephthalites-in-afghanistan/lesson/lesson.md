@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: as Kushan power fades 
 as Kushan power fades and the Sasanians rise in the west, the Hephthalites become the strong state over ancient Afghanistan, leaving their coins and the Surya statue of Kabul's Khair Khana
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60803 — coins and surya]
 ## Sub lesson 2 — Lesson 19: The Hephthalite empire
 
 the Hephthalites succeed the Kidarites as the strong state over the land
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60804 — a new power succeeds]
 
 ## Say it to your companion
 
