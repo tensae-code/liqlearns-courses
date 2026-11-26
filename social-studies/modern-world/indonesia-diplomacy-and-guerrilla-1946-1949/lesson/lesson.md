@@ -10,6 +10,8 @@ At the table Linggarjati (1946) and Renville (1948) shrink the Republic, Dutch a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63696 — table and guerrilla]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 1.C Perjuangan Diplomasi dan Gerilya. Then let your companion ask you one hard question about it — answer from the lesson.

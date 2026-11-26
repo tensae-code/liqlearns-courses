@@ -10,11 +10,15 @@ The Cultuurstelsel forces Javanese villages to grow sugar, coffee and tobacco fo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63693 — forced to grow for export]
+
 ## Sub lesson 2 — Bab I.C.3 Dominasi Pemerintahan Kolonial Belanda
 
 Restored Dutch dominance rests on the Tanam Paksa cultivation system, whose burdens on Javanese villages the chapter documents as the colonial state's engine.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63694 — the colonial engine]
 
 ## Say it to your companion
 

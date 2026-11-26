@@ -10,11 +10,15 @@ STOVIA students found Budi Utomo, Sarekat Islam masses gather at Kaliwungu, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63690 — organisation the new weapon]
+
 ## Sub lesson 2 — Bab 3.B Perjuangan Organisasi Pergerakan Kebangsaan
 
 The movement organises in every key — early associations, religious organisations, youth and women's organisations, labour unions, the PKI, and Taman Siswa's schools.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63691 — in every key]
 
 ## Say it to your companion
 

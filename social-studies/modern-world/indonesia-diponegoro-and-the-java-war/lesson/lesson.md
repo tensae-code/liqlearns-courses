@@ -10,17 +10,23 @@ Raden Saleh's painting of the capture of Diponegoro is read as a source on the e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63697 — a painting as a source]
+
 ## Sub lesson 2 — Bab I.B
 
 Raden Saleh's canvas of Diponegoro's capture closes the five-year Java War, the last great princely resistance before the colonial state hardens.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63698 — the last great princely resistance]
+
 ## Sub lesson 3 — Bab 2.B.4 Perang Diponegoro
 
 The prince's five-year guerrilla war bleeds Java and the colonial treasury before his capture under a flag of negotiation.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63699 — taken under a flag of talks]
 
 ## Say it to your companion
 

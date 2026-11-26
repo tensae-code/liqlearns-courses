@@ -10,6 +10,8 @@ Around Lake Toba, the priest-king Sisingamangaraja XII sustains Batak resistance
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63686 — the priest king holds out]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 2.B.8 Perang Batak. Then let your companion ask you one hard question about it — answer from the lesson.

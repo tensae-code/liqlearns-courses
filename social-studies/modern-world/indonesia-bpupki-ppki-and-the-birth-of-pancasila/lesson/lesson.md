@@ -10,6 +10,8 @@ Working inside Japan's own institutions, Indonesians train in PETA, and in the B
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63688 — pancasila is spoken]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab III.D Strategi Bangsa Indonesia Menghadapi Tirani Jepang. Then let your companion ask you one hard question about it — answer from the lesson.

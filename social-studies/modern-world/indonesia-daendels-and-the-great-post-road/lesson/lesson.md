@@ -10,6 +10,8 @@ Sent by the Batavian Republic to hold Java against Britain, Governor-General Dae
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63695 — a road built by forced labour]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab I.C.1 Masa Pemerintahan Republik Bataaf. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Colonial schools — STOVIA's medical students, the Kartini schools, Padang Panj
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63692 — schools that ended the colony]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab I.C. Then let your companion ask you one hard question about it — answer from the lesson.

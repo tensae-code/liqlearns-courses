@@ -10,6 +10,8 @@ three centuries from VOC traders to the Dutch East Indies (1799) and the Cultiva
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63701 — three centuries to a nation]
+
 ## Sub lesson 2 — History Ch. 3 Lesson 1, Indonesia
 
 17,508 islands and 300 peoples (185 million in 1990) were ruled as one colony from the VOC's 17th-century factories to the Dutch East Indies — the largest country of the region made by empire (History Ch. 3 Lesson 1, Indonesia)

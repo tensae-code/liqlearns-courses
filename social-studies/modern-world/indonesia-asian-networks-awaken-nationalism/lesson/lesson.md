@@ -10,6 +10,8 @@ Hajj pilgrims in batik sarongs, Nawawi al-Bantani's Qur'an commentary written in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63680 — wired into asias awakening]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab II.A Kebangkitan Nasionalisme dan Interkoneksi Bangsa-Bangsa Asia. Then let your companion ask you one hard question about it — answer from the lesson.

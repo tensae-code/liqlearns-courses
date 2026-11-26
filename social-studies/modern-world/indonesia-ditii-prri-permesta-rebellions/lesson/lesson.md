@@ -10,6 +10,8 @@ Kartosuwiryo's Darul Islam/TII proclaims an Islamic state, and Sumatra's PRRI wi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63700 — fighting for its map]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 2.C Ketidakseimbangan Relasi Pusat dan Daerah serta Ancaman Disintegrasi. Then let your companion ask you one hard question about it — answer from the lesson.

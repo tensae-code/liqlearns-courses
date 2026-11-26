@@ -10,6 +10,8 @@ Britain takes Java in 1811 and Raffles's five-year interregnum interrupts Dutch 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63689 — five british years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab I.C.2 Perkembangan Kolonialisme Inggris di Indonesia. Then let your companion ask you one hard question about it — answer from the lesson.

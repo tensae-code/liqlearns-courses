@@ -10,11 +10,15 @@ Banten tears itself apart in the 1682-84 war between Sultan Ageng and his son Su
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63684 — a father a son a treaty]
+
 ## Sub lesson 2 — Bab 2.A.4 Perlawanan Banten
 
 Banten resists company encroachment until succession war and treaty deliver it to the VOC.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63685 — delivered by treaty]
 
 ## Say it to your companion
 
