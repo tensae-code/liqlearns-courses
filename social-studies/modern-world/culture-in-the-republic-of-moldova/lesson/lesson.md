@@ -10,11 +10,15 @@ independence reopens the theatres — Guguță puppet theatre founded in 1992 �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62977 — theatres reopen]
+
 ## Sub lesson 2 — Tema 55: Cultura şi ştiinţa în Republica Moldova
 
 science is proclaimed a national strategic priority; historic churches at Orhei are rebuilt, universities multiply, and O-Zone and Zdob și Zdub carry Moldovan pop and rock to the world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62978 — pop to the world]
 
 ## Say it to your companion
 

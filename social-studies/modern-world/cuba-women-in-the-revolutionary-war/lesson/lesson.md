@@ -10,6 +10,8 @@ women carry messages and arms, nurse, teach in liberated zones and fight in the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62958 — the mariana grajales platoon]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.5 Women's presence in the revolutionary struggle — women carry messages and arms, nurse, teach in liberated zones and fight in the Mariana Grajales platoon. Then let your companion ask you one hard question about it — answer from the lesson.

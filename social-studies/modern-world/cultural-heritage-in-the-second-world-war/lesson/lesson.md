@@ -10,6 +10,8 @@ bombed cities, looted museums and burned libraries teach the world the price of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62966 — the price of no rules]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 2.3: The Second World War and the destruction of cultural goods — bombed cities, looted museums and burned libraries teach the world the price of having no rules. Then let your companion ask you one hard question about it — answer from the lesson.

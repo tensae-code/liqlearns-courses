@@ -10,6 +10,8 @@ women sew flags, carry messages, nurse and fight; mothers give their sons to the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62959 — into the manigua]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.7 Courage and patriotism of the Cuban woman in the war — women sew flags, carry messages, nurse and fight; mothers give their sons to the war and follow the columns into the manigua. Then let your companion ask you one hard question about it — answer from the lesson.

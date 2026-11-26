@@ -10,11 +10,15 @@ annexed Bessarabia gets a new cultural ambience — imperial schools under unive
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62975 — chisinau rebuilt]
+
 ## Sub lesson 2 — §52: Cultura în Basarabia sub dominaţia ţaristă (1812–1918)
 
 annexed Bessarabia keeps its own culture on a secularising path; religious books and folklore lead, Bănulescu-Bodoni builds its church life, and Bessarabians feed the empire's science
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62976 — its own culture kept]
 
 ## Say it to your companion
 

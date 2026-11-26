@@ -10,11 +10,15 @@ Ureche, Costin, Cantemir and Cantacuzino found Romanian historiography; primers 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62979 — founding historiography]
+
 ## Sub lesson 2 — §50: Evoluţia culturii Ţărilor Române în secolele XVII–XVIII
 
 over 300 printed titles appear in 18th-century Moldavia and Wallachia; boyars hire foreign tutors for Greek, French and German, and Cantemir's learning wins European renown
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62980 — 300 printed titles]
 
 ## Say it to your companion
 

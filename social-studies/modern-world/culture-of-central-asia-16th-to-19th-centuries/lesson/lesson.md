@@ -10,6 +10,8 @@ madrasas, poets and miniaturists keep learning alive in the khanates, and 19th-c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62981 — learning in the khanates]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 35. The culture of Central Asia in the 16th–18th centuries and 36. Representatives of culture of the 19th century — madrasas, poets and miniaturists keep learning alive in the khanates, and 19th-century enlighteners begin asking why the homeland is falling behind. Then let your companion ask you one hard question about it — answer from the lesson.

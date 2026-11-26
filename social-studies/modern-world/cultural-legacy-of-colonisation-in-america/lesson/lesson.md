@@ -10,6 +10,8 @@ Catholicism, Castilian Spanish, the patriarchal family, Spanish-style cities and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62967 — colonisations legacy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Elementos culturales de la colonización a finales del siglo XVII — Catholicism, Castilian Spanish, the patriarchal family, Spanish-style cities and mestizaje itself remain as colonisation's cultural legacy in America. Then let your companion ask you one hard question about it — answer from the lesson.

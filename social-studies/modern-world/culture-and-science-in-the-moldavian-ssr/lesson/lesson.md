@@ -10,11 +10,15 @@ education becomes an instrument of ideology under censorship, yet the Ablov chem
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62968 — joc dances abroad]
+
 ## Sub lesson 2 — Tema 37: Politica conducerii sovietice din RSSM în domeniul culturii şi ştiinţei
 
 the doctrine of a separate Moldavian people and language returns; Russian becomes the lingua franca, Romanian-speaking teachers are lacking so courses run in Russian, and of 14 exhibitions in 1952–53 only five show authentic local artists
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62969 — five of fourteen]
 
 ## Say it to your companion
 

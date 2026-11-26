@@ -10,6 +10,8 @@ universities, academies and exchanges carry cooperation into knowledge itself, b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62965 — binding peoples]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 1 §3: cultural and scientific-educational cooperation — universities, academies and exchanges carry cooperation into knowledge itself, binding peoples who trade nothing else. Then let your companion ask you one hard question about it — answer from the lesson.
