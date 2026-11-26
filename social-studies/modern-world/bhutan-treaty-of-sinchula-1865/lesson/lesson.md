@@ -10,11 +10,15 @@ on 11 November 1865 Bhutan permanently cedes all the Duars — a fifth of its te
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62377 — a fifth of the land ceded]
+
 ## Sub lesson 2 — Chapter Two, Desi Jigme Namgyel: Restoring Stability in Relations with British India
 
 the Sinchula settlement is re-read through the man who fought the war and then rebuilt the relationship, reopening Bhutan's southern trade after 1865 (Chapter Two, Desi Jigme Namgyel: Restoring Stability in Relations with British India)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62378 — rebuilding after sinchula]
 
 ## Say it to your companion
 

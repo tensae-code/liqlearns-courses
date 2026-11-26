@@ -10,6 +10,8 @@ born at Ralung in Tibet in 1594 as the Drukpa lineage holder, Ngawang Namgyal en
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62381 — one rule begins 1616]
+
 ## Sub lesson 2 — Chapter Two, Dispute over Incarnation of Kunkhen Pema Karpo / Turning the Horse Southward
 
 enthroned at Ralung as Pema Karpo's incarnation, the young Zhabdrung is challenged by a rival claimant backed by the Tsangpa ruler, refuses to surrender the Rangjung Kharsapani relic, dreams of a raven leading him south, and flees toward Bhutan (Chapter Two, Dispute over Incarnation of Kunkhen Pema Karpo / Turning the Horse Southward)

@@ -10,6 +10,8 @@ when his two oldest friends, the Thimphu and Punakha dzongpons, plot his assassi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62379 — strife ended 1886]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Five, Battle of Changlingmithang: End of Internal Strife — when his two oldest friends, the Thimphu and Punakha dzongpons, plot his assassination in 1885, Ugyen Wangchuck takes Punakha and Semtokha, fights in person at Changlimithang as his line wavers, and by 1886 ends armed internal strife for good. Then let your companion ask you one hard question about it — answer from the lesson.

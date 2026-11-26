@@ -10,6 +10,8 @@ crowned at Punakha on 14 March 1927, the second King steadies the five-year-old 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62372 — steadying the monarchy]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Two, Druk Gyalpo Jigme Wangchuck — crowned at Punakha on 14 March 1927, the second King steadies the five-year-old monarchy, upgrades the Bumthang and Haa schools, brings the first doctor by 1932 and sends fifteen men to train with the Gurkha Rifles as the seed of a modern army. Then let your companion ask you one hard question about it — answer from the lesson.

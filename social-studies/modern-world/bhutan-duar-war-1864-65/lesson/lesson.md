@@ -10,6 +10,8 @@ Britain attacks in four columns in November 1864 and takes the eighteen Duars, b
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62358 — four columns a forced settlement]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Six, The Duar War — Britain attacks in four columns in November 1864 and takes the eighteen Duars, but Jigme Namgyal cuts the water at Dewathang and captures two howitzers before superior British rifles retake the forts and force a settlement. Then let your companion ask you one hard question about it — answer from the lesson.

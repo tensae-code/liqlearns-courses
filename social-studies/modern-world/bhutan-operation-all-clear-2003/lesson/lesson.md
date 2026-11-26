@@ -10,6 +10,8 @@ after talks with ULFA, NDFB and KLO militants camped in southern Bhutan fail in 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62375 — the king leads 2003]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Three, the 2003 crisis — after talks with ULFA, NDFB and KLO militants camped in southern Bhutan fail in late 2003, the King personally leads the Royal Bhutan Army in flushing them out — remembered as his selfless, self-sacrificing act for national security. Then let your companion ask you one hard question about it — answer from the lesson.

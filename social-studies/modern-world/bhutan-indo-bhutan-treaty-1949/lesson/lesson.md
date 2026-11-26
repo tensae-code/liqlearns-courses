@@ -10,6 +10,8 @@ with India independent on 15 August 1947 and the 1910 treaty's future in doubt, 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62365 — the 1949 anchor]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Two, foreign relations — with India independent on 15 August 1947 and the 1910 treaty's future in doubt, Bhutan attends the Asian Relations Conference and signs the 1949 treaty with India that anchors Indo-Bhutan relations until its 2007 revision. Then let your companion ask you one hard question about it — answer from the lesson.

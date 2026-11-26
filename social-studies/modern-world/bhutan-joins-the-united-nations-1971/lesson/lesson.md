@@ -10,6 +10,8 @@ after joining the Universal Postal Union in 1969, Bhutan, sponsored by India, ta
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62373 — a seat at the un 1971]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Three, International Relations — after joining the Universal Postal Union in 1969, Bhutan, sponsored by India, takes its seat at the United Nations on 21 September 1971, and exchanges resident representatives with India the same year. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ the Trongsa Ponlop who mediates between the Younghusband expedition and Tibet wi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62380 — diplomat and knight]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Five, Becoming of Sir Ugyen Wangchuck — the Trongsa Ponlop who mediates between the Younghusband expedition and Tibet wins the 7 September 1904 treaty at the Potala and a British knighthood (KCIE) the next year, and uses John Claude White's visit to open talk of modern development. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ a Pema Lingpa descendant born in 1825 walks to Trongsa at fifteen, rises from ga
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62368 — from retainer to ponlop]
+
 ## Sub lesson 2 — Chapter Four, Jigme Namgyel (first half)
 
 the chamberlain who twice shields Trongsa Ponlop from assassins at Punakha, wears Lama Jangchub Tsondru's raven-headed helmet — prototype of the royal crown — and in 1850 marches east to reunify the rebellious Sharchog Khorlo Tsibgye districts under Trongsa for the last time (Chapter Four, Jigme Namgyel (first half))
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62369 — the raven headed helmet]
 
 ## Say it to your companion
 

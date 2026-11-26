@@ -10,6 +10,8 @@ Nehru rides over the Himalayan passes with Indira Gandhi in September 1958, tell
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62374 — isolation begins to end]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Three, Relations with India — Nehru rides over the Himalayan passes with Indira Gandhi in September 1958, tells the crowd at Paro — in a speech the King himself translates — that India wishes Bhutan to remain independent and choose its own path, and self-imposed isolation begins to end. Then let your companion ask you one hard question about it — answer from the lesson.

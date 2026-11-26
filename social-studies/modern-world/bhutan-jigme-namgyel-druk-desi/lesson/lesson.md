@@ -10,6 +10,8 @@ the soldier-statesman's climb ends at the top of the dual system itself, as Jigm
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62367 — 51st druk desi]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Four, Becoming 51st Druk Desi — the soldier-statesman's climb ends at the top of the dual system itself, as Jigme Namgyal becomes the 51st Druk Desi, temporal head of the state his son will inherit. Then let your companion ask you one hard question about it — answer from the lesson.

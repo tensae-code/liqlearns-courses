@@ -10,6 +10,8 @@ from Trongsa, Jigme Namgyel mediates and fights his way through the Desi civil w
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62370 — the foundation laid]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Five, Trongsa Ponlop and conclusion — from Trongsa, Jigme Namgyel mediates and fights his way through the Desi civil wars, keeps the east's taxes out of Punakha's hands, and over 38 years lays the stable foundation on which the Wangchuck dynasty will stand. Then let your companion ask you one hard question about it — answer from the lesson.
