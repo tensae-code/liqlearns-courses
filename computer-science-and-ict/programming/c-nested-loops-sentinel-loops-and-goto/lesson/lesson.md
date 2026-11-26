@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **C Nested Loops Sentinel Loops an
 
 In your mind's eye: c Nested Loops Sentinel Loops and Goto.
 
+[Picture 46825 — c Nested Loops Sentinel Loops and Goto]
+
 ## Sub lesson 2 — Doing it — C Nested Loops Sentinel Loops and Goto in practice
 
 **Doing it — C Nested Loops Sentinel Loops and Goto in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — C Nested Loops Sentinel Loops and Goto in practice.
+
+[Picture 46826 — doing it — C Nested Loops Sentinel Loops and Goto in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Data Types and §9.5.1 Data Type
 
 In your mind's eye: data Types and §9.5.1 Data Types for Integers.
 
+[Picture 46823 — data Types and §9.5.1 Data Types for Integers]
+
 ## Sub lesson 2 — Doing it — C Integer Types and Their Ranges in practice
 
 **Doing it — C Integer Types and Their Ranges in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — C Integer Types and Their Ranges in practice.
+
+[Picture 46824 — doing it — C Integer Types and Their Ranges in practice]
 
 ## Say it to your companion
 

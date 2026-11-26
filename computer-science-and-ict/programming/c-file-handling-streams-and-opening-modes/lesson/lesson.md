@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **C File Handling Streams and Open
 
 In your mind's eye: c File Handling Streams and Opening Modes.
 
+[Picture 46819 — c File Handling Streams and Opening Modes]
+
 ## Sub lesson 2 — Doing it — C File Handling Streams and Opening Modes in practice
 
 **Doing it — C File Handling Streams and Opening Modes in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — C File Handling Streams and Opening Modes in practice.
+
+[Picture 46820 — doing it — C File Handling Streams and Opening Modes in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Arithmetic Operators** — cover
 
 In your mind's eye: arithmetic Operators.
 
+[Picture 46817 — arithmetic Operators]
+
 ## Sub lesson 2 — C Expressions and Integer Division
 
 This part of Pakistan (Punjab)'s book teaches **C Expressions and Integer Division** — covering: Chapter 9 §9.7 Expression (arithmetic expressions; §9.7.1 the data type of an expression and mixed-type expressions; working with the division operator — integer division truncates, 7/2 is 3 but 7.0/2.0 is 3.5) and §9.8 Comments (single-line // and multi-line /* */). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: c Expressions and Integer Division.
+
+[Picture 46818 — c Expressions and Integer Division]
 
 ## Say it to your companion
 

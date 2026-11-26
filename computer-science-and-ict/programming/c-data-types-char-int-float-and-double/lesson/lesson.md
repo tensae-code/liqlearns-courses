@@ -10,11 +10,15 @@ The **char** type holds **one character** — one byte — stored as its code nu
 
 In your mind's eye: char and int — characters and whole numbers.
 
+[Picture 46813 — char and int — characters and whole numbers]
+
 ## Sub lesson 2 — float and double — decimals, at two precisions; and format specifiers
 
 Decimals live in **float** (single precision, four bytes, about seven trustworthy digits) and **double** (double precision, eight bytes, about fifteen) — the money, measurements and science types, chosen by how much exactness the work deserves. Each type has its **format specifier** for printf and scanf: **%d** for int, **%c** for char, **%f** for float and double in printing — the specifier is the promise the programmer makes about what is coming, and a lying specifier prints garbage from honest data. Type, declaration, specifier: the three agreements this lesson binds together.
 
 In your mind's eye: float and double — decimals, at two precisions; and format specifiers.
+
+[Picture 46814 — float and double — decimals, at two precisions; and format specifiers]
 
 ## Say it to your companion
 

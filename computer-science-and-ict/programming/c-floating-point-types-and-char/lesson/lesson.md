@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Data Types for Floating Point Nu
 
 In your mind's eye: data Types for Floating Point Numbers.
 
+[Picture 46821 — data Types for Floating Point Numbers]
+
 ## Sub lesson 2 — Doing it — C Floating Point Types and Char in practice
 
 **Doing it — C Floating Point Types and Char in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — C Floating Point Types and Char in practice.
+
+[Picture 46822 — doing it — C Floating Point Types and Char in practice]
 
 ## Say it to your companion
 

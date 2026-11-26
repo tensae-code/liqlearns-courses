@@ -10,11 +10,15 @@ A **built-in function** is a function the language itself provides: it exists be
 
 In your mind's eye: what a built-in function is — the language's own toolbox.
 
+[Picture 46811 — what a built-in function is — the language's own toolbox]
+
 ## Sub lesson 2 — Using them well — nesting, trusting, checking
 
 Built-ins compose: a result can feed the next call — `int(round(x))` — **nesting** calls inside-out. They are also **trusted but verified**: a built-in does exactly its documented job, so the programmer's duty is to call it with the right kind of argument and to know its edges (what `round` does at .5, what `int` does with text). The professional habit: reach for a built-in before writing your own — a tested tool beats a fresh invention — and read its documentation line before first use, not after the surprise.
 
 In your mind's eye: using them well — nesting, trusting, checking.
+
+[Picture 46812 — using them well — nesting, trusting, checking]
 
 ## Say it to your companion
 
