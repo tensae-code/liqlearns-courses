@@ -58,11 +58,15 @@ on the Talas river Turks and Arabs break China's westward march — paper-making
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61219 — atlakh summer 751]
+
 ## Sub lesson 8 — §10 The Oghuz state (late 9th–early 11th c.)
 
 the Oghuz yabghu state rises on the Syr Darya and Aral steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61220 — the oghuz yabghu state]
 
 ## Sub lesson 9 — §11 The Kimak Khaganate (9th–early 11th c.)
 
@@ -70,11 +74,15 @@ the Kimaks rule the Irtysh steppe with towns, herds and river trade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61221 — the irtysh khaganate]
+
 ## Sub lesson 10 — §12 The military art of the Turks
 
 mounted archery and feigned retreat make Turkic armies feared on two continents
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61222 — archery and the feigned retreat]
 
 ## Sub lesson 11 — §13 The traditional economy of the nomads
 
@@ -82,11 +90,15 @@ seasonal herding is systematised as the steppe's productive order
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61223 — the steppes productive order]
+
 ## Sub lesson 12 — §14 The Turks' worldview
 
 Tengri the sky god, Umai and the earth-water spirits order the Turkic cosmos
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61224 — tengri umai earth and water]
 
 ## Sub lesson 13 — §15 How Turkic peoples' migration shaped Eurasia's history
 
@@ -94,11 +106,15 @@ Turkic migrations redraw the peoples' map from Siberia to Anatolia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61225 — siberia to anatolia]
+
 ## Sub lesson 14 — §2 The Turkic Khaganate, 552–603 (lesson plan)
 
 Bumin's founding is staged as the first lesson of the khaganate arc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61226 — the lesson the founding]
 
 ## Sub lesson 15 — §3 The Western Turkic Khaganate, 603–704 (lesson plan)
 
@@ -106,11 +122,15 @@ the West's khagans rule Semirechye and the Silk Road gates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61227 — the lesson the west]
+
 ## Sub lesson 16 — §4 The Eastern Turkic Khaganate (lesson plan)
 
 the East's khagans face China across the Orkhon steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61228 — the lesson the east]
 
 ## Sub lesson 17 — §5 The Second Eastern Turkic Khaganate (lesson plan)
 
@@ -118,11 +138,15 @@ Bilge Khagan and Kultegin restore the eastern empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61229 — the lesson the restoration]
+
 ## Sub lesson 18 — §6 Old Turkic writing (lesson plan)
 
 runic inscriptions are deciphered in class as primary sources
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61230 — the lesson reading the runes]
 
 ## Sub lesson 19 — §7 The Turgesh Khaganate (lesson plan)
 
@@ -130,11 +154,15 @@ Turgesh resistance to the Arab advance anchors the lesson
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61231 — the lesson the resistance]
+
 ## Sub lesson 20 — §8 The Atlakh Battle, summer 751 (lesson plan)
 
 the Talas battle is reconstructed from Arab, Chinese and Turkic sides
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61232 — the lesson three sides at talas]
 
 ## Sub lesson 21 — §9 Karluk power in the Great Steppe, 756–942 (lesson plan)
 
@@ -142,11 +170,15 @@ the Karluks inherit the south-eastern steppe in the lesson arc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61233 — the lesson karluk power]
+
 ## Sub lesson 22 — §10 The Oghuz state, late 9th–early 11th c. (lesson plan)
 
 the Oghuz yabghu's towns and tribes fill the Syr Darya lessons
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61234 — the lesson the oghuz state]
 
 ## Sub lesson 23 — §11 The Kimak Khaganate, 9th–early 11th c. (lesson plan)
 
@@ -154,11 +186,15 @@ Kimak river towns and herds model a northern steppe state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61235 — the lesson a river state]
+
 ## Sub lesson 24 — §12 The Turks' military art (lesson plan)
 
 feigned retreat and horse-archery are drilled as case studies
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61236 — the lesson the feigned retreat]
 
 ## Sub lesson 25 — §13 Features of the nomads' traditional economy (lesson plan)
 
@@ -166,11 +202,15 @@ the seasonal herd round is modelled in the economy lessons
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61237 — the lesson the herds round]
+
 ## Sub lesson 26 — §14 The Turks' worldview features (lesson plan)
 
 Tengri, Umai and earth-water spirits structure the belief lessons
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61238 — the lesson the turkic cosmos]
 
 ## Sub lesson 27 — §15 Turkic migration's influence on Eurasia (lesson plan)
 
@@ -178,11 +218,15 @@ migration waves are mapped from Siberia to Europe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61239 — the lesson redrawing the map]
+
 ## Sub lesson 28 — §1 The Turkic Khaganate (552–603)
 
 Bumin and Istemi raise the first Turkic empire over the whole steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61240 — 552 to 603]
 
 ## Sub lesson 29 — §2 Western Turkic (603–704) and Eastern Turkic (682–744) Khaganates
 
@@ -190,11 +234,15 @@ the split empire's two halves rule, fight and revive in turn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61241 — two khaganates]
+
 ## Sub lesson 30 — §3 The Turgesh Khaganate (704–756)
 
 the Turgesh defend Semirechye against Arab and Chinese pressure
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61242 — the turgesh hold]
 
 ## Sub lesson 31 — §4 The Karluk Khaganate (756–940)
 
