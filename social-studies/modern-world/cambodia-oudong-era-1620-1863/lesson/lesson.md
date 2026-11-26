@@ -10,17 +10,23 @@ Srei Sauriyopear moves the court to Oudong (1604); Chey Chettha II marries a Vie
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62540 — the court moves to oudong]
+
 ## Sub lesson 2 — Ch. 4 Lesson 4, The capital at Oudong and the internal conflicts
 
 Oudong, 45 km from today's capital, is built as the royal city in 1625 (photo: Phnom Oudong); kings divided by rival queens' factions invite Siam and Vietnam in, and the kingdom shrinks for two centuries (Ch. 4 Lesson 4, The capital at Oudong and the internal conflicts)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62541 — a shrinking kingdom]
+
 ## Sub lesson 3 — History Ch. 2 Lesson 4, The Oudong era (1620–1863)
 
 the usurper Sdach Korn is overthrown with Siamese help (1613); Chey Chettha II (1618–1628) moves the capital to Oudong in 1620 — and the long era of rival kings and foreign patrons begins (History Ch. 2 Lesson 4, The Oudong era (1620–1863))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62542 — rival kings foreign patrons]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Calvin builds a disciplined Geneva, Anabaptists pay for Münster with their live
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62527 — a disciplined geneva]
+
 ## Sub lesson 2 — Ginevra e Calvino; L'Europa riformata; Personaggi: Enrico VIII
 
 Calvin's Geneva disciplines a city into a model church, Anabaptists radicalise the message, and Henry VIII nationalises it — three different Reformation futures
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62528 — three different futures]
 
 ## Say it to your companion
 

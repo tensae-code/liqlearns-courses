@@ -10,17 +10,23 @@ the 1970 coup removes Sihanouk, the republic is proclaimed, and five years of ci
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62537 — five years of civil war]
+
 ## Sub lesson 2 — Ch. 2 Lesson 3, The Khmer Republic (1970–1975)
 
 the March 1970 coup removes Sihanouk; the republic fights a losing civil war — the lesson opens on the funeral of its soldiers (photo, 23 March 1973) (Ch. 2 Lesson 3, The Khmer Republic (1970–1975))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62538 — a losing civil war]
+
 ## Sub lesson 3 — History Ch. 2 Lesson 3, The Khmer Republic era (1970–1975)
 
 crisis builds through Samlaut (1967) and a 1,500-million-riel deficit (1969); Lon Nol's "national salvation government" (August 1969) precedes the 18 March 1970 vote that removes Sihanouk while he is in Moscow and Beijing (History Ch. 2 Lesson 3, The Khmer Republic era (1970–1975))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62539 — the vote 18 march 1970]
 
 ## Say it to your companion
 

@@ -18,6 +18,8 @@ Rayah status, taxes and the devshirme — Bulgarian life inside the empire's ord
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62526 — rayah taxes the devshirme]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 41: The Bulgarians in the Ottoman Empire — Taxes, faith and village life — how Bulgarians lived inside the empire for centuries; Lesson 21: The Bulgarians in the Ottoman state in the 15th–17th centuries — Rayah status, taxes and the devshirme — Bulgarian life inside the empire's order. Then let your companion ask you one hard question about it — answer from the lesson.

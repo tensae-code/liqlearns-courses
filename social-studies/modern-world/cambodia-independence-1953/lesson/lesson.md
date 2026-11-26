@@ -10,11 +10,15 @@ King Norodom Sihanouk leads the Royal Crusade and Cambodia wins full independenc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62535 — independence 9 november 1953]
+
 ## Sub lesson 2 — Appendix song 16, "The Flag of Cambodia"
 
 children sing the national flag as the sign of the independent country won in 1953 (Appendix song 16, "The Flag of Cambodia")
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62536 — the flag of cambodia]
 
 ## Say it to your companion
 

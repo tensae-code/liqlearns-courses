@@ -10,17 +10,23 @@ survivors rebuild from zero; the Paris Agreements of 23 October 1991 and UNTAC b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62543 — rebuilding from zero]
+
 ## Sub lesson 2 — Ch. 2 Lesson 5, The People's Republic of Kampuchea and the State of Cambodia (1979–1993)
 
 cadres who fled the purges (Heng Samrin, photo) found a salvation front on 2 December 1978; victory on 7 January 1979 starts the rebuilding that ends with the Paris Agreements and UNTAC (Ch. 2 Lesson 5, The People's Republic of Kampuchea and the State of Cambodia (1979–1993))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62544 — victory 7 january 1979]
+
 ## Sub lesson 3 — History Ch. 2 Lesson 5, The People's Republic of Kampuchea and the State of Cambodia (1979–1991) and the Kingdom of Cambodia 1993
 
 survivors of the purges (Heng Samrin, photo) build the resistance that wins on 7 January 1979; the lesson runs through war and embargo to the Paris Agreements and the restored kingdom (History Ch. 2 Lesson 5, The People's Republic of Kampuchea and the State of Cambodia (1979–1991) and the Kingdom of Cambodia 1993)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62545 — to the restored kingdom]
 
 ## Say it to your companion
 
