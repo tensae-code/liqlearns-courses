@@ -10,11 +10,15 @@ Measles kills a third of Fijians in 1875, the Great Council of Chiefs and sugar 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63206 — 96 years end 1970]
+
 ## Sub lesson 2 — Moving Towards Independence: constitutional changes 1904-1970
 
 Step by step the Legislative Council gains Indian members (1916), the membership system and the common-versus-communal-roll fight shape the 1963 Assembly and 1965 constitution, Alliance and Federation parties spar after 1966, and the April 1970 London conference agrees a fully sovereign independent Fiji.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63207 — step by step to london]
 
 ## Sub lesson 3 — Background to 1970 and leadership in the first ten years, 1970-1980
 
@@ -22,11 +26,15 @@ Fiji enters independence in 1970 as a multi-racial society carrying the colonial
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63208 — a multi-racial beginning]
+
 ## Sub lesson 4 — The 1970 Constitution: road to independence
 
 As in 1965, the London conference turns on representation in the House; the resulting 1970 constitution's main features and cross-voting seats carry Fiji into independence, and its first governments are surveyed.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63209 — cross-voting seats]
 
 ## Say it to your companion
 

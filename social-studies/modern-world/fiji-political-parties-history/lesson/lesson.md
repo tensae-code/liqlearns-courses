@@ -10,11 +10,15 @@ Parties form in the 1960s to contest the road to independence; Brij Lal's Broken
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63219 — parties form 1960s]
+
 ## Sub lesson 2 — Past elections table and the 2006 election
 
 A seats table runs across Fiji's elections to the 6-13 May 2006 result (SDL/United Fiji 36 seats), taking in the election that made Mahendra Chaudhry, of the Fiji Labour Party, Fiji's first Indian prime minister.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63220 — 36 seats 2006]
 
 ## Say it to your companion
 

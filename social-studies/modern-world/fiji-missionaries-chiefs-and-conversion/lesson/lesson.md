@@ -10,11 +10,15 @@ Cross and Cargill are received at Lakeba in 1835, Hunt and Lythe follow, four We
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63214 — conversion through chiefs]
+
 ## Sub lesson 2 — 4.3 Emergence of religious groups in Fiji
 
 After the Battle of Kaba in 1854 Cakobau's conversion secures Methodism's advance, cession follows in 1874, Catholic missionaries arrive, and Hinduism and Islam come with the girmitiya — Hindus and Muslims cooperating at festivals despite prejudice.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63215 — after kaba 1854]
 
 ## Say it to your companion
 

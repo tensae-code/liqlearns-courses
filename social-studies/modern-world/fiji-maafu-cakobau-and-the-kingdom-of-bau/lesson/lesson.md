@@ -10,11 +10,15 @@ Tongan prince Ma'afu arrives in 1847 and builds a power base in Lau; Cakobau ris
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63212 — king of bau 1871]
+
 ## Sub lesson 2 — Traditional government in Fiji: chiefdoms, Ma'afu and Cakobau
 
 Early Fijian society governs itself through chiefdoms; Ma'afu extends his influence even to Beqa in opposition to Cakobau, yet the Bauan kingdom leads Fiji only because of Tongan intervention, and Cakobau's Tui Viti claim outruns his real power.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63213 — a claim beyond his power]
 
 ## Say it to your companion
 

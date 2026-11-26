@@ -10,6 +10,8 @@ Children research Fiji's Presidents (Ganilau, Mara, Iloilo, Nailatikau) and Prim
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63221 — presidents and prime ministers]
+
 ## Sub lesson 2 — 2.2 Continuity and Change: leaders of the Pacific / Fiji's prime ministers list
 
 A dated table of Fiji's leaders runs through Qarase (2001-2006), Senilagakali and Bainimarama, teaching leadership change as continuity-and-change.

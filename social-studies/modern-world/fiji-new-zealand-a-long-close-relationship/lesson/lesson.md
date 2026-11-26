@@ -10,11 +10,15 @@ The Bank of New Zealand opens in Levuka in 1877; in WWI Fijians travel to join t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63217 — the origin of nadi airport]
+
 ## Sub lesson 2 — Unit 2 Topic E: Fijian rugby's New Zealand origins
 
 A Bauan learns rugby in New Zealand and returns to teach it; a Fiji Times report has the Naililili side singing "We licked them on their own ground", and Robert Dewey's research is set against the myth of Fiji rugby's origins.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63218 — rugby comes home]
 
 ## Say it to your companion
 

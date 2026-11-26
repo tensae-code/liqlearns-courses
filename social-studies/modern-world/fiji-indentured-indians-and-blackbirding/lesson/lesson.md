@@ -10,17 +10,23 @@ Governor Arthur Gordon, needing plantation labour iTaukei would not supply, has 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63203 — the leonidas 1879]
+
 ## Sub lesson 2 — The Early Sugar Industry: indentured labourers in Fiji
 
 Girmit life is marked by a broken 40-women-per-100-men quota, jealousy and fighting, and no schooling for children, until C.F. Andrews and W.W. Pearson investigate in 1915 and their report brings the system down.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63204 — the report that ended it]
+
 ## Sub lesson 3 — Indians in Fiji
 
 In 1879 Fiji changes again as Indians arrive, most enticed by honeyed promises and deceptions to sign an indenture contract — the girmitiya, not slaves, work the plantations under a pass system, and many make Fiji home.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63205 — honeyed promises]
 
 ## Say it to your companion
 

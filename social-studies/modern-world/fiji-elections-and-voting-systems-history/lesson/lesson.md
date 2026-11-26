@@ -10,6 +10,8 @@ Party politics begins in the 1960s before independence; the Alliance wins the 19
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63198 — elections as history]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Fiji's elections as history: 1972, 1977 and 2006. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Independent India (1947) at first does not press Britain over Fiji; Ratu Mara wo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63210 — talks that opened the way]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 5 Fiji and India. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The earliest iTaukei rely on their chiefs' decision-making; once the British col
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63211 — from the chiefs word to courts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Introduction: from chiefly decision-making to colonial courts. Then let your companion ask you one hard question about it — answer from the lesson.

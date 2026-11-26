@@ -10,17 +10,23 @@ Gordon arrives in 1875 to a measles epidemic that killed about a quarter of Fiji
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63199 — land locked for its owners]
+
 ## Sub lesson 2 — The development of the Native Administration since 1876
 
 From 10 October 1874 Fiji is home to peoples of different cultures; Gordon builds a separate Fijian Administration from 1876, province by province, expressly to preserve iTaukei society — pupils do a personality study of its makers.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63200 — built to preserve]
+
 ## Sub lesson 3 — Co-existence of the two administration systems; native administration after independence to 2006
 
 Gordon's system does not end at independence in 1970 — diagrams trace the Fijian Administration running beside the national parliament and councils right up to 2006.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63201 — running beside parliament]
 
 ## Say it to your companion
 
