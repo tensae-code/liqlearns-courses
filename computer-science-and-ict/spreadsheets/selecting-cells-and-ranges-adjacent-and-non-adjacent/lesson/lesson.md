@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Select a Cell and Range of Cells
 
 In your mind's eye: select a Cell and Range of Cells to Apply Formatting.
 
+[Picture 45686 — select a Cell and Range of Cells to Apply Formatting]
+
 ## Sub lesson 2 — Doing it — Selecting Cells and Ranges Adjacent and Non Adjacent in practice
 
 **Doing it — Selecting Cells and Ranges Adjacent and Non Adjacent in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Selecting Cells and Ranges Adjacent and Non Adjacent in practice.
+
+[Picture 45687 — doing it — Selecting Cells and Ranges Adjacent and Non Adjacent in practice]
 
 ## Say it to your companion
 

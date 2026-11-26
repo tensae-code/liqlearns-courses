@@ -10,11 +10,15 @@ Solver is Excel's optimiser: it changes several input cells at once, within limi
 
 In your mind's eye: solver.
 
+[Picture 45692 — solver]
+
 ## Sub lesson 2 — Solver
 
 Solver in Excel is learned by doing: the learner sets the objective cell, the variable cells Solver may change, and the constraints they must obey, then runs Solver and reads its solution The learner sets the objective cell, the variable cells Solver may change, and the constraints they must obey, then runs Solver and reads its solution Because the best answer under limits — cheapest plan, biggest output — is rarely found by trying values one at a time.
 
 In your mind's eye: solver.
+
+[Picture 45693 — solver]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ To solve by **tabulation**, the unknown takes a column of growing values; beside
 
 In your mind's eye: both sides tabulated — walking toward the meeting.
 
+[Picture 45694 — both sides tabulated — walking toward the meeting]
+
 ## Sub lesson 2 — Fractional equations and the step's size
 
 The same table solves **fractional equations** — equations whose sides carry fractions — where algebra's manipulations grow thornier: the sheet substitutes and compares exactly as before. The craftsman's choice is the **step**: walk by 1 and the meeting is passed in coarse strides; walk finer around the crossing and the meeting is cornered. Mongolia's pairing of the two spreadsheet lessons is deliberate: sequences taught the sheet to carry a rule forward; equations teach it to hunt — the same columns, aimed at a meeting instead of a growth.
 
 In your mind's eye: fractional equations and the step's size.
+
+[Picture 45695 — fractional equations and the step's size]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **sparkline** is a **tiny chart inside one cell**. It draws **one row or one c
 
 In your mind's eye: what a sparkline is, and creating one.
 
+[Picture 45698 — what a sparkline is, and creating one]
+
 ## Sub lesson 2 — Formatting sparklines and marking points
 
 A sparkline is **formatted** with its own **colours and styles** — the line or columns can change colour and weight to suit the sheet. Its **data points** can be **marked**: show the highest and lowest values (and first, last or negative points) in a different colour, so the eye lands on the extremes at once.
 
 In your mind's eye: formatting sparklines and marking points.
+
+[Picture 45699 — formatting sparklines and marking points]
 
 ## Say it to your companion
 

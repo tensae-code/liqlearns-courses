@@ -10,11 +10,15 @@ To **solve by tabulating** is to turn the word problem into a table: the quantit
 
 In your mind's eye: tabulating a word problem — the sheet as the working.
 
+[Picture 45696 — tabulating a word problem — the sheet as the working]
+
 ## Sub lesson 2 — Sequences and Fibonacci — each term from those before
 
 A **number sequence** is tabulation's natural citizen: a column where each term is built by a rule from the ones before — add a constant, multiply, alternate. The crown is the **Fibonacci sequence**: each term the sum of the two before it — 1, 1, 2, 3, 5, 8… — built in the sheet by one formula copied down, term growing out of term exactly as the rule says. The lesson's delight is scale: the fiftieth term, unthinkable by hand, costs the sheet nothing — the rule is written once, and repetition is free.
 
 In your mind's eye: sequences and Fibonacci — each term from those before.
+
+[Picture 45697 — sequences and Fibonacci — each term from those before]
 
 ## Say it to your companion
 
