@@ -10,6 +10,8 @@ the camera takes over the image; illustration must reinvent itself beside the ph
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40707 — cameratakesover]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 12: Photography and illustration — the camera takes over the image; illustration must reinvent itself beside the photograph. Then let your companion ask you one hard question about it — answer from the lesson.

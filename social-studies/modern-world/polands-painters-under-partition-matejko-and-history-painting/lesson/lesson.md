@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: one of Matejko's enormous history canvases hanging in Kraków. The student points to a whole nation's memory held in one painting.
 
+[Picture 40700 — enormouscanvas]
+
 ## Sub lesson 3 — A substitute parliament
 
 The canvases work as a substitute parliament of the imagination, teaching Poles their history when schools could not.

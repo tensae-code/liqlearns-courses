@@ -10,6 +10,8 @@ Poland is shifted west on the map after 1945 (map, p. 68) — 312,683 km², 38.5
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40703 — shiftedwest]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 Lesson 9, Poland — Poland is shifted west on the map after 1945 (map, p. 68) — 312,683 km², 38.5 million people (2006), sixteen provinces between Germany and Russia. Then let your companion ask you one hard question about it — answer from the lesson.

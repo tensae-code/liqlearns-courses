@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: wawel's arcaded courtyard and the Sigismund Chapel. The student points to the Italian forms standing in Kraków.
 
+[Picture 40699 — wawelarches]
+
 ## Sub lesson 3 — The style spreads through Poland
 
 Polish nobles' manors and town halls take up the new style — Poland's own Renaissance golden age.

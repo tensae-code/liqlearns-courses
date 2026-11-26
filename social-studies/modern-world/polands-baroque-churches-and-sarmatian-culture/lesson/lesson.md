@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Polish Baroque church and a szlachta coffin portrait in oriental dress. The student points to what is Polish and nowhere else.
 
+[Picture 40702 — sarmatianpride]
+
 ## Sub lesson 3 — A face found nowhere else
 
 Together, church and Sarmatian culture give Polish Baroque a face found nowhere else.

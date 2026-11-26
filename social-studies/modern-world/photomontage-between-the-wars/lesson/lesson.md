@@ -10,6 +10,8 @@ cut-up photographs argue politics in magazines from Berlin to Moscow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40706 — cutphotographs]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 21: Photomontage and graphic design between the two wars — cut-up photographs argue politics in magazines from Berlin to Moscow. Then let your companion ask you one hard question about it — answer from the lesson.

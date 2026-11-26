@@ -10,6 +10,8 @@ Argentina's cereal-and-beef oligarchy lost power in the early 1900s to bourgeois
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40712 — peron1946]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Peronism's rise — Argentina's cereal-and-beef oligarchy lost power in the early 1900s to bourgeoisie and proletariat; nationalist economics and labour laws followed, and in 1946 Perón reached the presidency. Then let your companion ask you one hard question about it — answer from the lesson.

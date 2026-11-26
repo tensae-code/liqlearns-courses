@@ -10,6 +10,8 @@ frightened elites seek a theory for the old order; conservatives would burn Dide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40698 — threedoctrines]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §30: Doctrinele social-politice — frightened elites seek a theory for the old order; conservatives would burn Diderot's Encyclopaedia, liberals preach spontaneous harmony, and socialism, Marxism and anarchism answer from below. Then let your companion ask you one hard question about it — answer from the lesson.

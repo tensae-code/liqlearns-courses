@@ -10,6 +10,8 @@ The UN trusteeship replaces the mandate; Australia's "New Deal" abolishes indent
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40719 — eightpointplan]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: United Nations role in Papua and New Guinea — the UN trusteeship replaces the mandate; Australia's "New Deal" abolishes indenture and compensates war damage; the 1962 Foot mission pushes native advancement against planter resistance, and Somare turns the development plans into the Eight Point Plan. Then let your companion ask you one hard question about it — answer from the lesson.

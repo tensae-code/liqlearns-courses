@@ -10,11 +10,15 @@ from the Escorial Philip rules a world empire, fights the Dutch revolt and the O
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40710 — escorialworld]
+
 ## Sub lesson 2 — L'Impero di Filippo II; La battaglia di Lepanto (Eventi); La guerra nei Paesi Bassi
 
 Philip's Spain wins Lepanto (1571) against the Ottomans and loses the northern Netherlands to revolt — one empire, two seas, opposite fates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40709 — twoseastwofates]
 
 ## Say it to your companion
 

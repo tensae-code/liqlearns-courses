@@ -10,11 +10,15 @@ the book closes by arguing humanity's shared problems — war, poverty, climate 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40715 — sharedanswers]
+
 ## Sub lesson 2 — Look out at the world, build a community of shared future for mankind
 
 pupils research one global problem and present China's proposed road — from classroom inquiry to world citizenship
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40714 — inquirycitizenship]
 
 ## Say it to your companion
 

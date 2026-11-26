@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: classicist Warsaw — a theatre, a palace and Łazienki park. The student points to a capital flowering while the state is destroyed.
 
+[Picture 40701 — floweringcapital]
+
 ## Sub lesson 3 — Flowering in the shadow
 
 The court culture flowers even as the partitions close in — in the shadow of the state's destruction.
