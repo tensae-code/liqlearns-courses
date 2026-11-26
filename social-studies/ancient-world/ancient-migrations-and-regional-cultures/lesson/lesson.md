@@ -10,6 +10,8 @@ peoples pour out of steppe and river valleys — Indo-Europeans, Huns, Turks —
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60216 — peoples pour out, cultures settle]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ancient human migrations and the forming of regional cultures — peoples pour out of steppe and river valleys — Indo-Europeans, Huns, Turks — and regional cultures crystallise where they settle. Then let your companion ask you one hard question about it — answer from the lesson.

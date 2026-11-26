@@ -10,11 +10,15 @@ the Kathmandu Valley lake drains, cow-herding Gopals from Mathura rule 500 years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60217 — the lake drains — herders, then kings]
+
 ## Sub lesson 2 — Ancient Nepal — Economic and Social Condition
 
 the guide compares the ancient dynasties' world with today — Mahispal, Gopal and Kirat kings named first and last, a society of farming, cattle, iron and copper work, temples and ancestor worship, set in a table against present-day economic life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60218 — ancient Nepal set against today]
 
 ## Say it to your companion
 

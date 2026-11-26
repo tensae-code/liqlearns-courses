@@ -10,6 +10,8 @@ Khorezm's canals and fortresses, Kangha's confederation and Davan's 'heavenly ho
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60213 — canals, a confederation, heavenly horses]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §43 Ancient Khorezm, Kangha and Davan — Khorezm's canals and fortresses, Kangha's confederation and Davan's 'heavenly horses' of Fergana — the homeland's states in their own centuries. Then let your companion ask you one hard question about it — answer from the lesson.

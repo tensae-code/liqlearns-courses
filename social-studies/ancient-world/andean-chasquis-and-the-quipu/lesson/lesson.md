@@ -10,6 +10,8 @@ Relay runners, the chasquis, carry messages along land roads, remembering them w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60227 — chasqui runners and the quipu]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: From air signals to water and land roads: chasquis and quipu — relay runners, the chasquis, carry messages along land roads, remembering them with the knotted quipu — an information system without writing. Then let your companion ask you one hard question about it — answer from the lesson.

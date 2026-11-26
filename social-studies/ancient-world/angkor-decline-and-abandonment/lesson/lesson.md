@@ -10,11 +10,15 @@ Jayavarman VIII's long reign strains the empire; Cham wars (1262) and Mongol-Yua
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60231 — strain, Cham wars, Yuan envoys]
+
 ## Sub lesson 2 — History Ch. 2 Lesson 7, The last kings and the leaving of Angkor
 
 Jayavarman VIII (1243–1296), Indravarman III (1295–1307, Zhou Daguan's host), the last inscription kings to Jayavarman IX (1327–1336) — then the court's slow road away from Angkor (History Ch. 2 Lesson 7, The last kings and the leaving of Angkor)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60232 — the last kings, then the leaving]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The Khmer empire rises, builds Angkor's temples, orders roles and everyday life,
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60230 — Angkor's temples, everyday life]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 5a: The Angkor/Khmer Empire — The Khmer empire rises, builds Angkor's temples, orders roles and everyday life, then declines — blogged by students in the research project. Then let your companion ask you one hard question about it — answer from the lesson.

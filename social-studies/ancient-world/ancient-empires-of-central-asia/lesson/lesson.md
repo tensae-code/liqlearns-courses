@@ -26,6 +26,8 @@ Central Asian powers are mapped from Kazakhstan's doorstep
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60211 — how mighty — horses, caravans, walls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §13 How mighty were Central Asia's ancient empires — on Kazakhstan's own steppe frontier, Central Asian powers rise on horses and trade routes, §13 Ancient states of Central Asia — Bactria, Sogdiana and Khwarezm flourish on Kazakhstan's southern doorstep, §13 How mighty were Central Asia's empires (lesson plan) — Central Asian powers are mapped from Kazakhstan's doorstep. Then let your companion ask you one hard question about it — answer from the lesson.

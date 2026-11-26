@@ -10,6 +10,8 @@ stone to bronze to iron, the plough and the waterwheel — each tool rewrites wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60222 — stone to bronze to iron]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ancient tools and labour — stone to bronze to iron, the plough and the waterwheel — each tool rewrites who works, how long, and who eats. Then let your companion ask you one hard question about it — answer from the lesson.

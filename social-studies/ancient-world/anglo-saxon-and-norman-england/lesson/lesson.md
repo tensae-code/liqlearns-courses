@@ -10,11 +10,15 @@ Two million people live under king, earls, thegns, ceorls and slaves, owing serv
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60233 — five ranks on a staircase]
+
 ## Sub lesson 2 — 1.2 The last years of Edward the Confessor and the succession crisis
 
 The childless Edward leans on the Godwin family he married into; Harold's embassy to Normandy and the northern rising that exiles Tostig (1065) leave the succession open.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60234 — Edward — the succession left open]
 
 ## Sub lesson 3 — 1.3 The rival claimants for the throne
 

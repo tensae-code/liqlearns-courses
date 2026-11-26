@@ -10,6 +10,8 @@ alabaster, marble and granite raise the cities — old Sanaa, Sirwah, Marib, Qar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60224 — the Marib dam and Ghumdan palace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Architectural manifestations of ancient Yemen — alabaster, marble and granite raise the cities — old Sanaa, Sirwah, Marib, Qarnaw, Shabwa, Timna, Zafar — and the palaces, Salhin at Marib, twenty-storey Ghumdan at Sanaa, Shaqir at Shabwa, Raydan at Zafar, while dams at Marib, Saada, Lahj and Yarim and carved ibex and lion reliefs show an engineering and art of their own. Then let your companion ask you one hard question about it — answer from the lesson.

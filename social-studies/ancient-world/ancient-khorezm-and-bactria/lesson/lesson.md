@@ -10,6 +10,8 @@ on the lower Amu Darya and in the south, Khorezm's fortress-oases and Bactria's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60212 — Khorezm's fortresses, Bactria's plains]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 12. Ancient Khorezm and Bactria — on the lower Amu Darya and in the south, Khorezm's fortress-oases and Bactria's rich plains become two of the homeland's first state traditions. Then let your companion ask you one hard question about it — answer from the lesson.

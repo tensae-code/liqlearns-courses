@@ -10,11 +10,15 @@ Amorites, Canaanites and Aramaeans build rival kingdoms and city-states across S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60219 — rival kingdoms between two powers]
+
 ## Sub lesson 2 — The ancient peoples of the Levant
 
 Amorites build Mari on the Euphrates; Canaanites raise walled city-kingdoms — Jericho, Megiddo, Jerusalem — each with its own king, until Assyria and Babylon swallow them all
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60220 — walled cities, each with its king]
 
 ## Say it to your companion
 
