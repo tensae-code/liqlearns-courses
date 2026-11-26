@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Adding Records Using a Form** �
 
 In your mind's eye: adding Records Using a Form.
 
+[Picture 46622 — adding Records Using a Form]
+
 ## Sub lesson 2 — Doing it — Using and Editing Forms in practice
 
 **Doing it — Using and Editing Forms in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Using and Editing Forms in practice.
+
+[Picture 46623 — doing it — Using and Editing Forms in practice]
 
 ## Say it to your companion
 

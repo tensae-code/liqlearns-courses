@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **MS-Access Application Window** �
 
 In your mind's eye: mS-Access Application Window.
 
+[Picture 46614 — mS-Access Application Window]
+
 ## Sub lesson 2 — Doing it — The Access Window and the Database Window in practice
 
 **Doing it — The Access Window and the Database Window in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The Access Window and the Database Window in practice.
+
+[Picture 46615 — doing it — The Access Window and the Database Window in practice]
 
 ## Say it to your companion
 

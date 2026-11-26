@@ -10,11 +10,15 @@ A **totals query** (switched on by the Totals button, adding the **Total row** t
 
 In your mind's eye: group By and the aggregate functions.
 
+[Picture 46618 — group By and the aggregate functions]
+
 ## Sub lesson 2 — Criteria in totals — before and after grouping
 
 Criteria steer a totals query in **two different places**, and the grid's Where marks the difference: a criterion on a detail field with Total = **Where** filters records **before** grouping (only this year's sales enter the sums); a criterion typed under an aggregate column filters **groups after** summing (only towns whose Sum exceeds 10 000 are shown). Confusing the two is the totals query's classic error — the section's careful point: the same box, two different moments in the machine's work.
 
 In your mind's eye: criteria in totals — before and after grouping.
+
+[Picture 46619 — criteria in totals — before and after grouping]
 
 ## Say it to your companion
 

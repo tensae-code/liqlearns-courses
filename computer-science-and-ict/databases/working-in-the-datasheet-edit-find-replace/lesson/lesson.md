@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Modifying a Table** — covering
 
 In your mind's eye: modifying a Table.
 
+[Picture 46628 — modifying a Table]
+
 ## Sub lesson 2 — Doing it — Working in the Datasheet Edit Find Replace in practice
 
 **Doing it — Working in the Datasheet Edit Find Replace in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Working in the Datasheet Edit Find Replace in practice.
+
+[Picture 46629 — doing it — Working in the Datasheet Edit Find Replace in practice]
 
 ## Say it to your companion
 

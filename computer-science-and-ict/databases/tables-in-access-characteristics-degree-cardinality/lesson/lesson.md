@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Tables in Access Characteristics
 
 In your mind's eye: tables in Access Characteristics Degree Cardinality.
 
+[Picture 46610 — tables in Access Characteristics Degree Cardinality]
+
 ## Sub lesson 2 — Doing it — Tables in Access Characteristics Degree Cardinality in practice
 
 **Doing it — Tables in Access Characteristics Degree Cardinality in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Tables in Access Characteristics Degree Cardinality in practice.
+
+[Picture 46611 — doing it — Tables in Access Characteristics Degree Cardinality in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **database** is information kept in an organised shape a computer can work on:
 
 In your mind's eye: a database — information with a shape.
 
+[Picture 46626 — a database — information with a shape]
+
 ## Sub lesson 2 — Why a program connects to one
 
 A program **connects** to a database when the information must **outlive the program's run** and be **shared**: the records stay on disk when the program closes, and many programs — or many users — work on the same single store instead of private copies that drift apart. Kuwait opens its final database book here because the VB year that follows is exactly this: forms and grids and reports, all of them windows onto tables that live apart from any one program.
 
 In your mind's eye: why a program connects to one.
+
+[Picture 46627 — why a program connects to one]
 
 ## Say it to your companion
 

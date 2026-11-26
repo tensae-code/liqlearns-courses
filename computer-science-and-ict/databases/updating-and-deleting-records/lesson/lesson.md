@@ -10,11 +10,15 @@ Showing data is half a database program; the other half changes it. Kuwait's Gra
 
 In your mind's eye: adding new records from the program.
 
+[Picture 46620 — adding new records from the program]
+
 ## Sub lesson 2 — Modifying and deleting — editing what exists
 
 **Modifying** begins by finding and standing on the record (the grid's skill), changing its fields on the form, and saving the change back — the store's row is rewritten with the new values. **Deleting** removes the current record from the table altogether, and Kuwait teaches it beside modifying because both are irreversible in the same way: a saved change and a deletion are facts, so the program asks and the user confirms with the record in view, never from a list half-read.
 
 In your mind's eye: modifying and deleting — editing what exists.
+
+[Picture 46621 — modifying and deleting — editing what exists]
 
 ## Say it to your companion
 

@@ -14,6 +14,8 @@ All the fields about one person or thing make a **record**: Amina's name, admiss
 
 In your mind's eye: one school record card with callouts zooming in: one letter circled as a character, the whole name underlined as a field, the whole card framed as a record.
 
+[Picture 46616 — one school record card with callouts zooming in: one letter circled as a character, the whole name underlined as a field, the whole card framed as a record]
+
 ## Sub lesson 2 — The top of the ladder — the database, and why the ladder matters
 
 The top rung is the **database** itself: not one table but a collection of **related tables**, kept together and looked after by a database management system. A school's database holds a pupils table, a teachers table and a fees table — related because a fee record points at a pupil, and a class record points at a teacher.
@@ -23,6 +25,8 @@ Why build the ladder at all? Because it is how the work gets done. You type **ch
 The ladder also warns you: put two facts in one field ("Amina, Class 4" in the Name field) and the program can no longer sort by class or search by name cleanly. One field, one fact — that discipline starts here. Kenya's Form 2 database unit teaches the hierarchy as its own step, right before learners create a database in Access.
 
 In your mind's eye: three labelled tables.
+
+[Picture 46617 — three labelled tables]
 
 ## Say it to your companion
 

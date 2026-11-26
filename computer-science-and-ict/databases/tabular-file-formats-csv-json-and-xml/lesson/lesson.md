@@ -10,11 +10,15 @@ A **spreadsheet file** — **XLSX** (Excel) or **ODS** (LibreOffice) — stores 
 
 In your mind's eye: one small table shown three ways. As a spreadsheet grid, then as the same table typed as CSV text with the header line underlined.
 
+[Picture 46612 — one small table shown three ways. As a spreadsheet grid, then as the same table typed as CSV text with the header line underlined]
+
 ## Sub lesson 2 — JSON and XML — structured text formats
 
 Sometimes values need their names attached one by one, and data must nest — a list inside an object, objects inside a list. Two text formats do this. **JSON** (JavaScript Object Notation) writes an object as braces holding **name–value pairs** — `"nom": "Awa", "annee": 2009` — and lists in square brackets; it is the language web services speak, as the programming lessons will use it. **XML** writes a **tree of elements**: each value is wrapped in a named tag — `<eleve><nom>Awa</nom><annee>2009</annee></eleve>` — with opening and closing tags nesting like the DOM tree of a web page. Both are plain text, both name every value so no header order must be remembered, and both are heavier than CSV for a simple flat table. The craft is choosing: flat table for a spreadsheet — CSV; data exchanged between programs, nested or named — JSON or XML; a document to be presented — the spreadsheet file itself.
 
 In your mind's eye: the same student written three ways. One CSV line, one JSON object, one XML element tree, the three names and years colour-matched across the three.
+
+[Picture 46613 — the same student written three ways. One CSV line, one JSON object, one XML element tree, the three names and years colour-matched across the three]
 
 ## Say it to your companion
 
