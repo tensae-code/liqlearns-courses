@@ -32,3 +32,20 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, science-skills/how-communication-technology-grew
+
+## Bangladesh growth (2026-11-25, phantom-repair wave)
+
+**Book (Bangladesh — Class 4):** *প্রাথমিক বিজ্ঞান, চতুর্থ শ্রেণি (Elementary Science, Class 4 — Bangla version)* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka. PDF pages: 110; 8,084,599 B; image-only scan, read from renders (the Bangla edition is paginated in parallel with its English twin; Bangla printed p. 15 at PDF p. 20 spot-verified). Verdict: COMPLETE. Twin relationship, as filed: this is the parallel Bangla edition of the already-read English twin (record bd03, stocked in the 2026-11-14 Bangladesh growth); the placements below correspond 1:1 to the English twin's, with the same slugs, summaries and printed pages, and no new content beyond the twin was found. The corrupt repo copy behind record bd02 was replaced by this genuine obtained copy in the 2026-11-25 phantom-repair wave. Bangladesh is already counted in this lesson through the English twin, so this parallel edition adds evidence, not a new country. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md (filed by exact reference to the twin's list at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| communication from smoke signals and drums through letters, telegraph (1832/1837), telephone (1876), radio and TV to computer and internet; recording from cave paintings through writing and the printing press to camera, CD, DVD and memory card (Bangladesh, Class 4) | Bangladesh, *Elementary Science Class 4 (Bangla)*, printed p. 90 |
+
+Placement choice, on the record: the placement filed as "how-communication-technology-grew" is stocked into this lesson, science-skills/how-communication-technology-grew, the course's lesson that teaches this thing, instead of building a duplicate lesson; the filed slug is recorded in this note.
+
+
+**Acceptance count unchanged: taught in 2 countries.** Bangladesh is already counted in this lesson through the English twin of this same book; this parallel Bangla edition adds the edition's evidence, not a new country.
+
+Bangladesh's own way — its NCTB *Elementary Science* books teach this thing at the places and in the order named in the rows above, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed; the Bangla edition carries the same teaching in Bangla, the language of the classroom it was printed for.
+
+Searchable tags: bangladesh, nctb, elementary science, bangla, science-skills how-communication-technology-grew

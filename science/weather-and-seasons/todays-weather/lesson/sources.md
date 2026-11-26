@@ -689,3 +689,45 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, weather-and-seasons/todays-weather
+
+## Bangladesh growth (2026-11-25, phantom-repair wave)
+
+**Book (Bangladesh — Class 4):** *প্রাথমিক বিজ্ঞান, চতুর্থ শ্রেণি (Elementary Science, Class 4 — Bangla version)* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka. PDF pages: 110; 8,084,599 B; image-only scan, read from renders (the Bangla edition is paginated in parallel with its English twin; Bangla printed p. 15 at PDF p. 20 spot-verified). Verdict: COMPLETE. Twin relationship, as filed: this is the parallel Bangla edition of the already-read English twin (record bd03, stocked in the 2026-11-14 Bangladesh growth); the placements below correspond 1:1 to the English twin's, with the same slugs, summaries and printed pages, and no new content beyond the twin was found. The corrupt repo copy behind record bd02 was replaced by this genuine obtained copy in the 2026-11-25 phantom-repair wave. Bangladesh is already counted in this lesson through the English twin, so this parallel edition adds evidence, not a new country. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md (filed by exact reference to the twin's list at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| weather is the state of sky and air each day; its components are sky conditions, temperature, humidity and wind; Bangladesh Met Office weather icons (Bangladesh, Class 4) | Bangladesh, *Elementary Science Class 4 (Bangla)*, printed p. 68 |
+
+**Acceptance count unchanged: taught in 31 countries.** Bangladesh is already counted in this lesson through the English twin of this same book; this parallel Bangla edition adds the edition's evidence, not a new country.
+
+Bangladesh's own way — its NCTB *Elementary Science* books teach this thing at the places and in the order named in the rows above, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed; the Bangla edition carries the same teaching in Bangla, the language of the classroom it was printed for.
+
+Searchable tags: bangladesh, nctb, elementary science, bangla, weather-and-seasons todays-weather
+
+## Nepal growth (2026-11-25, phantom-repair wave)
+
+**Book (Nepal — Grade 4):** *My Science, Health and Physical Education, Grade 4 (English Version)* (student book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre; ISBN 978-99933-717-8-6, first edition 2051 BS, revised edition 2075 BS. PDF pages: 161; 6,159,167 B; contents run Part 1 Science (printed pp. 1–85), Part 2 Health (86–124), Part 3 Physical Education (125–end). Verdict: COMPLETE. The genuine Grade 4 book — a different ISBN from the Grade 5 print previously held under this record. Part 3 (Physical Education) is record-only in the placements file — physical education, not science — and is not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| weather: the day's weather in its forms — sunshine, cloud, rain, storm (Nepal, Grade 4) | Nepal, *My Science, Health and PE Grade 4*, printed p. 58 |
+
+**Acceptance count unchanged: taught in 31 countries.** Nepal is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Nepal's own way — its CDC *My Science, Health and Physical Education* books teach this thing at the places and in the order named in the rows above, with Nepal's own examples (the Terai, the hills and the Himalaya, the pani ghatta water mill where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, cdc, my science health and physical education, weather-and-seasons todays-weather
+
+## South Sudan growth (2026-11-25, phantom-repair wave)
+
+**Book (South Sudan — Primary 3):** *Primary 3 Science — Pupil's Book* (student book) — South Sudan, Ministry of General Education and Instruction (MoGEI); foreword by Minister Deng Deng Hoc Yai, in effect from 4 February 2019. PDF pages: 93 (landscape 2-up spreads; printed pp. 1–~89); 35,693,107 B. Verdict: COMPLETE — contents list Units 1–6 ending with Unit 6 Simple Machines, matching the genuine Primary 3 Teacher's Guide already in hand unit for unit. Until now only the teacher guide's guide evidence existed for P3; the rows below are the pupil's-book placements, and they replace that guide-only P3 evidence for this lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5: weather changes (South Sudan, Primary 3) | South Sudan, *SS P3 SB*, printed p. 73 |
+
+**Acceptance count unchanged: taught in 31 countries.** South Sudan is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+South Sudan's own way — its MoGEI *Primary Science* pupil's books teach this thing at the places and in the order named in the rows above, with South Sudan's own foods and local examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: south sudan, mogei, primary science, pupils book, weather-and-seasons todays-weather

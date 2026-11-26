@@ -176,3 +176,17 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, materials air-can-be-squeezed-compressing-air-and-its-spring-back
+
+## Bangladesh growth (2026-11-25, phantom-repair wave)
+
+**Book (Bangladesh — Class 4):** *প্রাথমিক বিজ্ঞান, চতুর্থ শ্রেণি (Elementary Science, Class 4 — Bangla version)* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka. PDF pages: 110; 8,084,599 B; image-only scan, read from renders (the Bangla edition is paginated in parallel with its English twin; Bangla printed p. 15 at PDF p. 20 spot-verified). Verdict: COMPLETE. Twin relationship, as filed: this is the parallel Bangla edition of the already-read English twin (record bd03, stocked in the 2026-11-14 Bangladesh growth); the placements below correspond 1:1 to the English twin's, with the same slugs, summaries and printed pages, and no new content beyond the twin was found. The corrupt repo copy behind record bd02 was replaced by this genuine obtained copy in the 2026-11-25 phantom-repair wave. Bangladesh is already counted in this lesson through the English twin, so this parallel edition adds evidence, not a new country. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md (filed by exact reference to the twin's list at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| air pushes back against pressure (inflated vs deflated football) and air has weight (the pricked-balloon balance) (Bangladesh, Class 4) | Bangladesh, *Elementary Science Class 4 (Bangla)*, printed p. 45 |
+
+**Acceptance count unchanged: taught in 7 countries.** Bangladesh is already counted in this lesson through the English twin of this same book; this parallel Bangla edition adds the edition's evidence, not a new country.
+
+Bangladesh's own way — its NCTB *Elementary Science* books teach this thing at the places and in the order named in the rows above, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed; the Bangla edition carries the same teaching in Bangla, the language of the classroom it was printed for.
+
+Searchable tags: bangladesh, nctb, elementary science, bangla, materials air-can-be-squeezed-compressing-air-and-its-spring-back

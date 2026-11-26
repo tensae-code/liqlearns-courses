@@ -1,6 +1,6 @@
 # Sources — Fruits and seeds
 
-countries: Albania (teacher-guide evidence only), Mongolia, Seychelles, Afghanistan, Syria, Nepal
+countries: Albania (teacher-guide evidence only), Mongolia, Seychelles, Afghanistan, Syria, Nepal, South Sudan
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -86,3 +86,20 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, plants/fruits-and-seeds
+
+## South Sudan growth (2026-11-25, phantom-repair wave)
+
+**Book (South Sudan — Primary 3):** *Primary 3 Science — Pupil's Book* (student book) — South Sudan, Ministry of General Education and Instruction (MoGEI); foreword by Minister Deng Deng Hoc Yai, in effect from 4 February 2019. PDF pages: 93 (landscape 2-up spreads; printed pp. 1–~89); 35,693,107 B. Verdict: COMPLETE — contents list Units 1–6 ending with Unit 6 Simple Machines, matching the genuine Primary 3 Teacher's Guide already in hand unit for unit. Until now only the teacher guide's guide evidence existed for P3; the rows below are the pupil's-book placements, and they replace that guide-only P3 evidence for this lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2: fruits and seeds — what they are and how seeds sit inside fruits (South Sudan, Primary 3) | South Sudan, *SS P3 SB*, printed p. 41 |
+
+Placement choice, on the record: the placement filed as "fruits-and-seeds" is stocked into this lesson, plants/fruits-and-seeds, the course's lesson that teaches this thing, instead of building a duplicate lesson; the filed slug is recorded in this note.
+
+
+**Acceptance count: taught in 6 countries — South Sudan added.**
+
+South Sudan's own way — its MoGEI *Primary Science* pupil's books teach this thing at the places and in the order named in the rows above, with South Sudan's own foods and local examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: south sudan, mogei, primary science, pupils book, plants fruits-and-seeds

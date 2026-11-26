@@ -1,6 +1,6 @@
 # Sources — Kinds of infectious disease
 
-countries: Bangladesh, Nepal (teacher-guide evidence only)
+countries: Bangladesh, Nepal
 
 **Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
 
@@ -37,3 +37,20 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, keeping-healthy/kinds-of-infectious-disease
+
+## Nepal growth (2026-11-25, phantom-repair wave)
+
+**Book (Nepal — Grade 4):** *My Science, Health and Physical Education, Grade 4 (English Version)* (student book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre; ISBN 978-99933-717-8-6, first edition 2051 BS, revised edition 2075 BS. PDF pages: 161; 6,159,167 B; contents run Part 1 Science (printed pp. 1–85), Part 2 Health (86–124), Part 3 Physical Education (125–end). Verdict: COMPLETE. The genuine Grade 4 book — a different ISBN from the Grade 5 print previously held under this record. Part 3 (Physical Education) is record-only in the placements file — physical education, not science — and is not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| communicable diseases named one by one: dysentery, measles, tuberculosis, cholera, pneumonia, trachoma and polio, with precautions (same new lesson as proposed in earlier waves) (Nepal, Grade 4) | Nepal, *My Science, Health and PE Grade 4*, printed p. 104 |
+
+Placement choice, on the record: the placement filed as "kinds-of-infectious-disease" is stocked into this lesson, keeping-healthy/kinds-of-infectious-disease, the course's lesson that teaches this thing, instead of building a duplicate lesson; the filed slug is recorded in this note.
+
+
+**Acceptance count: taught in 2 countries (unchanged — Nepal's rows in this lesson are teacher-guide evidence only, counted nowhere) — Nepal added.** Nepal stood in this lesson on teacher-guide evidence only; this student book now carries it into the count.
+
+Nepal's own way — its CDC *My Science, Health and Physical Education* books teach this thing at the places and in the order named in the rows above, with Nepal's own examples (the Terai, the hills and the Himalaya, the pani ghatta water mill where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, cdc, my science health and physical education, keeping-healthy kinds-of-infectious-disease

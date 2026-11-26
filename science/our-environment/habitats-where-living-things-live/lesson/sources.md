@@ -133,3 +133,20 @@ Placement choice, on the record: the Iran placement(s) above filed as `our-envir
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, our-environment habitats-where-living-things-live
+
+## South Sudan growth (2026-11-25, phantom-repair wave)
+
+**Book (South Sudan — Primary 3):** *Primary 3 Science — Pupil's Book* (student book) — South Sudan, Ministry of General Education and Instruction (MoGEI); foreword by Minister Deng Deng Hoc Yai, in effect from 4 February 2019. PDF pages: 93 (landscape 2-up spreads; printed pp. 1–~89); 35,693,107 B. Verdict: COMPLETE — contents list Units 1–6 ending with Unit 6 Simple Machines, matching the genuine Primary 3 Teacher's Guide already in hand unit for unit. Until now only the teacher guide's guide evidence existed for P3; the rows below are the pupil's-book placements, and they replace that guide-only P3 evidence for this lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2: habitats of different plants and animals (same new lesson as proposed from the P3 Teacher's Guide) (South Sudan, Primary 3) | South Sudan, *SS P3 SB*, printed p. 28 |
+
+Placement choice, on the record: the placement filed as "habitats-where-living-things-live" is stocked into this lesson, our-environment/habitats-where-living-things-live, the course's lesson that teaches this thing, instead of building a duplicate lesson; the filed slug is recorded in this note.
+
+
+**Acceptance count unchanged: taught in 3 countries.** South Sudan is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+South Sudan's own way — its MoGEI *Primary Science* pupil's books teach this thing at the places and in the order named in the rows above, with South Sudan's own foods and local examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: south sudan, mogei, primary science, pupils book, our-environment habitats-where-living-things-live

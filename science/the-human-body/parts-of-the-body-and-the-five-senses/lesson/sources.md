@@ -1208,3 +1208,32 @@ Searchable tags: honduras, honduras science, ciencias naturales, secretaria de e
 Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, the-human-body parts-of-the-body-and-the-five-senses
+
+## Nepal growth (2026-11-25, phantom-repair wave)
+
+**Book (Nepal — Grade 4):** *My Science, Health and Physical Education, Grade 4 (English Version)* (student book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre; ISBN 978-99933-717-8-6, first edition 2051 BS, revised edition 2075 BS. PDF pages: 161; 6,159,167 B; contents run Part 1 Science (printed pp. 1–85), Part 2 Health (86–124), Part 3 Physical Education (125–end). Verdict: COMPLETE. The genuine Grade 4 book — a different ISBN from the Grade 5 print previously held under this record. Part 3 (Physical Education) is record-only in the placements file — physical education, not science — and is not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| our body: the body's parts and sense organs (Health Part, Lesson 1) (Nepal, Grade 4) | Nepal, *My Science, Health and PE Grade 4*, printed p. 86 |
+
+**Acceptance count unchanged: taught in 41 countries.** Nepal is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Nepal's own way — its CDC *My Science, Health and Physical Education* books teach this thing at the places and in the order named in the rows above, with Nepal's own examples (the Terai, the hills and the Himalaya, the pani ghatta water mill where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, cdc, my science health and physical education, the-human-body parts-of-the-body-and-the-five-senses
+
+## South Sudan growth (2026-11-25, phantom-repair wave)
+
+**Book (South Sudan — Primary 3):** *Primary 3 Science — Pupil's Book* (student book) — South Sudan, Ministry of General Education and Instruction (MoGEI); foreword by Minister Deng Deng Hoc Yai, in effect from 4 February 2019. PDF pages: 93 (landscape 2-up spreads; printed pp. 1–~89); 35,693,107 B. Verdict: COMPLETE — contents list Units 1–6 ending with Unit 6 Simple Machines, matching the genuine Primary 3 Teacher's Guide already in hand unit for unit. Until now only the teacher guide's guide evidence existed for P3; the rows below are the pupil's-book placements, and they replace that guide-only P3 evidence for this lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3: the five senses (South Sudan, Primary 3) | South Sudan, *SS P3 SB*, printed p. 44 |
+| Unit 3: investigating using our senses — sight, hearing, taste, smell and touch tested one by one (South Sudan, Primary 3) | South Sudan, *SS P3 SB*, printed p. 45 |
+
+**Acceptance count unchanged: taught in 41 countries.** South Sudan is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+South Sudan's own way — its MoGEI *Primary Science* pupil's books teach this thing at the places and in the order named in the rows above, with South Sudan's own foods and local examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: south sudan, mogei, primary science, pupils book, the-human-body parts-of-the-body-and-the-five-senses

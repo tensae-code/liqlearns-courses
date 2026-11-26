@@ -1,6 +1,6 @@
 # Sources — First aid basics
 
-countries: Fiji, Iraq, China
+countries: Fiji, Iraq, China, Bangladesh, Nepal
 
 **Book 1:** Biology for All — Year 11 (as printed: BIOLOGY FOR ALL — A New Approach to Learning Fifth Form Biology in Fiji Secondary Schools) — Fiji. Grade: 11 (Year 11 / Fifth Form) — Kind: student as verified — Repo path: grade-11/gov/fiji/biology/student/full-year.pdf (grabbed via the TSV release asset grade-11-gov-fiji-biology-student-full-year.pdf, mid-size-books-3) — Source URL (books.json): https://web.archive.org/web/20170703052914id_/http://education.gov.fj/images/TextbookResources/ECopies/YEAR%2011/BIOLOGY/BIOLOGY_ART.pdf — Byte size: 21,911,806 (books.json size_bytes: null) — PDF pages: 128 — Printed-page offset: printed p. = PDF page − 2 (title page = printed 1; content printed pp. 9–124 + back cover) — Verdict: COMPLETE — cover, copyright (Curriculum Development Unit, Ministry of Education, Fiji, 2011), preface, full contents (printed pp. 6–8), all 8 chapters, glossary (pp. 120–123) and Appendix I: biology career areas (p. 124) all present. Image-only scan — no text layer; read from 100-DPI-equivalent rendered contact sheets (60 DPI renders used, 4-up). — Structural summary: An enquiry-based rewrite of Form 5 biology, guided through the book by a bird character, Kaka, with icon-marked teacher-led discussions, complementary activities, collaborative discussions and "Probing Questions". Fiji's way throughout: local examples first — a dichotomous key to local trees (palm, mango, coconut, guava, breadfruit), scientific names of Fijian species (dakua tree, crested iguana, green turtle, giant clam), rocky-shore and coral-reef communities, coconut trees as the population example. Sequence: Ch 1 Introduction (characteristics of life MRSGREN-style, biological organisation atom→biosphere, why biology matters, careers) → Ch 2 Cells (history/cell theory, microscope types/parts/magnification, cell structure, membrane, transport, protein molecules, cell growth, mitosis vs meiosis) → Ch 3 Taxonomy (naming, five kingdoms: Monera, Protista, Fungi, Plants, Animals; dichotomous keys) → Ch 4 Plant Biology (flowering plants: roots, stems, leaves; glucose and its use; transpiration; starch test; reproduction: flowers, pollination, fertilisation, seeds, germination, dispersal, growth/development, tropisms, factors affecting flower formation, vegetative reproduction) → Ch 5 Animal Biology (digestive, circulatory incl. lymphatic, respiratory incl. cellular respiration, excretory/kidneys, skeletal & muscular, nervous & endocrine incl. sense organs and their malfunctions) → Ch 6 Ecology (populations, communities incl. a seashore community study, ecosystems, pyramids, energy flow, nutrient cycles) → Ch 7 Genetics (genes, mitosis/meiosis revision, chromosome structure, patterns of inheritance, variation, Mendel, test cross, sex determination, sex-linked traits, natural and artificial selection incl. selective breeding, in-breeding, hybridisation, genetic engineering/recombinant DNA) → Ch 8 Social Biology (human reproductive systems, family planning, personal health, malnutrition, disease and the immune system, first aid) → glossary + careers appendix. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/fiji-placements.md.
 
@@ -25,3 +25,37 @@ Placement choice, on the record (China): the China placement(s) filed as "NEW LE
 Honesty (China): Book 3 (*义务教育教科书《生物学》八年级下册 (Biology, Grade 8, Volume 2, People's Education Press, 2013)*) is a student textbook as verified in the placements — so China counts toward acceptance. It is COMPLETE as stated in its book entry above. Its library record mislabels it as "Biology (Full Year) — Grade 7"; it is filed here under the identity printed on its own cover (Grade 8, Volume 2), exactly as the placements file files it.
 
 Searchable tags: biology, fiji, first, aid, basics, iraq, china
+
+## Bangladesh growth (2026-11-25, phantom-repair wave)
+
+**Book (Bangladesh — Class 4):** *প্রাথমিক বিজ্ঞান, চতুর্থ শ্রেণি (Elementary Science, Class 4 — Bangla version)* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka. PDF pages: 110; 8,084,599 B; image-only scan, read from renders (the Bangla edition is paginated in parallel with its English twin; Bangla printed p. 15 at PDF p. 20 spot-verified). Verdict: COMPLETE. Twin relationship, as filed: this is the parallel Bangla edition of the already-read English twin (record bd03, stocked in the 2026-11-14 Bangladesh growth); the placements below correspond 1:1 to the English twin's, with the same slugs, summaries and printed pages, and no new content beyond the twin was found. The corrupt repo copy behind record bd02 was replaced by this genuine obtained copy in the 2026-11-25 phantom-repair wave. Bangladesh is already counted in this lesson through the English twin, so this parallel edition adds evidence, not a new country. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md (filed by exact reference to the twin's list at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| first aid: emergency care before medical services arrive; the rules: call for help, keep yourself safe, do not move the injured person, keep the person calm (Bangladesh, Class 4) | Bangladesh, *Elementary Science Class 4 (Bangla)*, printed p. 82 |
+
+Placement choice, on the record: the placement filed as "first-aid-basics" is stocked into this lesson, biology/first-aid-basics, the course's lesson that teaches this thing, instead of building a duplicate lesson; the filed slug is recorded in this note.
+
+
+**Acceptance count: taught in 4 countries (Fiji, Iraq, China, Bangladesh) — Bangladesh added.**
+
+Bangladesh's own way — its NCTB *Elementary Science* books teach this thing at the places and in the order named in the rows above, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed; the Bangla edition carries the same teaching in Bangla, the language of the classroom it was printed for.
+
+Searchable tags: bangladesh, nctb, elementary science, bangla, biology first-aid-basics
+
+## Nepal growth (2026-11-25, phantom-repair wave)
+
+**Book (Nepal — Grade 4):** *My Science, Health and Physical Education, Grade 4 (English Version)* (student book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre; ISBN 978-99933-717-8-6, first edition 2051 BS, revised edition 2075 BS. PDF pages: 161; 6,159,167 B; contents run Part 1 Science (printed pp. 1–85), Part 2 Health (86–124), Part 3 Physical Education (125–end). Verdict: COMPLETE. The genuine Grade 4 book — a different ISBN from the Grade 5 print previously held under this record. Part 3 (Physical Education) is record-only in the placements file — physical education, not science — and is not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| first aid: what it is, why it matters where health services are far, and first responses (same new lesson as proposed in earlier waves) (Nepal, Grade 4) | Nepal, *My Science, Health and PE Grade 4*, printed p. 114 |
+
+Placement choice, on the record: the placement filed as "first-aid-basics" is stocked into this lesson, biology/first-aid-basics, the course's lesson that teaches this thing, instead of building a duplicate lesson; the filed slug is recorded in this note.
+
+
+**Acceptance count: taught in 5 countries (Fiji, Iraq, China, Bangladesh, Nepal) — Nepal added.**
+
+Nepal's own way — its CDC *My Science, Health and Physical Education* books teach this thing at the places and in the order named in the rows above, with Nepal's own examples (the Terai, the hills and the Himalaya, the pani ghatta water mill where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, cdc, my science health and physical education, biology first-aid-basics

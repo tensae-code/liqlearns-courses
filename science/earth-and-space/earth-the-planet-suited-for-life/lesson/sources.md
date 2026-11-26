@@ -318,3 +318,17 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, earth-and-space/earth-the-planet-suited-for-life
+
+## Nepal growth (2026-11-25, phantom-repair wave)
+
+**Book (Nepal — Grade 4):** *My Science, Health and Physical Education, Grade 4 (English Version)* (student book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre; ISBN 978-99933-717-8-6, first edition 2051 BS, revised edition 2075 BS. PDF pages: 161; 6,159,167 B; contents run Part 1 Science (printed pp. 1–85), Part 2 Health (86–124), Part 3 Physical Education (125–end). Verdict: COMPLETE. The genuine Grade 4 book — a different ISBN from the Grade 5 print previously held under this record. Part 3 (Physical Education) is record-only in the placements file — physical education, not science — and is not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Earth: lithosphere, hydrosphere and atmosphere on the globe, and why life exists here (Nepal, Grade 4) | Nepal, *My Science, Health and PE Grade 4*, printed p. 69 |
+
+**Acceptance count unchanged: taught in 14 countries.** Nepal is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Nepal's own way — its CDC *My Science, Health and Physical Education* books teach this thing at the places and in the order named in the rows above, with Nepal's own examples (the Terai, the hills and the Himalaya, the pani ghatta water mill where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, cdc, my science health and physical education, earth-and-space earth-the-planet-suited-for-life

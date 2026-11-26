@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only), El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Jordan, Iran, Kazakhstan, Honduras
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Jordan, Iran, Kazakhstan, Honduras
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -782,3 +782,31 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, keeping-healthy/food-the-six-nutrients
+
+## Bangladesh growth (2026-11-25, phantom-repair wave)
+
+**Book (Bangladesh — Class 4):** *প্রাথমিক বিজ্ঞান, চতুর্থ শ্রেণি (Elementary Science, Class 4 — Bangla version)* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka. PDF pages: 110; 8,084,599 B; image-only scan, read from renders (the Bangla edition is paginated in parallel with its English twin; Bangla printed p. 15 at PDF p. 20 spot-verified). Verdict: COMPLETE. Twin relationship, as filed: this is the parallel Bangla edition of the already-read English twin (record bd03, stocked in the 2026-11-14 Bangladesh growth); the placements below correspond 1:1 to the English twin's, with the same slugs, summaries and printed pages, and no new content beyond the twin was found. The corrupt repo copy behind record bd02 was replaced by this genuine obtained copy in the 2026-11-25 phantom-repair wave. Bangladesh is already counted in this lesson through the English twin, so this parallel edition adds evidence, not a new country. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md (filed by exact reference to the twin's list at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| the nutrients in food: carbohydrates, proteins, fats, vitamins, minerals and water; proteins from plant and animal sources build and repair the body (Bangladesh, Class 4) | Bangladesh, *Elementary Science Class 4 (Bangla)*, printed p. 29 |
+
+**Acceptance count unchanged: taught in 35 countries.** Bangladesh is already counted in this lesson through the English twin of this same book; this parallel Bangla edition adds the edition's evidence, not a new country.
+
+Bangladesh's own way — its NCTB *Elementary Science* books teach this thing at the places and in the order named in the rows above, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed; the Bangla edition carries the same teaching in Bangla, the language of the classroom it was printed for.
+
+Searchable tags: bangladesh, nctb, elementary science, bangla, keeping-healthy food-the-six-nutrients
+
+## South Sudan growth (2026-11-25, phantom-repair wave)
+
+**Book (South Sudan — Primary 3):** *Primary 3 Science — Pupil's Book* (student book) — South Sudan, Ministry of General Education and Instruction (MoGEI); foreword by Minister Deng Deng Hoc Yai, in effect from 4 February 2019. PDF pages: 93 (landscape 2-up spreads; printed pp. 1–~89); 35,693,107 B. Verdict: COMPLETE — contents list Units 1–6 ending with Unit 6 Simple Machines, matching the genuine Primary 3 Teacher's Guide already in hand unit for unit. Until now only the teacher guide's guide evidence existed for P3; the rows below are the pupil's-book placements, and they replace that guide-only P3 evidence for this lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/gs-placements-f.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: foods that help the body work well (glow foods) (South Sudan, Primary 3) | South Sudan, *SS P3 SB*, printed p. 12 |
+
+**Acceptance count: taught in 36 countries — South Sudan added.** South Sudan stood in this lesson on teacher-guide evidence only; this student book now carries it into the count.
+
+South Sudan's own way — its MoGEI *Primary Science* pupil's books teach this thing at the places and in the order named in the rows above, with South Sudan's own foods and local examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: south sudan, mogei, primary science, pupils book, keeping-healthy food-the-six-nutrients
