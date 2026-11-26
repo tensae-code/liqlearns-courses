@@ -10,17 +10,23 @@ resistance comrades become enemies; three years of civil war end in 1949 and lea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63406 — comrades become enemies]
+
 ## Sub lesson 2 — The Civil War (1946–1949)
 
 the wartime split hardens into three years of war in the mountains
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63407 — war in the mountains]
+
 ## Sub lesson 3 — The Cold War's effects on Greece and the Civil War
 
 Greece becomes the Cold War's first battlefield; government and communist armies fight to 1949 and the country enters the Western camp scarred
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63408 — the first battlefield]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ the victors carve up the Ottoman lands; Greece lands at Smyrna in 1919 with Alli
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63392 — landing at smyrna 1919]
+
 ## Sub lesson 2 — The Greeks of western Asia Minor and Pontus
 
 ancient Greek communities of the coast and Pontus, prosperous under late Ottoman rule, are caught between two nationalisms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63393 — caught between two nationalisms]
 
 ## Sub lesson 3 — The Turkish national movement
 
@@ -22,11 +26,15 @@ Mustafa Kemal rejects the Sèvres treaty, builds an army in Anatolia and fights 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63394 — sevres rejected]
+
 ## Sub lesson 4 — The Asia Minor war (1919–1922)
 
 Greece advances to the Sakarya, stalls, and in August 1922 its front collapses; Smyrna burns and a million refugees cross the Aegean
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63395 — smyrna burns]
 
 ## Sub lesson 5 — Greece and Turkey after the Asia Minor war
 
@@ -34,11 +42,15 @@ the Lausanne treaty and the compulsory exchange of populations close the story; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63396 — the exchange closes it]
+
 ## Sub lesson 6 — The Asia Minor war (1918–1923) and the Treaty of Lausanne
 
 from the Smyrna landing and diplomatic triumph to the 1922 collapse and the population exchange
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63397 — triumph to collapse]
 
 ## Sub lesson 7 — The Asia Minor War (1919–1922)
 
@@ -46,11 +58,15 @@ the Greek advance to Ankara breaks at the Sakarya; the 1922 catastrophe, the bur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63398 — the great idea ends]
+
 ## Sub lesson 8 — Theme 3 B: The Asia Minor Catastrophe — the exodus
 
 the front collapses in August 1922 and hundreds of thousands flee burning Smyrna and the interior by any boat that floats
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63399 — any boat that floats]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Otto's Bavarian monarchy, the 1843 constitution, George I, the Great Idea and Th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63405 — the first half-century]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Greek state and its evolution (1830–1881) — Otto's Bavarian monarchy, the 1843 constitution, George I, the Great Idea and Thessaly's annexation in 1881 close the kingdom's first half-century. Then let your companion ask you one hard question about it — answer from the lesson.

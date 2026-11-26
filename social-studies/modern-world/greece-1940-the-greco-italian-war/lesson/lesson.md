@@ -18,11 +18,15 @@ Ochi and the Albanian front win Greece glory; the Wehrmacht's spring invasion wi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63390 — glory then occupation]
+
 ## Sub lesson 3 — Greece's participation in the Second World War
 
 the Ochi of 28 October 1940, victory over Italy in the Albanian mountains, then the German invasion of April 1941
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63391 — ochi victory invasion]
 
 ## Say it to your companion
 

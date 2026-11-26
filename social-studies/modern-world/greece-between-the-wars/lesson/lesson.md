@@ -10,11 +10,15 @@ republic, refugee towns, tobacco strikes and coups fill the fragile decades that
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63403 — fragile decades]
+
 ## Sub lesson 2 — §43 Interwar Greece; the dictatorship of 4 August 1936
 
 republic, refugee integration, the 1932 bankruptcy and Metaxas's regime close the fragile interwar decades
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63404 — closed by dictatorship]
 
 ## Say it to your companion
 

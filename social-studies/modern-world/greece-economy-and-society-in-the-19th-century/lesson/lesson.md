@@ -10,6 +10,8 @@ currants, shipping and remittances carry a poor farming country; Athens grows wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63413 — athens grows villages empty]
+
 ## Sub lesson 2 — Greek political, social and economic life in the 19th century
 
 a poor agrarian kingdom lives on currants, shipping and the dream of the Great Idea

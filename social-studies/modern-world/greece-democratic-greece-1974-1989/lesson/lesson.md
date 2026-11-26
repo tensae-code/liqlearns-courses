@@ -10,11 +10,15 @@ Karamanlis restores democracy, a referendum ends the monarchy, and Greece joins 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63409 — democracy restored]
+
 ## Sub lesson 2 — Greece in the 1980s (1981–1989)
 
 PASOK's 'Change' brings social reform, European money and new scandals in equal measure
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63410 — change in equal measure]
 
 ## Sub lesson 3 — The Metapolitefsi (1974–1989)
 
@@ -22,11 +26,15 @@ democracy returns, the monarchy is voted away, Greece enters the European Commun
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63411 — voted away]
+
 ## Sub lesson 4 — Greece of the Metapolitefsi and entry into united Europe
 
 democracy restored, the monarchy abolished by referendum, EC membership in 1981 and the PASOK change of the 1980s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63412 — into united europe]
 
 ## Say it to your companion
 
