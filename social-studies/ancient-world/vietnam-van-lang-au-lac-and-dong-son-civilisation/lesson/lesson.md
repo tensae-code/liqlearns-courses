@@ -10,11 +10,15 @@ about 2,700 years ago the first Vietnamese civilisation raises the states of Vă
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61937 — drums and three walls]
+
 ## Sub lesson 2 — Bài 11, the life of the ancient Việt read from the Ngọc Lũ drum
 
 pictures cast on a bronze drum show stilt houses, boats, rice-pounding and feathered dancers, so children reconstruct a whole way of life from one object
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61938 — a whole life on one drum]
 
 ## Sub lesson 3 — Bài 5, the founding of Văn Lang and Âu Lạc
 

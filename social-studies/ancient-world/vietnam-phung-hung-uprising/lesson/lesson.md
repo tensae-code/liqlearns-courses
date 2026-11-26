@@ -10,6 +10,8 @@ the Đường Lâm hào trưởng, a strongman who could wrestle buffalo and tig
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61915 — the strongman of duong lam]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 16, the uprising of Phùng Hưng — the Đường Lâm hào trưởng, a strongman who could wrestle buffalo and tiger, masters his region, besieges and takes Tống Bình and rules nine years; the people later honour him as Bố Cái Đại Vương. Then let your companion ask you one hard question about it — answer from the lesson.

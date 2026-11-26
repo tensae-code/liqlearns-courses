@@ -10,6 +10,8 @@ the buffalo-herding boy of Hoa Lư who drilled children with reed flags grows in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61934 — reed flags to a throne]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 9, the Twelve Warlords and Đinh Bộ Lĩnh's unification — the buffalo-herding boy of Hoa Lư who drilled children with reed flags grows into the leader who, in 966–967, by turns soft and hard, defeats or wins over all twelve warlords and founds the Đinh. Then let your companion ask you one hard question about it — answer from the lesson.

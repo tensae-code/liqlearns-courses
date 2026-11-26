@@ -10,11 +10,15 @@ three invasions (1258, 1285, 1287–88) are met by Trần Thủ Độ's "my head
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61925 — three invasions one answer]
+
 ## Sub lesson 2 — Bài 14, the first resistance, 1258
 
 the Mongols' three envoys are seized at Thăng Long; 30,000 men invade from Yunnan; the court empties the capital ("empty gardens, empty houses"), Trần Thủ Độ tells the anxious king "my head has not yet fallen to the ground — Your Majesty need not worry", and the counterstroke at Đông Bộ Đầu frees Thăng Long within the month
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61926 — 1258 my head has not fallen]
 
 ## Sub lesson 3 — Bài 14, the second resistance, 1285
 
@@ -22,11 +26,15 @@ at the Diên Hồng conference the grey-haired elders shout "Fight!" as one voic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61927 — kill the tartars tattooed]
+
 ## Sub lesson 4 — Bài 14, the third resistance and Bạch Đằng, 1287–1288
 
 Trần Khánh Dư destroys the Yuan supply fleet at Vân Đồn; asked how the year will go, Trần Quốc Tuấn answers "this year fighting the enemy will be more leisurely"; in April 1288 Ô Mã Nhi's fleet is driven onto the Bạch Đằng stake field at ebb tide, fire ships finish it, and he is taken alive
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61928 — 1288 fire on the stakes]
 
 ## Sub lesson 5 — Bài 14, why Đại Việt won, and what it meant
 
@@ -34,11 +42,15 @@ Trần Quốc Tuấn sums it up — "king and subjects in concord, brothers in h
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61929 — the whole country one strength]
+
 ## Sub lesson 6 — Chuyên đề 3.III Trần Quốc Tuấn (?–1300): appointed Quốc công tiết chế, he answers the frightened king "if Your Majesty wants to surrender, first cut off my head", empties the country before the Mongol storm, then strikes the decisive battle on the Bạch Đằng in 1288 and writes the Binh thư yếu lược for future armies
 
 the general who refused surrender in the throne room wins the river battle that ends an empire's ambition
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61930 — first cut off my head]
 
 ## Say it to your companion
 

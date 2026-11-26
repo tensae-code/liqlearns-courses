@@ -10,11 +10,15 @@ founded in 1226, the Trần keep retired emperors (Thượng hoàng) guiding you
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61921 — retired emperors guiding kings]
+
 ## Sub lesson 2 — Bài 13, the founding of the Trần (1226) and its government
 
 the fishing clan Trần gathers power behind a failing Lý throne until, in January 1226, the last Lý ruler Lý Chiêu Hoàng is made to abdicate to her husband Trần Cảnh; the dynasty rules through retired emperors (Thượng hoàng), clan endogamy, the Quốc triều hình luật, and new offices from the National History Institute to river-dyke commissioners
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61922 — 1226 a throne handed over]
 
 ## Sub lesson 3 — Bài 13, Trần economy and society
 
@@ -22,11 +26,15 @@ reclamation, flood dykes and tax remissions revive farming; princes build great 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61923 — dykes estates and crowded ports]
+
 ## Sub lesson 4 — Bài 13, Trần culture, education and science
 
 all three teachings are respected, but Confucian scholars rise and Trần Nhân Tông founds the Trúc Lâm Zen school; examinations run every seven years from 1232 with the Tam khôi titles; Lê Văn Hưu writes the first national history, Trần Quốc Tuấn his military treatises, and Tuệ Tĩnh his herbal medicine
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61924 — exams every seven years]
 
 ## Say it to your companion
 

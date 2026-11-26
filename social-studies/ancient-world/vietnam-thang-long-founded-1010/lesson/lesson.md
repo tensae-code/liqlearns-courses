@@ -10,11 +10,15 @@ in 1010 King Lý Thái Tổ sails from Hoa Lư, sees a golden dragon rise at Đ�
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61916 — 1010 the dragon rises]
+
 ## Sub lesson 2 — Bài 9, the Lý dynasty sets its capital at Thăng Long
 
 officials raise Lý Công Uẩn to the throne in 1009; in 1010 he moves the capital from Hoa Lư to Đại La, and children read his Edict on the Transfer of the Capital itself, quoted from the Đại Việt sử ký toàn thư
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61917 — reading the edict itself]
 
 ## Say it to your companion
 

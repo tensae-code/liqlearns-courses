@@ -10,11 +10,15 @@ Triệu Đà annexes the country in 179 BC; châu, quận and huyện replace it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61935 — ruled from the north]
+
 ## Sub lesson 2 — Bài 15, how Âu Lạc changed under a thousand years of rule
 
 dykes and great rice regions spread, crafts grow (paper-making learned from China, glass, fine pottery at Luy Lâu), some Han officials are Vietnamised, local hào trưởng become an aristocracy — and the contradiction between people and regime sharpens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61936 — changed and sharpening]
 
 ## Say it to your companion
 

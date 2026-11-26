@@ -10,6 +10,8 @@ after defeating the Ming, King Lê Thái Tổ is boating on the lake when the Go
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61919 — the sword goes back]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 12, the legend of Hồ Gươm (the Lake of the Returned Sword) — after defeating the Ming, King Lê Thái Tổ is boating on the lake when the Golden Tortoise rises and asks for the magic sword back for the Dragon King. Then let your companion ask you one hard question about it — answer from the lesson.
