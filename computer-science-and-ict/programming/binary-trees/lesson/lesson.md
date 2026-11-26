@@ -10,11 +10,15 @@ A **binary tree** (cây nhị phân) is a tree where every node has **at most tw
 
 In your mind's eye: at most two children — left and right.
 
+[Picture 46768 — at most two children — left and right]
+
 ## Sub lesson 2 — Holding a binary tree — links and arrays
 
 A program holds a binary tree two ways. By **links**: each node stores its value and references to its left and right children (nothing where a child is absent). By **array**: the root sits at index 1, and the children of the node at index *i* sit at **2i** and **2i+1** — neat for complete trees, wasteful for crooked ones. The tree's measures come with it: its **height** (the longest root-to-leaf path) decides how much work a walk down it can cost.
 
 In your mind's eye: holding a binary tree — links and arrays.
+
+[Picture 46769 — holding a binary tree — links and arrays]
 
 ## Say it to your companion
 

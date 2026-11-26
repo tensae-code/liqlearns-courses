@@ -10,11 +10,15 @@ Sudan's Grade 11 programming course is taught through **BASIC** — and the book
 
 In your mind's eye: a language designed for beginners.
 
+[Picture 46752 — a language designed for beginners]
+
 ## Sub lesson 2 — Why BASIC carries this course
 
 BASIC runs through an **interpreter** — the learner types a program and runs it at once, seeing results and errors immediately, which is how beginners learn. From that start the book builds the whole craft: numbered lines, variables, input and output, branching, loops, subroutines and functions — all inside this one language. Meeting BASIC first, as history and as tool, is the book's own order, and this course keeps it.
 
 In your mind's eye: why BASIC carries this course.
+
+[Picture 46753 — why BASIC carries this course]
 
 ## Say it to your companion
 

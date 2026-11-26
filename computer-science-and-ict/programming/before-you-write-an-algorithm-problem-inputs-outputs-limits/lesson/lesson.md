@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Essentials of writing an Algor
 
 In your mind's eye: , Essentials of writing an Algorithm.
 
+[Picture 46756 — Essentials of writing an Algorithm]
+
 ## Sub lesson 2 — Doing it — Before You Write an Algorithm Problem Inputs Outputs Limits in practice
 
 **Doing it — Before You Write an Algorithm Problem Inputs Outputs Limits in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Before You Write an Algorithm Problem Inputs Outputs Limits in practice.
+
+[Picture 46757 — doing it — Before You Write an Algorithm Problem Inputs Outputs Limits in practice]
 
 ## Say it to your companion
 

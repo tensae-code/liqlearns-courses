@@ -10,11 +10,15 @@ You count in tens because you have ten fingers. A computer counts in twos becaus
 
 In your mind's eye: places worth powers of two.
 
+[Picture 46762 — places worth powers of two]
+
 ## Sub lesson 2 — Why the machine counts this way
 
 A computer's circuits have exactly two reliable states — current flowing or not, switch **on or off** — so binary is the number system the hardware itself speaks. Numbers, and in time letters, pictures and sound too, are all stored as patterns of bits. The cost is length: binary numbers are long to write, which is why programmers also group bits (for example in hexadecimal) when they must read machine values.
 
 In your mind's eye: why the machine counts this way.
+
+[Picture 46763 — why the machine counts this way]
 
 ## Say it to your companion
 

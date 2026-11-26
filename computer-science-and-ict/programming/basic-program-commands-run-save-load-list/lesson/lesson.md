@@ -10,11 +10,15 @@ A running BASIC program can be halted by its own instructions: **END** closes th
 
 In your mind's eye: stopping and ending — STOP, END and CONT.
 
+[Picture 46750 — stopping and ending — STOP, END and CONT]
+
 ## Sub lesson 2 — The commands around the program — RUN, SAVE, LOAD, NEW, CLS, LIST, RENUM, SYSTEM
 
 Around the program stand the commands the programmer gives the machine itself: **RUN** starts the program; **SAVE** keeps it on disk under a name; **LOAD** brings a saved program back; **NEW** clears memory for a fresh program; **CLS** clears the screen; **LIST** prints the program's lines to read or check; **RENUM** renumbers the lines evenly; and **SYSTEM** leaves BASIC for the machine's operating system. The book closes the set with the **QBASIC screen** — the window in which these commands and the program meet. Program lines are the play; these commands run the theatre.
 
 In your mind's eye: the commands around the program — RUN, SAVE, LOAD, NEW, CLS, LIST, RENUM, SYSTEM.
+
+[Picture 46751 — the commands around the program — RUN, SAVE, LOAD, NEW, CLS, LIST, RENUM, SYSTEM]
 
 ## Say it to your companion
 

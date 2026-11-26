@@ -10,11 +10,15 @@ Search a sorted list of a thousand names by checking the middle one first, and t
 
 In your mind's eye: halving the field.
 
+[Picture 46766 — halving the field]
+
 ## Sub lesson 2 — Binary search in pseudocode and flowchart
 
 The pseudocode tracks **low** and **high** — the ends of the surviving field — and repeats while low ≤ high: middle = (low + high) ÷ 2 (whole number); if the middle item is the target, report it and stop; if the target is smaller, set high = middle − 1; else set low = middle + 1. The flowchart's shape is a loop with a **three-way decision** at its heart. Malaysia's warning is drawn with it: run binary search on an **unordered** list and it will throw away the half that holds the target — the method's speed is bought entirely by the order it demands.
 
 In your mind's eye: binary search in pseudocode and flowchart.
+
+[Picture 46767 — binary search in pseudocode and flowchart]
 
 ## Say it to your companion
 

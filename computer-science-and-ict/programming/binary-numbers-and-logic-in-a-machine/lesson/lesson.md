@@ -10,11 +10,15 @@ A machine's parts are **on or off** — current flowing or not — so its number
 
 In your mind's eye: binary — the machine's two values.
 
+[Picture 46760 — binary — the machine's two values]
+
 ## Sub lesson 2 — Logic with inputs — the machine decides
 
 Give the machine **inputs** and its states can be **combined by logic**: this input AND that one, this OR that, NOT this — and the combination decides the output, as the logic lessons formalise. A machine that senses 'door closed AND code correct' and only then unlocks is doing Grade 8's opening session with wires. Programming, when it arrives in the next sessions, is this same deciding written in words the machine obeys: inputs, logic, output — the shape of every program in the book and beyond it.
 
 In your mind's eye: logic with inputs — the machine decides.
+
+[Picture 46761 — logic with inputs — the machine decides]
 
 ## Say it to your companion
 

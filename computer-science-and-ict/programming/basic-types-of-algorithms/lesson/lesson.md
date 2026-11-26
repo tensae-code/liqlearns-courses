@@ -10,11 +10,15 @@ The theory chapter sorts algorithms into their **basic types by method**: **sequ
 
 In your mind's eye: sorting algorithms by their working.
 
+[Picture 46754 — sorting algorithms by their working]
+
 ## Sub lesson 2 — Sorting algorithms by their task
 
 Beside method stands **task**: algorithms that **search** (find or report absent), algorithms that **sort** (put in order), algorithms that **calculate** (produce a value — sums, roots, conversions), and algorithms that **decide** (answer yes/no about their input, as the computational-problems lesson's decision kind does). A real program is usually several types woven together — a calculation inside a loop inside a search — and the types give the reader the words to say so.
 
 In your mind's eye: sorting algorithms by their task.
+
+[Picture 46755 — sorting algorithms by their task]
 
 ## Say it to your companion
 

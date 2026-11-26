@@ -10,11 +10,15 @@ A **binary search tree** (cây tìm kiếm nhị phân) is a binary tree under o
 
 In your mind's eye: the rule — smaller left, larger right.
 
+[Picture 46764 — the rule — smaller left, larger right]
+
 ## Sub lesson 2 — Insert, delete, and the shape's warning
 
 **Inserting** walks the search path and attaches the new value as a leaf where the path runs out — the rule is never broken. **Deleting** is careful work: a leaf is simply removed; a node with one child is replaced by that child; a node with **two children** is replaced by a value from below (its successor) so the rule survives. The warning the book teaches: the tree's speed depends on its **shape** — insert sorted values and the 'tree' becomes a crooked line, no better than a list.
 
 In your mind's eye: insert, delete, and the shape's warning.
+
+[Picture 46765 — insert, delete, and the shape's warning]
 
 ## Say it to your companion
 
