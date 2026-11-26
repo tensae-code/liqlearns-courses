@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **String Handling** — covering: 
 
 In your mind's eye: string Handling.
 
+[Picture 46837 — string Handling]
+
 ## Sub lesson 2 — Doing it — C Strings as Arrays of Characters in practice
 
 **Doing it — C Strings as Arrays of Characters in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — C Strings as Arrays of Characters in practice.
+
+[Picture 46838 — doing it — C Strings as Arrays of Characters in practice]
 
 ## Say it to your companion
 

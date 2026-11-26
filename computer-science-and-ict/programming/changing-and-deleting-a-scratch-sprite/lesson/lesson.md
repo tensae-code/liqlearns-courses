@@ -10,11 +10,15 @@ A sprite is **changed** by choosing another: open the **sprite library**, pick t
 
 In your mind's eye: changing the sprite — choosing a new actor.
 
+[Picture 46849 — changing the sprite — choosing a new actor]
+
 ## Sub lesson 2 — Deleting a sprite — removing an actor cleanly
 
 A sprite is **deleted** from the sprite list: select the sprite and use its **delete** command (the small cross or right-click delete), and the sprite leaves the stage and the project — its scripts and costumes go with it. Deleting is for actors the project truly does not need; a sprite wanted later should be hidden, not deleted. The rule before deleting: check the sprite carries no script another part of the story depends on.
 
 In your mind's eye: deleting a sprite — removing an actor cleanly.
+
+[Picture 46850 — deleting a sprite — removing an actor cleanly]
 
 ## Say it to your companion
 

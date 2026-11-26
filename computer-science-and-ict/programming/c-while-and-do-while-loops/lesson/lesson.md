@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **C While and Do While Loops** —
 
 In your mind's eye: c While and Do While Loops.
 
+[Picture 46841 — c While and Do While Loops]
+
 ## Sub lesson 2 — Doing it — C While and Do While Loops in practice
 
 **Doing it — C While and Do While Loops in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — C While and Do While Loops in practice.
+
+[Picture 46842 — doing it — C While and Do While Loops in practice]
 
 ## Say it to your companion
 

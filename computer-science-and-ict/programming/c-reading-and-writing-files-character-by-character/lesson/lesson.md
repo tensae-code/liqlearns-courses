@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Closing a File** — covering: C
 
 In your mind's eye: closing a File.
 
+[Picture 46835 — closing a File]
+
 ## Sub lesson 2 — Doing it — C Reading and Writing Files Character by Character in practice
 
 **Doing it — C Reading and Writing Files Character by Character in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — C Reading and Writing Files Character by Character in practice.
+
+[Picture 46836 — doing it — C Reading and Writing Files Character by Character in practice]
 
 ## Say it to your companion
 

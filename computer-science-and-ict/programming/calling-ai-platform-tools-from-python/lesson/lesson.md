@@ -10,11 +10,15 @@ An **AI platform** is a service that gathers trained AI abilities — speech rec
 
 In your mind's eye: a small student program at a counter, handing a sealed request envelope across to a vast machine room labelled AI PLATFORM, and receiving a small answer card back.
 
+[Picture 46843 — a small student program at a counter, handing a sealed request envelope across to a vast machine room labelled AI PLATFORM, and receiving a small answer card back]
+
 ## Sub lesson 2 — Building a WeChat chatbot
 
 The book's practical joins the calls into a working thing: a **chatbot** on WeChat, the messaging app. A Python library for WeChat (the book uses **itchat**) lets the program log in to an account, notice each arriving message, and send replies. The program's loop is small: receive a friend's message → call the platform's intelligent tool with the message text → take the tool's answer → reply with it. To the friend, the account now converses; in truth a few lines of Python are carrying messages back and forth between the friend and the platform's AI. The lesson the practical teaches is the volume's deepest: a programmer's power is not only writing intelligence, but **composing** — joining ready tools with a little code of your own into something new.
 
 In your mind's eye: a phone chat. A friend types a question, the message hops to a small Python program, across to a glowing platform, and back as an answer appearing in the chat.
+
+[Picture 46844 — a phone chat. A friend types a question, the message hops to a small Python program, across to a glowing platform, and back as an answer appearing in the chat]
 
 ## Say it to your companion
 

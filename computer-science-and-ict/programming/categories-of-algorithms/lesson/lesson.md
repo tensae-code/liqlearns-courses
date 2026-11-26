@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Categories of algorithms** — coverin
 
 In your mind's eye: categories of algorithms.
 
+[Picture 46847 — categories of algorithms]
+
 ## Sub lesson 2 — Doing it — Categories of algorithms in practice
 
 This part of South Sudan's book teaches **Doing it — Categories of algorithms in practice** — covering: Categories of algorithms. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Categories of algorithms. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Categories of algorithms in practice is part of that chain..
 
 In your mind's eye: doing it — Categories of algorithms in practice.
+
+[Picture 46848 — doing it — Categories of algorithms in practice]
 
 ## Say it to your companion
 

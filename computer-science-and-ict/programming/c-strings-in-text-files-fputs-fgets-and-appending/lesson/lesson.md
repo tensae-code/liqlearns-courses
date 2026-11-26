@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **String Handling in Text Files** 
 
 In your mind's eye: string Handling in Text Files.
 
+[Picture 46839 — string Handling in Text Files]
+
 ## Sub lesson 2 — Doing it — C Strings in Text Files Fputs Fgets and Appending in practice
 
 **Doing it — C Strings in Text Files Fputs Fgets and Appending in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — C Strings in Text Files Fputs Fgets and Appending in practice.
+
+[Picture 46840 — doing it — C Strings in Text Files Fputs Fgets and Appending in practice]
 
 ## Say it to your companion
 

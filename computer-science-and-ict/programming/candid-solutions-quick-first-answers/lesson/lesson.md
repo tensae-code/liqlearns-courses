@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Defining Candid Solutions and Ac
 
 In your mind's eye: defining Candid Solutions and Activity 1.2.
 
+[Picture 46845 — defining Candid Solutions and Activity 1.2]
+
 ## Sub lesson 2 — Doing it — Candid Solutions Quick First Answers in practice
 
 **Doing it — Candid Solutions Quick First Answers in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Candid Solutions Quick First Answers in practice.
+
+[Picture 46846 — doing it — Candid Solutions Quick First Answers in practice]
 
 ## Say it to your companion
 
