@@ -10,11 +10,15 @@ from 13 March to 7 May 1954, in three waves, the army takes the strongpoint grou
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39637 — guns hauled in by hand]
+
 ## Sub lesson 2 — Bài 15, story of capturing General De Castries alive
 
 on the afternoon of 7 May 1954 Tạ Quốc Luật's five-man assault team storms the bunker shouting "Hands up!"; 23 French officers file out, De Castries surrenders, and the "Determined to fight, determined to win" flag flies at 17:30
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39636 — hands up, 17:30]
 
 ## Sub lesson 3 — Bài 15, Điện Biên Phủ and Geneva
 
@@ -22,11 +26,15 @@ after the US–France joint defence agreement of December 1950, victories at Ho�
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39635 — victory, then Geneva]
+
 ## Sub lesson 4 — Chuyên đề 3.III Võ Nguyên Giáp (1911–2013): the schoolteacher who founds the first propaganda liberation platoon in December 1944, becomes the army's first general at 37, switches Điện Biên Phủ from "fight fast, win fast" to "fight surely, advance surely", and commands the lightning Spring offensive of 1975
 
 the hardest decision of his life is to stop his own attack and change the plan — and it wins the war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39634 — change the plan]
 
 ## Sub lesson 5 — Bài 1 A painting as a historical source: Nguyễn Sáng's lacquer work "Party admission at Điện Biên Phủ" (1963), declared a national treasure in 2013, is used by historians, cultural researchers and art scholars to study the campaign's values — its historical worth lying in the truthful record of a Party admission under fire
 
@@ -34,11 +42,15 @@ a lacquer panel painted nine years after the battle becomes an archive the state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39633 — a painting becomes an archive]
+
 ## Sub lesson 6 — Bài 7 Điện Biên Phủ: against the American-backed Navarre Plan (July 1953), the Winter–Spring offensive breaks its first step and the Politburo chooses Điện Biên Phủ; in 56 days and nights (13-3 to 7-5-1954) three waves take Him Lam and Độc Lập, strangle Mường Thanh airfield, and close on the centre until de Castries and his whole staff surrender on the afternoon of 7-5 — porters on pack bicycles supply the guns
 
 the valley France chose as a trap for the Việt Minh becomes the trap, sprung in three deliberate waves
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39632 — fifty-six days, three waves]
 
 ## Say it to your companion
 

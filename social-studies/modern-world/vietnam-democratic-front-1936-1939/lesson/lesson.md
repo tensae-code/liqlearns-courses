@@ -10,6 +10,8 @@ after the Comintern's Seventh Congress (July 1935) and France's Popular Front vi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39638 — the open years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 7, the Democratic Front years — after the Comintern's Seventh Congress (July 1935) and France's Popular Front victory, the Indochinese Communist Party founds the Indochinese Democratic Front (July 1936); the Indochina Congress movement petitions openly, crowds greet the Goda mission and Governor-General Brévié (1937), railwaymen strike at Trường Thi, 25,000 rally in Hanoi on 1 May 1938, and a legal press flourishes — a rehearsal, the book judges, for the August Revolution. Then let your companion ask you one hard question about it — answer from the lesson.

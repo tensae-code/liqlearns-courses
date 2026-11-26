@@ -10,11 +10,15 @@ the chronicles quoted here do the accusing — in 1730 tens of thousands of Hả
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39640 — why the North exploded]
+
 ## Sub lesson 2 — Bài 7, the great risings of the 18th-century North
 
 Hoàng Công Chất (1739–1769) gathers the poor, builds his base at Mường Thanh in the far north-west, protects the border and settles people's lives so the Tây Bắc peoples support him to the end, and his son fights on after him; Nguyễn Danh Phương (1740–1751) holds the Tam Đảo mountains until he is captured; Nguyễn Hữu Cầu (1741–1751), the "Quận He" who swims like the great he fish that never harms a soul at sea, strikes from Đồ Sơn, threatens Thăng Long itself and ranges into Thanh Hoá and Nghệ An — all fail, but they shake the Lê–Trịnh regime to its foundations and clear the ground for Tây Sơn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39639 — three risings]
 
 ## Say it to your companion
 

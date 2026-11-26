@@ -10,6 +10,8 @@ Confucianism still rules study and office, Buddhism and Daoism revive, and from 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39641 — old faiths, a new alphabet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 9, culture, religions and the birth of chữ Quốc ngữ — Confucianism still rules study and office, Buddhism and Daoism revive, and from 1533 Catholicism spreads until by the 18th century it reaches the whole country — bringing with it the Latin-based chữ Quốc ngữ, devised by missionaries learning Vietnamese to preach and later prized for printing and science; Han literature still leads, but Nôm literature flowers — the verse chronicle Thiên Nam ngữ lục, Nguyễn Bỉnh Khiêm (the folk's Trạng Trình), the Trạng Quỳnh tales — beside communal-house carving of daily life, the thousand-armed Quan Âm of Bút Tháp pagoda, chèo and tuồng. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Ba Na villagers believe the French "do not bleed"; orphan Đinh Núp ambushes a 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39630 — see — they bleed too]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 18, story of the hero Núp — Ba Na villagers believe the French "do not bleed"; orphan Đinh Núp ambushes a French soldier, shows the blood, and the villages unite into resistance bases of spikes, stone traps and bows. Then let your companion ask you one hard question about it — answer from the lesson.

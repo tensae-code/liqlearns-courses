@@ -10,6 +10,8 @@ Tày soldier Bế Văn Đàn kneels and takes a machine gun on his own shoulders
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39631 — two heroes of Dien Bien Phu]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 15, stories of the heroes of Điện Biên Phủ (Bế Văn Đàn; Phan Đình Giót) — Tày soldier Bế Văn Đàn kneels and takes a machine gun on his own shoulders — "Fire now!" — and dies still holding it; Phan Đình Giót, wounded again and again, throws his body across a bunker's firing slit at Him Lam. Then let your companion ask you one hard question about it — answer from the lesson.
