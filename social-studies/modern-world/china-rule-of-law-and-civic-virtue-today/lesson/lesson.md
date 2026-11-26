@@ -10,6 +10,8 @@ from the 1954 constitution through the civil code of 2020, law and civic-virtue 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62681 — law and virtue one system]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Rule of law and spiritual civilisation in today's China — from the 1954 constitution through the civil code of 2020, law and civic-virtue campaigns are built as one system. Then let your companion ask you one hard question about it — answer from the lesson.

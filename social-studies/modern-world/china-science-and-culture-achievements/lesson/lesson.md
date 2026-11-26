@@ -10,11 +10,15 @@ Yuan Longping's hybrid rice feeds millions more, Tu Youyou's artemisinin saves m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62682 — rice medicine orbit]
+
 ## Sub lesson 2 — Great achievements since reform and opening
 
 from the 1984 Los Angeles golds to high-speed rail, the Hong Kong-Zhuhai bridge and poverty's elimination — the showcase lesson
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62683 — from golds to high speed rail]
 
 ## Say it to your companion
 

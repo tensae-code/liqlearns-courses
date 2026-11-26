@@ -10,11 +10,15 @@ Zheng Chenggong besieges the Dutch for eight months and in 1662 recovers Taiwan 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62678 — taiwan recovered 1662]
+
 ## Sub lesson 2 — Early-mid Qing — height and crisis
 
 Kangxi, Yongzheng and Qianlong fix China's modern map from Taiwan to Xinjiang and Tibet at the dynasty's dazzling height
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62679 — the modern map fixed]
 
 ## Say it to your companion
 

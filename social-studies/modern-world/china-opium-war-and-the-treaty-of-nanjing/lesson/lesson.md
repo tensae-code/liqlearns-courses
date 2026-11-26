@@ -10,11 +10,15 @@ Lin Zexu vows 'if opium is not ended for one day, I do not return for one day'; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62672 — the first unequal treaty]
+
 ## Sub lesson 2 — The two Opium Wars
 
 a British writer admits the opium seller 'corrupts, debases and destroys' his victims; 40 warships come in 1840 anyway, the Arrow incident is manufactured in 1856, and the treaties of Nanjing and Beijing open, cede and indemnify China — the start of modern Chinese history
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62673 — 40 warships 1840]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ farming, handicrafts and capitalist industry and commerce are guided step by ste
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62688 — the three transformations]
+
 ## Sub lesson 2 — Transition to socialism
 
 the general line, the First Five-Year Plan's 156 projects and the three transformations carry China into a socialist system by 1956
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62689 — 156 projects]
 
 ## Say it to your companion
 

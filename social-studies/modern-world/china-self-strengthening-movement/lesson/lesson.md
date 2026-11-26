@@ -10,11 +10,15 @@ beaten officials learn Western arms and machines, founding arsenals, shipyards a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62684 — arsenals and shipyards]
+
 ## Sub lesson 2 — Seeking a way out (2) — Self-Strengthening and the wars
 
 arsenals and the Beiyang fleet rise even as France and then Japan strip away Vietnam and Taiwan and smash the fleet at Weihaiwei
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62685 — smashed at weihaiwei]
 
 ## Say it to your companion
 

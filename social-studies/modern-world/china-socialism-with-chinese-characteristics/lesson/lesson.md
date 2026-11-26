@@ -10,11 +10,15 @@ Deng's 1992 Southern Tour talks relaunch reform, and successive leaderships carr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62686 — the southern tour 1992]
+
 ## Sub lesson 2 — The road develops
 
 from Deng Xiaoping Theory to the new era's thought, each generation of leaders re-answers what socialism with Chinese characteristics means
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62687 — each generation re answers]
 
 ## Say it to your companion
 

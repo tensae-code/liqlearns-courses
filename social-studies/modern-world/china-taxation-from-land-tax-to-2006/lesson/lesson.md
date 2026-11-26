@@ -10,6 +10,8 @@ in 2006 China abolishes the agricultural tax outright — ending a levy older th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62691 — the farm tax ends 2006]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: China's taxation evolves — in 2006 China abolishes the agricultural tax outright — ending a levy older than the empire itself — while income tax, born in Britain in 1799, arrives only in 1980. Then let your companion ask you one hard question about it — answer from the lesson.

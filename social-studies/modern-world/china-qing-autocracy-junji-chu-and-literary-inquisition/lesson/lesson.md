@@ -10,11 +10,15 @@ the Grand Council's ministers may only copy the emperor's words, never add their
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62674 — only copy never add]
+
 ## Sub lesson 2 — Imperial power grows, crisis nears
 
 ever-stronger emperors and a closed, self-satisfied court carry feudal China toward its modern-eve crisis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62675 — power grows crisis nears]
 
 ## Sub lesson 3 — The crisis inside Qianlong's prosperity
 
@@ -22,11 +26,15 @@ pupils interrogate the most prosperous reign of all and find the rot — populat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62676 — rot inside prosperity]
+
 ## Sub lesson 4 — The crisis inside the height
 
 population trebles, corruption festers, the White Lotus rises and the sea stays closed while Britain industrialises next door
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62677 — the sea stays closed]
 
 ## Say it to your companion
 

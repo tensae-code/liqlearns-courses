@@ -10,6 +10,8 @@ Chiang rules from Nanjing while the Communists, encircled, break out on the Long
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62670 — 25000 li to yanan]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Nanjing government and the CCP's new road — Chiang rules from Nanjing while the Communists, encircled, break out on the Long March — 25,000 li to Yan'an — and invent rural revolution. Then let your companion ask you one hard question about it — answer from the lesson.

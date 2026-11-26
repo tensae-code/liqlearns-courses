@@ -10,6 +10,8 @@ Wang Anshi's failed New Policies, Zhang Juzheng's Single Whip, the 1898 hundred 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62680 — the same drama four costumes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Reforms through Chinese history (2) — Wang Anshi's failed New Policies, Zhang Juzheng's Single Whip, the 1898 hundred days and 1978's reform and opening — the same drama in four costumes. Then let your companion ask you one hard question about it — answer from the lesson.

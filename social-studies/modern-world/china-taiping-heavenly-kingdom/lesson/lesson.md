@@ -10,6 +10,8 @@ failed examination candidate Hong Xiuquan preaches a heavenly kingdom, takes Nan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62690 — half of china 14 years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Seeking a way out (1) — Taiping — failed examination candidate Hong Xiuquan preaches a heavenly kingdom, takes Nanjing and holds half of China for 14 years before the gentry armies crush him. Then let your companion ask you one hard question about it — answer from the lesson.

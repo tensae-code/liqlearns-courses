@@ -10,6 +10,8 @@ Britain forces China's doors open with opium and gunboats, and the unequal treat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62693 — doors forced open]
+
 ## Sub lesson 2 — §6.1 What can we learn about imperialism from the correspondence of the English and Chinese governments?
 
 the two empires' letters are read against each other — politeness on one side, ultimatums on the other

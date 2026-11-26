@@ -10,6 +10,8 @@ the PLA grows from 'millet plus rifles' to missiles, carriers and peacekeeping b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62671 — a steel great wall]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: A steel Great Wall — the PLA grows from 'millet plus rifles' to missiles, carriers and peacekeeping blue helmets. Then let your companion ask you one hard question about it — answer from the lesson.
