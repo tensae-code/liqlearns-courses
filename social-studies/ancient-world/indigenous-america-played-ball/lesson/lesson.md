@@ -10,6 +10,8 @@ Long before Europeans, indigenous America played a rubber-ball game — the worl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60895 — the rubber ball game]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: In indigenous Our America they played ball — long before Europeans, indigenous America played a rubber-ball game — the world's oldest rubber ball survives as its evidence. Then let your companion ask you one hard question about it — answer from the lesson.

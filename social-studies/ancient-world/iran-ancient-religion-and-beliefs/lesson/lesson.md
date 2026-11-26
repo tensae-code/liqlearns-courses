@@ -10,6 +10,8 @@ Zoroaster's choice between truth and the lie shapes an empire's faith, with Mazd
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60906 — the choice truth or the lie]
+
 ## Sub lesson 2 — Beliefs and lifestyle of the people of ancient Iran
 
 Zoroastrian faith and daily custom together — what ancient Iranians believed shaped how they lived (Beliefs and lifestyle of the people of ancient Iran)

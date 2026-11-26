@@ -10,6 +10,8 @@ The muvendar — Chola, Chera and Pandya chiefs — hold an inland and a coastal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60889 — the three crowned kings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: New kingdoms along the coasts. Then let your companion ask you one hard question about it — answer from the lesson.

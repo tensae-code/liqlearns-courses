@@ -10,11 +10,15 @@ qanats carry water, caravans carry goods, taxes carry the state — how ancient 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60903 — water goods and taxes one system]
+
 ## Sub lesson 2 — The economic conditions of ancient Iran
 
 farming, herding, craft and trade — how the ancient Iranian world fed and enriched itself (The economic conditions of ancient Iran)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60904 — how ancient iran fed itself]
 
 ## Say it to your companion
 

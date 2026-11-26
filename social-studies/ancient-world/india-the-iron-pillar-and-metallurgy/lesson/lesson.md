@@ -10,6 +10,8 @@ Delhi's Mehrauli iron pillar — 7.2 m, over 3 tonnes, raised about 1500 years a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60885 — the pillar that never rusts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Marutasami and the iron pillar. Then let your companion ask you one hard question about it — answer from the lesson.

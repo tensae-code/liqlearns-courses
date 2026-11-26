@@ -10,6 +10,8 @@ One conqueror, four treatments — Aryavarta's nine kings uprooted and annexed, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60883 — one conqueror four policies]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Samudragupta's four policies; genealogies; Chandragupta II. Then let your companion ask you one hard question about it — answer from the lesson.

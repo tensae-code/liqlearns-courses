@@ -10,6 +10,8 @@ Innocent III claims the papacy stands above kings, launches the Fourth Lateran C
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60897 — the pope above kings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 2, Cap. 6 §1 The age of Innocent III: theocratic politics and the fight against heresy — Innocent III claims the papacy stands above kings, launches the Fourth Lateran Council and the Albigensian Crusade — the papal monarchy at its height. Then let your companion ask you one hard question about it — answer from the lesson.

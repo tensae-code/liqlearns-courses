@@ -10,6 +10,8 @@ Prayers beg for cattle, sons and horses; battles are fought for herds, pasture, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60893 — cattle horses and chariots]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Cattle, horses and chariots. Then let your companion ask you one hard question about it — answer from the lesson.

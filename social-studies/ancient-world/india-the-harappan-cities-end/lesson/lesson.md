@@ -10,6 +10,8 @@ Around 3900 years ago people walk away from the cities; writing, seals and weigh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60884 — the mystery of the end]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The mystery of the end. Then let your companion ask you one hard question about it — answer from the lesson.

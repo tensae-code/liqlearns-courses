@@ -10,11 +10,15 @@ Chandragupta Maurya founds the empire more than 2300 years ago, advised by the w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60886 — a very big kingdom an empire]
+
 ## Sub lesson 2 — Ruling the empire
 
 Around Pataliputra the emperor rules directly through salaried officials, messengers and spies; provinces answer from Taxila and Ujjain under royal princes; between the centres, roads and rivers are gripped for tax and tribute — blankets from the north-west, gold from the south — while forest peoples stay near-independent, sending elephants, timber, honey and wax.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60887 — ruling the empire]
 
 ## Say it to your companion
 

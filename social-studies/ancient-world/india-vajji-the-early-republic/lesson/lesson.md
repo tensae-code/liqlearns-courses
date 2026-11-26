@@ -10,6 +10,8 @@ In the Vajji gana, thousands of rajas rule together by assembly, discussion and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60892 — ruled by assembly not a king]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: A closer look — Vajji; Ajatasattu and the Vajjis. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Buddha and Mahavira hold that true knowledge needs leaving home, so monks and nu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60888 — from rain shelters to rock caves]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The sangha; monasteries. Then let your companion ask you one hard question about it — answer from the lesson.

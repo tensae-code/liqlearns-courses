@@ -10,6 +10,8 @@ Upanishadic teachers hunt what survives death — atman, the soul, one with brah
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60891 — what survives death]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Upanishads; the wise beggar; Panini. Then let your companion ask you one hard question about it — answer from the lesson.

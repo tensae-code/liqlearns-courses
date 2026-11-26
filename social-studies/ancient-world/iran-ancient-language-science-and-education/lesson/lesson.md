@@ -10,6 +10,8 @@ scripts change, schools teach, and knowledge is kept — the lesson follows the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60905 — words and learning kept]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Language, science and education — scripts change, schools teach, and knowledge is kept — the lesson follows the words and learning by which a civilisation remembers itself. Then let your companion ask you one hard question about it — answer from the lesson.

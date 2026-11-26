@@ -10,17 +10,23 @@ Persepolis's columns and Sasanian arches are read as arguments in stone — what
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60900 — what a civilisation builds]
+
 ## Sub lesson 2 — Knowledge and art in ancient Iran
 
 the book closes its ancient arc with what the mind made — knowledge and art as the civilisation's surviving voice (Knowledge and art in ancient Iran)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60901 — the civilisations surviving voice]
+
 ## Sub lesson 3 — A trip to Persepolis (1) and (2)
 
 two whole lessons inside one ruin — columns, staircases and tribute processions teach what the Achaemenid Empire was by what it built (A trip to Persepolis (1) and (2))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60902 — a trip to persepolis]
 
 ## Say it to your companion
 
