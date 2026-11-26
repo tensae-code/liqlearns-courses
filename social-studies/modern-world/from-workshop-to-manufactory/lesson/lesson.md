@@ -10,6 +10,8 @@ China gives paper, gunpowder and compass, India the finest cloth; guild masters 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63333 — merchants seize the road]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea IV, Lecția 1: De la atelierul meșteșugăresc la manufactură — China gives paper, gunpowder and compass, India the finest cloth; guild masters resist the new looms while merchants seize the whole road from making to selling. Then let your companion ask you one hard question about it — answer from the lesson.

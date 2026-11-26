@@ -10,6 +10,8 @@ Reagan's revolution cut taxes, shrank the government's domestic ambitions and co
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 63327 — conservatism governs]
+
 ## Sub lesson 2 — The Cold War ends; a new world order is proclaimed
 
 The Cold War ended — the Soviet standoff that had organised two generations of American life simply stopped. A new world order was proclaimed: one superpower, and a peace whose shape nobody yet knew.

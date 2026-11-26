@@ -10,6 +10,8 @@ the law makes Gagauzia "a form of self-determination of the Gagauz, part of the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63336 — self-determination in law]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 51: Unitatea Teritorială Autonomă cu statut special Găgăuzia (Gagauz-Yeri) — the law makes Gagauzia "a form of self-determination of the Gagauz, part of the Republic of Moldova", with its own authorities and the Valkaneș free economic zone. Then let your companion ask you one hard question about it — answer from the lesson.

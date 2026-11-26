@@ -10,6 +10,8 @@ Augustus II's Saxon court pulls the land into the Northern War, Sapieha and Ogi�
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63339 — pulled into the northern war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The GDL in the first half of the 18th century. Then let your companion ask you one hard question about it — answer from the lesson.

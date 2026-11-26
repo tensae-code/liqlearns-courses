@@ -10,6 +10,8 @@ two young Germans turn workers' anger into a theory and a programme: the Manifes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63330 — workers of all countries unite]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.2 From utopian socialism to scientific communism; Marx and Engels; League of the Communists; Communist Manifesto — two young Germans turn workers' anger into a theory and a programme: the Manifesto calls workers of all countries to unite. Then let your companion ask you one hard question about it — answer from the lesson.

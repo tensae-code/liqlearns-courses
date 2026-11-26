@@ -10,6 +10,8 @@ Nearly a hundred years of foreign flags — Spanish, German, Japanese, American 
 
 In your mind's eye: an inauguration in 1979 on Pohnpei, with the new FSM flag rising as four older flags — Spanish, German, Japanese, American — are shown folded below. The student points to the new flag and names the president being inaugurated.
 
+[Picture 63334 — foreign rule ends 1979]
+
 ## Sub lesson 2 — The Compact, the UN and Independence Day
 
 Independence did not mean separation from America: the Compact of Free Association ties the FSM to the United States in a chosen partnership — free association, not rule. The FSM took its seat in the United Nations, and November 3, Independence Day, marks the nationhood every year.

@@ -10,6 +10,8 @@ Magdeburg charters free the towns, guild craftsmen and Jewish and foreign mercha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63341 — the rise stopped cold]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Towns and trade in the GDL. Then let your companion ask you one hard question about it — answer from the lesson.

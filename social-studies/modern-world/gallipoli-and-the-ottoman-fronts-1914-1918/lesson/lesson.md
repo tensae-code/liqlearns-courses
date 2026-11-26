@@ -12,6 +12,8 @@ Above them all stands Gallipoli, the empire's one immortal victory of the war �
 
 In your mind's eye: the Gallipoli peninsula — trenches on the ridges above the straits, warships held off in the water below. The student points to the straits and says why holding them mattered to the whole empire.
 
+[Picture 63337 — three kinds of front]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: The offensive, defensive and aid fronts. Then let your companion ask you one hard question about it — answer from the lesson.

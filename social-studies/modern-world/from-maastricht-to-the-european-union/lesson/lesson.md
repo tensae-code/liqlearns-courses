@@ -10,11 +10,15 @@ Maastricht turns the Community into a Union with a single currency project (the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63328 — from community to union]
+
 ## Sub lesson 2 — Modulo 14 §§8–9 Dalla Cee all'Unione europea; Il difficile cammino dell'Unione allargata
 
 Maastricht builds the Union and enlargement carries it east; European citizenship (the module's Civica box) is the promise the difficult road must keep
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63329 — the difficult road east]
 
 ## Say it to your companion
 

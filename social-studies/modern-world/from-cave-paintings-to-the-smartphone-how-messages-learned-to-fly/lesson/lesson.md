@@ -10,11 +10,15 @@ The first messages are paintings on cave walls; then come letters and the post c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63325 — faster and farther]
+
 ## Sub lesson 2 — The global village
 
 The Class 4 story continues into the age of mass media — newspapers and magazines, radio and television, then the computer, the internet and social media shrink the world into what the book, quoting Marshall McLuhan, calls a global village.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63326 — the global village]
 
 ## Say it to your companion
 

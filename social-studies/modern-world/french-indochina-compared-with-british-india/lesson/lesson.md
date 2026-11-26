@@ -10,6 +10,8 @@ two colonial systems are compared colony by colony — taxes, plantations, schoo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63323 — compared item by item]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §9.2 How did the consequences of French rule in Indochina differ from the consequences of British rule in India? — two colonial systems are compared colony by colony — taxes, plantations, schools, resistance. Then let your companion ask you one hard question about it — answer from the lesson.

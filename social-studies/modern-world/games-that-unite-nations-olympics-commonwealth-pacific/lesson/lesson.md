@@ -10,6 +10,8 @@ The modern Olympics revive Olympia's ancient games through Coubertin's IOC (1894
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63338 — games that unite]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Olympic, Commonwealth and Pacific Games. Then let your companion ask you one hard question about it — answer from the lesson.

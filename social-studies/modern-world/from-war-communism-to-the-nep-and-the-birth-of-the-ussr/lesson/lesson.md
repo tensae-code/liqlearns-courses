@@ -10,11 +10,15 @@ famine and revolt force the NEP retreat (Graziosi's Storiografia calls it the on
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63331 — the nep retreat]
+
 ## Sub lesson 2 — Modulo 1, Cap. 2 §§7–8 La Russia comunista; L'Urss da Lenin a Stalin
 
 the Comintern's 21 Points (Fare storia) export the model while the USSR consolidates at home; Lenin (Personaggi) dies and Stalin inherits — the succession that decides the century's other totalitarianism
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63332 — stalin inherits]
 
 ## Say it to your companion
 
