@@ -10,17 +10,23 @@ Schooling, universities and research institutes expand across the republic and B
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62312 — into orbit]
+
 ## Sub lesson 2 — Belarusian literature, late 1950s — 1980s
 
 The Thaw rehabilitates repressed writers, and Vasil Bykau's war prose turns the village and the front into questions of conscience
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62313 — questions of conscience]
+
 ## Sub lesson 3 — Theatre, music and visual art, late 1950s — 1980s
 
 Theatres, composers and painters work inside socialist realism's frame while quietly widening what can be said
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62314 — inside the frame widening]
 
 ## Say it to your companion
 

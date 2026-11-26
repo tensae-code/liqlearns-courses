@@ -10,6 +10,8 @@ War with Russia and Sweden ruins the land, the Vasa line ends, and after Jan Sob
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62322 — magnates at war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The GDL in the second half of the 17th century. Then let your companion ask you one hard question about it — answer from the lesson.

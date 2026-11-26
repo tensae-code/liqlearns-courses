@@ -10,11 +10,15 @@ Moscow orders "acceleration" of a stalling economy, but speed without change of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62327 — speed without change]
+
 ## Sub lesson 2 — Perestroika in the BSSR and its results
 
 Gorbachev's perestroika brings contested elections, abolition of the party's constitutional monopoly and the first multiparty stirrings in Belarus
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62328 — first multiparty stirrings]
 
 ## Say it to your companion
 

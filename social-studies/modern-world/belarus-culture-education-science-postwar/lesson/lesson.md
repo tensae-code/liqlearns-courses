@@ -10,11 +10,15 @@ Schools, universities and the Academy of Sciences are rebuilt from ruins and a n
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62315 — rebuilt from ruins]
+
 ## Sub lesson 2 — Literature and art
 
 A writers' union shrunk to 47 members by war regrows around Melezh, Shamyakin and Bryl, but a 1947 party decree orders literature back into line
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62316 — regrowing then ordered back]
 
 ## Say it to your companion
 

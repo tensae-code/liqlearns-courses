@@ -10,11 +10,15 @@ Pupils mark the first factories and sugar works, the great fairs, and Kiselyov's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62318 — factories fairs allotments]
+
 ## Sub lesson 2 — Communications routes — canals and the first steamship
 
 Pupils number the shipping canals (Dnieper-Bug, Ogiński, Augustów, Berezina system) and find the river on which Belarus's first steamship appeared
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62319 — canals and a first steamship]
 
 ## Say it to your companion
 

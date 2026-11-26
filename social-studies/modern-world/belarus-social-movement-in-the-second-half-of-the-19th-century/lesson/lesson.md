@@ -10,6 +10,8 @@ Pupils mark the Lutskevich brothers' enlightenment circle, the Belarusian Social
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62330 — circles parties a congress]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The social movement in the second half of the 19th century. Then let your companion ask you one hard question about it — answer from the lesson.

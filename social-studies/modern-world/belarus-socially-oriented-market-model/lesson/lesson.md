@@ -10,6 +10,8 @@ After the 1990s crisis the "Belarusian model" of a socially oriented market econ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62331 — the belarusian model]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Main directions of social and economic development. Then let your companion ask you one hard question about it — answer from the lesson.

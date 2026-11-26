@@ -10,11 +10,15 @@ Pupils sign the craft and manufactory towns, the tobacco, match, shipbuilding an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62325 — works and strikes]
+
 ## Sub lesson 2 — Industry and towns at the beginning of the 20th century
 
 Pupils date the railway lines decade by decade and circle the towns over 100,000 people and the great paper factories
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62326 — railways decade by decade]
 
 ## Say it to your companion
 

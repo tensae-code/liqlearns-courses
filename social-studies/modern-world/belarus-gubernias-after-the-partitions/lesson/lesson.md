@@ -10,6 +10,8 @@ Pupils shade what each of the three partitions took and name the five gubernias 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62323 — five gubernias]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The five gubernias — Belarus divided after the partitions. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Pupils draw the front line of late 1915 and its 1916 stabilisation, the Sventsya
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62324 — the front line 1915]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The First World War and February 1917 in Belarus. Then let your companion ask you one hard question about it — answer from the lesson.

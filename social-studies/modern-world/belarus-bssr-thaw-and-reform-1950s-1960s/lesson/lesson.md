@@ -18,11 +18,15 @@ Khrushchev's Thaw loosens fear and denounces the cult of personality, but the pa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62310 — fear loosens monopoly stays]
+
 ## Sub lesson 3 — Social and economic development in the Thaw
 
 The scientific-technical revolution reaches Belarus as sovnarkhoz managers and new chemical, radio and machine plants reshape work
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62311 — new plants reshape work]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The sovereign republic funds schools, science and a national-cultural revival wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62320 — revival and argument]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Education, science and culture in the sovereign era. Then let your companion ask you one hard question about it — answer from the lesson.

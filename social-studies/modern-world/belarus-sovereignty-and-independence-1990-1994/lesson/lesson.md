@@ -10,6 +10,8 @@ The 1990 sovereignty declaration, the USSR's end in December 1991, a new name an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62333 — a state remade]
+
 ## Sub lesson 2 — Establishing state sovereignty
 
 Sovereignty is spelled out in symbols, citizenship and law as Belarus decides what an independent state must hold
