@@ -11,7 +11,11 @@ The Grade 6 book defines tissues and then **classifies** them — sorts them int
 
 In your mind's eye: a leaf and a piece of muscle side by side, each magnified in a circle to show crowds of like cells joined together. Say what the two circles have in common before reading on.
 
+[Picture 36958 — a leaf and a piece of muscle, each magnified — crowds of like cells joined together]
+
 In your mind's eye: single cells gathering into a joined sheet, then the sheet folding into an organ. Say what each step adds.
+
+[Picture 36959 — single cells gather into a joined sheet — a tissue — and the sheet folds into an organ]
 
 ## Sub lesson 2 — Plant tissues and animal tissues
 

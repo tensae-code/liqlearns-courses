@@ -9,7 +9,11 @@ X-rays as a form of energy used to detect bone fractures with a radiograph; comm
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36963 — the X-ray set-up — the machine, the arm, and the film that becomes the radiograph]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 36964 — the rays pass through, and the radiograph shows the fracture]
 
 ## The key ideas
 

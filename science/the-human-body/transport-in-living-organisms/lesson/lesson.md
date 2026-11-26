@@ -9,17 +9,23 @@ Kazakhstan's books teach this as their own lesson — "How the transport of nutr
 
 In your mind's eye: how the transport of nutrients in living organisms takes place as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36960 — transport in a plant — the roots take in, the stem carries up, the leaves receive]
+
 ## Sub lesson 2 — Transport of nutrients in living organisms
 
 Kazakhstan's books teach this as their own lesson — "Transport of nutrients in living organisms". The learner works through the books' own presentation of transport of nutrients in living organisms — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: transport of nutrients in living organisms as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36961 — transport in the body — the blood carries nutrients from the gut to every part]
+
 ## Sub lesson 3 — Transport of nutrients
 
 Kazakhstan's books teach this as their own lesson — "Transport of nutrients". The learner works through the books' own presentation of transport of nutrients — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: transport of nutrients as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 36962 — in a plant the vessels carry; in an animal the blood carries]
 
 ## The key ideas
 
