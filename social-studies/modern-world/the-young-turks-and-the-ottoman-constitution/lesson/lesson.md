@@ -10,6 +10,8 @@ the Young Ottomans win a constitution (1876), Abdulhamid II dissolves the parlia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39929 — youngturks]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. V §34 Turkey at the end of the 19th – beginning of the 20th century — the Young Ottomans win a constitution (1876), Abdulhamid II dissolves the parliament and rules by terror for thirty years; the officers' Union and Progress society — the Young Turks — rises in the army, and in July 1908 the Monastir garrison's revolt forces the constitution back to life. Then let your companion ask you one hard question about it — answer from the lesson.

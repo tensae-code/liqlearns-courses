@@ -10,6 +10,8 @@ The annex gives children names to inherit. Its biographies tell of Rosa 'Muki' B
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 39921 — names]
+
 ## Sub lesson 2 — Writing down what was done — Soibada, the Nobel Prize and CHEGA!
 
 Memory is also organised, not only honoured. The annex records the Soibada plenary assembly of 1976 and the prolonged people's war, with chronologies for 1976–78 and 1983. It records the world's recognition: the 1996 Nobel Peace Prize to Bishop Belo and José Ramos-Horta. And it records the reckoning: the CAVR, the truth and reconciliation commission whose report is known as CHEGA! — the nation writing down what was done to it, as evidence for its children.

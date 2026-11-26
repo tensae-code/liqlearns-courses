@@ -10,6 +10,8 @@ old empires that cannot reform — Ottoman, Persian, Chinese — bend or break u
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39912 — bendbreak]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §12 The crisis of traditional societies — old empires that cannot reform — Ottoman, Persian, Chinese — bend or break under industrial Europe's pressure. Then let your companion ask you one hard question about it — answer from the lesson.

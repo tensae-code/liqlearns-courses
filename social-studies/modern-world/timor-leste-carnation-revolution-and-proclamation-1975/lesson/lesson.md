@@ -10,6 +10,8 @@ In Portugal, a dictatorship falls in the Carnation Revolution. The book teaches 
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 39924 — carnation]
+
 ## Sub lesson 2 — Nine days of freedom in Dili
 
 In Dili, Fretilin proclaims the Democratic Republic of Timor-Leste on 28 November 1975. Francisco Xavier do Amaral becomes president, and the anthem Pátria is sung for the first time. The book gives this freedom its true measure: nine days. Nine days of an independent republic before the invasion that the next lesson tells.

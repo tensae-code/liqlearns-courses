@@ -10,6 +10,8 @@ the Tudors tame the nobles after the Wars of the Roses, break with Rome and make
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39907 — crowncentre]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §5 The strengthening of royal power in England — the Tudors tame the nobles after the Wars of the Roses, break with Rome and make the crown the state's centre. Then let your companion ask you one hard question about it — answer from the lesson.

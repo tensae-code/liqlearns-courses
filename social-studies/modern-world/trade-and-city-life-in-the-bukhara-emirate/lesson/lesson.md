@@ -10,6 +10,8 @@ caravans link Bukhara to Russia, India and Kashgar; the city's domed bazaars and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39913 — caravans]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. III §§16–17 The economic life of the Emirate; City life and trade in the Bukhara Emirate — caravans link Bukhara to Russia, India and Kashgar; the city's domed bazaars and craft quarters feed a trade the emirate taxes but cannot protect. Then let your companion ask you one hard question about it — answer from the lesson.

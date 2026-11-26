@@ -10,6 +10,8 @@ In December 1975, Indonesia — the giant neighbour — invades the newly procla
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 39920 — giantneighbour]
+
 ## Sub lesson 2 — Encirclement and annihilation
 
 The invasion becomes campaigns of encirclement and annihilation, and the population is devastated. The book does not teach this only as operations on a map: children read photographs, and they read a poem — Esperanças Rasgadas, Torn Hopes, by Xanana Gusmão — so the war is felt in a person's words as well as counted in campaigns. The people's army retreats to the mountains as the bombing campaigns begin.

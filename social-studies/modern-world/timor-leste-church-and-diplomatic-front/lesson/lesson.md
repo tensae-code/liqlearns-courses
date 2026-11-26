@@ -10,6 +10,8 @@ Under occupation, the Catholic Church becomes a shelter for the people — a pla
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 39923 — tasitolu]
+
 ## Sub lesson 2 — Diplomats carry the cause to the world
 
 The second weapon in this lesson carries no gun at all: diplomacy. A handful of diplomats carry the cause of a small occupied country to the United Nations and to the world, keeping its claim alive abroad through all the years when it cannot be won at home.

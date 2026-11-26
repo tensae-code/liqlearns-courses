@@ -10,6 +10,8 @@ one party, no separation of powers, private property abolished; the personality 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39915 — oneparty]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 34: Regimul totalitar în România (1944–1989) — one party, no separation of powers, private property abolished; the personality cult raises Elena Ceaușescu to deputy prime minister while five-year plans modernise and strangle the economy. Then let your companion ask you one hard question about it — answer from the lesson.

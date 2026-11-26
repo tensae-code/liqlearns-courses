@@ -10,6 +10,8 @@ Tudor, a small boyar from Oltenia, raises the pandurs and addresses memoranda to
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39906 — pandurs]
+
 ## Sub lesson 2 — §16: Răscoala de la 1821 de sub conducerea lui Tudor Vladimirescu
 
 Tudor expects Russia to back the Eteria and the Greeks to help the Romanians; Ypsilanti instead means to use the Principalities, Tudor reaches Colentina outside Bucharest, and the rising is crushed

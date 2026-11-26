@@ -10,6 +10,8 @@ Crimean defeat exposes the empire's backwardness; Alexander II reforms, 96 peasa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39908 — reforms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §28: Reformele ţariste în Basarabia şi consecinţele lor — Crimean defeat exposes the empire's backwardness; Alexander II reforms, 96 peasant disturbances shake Bessarabia, troops enter Bălți and Soroca, and many are executed with rods. Then let your companion ask you one hard question about it — answer from the lesson.

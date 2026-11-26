@@ -10,6 +10,8 @@ The resistance does not live only in the mountains. Inside the towns, secret —
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 39922 — courier]
+
 ## Sub lesson 2 — Renetil and Solidamor — resistance inside Indonesia
 
 The clandestine front reaches inside Indonesia itself. Student networks such as Renetil organise Timorese students studying there, and — the book insists children notice this — Indonesians themselves organise in solidarity groups such as Solidamor, supporting Timor-Leste's cause from inside the occupying country. The enemy, the lesson shows, was a government and an army, never a whole people.

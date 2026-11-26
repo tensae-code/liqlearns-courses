@@ -10,6 +10,8 @@ Vienna makes Transylvania its south-eastern military bastion, annexes Oltenia to
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39909 — bastionbishop]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lecția 13: Transilvania sub dominația habsburgică — Vienna makes Transylvania its south-eastern military bastion, annexes Oltenia toward the Lower Danube, and reforms every corner of life — Bishop Inochentie Micu pleads the Romanians' cause. Then let your companion ask you one hard question about it — answer from the lesson.

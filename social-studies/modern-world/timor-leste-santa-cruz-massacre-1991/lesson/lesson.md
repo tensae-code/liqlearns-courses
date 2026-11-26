@@ -10,6 +10,8 @@ On 12 November 1991, young mourners march to the Santa Cruz cemetery. Soldiers o
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 39917 — santacruz]
+
 ## Sub lesson 2 — The tape that turned the world's eyes
 
 What makes Santa Cruz different from earlier killings is a camera. Foreign journalists film the shooting, and the tape travels: the occupation can no longer be hidden, and the massacre's impact reaches the whole world. The book also recalls the Kraras massacre alongside it — an earlier massacre the world did not see — so children learn both what happened, and what difference being seen made.

@@ -10,6 +10,8 @@ Tokugawa shoguns unify Japan, expel the Christians and lock the country (sakoku)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39916 — sakoku]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §21 Japan in the 16th–18th centuries — Tokugawa shoguns unify Japan, expel the Christians and lock the country (sakoku) for two centuries of guarded peace. Then let your companion ask you one hard question about it — answer from the lesson.

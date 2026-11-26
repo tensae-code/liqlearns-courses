@@ -10,11 +10,15 @@ people walk, ride horses and camels, pull carts, then drive fuel cars, trains, s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39911 — feettoelectric]
+
 ## Sub lesson 2 — Unit 4 Lesson 1: transport development strand
 
 developing transport solves the distance problem between countries and opens and lights Jordan's roads
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39910 — litroad]
 
 ## Say it to your companion
 

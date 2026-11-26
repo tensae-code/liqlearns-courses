@@ -10,6 +10,8 @@ In 1998, political change in Indonesia opens a door that 24 years of resistance 
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 39919 — thevote]
+
 ## Sub lesson 2 — Scorched earth, then the flag again — 20 May 2002
 
 The answer to the vote is fire: as Indonesia leaves, scorched-earth destruction burns the country the people have just chosen. But the story the book tells does not end in ashes. On 20 May 2002, independence is restored — the republic proclaimed for nine days in 1975 is raised again, this time to stay.

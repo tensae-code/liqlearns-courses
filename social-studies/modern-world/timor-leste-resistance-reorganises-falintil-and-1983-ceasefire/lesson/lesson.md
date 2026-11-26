@@ -10,6 +10,8 @@ Beaten as a conventional army, the resistance does not end — it reorganises. F
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 39918 — threefronts]
+
 ## Sub lesson 2 — The 1983 ceasefire — Kontaktu Dame
 
 In 1983 comes a ceasefire — Kontaktu Dame. The book teaches it honestly: even a ceasefire becomes a weapon, a pause each side uses. When it collapses, uprisings follow. The lesson is that a people's resistance survives not only battles, but also the peace that fails.

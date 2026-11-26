@@ -10,11 +10,15 @@ Yugoslavia dissolves into Europe's first wars since 1945 — the "war on civilia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39928 — dayton]
+
 ## Sub lesson 2 — Modulo 14 §5 La crisi jugoslava
 
 ethnic cleansing (the module's keyword) returns to Europe; Pirjevec's Fare storia piece on Srebrenica and Romano's on the Europe of nationalisms frame the federation's bloody dissolution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39927 — pieces]
 
 ## Say it to your companion
 

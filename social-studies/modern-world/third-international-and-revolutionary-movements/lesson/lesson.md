@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: after 1917 revolution 
 after 1917 revolution is attempted across Europe and America, and the Comintern is founded to lead it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39926 — twoworlds1919]
 ## Sub lesson 2 — Part I, Lesson 3: III — Revolutionary movements; the Third International
 
 revolution is attempted across the capitalist world and the Comintern is founded to lead it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39925 — worldbanners]
 
 ## Say it to your companion
 
