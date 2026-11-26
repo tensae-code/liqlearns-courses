@@ -10,11 +10,15 @@ Audio is added with the **`<audio>` element**: its `src` names the sound file (o
 
 In your mind's eye: the audio element.
 
+[Picture 45783 — the audio element]
+
 ## Sub lesson 2 — Formats, fallback and fit
 
 Browsers speak different **formats** (MP3 nearly everywhere; others beside it), so pages offer **more than one source** and a **fallback message** for browsers that can play none. Audio's fit is judged like video's: the file's **weight** against its purpose (a greeting against a concert), a **transcript or text alternative** for those who cannot hear, and a reason the page needs sound at all. The lesson completes the multimedia pair of the unit: video for the eye's motion, audio for the ear — each added by an element, each governed by the visitor's control.
 
 In your mind's eye: formats, fallback and fit.
+
+[Picture 45784 — formats, fallback and fit]
 
 ## Say it to your companion
 
