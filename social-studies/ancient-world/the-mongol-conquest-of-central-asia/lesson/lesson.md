@@ -10,6 +10,8 @@ in 1219–21 the Mongol storm breaks Bukhara, Samarkand and Khorezm; cities, can
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61745 — the mongol storm 1219-21]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 21. The invasion of Genghis Khan — in 1219–21 the Mongol storm breaks Bukhara, Samarkand and Khorezm; cities, canals and libraries are destroyed in the homeland's greatest catastrophe. Then let your companion ask you one hard question about it — answer from the lesson.

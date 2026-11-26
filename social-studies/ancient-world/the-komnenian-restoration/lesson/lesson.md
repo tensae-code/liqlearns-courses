@@ -10,11 +10,15 @@ Alexios I begs western help, rebuilds an army of family and pronoia grants, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61725 — a partial restoration]
+
 ## Sub lesson 2 — The Komnenoi: internal policy (1081–1185)
 
 Alexios I saves a collapsing empire and his dynasty rules through family, ceremony and diplomacy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61726 — family ceremony diplomacy]
 
 ## Sub lesson 3 — The Komnenoi's eastern policy: Islam spreads, Asia Minor is lost
 
@@ -22,11 +26,15 @@ emperors campaign east but the Turkish emirates keep the Anatolian heartland
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61727 — asia minor is lost]
+
 ## Sub lesson 4 — The Komnenoi's Italian and Balkan policy
 
 Venice buys trade privileges with its fleet, Normans invade, and Balkan peoples test the empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61728 — venice normans balkans]
 
 ## Say it to your companion
 

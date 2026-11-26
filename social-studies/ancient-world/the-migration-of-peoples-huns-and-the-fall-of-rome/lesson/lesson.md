@@ -12,6 +12,8 @@ The chain ends at Rome itself. An empire already strained cannot hold borders th
 
 In your mind's eye: the great migration in motion — Hun horsemen driving westward while Germanic peoples with carts and families stream toward Rome's frontiers. The student traces the push with a finger and says where it ends.
 
+[Picture 61743 — people pressed against people]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Kavimler Göçü — the Huns' push and Rome's end. Then let your companion ask you one hard question about it — answer from the lesson.

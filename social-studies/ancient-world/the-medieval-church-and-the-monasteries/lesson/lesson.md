@@ -10,6 +10,8 @@ parishes, orders and monasteries school, heal, copy and govern the medieval West
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61739 — school heal copy govern]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 6.II.2 The role of the Roman Catholic Church and the monasteries in organising medieval life — parishes, orders and monasteries school, heal, copy and govern the medieval West. Then let your companion ask you one hard question about it — answer from the lesson.

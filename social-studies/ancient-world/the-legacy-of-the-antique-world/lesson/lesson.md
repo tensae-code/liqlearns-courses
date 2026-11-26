@@ -10,6 +10,8 @@ pupils sum up what Greece and Rome together left — democracy, law, language, e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61732 — what greece and rome left]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3 §7: the achievements of antique civilisation — pupils sum up what Greece and Rome together left — democracy, law, language, engineering and the idea of citizenship. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ a peaceful Arawak-speaking people sail from South America, settle by the sea, fi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61734 — the first people of the islands]
+
 ## Sub lesson 2 — Lucayans and Eleutheran Adventurers: the Lucayans
 
 the peaceful Lucayans, skilled sailors and fishermen who live in huts, sleep in hammocks and live off the land, leave a legacy the whole world still uses — the hammock (Lucayans and Eleutheran Adventurers: the Lucayans)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 61735 — the hammock their gift]
 
 ## Sub lesson 3 — Early Settlers: the Lucayans, first people to come to the islands
 
@@ -22,11 +26,15 @@ the first arrivals are peaceful sailors and fishermen who live in huts, sleep in
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61736 — in harmony with nature]
+
 ## Sub lesson 4 — Bahamian History Prior to Independence 1973 Part 1: the timeline of peoples
 
 after Columbus, group after group finds refuge on the islands — Eleutheran Adventurers (1684 in this telling), pirates, Loyalists, slaves — each changing the islands for better or worse; with Woodes Rogers an organised society begins that leads, idea by idea, to independence (Bahamian History Prior to Independence 1973 Part 1: the timeline of peoples)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 61737 — a timeline of peoples]
 
 ## Say it to your companion
 

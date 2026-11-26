@@ -10,6 +10,8 @@ the Yuezhi become the Kushans; under Kanishka an empire joins Central Asia to In
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61729 — kanishkas trusted gold]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§44–45 The Kushan state — the Yuezhi become the Kushans; under Kanishka an empire joins Central Asia to India, carries Buddhism east and mints gold the world trusts. Then let your companion ask you one hard question about it — answer from the lesson.

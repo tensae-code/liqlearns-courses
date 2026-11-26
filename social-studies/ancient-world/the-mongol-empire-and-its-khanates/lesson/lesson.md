@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: Ögödei builds Karako
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61746 — ogodei consolidates]
+
 ## Sub lesson 2 — Ch. 4.2.2 The empire under Güyük and Möngke Khans
 
 regencies and succession struggles end with Möngke, whose census, religious tolerance and world-embracing court make the empire a single system

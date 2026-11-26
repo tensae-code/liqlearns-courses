@@ -10,6 +10,8 @@ monks copy books by hand for a thousand years; the illuminated page becomes the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61741 — copied by hand for a thousand years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 6: The manuscript in the Middle Ages — monks copy books by hand for a thousand years; the illuminated page becomes the Middle Ages' graphic art. Then let your companion ask you one hard question about it — answer from the lesson.

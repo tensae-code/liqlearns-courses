@@ -10,11 +10,15 @@ the empire speaks Greek that slowly changes from the classics toward the languag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61730 — greek slowly changing]
+
 ## Sub lesson 2 — Unit 42 Language exercises
 
 pupils compare spoken Greek today with written Greek then — their own tongue as a source
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61731 — their own tongue as a source]
 
 ## Say it to your companion
 

@@ -18,6 +18,8 @@ the communes swear their oath at Pontida (1167) and beat Barbarossa's empire at 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61723 — pontida and legnano]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 2, Cap. 4 §§1–2 The medieval cities; The development of the Communes — Italian city-dwellers swear collective oaths and govern themselves through consuls and podestà, raising tower-houses and writing their own statutes while bishops and emperors look on. L'Europa dei comuni; Lo scontro tra l'imperatore e i comuni italiani; Il giuramento di Pontida — the communes swear their oath at Pontida (1167) and beat Barbarossa's empire at Legnano; canon law grows in the same cities as their other constitution. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The guide teaches the Marinid state's founding and stages: Zenata horsemen becom
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61738 — horsemen become sultans]
+
 ## Sub lesson 2 — Madrasas and the Mawlid — creativity still alive
 
 Marinid creativity is studied through madrasa architecture — colleges in Fez so beautiful the dynasty is remembered in tile and cedar — and through a Marinid tradition still alive: the celebration of the Prophet's Birthday (Mawlid).

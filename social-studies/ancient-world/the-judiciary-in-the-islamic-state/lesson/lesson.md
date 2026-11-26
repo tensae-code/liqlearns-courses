@@ -10,6 +10,8 @@ the qadi's court, the chief judge and the mazalim jurisdiction turn justice into
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61724 — justice becomes an institution]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.4 The judiciary — the qadi's court, the chief judge and the mazalim jurisdiction turn justice into an institution separate from the ruler's whim. Then let your companion ask you one hard question about it — answer from the lesson.
