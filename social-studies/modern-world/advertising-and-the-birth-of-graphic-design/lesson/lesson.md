@@ -10,6 +10,8 @@ the poster and the advertisement hire the artist, and 'graphic design' is born a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62030 — graphic design is born]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Units 14–15: Advertising and graphic design; advertising and creative work — the poster and the advertisement hire the artist, and 'graphic design' is born as a trade. Then let your companion ask you one hard question about it — answer from the lesson.

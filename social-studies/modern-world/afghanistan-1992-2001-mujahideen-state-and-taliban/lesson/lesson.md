@@ -10,6 +10,8 @@ after Mojaddedi's interim term Rabbani heads the Islamic State, factional war ru
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62035 — a ruined capital]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 27: A brief review of Afghanistan's events 1371–1380 SH — after Mojaddedi's interim term Rabbani heads the Islamic State, factional war ruins Kabul, and the decade runs on to the Taliban period. Then let your companion ask you one hard question about it — answer from the lesson.

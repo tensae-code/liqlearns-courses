@@ -10,6 +10,8 @@ Dost Mohammad's emirate survives two British invasions — the buffer state is b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62041 — the buffer state is born]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §35 Afghanistan in the first half and 1860s of the 19th century — Dost Mohammad's emirate survives two British invasions — the buffer state is born in blood on the khanates' own frontier. Then let your companion ask you one hard question about it — answer from the lesson.

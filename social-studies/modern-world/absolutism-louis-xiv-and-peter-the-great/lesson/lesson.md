@@ -10,11 +10,15 @@ the Sun King and the reforming tsar embody absolute monarchy West and East
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62024 — west and east]
+
 ## Sub lesson 2 — §19 Features of absolutism in England, France and Russia
 
 three monarchies show absolutism's national faces
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62025 — three national faces]
 
 ## Sub lesson 3 — 7.1 Whose power was more absolute — Louis XIV's or Peter the Great's?
 
@@ -22,17 +26,23 @@ two absolute monarchs are compared reform by reform
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62026 — whose was more absolute]
+
 ## Sub lesson 4 — §20–21 Stages of the feudal state's development; absolutism's features in the West (France, England, Russia)
 
 monarchy climbs from feudal to absolute across three kingdoms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62027 — from feudal to absolute]
+
 ## Sub lesson 5 — §21 Features of absolutism in England, France and Russia
 
 three crowns show absolutism's strengths and varieties
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62028 — three crowns varieties]
 
 ## Say it to your companion
 

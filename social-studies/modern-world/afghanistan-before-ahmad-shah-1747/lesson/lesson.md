@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: the map shows a land p
 the map shows a land parcelled out — the Hotak state at Kandahar (1709–1737), the Uzbek Junaydi state in the north, Mughals in the east, Safavids in the west
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62036 — a land parcelled out]
 ## Sub lesson 2 — Lesson 2: What was the country's social state before Ahmad Shah Abdali's rise?
 
 under the invading Shaybanids, Safavids and Baburids, trade and agriculture stagnate and Herat's art school can no longer shine
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62037 — trade stagnates]
 ## Sub lesson 3 — Lesson 3: How were economic conditions before Ahmad Shah Abdali's rise?
 
 the economy of a partitioned land is weighed as the third factor preparing the country's reunification
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62038 — the third factor]
 ## Sub lesson 4 — Chapter 1 (The Revival of Afghanistan), Lesson 1: The political, economic and social state of Afghanistan before Ahmad Shah Baba's rise
 
 the partitioned land of Hotaks, Uzbeks, Mughals and Safavids is analysed in three factors before its refounder appears
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62039 — three factors then a founder]
 
 ## Say it to your companion
 

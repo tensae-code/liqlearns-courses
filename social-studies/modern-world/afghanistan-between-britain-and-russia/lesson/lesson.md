@@ -10,6 +10,8 @@ Sher Ali refuses a British mission and the Second Anglo-Afghan War follows; the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62040 — maiwand 1880]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. V §33 Afghanistan at the end of the 19th – beginning of the 20th century — Sher Ali refuses a British mission and the Second Anglo-Afghan War follows; the Gandamak treaty (1879) costs Kabul its foreign policy, the Kabul residency is stormed, and Abdur Rahman keeps a guarded internal independence — Britain leaves Kandahar beaten by Afghan resistance at Maiwand (1880). Then let your companion ask you one hard question about it — answer from the lesson.

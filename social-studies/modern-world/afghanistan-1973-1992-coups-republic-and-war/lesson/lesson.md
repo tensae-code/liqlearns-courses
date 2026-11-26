@@ -10,6 +10,8 @@ Zahir Shah, the last king, falls to Daoud's 1973 coup and a republic; the 1978 S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62032 — coup coup war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 4, Lesson 26: A brief review of Afghanistan's events 1352–1371 SH — Zahir Shah, the last king, falls to Daoud's 1973 coup and a republic; the 1978 Saur coup brings Taraki's revolutionary regime and the country slides toward war. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: an official salon hung with polished mythological and historical canvases. The student points to the establishment the rebels will define themselves against.
 
+[Picture 62029 — what governments call good art]
+
 ## Sub lesson 3 — The establishment to rebel against
 
 The academy is the establishment the young rebels of the century define themselves against.

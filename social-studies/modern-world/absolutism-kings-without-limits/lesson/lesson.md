@@ -10,11 +10,15 @@ kings claim power from God alone — Richelieu breaks France's rivals for Louis 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62022 — power from god alone]
+
 ## Sub lesson 2 — §3 Political changes in Europe: absolute monarchies
 
 kings gather every thread of power into one hand and rule as the state itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62023 — every thread in one hand]
 
 ## Say it to your companion
 
