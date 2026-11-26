@@ -10,17 +10,23 @@ Plato and others draw perfect cities on paper to judge the flawed ones they live
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60780 — perfect cities on paper]
+
 ## Sub lesson 2 — §25 History and philosophy of ancient Greece
 
 Herodotus writes the first history while philosophers ask how to live and rule
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60781 — first history big questions]
+
 ## Sub lesson 3 — §25 Greek philosophers' ideal society (lesson plan)
 
 Plato's city is built and judged in class debate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60782 — city judged in debate]
 
 ## Say it to your companion
 

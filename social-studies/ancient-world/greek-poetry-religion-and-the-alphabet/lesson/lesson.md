@@ -10,11 +10,15 @@ Homer's epics and the Olympian gods give scattered Greeks one language of story 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60783 — story and worship]
+
 ## Sub lesson 2 — Ch. 4 Art and writing
 
 Greeks borrow the Phoenician alphabet, add vowels, and paint geometric vases whose shapes serve every use of daily life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60784 — borrowed letters vowels]
 
 ## Sub lesson 3 — Ch. 9 Letters
 
@@ -22,11 +26,15 @@ archaic Greece fills with poets and wise sayings — literature becomes the Gree
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60785 — poets and sayings]
+
 ## Sub lesson 4 — Ch. 3 Poetry and religion exercises
 
 pupils find Olympian gods' names hidden in today's everyday words
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60786 — gods in our words]
 
 ## Sub lesson 5 — Ch. 4 Art and writing exercises
 

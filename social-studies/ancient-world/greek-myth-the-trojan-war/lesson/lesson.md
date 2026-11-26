@@ -66,11 +66,15 @@ Odysseus's wooden horse smuggles warriors inside the celebrating city, Laocoon's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60763 — the wooden horse]
+
 ## Sub lesson 9 — Unit 5, ch. 1 Apple of Discord exercises
 
 matching work rebuilds the chain from Eris's apple to Paris's judgement
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60764 — apple to war chain]
 
 ## Sub lesson 10 — Unit 5, ch. 2 Sacrifice of Iphigenia exercises
 
@@ -78,11 +82,15 @@ pupils table the Achaean kings and their cities gathering at Aulis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60765 — table of kings]
+
 ## Sub lesson 11 — Unit 5, ch. 3 Achaeans reach Troy exercises
 
 map completion traces each contingent's route from home port to Troy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60766 — trace the contingents]
 
 ## Sub lesson 12 — Unit 5, ch. 4 Wrath of Achilles exercises
 
@@ -90,11 +98,15 @@ exercises probe why Achilles's anger, not Trojan strength, nearly loses the war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60767 — one mans anger]
+
 ## Sub lesson 13 — Unit 5, ch. 5 Death of Patroclus exercises
 
 pupils trace who begged Achilles to return and how Patroclus went out in his armour instead
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60768 — how patroclus went out]
 
 ## Sub lesson 14 — Unit 5, ch. 6 Achilles kills Hector exercises
 
@@ -102,11 +114,15 @@ reading work on the duel and Priam's night visit to ransom Hector
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60769 — priam by night]
+
 ## Sub lesson 15 — Unit 5, ch. 7 End of Achilles exercises
 
 pupils unpack the living phrase "Achilles heel" from the hero's death — myth surviving in today's language
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60770 — achilles heel phrase]
 
 ## Sub lesson 16 — Unit 5, ch. 8 Wooden Horse exercises
 
@@ -114,11 +130,15 @@ exercises retell the horse trick and the one night that ended ten years of siege
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60771 — retell the horse trick]
+
 ## Sub lesson 17 — Revision lesson for Units 5, 6: From myth to reality
 
 gap-fill on Priam's Troy and its high walls turns the war story back toward the real city behind it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60772 — myth to reality]
 
 ## Say it to your companion
 
