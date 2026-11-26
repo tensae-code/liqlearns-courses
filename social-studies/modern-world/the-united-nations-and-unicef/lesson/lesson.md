@@ -10,6 +10,8 @@ in 1945 the victors found the UN so war cannot return; in 1946 it creates UNICEF
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39963 — unicef1946]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 47. The Organisation of the United Nations and 48. Children of the world — in 1945 the victors found the UN so war cannot return; in 1946 it creates UNICEF because Europe's war orphans are starving — the peace is organised, not just wished for. Then let your companion ask you one hard question about it — answer from the lesson.

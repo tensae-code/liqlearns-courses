@@ -10,6 +10,8 @@ Paine's Common Sense attacked the very idea of kingship in plain language any re
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39958 — commonsense]
+
 ## Sub lesson 2 — The states experiment with democracy
 
 The new states experimented with democracy, writing their own governments and arguing over how much change the Revolution really made. Under the Articles the union stayed loose — and the looseness began to fail.

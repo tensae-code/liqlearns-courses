@@ -10,6 +10,8 @@ Presidents fall one after another, debts press in, and president vilbrun guillau
 
 In your mind's eye: charlemagne Péralte and the Caco resistance in the hills. Name one way Haitians resisted the occupation.
 
+[Picture 39957 — landing1915]
+
 ## Sub lesson 2 — The Haitian state placed under tutelage
 
 An imposed convention hands washington haiti's customs, finances and a us-officered gendarmerie — sovereignty survives on paper only (Séance 2, La mise sous tutelle de l'État haïtien ?)

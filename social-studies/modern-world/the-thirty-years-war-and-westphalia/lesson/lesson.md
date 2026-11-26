@@ -10,6 +10,8 @@ Habsburg power alarms Europe into thirty years of war; France's victory at Rocro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39977 — westphalia]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea IV, Lecția 6: Europa în timpul Războiului de 30 de Ani — Habsburg power alarms Europe into thirty years of war; France's victory at Rocroi in 1643 breaks the myth of Spanish invincibility, and the Peace of Westphalia (24 October 1648) redraws the map. Then let your companion ask you one hard question about it — answer from the lesson.

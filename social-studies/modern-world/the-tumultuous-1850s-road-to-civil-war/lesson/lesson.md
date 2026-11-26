@@ -10,6 +10,8 @@ The Compromise of 1850 only paused the quarrel over slavery's spread. The Kansas
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39968 — tornpause]
+
 ## Sub lesson 2 — Dred Scott — and John Brown's raid
 
 The Supreme Court's Dred Scott decision told Black Americans they had no rights a court must respect — a ruling meant to settle the question that instead inflamed it. Then John Brown raided Harpers Ferry, trying to arm a slave rising; the South saw its nightmare armed, the North argued over a martyr.

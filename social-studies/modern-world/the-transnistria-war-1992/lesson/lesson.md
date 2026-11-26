@@ -10,11 +10,15 @@ separatists backed by the 14th Army and Cossacks block the Nistru bridges; fight
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39975 — blockedbridges]
+
 ## Sub lesson 2 — Tema 49: Războiul pentru Apărarea Independenței și Integrității Teritoriale ale Republicii Moldova
 
 the Balta–Tiraspol autonomous entity of 1924 becomes the separatist base; Chișinău fights with almost no international support, and Transnistrian separatism cuts deep into the national economy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39974 — cutstrip]
 
 ## Say it to your companion
 

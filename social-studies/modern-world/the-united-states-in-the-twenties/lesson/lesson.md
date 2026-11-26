@@ -10,6 +10,8 @@ jazz (Hobsbawm's Document), the flappers' provocation (image study) and consumer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39960 — jazzshadow]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 2, Cap. 6 §2 The United States of the "roaring" twenties — jazz (Hobsbawm's Document), the flappers' provocation (image study) and consumer prosperity — shadowed by Prohibition, the Klan and the innocence of Vanzetti (Document) awaiting the electric chair. Then let your companion ask you one hard question about it — answer from the lesson.

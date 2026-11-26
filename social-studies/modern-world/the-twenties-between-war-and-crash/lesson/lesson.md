@@ -10,6 +10,8 @@ a fragile prosperity — American loans, Locarno hopes, mass culture — paper o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39967 — paperovercracks]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The decade 1920–1930 — a fragile prosperity — American loans, Locarno hopes, mass culture — paper over the cracks the crash will open. Then let your companion ask you one hard question about it — answer from the lesson.

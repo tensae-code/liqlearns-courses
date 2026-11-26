@@ -10,6 +10,8 @@ America's civil rights movement is studied as the mirror and spark for Australia
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 39959 — mirrorspark]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 4: The Civil Rights Movement (4.5) — America's civil rights movement is studied as the mirror and spark for Australia's own freedom struggles. Then let your companion ask you one hard question about it — answer from the lesson.

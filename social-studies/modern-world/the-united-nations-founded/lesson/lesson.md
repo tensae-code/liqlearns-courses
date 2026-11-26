@@ -10,6 +10,8 @@ the world's parliament is built at San Francisco to outlaw war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39962 — parliament]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §7 The creation and work of the UN; ways of settling international problems in the second half of the 20th century — the world's parliament is built at San Francisco to outlaw war. Then let your companion ask you one hard question about it — answer from the lesson.

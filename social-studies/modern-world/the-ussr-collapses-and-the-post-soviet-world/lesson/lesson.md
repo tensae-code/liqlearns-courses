@@ -10,6 +10,8 @@ perestroika loosens the union until it dissolves in 1991, and fifteen new states
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39954 — looseningcloth]
+
 ## Sub lesson 2 — Theme 4, Lessons 53–55: the collapse of the USSR; the post-Soviet countries
 
 Gorbachev's reforms loosen the union until it breaks apart in 1991, and fifteen new states, Armenia among them, start independent life in hardship

@@ -10,6 +10,8 @@ Yalta and Potsdam paper over a split; the atomic race and Soviet spies deepen it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39969 — moneyanswer]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 5, Unit 2 — Yalta and Potsdam paper over a split; the atomic race and Soviet spies deepen it; Stalin builds his 1945–48 buffer of communist governments, and Truman answers not with armies but money — the Doctrine of 12 March 1947 ("misery and want" are communism's roots) and the Marshall Plan's US$13 billion to sixteen countries (1948–52), which Moscow forbids its satellites to touch. Then let your companion ask you one hard question about it — answer from the lesson.

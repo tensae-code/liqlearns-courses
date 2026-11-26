@@ -10,6 +10,8 @@ one American in five owns a car in the boom; the crash brings Roosevelt's 1933 l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39956 — oneinfive]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 6: Statele Unite ale Americii — one American in five owns a car in the boom; the crash brings Roosevelt's 1933 laws — farm surpluses destroyed for payment, banks helped, industry rebuilt by code. Then let your companion ask you one hard question about it — answer from the lesson.

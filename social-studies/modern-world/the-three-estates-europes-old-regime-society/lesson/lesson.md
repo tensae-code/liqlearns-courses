@@ -10,6 +10,8 @@ European society stands in three ranked orders — clergy, nobility and the burd
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39976 — threeestates]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The three estates — European society stands in three ranked orders — clergy, nobility and the burdened Third Estate — a structure straining under transition. Then let your companion ask you one hard question about it — answer from the lesson.

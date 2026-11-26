@@ -10,6 +10,8 @@ the empires look eternal on the map and are already hollow — mandates, nationa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39966 — hollowempire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 7 §1 Il tramonto del colonialismo — the empires look eternal on the map and are already hollow — mandates, nationalist parties and the first independence movements crack the colonial order between the wars. Then let your companion ask you one hard question about it — answer from the lesson.
