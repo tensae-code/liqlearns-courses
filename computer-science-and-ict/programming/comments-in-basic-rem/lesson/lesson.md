@@ -10,11 +10,15 @@ A BASIC program can carry notes to its human readers: any line (or part of a lin
 
 In your mind's eye: rEM — a note the computer ignores.
 
+[Picture 46889 — rEM — a note the computer ignores]
+
 ## Sub lesson 2 — Writing comments that earn their place
 
 A good REM says **why**, not what: the line `30 LET T = P * R / 100` is clearer with `25 REM T IS THE TAX ON PAY P AT RATE R` than with a remark repeating the arithmetic. Comments belong at the **head of the program** (its name, its job, its writer) and **before any part whose purpose is not obvious**. The rule of proportion is the lesson's rule: comment the thinking, not every line — a program drowned in remarks hides its own code.
 
 In your mind's eye: writing comments that earn their place.
+
+[Picture 46890 — writing comments that earn their place]
 
 ## Say it to your companion
 

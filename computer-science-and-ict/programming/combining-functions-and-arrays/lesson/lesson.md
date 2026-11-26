@@ -10,11 +10,15 @@ A function declares an array parameter as **int a[]** (size left open) and — b
 
 In your mind's eye: passing an array to a function.
 
+[Picture 46883 — passing an array to a function]
+
 ## Sub lesson 2 — The capstone shape — fill, process, print
 
 Because changes are real, the theme's programs settle into a standard crew: a **fill** function reads the array, **process** functions (total, crown, count, transform) work on it, a **print** function shows it, and **main** only calls the crew in order. That is modular programming standing on arrays — the Year 2 book's destination for its whole C++ theme, and the shape its final exercises demand.
 
 In your mind's eye: the capstone shape — fill, process, print.
+
+[Picture 46884 — the capstone shape — fill, process, print]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ On a **grid (quadrillage)** of squares, a character moves **square by square**: 
 
 In your mind's eye: coding a movement — writing the moves.
 
+[Picture 46879 — coding a movement — writing the moves]
+
 ## Sub lesson 2 — Decoding — reading a code back into a journey
 
 **Decoding** is the return trip: given a **row of move signs**, the reader **starts the character on the named square and follows the signs one by one**, moving the character as each sign commands, to find **where the journey ends**. A code and its journey must match exactly: if the character ends in the wrong square, the fault is in the code or in the reading, and comparing the path square by square finds it. Coding and decoding are one skill from its two ends — the year's first programming idea, with no computer at all.
 
 In your mind's eye: decoding — reading a code back into a journey.
+
+[Picture 46880 — decoding — reading a code back into a journey]
 
 ## Say it to your companion
 

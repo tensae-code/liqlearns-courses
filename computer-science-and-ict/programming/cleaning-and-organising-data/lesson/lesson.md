@@ -10,11 +10,15 @@ Collected data is dirty in five recurring ways. **Missing values**: an entry lef
 
 In your mind's eye: a table with five problem cells highlighted in five colours — one empty, one word among numbers, one row repeated, one impossible age, one village spelled a new way.
 
+[Picture 46871 — a table with five problem cells highlighted in five colours — one empty, one word among numbers, one row repeated, one impossible age, one village spelled a new way]
+
 ## Sub lesson 2 — Cleaning and organising — the repairs
 
 Cleaning repairs each fault by its own rule, decided **before** touching the data and applied the **same way everywhere**. Formats are unified (all ages as numbers, all dates in one pattern). Spellings are standardised to one agreed name per thing. Duplicates are hunted by their identifying columns and merged or removed. Missing and impossible values are handled honestly: go back to the source if possible; if not, mark them clearly as missing rather than inventing plausible numbers — an invented value is a lie the analysis will repeat with confidence. Around the cleaning sits the **organising**: one table, one row per record, one column per kind of value, headings agreed — the shape every later tool expects.
 
 In your mind's eye: the messy table from the first sub lesson being repaired cell by cell — words becoming numbers, the double row dissolving, the three village spellings merging into one. Until the table stands clean and even.
+
+[Picture 46872 — the messy table from the first sub lesson being repaired cell by cell — words becoming numbers, the double row dissolving, the three village spellings merging into one. Until the table stands clean and even]
 
 ## Say it to your companion
 

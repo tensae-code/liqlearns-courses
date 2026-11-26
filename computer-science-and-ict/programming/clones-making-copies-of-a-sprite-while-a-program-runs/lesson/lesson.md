@@ -10,11 +10,15 @@ The block at the lesson’s heart is **“create a copy of myself”**: run it, 
 
 In your mind's eye: create a copy of myself.
 
+[Picture 46873 — create a copy of myself]
+
 ## Sub lesson 2 — The fruit seller — rows stocked by clones
 
 The build is **the fruit seller**: **rows of fruit shown by clone blocks** — the seller’s stock is a loop of copying and placing, one sprite becoming a stall. The same lesson’s shop arithmetic runs beside it in the variables lesson: clones stock the stall, variables price it.
 
 In your mind's eye: the fruit seller — rows stocked by clones.
+
+[Picture 46874 — the fruit seller — rows stocked by clones]
 
 ## Say it to your companion
 
