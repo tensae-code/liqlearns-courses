@@ -9,7 +9,11 @@ Paper chromatography: separating colours and chemicals on paper, and where it is
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36987 — paper chromatography — the paper, the ink spot, the water]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36988 — one ink, its colours separated up the paper — yellow, red, blue, green]
 
 ## Sub lesson 2 — Two paper-chromatography methods in the guide
 

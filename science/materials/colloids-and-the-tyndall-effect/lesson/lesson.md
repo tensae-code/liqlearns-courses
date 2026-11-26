@@ -11,7 +11,11 @@ That puts a colloid between the two mixtures learners already know: in a **true 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36989 — three mixtures — a true solution, a colloid like milk, a suspension]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 36990 — after standing — the solution stays clear, the colloid stays spread with nothing settling, the suspension's big particles sink]
 
 ## Sub lesson 2 — The Tyndall effect — light scattered by a colloid
 

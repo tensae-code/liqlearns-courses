@@ -11,7 +11,11 @@ The colours do not spread at once. They rest on the **surface film** of the milk
 
 In your mind's eye: a shallow dish of milk with drops of colour resting on its surface. The student points to the surface film the colours are sitting on.
 
+[Picture 36991 — a shallow dish of milk with drops of colour resting on its surface film]
+
 In your mind's eye: a touch of soap in the milk and the colours suddenly swirling and dancing. Say what broke and what moved.
+
+[Picture 36992 — a touch of soap breaks the film — and the colours suddenly swirl and dance]
 
 ## Sub lesson 2 — Soap breaks the film
 

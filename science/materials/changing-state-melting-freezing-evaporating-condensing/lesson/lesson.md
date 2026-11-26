@@ -9,7 +9,11 @@ Vietnam's Grade 4 *Khoa học 4* names the changes of water's state and diagrams
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36985 — the four changes — ice melts to water, water evaporates to vapour, vapour condenses to water, water freezes to ice]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36986 — the changes at work — steam condenses on a plate above boiling water; water freezes in the tray]
 
 ## Sub lesson 2 — Changes at work in daily life
 

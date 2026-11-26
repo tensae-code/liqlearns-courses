@@ -9,7 +9,11 @@ South Sudan's Primary 6 book gives the composition of air by percentage: **nitro
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36993 — air is a mixture — nitrogen 78, oxygen 21, inert gases 0.97, carbon dioxide 0.03]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36994 — one jar of air — the gases mixed evenly, most of it nitrogen, a fifth oxygen, a sprinkle of the rest]
 
 ## Sub lesson 2 — Oxygen — the active part
 
