@@ -10,11 +10,15 @@ On a **grid (quadrillage)**, every place is a square, and movement is counted in
 
 In your mind's eye: the grid is the robot's map.
 
+[Picture 47304 — the grid is the robot's map]
+
 ## Sub lesson 2 — Turns happen in place
 
 On the grid, a **turn changes facing, not place**: the robot pivots on its square, and the next forward goes a new way. Beginners' classic bug lives here — planning turns as moves, or forgetting that after a turn, “forward” has changed meaning. The séance drills routes with several turns until facing is tracked as carefully as position: a grid program is two counts kept at once, squares and facings.
 
 In your mind's eye: turns happen in place.
+
+[Picture 47305 — turns happen in place]
 
 ## Say it to your companion
 

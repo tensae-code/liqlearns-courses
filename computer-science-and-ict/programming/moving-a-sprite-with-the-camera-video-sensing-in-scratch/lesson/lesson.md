@@ -10,11 +10,15 @@ No mouse, no keys: wave your hand at the camera, and Ayman’s football moves. G
 
 In your mind's eye: turning the video on — motion and direction.
 
+[Picture 47308 — turning the video on — motion and direction]
+
 ## Sub lesson 2 — Ayman’s football — the ball follows your movement
 
 The lesson’s game is **Ayman’s football**: **the ball follows the camera’s motion towards a drawn goal**, driven by the player’s real movement in the room. **Scoring brings clapping and a new backdrop** — the game celebrates with sound and a changed stage.
 
 In your mind's eye: ayman’s football — the ball follows your movement.
+
+[Picture 47309 — ayman's football — the ball follows your movement]
 
 ## Say it to your companion
 

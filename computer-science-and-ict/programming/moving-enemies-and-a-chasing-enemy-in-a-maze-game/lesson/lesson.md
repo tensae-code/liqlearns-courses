@@ -10,6 +10,8 @@ The first enemy is a **patrol**: it moves **between two points**, back and forth
 
 In your mind's eye: three maze enemies in a row — one pacing between two flags, one popping up at a question-marked random place, and one with an arrow always pointing at the player character.
 
+[Picture 47310 — three maze enemies in a row — one pacing between two flags, one popping up at a question-marked random place, and one with an arrow always pointing at the player character]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: enemies patrol between two points, appear at random places, or — smartest — chase the player sprite, and each kind raises the danger differently. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

@@ -10,11 +10,15 @@ The choosing family gives the user ready-made answers. The **check box** switche
 
 In your mind's eye: choosing controls — boxes that tick and pick.
 
+[Picture 47301 — choosing controls — boxes that tick and pick]
+
 ## Sub lesson 2 — Showing and moving controls — pictures, timers, scroll
 
 The second family works on what the window shows and does. The **picture box** holds an image on the form; the **image control** shows one more lightly. The **timer** makes things happen **by the clock**, without the user touching anything — the control behind animation and automatic updates. **Scroll bars** let a value or a view be **slid** through a range. With these, Fiji's windows stop being posters: they respond, move and keep time — the full surface on which the course's hands-on examples are built.
 
 In your mind's eye: showing and moving controls — pictures, timers, scroll.
+
+[Picture 47302 — showing and moving controls — pictures, timers, scroll]
 
 ## Say it to your companion
 

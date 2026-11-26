@@ -10,11 +10,15 @@ A **modular program** divides its work among **subprograms**, each doing **one j
 
 In your mind's eye: one job per subprogram.
 
+[Picture 47299 — one job per subprogram]
+
 ## Sub lesson 2 — The main program conducts
 
 The **main program** shrinks to a conductor: declare the array, then **call** the modules **in order** — fill, process, print — passing the array (and its size) to each. Values a module works out for the conductor are **returned** or left in shared results as the design states. Malaysia's gain is the chapter's closing argument for modules: change how printing looks and only the print module is opened; test the averaging and only the process module is run. The array is the shared stage; the modules are the actors; the main program is the order of the play.
 
 In your mind's eye: the main program conducts.
+
+[Picture 47300 — the main program conducts]
 
 ## Say it to your companion
 

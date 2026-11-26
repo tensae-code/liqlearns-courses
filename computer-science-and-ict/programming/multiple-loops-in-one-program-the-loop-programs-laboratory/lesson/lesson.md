@@ -10,11 +10,15 @@ A program may hold **many loops, one after another**, each repeating its own par
 
 In your mind's eye: several loops, each with its own job.
 
+[Picture 47311 — several loops, each with its own job]
+
 ## Sub lesson 2 — The laboratory — compose, run, fix, and two new instructions
 
 The laboratory lessons work as real programming works: **compose** a program for a set task, **run** it on the executor, **find** where it went wrong, **fix** it and run again. Two new instructions join the executors' language here — **collect** and **squeeze** style orders for the hedgehog's tasks (gathering what lies on the road, passing narrow places) — met the laboratory way: an instruction is learned by the task that needs it. The module's closing rule: a program is finished not when it is written, but when it **runs right**.
 
 In your mind's eye: the laboratory — compose, run, fix, and two new instructions.
+
+[Picture 47312 — the laboratory — compose, run, fix, and two new instructions]
 
 ## Say it to your companion
 

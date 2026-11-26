@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Combination of Programming Const
 
 In your mind's eye: combination of Programming Constructs. Movement, choosing a sprite, event listeners, four-direction scripts.
 
+[Picture 47306 — combination of Programming Constructs. Movement, choosing a sprite, event listeners, four-direction scripts]
+
 ## Sub lesson 2 — Doing it — Moving a Sprite with Arrow Keys Events and Coordinates in practice
 
 **Doing it — Moving a Sprite with Arrow Keys Events and Coordinates in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Moving a Sprite with Arrow Keys Events and Coordinates in practice.
+
+[Picture 47307 — doing it — Moving a Sprite with Arrow Keys Events and Coordinates in practice]
 
 ## Say it to your companion
 

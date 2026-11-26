@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Моя первая программа.
 
 In your mind's eye: моя первая программа. Линейный алгоритм.
 
+[Picture 47315 — моя первая программа. Линейный алгоритм.]
+
 ## Sub lesson 2 — Менің алғашқы программам
 
 This part of Kazakhstan's book teaches **Менің алғашқы программам** — covering: §5 Менің алғашқы программам. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: менің алғашқы программам.
+
+[Picture 47316 — менің алғашқы программам.]
 
 ## Say it to your companion
 

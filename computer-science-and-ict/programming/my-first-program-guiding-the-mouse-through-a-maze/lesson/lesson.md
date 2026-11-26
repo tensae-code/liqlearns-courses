@@ -10,11 +10,15 @@ The program is written in **arrows**: each arrow is one instruction — move one
 
 In your mind's eye: arrow instructions — the program's words.
 
+[Picture 47317 — arrow instructions — the program's words]
+
 ## Sub lesson 2 — Running the program — and the guided stages
 
 To **run** the program, the mouse walks it: read the first arrow, move; read the next, move — until the last arrow or a wall stops the walk. The book then moves the same skill onto the screen in **guided online stages**: the same arrow programs, slightly harder mazes, each stage checking the walk at once. Whether on paper or on screen, the discipline is one: plan, write, run, and when the mouse hits a wall, the program — not the mouse — is wrong.
 
 In your mind's eye: running the program — and the guided stages.
+
+[Picture 47318 — running the program — and the guided stages]
 
 ## Say it to your companion
 

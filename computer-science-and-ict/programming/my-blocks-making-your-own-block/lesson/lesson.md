@@ -10,11 +10,15 @@ A **My Block** is **your own block**, made from a stack you find yourself repeat
 
 In your mind's eye: creating a my block.
 
+[Picture 47313 — creating a my block]
+
 ## Sub lesson 2 — Defining its code — stairs and a petal
 
 **Defining** the block means writing the code it stands for: for the **zigzag "stairs"**, the repeated up-and-across pattern goes inside the definition once, however many stairs the program climbs. The guide then defines a block that draws a **flower petal** — one petal in the definition becomes a whole flower when the block is used turn after turn.
 
 In your mind's eye: defining its code — stairs and a petal.
+
+[Picture 47314 — defining its code — stairs and a petal]
 
 ## Say it to your companion
 

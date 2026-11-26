@@ -10,6 +10,8 @@ After sequences, the book gives the steps a new form: **motion blocks**. A motio
 
 In your mind's eye: a picture of three motion blocks snapped in a row — move, turn, move. With the hero character following the same path on a small map beside them.
 
+[Picture 47303 — a picture of three motion blocks snapped in a row — move, turn, move. With the hero character following the same path on a small map beside them]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Motion blocks are the blocks that move the hero: each block is one movement, and snapping motion blocks together builds the hero's whole path. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.
