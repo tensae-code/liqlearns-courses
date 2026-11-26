@@ -10,11 +10,15 @@ Three origin stories sit side by side for judgement — the culture's own tradit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60113 — three origin stories side by side]
+
 ## Sub lesson 2 — The Origin of Man (guide)
 
 The guide adds the scientists' universe — Newton's theory and the Big Bang — beside Adam and Eve, then names Darwin's the most reliable of the scientific theories and sets a classroom debate: creation versus evolution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60114 — the scientists' universe, then the great debate]
 
 ## Say it to your companion
 
