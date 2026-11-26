@@ -10,6 +10,8 @@ A chronology table walks Colombia's student movement event by event, each with i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62757 — event by event]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Módulo 5 / Guía 13: Student movements — a chronology table walks Colombia's student movement event by event, each with its motives and strategies. Then let your companion ask you one hard question about it — answer from the lesson.

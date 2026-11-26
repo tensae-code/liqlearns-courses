@@ -24,6 +24,8 @@ The violence wave does not stop; violence-generating agents are catalogued as th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62742 — the wave does not stop]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Módulo 5 / Guías 13–14: The internal conflict and the peace dialogues — the army attacks Marquetalia, the "independent republic"; the FARC expand on a war economy, paramilitary units spread in the late 1980s and grow from guerrilla ally-enemy into a power of their own, and the M-19's successful negotiation — demobilisation, reduced sentences, a political party — is the model peace case, with the AUC talks and their law beside it; Guía 6: Why is there violence, unemployment and poverty in a resource-rich Colombia? — forced displacement is named as the conflict's rural face, and learners must propose definitions and solutions of their own; Capítulo 9 / Temas 28–29: Colombia from the nineties — the violence wave does not stop; violence-generating agents are catalogued as the government opens peace offensives and the economy transforms. Then let your companion ask you one hard question about it — answer from the lesson.

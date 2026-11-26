@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: from the 1920s Colombi
 By the late 1920s Colombia enters modernisation with most people barely participating in its cultural, social and economic processes, and rival ideals of the State collide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62745 — rival ideals of the state]
 ## Sub lesson 2 — Temas 6–8: Expansion of the agricultural frontier, the awakening of the economy in the twenties, rural malaise
 
 The farm frontier expands and industry starts late, the 1920s economy awakens, and rural discontent builds over the agrarian structure
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62746 — the frontier expands]
 
 ## Say it to your companion
 

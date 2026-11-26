@@ -10,6 +10,8 @@ Indigenous and mestizo artists fill colonial churches with a baroque art that mi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62759 — baroque american hands]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La herencia artística de Hispanoamérica — Indigenous and mestizo artists fill colonial churches with a baroque art that mixes European forms with American hands and symbols. Then let your companion ask you one hard question about it — answer from the lesson.

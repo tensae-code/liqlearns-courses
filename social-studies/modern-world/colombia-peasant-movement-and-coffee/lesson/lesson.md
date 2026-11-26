@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: peasant families work 
 Peasant families work the coffee harvests together, organise, and are driven off the land; rural statistics and the question of whether their organisations still exist close the guide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62748 — coffee harvests together]
 ## Sub lesson 2 — Módulo 4 / Guía 10: Migrations and conflicts of our land
 
 Colonos travel to baldío lands, peasants answer the agrarian conflict with land invasions and the first peasant leagues, and López Pumarejo's thought is set against Laureano Gómez's discourse
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62749 — the first peasant leagues]
 ## Sub lesson 3 — Módulo 4 / Guías 10–12: Migrations and displacements in our territory / Peasant communities in defence of their territory
 
 By the late 1800s and early 1900s western Colombia becomes the economic centre as colonists suffer the "illness of the cold lands" and tertian fevers; today peasant women and leaders demand territoriality and an end to forced displacement
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62750 — in defence of territory]
 ## Sub lesson 4 — Tema 15: Sharpening of the coffee crisis in Colombia and the Second World War
 
 Coffee production jumps 62% by 1933, the Federación de Cafeteros organises a fund and becomes decisive for industrial development itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62751 — coffee jumps 62 percent]
 
 ## Say it to your companion
 

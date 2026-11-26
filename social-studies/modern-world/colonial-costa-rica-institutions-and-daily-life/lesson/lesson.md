@@ -10,6 +10,8 @@ The colony is organised in administrative divisions and institutions; its cities
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62765 — colonial cities]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Sociedades coloniales en América y Costa Rica — The colony is organised in administrative divisions and institutions; its cities, urban structure and everyday life are studied with emphasis on Costa Rica. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Potosí's vicuña–vascongado war opens the conflicts; in 1781 Oruro rises with
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62762 — oruro rises 1781]
+
 ## Sub lesson 2 — Año 2: Conflictos sociales en la Colonia
 
 Teacher-compendium unit, same arc as the student text (Año 2: Conflictos sociales en la Colonia)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62763 — conflicts in the colony]
 
 ## Say it to your companion
 

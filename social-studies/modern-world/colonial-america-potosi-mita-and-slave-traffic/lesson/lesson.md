@@ -10,6 +10,8 @@ Cerro Rico at Potosí is discovered, gold and silver become wealth itself, and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62758 — cerro rico]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Guía 10: The colonial production system / Slave traffic during the Colony in America — Cerro Rico at Potosí is discovered, gold and silver become wealth itself, and the colonial system revives the traffic in enslaved Africans to work America. Then let your companion ask you one hard question about it — answer from the lesson.

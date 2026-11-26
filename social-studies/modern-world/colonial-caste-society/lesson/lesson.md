@@ -10,11 +10,15 @@ A caste pyramid disgregates society — peninsulares, criollos, then the indigen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62760 — a caste pyramid]
+
 ## Sub lesson 2 — Año 2: Estructura social impuesta por la Colonia
 
 Teacher-compendium unit, same arc as the student text (Año 2: Estructura social impuesta por la Colonia)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62761 — the imposed structure]
 
 ## Say it to your companion
 
