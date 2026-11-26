@@ -10,6 +10,8 @@ Komitas collects the nation's songs, writers and painters work in Tiflis, Consta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62125 — songs collected makers scattered]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Culture in the first twenty years of the 20th century (unnumbered section) — Komitas collects the nation's songs, writers and painters work in Tiflis, Constantinople and Yerevan, and a modern national culture forms even as its makers are destroyed or scattered. Then let your companion ask you one hard question about it — answer from the lesson.

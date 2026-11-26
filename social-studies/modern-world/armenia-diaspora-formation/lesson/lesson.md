@@ -10,11 +10,15 @@ from medieval merchant colonies to the genocide survivors' settlements in Lebano
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62128 — a second homeland]
+
 ## Sub lesson 2 — Appendix theme guide 7: the Armenian diaspora, from formation to our days
 
 the guide treats the diaspora as half the nation — formed by trade and genocide, bound to the homeland after 1991
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62129 — half the nation]
 
 ## Say it to your companion
 

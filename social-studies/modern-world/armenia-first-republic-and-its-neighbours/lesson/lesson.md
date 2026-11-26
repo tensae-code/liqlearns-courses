@@ -10,6 +10,8 @@ Georgia, Azerbaijan and Armenia, all newborn in 1918, quarrel over Lori, Karabak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62136 — newborn and quarrelling]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.8 Armenia's relations with neighbouring states — Georgia, Azerbaijan and Armenia, all newborn in 1918, quarrel over Lori, Karabakh and Nakhichevan even as bigger empires close in. Then let your companion ask you one hard question about it — answer from the lesson.

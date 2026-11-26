@@ -10,6 +10,8 @@ diplomats fight to undo the punitive Batum treaty imposed weeks before independe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62138 — the batum question]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.7 Forming the republic's foreign policy; the question of revising the Batum treaty — diplomats fight to undo the punitive Batum treaty imposed weeks before independence and to win recognition from the victorious powers. Then let your companion ask you one hard question about it — answer from the lesson.

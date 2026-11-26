@@ -10,6 +10,8 @@ at Lausanne in 1923 the victorious powers drop Armenia entirely; the treaty that
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62118 — dropped at lausanne]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.4 The Armenian Question at the London and Lausanne conferences — at Lausanne in 1923 the victorious powers drop Armenia entirely; the treaty that replaces Sèvres seals the loss of the western homeland. Then let your companion ask you one hard question about it — answer from the lesson.

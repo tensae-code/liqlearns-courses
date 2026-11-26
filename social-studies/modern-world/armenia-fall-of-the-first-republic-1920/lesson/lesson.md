@@ -10,6 +10,8 @@ squeezed between Kemalist Turkey's invasion and the Red Army, the government han
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62133 — 2 december 1920]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.10 Armenia in the sights of Soviet Russia and Mustafa Kemal's governments; the fall of the Republic — squeezed between Kemalist Turkey's invasion and the Red Army, the government hands power to the Bolsheviks on 2 December 1920 and the first republic ends. Then let your companion ask you one hard question about it — answer from the lesson.

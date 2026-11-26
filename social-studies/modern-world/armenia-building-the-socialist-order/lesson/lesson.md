@@ -10,11 +10,15 @@ NEP gives way to collectivisation and crash industrialisation; peasants lose the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62121 — factories and canals rise]
+
 ## Sub lesson 2 — Appendix theme guide 3: Soviet Armenia 1920–1991
 
 the guide frames seventy Soviet years as both modernisation and subordination — federation, borders fixed against Armenia, repression, war service and everyday life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62122 — seventy soviet years]
 
 ## Say it to your companion
 

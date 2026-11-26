@@ -10,6 +10,8 @@ freed from Soviet censorship, Armenian film, music and literature rebuild on pri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62126 — culture rebuilt uncensored]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Armenian culture in the independence period (unnumbered section) — freed from Soviet censorship, Armenian film, music and literature rebuild on private money and diaspora stages while theatres fight to survive. Then let your companion ask you one hard question about it — answer from the lesson.

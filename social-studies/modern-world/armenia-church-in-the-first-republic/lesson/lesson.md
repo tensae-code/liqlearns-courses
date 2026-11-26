@@ -10,6 +10,8 @@ Etchmiadzin and Catholicos Gevorg V shelter orphans and refugees and give the st
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62124 — sheltering orphans]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.5 The Armenian Church in the republic period — Etchmiadzin and Catholicos Gevorg V shelter orphans and refugees and give the stateless nation's church a state to work beside again. Then let your companion ask you one hard question about it — answer from the lesson.

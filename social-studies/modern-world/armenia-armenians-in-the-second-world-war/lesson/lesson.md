@@ -10,6 +10,8 @@ over 300,000 Armenians from the republic and more from the diaspora fight in Sov
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62119 — 300000 to berlin]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.7 Armenians in the years of the Second World War — over 300,000 Armenians from the republic and more from the diaspora fight in Soviet ranks; divisions from Armenia reach Berlin, and the home front feeds and arms them. Then let your companion ask you one hard question about it — answer from the lesson.

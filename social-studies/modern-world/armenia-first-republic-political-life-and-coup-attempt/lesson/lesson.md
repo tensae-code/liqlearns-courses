@@ -10,6 +10,8 @@ parties, press and elections flourish in a starving republic while a Bolshevik r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62139 — a coup attempted]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.4 The republic's public-political life; the Bolsheviks' attempted coup; overcoming the Turkish-Tatar destabilising role — parties, press and elections flourish in a starving republic while a Bolshevik rising in May 1920 and cross-border raids test the young state. Then let your companion ask you one hard question about it — answer from the lesson.

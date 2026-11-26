@@ -10,6 +10,8 @@ hundreds of thousands of refugees, typhus and an empty treasury mean the republi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62137 — bread and shelter]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.6 The socio-economic situation — hundreds of thousands of refugees, typhus and an empty treasury mean the republic's daily battle is bread and shelter, not ceremony. Then let your companion ask you one hard question about it — answer from the lesson.

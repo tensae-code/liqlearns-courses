@@ -10,11 +10,15 @@ from local clashes the conflict becomes full war; Shushi and Lachin are taken in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62134 — frozen in 1994]
+
 ## Sub lesson 2 — Appendix theme guide 5: the Nagorno-Karabakh Republic between war and status quo
 
 teachers handle the 1992–94 war, the unrecognised state and the return to war in 2020 as living history pupils' families remember
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62135 — living history]
 
 ## Say it to your companion
 

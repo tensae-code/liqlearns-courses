@@ -10,11 +10,15 @@ on 28 May 1918 the Armenian National Council proclaims the republic; Aram Manuky
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62140 — state and symbols]
+
 ## Sub lesson 2 — Appendix theme guide 2: Armenia on the road to restored independence; the First Republic
 
 teachers present 1917's collapse, Sardarabad and the 1918 republic's state-building as the nation's recovered statehood
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62141 — the first republic]
 
 ## Say it to your companion
 

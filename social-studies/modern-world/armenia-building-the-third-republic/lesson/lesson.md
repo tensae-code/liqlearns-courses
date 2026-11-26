@@ -10,6 +10,8 @@ amid blockade, blackout winters and war, the new state adopts a constitution (19
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62123 — built under blockade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.4 The Republic of Armenia on the road to establishment — amid blockade, blackout winters and war, the new state adopts a constitution (1995), a currency and an army. Then let your companion ask you one hard question about it — answer from the lesson.
