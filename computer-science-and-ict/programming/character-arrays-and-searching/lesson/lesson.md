@@ -10,11 +10,15 @@ Before there were string objects, text was an array like any other — with one 
 
 In your mind's eye: text as a char array.
 
+[Picture 46853 — text as a char array]
+
 ## Sub lesson 2 — Searching the characters
 
 **Searching** walks the array comparing each element with the target: stop with **found** (and its position) on a match, or stop at the **terminator** with not-found. The same walk counts occurrences (do not stop at the first match — count and continue) or tests membership. Case matters: 'A' and 'a' are different characters with different codes, so searches must say which they mean.
 
 In your mind's eye: searching the characters.
+
+[Picture 46854 — searching the characters]
 
 ## Say it to your companion
 

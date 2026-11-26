@@ -10,11 +10,15 @@ A **character string** is a **sequence of characters treated as one value**: a n
 
 In your mind's eye: the string — a sequence held as one value.
 
+[Picture 46859 — the string — a sequence held as one value]
+
 ## Sub lesson 2 — Working with strings — joining, comparing, taking parts
 
 Strings are **joined** (concatenated) end to end — 'An' + 'a' makes 'Ana' — and **compared** by their characters' codes, position by position, which is alphabetical order for texts. Programs take **parts** of strings (a substring — the first letter, the last three characters), find a text **inside** another, and measure **length** before trusting positions. Grade 11's full treatment adds the type's declarations and its library procedures in both languages; Grade 10's vocabulary section fixes the writing every later use obeys.
 
 In your mind's eye: working with strings — joining, comparing, taking parts.
+
+[Picture 46860 — working with strings — joining, comparing, taking parts]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Text enters a program one **character** at a time: a letter, a digit, a space, a
 
 In your mind's eye: the character — one symbol, one code.
 
+[Picture 46861 — the character — one symbol, one code]
+
 ## Sub lesson 2 — The string — characters in a row
 
 A **string** is a **sequence of characters** kept as one value: a name, a word, a whole sentence. Its properties follow from the row: it has a **length** (how many characters), an **order** (first character, second, …), and parts that can be cut out and joined — the operations every text program is built from. Designing with strings means choosing them deliberately: text that must be searched, compared or taken apart belongs in strings, and the designer names a value's kind — number, character, string — before the program is written, not after it breaks.
 
 In your mind's eye: the string — characters in a row.
+
+[Picture 46862 — the string — characters in a row]
 
 ## Say it to your companion
 

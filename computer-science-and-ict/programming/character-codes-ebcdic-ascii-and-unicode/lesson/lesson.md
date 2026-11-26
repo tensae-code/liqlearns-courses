@@ -10,11 +10,15 @@ The BCD lesson coded digits. Letters, signs and whole alphabets need bigger agre
 
 In your mind's eye: eBCDIC and ASCII — the first two agreements.
 
+[Picture 46855 — eBCDIC and ASCII — the first two agreements]
+
 ## Sub lesson 2 — Unicode — every character, one table; and the Bangla table
 
 **Unicode** answers by giving **every character of every script its own number** — over a hundred thousand places and growing. Its storage forms trade size for reach: **UTF-8** spends 1–4 bytes per character and rules the web; **UTF-16** spends mostly 2; **UTF-32** spends a fixed 4. The book prints the **Bangla Unicode table** — the block where Bangla's letters live — because for its readers Unicode is not an abstraction: it is the agreement that lets their own language be typed, stored, printed and sent, the agreement the web chapter's charset line declares.
 
 In your mind's eye: unicode — every character, one table; and the Bangla table.
+
+[Picture 46856 — unicode — every character, one table; and the Bangla table]
 
 ## Say it to your companion
 

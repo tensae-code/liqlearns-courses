@@ -10,11 +10,15 @@ The first questions are about the **value**: is it whole or decimal (int against
 
 In your mind's eye: choose by the value and its range.
 
+[Picture 46865 — choose by the value and its range]
+
 ## Sub lesson 2 — Choose by the job — and pay for wrong choices
 
 The second questions are about the **job**: a value that will be **calculated with** must be numeric — a phone number kept as int loses its leading zero and invites arithmetic it will never need, so it belongs in String; a mark kept as String cannot be averaged. Wrong choices charge rent throughout the program: conversions at every use, comparisons that sort as text ('10' before '9'), totals that refuse to add. Choosing the type is choosing what the value **can do** — the lesson's rule is to decide it once, at declaration, from the value's kind and career, not from the first value it happens to hold.
 
 In your mind's eye: choose by the job — and pay for wrong choices.
+
+[Picture 46866 — choose by the job — and pay for wrong choices]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Object-Oriented Programming in P
 
 In your mind's eye: object-Oriented Programming in Python.
 
+[Picture 46869 — object-Oriented Programming in Python]
+
 ## Sub lesson 2 — Doing it — Classes and Objects Oop in Python in practice
 
 **Doing it — Classes and Objects Oop in Python in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Classes and Objects Oop in Python in practice.
+
+[Picture 46870 — doing it — Classes and Objects Oop in Python in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A variable of the **char** type holds exactly **one character**: a letter, a dig
 
 In your mind's eye: one big letter A in a box labelled char, with an arrow down to its code number in a coding table.
 
+[Picture 46857 — one big letter A in a box labelled char, with an arrow down to its code number in a coding table]
+
 ## Sub lesson 2 — Procedures and functions for characters
 
 PascalABC gives ready **procedures and functions** for character variables, so a program does not have to work with raw codes by hand. They answer questions like: what is the character for this code, what is the code of this character, is this character a letter or a digit, and what is the same letter in the other case — capital for small, small for capital. The rule for using them is the rule for all such tools: give the function a character (or a code), and it hands back the answer as a value the program can store, print or compare.
 
 In your mind's eye: a two-column coding table — character on the left, code number on the right. With Latin and Belarusian letters in the rows.
+
+[Picture 46858 — a two-column coding table — character on the left, code number on the right. With Latin and Belarusian letters in the rows]
 
 ## Say it to your companion
 

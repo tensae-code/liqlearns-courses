@@ -10,11 +10,15 @@ The main book introduced objects. The supplementary volume builds their families
 
 In your mind's eye: abstraction and encapsulation — choosing, and sealing.
 
+[Picture 46867 — abstraction and encapsulation — choosing, and sealing]
+
 ## Sub lesson 2 — Inheritance and polymorphism — the family, and the right behaviour
 
 **Inheritance (κληρονομικότητα)** builds a **descendant class** from an **ancestor**: the descendant receives the ancestor's properties and methods and adds or sharpens its own — one design, a family of refinements, no rewriting. **Polymorphism (πολυμορφισμός)** lets **one message call each class's own behaviour**: 'draw yourself' draws a circle in the circle class and a square in the square class, while the sender writes the message once. The unit teaches the family with class diagrams, ancestor above descendant, so the learner reads the family tree before writing a line of it.
 
 In your mind's eye: inheritance and polymorphism — the family, and the right behaviour.
+
+[Picture 46868 — inheritance and polymorphism — the family, and the right behaviour]
 
 ## Say it to your companion
 
