@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Create or edit a hyperlink** — cover
 
 In your mind's eye: create or edit a hyperlink.
 
+[Picture 45472 — create or edit a hyperlink]
+
 ## Sub lesson 2 — Hyperlink feature and its uses
 
 This part of South Sudan's book teaches **Hyperlink feature and its uses** — covering: Hyperlink feature and its uses. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Hyperlink feature and its uses. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — hyperlink feature and its uses is part of that chain..
 
 In your mind's eye: hyperlink feature and its uses.
+
+[Picture 45473 — hyperlink feature and its uses]
 
 ## Say it to your companion
 

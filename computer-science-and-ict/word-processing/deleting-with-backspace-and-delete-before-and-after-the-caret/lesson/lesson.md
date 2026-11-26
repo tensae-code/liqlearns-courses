@@ -10,11 +10,15 @@ The blinking **writing cursor — the caret** — marks where letters land. **Ba
 
 In your mind's eye: backspace — deleting before the caret.
 
+[Picture 45474 — backspace — deleting before the caret]
+
 ## Sub lesson 2 — Delete — deleting after the caret; the Space bar
 
 **Delete deletes the letter after the caret**: the caret stays where it is and the letter in front of it disappears — the key for the mistake ahead of you, when you have clicked back into the middle of a word. Beside them, the **Space bar adds a space** — deleting joins words wrongly together; the space bar is how they are separated again.
 
 In your mind's eye: delete — deleting after the caret; the space bar.
+
+[Picture 45475 — delete — deleting after the caret; the space bar]
 
 ## Say it to your companion
 

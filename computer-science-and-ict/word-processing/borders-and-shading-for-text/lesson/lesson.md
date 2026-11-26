@@ -10,11 +10,15 @@ A **border** is a drawn line around the outside of a paragraph, a piece of text,
 
 In your mind's eye: the Borders and Shading dialog — sides, line style, width, colour and the preview.
 
+[Picture 45464 — the Borders and Shading dialog — sides, line style, width, colour and the preview]
+
 ## Sub lesson 2 — Shading — colour behind the text
 
 **Shading** fills the space behind the text with a colour. A light shading with a border around it is the classic way to make a notice, a warning or a key sentence impossible to miss on a page of plain text. The pairing has one discipline: **restraint**. Shading dark enough to fight the words, or borders around half the paragraphs, destroy the effect — everything highlighted is nothing highlighted. One shaded notice on a page speaks loudly; the lesson's rule is to use borders and shading the way a speaker raises their voice: rarely, briefly, and only where it matters.
 
 In your mind's eye: a page with one bordered, shaded notice standing out from plain paragraphs.
+
+[Picture 45465 — a page with one bordered, shaded notice standing out from plain paragraphs]
 
 ## Say it to your companion
 

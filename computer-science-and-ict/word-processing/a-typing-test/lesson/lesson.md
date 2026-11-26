@@ -10,11 +10,15 @@ In a typing test you **copy a given text**, starting with your fingers on the **
 
 In your mind's eye: taking a typing test.
 
+[Picture 45458 — taking a typing test]
+
 ## Sub lesson 2 — Reading your test result
 
 A result of **30 wpm** means 30 words were typed in one minute; **90% accuracy** means 90 of every 100 were correct. You read your result **against the benchmark for your grade**. If accuracy is low, the practice to fix is **correct finger placement and a steady rhythm**. One test does not settle your level — tests are repeated to show progress.
 
 In your mind's eye: reading your test result.
+
+[Picture 45459 — reading your test result]
 
 ## Say it to your companion
 

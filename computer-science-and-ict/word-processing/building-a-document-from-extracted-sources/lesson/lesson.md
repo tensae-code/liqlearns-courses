@@ -10,11 +10,15 @@ The work starts outside the document. **Sources** — Cuban educational software
 
 In your mind's eye: finding and extracting information.
 
+[Picture 45466 — finding and extracting information]
+
 ## Sub lesson 2 — Building the document from what was extracted
 
 The extracted parts are **assembled in the word processor**: texts and images are placed in an order that makes sense, arranged on the page and completed with the pupil's own writing — a title, links between the parts, a closing. The result is a **new document built from sources**, the Grade 6 book's *Creación de documentos con información gráfica y textual* — documents made of graphic and textual information gathered, not invented. Saving and opening the built document follows the same file rules as every document in this course.
 
 In your mind's eye: building the document from what was extracted.
+
+[Picture 45467 — building the document from what was extracted]
 
 ## Say it to your companion
 

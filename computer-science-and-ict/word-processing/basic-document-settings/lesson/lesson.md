@@ -10,11 +10,15 @@ A document's **basic settings** begin with the page: its **size**, its **margins
 
 In your mind's eye: the page — size, margins, orientation.
 
+[Picture 45462 — the page — size, margins, orientation]
+
 ## Sub lesson 2 — Text settings — font, size, spacing
 
 The other basic parameters belong to the text: the **font** and its **size**, **line spacing**, and paragraph **alignment**. Set as defaults at the start, they keep a whole document in one dress; changed mid-way, they make patches. The lesson's discipline is simple: decide the document's parameters once, at the beginning, and let the writing — not the settings — carry the rest of the work.
 
 In your mind's eye: text settings — font, size, spacing.
+
+[Picture 45463 — text settings — font, size, spacing]
 
 ## Say it to your companion
 

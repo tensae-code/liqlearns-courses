@@ -10,11 +10,15 @@ A **comment** is pinned to a **word, sentence or place** in the document and sho
 
 In your mind's eye: comments — notes pinned to the text.
 
+[Picture 45470 — comments — notes pinned to the text]
+
 ## Sub lesson 2 — Reviewing — reading a document through comments
 
 **Reviewing** is the whole job comments serve: read the document as its reader will, **comment wherever** it is unclear, wrong or weak, and hand it back; the writer then **answers each comment** — changing the text where the note is right, replying where it is not — until no open comment remains. A reviewed document is a finished document: Cuba places commenting right before printing in the Grade 7 chapter, because review is the last work before the page leaves the screen.
 
 In your mind's eye: reviewing — reading a document through comments.
+
+[Picture 45471 — reviewing — reading a document through comments]
 
 ## Say it to your companion
 
