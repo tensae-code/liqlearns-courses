@@ -10,11 +10,15 @@ Add column by column from the right, exactly as in decimal. The only sums are: 0
 
 In your mind's eye: a binary addition worked in columns, with the carry marked.
 
+[Picture 45002 — binary addition 101 + 11 = 1000 in columns, the carry marked]
+
 ## Sub lesson 2 — Subtracting in binary — borrow a two
 
 Subtract column by column from the right: 0 − 0 = **0**, 1 − 0 = **1**, 1 − 1 = **0**. The hard case is 0 − 1: **borrow** from the next column — the borrowed 1 is worth **2** in your column (a whole place), so 2 − 1 = **1**, and the lending column drops by one. Example: 101 − 11 = 10 (5 − 3 = 2). Again the decimal check proves the binary work.
 
 In your mind's eye: a binary subtraction with the borrow marked over the lending column.
+
+[Picture 45003 — binary subtraction 101 - 11 = 10, the borrow marked over the lending column]
 
 ## Say it to your companion
 

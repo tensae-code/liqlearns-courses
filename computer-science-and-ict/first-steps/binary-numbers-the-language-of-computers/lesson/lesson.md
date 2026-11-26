@@ -10,11 +10,15 @@ Inside the computer, data travels as **electrical signals** with only **two stat
 
 In your mind's eye: data as two-state electrical signals.
 
+[Picture 45008 — electrical signals with two states — on and off]
+
 ## Sub lesson 2 — Bits — the language of computers
 
 A bit takes one of **two values, 0 or 1** — 0 for off, 1 for on. Long patterns of bits represent letters, numbers, pictures and sounds, so **binary numbers** are called **the language of computers**: everything the computer holds is written in them, even when the screen shows it back to us in our own decimal numbers and letters.
 
 In your mind's eye: bits — the language of computers.
+
+[Picture 45009 — bits — 0 for off, 1 for on — the language of computers]
 
 ## Say it to your companion
 

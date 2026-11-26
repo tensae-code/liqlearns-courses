@@ -10,11 +10,15 @@ A **mathematical model** describes its object with mathematics — quantities an
 
 In your mind's eye: the model in space and in picture — seating map and graph.
 
+[Picture 45010 — a seating map with coordinates, and a graph of a relation]
+
 ## Sub lesson 2 — The model as engine — virus growth V = V₀(1+d)ⁿ
 
 The model's working face is the formula that **computes**: the book's example is **virus growth**, V = V₀(1+d)ⁿ — the count V after n steps, from a starting count V₀ growing by a rate d each step. Pour in a start and a rate, and the model answers for step 10, step 100 — futures no observation could wait for. Here the strand's arc completes: the property table described, the stages disciplined, and the mathematical model **predicts** — the strongest thing a model can do, and the reason the computer, the tireless calculator of such formulas, waits in the next lessons.
 
 In your mind's eye: the model as engine — virus growth V = V₀(1+d)ⁿ.
+
+[GIF 45011 — virus growth — the count doubling step by step as the formula predicts]
 
 ## Say it to your companion
 

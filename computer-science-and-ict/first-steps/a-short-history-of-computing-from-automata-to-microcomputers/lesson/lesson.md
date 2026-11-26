@@ -10,11 +10,15 @@ Long before electronics, people built **automata** — machines that follow a bu
 
 In your mind's eye: automata and the first ideas.
 
+[Picture 45000 — a Jacquard loom steered by punched cards, beside a gear automaton]
+
 ## Sub lesson 2 — Electronic computers to the microcomputer
 
 The twentieth century electrified the idea: wartime and post-war **electronic computers** filled rooms, computed with valves, then transistors, then integrated circuits — each generation smaller, faster, cheaper. The **microcomputer** of the 1970s put a whole processor on one chip and computing on desks and in homes; networks and the phone in every pocket followed. The history's shape is the annexes' lesson: one idea, shrinking — until the computer disappears into everything.
 
 In your mind's eye: electronic computers to the microcomputer.
+
+[Picture 45001 — computers shrinking — room-sized machine, desk microcomputer, pocket phone]
 
 ## Say it to your companion
 

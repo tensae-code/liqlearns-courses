@@ -14,11 +14,15 @@ A code only works when both sides know it. The sender puts the information into 
 
 In your mind's eye: a road scene with a traffic light, a road sign and a shop sign, each labelled with its code.
 
+[Picture 45018 — a road scene — traffic light, road sign and shop sign, each a code]
+
 ## Sub lesson 2 — Media — the carriers, and choosing by context
 
 Signs must ride on something. That carrier is a **medium** (its plural is media): printed text on paper, a picture, spoken sound carried by air, a video, a file shown on a screen. The code is the system of signs; the medium is what carries them to the receiver.
 
 In your mind's eye: one message shown three ways. As written text, as a spoken announcement, and as a picture sign.
+
+[Picture 45019 — one message three ways — written text, spoken announcement, picture sign]
 
 The same information can ride in different media. "School is closed tomorrow" can be written in a notice, spoken in an announcement, or sent as a message on a phone. None of these changes the information — they change how it is represented, and how well it reaches its receiver.
 

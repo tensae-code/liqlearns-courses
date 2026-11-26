@@ -10,11 +10,15 @@ The **binary system** counts with two digits only, **0 and 1**, because a comput
 
 In your mind's eye: binary — counting with two digits.
 
+[Picture 45006 — binary place values 8 4 2 1 — 1011 makes 8 + 2 + 1 = 11]
+
 ## Sub lesson 2 — Storing integers — a fixed row of bits, and the sign problem
 
 An integer is stored in a **fixed number of bits** — 8, 16, 32 or 64 — and the fixing decides the **range**: 8 bits hold 256 different values. Positive integers are stored as their binary value, padded with zeros. **Negative** integers need a scheme: the book's way is **two's complement** — invert the bits of the positive number and add 1 — which lets the same adder add and subtract, and gives one zero instead of two. The price of a fixed size is **overflow**: a result too big for the row of bits wraps or corrupts, and the program must care.
 
 In your mind's eye: storing integers — a fixed row of bits, and the sign problem.
+
+[Picture 45007 — an integer in a fixed row of 8 bits, and the sign problem]
 
 ## Say it to your companion
 

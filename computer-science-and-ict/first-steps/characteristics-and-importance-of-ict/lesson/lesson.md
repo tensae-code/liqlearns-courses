@@ -10,11 +10,15 @@ A phone call crosses the country in a second; a lesson recorded once is watched 
 
 In your mind's eye: the characteristics of ICT.
 
+[Picture 45012 — the characteristics of ICT — speed, reach, storage, accuracy, many forms]
+
 ## Sub lesson 2 — Why ICT is important
 
 The **importance** follows from the characteristics. Because ICT is fast and far-reaching, it shrinks distance in **communication**; because it stores and retrieves, it serves **education, work, trade and government**; because it handles many forms, it carries entertainment and news as easily as figures. The book's examples are Lao daily life — the TV remote and the household appliance are its first pictures of technology at work — and its rule is judgement: a characteristic is only good when the use made of it is good.
 
 In your mind's eye: why ICT is important.
+
+[Picture 45013 — ICT at work — communication, education, trade and government]
 
 ## Say it to your companion
 

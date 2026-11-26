@@ -10,11 +10,15 @@ Every letter a computer holds is a number in disguise — its ASCII code. Malays
 
 In your mind's eye: a character's ASCII value.
 
+[Picture 45004 — a character and its ASCII code value — A is 65]
+
 ## Sub lesson 2 — The value, written in octal
 
 The ASCII value is then **converted to octal** by the divide-by-8 method: A = 65 → 65 ÷ 8 = 8 rem 1; 8 ÷ 8 = 1 rem 0; 1 ÷ 8 = 0 rem 1 → read upwards, **101₈**. So the character A is held as octal 101. Malaysia teaches the chain in this order — character, code value, octal — because each step has its own rule and mixing the steps is where errors enter.
 
 In your mind's eye: the value, written in octal.
+
+[Picture 45005 — 65 divided by 8 step by step — the remainders read upwards give octal 101]
 
 ## Say it to your companion
 

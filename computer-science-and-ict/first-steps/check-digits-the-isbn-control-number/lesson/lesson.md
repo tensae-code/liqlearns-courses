@@ -10,11 +10,15 @@ An ISBN ends with a **check digit (chiffre de contrôle)** that is not free: it 
 
 In your mind's eye: a digit computed from the others.
 
+[Picture 45014 — an ISBN whose last digit, the check digit, is computed from all the others]
+
 ## Sub lesson 2 — Why check digits are everywhere
 
 The same invention guards bank accounts, barcodes, identity numbers and card numbers: anywhere a human copies digits or a machine reads them, one computed digit rides along as a witness. The inquiry places the ISBN among “other similar systems for verifying strings of data” — parity's family: a little arithmetic spent at issue time buys error detection forever, at every till and terminal the number ever meets.
 
 In your mind's eye: why check digits are everywhere.
+
+[Picture 45015 — check digits on a bank card, a barcode, an identity card and a bank book]
 
 ## Say it to your companion
 
