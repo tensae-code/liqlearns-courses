@@ -10,6 +10,8 @@ The victors meet at Potsdam to assign blame and reshape the world, and create th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40673 — potsdamun]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Potsdam and the creation of the UN — the victors meet at Potsdam to assign blame and reshape the world, and create the United Nations to keep the peace. Then let your companion ask you one hard question about it — answer from the lesson.

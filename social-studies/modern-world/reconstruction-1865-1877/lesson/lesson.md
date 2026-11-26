@@ -10,6 +10,8 @@ Lincoln's lenient restoration would have brought the South back quickly and soft
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40660 — leniencyremaking]
+
 ## Sub lesson 2 — Amendments and Black officeholders
 
 Reconstruction wrote freedom into the Constitution: its amendments abolished slavery, made citizens, and promised the vote. Black officeholders sat in legislatures and in Congress — a revolution in who could rule, built in a decade.

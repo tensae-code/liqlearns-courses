@@ -10,11 +10,15 @@ the world's frozen and burning regional conflicts — their roots in borders, pe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40654 — frozenburning]
+
 ## Sub lesson 2 — Programme Theme 2: Conflict
 
 regional, economic, environmental and religious-ideological conflicts, with ingenuity (հնարամտություն) taught as the alternative to fighting
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40653 — ingenuitylamp]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Haeckel's social Darwinism (Storia culturale) and modern antisemitism darken the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40663 — progressshadows]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 1 §6 The darkest shadows of the belle époque — Haeckel's social Darwinism (Storia culturale) and modern antisemitism darken the age of progress, and the Church faces the new century's challenges — the belle époque's own evidence against itself. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Young Bukharan reformers beg schools and a constitution; the Emir answers with p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40659 — reformbegged]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 5 §26 The attempt to carry out reforms and the fall of the Bukhara Emirate — Young Bukharan reformers beg schools and a constitution; the Emir answers with pogroms, and in 1920 the Red Army ends the emirate altogether. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ from Arabia to Senegal, teachers and orders try to purify the faith and free the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40658 — arabiasenegal]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Reform Movements in the Islamic World — from Arabia to Senegal, teachers and orders try to purify the faith and free the land. Then let your companion ask you one hard question about it — answer from the lesson.

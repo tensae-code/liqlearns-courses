@@ -10,6 +10,8 @@ Fanon's Wretched of the Earth (book study) theorises colonial violence, Nkrumah'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40664 — dignityanswers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 15 §6 The racial question in the era of decolonisation — Fanon's Wretched of the Earth (book study) theorises colonial violence, Nkrumah's "new African" (Document) answers it with dignity, and the Hutu-Tutsi Storia culturale shows how colonialism invented the races it ruled by. Then let your companion ask you one hard question about it — answer from the lesson.

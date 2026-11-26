@@ -10,6 +10,8 @@ Chartists petition (1836–1860), Darwin's ideas shake belief, egalitarians and 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 40666 — petitionanswers]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 1c: Capitalism, Chartism, Darwinism, egalitarianism, socialism (1c.3–1c.9) — Chartists petition (1836–1860), Darwin's ideas shake belief, egalitarians and socialists answer capitalism and imperialism. Then let your companion ask you one hard question about it — answer from the lesson.

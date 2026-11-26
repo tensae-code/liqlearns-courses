@@ -10,6 +10,8 @@ as the empire weakens after Lepanto (1571) and taxes climb, resistance runs from
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40650 — quietrefusal]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: resistance against Ottoman rule — as the empire weakens after Lepanto (1571) and taxes climb, resistance runs from the passive — fleeing the tax collector, shunning Ottoman courts, keeping the faith in song — to the armed: hajduk bands of twenty or thirty under an arambasha, sheltered by jatak helpers, gathering at St George's Day and dispersing at St Demetrius', led sometimes by women like Sirma and Rumena vojvoda; and open revolts like the thousand peasants of Prilep-Mariovo. Then let your companion ask you one hard question about it — answer from the lesson.

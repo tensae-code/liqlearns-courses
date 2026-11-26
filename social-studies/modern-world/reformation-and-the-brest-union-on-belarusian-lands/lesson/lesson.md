@@ -10,11 +10,15 @@ Calvinism sweeps the magnates, Jesuits arrive to fight it, and the 1596 Brest Un
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40657 — union1596]
+
 ## Sub lesson 2 — Religion and the church in the 17th century
 
 The Counter-Reformation, backed by kings and Sejm, drives to uproot Orthodoxy and Protestantism while the Uniate church becomes the land's largest confession
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40656 — pressedlargest]
 
 ## Say it to your companion
 

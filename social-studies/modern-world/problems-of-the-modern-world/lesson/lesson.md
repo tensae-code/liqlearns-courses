@@ -10,17 +10,23 @@ climate, poverty, terror and pandemics are set out as problems no state can solv
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40669 — nostatealone]
+
 ## Sub lesson 2 — Theme 4, Lessons 60–61: the problems of the modern world
 
 terrorism, trafficking, cybercrime and ecological danger cross every border, and no state can answer them alone
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40668 — noborderstops]
+
 ## Sub lesson 3 — Theme 4 §18: environmental, war and other problems
 
 the greenhouse effect, the Green movement, the Balkan wars, Iraq, the Arab-Israeli conflict and a demographic map being redrawn — the problems theme closes in the pupils' own present
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40667 — ownpresent]
 
 ## Say it to your companion
 

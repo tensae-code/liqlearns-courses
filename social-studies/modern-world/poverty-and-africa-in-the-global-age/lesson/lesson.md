@@ -10,6 +10,8 @@ poverty's map concentrates where development bypassed; Bonaglia and Wegner's Far
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40672 — bypassedrenaissance]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 16 §§7–8 La geografia della povertà; I drammi dell'Africa — poverty's map concentrates where development bypassed; Bonaglia and Wegner's Fare storia piece argues the African continent's renaissance against its dramas — hunger, AIDS, wars — in the same pages. Then let your companion ask you one hard question about it — answer from the lesson.

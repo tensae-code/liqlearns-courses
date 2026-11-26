@@ -10,6 +10,8 @@ Qajar Iran loses the Caucasus to Russia, signs away trade capitulations and watc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40665 — carvedsovereignty]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §36 Iran in the first half and 1860s of the 19th century — Qajar Iran loses the Caucasus to Russia, signs away trade capitulations and watches two empires carve its sovereignty. Then let your companion ask you one hard question about it — answer from the lesson.

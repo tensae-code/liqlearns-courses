@@ -10,6 +10,8 @@ when faith or ideology becomes a flag, compromise starts to look like betrayal, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40652 — compromisebetrayal]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2 §7: religious-ideological conflicts — when faith or ideology becomes a flag, compromise starts to look like betrayal, and such conflicts prove the hardest to end. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Dubček's dream meets Moscow's iron fist (Document) in Prague; Tlatelolco's mass
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40671 — springcrushed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 16 §§5–6 Reforms and dissent in the Eastern bloc; The contestation and the interconnections between the "three worlds" — Dubček's dream meets Moscow's iron fist (Document) in Prague; Tlatelolco's massacre (Storiografia) and China's Cultural Revolution (Sabattini–Santangelo) show 1968 was a world event, not a Western one. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: stone-breakers or peasants at work painted on a big canvas. The student points to ordinary life given a hero's size.
 
+[Picture 40661 — herossize]
+
 ## Sub lesson 3 — A scandal and a claim
 
 It is a scandal at the salons — and a claim that ordinary life is worthy of the biggest canvases.

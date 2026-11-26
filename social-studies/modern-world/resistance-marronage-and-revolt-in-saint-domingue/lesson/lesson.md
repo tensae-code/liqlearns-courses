@@ -10,6 +10,8 @@ Starting from albert mangonès' statue of the unknown maroon, pupils trace every
 
 In your mind's eye: albert Mangonès' statue of the Unknown Maroon in Port-au-Prince. Say what marronage was and why the statue honours it.
 
+[Picture 40651 — unknownmaroon]
+
 ## Sub lesson 2 — From the masters' vision to the historians' analysis
 
 The same revolt is read twice — in the masters' frightened gazettes and in historians' reconstructions — and the two stories do not match (Séance 2, De la vision des maîtres à l'analyse des historiens)

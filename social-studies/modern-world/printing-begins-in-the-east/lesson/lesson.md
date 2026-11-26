@@ -10,6 +10,8 @@ Chinese woodblocks and Korean metal type print centuries before Europe; the prin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40670 — silkroadprinting]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 8: The beginning of printing — from the East to the West — Chinese woodblocks and Korean metal type print centuries before Europe; the printed cylinder's story travels the Silk Road. Then let your companion ask you one hard question about it — answer from the lesson.
