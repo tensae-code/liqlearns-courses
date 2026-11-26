@@ -10,6 +10,8 @@ three worlds keep learning alive differently — western monks copy manuscripts 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61323 — three worlds keep learning]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 1: science and culture in the early Middle Ages — three worlds keep learning alive differently — western monks copy manuscripts in scriptoria and Charlemagne's court revives letters; Byzantium's Magnaura school teaches emperors' children, and its engineers wield Greek fire; the Arabs, freer of dogma, found algebra and trigonometry, adopt Indian numerals and zero, print Avicenna's Canon of medicine and carry paper and gunpowder from China toward Europe. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ the quarrelling poleis exhaust each other until Philip II's phalanx wins at Chae
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61329 — chaeronea 338 bc]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §30 The conquest of Greece by Macedon — the quarrelling poleis exhaust each other until Philip II's phalanx wins at Chaeronea (338 BC) and Greece passes to Macedon — and to Alexander. Then let your companion ask you one hard question about it — answer from the lesson.

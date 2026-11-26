@@ -10,6 +10,8 @@ Lowland peoples of South America build their own ways of life along rivers and f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61328 — rivers and forests]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Other cultures in the lowlands of South America — lowland peoples of South America build their own ways of life along rivers and forests, outside the famous highland states. Then let your companion ask you one hard question about it — answer from the lesson.

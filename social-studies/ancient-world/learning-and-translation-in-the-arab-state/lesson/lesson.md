@@ -10,6 +10,8 @@ Writing in all its stages saves history from loss, and the hunger to record know
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61322 — writing saves history]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Learning and translation in the Arab state. Then let your companion ask you one hard question about it — answer from the lesson.

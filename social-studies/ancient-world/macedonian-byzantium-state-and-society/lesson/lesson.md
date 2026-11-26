@@ -10,11 +10,15 @@ iconoclasm ends, the Macedonian dynasty takes over, and the empire turns from de
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61336 — from defence to expansion]
+
 ## Sub lesson 2 — Economy, society, administration and legislation at the peak
 
 trade and silk enrich Constantinople while emperors legislate to protect small farmers from the powerful
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61337 — silk laws and small farmers]
 
 ## Say it to your companion
 

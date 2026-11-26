@@ -10,6 +10,8 @@ patricians and plebeians, farmers and clients, the forum and the family — how 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61327 — how the republic lived]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §49 The life of the Roman Republic — patricians and plebeians, farmers and clients, the forum and the family — how the republic actually lived between its wars. Then let your companion ask you one hard question about it — answer from the lesson.

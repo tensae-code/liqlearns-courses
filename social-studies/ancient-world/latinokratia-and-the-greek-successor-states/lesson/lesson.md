@@ -10,17 +10,23 @@ Franks parcel Greece into duchies while Nicaea, Epirus and Trebizond keep rival 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61319 — parcels and exiles]
+
 ## Sub lesson 2 — The Latin states and the resistance of the Greeks
 
 the Fourth Crusade sacks Constantinople in 1204 and parcels the empire out to Franks and Venetians
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61320 — 1204 the sack]
+
 ## Sub lesson 3 — The Greek states: Trebizond, Epirus, Nicaea
 
 three refugee empires compete to win Constantinople back — Nicaea does it in 1261
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61321 — nicaea wins it back 1261]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ A northern kingdom the poleis despised swallows Greece, then Persia.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61334 — greece then persia]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.IV §6: The Macedonian state. Then let your companion ask you one hard question about it — answer from the lesson.

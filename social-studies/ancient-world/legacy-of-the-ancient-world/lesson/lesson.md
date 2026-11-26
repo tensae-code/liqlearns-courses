@@ -10,6 +10,8 @@ Egypt, Mesopotamia, China, India, Greece and Rome stock the treasury of world cu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61324 — the treasury of world culture]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea VII, Lecția 3: Cultura antică – tezaurul culturii universale. Cele șapte minuni — Egypt, Mesopotamia, China, India, Greece and Rome stock the treasury of world culture; Philo of Byzantium lists the seven monuments worth seeing, from the pyramids to the terracotta army's world. Then let your companion ask you one hard question about it — answer from the lesson.

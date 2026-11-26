@@ -10,6 +10,8 @@ as the book tells it, the Israelites after Sulayman split into two warring kingd
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61325 — before the birth]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Historical conditions before the Birth — as the book tells it, the Israelites after Sulayman split into two warring kingdoms and slide into insulting God, renaming their religion, killing prophets, distorting and hiding the Book, usury and corruption, and are punished in turn — Assyrians and Babylonians destroy their state, dispersion scatters them, Rome occupies the Levant and uses them as its tool — until, in that darkness of material tyranny, Isa is born as God's word and spirit. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -31,6 +31,8 @@ Laos's deep past in stone, bronze and jar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61315 — the deep past]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part II, Lesson 5: Archaeological traces and ancient Lao towns — stone-age and metal-age traces lead to the first Lao mueang — Sikhottabong, Vientiane and the other old towns; Part III, Lesson 9: Archaeological traces in Laos — stone tools, bronze and the Plain of Jars prove people have made history on Lao soil since deep prehistory; Part II, Lesson 5: Archaeological traces and ancient Lao towns — stone-age and metal-age finds lead to the first Lao mueang — Sikhottabong, Vientiane and the other old towns; Part III, Lesson 9: Archaeological traces in Laos — Laos's deep past in stone, bronze and jar. Then let your companion ask you one hard question about it — answer from the lesson.

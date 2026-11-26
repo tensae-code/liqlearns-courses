@@ -10,6 +10,8 @@ Basil II rules the conquered land gently, but his successors raise taxes and imp
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61335 — two risings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: the uprisings in Macedonia in the 11th century — Basil II rules the conquered land gently, but his successors raise taxes and import Greek bishops; in 1040 Petar Deljan, claiming Samuil's blood, is proclaimed tsar and sweeps the Balkans — until his own cousin Alusian blinds him at a feast and the rising collapses; in 1072 Skopje's nobles under Gjorgji Vojteh crown Duklja's Konstantin Bodin and die at Kosovo Field. Then let your companion ask you one hard question about it — answer from the lesson.

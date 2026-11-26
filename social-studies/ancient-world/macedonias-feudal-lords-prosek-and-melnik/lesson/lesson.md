@@ -10,6 +10,8 @@ as empires falter, strongmen seize rock fortresses — Dobromir Hrs at Prosek ab
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61338 — lords of the rocks]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: independent feudal rulers in Macedonia in the 13th century — as empires falter, strongmen seize rock fortresses — Dobromir Hrs at Prosek above the Vardar, who ambushes Emperor Alexios III's army by night and marries his way to peace; Strez, who holds Prosek after him and is murdered in his tent in 1214 (folk said Saint Sava's prayers killed him); and Alexiy Slav at Melnik, who survives twenty years by marrying into the Latin emperor's family, then switching to Epirus. Then let your companion ask you one hard question about it — answer from the lesson.

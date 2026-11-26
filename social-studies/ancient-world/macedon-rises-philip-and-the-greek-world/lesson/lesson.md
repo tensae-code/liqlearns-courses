@@ -10,11 +10,15 @@ Philip II builds the Macedonian phalanx, defeats the southern Greeks, treats the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61330 — philip unites greece]
+
 ## Sub lesson 2 — Ch. 30 Macedon exercises
 
 exercises trace Philip's new phalanx and his road to mastery of Greece
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61331 — tracing philips road]
 
 ## Sub lesson 3 — Ch. G1 The state of Macedon
 
@@ -22,11 +26,15 @@ a northern kingdom of king, companions and highland clans organises itself for e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61332 — king companions clans]
+
 ## Sub lesson 4 — Ch. G2 The Macedonian state expands
 
 Philip's sarissa phalanx, diplomacy and gold take Amphipolis, Thessaly and finally, at Chaeronea, Greece itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61333 — pike word and gold]
 
 ## Say it to your companion
 
