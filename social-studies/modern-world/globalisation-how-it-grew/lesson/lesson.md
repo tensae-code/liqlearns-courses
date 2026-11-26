@@ -10,6 +10,8 @@ a word born in the 1960s takes off in the 1980s as transport and communication c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63370 — costs fall the word flies]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 Lesson 12, The evolution of globalisation — a word born in the 1960s takes off in the 1980s as transport and communication costs fall, finance and technology circle the planet, and bodies like the WTO bind national economies together. Then let your companion ask you one hard question about it — answer from the lesson.

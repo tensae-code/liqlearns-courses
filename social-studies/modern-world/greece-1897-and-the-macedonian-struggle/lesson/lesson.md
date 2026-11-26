@@ -10,6 +10,8 @@ the disastrous Thirty Days' War humiliates Greece; the fight for Macedonia turns
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63388 — thirty days of humiliation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit E, ch. 1 From the Greco-Turkish War of 1897 to the Macedonian Struggle — the disastrous Thirty Days' War humiliates Greece; the fight for Macedonia turns to armed bands, teachers and bishops. Then let your companion ask you one hard question about it — answer from the lesson.

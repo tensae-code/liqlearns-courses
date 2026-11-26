@@ -10,6 +10,8 @@ the 2000s' migration flows (the chapter's maps), frontiers that harden (Storie d
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63371 — promises meet their price]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 6, Cap. 22 §5 The mortgages on globalisation — the 2000s' migration flows (the chapter's maps), frontiers that harden (Storie di frontiera) and the climate bill come due together — globalisation's promises meet their price. Then let your companion ask you one hard question about it — answer from the lesson.

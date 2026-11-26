@@ -10,11 +10,15 @@ Katari's rebellion spreads community to community; Túpac Amaru II is recognised
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63379 — community to community]
+
 ## Sub lesson 2 — Año 2: Las grandes rebeliones indígenas de 1780–1781
 
 Teacher-compendium unit, same arc as the student text (Año 2: Las grandes rebeliones indígenas de 1780–1781)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63380 — the same arc taught]
 
 ## Say it to your companion
 

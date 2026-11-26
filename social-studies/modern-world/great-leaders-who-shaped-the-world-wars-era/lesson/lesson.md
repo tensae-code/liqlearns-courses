@@ -10,11 +10,15 @@ One generation of giants — Hitler hunting lebensraum through Austria, Czechosl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63381 — one generation of giants]
+
 ## Sub lesson 2 — Folio
 
 Ten politically significant lives from WWII to the present, at least one Papua New Guinean, profiled and judged — early life, beliefs, rise, achievements good and bad, and the legacy each left
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63382 — ten lives judged]
 
 ## Sub lesson 3 — Influence of individuals on systems of power, authority and governance
 
@@ -22,11 +26,15 @@ Weber's charisma — authority legitimised by a leader's exceptional qualities, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63383 — charisma challenges order]
+
 ## Sub lesson 4 — Impact of powerful individuals and groups on society
 
 1 September 1969 — young officers led by Gaddafi overthrow King Idris in a bloodless coup; the Revolutionary Command Council abolishes the monarchy, makes education and medical care free, and per-capita income climbs — students explain why such leaders and governments are removed from power
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63384 — a bloodless coup 1969]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ glasnost's posters (image study) promise open speech and perestroika a rebuilt s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63373 — the solvent of its bloc]
+
 ## Sub lesson 2 — Modulo 12 §3 L'Unione Sovietica: da Breznev a Gorbačëv
 
 stagnation, Afghanistan and dissent in the East (Focus) hollow the bloc; Gorbachev and Reagan (the joint Personaggi study) become the pair who end it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63374 — the pair who ended it]
 
 ## Say it to your companion
 

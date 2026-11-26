@@ -10,6 +10,8 @@ Greece says Ochi to Italy, beats its army in Albania, then faces Germany too and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63389 — ochi then overrun]
+
 ## Sub lesson 2 — Greece in the war: the Greco-Italian war and the German invasion
 
 Ochi and the Albanian front win Greece glory; the Wehrmacht's spring invasion wins it occupation

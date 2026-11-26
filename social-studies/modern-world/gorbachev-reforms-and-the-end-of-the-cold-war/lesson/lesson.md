@@ -10,6 +10,8 @@ glasnost and perestroika are meant to save the system and instead dissolve it �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63375 — fifteen new states]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: Gorbachev and the fall of the USSR — glasnost and perestroika are meant to save the system and instead dissolve it — the Baltic republics walk first, a coup against Gorbachev fails in August 1991, and by Christmas the Soviet flag comes down and fifteen new states stand in its place. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Swiss typography, offset and the corporate identity system order the postwar pag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63376 — order on the page]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 22: Techniques and evolution in today's graphic design — Swiss typography, offset and the corporate identity system order the postwar page. Then let your companion ask you one hard question about it — answer from the lesson.

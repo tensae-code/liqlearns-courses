@@ -10,6 +10,8 @@ two empires court and coerce Persia in the Great Game's opening
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63378 — two empires one persia]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.1 How alike were Russia's and Britain's interests in Persia (Iran)? — two empires court and coerce Persia in the Great Game's opening. Then let your companion ask you one hard question about it — answer from the lesson.

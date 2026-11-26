@@ -10,6 +10,8 @@ after thirty years of accelerating exchange, the book (via Octavio Ianni) weighs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63372 — the balance sheet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: globalisation's balance sheet — after thirty years of accelerating exchange, the book (via Octavio Ianni) weighs globalisation's table: universal values and knowledge spread against cultural standardisation, lost identity and discrimination of minorities — the web as "fifth power" displacing the press. Then let your companion ask you one hard question about it — answer from the lesson.

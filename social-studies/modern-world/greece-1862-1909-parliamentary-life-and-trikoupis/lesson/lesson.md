@@ -10,11 +10,15 @@ a new Danish king, Trikoupis modernises and bankrupts the state, the 1897 war is
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63386 — modernised and bankrupt]
+
 ## Sub lesson 2 — Attempts to modernise Greece
 
 Trikoupis builds railways, a canal and an administration, bankrupts the state, and leaves the modernisation half-done
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63387 — half-done]
 
 ## Say it to your companion
 

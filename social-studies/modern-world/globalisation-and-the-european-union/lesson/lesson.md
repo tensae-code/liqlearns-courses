@@ -10,6 +10,8 @@ the USSR's 1991 break-up ends the Cold War and neoliberal globalisation follows,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63369 — the gap widens]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Impacto de la globalización y la Unión Europea — the USSR's 1991 break-up ends the Cold War and neoliberal globalisation follows, widening the rich-poor gap; Maastricht turns the European Community into a Union with a single currency. Then let your companion ask you one hard question about it — answer from the lesson.

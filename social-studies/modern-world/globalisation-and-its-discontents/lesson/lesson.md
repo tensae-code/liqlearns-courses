@@ -10,11 +10,15 @@ one world market — and the backlash of terror against it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63367 — one market one backlash]
+
 ## Sub lesson 2 — §26 The problem of preserving national identity under globalisation
 
 small cultures ask whether the global village leaves room for their language
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63368 — room for their language]
 
 ## Say it to your companion
 
