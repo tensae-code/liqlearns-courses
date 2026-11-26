@@ -10,6 +10,8 @@ Kushites, Semites and later Beja, Bilen, Saho and the rest move in wave after wa
 
 In your mind's eye: the key place or moment of Eritrea — early migrations and peoples as the book shows it: point to it and say what it shows.
 
+[Picture 60068 — wave after wave settles Eritrea]
+
 ## Sub lesson 2 — The first peoples of Eritrea
 
 Pygmoid first inhabitants are joined by Nilotes, then Kushite herders about 2000 BCE, then Semites from Arabia about 1000 BCE bringing camels, horses and new crops, and later Beja, Arab Muslims in Dahlak and Afar groups complete today's peoples.

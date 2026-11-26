@@ -10,6 +10,8 @@ a hidden imam's missionaries build the only caliphate that ever ruled Egypt — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60073 — the Fatimids: from Tunisia to Cairo]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Fatimid State (297–567 / 909–1171): the Ismaili da'wa wins the Kutama Berbers, Abu Abdallah al-Shi'i's army destroys the Aghla — a hidden imam's missionaries build the only caliphate that ever ruled Egypt — and its mosque-university teaches still. Then let your companion ask you one hard question about it — answer from the lesson.
