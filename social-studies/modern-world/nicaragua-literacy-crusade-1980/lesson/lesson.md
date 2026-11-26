@@ -10,17 +10,23 @@ the 1980 literacy crusade "Heroes and Martyrs for the Liberation of Nicaragua" t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40924 — countrytaughttoread]
+
 ## Sub lesson 2 — Logros sociales: alfabetización y salud
 
 adult education reaches 140,000 newly literate people a year, Río San Juan is declared free of illiteracy in 1987 winning the Krupskaya medal, and the school milk programme feeds 200,000 children
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40923 — medalsandmilk]
+
 ## Sub lesson 3 — Logros de la Revolución: la Cruzada Nacional de Alfabetización
 
 over 100,000 mostly young literacy volunteers cut illiteracy from 50.3 percent to 12.9 percent in five months of 1980, teaching also in the Caribbean coast's own languages
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40922 — illiteracyhalved]
 
 ## Say it to your companion
 

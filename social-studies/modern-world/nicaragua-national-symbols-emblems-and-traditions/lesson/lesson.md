@@ -10,17 +10,23 @@ the homeland is introduced as a mother; land of lakes Cocibolca and Xolotlán an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40921 — motheroflakes]
+
 ## Sub lesson 2 — Símbolos Patrios y su significado (flag, shield, anthem)
 
 blue-white-blue flag and triangle shield are decoded piece by piece — rainbow is peace, Phrygian cap is liberty, five volcanoes are the five Central American countries united
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40920 — flagdecoded]
+
 ## Sub lesson 3 — Emblemas Nacionales (sacuanjoche flower, madroño tree, guardabarranco bird)
 
 three living emblems are chosen from Nicaragua's own nature and each gets its story and use, the madroño flowering in December for La Purísima altars
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40919 — livingemblems]
 
 ## Say it to your companion
 

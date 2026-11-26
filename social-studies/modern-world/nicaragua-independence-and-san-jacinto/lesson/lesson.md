@@ -40,11 +40,15 @@ liberal-conservative civil wars invite William Walker's filibusters; at the Acta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40937 — unitedaprilvictoriousdawn]
+
 ## Sub lesson 7 — Personajes históricos: Gesta de Enmanuel Mongalo
 
 teacher Enmanuel Mongalo runs with a burning torch under enemy fire to set the filibusters' position alight, a schoolmaster turned hero of the Walker war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40936 — schoolmastertorch]
 
 ## Sub lesson 8 — Antecedentes de la Guerra Nacional: agresión inglesa y disputa EE.UU.–Inglaterra por Nicaragua
 
@@ -52,11 +56,15 @@ Britain seizes Caribbean positions and the US and Britain rival over a canal rou
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40935 — twoempiresprize]
+
 ## Sub lesson 9 — Guerra civil: causas
 
 liberals and conservatives fight for power and their ambitions open the door to the foreign invader
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40934 — doorleftopen]
 
 ## Sub lesson 10 — Los filibusteros en Nicaragua: William Walker
 
@@ -64,11 +72,15 @@ Walker arrives as a hired filibuster, makes himself president and re-legalises s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40933 — crownshimselfnation]
+
 ## Sub lesson 11 — Desarrollo de la Guerra Nacional
 
 Central American armies unite against Walker and drive him out battle by battle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40932 — drivenoutunited]
 
 ## Sub lesson 12 — La Batalla de San Jacinto
 
@@ -76,11 +88,15 @@ at dawn on 14 Sept 1856 Estrada's outnumbered patriots hold Hacienda San Jacinto
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40931 — dawnfamousstone]
+
 ## Sub lesson 13 — Consecuencias de la Guerra Nacional y tratado Jerez-Cañas
 
 the war leaves social, economic and political costs, settled partly by the Jerez-Cañas treaty fixing the Costa Rica border
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40930 — costsandborder]
 
 ## Sub lesson 14 — La unidad centroamericana frente al filibusterismo
 
@@ -88,11 +104,15 @@ Walker's filibusters, agents of Manifest Destiny aiming to "americanise" the con
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40929 — unitynotexpansion]
+
 ## Sub lesson 15 — Participación de Centroamérica en la Guerra Nacional de Nicaragua
 
 troops from the sister republics march into Nicaragua's National War, making San Jacinto an isthmian victory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40928 — fiverepublicsvictory]
 
 ## Sub lesson 16 — La Guerra Nacional contra Walker
 
@@ -100,17 +120,23 @@ the 1854 León-Granada civil war brings Walker's filibusters; teacher Enmanuel M
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40927 — twothousand250]
+
 ## Sub lesson 17 — Guerra Nacional: causas y la guerra civil de 1854
 
 León's exiled liberals, unable to beat Granada's conservatives, hire Byron Cole to bring in Walker's filibusters — and a civil war becomes a national one
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40926 — hiredshipnationalwar]
+
 ## Sub lesson 18 — La Batalla de San Jacinto y el fin de la Guerra Nacional
 
 Estrada fortifies the San Jacinto hacienda with 160 men and 66 Matagalpa indigenous archers; Andrés Castro wins his fame there, and on 1 May 1857 Walker surrenders, ending a war the book insists was fought for all Central America
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40925 — haciendaheld]
 
 ## Say it to your companion
 

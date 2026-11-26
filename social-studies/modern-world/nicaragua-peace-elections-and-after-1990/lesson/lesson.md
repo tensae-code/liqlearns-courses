@@ -10,11 +10,15 @@ Central America's presidents meet at Esquipulas and on 6-7 Aug 1987 sign procedu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40918 — esquipulaspeace]
+
 ## Sub lesson 2 — Elecciones de febrero de 1990 y Nicaragua desde 1990 hasta la actualidad
 
 the UNO wins the February 1990 elections and power changes hands by ballot, opening the Nicaragua of today
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40917 — handsbyballot]
 
 ## Sub lesson 3 — Gobiernos liberales 1996-2000 y 2001-2006
 
@@ -22,17 +26,23 @@ Alemán and Bolaños govern on free-market policies; the book charges corruption
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40916 — soldoffshrink]
+
 ## Sub lesson 4 — Gobierno de Reconciliación y Unidad Nacional y sus programas sociales
 
 the GRUN returns with social programmes presented as restoring what the liberal governments removed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40915 — takenawayrestored]
+
 ## Sub lesson 5 — La lucha armada y los acuerdos de paz
 
 US-financed Contra war and Reagan's 1985 embargo besiege the Revolution; pressure aims to force negotiation, and peace talks follow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40914 — besiegedtalks]
 
 ## Sub lesson 6 — Elecciones de 1990
 
