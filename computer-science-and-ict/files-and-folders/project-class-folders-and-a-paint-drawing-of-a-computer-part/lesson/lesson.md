@@ -10,11 +10,15 @@ The project builds **three main folders — documents, pictures and videos** —
 
 In your mind's eye: folders for the class — teachers and pupils inside.
 
+[Picture 45447 — folders for the class — teachers and pupils inside]
+
 ## Sub lesson 2 — Settings changed — and a part drawn in Paint
 
 The project also practises the unit's **basic Windows settings** — the settings work of the unit, applied on the real machine. It ends in **Paint**: draw your **favourite computer part** — the part you would save first — and file the drawing in the pictures folder your project just built.
 
 In your mind's eye: settings changed — and a part drawn in paint.
+
+[Picture 45448 — settings changed — and a part drawn in paint]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Shortcuts a Link to the Original
 
 In your mind's eye: shortcuts a Link to the Original File.
 
+[Picture 45454 — shortcuts a Link to the Original File]
+
 ## Sub lesson 2 — Doing it — Shortcuts a Link to the Original File in practice
 
 **Doing it — Shortcuts a Link to the Original File in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Shortcuts a Link to the Original File in practice.
+
+[Picture 45455 — doing it — Shortcuts a Link to the Original File in practice]
 
 ## Say it to your companion
 

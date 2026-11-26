@@ -10,11 +10,15 @@ Grade 7’s files lesson walks the **File menu**: **New** starts a fresh project
 
 In your mind's eye: the File menu — New, Save, Save As, Open.
 
+[Picture 45450 — the File menu — New, Save, Save As, Open]
+
 ## Sub lesson 2 — The save-project warning — unsaved work is lost for good
 
 The lesson’s centre is its **warning**: work that was never saved is **lost for good** when the program closes. Saving is therefore a habit inside the work, not a chore after it — save when the project starts, and save again as it grows.
 
 In your mind's eye: the save-project warning — unsaved work is lost for good.
+
+[Picture 45451 — the save-project warning — unsaved work is lost for good]
 
 ## Say it to your companion
 

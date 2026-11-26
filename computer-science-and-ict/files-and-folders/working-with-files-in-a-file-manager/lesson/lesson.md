@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Working with files** — covering: 2.3:
 
 In your mind's eye: working with files.
 
+[Picture 45456 — working with files]
+
 ## Sub lesson 2 — The file manager
 
 This part of Kazakhstan's book teaches **The file manager** — covering: 2.4: The file manager. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: the file manager.
+
+[Picture 45457 — the file manager]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A saved file lives in the **folder** where you saved it, under the **name** you 
 
 In your mind's eye: finding the file you saved.
 
+[Picture 45445 — finding the file you saved]
+
 ## Sub lesson 2 — Opening it — double-click and the program returns
 
 **Double-click** the file and the program that made it opens with your work inside, exactly as you left it. A file can also be opened from inside its program: **File → Open**, choose the folder, choose the name, and confirm. What you must not do is start the work again from nothing — the saved copy is the work. When you finish, save again so the new changes join the old, and close the file when the lesson ends.
 
 In your mind's eye: opening it — double-click and the program returns.
+
+[Picture 45446 — opening it — double-click and the program returns]
 
 ## Say it to your companion
 

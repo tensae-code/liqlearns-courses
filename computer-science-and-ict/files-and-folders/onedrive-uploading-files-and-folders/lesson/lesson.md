@@ -10,11 +10,15 @@ The cloud lesson before this one said what the digital cloud is. This one does t
 
 In your mind's eye: oneDrive inside Teams — where the upload goes.
 
+[Picture 45443 — oneDrive inside Teams — where the upload goes]
+
 ## Sub lesson 2 — Uploading — files and whole folders
 
 The act is the same for one file and for many: choose what goes up — a **single file**, or a **folder**, which carries everything inside it in one move — start the upload, and **wait for it to finish** before trusting it: a half-uploaded folder is a promise, not a copy. The closing check is the skill: open the cloud copy and see the work there, whole, before calling the job done.
 
 In your mind's eye: uploading — files and whole folders.
+
+[Picture 45444 — uploading — files and whole folders]
 
 ## Say it to your companion
 

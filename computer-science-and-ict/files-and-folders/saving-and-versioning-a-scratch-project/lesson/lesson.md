@@ -10,6 +10,8 @@ The teacher guide's notes give two saving routes. With a **Scratch account** and
 
 In your mind's eye: a Scratch File menu open at Save to your computer, beside a row of named project versions — Maze v1 one level, Maze v2 enemies, Maze v3 music.
 
+[Picture 45449 — a Scratch File menu open at Save to your computer, beside a row of named project versions — Maze v1 one level, Maze v2 enemies, Maze v3 music]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: accounts auto-save online, File > Save to your computer keeps your own copy, and named versions mean one bad change can never destroy the last good state. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.
