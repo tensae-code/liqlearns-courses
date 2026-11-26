@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **The Internet Good or Bad** — covering
 
 In your mind's eye: the Internet Good or Bad.
 
+[Picture 46050 — the Internet Good or Bad]
+
 ## Sub lesson 2 — Doing it — The Internet Good or Bad in practice
 
 **Doing it — The Internet Good or Bad in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The Internet Good or Bad in practice.
+
+[Picture 46051 — doing it — The Internet Good or Bad in practice]
 
 ## Say it to your companion
 

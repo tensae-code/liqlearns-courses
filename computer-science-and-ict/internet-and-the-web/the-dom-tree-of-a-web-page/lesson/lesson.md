@@ -12,11 +12,15 @@ Because it is a tree, the DOM speaks the language of families: a node has one **
 
 In your mind's eye: a small HTML fragment on the left and its DOM tree on the right, arrows joining each tag to its node.
 
+[Picture 46040 — a small HTML fragment on the left and its DOM tree on the right, arrows joining each tag to its node]
+
 ## Sub lesson 2 — Using the DOM — finding and changing nodes
 
 Why build a tree at all? Because a tree can be **walked and changed**. When JavaScript runs on a page — the subject of the JavaScript lesson — it does not edit the HTML file; it works on the DOM. It can search the tree for one node, most simply by the `id` you gave the element; read what the node contains; and change it: new text, a new attribute, a different style. The browser redraws from the changed tree instantly, so the reader sees the page itself change — a message appears, an error shows under a form field, a menu opens. Every interactive page you have ever used is, underneath, a program climbing this tree. Learn to draw the tree of a fragment and you can predict what a script will find; learn the family words — parent, child, sibling — and you can say precisely where it will land.
 
 In your mind's eye: a script's hand pointing at one highlighted node in a page's tree while the same element glows on the rendered page beside it.
+
+[Picture 46041 — a script's hand pointing at one highlighted node in a page's tree while the same element glows on the rendered page beside it]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Identify the Text Formatting Tag
 
 In your mind's eye: identify the Text Formatting Tags.
 
+[Picture 46046 — identify the Text Formatting Tags]
+
 ## Sub lesson 2 — Doing it — The Font Tag and Bold Italic Underline in practice
 
 **Doing it — The Font Tag and Bold Italic Underline in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The Font Tag and Bold Italic Underline in practice.
+
+[Picture 46047 — doing it — The Font Tag and Bold Italic Underline in practice]
 
 ## Say it to your companion
 
