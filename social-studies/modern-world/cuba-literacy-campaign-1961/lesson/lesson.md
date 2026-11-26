@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: in 1961 an army of you
 in 1961 an army of young literacy teachers goes to the countryside and Cuba declares itself free of illiteracy in a year
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62888 — free of illiteracy]
 ## Sub lesson 2 — 6.5 Panorama of culture, science and education in Cuba from 1959
 
 literacy campaign, universities and science built by a poor country are presented as the Revolution's cultural proof
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62889 — cultural proof]
 
 ## Say it to your companion
 

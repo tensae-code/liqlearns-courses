@@ -10,6 +10,8 @@ mambí columns keep attacking in east and west even after Maceo falls at Punta B
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62893 — after maceo falls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 7.6 The Cuban offensive — mambí columns keep attacking in east and west even after Maceo falls at Punta Brava (Dec 1896); Spain cannot finish a war it cannot win. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -9,16 +9,22 @@ Before you read on, hold this lesson's one thing in mind: Machado extends his te
 Machado extends his term, rules by terror and murder of opponents, and is brought down in 1933 by a general strike and popular rising
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62890 — the tyranny falls]
 ## Sub lesson 2 — 6.8–6.10 Government of Gerardo Machado; repercussion of the world economic crisis; rise of the revolutionary movement against Machado
 
 the 1929 crash empties the sugar economy; students, workers and the ABC fill the streets until Machado falls in 1933
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62891 — the crash empties sugar]
 ## Sub lesson 3 — 3.3 Cuba 1925–1935: the revolutionary process, its rise and end
 
 Machado, the 1933 revolution and its frustration told as one process with a beginning, a climax and a defeat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62892 — one process]
 
 ## Say it to your companion
 

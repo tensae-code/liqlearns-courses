@@ -10,6 +10,8 @@ a poor Havana boy who at sixteen is sent to the quarries for a letter, is exiled
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62887 — a boy into the apostle]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.1 José Martí, our National Hero, born 28 Jan 1853 — a poor Havana boy who at sixteen is sent to the quarries for a letter, is exiled, and grows into the writer who will unite Cuba. Then let your companion ask you one hard question about it — answer from the lesson.

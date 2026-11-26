@@ -10,6 +10,8 @@ captains-general rule with omnímodas powers while slave-owners flirt with joini
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62908 — omnimodas powers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.7–2.9 Cuba under the régimen de facultades omnímodas; annexationist and reformist manifestations in the 1850s; extreme sharpening of colony–metropolis contradictions — captains-general rule with omnímodas powers while slave-owners flirt with joining the United States and reformists petition in vain. Then let your companion ask you one hard question about it — answer from the lesson.

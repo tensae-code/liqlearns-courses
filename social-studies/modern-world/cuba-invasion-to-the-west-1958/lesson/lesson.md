@@ -10,6 +10,8 @@ Che Guevara and Camilo Cienfuegos repeat Maceo's invasion on foot to Las Villas 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62886 — on foot to las villas]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.6 Invasion to the West and the Oriente campaign — Che Guevara and Camilo Cienfuegos repeat Maceo's invasion on foot to Las Villas while Fidel advances in Oriente; Santa Clara falls. Then let your companion ask you one hard question about it — answer from the lesson.

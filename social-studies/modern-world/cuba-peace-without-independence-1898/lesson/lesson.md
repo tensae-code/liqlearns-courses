@@ -10,6 +10,8 @@ at Paris, Spain and the United States settle Cuba's fate with no Cuban in the ro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62909 — no cuban in the room]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 7.8 The peace that did not mean independence — at Paris, Spain and the United States settle Cuba's fate with no Cuban in the room; occupation replaces colony and independence is postponed. Then let your companion ask you one hard question about it — answer from the lesson.

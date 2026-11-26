@@ -10,6 +10,8 @@ Batista's coup closes legal paths; Fidel Castro gathers the Centenary Generation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62903 — the centenary generation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.1–4.2 A new tyranny; young people to the struggle; preparations for a great action — Batista's coup closes legal paths; Fidel Castro gathers the Centenary Generation and secretly prepares an assault that will restart armed struggle. Then let your companion ask you one hard question about it — answer from the lesson.
