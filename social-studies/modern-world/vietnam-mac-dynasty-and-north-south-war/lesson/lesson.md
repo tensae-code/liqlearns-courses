@@ -10,11 +10,15 @@ as the Lê sơ rots in factional strife and peasant risings, the strongman Mạc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39563 — Mac Dang Dung takes the throne]
+
 ## Sub lesson 2 — Bài 5, the North–South dynasties war, 1533–1592
 
 the Lê loyalist Nguyễn Kim sets up a rival "Southern dynasty" in Thanh Hoá in 1533 under the banner "support the Lê, destroy the Mạc"; for decades Thanh–Nghệ and the northern delta are the battlefield, until the Southern army takes Thăng Long in the early 1590s and the Mạc flee to Cao Bằng; the country is left divided, its villages ruined and its families scattered — Nguyễn Bỉnh Khiêm's poem Thương loạn, quoted here, grieves over fields where nothing is planted and war without end
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39562 — sixty years of North-South war]
 
 ## Say it to your companion
 

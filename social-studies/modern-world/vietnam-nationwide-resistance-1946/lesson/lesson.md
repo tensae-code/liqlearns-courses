@@ -10,11 +10,15 @@ France breaks the 1946 agreements — occupying Hanoi's Finance Department and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39557 — keep peace — then resist]
+
 ## Sub lesson 2 — Bài 7 The road back to war: the new republic, "hanging by a hair" between Allied armies, 600,000 Japanese awaiting disarmament and France's new expeditionary corps, still negotiates — the Preliminary Agreement (6-3-1946) and Modus Vivendi (14-9-1946) — while France fires on Saigon's Independence Day crowd (2-9-1945) and attacks on the night of 22–23-9-1945 open the second invasion; the South resists and "Southward advance" units march to join it; when France's ultimatum of 18-12-1946 demands disarmament, Hồ Chí Minh issues the Appeal for National Resistance on 19-12-1946 — guns, swords, hoes, sticks
 
 a government that signs two peace agreements in one year ends it calling every citizen to fight with farm tools
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39556 — two agreements, then the Appeal]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ in one generation the colonised South answers imported religions by manufacturin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39555 — faiths Vietnam invented]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chuyên đề 1 Faiths Vietnam invented: Cao Đài, founded in Tây Ninh in 1926 by officials, landlords and intellectuals fusing Buddhism, Confucianism, Daoism and southern folk belief under one Holy See — its followers count some 4,000 martyrs in the anti-American war — and Hòa Hảo Buddhism, founded in 1939 by Huỳnh Phú Sổ on lay practice and the Four Debts of Gratitude, with about 1.3 million followers by 2022 — in one generation the colonised South answers imported religions by manufacturing its own. Then let your companion ask you one hard question about it — answer from the lesson.

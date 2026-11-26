@@ -10,6 +10,8 @@ five waves of land reform (late 1953–1956) give over 810,000 hectares to some 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39546 — land, recovery, and the road south]
+
 ## Sub lesson 2 — Bài 16, the South rises: Đồng Khởi
 
 America installs the Ngô Đình Diệm government, refuses the 1956 general election and unleashes "denounce and exterminate communists" campaigns under Law 10/59's mobile guillotine; the Party's 15th Central Committee Conference (early 1959) authorises revolutionary violence with political struggle primary; scattered risings at Vĩnh Thạnh, Bác Ái and Trà Bồng (1959) become the Đồng Khởi movement at Bến Tre on 17 January 1960 — three Mỏ Cày communes rise, Bến Tre's "long-hair army" fights under Nguyễn Thị Định, landlords' land goes to poor peasants — and on 20 December 1960 the National Liberation Front is founded

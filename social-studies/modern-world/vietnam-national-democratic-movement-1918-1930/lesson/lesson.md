@@ -10,11 +10,15 @@ abroad, the Tâm Tâm Xã society in Canton (1923) attempts to assassinate Gover
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39560 — crowds fill the streets]
+
 ## Sub lesson 2 — Bài 5, the workers enter the struggle
 
 Hải Phòng's Sác-nô sailors strike in 1919 and 600 Saigon–Chợ Lớn dyers in 1920; then, in August 1925, over a thousand Ba Son shipyard workers under Tôn Đức Thắng strike and stop a French warship carrying troops against the Chinese revolution — the milestone, quoted from historian Đinh Xuân Lâm, where Vietnamese workers enter organised struggle with a clear political purpose; from 1926 organised strikes spread to Mạo Khê, Trường Thi and Phú Riềng
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39559 — the workers enter the struggle]
 
 ## Say it to your companion
 
