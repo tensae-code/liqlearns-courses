@@ -10,6 +10,8 @@ Britain rules India (Document: Canning's principles) and forces China's opium tr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62768 — informal empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 13 §2 French and British colonial expansionism — Britain rules India (Document: Canning's principles) and forces China's opium trade open (Document: against the opium trade) — informal empire before the Scramble. Then let your companion ask you one hard question about it — answer from the lesson.

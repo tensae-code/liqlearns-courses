@@ -10,6 +10,8 @@ The viceregal state's inclusion and repression are mostly accepted, until protes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62777 — tupac amaru]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Guía 15: Protest and social movements in the Colony — the viceregal state's inclusion and repression are mostly accepted, until protest breaks out — Túpac Amaru's rebellion is the worked example, drawn and compared by learners. Then let your companion ask you one hard question about it — answer from the lesson.

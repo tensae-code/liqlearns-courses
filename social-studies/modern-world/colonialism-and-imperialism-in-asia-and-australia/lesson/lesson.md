@@ -10,6 +10,8 @@ the same flags planted in Africa are planted from India to the Pacific islands
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62783 — from india to the pacific]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3: colonialism in Asia and Australia — European powers extend colonial rule across Asia and the Pacific — the same flags planted in Africa are planted from India to the Pacific islands. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The empires measure their shares of africa and asia against each other until the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62778 — a road to war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: colonial rivalry among the european states. Then let your companion ask you one hard question about it — answer from the lesson.

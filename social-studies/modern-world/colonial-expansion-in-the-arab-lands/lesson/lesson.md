@@ -10,6 +10,8 @@ The Ottoman Arab provinces pass under British and French mandates after 1918 —
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62769 — mandates after 1918]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 6: Colonial expansion in the Arab countries under Ottoman rule after the First World War, until independence. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ on 9 November 1918 a Berlin general strike becomes an armed rising and the Germa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62789 — the comintern 1919]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 2, the revolutionary wave and the Communist International — on 9 November 1918 a Berlin general strike becomes an armed rising and the German monarchy falls; England counts 6.5 million strikers (1919–21), France a general strike of over a million (1 May 1920), Italy 1,600 strikes in 1919 and Red Guards in 1920; communist parties spring up (Hungary 1918, France and England 1920, Italy 1921) and in March 1919 the Comintern is founded in Moscow — its 1920 Theses on the national and colonial questions are the very text in which Nguyễn Ái Quốc finds his road; the Comintern is dissolved in 1943. Then let your companion ask you one hard question about it — answer from the lesson.

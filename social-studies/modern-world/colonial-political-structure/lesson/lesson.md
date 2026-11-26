@@ -10,11 +10,15 @@ Gobernaciones, viceroyalties (New Spain 1535), captaincies, corregimientos, the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62775 — governing the colony]
+
 ## Sub lesson 2 — Año 2: Estructura política de la Colonia
 
 Teacher-compendium unit, same arc as the student text (Año 2: Estructura política de la Colonia)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62776 — the colonys structure]
 
 ## Say it to your companion
 

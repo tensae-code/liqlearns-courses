@@ -10,11 +10,15 @@ The indigenous tribute is framed as a right of conquest, the repartimiento of me
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62781 — tribute and coinage]
+
 ## Sub lesson 2 — Año 2: Otras instituciones económicas de la colonia
 
 Tribute, reducciones, obrajes and the commercial monopoly complete the colony's economic machinery (Año 2: Otras instituciones económicas de la colonia)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62782 — the economic machinery]
 
 ## Say it to your companion
 

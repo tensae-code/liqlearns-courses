@@ -10,6 +10,8 @@ Spain built a ranked colonial society in America — an ordered ladder of people
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 62780 — an ordered ladder]
+
 ## Sub lesson 2 — The Dutch and French chase furs and empire
 
 The Dutch and French came chasing furs and empire. Their colonies leaned on trade and alliances with Native peoples — a thinner, trading kind of colony beside Spain's settled, ranked one.

@@ -10,11 +10,15 @@ trading companies turn footholds in Asia into territorial power over older easte
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62766 — footholds into power]
+
 ## Sub lesson 2 — §2.1 Why did the British turn from traders into rulers of India?
 
 a trading company wins Plassey, collects Bengal's taxes and ends up governing India
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62767 — from traders to rulers]
 
 ## Say it to your companion
 

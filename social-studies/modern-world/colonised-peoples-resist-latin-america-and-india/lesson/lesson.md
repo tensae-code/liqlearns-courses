@@ -10,11 +10,15 @@ as the powers carve up the world, colonised peoples rise — Latin America wins 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62785 — peoples rise]
+
 ## Sub lesson 2 — Colonial peoples resist — Latin America
 
 orphaned in childhood, Bolívar swears his hands will not rest until Spain's chains break; in 1819 he crosses the snow-covered Andes, frees Colombia, Venezuela and Ecuador, and with San Martín, liberator of Argentina, Chile and Peru, ends Spanish America
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62786 — across the andes 1819]
 
 ## Sub lesson 3 — Colonial peoples resist — India
 
@@ -22,11 +26,15 @@ India's sepoys and the warrior queen of Jhansi rise against the British East Ind
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62787 — the queen of jhansi]
+
 ## Sub lesson 4 — Asian, African and Latin American independence movements
 
 from Haiti and Bolívar to India's early congresses, the colonised world answers the colonial system with independence movements on three continents
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62788 — three continents answer]
 
 ## Say it to your companion
 
