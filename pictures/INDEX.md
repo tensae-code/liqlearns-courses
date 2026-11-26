@@ -10633,3 +10633,23 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 60760 | pictures/60760.webp | a drawn scene — Patroclus in Achilles's golden armour with his great shield, driving a Trojan back from the ships | Social Studies — Ancient World — Greek Myth The Trojan War |
 | 60761 | pictures/60761.webp | a drawn scene — Achilles and Hector duelling with spears and shields before Troy's wall, old Priam watching, the ransom chest below | Social Studies — Ancient World — Greek Myth The Trojan War |
 | 60762 | pictures/60762.webp | a drawn scene — Paris on Troy's wall with his bow, and Achilles struck by the golden arrow in his ringed heel | Social Studies — Ancient World — Greek Myth The Trojan War |
+| 45700 | pictures/45700.webp | a drawn formula bar F = m x a over a mass, accel, force table with a teal fill-down arrow and an entered ONCE card | ICT — Spreadsheets — Spreadsheet Tasks from Other Subjects |
+| 45701 | pictures/45701.webp | a drawn stepped time and distance table with an arrow to a rising dotted line graph | ICT — Spreadsheets — Spreadsheet Tasks from Other Subjects |
+| 45702 | pictures/45702.webp | a drawn Day and Rain table with a magnifier beside it and three analysis chips — average 12, biggest 20, count 3 days | ICT — Spreadsheets — Statistical Data and Analysing It in a Spreadsheet |
+| 45703 | pictures/45703.webp | a drawn shop problem card — pens bought at 8 birr, sold at 11 — solved in a small sheet to a profit of 600 on 200 pens | ICT — Spreadsheets — Statistical Data and Analysing It in a Spreadsheet |
+| 45704 | pictures/45704.webp | two drawn claim cards — H0 the fertiliser changes NOTHING, H1 it DOES change the yield — joined by a double-headed arrow | ICT — Spreadsheets — Statistical Hypothesis Testing |
+| 45705 | pictures/45705.webp | a drawn SIGNIFICANT verdict card rejecting H0 beside Type I and Type II error cards | ICT — Spreadsheets — Statistical Hypothesis Testing |
+| 45706 | pictures/45706.webp | a drawn marks list grouped by class with green Subtotal 6A 170 and Subtotal 6B 135 rows and a gold GRAND TOTAL 305 row | ICT — Spreadsheets — Subtotals and Grand Totals in a Worksheet |
+| 45707 | pictures/45707.webp | drawn outline level buttons 1, 2, 3 over a worksheet edge with a minus open-group button and a plus folded-group button | ICT — Spreadsheets — Subtotals and Grand Totals in a Worksheet |
+| 45708 | pictures/45708.webp | a drawn Excel window labelled part by part — ribbon, formula bar with = SUM(B2:B5), the grid and the Sheet1 tab | ICT — Spreadsheets — The Excel Window and Ribbon |
+| 45709 | pictures/45709.webp | a drawn ribbon with eight tabs, Home lit, and Font, Alignment and Number groups holding their tool buttons | ICT — Spreadsheets — The Excel Window and Ribbon |
+| 45710 | pictures/45710.webp | three drawn panels each showing 12 — TEXT with '12 in its formula bar, NUMBER with 12, FORMULA with = 6 + 6 | ICT — Spreadsheets — Types of Data — Text, Numbers, Formulas |
+| 45711 | pictures/45711.webp | two drawn input cells A1 = 5 and B1 = 3 feeding a formula cell showing 8, then A1 becomes 7 and the result becomes 10 | ICT — Spreadsheets — Types of Data — Text, Numbers, Formulas |
+| 45712 | pictures/45712.webp | six drawn use cards — Marks book, Budget, Timetable, Stock list, Charts, Payroll | ICT — Spreadsheets — Uses of Spreadsheets |
+| 45713 | pictures/45713.webp | three drawn practice cards — AT SCHOOL marks, AT THE SHOP stock, AT HOME money — each ticked | ICT — Spreadsheets — Uses of Spreadsheets |
+| 45714 | pictures/45714.webp | a drawn TOTAL 999 struck out in red, a curved teal undo arrow, TOTAL 305 restored, and Ctrl + Z keycaps | ICT — Spreadsheets — Using Undo |
+| 45715 | pictures/45715.webp | a drawn stack of three action plates — typed, bolded, deleted — with the top plate lifted off and marked undone FIRST | ICT — Spreadsheets — Using Undo |
+| 45716 | pictures/45716.webp | a drawn number line of 6 to 10 around a red mean 8 line, distance labels and squared chips 4, 1, 0, 1, 4, variance = 2 | ICT — Spreadsheets — Variance and Standard Deviation |
+| 45717 | pictures/45717.webp | two drawn number lines — a tight class with SD about 1 mark and a spread class with SD about 6 marks | ICT — Spreadsheets — Variance and Standard Deviation |
+| 45718 | pictures/45718.webp | a drawn ID 103 key, a red arrow down the ID column of a table, and the matched row returning the name Amina | ICT — Spreadsheets — VLOOKUP in Excel |
+| 45719 | pictures/45719.webp | two drawn panels — FALSE exact match with a not found #N/A chip, TRUE nearest match crossed for stopping at the wrong row | ICT — Spreadsheets — VLOOKUP in Excel |

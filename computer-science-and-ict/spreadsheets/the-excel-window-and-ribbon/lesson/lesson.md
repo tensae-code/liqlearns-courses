@@ -10,11 +10,15 @@ The **main interface** of Excel is the window you work in: the **worksheet** of 
 
 In your mind's eye: the main interface of Microsoft Excel.
 
+[Picture 45708 — the main interface of Microsoft Excel]
+
 ## Sub lesson 2 — The ribbon
 
 Across the top runs the **ribbon**: the strip of **tabs and tools** for working on the worksheet — formatting, inserting and laying out the page all live there in later lessons. Learning the ribbon's layout once means every later Excel lesson can simply say where a tool lives, and the pupil already knows the way.
 
 In your mind's eye: the ribbon.
+
+[Picture 45709 — the ribbon]
 
 ## Say it to your companion
 

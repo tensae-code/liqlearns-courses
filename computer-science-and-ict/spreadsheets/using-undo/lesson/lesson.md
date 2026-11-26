@@ -10,11 +10,15 @@ Every learner deletes the wrong column once. Laos's Grade 9 Excel course, in the
 
 In your mind's eye: what Undo does.
 
+[Picture 45714 — what Undo does]
+
 ## Sub lesson 2 — The order of Undo — last done, first undone
 
 Undo works **backwards, one action at a time**: press it again and the action before that is undone too. What it cannot do is reach **past** an action to rescue an older one while keeping the newer — the stack unwinds strictly in reverse. Its partner **Redo** re-applies an undone action, walking forwards again. Two limits the careful user knows: **saving does not clear the way back** in the book's Excel, but **closing the workbook ends it** — and some acts (a deleted worksheet) the net cannot catch at all, which is why Undo is a safety net, not a licence to work carelessly.
 
 In your mind's eye: the order of Undo — last done, first undone.
+
+[Picture 45715 — the order of Undo — last done, first undone]
 
 ## Say it to your companion
 

@@ -14,6 +14,8 @@ Kenya's Form 2 spreadsheet unit teaches subtotals inside worksheet data manageme
 
 In your mind's eye: a worksheet list of exam marks grouped by class, with a bold subtotal row after each class and a grand total row at the bottom.
 
+[Picture 45706 — a worksheet list of exam marks grouped by class, with a bold subtotal row after each class and a grand total row at the bottom]
+
 ## Sub lesson 2 — Building subtotals — sort first, then outline and remove
 
 Subtotals have one golden rule: **sort first**. The Subtotal tool starts a new group every time the grouping column's value changes as it walks down the list. On an unsorted list, the same class appears in five separate runs, so you get five wrong "subtotals" for it. Sorted by the grouping column first, each group is one unbroken run and every subtotal is true.
@@ -23,6 +25,8 @@ Once subtotals are in, Excel draws an **outline** at the left of the sheet. The 
 To undo, open the Subtotal tool again and choose **Remove All**: the inserted rows disappear and the plain list comes back, untouched. Subtotals are a view you build on a list, never a change to the data itself.
 
 In your mind's eye: the left edge of a worksheet showing outline level buttons 1, 2 and 3 and plus/minus group buttons.
+
+[Picture 45707 — the left edge of a worksheet showing outline level buttons 1, 2 and 3 and plus/minus group buttons]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **hypothesis test** judges a claim about a population using a sample. Two hypo
 
 In your mind's eye: the claim and its opposite — H0 and H1.
 
+[Picture 45704 — the claim and its opposite — H0 and H1]
+
 ## Sub lesson 2 — The verdict — significance, and the two ways to be wrong
 
 The data's surprise is measured against a **significance level** chosen **before** the test (often 0.05): surprising enough, and H0 is **rejected**; not surprising enough, and H0 is **not rejected** — never 'proven', only not overthrown. The book's honesty lesson names the two errors: **rejecting a true H0** (a false alarm) and **keeping a false H0** (a missed difference) — a test balances them, it cannot banish both. In the spreadsheet, the test's arithmetic (a t-test over two sets, for example) is a function call; the thinking — claim, level, verdict, errors — is the statistician's.
 
 In your mind's eye: the verdict — significance, and the two ways to be wrong.
+
+[Picture 45705 — the verdict — significance, and the two ways to be wrong]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The marks sheet has pupil numbers; the names live in another table. Joining them
 
 In your mind's eye: what VLOOKUP does.
 
+[Picture 45718 — what VLOOKUP does]
+
 ## Sub lesson 2 — Exactness and the lookup's faults
 
 The fourth argument is the lesson's conscience: **FALSE demands an exact match** (the code must be found, or the formula reports #N/A — an honest failure), while TRUE accepts the nearest — right for tax bands, catastrophic for names. The standing faults: lookup values in the table's first column **only** (a table arranged otherwise cannot be searched), duplicates returning the **first** match silently, and numbers stored as text failing to meet their twins. Jordan teaches VLOOKUP with its faults attached because a lookup that fails silently invents data — and #N/A, loudly, is the analyst's friend.
 
 In your mind's eye: exactness and the lookup's faults.
+
+[Picture 45719 — exactness and the lookup's faults]
 
 ## Say it to your companion
 

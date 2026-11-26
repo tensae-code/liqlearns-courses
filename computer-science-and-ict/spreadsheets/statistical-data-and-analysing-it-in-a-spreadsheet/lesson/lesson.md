@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Analysing data on the basis of availabl
 
 In your mind's eye: analysing data on the basis of available information.
 
+[Picture 45702 — analysing data on the basis of available information]
+
 ## Sub lesson 2 — –3.7: Solving applied problems
 
 This part of Kazakhstan's book teaches **–3.7: Solving applied problems** — covering: 3.6–3.7: Solving applied problems. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: –3.7. Solving applied problems.
+
+[Picture 45703 — –3.7. Solving applied problems]
 
 ## Say it to your companion
 
