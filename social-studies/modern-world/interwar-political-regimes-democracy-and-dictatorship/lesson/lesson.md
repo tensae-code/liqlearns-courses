@@ -10,6 +10,8 @@ the USA stays a presidential republic while Hitler's Mein Kampf programmes the "
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63760 — republics and dictatorships]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 16: Caracteristici ale regimurilor politice din perioada interbelică — the USA stays a presidential republic while Hitler's Mein Kampf programmes the "new man" devoted to the state; Spain's Second Republic becomes the target of both radical left and right. Then let your companion ask you one hard question about it — answer from the lesson.

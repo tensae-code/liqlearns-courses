@@ -10,6 +10,8 @@ National economies fuse into one world economy — and the philosophy that greas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63754 — one world economy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: International economic relationships (incl. Australia–PNG and Japan case links) / Instrumental rationality — national economies fuse into one world economy — and the philosophy that greases it: "the end justifies the means", doing whatever it takes, right or wrong, to reach the goal. Then let your companion ask you one hard question about it — answer from the lesson.

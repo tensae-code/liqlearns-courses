@@ -10,11 +10,15 @@ the Allies demand the Germans leave; Reza Shah refuses, Britain and the USSR inv
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63764 — the shah shipped into exile]
+
 ## Sub lesson 2 — The occupation of Iran by the Allies and its effects
 
 occupied Iran becomes the Persian Corridor to the USSR while famine, inflation and foreign armies press on ordinary people (The occupation of Iran by the Allies and its effects)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63765 — the persian corridor]
 
 ## Say it to your companion
 

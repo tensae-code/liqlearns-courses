@@ -10,6 +10,8 @@ after 1953 the patron changes — American advisers, arms and intelligence resha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63766 — twenty five american years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: A quarter century of America's dominance over Iran — after 1953 the patron changes — American advisers, arms and intelligence reshape the shah's state for twenty-five years. Then let your companion ask you one hard question about it — answer from the lesson.

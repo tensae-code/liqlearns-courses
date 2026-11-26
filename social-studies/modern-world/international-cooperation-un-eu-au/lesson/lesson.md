@@ -10,11 +10,15 @@ after 1945 states build the UN, then the EU, the African Union and the OAS; Arme
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63752 — bodies built after 1945]
+
 ## Sub lesson 2 — Programme Theme 1: Cooperation
 
 the guide's outcome list requires pupils to explain cooperation in every sphere of society and find it at work in their own community
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63753 — cooperation in your own community]
 
 ## Say it to your companion
 

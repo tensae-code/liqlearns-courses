@@ -10,6 +10,8 @@ the leader is exiled to Turkey, then Iraq, but the movement reorganises undergro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63767 — the movement goes underground]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Iran's developments after the exile of Imam Khomeini — the leader is exiled to Turkey, then Iraq, but the movement reorganises underground while the shah's state hardens. Then let your companion ask you one hard question about it — answer from the lesson.

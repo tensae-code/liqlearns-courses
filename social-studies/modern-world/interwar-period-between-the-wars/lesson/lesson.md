@@ -10,6 +10,8 @@ The interwar years — democracies strained, dictatorships rising — lead towar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63759 — toward 1939]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Año 5: Periodo de Entreguerras — The interwar years — democracies strained, dictatorships rising — lead toward 1939. Then let your companion ask you one hard question about it — answer from the lesson.

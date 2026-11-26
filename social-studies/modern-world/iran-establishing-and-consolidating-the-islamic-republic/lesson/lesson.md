@@ -10,6 +10,8 @@ referendum, constitution, hostage crisis and purges — how a revolution hardens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63773 — a revolution hardens into a system]
+
 ## Sub lesson 2 — Iran in the period after the victory of the Islamic Revolution
 
 new system, imposed war and reconstruction — the republic's first decades as the course's closing chapter (Iran in the period after the victory of the Islamic Revolution)

@@ -10,17 +10,23 @@ one superpower remains, new centres rise, and the rules of the post-bipolar worl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63756 — rules still fought over]
+
 ## Sub lesson 2 — Theme 4, Lessons 58–59: changes in international relations
 
 one superpower remains, alliances search for new purposes, and regional wars replace the old East–West standoff
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63757 — regional wars replace the standoff]
+
 ## Sub lesson 3 — Theme 5 §22: prospects of unification and international structures
 
 after the Cold War the world argues between one centre of power and many, while integration projects multiply
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63758 — one centre or many]
 
 ## Say it to your companion
 

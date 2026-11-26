@@ -10,6 +10,8 @@ pupils present how digital networks let a village craft or a local song reach th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63750 — a village song reaches the world]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The information revolution and humanity's cultural sharing — pupils present how digital networks let a village craft or a local song reach the world in a day. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the USSR industrialise
 the USSR industrialises under siege while depression and fascism prepare the next war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63761 — industrialising under siege]
 ## Sub lesson 2 — Part I, Lesson 3: Civil war and building socialism
 
 the USSR industrialises under siege while fascism prepares the next war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63762 — fascism prepares the next war]
 
 ## Say it to your companion
 
