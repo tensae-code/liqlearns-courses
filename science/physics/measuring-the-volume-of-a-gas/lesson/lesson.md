@@ -8,6 +8,8 @@ Kenya's Grade 8 Integrated Science book measures volume in a row of activities: 
 
 In your mind's eye: a gas has no volume of its own — it spreads out to fill the whole of whatever holds it, so the volume of a gas is the volume of its container. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38889 — the volume of a gas]
+
 ## The key facts
 **A gas fills its container.** Unlike a solid, which keeps its own shape and volume, and a liquid, which keeps its volume but takes its container's shape, a gas expands until it fills the whole space available to it. The volume of a gas sample is therefore the volume of the vessel that holds it — change the vessel and the gas's volume changes with it.
 

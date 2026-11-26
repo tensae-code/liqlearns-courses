@@ -9,7 +9,11 @@ Inside its Heat and Temperature unit, Eritrea's Grade 8 book teaches **specific 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38879 — specific heat equal heat unequal warming]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38880 — equal heat unequal warming the result]
 
 ## Sub lesson 2 — Specific heat — the heat one kilogram needs for one degree
 

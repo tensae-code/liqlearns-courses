@@ -9,7 +9,11 @@ South Sudan's Primary 4 book teaches the **uses of heat** as its own topic: **dr
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38881 — uses of heat in daily life]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38882 — drying removes moisture]
 
 ## Sub lesson 2 — Heat at work — and a warning
 

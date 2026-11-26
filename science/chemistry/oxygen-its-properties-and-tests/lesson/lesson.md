@@ -8,6 +8,8 @@ Kenya's Grade 8 Integrated Science book prepares oxygen in the laboratory and th
 
 In your mind's eye: oxygen is a colourless, odourless gas, a little denser than air, only slightly soluble in water, neutral to litmus — and it is recognised by one sure test: it relights a glowing splint. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38888 — oxygen and its sure test]
+
 ## The key facts
 **What oxygen is like.** Oxygen is a colourless gas with no smell and no taste. It is only slightly soluble in water — which is why fish can breathe the small amount dissolved in rivers and lakes — and it has no effect on litmus: it is a neutral gas, neither acid nor alkali.
 

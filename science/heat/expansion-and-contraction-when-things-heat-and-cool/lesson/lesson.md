@@ -9,7 +9,11 @@ Seychelles' Unit 10 Topic 2 states the rule plainly: metals and liquids expand w
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38868 — expansion and contraction the set-up]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38869 — the bar-breaking proof]
 
 ## Sub lesson 2 — Cooled things contract — and the thermometer uses both
 

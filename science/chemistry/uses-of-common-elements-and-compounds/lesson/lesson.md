@@ -8,6 +8,8 @@ Kenya's Grade 8 Integrated Science book, after teaching what elements and compou
 
 In your mind's eye: the elements and compounds around us earn their place by what they do — oxygen for breathing and burning, iron for building, water and salts for life — and each has a market value because people need what it does. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38887 — uses of common elements and compounds]
+
 ## The key facts
 **Elements at work.** Common elements do daily jobs: oxygen is breathed and supports burning; iron and aluminium are built into tools, roofs and vehicles; copper carries electricity in wires; carbon in its forms fuels fires and writes as graphite. Life itself is built from elements — carbon, hydrogen, oxygen and nitrogen make up most of every living body.
 

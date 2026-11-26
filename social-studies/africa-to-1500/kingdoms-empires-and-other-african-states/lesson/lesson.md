@@ -10,8 +10,6 @@ African peoples build kingdoms and empires, organise them politically, administr
 
 In your mind's eye: an African royal court — a ruler, officials, traders and scholars together. Say how the state is organised and what its culture produces.
 
-[Picture 60095 — kingdoms held together four ways]
-
 ## Sub lesson 2 — Learning and art at court
 
 courts and cities produce learning and art that outlive the rulers (UA3 Vie intellectuelle, artistique et culturelle des royaumes et empires)

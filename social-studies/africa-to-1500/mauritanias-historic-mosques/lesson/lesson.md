@@ -10,8 +10,6 @@ The dossier tours the celebrated mosques and asks which famous mosques of Islam 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60107 — the desert cities' mosques]
-
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dossier 10: The famous mosques — the dossier tours the celebrated mosques and asks which famous mosques of Islam the pupil knows — the desert cities' mosques are Mauritania's monuments. Then let your companion ask you one hard question about it — answer from the lesson.

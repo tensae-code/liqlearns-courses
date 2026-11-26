@@ -2461,6 +2461,32 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 38861 | pictures/38861.webp | Finishing properly: unplug and put away — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Using household electrical appliances safely |
 | 38862 | pictures/38862.webp | What stops when the electricity goes — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, When there is no electricity |
 | 38863 | pictures/38863.webp | The stop names the jobs — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, When there is no electricity |
+| 38864 | pictures/38864.webp | The harmful effects of heat — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Dangers of heat and staying safe |
+| 38865 | pictures/38865.webp | Heat uncontrolled: the scorched pot — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Dangers of heat and staying safe |
+| 38866 | pictures/38866.webp | Sunlight warms the area — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Designing shade to reduce warming |
+| 38867 | pictures/38867.webp | Designing shade to reduce warming — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Designing shade to reduce warming |
+| 38868 | pictures/38868.webp | Expansion and contraction: the set-up — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Expansion and contraction — when things heat and cool |
+| 38869 | pictures/38869.webp | The bar-breaking proof — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Expansion and contraction — when things heat and cool |
+| 38870 | pictures/38870.webp | Heating makes all three states expand — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Heat makes solids, liquids and gases expand |
+| 38871 | pictures/38871.webp | Heating devices in two kinds of home — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Heating our homes — stoves, radiators and heaters |
+| 38872 | pictures/38872.webp | Sorting heating appliances — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Heating our homes — stoves, radiators and heaters |
+| 38873 | pictures/38873.webp | Heat from burning — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Heating our homes — stoves, radiators and heaters |
+| 38874 | pictures/38874.webp | Hotter and colder: a scale, not two boxes — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Hot and cold — temperature |
+| 38875 | pictures/38875.webp | Feeling is not measuring — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Hot and cold — temperature |
+| 38876 | pictures/38876.webp | Temperature changes change the thing — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Hot and cold — temperature |
+| 38877 | pictures/38877.webp | Sources of heat around us — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Sources of heat around us |
+| 38878 | pictures/38878.webp | Rubbing hands: heat from friction — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Sources of heat around us |
+| 38879 | pictures/38879.webp | Specific heat: equal heat, unequal warming — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Specific heat capacity |
+| 38880 | pictures/38880.webp | Equal heat, unequal warming: the result — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Specific heat capacity |
+| 38881 | pictures/38881.webp | Uses of heat in daily life — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Uses of heat in daily life |
+| 38882 | pictures/38882.webp | Drying removes moisture — drawn render, Photos+GIFs front 2026-11-26 | Science — Heat, Uses of heat in daily life |
+| 38883 | pictures/38883.webp | Materials that block sound: the set-up — drawn render, Photos+GIFs front 2026-11-26 | Science — Sound, Materials that block sound — and why |
+| 38884 | pictures/38884.webp | Stopped sound, and sound let through — drawn render, Photos+GIFs front 2026-11-26 | Science — Sound, Materials that block sound — and why |
+| 38885 | pictures/38885.webp | Drums that announce the hour — drawn render, Photos+GIFs front 2026-11-26 | Science — Sound, Sound signals in daily life |
+| 38886 | pictures/38886.webp | The captain's signals — drawn render, Photos+GIFs front 2026-11-26 | Science — Sound, Sound signals in daily life |
+| 38887 | pictures/38887.webp | Uses of common elements and compounds — drawn render, Photos+GIFs front 2026-11-26 | Science — Chemistry, Uses of common elements and compounds |
+| 38888 | pictures/38888.webp | Oxygen and its sure test — drawn render, Photos+GIFs front 2026-11-26 | Science — Chemistry, Oxygen — its properties and tests |
+| 38889 | pictures/38889.webp | The volume of a gas — drawn render, Photos+GIFs front 2026-11-26 | Science — Physics, Measuring the volume of a gas |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |

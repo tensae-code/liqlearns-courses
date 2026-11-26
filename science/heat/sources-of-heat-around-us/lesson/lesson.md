@@ -9,7 +9,11 @@ The book asks the plain question: **where the heat we feel comes from** — the 
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 38877 — sources of heat around us]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 38878 — rubbing hands heat from friction]
 
 ## Sub lesson 2 — Why heat matters
 

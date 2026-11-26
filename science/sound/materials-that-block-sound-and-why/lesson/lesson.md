@@ -9,7 +9,11 @@ Sound travels from where it is made through the materials around it until it rea
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38883 — materials that block sound the set-up]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38884 — stopped sound and sound let through]
 
 ## Sub lesson 2 — Materials that stop sound
 

@@ -9,7 +9,11 @@ The problem is named first: **sunlight warms** the surfaces it falls on — the 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38866 — sunlight warms the area]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38867 — designing shade to reduce warming]
 
 ## Sub lesson 2 — Design and sketch or model a shade solution
 

@@ -10,15 +10,11 @@ Before the Bantu arrived, Khoisan hunter-gatherer communities lived across Mozam
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60111 — Khoisan: kin, nature and the spirits]
-
 ## Sub lesson 2 — The first communities in Mozambique
 
 Mozambique's first people live by hunting and gathering, in small mobile communities long before farming or states
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
-
-[Picture 60112 — small camps that move: hunting and gathering]
 
 ## Say it to your companion
 

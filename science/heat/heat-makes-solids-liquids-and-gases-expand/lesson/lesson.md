@@ -8,6 +8,8 @@ Nepal's Grade 4 My Science, Health and Physical Education book teaches energy as
 
 In your mind's eye: when a solid, a liquid or a gas is heated, it expands — it takes up more space — and when it cools, it contracts; heat also drives the changes of state that turn ice to water and water to steam. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38870 — heating makes all three states expand]
+
 ## The key facts
 **Solids expand.** A heated metal bar grows longer; a tight metal lid loosens in hot water because the metal has expanded more than the glass. The growth is small but real, which is why bridges and rails are built with gaps for hot days.
 

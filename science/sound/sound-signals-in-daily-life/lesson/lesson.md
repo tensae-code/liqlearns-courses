@@ -9,11 +9,15 @@ Iran's Grade 2 book tells it as a historical note inside its sound lesson: at th
 
 In your mind's eye: drums that announce the hour as Iran's book shows it. Name the part that carries the sub lesson's point.
 
+[Picture 38885 — drums that announce the hour]
+
 ## Sub lesson 2 — The captain's signals
 
 The same book turns the class into a ship's crew: imagine you are a ship's captain, guiding and being guided by signals — a light seen, a sound heard, each with an agreed meaning. A signal works because sender and receiver agree the meaning beforehand: the sound or flash is short; the meaning is the whole message.
 
 In your mind's eye: the captain's signals as Iran's book shows it. Name the part that carries the sub lesson's point.
+
+[Picture 38886 — the captain's signals]
 
 ## The key ideas
 
