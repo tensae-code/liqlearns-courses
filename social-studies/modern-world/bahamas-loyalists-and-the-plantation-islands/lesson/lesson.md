@@ -10,11 +10,15 @@ when America wins independence in the 1780s, Loyalists who stayed loyal to the E
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62275 — the kings men arrive]
+
 ## Sub lesson 2 — Early Connections: the Loyalists build the colony's institutions
 
 Loyalists from the United States build Christ Church Cathedral, establish the first newspaper, the Gazette, and organise law and order in the community (Early Connections: the Loyalists build the colony's institutions)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62276 — building the colonys institutions]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ in 1629 Charles I grants The Bahamas and the Carolinas to Sir Robert Heath; the 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62274 — given away by kings]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Lord Proprietors: the kings give the islands away — in 1629 Charles I grants The Bahamas and the Carolinas to Sir Robert Heath; the Adventurers even donate money to help build Harvard College; in 1670 Charles II hands the islands to the Lords Proprietors of Carolina, who want profit but show little interest and are refused their rents — their rule ends in 1718 with Woodes Rogers. Then let your companion ask you one hard question about it — answer from the lesson.

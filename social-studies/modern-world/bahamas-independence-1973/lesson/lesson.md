@@ -74,11 +74,15 @@ swimmer Andy Knowles races at the 1976 Olympics, Arianna Vanderpool-Wallace sets
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62262 — builders in sport and song]
+
 ## Sub lesson 10 — Celebrations: the historical holidays
 
 the calendar itself remembers — Majority Rule Day (10 January), Randol Fawkes Labour Day for the "father" of the labour movement, Emancipation Day, National Heroes' Day (formerly Discovery Day, 12 October) and Independence Day (10 July) (Celebrations: the historical holidays)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62263 — the calendar remembers]
 
 ## Sub lesson 11 — National Pride: to be Bahamian is to know Bahamian history
 
@@ -86,11 +90,15 @@ citizens protect the Bahamian identity; knowing the country's history, pictured 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62264 — knowing our history]
+
 ## Sub lesson 12 — National Symbols: flag, anthem, pledge and coat of arms
 
 the black-gold-aquamarine flag stands for a united people's strength and their sun and sea; the coat of arms puts Columbus's Santa Maria on the shield under the motto "Forward, Upward, Onward, Together" (National Symbols: flag, anthem, pledge and coat of arms)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62265 — forward upward onward]
 
 ## Sub lesson 13 — Citizenship in Colonial Rule: British subjects before independence
 
@@ -98,11 +106,15 @@ before independence Bahamians are ruled by Britain, carry British passports, hon
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62266 — british subjects before]
+
 ## Sub lesson 14 — Nation Builders Part 1: politicians and pastors
 
 S. C. McPherson (1885–1972), elected in 1923, and lawyer-politician A. F. Adderley (Cambridge 1912, called to the Bar 1919) build the political nation; pastors Charles Saunders, who founds a Baptist school and college, and H. W. Brown of Bethel Baptist, honoured in 1967 as a hero of the Majority Rule struggle, build its churches and schools (Nation Builders Part 1: politicians and pastors)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62267 — politicians and pastors]
 
 ## Sub lesson 15 — Nation Builders Part 2: the sailors
 
@@ -110,11 +122,15 @@ Sir Durward Knowles becomes the first Bahamian world sailing champion, winning O
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62268 — the sailors]
+
 ## Sub lesson 16 — Nation Builders Part 3: the musicians
 
 Phil Stubbs, Patrick Rahming and Region Bells write the songs — goombay beats and gospel — by which Bahamians recognise themselves, and the country honours its builders with buildings, streets and events named for them (Nation Builders Part 3: the musicians)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62269 — the musicians]
 
 ## Sub lesson 17 — National Symbols – An Independent Nation Part 1: from the Queen's song to our own flag
 
@@ -122,11 +138,15 @@ before 1973 the colony's symbols are British and children sing "God Save Our Gra
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62270 — from the queens song to our own]
+
 ## Sub lesson 18 — National Symbols Part 2: the coat of arms remembers Columbus
 
 the crest of the coat of arms shows Columbus's landfall and a blazing sun, the crown keeps the monarch link, the motto is written by Hervis Bain, and the independent Bahamas stays in the Commonwealth of Nations (National Symbols Part 2: the coat of arms remembers Columbus)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62271 — the arms remember columbus]
 
 ## Sub lesson 19 — The Constitution / Citizenship: the 1972 constitution
 
@@ -134,11 +154,15 @@ in 1972 the British and Bahamian governments agree the constitution that becomes
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62272 — the 1972 constitution]
+
 ## Sub lesson 20 — National Builders: heroes of the nation
 
 two men are both called "Father of the Nation" — Sir Lynden Pindling and Randol Fawkes; tennis pioneer Mark Knowles, the Golden Girls and Golden Knights, Shaunae Miller-Uibo and Steven Gardiner, songwriter Eddie Minnis, artist Stanley Burnside, Rev. Dr. Myles Munroe and Cat Island's Father Jerome, architect of the Hermitage, fill the national honour roll (National Builders: heroes of the nation)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62273 — heroes of the nation]
 
 ## Say it to your companion
 

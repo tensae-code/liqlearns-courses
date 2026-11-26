@@ -10,17 +10,23 @@ shipwrecked English, French and Dutch hunters cure meat over a boucan fire on Hi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62281 — from boucan fires to blackbeard]
+
 ## Sub lesson 2 — Wrecking: the false-light trade
 
 in the mid-1600s wrecking is big business — wreckers lure ships onto cays and reefs, sometimes with false lights, strip the goods and sell them, and many Bahamians make a living from the wrecks (Wrecking: the false-light trade)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62282 — the false light trade]
+
 ## Sub lesson 3 — Early Connections: pirates, Woodes Rogers and the first parliament
 
 pirates seize the islands in the 1600s and ruin their reputation until Woodes Rogers, first Royal Governor, clears them out; under him the islands organise their first parliament in 1729, with John Colebrook as first Speaker and 24 members (Early Connections: pirates, Woodes Rogers and the first parliament)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62283 — the first parliament 1729]
 
 ## Say it to your companion
 
