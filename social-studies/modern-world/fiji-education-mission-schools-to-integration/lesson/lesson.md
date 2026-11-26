@@ -10,11 +10,15 @@ Missionaries open Fiji's first schools; from 1879 European settlers' children go
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63196 — the first schools]
+
 ## Sub lesson 2 — Integrated education and case studies: St Felix College / Marist Brothers, Suva Grammar School (1960- ), and the 2010 school-names ruling
 
 "multi-racial schools" grow through case-study schools — Brother Lambert's 1937 report, Suva Grammar turning co-educational — until in 2010 the Minister orders school names changed so schools themselves preach integration.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63197 — schools preach integration]
 
 ## Say it to your companion
 

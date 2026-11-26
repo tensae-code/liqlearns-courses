@@ -10,6 +10,8 @@ British resettlement policy and a European-dominated economy shape how Fijians, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63187 — belonging to neither side]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Cultural interaction prior to independence: economy, settlement and the kailoma. Then let your companion ask you one hard question about it — answer from the lesson.

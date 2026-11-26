@@ -10,11 +10,15 @@ Mara's Alliance wins in 1972, Bavadra's coalition wins in 1987 and Rabuka's two 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63188 — coups and constitutions]
+
 ## Sub lesson 2 — Political conditions: the coup of 2000 and the 2006 election
 
 Chaudhry's government, barely a year old, is seized with most MPs in the 2000 coup; the story is carried forward to the closely fought Fiji election of 2006.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63189 — seized after a year]
 
 ## Sub lesson 3 — Challenges 1980-1987 and new leadership 1987-2006
 
@@ -22,11 +26,15 @@ After the 1987 turn a new category of leadership emerges — interim ministers s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63190 — leadership born of coups]
+
 ## Sub lesson 4 — After the 1977 election; Fiji's interim civilian government 2000
 
 Readings carry the story from the disputed aftermath of the 1977 election to Qarase's interim civilian government of 2000, formed after a coup.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63191 — after the coup an interim]
 
 ## Sub lesson 5 — Coup d'état 1987 and the impact of the second coup
 
@@ -34,11 +42,15 @@ One month after the 1987 election, on 14 May, Major Sitiveni Rabuka leads a coup
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63192 — 14 may 1987]
+
 ## Sub lesson 6 — The 1990 Constitution, the review commission and the 1997 Constitution
 
 The interim government's 1989 committee produces the 1990 constitution amid brain-drain; a three-person review commission follows, and its work issues in the 1997 Constitution Amendment Act.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63193 — 1990 then 1997]
 
 ## Say it to your companion
 

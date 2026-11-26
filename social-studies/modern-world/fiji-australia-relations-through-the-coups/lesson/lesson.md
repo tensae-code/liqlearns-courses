@@ -10,6 +10,8 @@ Australia recognises Fiji at independence in 1970; the two 1987 coups take Canbe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63180 — taught from cartoons]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 4 Fiji and Australia, taught from cartoons. Then let your companion ask you one hard question about it — answer from the lesson.

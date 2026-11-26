@@ -10,6 +10,8 @@ sewing machines and department stores industrialise dress, and Worth's Paris hou
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63176 — the fashion designer is born]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 6: Late 19th century — realism to impressionism, the industrial 'second rococo' and the birth of Fashion — sewing machines and department stores industrialise dress, and Worth's Paris house invents the fashion designer. Then let your companion ask you one hard question about it — answer from the lesson.

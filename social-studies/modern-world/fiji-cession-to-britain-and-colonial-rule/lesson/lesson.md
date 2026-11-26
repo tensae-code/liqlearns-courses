@@ -10,11 +10,15 @@ Barter gives way to money, mission schools spread, Cakobau the Tui Viti cedes Fi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63183 — cakobau cedes fiji]
+
 ## Sub lesson 2 — 2.1.2-2.1.3 Fiji during and reasons for the Deed of Cession
 
 US Consul Williams's looted stores and a US warship's demand leave Cakobau owing debts he cannot pay (US$38,531); Thurston carries his offer to London and on 10 October 1874 Cakobau, Ma'afu and senior chiefs sign Fiji over to Britain.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63184 — signed over 1874]
 
 ## Sub lesson 3 — Chapter 2: Significance of Cession; the Commission; the Deed of Cession
 
@@ -22,11 +26,15 @@ Chaotic Fiji, a collapsing Cakobau government and thriving blackbirding force Gl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63185 — an unconditional cession]
+
 ## Sub lesson 4 — Democratic government in Fiji: timeline from chiefdom to 1874
 
 The transition from traditional chiefdom to democratic government runs through the 1800s and materialises in 1874, an interim government forming on 10 March 1874 on the road to cession.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63186 — from chiefdom to 1874]
 
 ## Say it to your companion
 

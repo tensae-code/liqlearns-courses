@@ -10,6 +10,8 @@ Moy Ba Ling, also called Houng Lee, sails from Australia in the 1850s, settles a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63195 — the first rural shops]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Early Chinese to Fiji. Then let your companion ask you one hard question about it — answer from the lesson.

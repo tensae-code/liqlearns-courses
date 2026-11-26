@@ -18,6 +18,8 @@ Mussolini's proclamation of empire (Fare storia Document) crowns the Ethiopian w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63174 — the proudest claim]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 3, Cap. 8 §4 Foreign policy — the "mare nostrum" document states the aim; the Ethiopian war builds the empire whose Libyan memory (La storia allo specchio) and Graziani's record (Del Boca's Storiografia) the course refuses to soften. Modulo 6 §5 La politica estera e l'Impero — Mussolini's proclamation of empire (Fare storia Document) crowns the Ethiopian war; the empire is the regime's proudest claim and its road into Hitler's war. Then let your companion ask you one hard question about it — answer from the lesson.

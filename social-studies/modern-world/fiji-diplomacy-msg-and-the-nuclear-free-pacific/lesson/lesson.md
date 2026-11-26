@@ -10,6 +10,8 @@ A small nation works the Melanesian Spearhead Group, SPREP and SOPAC, balances R
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63194 — a small nation many tables]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 1 Diplomacy and Fiji: Fiji in the international arena. Then let your companion ask you one hard question about it — answer from the lesson.

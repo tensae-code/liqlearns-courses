@@ -10,6 +10,8 @@ The EU, formed by treaty on the Rewa Bridge's plaque as in Suva, becomes Fiji's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63178 — sugar support axed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 6 Fiji and the European Union. Then let your companion ask you one hard question about it — answer from the lesson.
