@@ -10,6 +10,8 @@ Betts' Fare storia piece sets the premises; in thirty years the colonial empires
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40279 — thirtyyears]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 10 §1 Il crollo degli imperi — Betts' Fare storia piece sets the premises; in thirty years the colonial empires of five centuries dissolve — the fastest map-change in modern history. Then let your companion ask you one hard question about it — answer from the lesson.

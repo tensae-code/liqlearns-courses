@@ -10,11 +10,15 @@ Gandhi's Satyagraha (the chapter's document) teaches India to resist without vio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40275 — subjectsenter]
+
 ## Sub lesson 2 — Modulo 7 §4 Il movimento indipendentista in India
 
 Gandhi (Personaggi) turns non-violence (the module's keyword) into a mass weapon — salt, cloth and prison as politics; his principles are a Fare storia Document of the decolonisation dossier
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40274 — saltclothprison]
 
 ## Say it to your companion
 

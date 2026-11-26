@@ -10,6 +10,8 @@ Kaufman's five columns cross the desert in 1873; Khiva falls and the Gandimian t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40266 — fivecolumns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 2 §11 The conquest of the Khiva Khanate — Kaufman's five columns cross the desert in 1873; Khiva falls and the Gandimian treaty makes the Khan a Russian client. Then let your companion ask you one hard question about it — answer from the lesson.

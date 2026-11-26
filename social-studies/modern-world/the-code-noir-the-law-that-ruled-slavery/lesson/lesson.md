@@ -10,6 +10,8 @@ The code noir's articles are read line by line — the law that called people pr
 
 In your mind's eye: the Code Noir being read article by article. The student gives one thing the law said and one way plantation reality differed.
 
+[Picture 40289 — lawandlife]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Slave work and living conditions — the Code Noir (2) — the Code Noir's articles are read line by line — the law that called people property, and the gap between its paper protections and plantation reality (Séance 4, Travail servile et conditions de vie des esclaves dans les plantations, le Code noir (2)). Then let your companion ask you one hard question about it — answer from the lesson.

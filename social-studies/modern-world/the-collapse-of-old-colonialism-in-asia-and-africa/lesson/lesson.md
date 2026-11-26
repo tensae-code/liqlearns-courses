@@ -10,6 +10,8 @@ the empires built since the discoveries fall continent by continent — in the A
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40280 — continentbycontinent]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Collapse of the old European colonialism (Unit 6 Lesson 1) — the empires built since the discoveries fall continent by continent — in the Arab homeland because the people's struggle never stopped and the Islamic awakening guarded identity; in Asia because liberation movements and secret societies rise and new Islamic states appear; in Africa because a plundered continent answers with uprisings, the UN's self-determination principle and Afro-Asian solidarity, until the exhausted colonial powers withdraw. Then let your companion ask you one hard question about it — answer from the lesson.

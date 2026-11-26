@@ -10,6 +10,8 @@ wartime allies become enemies — the Iron Curtain, Truman Doctrine and Marshall
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40288 — curtainfalls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §4 The start of the Cold War — wartime allies become enemies — the Iron Curtain, Truman Doctrine and Marshall Plan divide Europe. Then let your companion ask you one hard question about it — answer from the lesson.

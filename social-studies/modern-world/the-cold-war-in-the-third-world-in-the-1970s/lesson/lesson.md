@@ -10,6 +10,8 @@ while the superpowers détente at home, their war continues by proxy abroad — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40287 — motherswalk]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 17 §6 Not only détente: the bipolar confrontation in Asia, Africa and Latin America — while the superpowers détente at home, their war continues by proxy abroad — the Mothers of Plaza de Mayo (image study) walk against Argentina's desaparecidos, Seoane's Storiografia counts them. Then let your companion ask you one hard question about it — answer from the lesson.

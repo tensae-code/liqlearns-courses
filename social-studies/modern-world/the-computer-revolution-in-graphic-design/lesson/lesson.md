@@ -10,6 +10,8 @@ the desktop computer swallows the typesetter, the darkroom and the drawing board
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40271 — studiostcreen]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 23: Graphic design and the computer — the desktop computer swallows the typesetter, the darkroom and the drawing board in one decade. Then let your companion ask you one hard question about it — answer from the lesson.

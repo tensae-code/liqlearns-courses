@@ -10,11 +10,15 @@ Gorbachev's "common European home" (Document) meets republics walking out; Darnt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40277 — withoutawar]
+
 ## Sub lesson 2 — Modulo 14 §§1–4 Un impero in crisi; Il crollo del Muro di Berlino e la riunificazione tedesca; La fine delle "democrazie popolari"; La dissoluzione dell'Urss
 
 9 November 1989 (Eventi) opens the Wall; Bongiovanni, Darnton at the Wall and Maier on reunification (Fare storia pieces) argue the causes — an empire ends by implosion, not invasion
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40276 — wallopens]
 
 ## Say it to your companion
 

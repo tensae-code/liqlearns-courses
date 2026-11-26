@@ -10,6 +10,8 @@ The superpower that won the space race loses the race for its own people's shelv
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40281 — shelves]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.3.4 The contemporary world. Then let your companion ask you one hard question about it — answer from the lesson.

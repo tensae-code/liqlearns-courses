@@ -10,6 +10,8 @@ the Emir's army breaks at Irjar and Zerabulak; the 1868 treaty leaves Bukhara a 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40267 — clientabroad]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 2 §§9–10 The conquest of the Bukhara Emirate — the Emir's army breaks at Irjar and Zerabulak; the 1868 treaty leaves Bukhara a vassal — sovereign at home, a protectorate abroad. Then let your companion ask you one hard question about it — answer from the lesson.

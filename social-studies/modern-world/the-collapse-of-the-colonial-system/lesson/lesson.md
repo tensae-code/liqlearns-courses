@@ -10,6 +10,8 @@ after 1945 Asia and Africa throw off the empires one by one; the colonial world 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40278 — onegeneration]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 49. The collapse of the world colonial system — after 1945 Asia and Africa throw off the empires one by one; the colonial world the homeland knew disappears within a generation. Then let your companion ask you one hard question about it — answer from the lesson.

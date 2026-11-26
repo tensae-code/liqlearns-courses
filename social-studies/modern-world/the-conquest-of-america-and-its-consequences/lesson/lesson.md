@@ -10,11 +10,15 @@ disease, encomienda and the mines empty the Indies; Las Casas' Brevissima (in th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40269 — lascasas]
+
 ## Sub lesson 2 — La conquista del Nuovo Mondo; Personaggi: Montezuma; L'impero coloniale spagnolo; L'impero coloniale portoghese; La politica delle conversioni
 
 Cortés meets Montezuma and an empire falls to steel, horses and smallpox; Spain and Portugal build colonial empires and argue over the souls and rights of the conquered
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40268 — themeeting]
 
 ## Say it to your companion
 

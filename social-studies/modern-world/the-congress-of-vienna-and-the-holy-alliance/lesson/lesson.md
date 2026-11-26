@@ -10,6 +10,8 @@ the victors redraw Europe's borders at Vienna in the name of legitimacy — and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40270 — parchment]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lecția 9: Congresul de la Viena. „Sfânta Alianță" — the victors redraw Europe's borders at Vienna in the name of legitimacy — and a minister sneers that parchment means nothing against his 200,000 soldiers. Then let your companion ask you one hard question about it — answer from the lesson.
