@@ -11,7 +11,11 @@ Kuwait's Grade 1 Term 2 book opens its Matter and Energy unit here: before state
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37119 — matter all around — a chair, water, a book, and even the air in a balloon]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37120 — a balloon blown up — the air inside pushes out and takes up space]
 
 ## Sub lesson 2 — Matter and not-matter
 

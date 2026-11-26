@@ -9,7 +9,11 @@ South Sudan's Primary 8 book teaches the **vacuum** as its own topic: a vacuum i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37115 — a jar of air beside a vacuum — a space with no matter in it]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37116 — a vacuum flask in cross-section — no matter in the gap, so heat cannot cross]
 
 ## Sub lesson 2 — The vacuum at work — keeping heat in
 

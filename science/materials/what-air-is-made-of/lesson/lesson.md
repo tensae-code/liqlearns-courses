@@ -9,7 +9,11 @@ Air is a **mixture of gases**. Its largest part is **nitrogen**; the part living
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37117 — the parts of air — nitrogen the largest, oxygen next, and small parts]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37118 — each gas at work — oxygen for burning, carbon dioxide for plants, nitrogen into the soil]
 
 ## Sub lesson 2 — Why the gases in air matter
 

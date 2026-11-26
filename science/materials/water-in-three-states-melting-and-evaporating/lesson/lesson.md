@@ -9,17 +9,23 @@ Water's three aggregate states — liquid, ice, vapour — with a burner experim
 
 In your mind's eye: water in three states — melting and evaporating as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37112 — ice melting over a burner toward vapour, and twin ice cubes — the warm one melts fast]
+
 ## Sub lesson 2 — The wonderful transformations of water
 
 Kazakhstan's books teach this as their own lesson — "The wonderful transformations of water". The learner works through the books' own presentation of the wonderful transformations of water — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: the wonderful transformations of water as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37113 — water in nature — snow, hail, ice and vapour over a lake]
+
 ## Sub lesson 3 — How water can change
 
 Kazakhstan's books teach this as their own lesson — "How water can change". The learner works through the books' own presentation of how water can change — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: how water can change as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37114 — how water can change — melts, evaporates, cools back, freezes]
 
 ## The key ideas
 
