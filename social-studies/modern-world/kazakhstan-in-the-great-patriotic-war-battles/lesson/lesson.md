@@ -10,11 +10,15 @@ the Panfilov division at Moscow, Bauyrzhan Momyshuly, and snipers and pilots lik
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64135 — in the great battles]
+
 ## Sub lesson 2 — §50 The start of the Great Patriotic War; the mobilisation of military formations in Kazakhstan
 
 divisions form in Alma-Ata and Aktyubinsk and entrain for the front
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64136 — mobilisation begins]
 
 ## Sub lesson 3 — §51 Kazakhstanis' part in the battles of the war's initial period; the defence of Leningrad
 
@@ -22,11 +26,15 @@ Kazakh soldiers hold at Moscow's approaches and on the Leningrad front
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64137 — the defence of leningrad]
+
 ## Sub lesson 4 — §§52–53 The heroism and fate of Kazakhstanis in the war years
 
 letters, wounds and missing-in-action notices — the war told through soldiers' fates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64138 — fates told in letters]
 
 ## Sub lesson 5 — §54 Kazakhstanis — Heroes of the Soviet Union; B. Momyshuly, a legendary personality
 
@@ -34,11 +42,15 @@ Momyshuly's battalion at Volokolamsk becomes the stuff of Bek's novel and nation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64139 — momyshulys legend]
+
 ## Sub lesson 6 — §55 Kazakhstanis' part in the offensive operations and in the partisan movement
 
 from Stalingrad to Berlin, and Kazakh partisans behind German lines
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64140 — stalingrad to berlin]
 
 ## Sub lesson 7 — §§29–30 Kazakhstanis' part in the battles of the Great Patriotic War
 
@@ -46,17 +58,23 @@ the Panfilov division at Moscow, Momyshuly, Moldagulova
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64141 — panfilov momyshuly moldagulova]
+
 ## Sub lesson 8 — §6.2 How did Kazakhstanis show heroism in the battles of the Great Patriotic War?
 
 the Panfilovtsy at Moscow and Moldagulova's sniper war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64142 — how did they show heroism]
+
 ## Sub lesson 9 — §6.10 Kazakhstan's contribution to the victory
 
 soldiers, steel, grain and refuge — the republic's war balance is drawn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64143 — the republics war balance]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ the 1867–68 statute remakes steppe administration
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64152 — the statute remakes the steppe]
+
 ## Sub lesson 2 — §§35–36 The liberation struggle of 1860–1870
 
 Ural and Turgai Kazakhs resist the new order by arms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64153 — resistance by arms]
 
 ## Sub lesson 3 — §37 Colonial policy's influence on the traditional Kazakh economy
 
@@ -22,11 +26,15 @@ pasture loss forces herders toward farming and wage work
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64154 — herders toward farming]
+
 ## Sub lesson 4 — §38 The Russian Empire's resettlement policy
 
 peasant settlers take the best-watered Kazakh lands
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64155 — settlers take the best lands]
 
 ## Sub lesson 5 — §39 Changes in traditional Kazakh society
 
@@ -34,11 +42,15 @@ aul, clan and biy courts adapt under colonial rule
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64156 — the aul adapts]
+
 ## Sub lesson 6 — §§40–41 Socio-economic development in the second half of the 19th century; capitalist relations penetrate
 
 fairs, money and hired labour enter the steppe economy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64157 — money and hired labour enter]
 
 ## Sub lesson 7 — §42 Administrative-territorial reforms of the 1880s–90s
 

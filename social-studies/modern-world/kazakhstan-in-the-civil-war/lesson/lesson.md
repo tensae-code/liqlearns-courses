@@ -42,6 +42,8 @@ Reds, Whites and Alash troops fight over the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64134 — the fight over the steppe]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§10–11 Kazakhstan in the years of civil confrontation, 1917–1920s — Reds, Whites, Alash Orda troops and peasant revolts fight over the steppe as fronts roll through its towns, §15 The process of establishing Soviet power in Kazakhstan — soviets seize the towns while the steppe waits and watches, §§17–18 Military actions in Kazakhstan during the Civil War and foreign intervention (1918–1920) — Kolchak's and Dutov's fronts, the Cherkassk defence and the Aktobe front decide the steppe's fate, §§10–11 Kazakhstan in the years of civil confrontation, 1918–1920 — Reds, Whites and Alash troops fight over the steppe, Section 2 "The establishment of Soviet power in Kazakhstan" (its civil-war inquiries) — Reds, Whites and Alash troops fight over the steppe. Then let your companion ask you one hard question about it — answer from the lesson.
