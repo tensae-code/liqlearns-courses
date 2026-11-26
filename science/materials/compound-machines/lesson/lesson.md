@@ -13,7 +13,11 @@ Hold the test by counting: if you can find only one simple machine, it is simple
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36995 — a compound machine — the bicycle's simple machines found inside it: lever (the brake), wheel and axle, lever (the pedals)]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 36996 — the counting test — one simple machine is simple; two or more joined are compound]
 
 ## Sub lesson 2 — Compound machines around us
 

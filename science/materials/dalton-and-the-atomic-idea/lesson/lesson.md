@@ -11,7 +11,11 @@ Dalton stands in the book where the atomic idea belongs: after the atom chapter 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36999 — Dalton's idea — atoms are solid spheres; each element has its own kind of atom; atoms joined make a compound]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37000 — atoms drift together and join — compounds are made]
 
 ## The key ideas
 

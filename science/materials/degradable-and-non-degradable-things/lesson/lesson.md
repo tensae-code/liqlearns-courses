@@ -9,7 +9,11 @@ Some things, when they are thrown away or fall to the ground, do not stay as the
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37003 — degradable things on the soil — fruit peels, fallen leaves, food remains, paper, wood]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37004 — a peel's journey — fresh, then rotting and crumbling, then part of the soil, feeding new plants]
 
 ## Sub lesson 2 — Non-degradable things — they stay and stay
 

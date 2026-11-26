@@ -9,7 +9,11 @@ The book names the danger plainly: **dangers of components of air — carbon dio
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37001 — the components of air that can harm — carbon dioxide, water vapour, carbon monoxide]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 37002 — carbon monoxide from a charcoal stove spreads through a closed room, unseen]
 
 ## Sub lesson 2 — Knowing the danger is the protection
 

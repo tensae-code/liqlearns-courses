@@ -9,7 +9,11 @@ Crystallogenesis: a crystal is born by nucleation and grows by steady addition o
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36997 — growing crystals — a seed crystal hung in a supersaturated solution; salt crystals are cubes]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 36998 — particle by particle, the crystal grows on its string]
 
 ## The key ideas
 
