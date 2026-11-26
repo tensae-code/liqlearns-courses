@@ -14,6 +14,8 @@ One desktop can hold more than one window: open two programs and each has its ow
 
 In your mind's eye: a computer desktop with icons, and one open program window with its title bar named.
 
+[Picture 45385 — a computer desktop with icons, and one open program window with its title bar named]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: When a computer starts, the screen shows the desktop — the computer's main work surface — and each program you open appears in its own window on that desktop. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

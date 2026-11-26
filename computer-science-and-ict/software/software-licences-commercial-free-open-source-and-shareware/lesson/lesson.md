@@ -10,11 +10,15 @@ A **software licence** is the maker's **written permission** saying what a user 
 
 In your mind's eye: the licence — permission, written in advance.
 
+[Picture 45378 — the licence — permission, written in advance]
+
 ## Sub lesson 2 — The types — commercial, free, open-source, trial
 
 **Commercial** software is **sold**: the licence is bought, copying and sharing are forbidden. **Free** software is given at **no cost**, usable without payment, on its maker's terms. **Open-source** software adds the deeper freedom: its **source code is open** to study and change, and changed versions may be shared under the licence's terms. **Trial** software (shareware) is given to **try for a limited time or with limits**, after which the full licence must be bought. The four stand on one line: from the tightest permission to the most open — and a user who can name a program's type knows their rights in it before they install it.
 
 In your mind's eye: the types — commercial, free, open-source, trial.
+
+[Picture 45379 — the types — commercial, free, open-source, trial]
 
 ## Say it to your companion
 

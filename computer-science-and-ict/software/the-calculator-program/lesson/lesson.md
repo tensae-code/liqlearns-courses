@@ -14,6 +14,8 @@ The Calculator does exactly what you press — like the executor in the algorith
 
 In your mind's eye: the Calculator program window with the buttons 7, +, 5 and = pressed in order and 12 on its screen.
 
+[Picture 45382 — the Calculator program window with the buttons 7, +, 5 and = pressed in order and 12 on its screen]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: The Calculator is a program for calculating: type the numbers and the sign, press equals, and the program works out the answer — adding, subtracting, multiplying and dividing. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

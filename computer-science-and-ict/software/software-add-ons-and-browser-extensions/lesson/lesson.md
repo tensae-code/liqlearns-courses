@@ -10,11 +10,15 @@ An **add-on** is a **small program that adds a feature to a bigger program** —
 
 In your mind's eye: what add-ons are.
 
+[Picture 45376 — what add-ons are]
+
 ## Sub lesson 2 — Installing, disabling and removing add-ons
 
 In the book's Firefox walkthrough, an add-on is **installed from the browser's add-ons page**: search the add-on's name, choose it, and confirm — it appears in the browser ready to work. Control stays with the user afterwards: an add-on can be **disabled** (switched off but kept) or **removed** (taken out completely) from the same page. The book's rule of sense: an add-on touches everything the browser shows, so install only ones you can name a job for.
 
 In your mind's eye: installing, disabling and removing add-ons.
+
+[Picture 45377 — installing, disabling and removing add-ons]
 
 ## Say it to your companion
 

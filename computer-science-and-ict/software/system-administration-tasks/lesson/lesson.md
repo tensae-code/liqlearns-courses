@@ -10,11 +10,15 @@ In Grade 11 Papua New Guinea turns learners into junior system administrators. A
 
 In your mind's eye: diagnosing a system.
 
+[Picture 45380 — diagnosing a system]
+
 ## Sub lesson 2 — Performing basic administration
 
 The basic tasks include **managing user accounts**, keeping settings and access under control, and **regular maintenance that prevents faults and breakdowns**. After any fix, an administrator **tests that the system works**, and the documentation of what was done helps the next administrator who meets the system.
 
 In your mind's eye: performing basic administration.
+
+[Picture 45381 — performing basic administration]
 
 ## Say it to your companion
 

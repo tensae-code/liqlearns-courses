@@ -10,6 +10,8 @@ The screen you land on when the operating system has started is called the **des
 
 In your mind's eye: a desktop with its background, labelled icons and the taskbar along the bottom.
 
+[Picture 45388 — a desktop with its background, labelled icons and the taskbar along the bottom]
+
 The desktop has three parts to learn. First, the **background**: the picture or colour spread across the whole screen, behind everything else. Second, the **icons**: small pictures standing on the background. Each icon stands for something — a program, a file or a folder — and double-clicking an icon opens the thing it stands for. Third, along the bottom of the screen, the **taskbar**: a strip that holds the way into the system and shows a button for every window that is open, so you can see at a glance what is running.
 
 The desktop is not a program. It is the home screen of the operating system — the place you start from and the place you return to when everything else is closed.
@@ -19,6 +21,8 @@ The desktop is not a program. It is the home screen of the operating system — 
 When you open a program, a file or a folder, it does not take over the whole machine. It opens inside a **window**: a framed rectangle on the desktop. The operating system is named for these windows — each job gets its own framed box, and several boxes can be open at once, side by side or one over another.
 
 In your mind's eye: an open window with its title bar, minimise, maximise and close buttons labelled.
+
+[Picture 45389 — an open window with its title bar, minimise, maximise and close buttons labelled]
 
 Across the top of every window runs the **title bar**. It names the window — the program, and often the file open in it — and at one end it carries three buttons:
 

@@ -10,11 +10,15 @@ The **desktop** is the first screen after Windows starts. On it stand **icons** 
 
 In your mind's eye: the desktop and its icons.
 
+[Picture 45390 — the desktop and its icons]
+
 ## Sub lesson 2 — The taskbar and the Start menu
 
 The **taskbar** is the bar along the bottom of the desktop. At its start sits the **Start button**; along it sit a button for every **open program**, so you can jump between programs; at its end sit the **clock**, the **date** and the **language** indicator. Clicking Start opens the **Start menu** — the list from which programs are opened and the computer is shut down.
 
 In your mind's eye: the taskbar and the start menu.
+
+[Picture 45391 — the taskbar and the start menu]
 
 ## Say it to your companion
 

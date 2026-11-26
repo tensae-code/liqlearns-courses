@@ -10,11 +10,15 @@ The computer's **clock** sits at the end of the **taskbar**, and beside the time
 
 In your mind's eye: the taskbar clock and the date-and-time settings box opened beside it.
 
+[Picture 45374 — the taskbar clock and the date-and-time settings box opened beside it]
+
 ## Sub lesson 2 — Setting them right
 
 To set the date, pick the right **month and year**, then click the right **day** in the calendar. To set the time, change the **hour, minutes and seconds** in the time box. Then confirm with **Apply or OK** — until you confirm, nothing has changed. Afterwards, look at the taskbar clock again: it now shows the corrected time, and files you save from now on carry the right date and time stamp.
 
 In your mind's eye: the settings box — calendar for the date, time box for the hour, and the OK button.
+
+[Picture 45375 — the settings box — calendar for the date, time box for the hour, and the OK button]
 
 ## Say it to your companion
 

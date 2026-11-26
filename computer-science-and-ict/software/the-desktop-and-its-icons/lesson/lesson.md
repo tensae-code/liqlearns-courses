@@ -10,11 +10,15 @@ The **desktop** is the working surface the computer shows after start-up, before
 
 In your mind's eye: the desktop.
 
+[Picture 45386 — the desktop]
+
 ## Sub lesson 2 — Icons — pictures that open things
 
 An **icon** is a small picture that stands for a program, a file or a folder. Double-clicking an icon opens the thing it stands for; a small arrow on an icon marks it as a **shortcut**, a pointer to the real thing, which stays safely in its folder. Icons can be moved, arranged and renamed, and deleting a shortcut never deletes the real program or file behind it.
 
 In your mind's eye: icons.
+
+[Picture 45387 — icons]
 
 ## Say it to your companion
 
