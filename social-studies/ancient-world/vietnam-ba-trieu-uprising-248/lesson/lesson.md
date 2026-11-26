@@ -10,6 +10,8 @@ Triệu Thị Trinh, 23, leads Thanh Hoá from her Núi Nưa base, riding an ele
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61852 — riding an elephant at 23]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 16, the uprising of Bà Triệu (248) — Triệu Thị Trinh, 23, leads Thanh Hoá from her Núi Nưa base, riding an elephant into battle, vowing to ride the strong winds and cut down the whales of the Eastern Sea rather than bow as anyone's concubine; Ngô's 8,000 troops end her stand at Núi Tùng. Then let your companion ask you one hard question about it — answer from the lesson.

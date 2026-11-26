@@ -10,17 +10,23 @@ Before you read on, hold this lesson's one thing in mind: Đinh Bộ Lĩnh takes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61864 — 968 a country named]
+
 ## Sub lesson 2 — Bài 10, the Tiền Lê state and Đinh–Tiền Lê society and culture
 
 Lê Hoàn's Tiền Lê keeps building — provinces reorganised by 1002, a law code issued, a two-part army of palace guards and local troops — in a society of rulers and ruled where Buddhism flourishes, monks are the learned class, and folk singing, wrestling and boat races live on
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61865 — monks law and boat races]
+
 ## Sub lesson 3 — Chuyên đề 3.II Đinh Bộ Lĩnh (924–979): the boy from Đại Hữu who subdues the twelve warlords one by one, takes the throne in 968, names the country Đại Cồ Việt, builds Hoa Lư's mountain citadel, divides the land into ten circuits and mints the Thái Bình hưng bảo coin
 
 after a thousand years of northern rule, a warlord's son reunites a broken country and gives it a name and a coin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61866 — twelve warlords one coin]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ A city built on water grows rich commanding the sea's trade routes — that is V
 
 In your mind's eye: venice rising from the water, with trading ships loading goods at its quays. Say how a city on water could grow rich.
 
+[Picture 61850 — a city built on water]
+
 ## Sub lesson 2 — Rich on the sea's trade
 
 Venice's wealth comes not from farming a hinterland but from commanding the sea's trade routes, so the city on water becomes a great power of the medieval Mediterranean.

@@ -10,11 +10,15 @@ after Triệu Đà takes Âu Lạc in 179 BC, rising follows rising — 40, 248,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61853 — a thousand years rising by rising]
+
 ## Sub lesson 2 — Bài 8 A thousand years of uprisings under northern rule: the Trưng sisters (40–43), Bà Triệu (248), Lý Bí founding Vạn Xuân (542–544) with Triệu Quang Phục's guerrilla victory, Phùng Hưng at Đường Lâm (late 700s), until Khúc Thừa Dụ and Ngô Quyền's 938 Bạch Đằng end the domination
 
 empire after empire must re-conquer the same small country, until the river battle of 938 closes the account
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61854 — empires re-conquering one small country]
 
 ## Say it to your companion
 

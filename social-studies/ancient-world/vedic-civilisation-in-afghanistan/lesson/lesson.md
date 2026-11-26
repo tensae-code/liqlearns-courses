@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the first Aryan civili
 the first Aryan civilisation in the land, named from the Vedic books, begins around 1800 BCE among the settlements of old Balkh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61843 — named from the vedic books]
 ## Sub lesson 2 — Lesson 2: The Vedic civilisation
 
 the first Aryan civilisation, named from the Vedic books, is studied in its Afghan setting
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61844 — the vedic world in afghanistan]
 
 ## Say it to your companion
 

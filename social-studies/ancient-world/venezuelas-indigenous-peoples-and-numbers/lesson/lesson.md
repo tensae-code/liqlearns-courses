@@ -10,11 +10,15 @@ The books say the first peoples counted with their own systems, and children tes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61848 — fingers or letters]
+
 ## Sub lesson 2 — Process of changes in indigenous life; cultures of our indigenous past
 
 Hunting-gathering gives way to farming and settled cultures in what will become Venezuela, each culture leaving its own traces
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61849 — from hunting to settled cultures]
 
 ## Say it to your companion
 

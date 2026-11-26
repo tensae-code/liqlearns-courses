@@ -10,6 +10,8 @@ How the ancestors organised, farmed once planting was learned, and left cultural
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61847 — reading the ancestors today]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Looking from the present at our indigenous ancestors' organisation and culture — how the ancestors organised, farmed once planting was learned, and left cultural traits that present-day questions can still read. Then let your companion ask you one hard question about it — answer from the lesson.

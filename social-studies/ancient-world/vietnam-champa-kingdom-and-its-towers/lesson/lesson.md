@@ -10,11 +10,15 @@ founded in the late 2nd century, Chăm-pa leaves brick towers down the central c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61856 — seventy towers at my son]
+
 ## Sub lesson 2 — Bài 7, stories of the Chăm towers (Pô Klong Ga-rai; Tháp Bà Pô Na-ga)
 
 scab-covered boy Po Ong is healed by two white dragons, becomes a king who builds irrigation works, and gets a tower in his honour; goddess Thiên Y A Na steps out of a drifting agarwood log to teach farming and weaving
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61857 — dragons a king and a goddess]
 
 ## Sub lesson 3 — Bài 19, the founding of Chăm-pa and its moving capitals
 
@@ -22,11 +26,15 @@ in 192 Khu Liên throws off Han rule in Nhật Nam and founds Lâm Ấp, seed of
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61858 — 192 a kingdom founded]
+
 ## Sub lesson 4 — Bài 19, Chăm-pa's economy: a trading kingdom
 
 rice, crafts and forest and sea wealth (agarwood, ivory, pearls) are traded for Indian glass, Thai agate, Chinese bronze mirrors and Arab cobalt-glazed ware — some of it still dug up at Cù Lao Chàm
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61859 — a trading kingdom]
 
 ## Sub lesson 5 — Bài 19, Chăm-pa's society and culture
 
@@ -34,11 +42,15 @@ the king is identified with a god; from the 4th century the Chăm adapt Indian s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61860 — kings gods and their own script]
+
 ## Sub lesson 6 — Bài 18, Chăm-pa of the Vijaya dynasty, 10th–early 16th centuries
 
 in 988 a Chăm noble founds the Vijaya dynasty at Đồ Bàn; the table of its fortunes runs from the "hundred years' war" with Chenla and the 1069 cession of three châu to Đại Việt, through the Vijaya peak of 1220–1353, to collapse in 1471 and a shrunken patchwork of small states; the marriage story is told — in 1305 King Chế Mân sends to ask for Princess Huyền Trân, and the wedding of 1306 lasts three days and nights
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61861 — vijaya peak and collapse]
 
 ## Sub lesson 7 — Bài 18, Chăm-pa's economy and culture in this period
 
@@ -46,11 +58,15 @@ irrigation farming, agarwood, ivory and pepper, the busy ports of Đại Chiêm 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61862 — bricks laid without mortar]
+
 ## Sub lesson 8 — Bài 9.2, the Chăm-pa civilisation
 
 Chăm-pa civilisation forms and develops from the 2nd to the 15th century on the coastal provinces of Central Vietnam and part of the eastern Trường Sơn; the land faces the sea to the east and mountains to the west, its forests hold precious products — agarwood the most famous — and its seas many seafoods, and lying on an important international sea route it has favourable conditions for economic and cultural exchange, though the quoted source (Lê Đình Phụng) stresses the challenge: the driest climate in the Centre, narrow dry plains with a high proportion of sand dunes, the regions cut off from one another by the Hoành Sơn range, three sides mountains and the east open to the sea, so that links between regions run mainly by sea while land routes cross dangerous passes; its social basis is the Sa Huỳnh culture — a Metal Age culture of continuous development, spread from Quảng Trị to today's southern Central coast and Central Highlands — whose people by about the 5th century BCE live on the coast, in the river basins and inland, in a society of village federations headed by supreme chiefs, joined by other groups in creating the civilisation; from the Sa Huỳnh era the people are already in contact with Indian civilisation, and through the merchant stratum come writing, religion, thought, state-organisation models and law, selectively absorbed until the civilisation develops brilliantly; in the first two centuries CE the Chăm people of Nhật Nam commandery struggle continuously against Han rule, and in 192, under Khu Liên, the people of Tượng Lâm district rise up, overthrow the foreign domination and found the state of Lâm Ấp — later called Chăm-pa — with its capital Sinhapura at Trà Kiệu (Duy Xuyên, Đà Nẵng); the king, often identified with a god, holds supreme power by hereditary succession, helped by two great ministers, one civil and one military, over localities divided into châu, huyện and làng; the economy farms rice on the river deltas, raises livestock and works crafts — and Georges Maspero's quoted observation records that in the fields of Phan Rang and Phan Rí and on abandoned lands the traces of a very complete irrigation system still prove how much the ancient Chăm understood farming — while at sea Chăm-pa is an important international trade bridge whose famous ports are Đại Chiêm (Đà Nẵng), Thị Nại (Gia Lai) and Panduranga (Khánh Hòa), through which the Chăm sell tropical products — agarwood, cinnamon, pearls — and buy glassware from India, porcelain from Thailand, bronze mirrors from China and cobalt-blue glazed ceramics from the Arabs (the excavation box adds that Cù Lao Chàm has yielded many Arab pottery shards and Indian glass shards); material life runs on rice, vegetables and fish, on the "ka-ma" cloth wrapped from right to left from waist to feet with a thick shirt added in the cold season, on bare feet for commoners and sandals or shoes only for kings and officials, on women's earrings and necklaces, and on stilt houses of wood, bamboo and leaves; spiritually the people keep their indigenous beliefs — animism, fertility worship, ancestor worship — while also absorbing Buddhism, Hinduism and Islam, with a distinctive festival system held every year at the Chăm tower clusters; on the basis of India's Sanskrit script the Chăm create their own writing, the ancient Chăm script being considered the oldest script in Southeast Asia, improved and maintained to this day; and the architecture and sculpture survive across Central Vietnam — the Mỹ Khánh tower (Huế), the Đồng Dương Buddhist monastery (Đà Nẵng), the Bà Pô Nagar tower (Khánh Hòa), the Cánh Tiên and Dương Long towers (Gia Lai), and above all the Mỹ Sơn Sanctuary (Đà Nẵng) — with the box honouring the Đồng Dương Buddha statue, 120 kg and 119 cm tall, the largest bronze Buddha statue ever found and one of the most unique and representative works of Chăm sculpture
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61863 — between the sea and the mountains]
 
 ## Say it to your companion
 

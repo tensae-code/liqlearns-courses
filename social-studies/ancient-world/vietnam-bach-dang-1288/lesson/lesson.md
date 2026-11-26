@@ -10,6 +10,8 @@ Trần Quốc Tuấn hides a stake field at the river mouth, feigns retreat at h
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61855 — the tide does the fighting]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 10, story of the Bạch Đằng river battle, 1288 — Trần Quốc Tuấn hides a stake field at the river mouth, feigns retreat at high tide, and the Yuan fleet impales itself as the tide falls; commander Ô Mã Nhi is captured alive. Then let your companion ask you one hard question about it — answer from the lesson.

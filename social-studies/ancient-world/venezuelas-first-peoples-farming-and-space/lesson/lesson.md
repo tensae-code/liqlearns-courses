@@ -10,11 +10,15 @@ Indigenous work creates Venezuela's first lived spaces; the Timotocuica people's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61845 — farming that orders the land]
+
 ## Sub lesson 2 — Indigenous peoples before the invaders of 1498
 
 Before 1498 indigenous peoples live by collective work in balance with nature; the European arrival breaks that dynamic and introduces new ways of exploiting the land
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61846 — balance then the break of 1498]
 
 ## Say it to your companion
 
