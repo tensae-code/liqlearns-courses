@@ -10,11 +10,15 @@ after Basil II, weak emperors, court factions and a debased coinage hollow out t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60419 — rot inside the empire]
+
 ## Sub lesson 2 — Unit 29 New enemies appear and tear away imperial lands
 
 Seljuk Turks take Anatolia after Manzikert while Normans seize the Italian provinces — the empire shrinks on both fronts
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60420 — torn on both fronts]
 
 ## Sub lesson 3 — Unit 28 Internal problems exercises
 
@@ -22,11 +26,15 @@ exercises list the empire's inner rot after Basil II
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60421 — listing the inner rot]
+
 ## Sub lesson 4 — Unit 29 New enemies exercises
 
 map work shows Seljuks and Normans tearing the edges at once
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60422 — map work: the edges tear]
 
 ## Sub lesson 5 — Revision of Units 23–32
 
@@ -34,11 +42,15 @@ gap-fill discussion names the reasons for Byzantium's decline from Leo III to th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60423 — revision over a long timeline]
+
 ## Sub lesson 6 — Ch. 4.I.1 The crisis and losses of the empire in the 11th century (1025–1081)
 
 after Basil II the themes decay, the coinage is debased, Bari falls to Normans and Anatolia to Turks after Manzikert
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60424 — four losses in a row]
 
 ## Say it to your companion
 

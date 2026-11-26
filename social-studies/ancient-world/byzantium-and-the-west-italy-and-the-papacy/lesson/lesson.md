@@ -10,6 +10,8 @@ Ravenna lost, Venice drifting away, popes and emperors quarrelling over southern
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60404 — the West slips away]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3.I.7 Byzantium–West relations: struggles to keep the Italian possessions — Ravenna lost, Venice drifting away, popes and emperors quarrelling over southern Italy — the West slips from the empire. Then let your companion ask you one hard question about it — answer from the lesson.

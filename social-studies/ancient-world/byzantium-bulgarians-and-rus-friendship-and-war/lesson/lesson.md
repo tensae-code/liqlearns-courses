@@ -10,17 +10,23 @@ Bulgarian khans besiege and marry into the empire by turns, while Rus fleets att
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60411 — siege, marriage, raid, baptism]
+
 ## Sub lesson 2 — Unit 22 Bulgarians and Rus exercises
 
 exercises sort wars, treaties and baptisms in Byzantium's northern relations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60412 — sorting wars, treaties, baptisms]
+
 ## Sub lesson 3 — Ch. 3.I.6 The founding, development and Christianisation of the Russian state
 
 Varangian Rus found Kiev, raid Constantinople, then take baptism from it under Vladimir
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60413 — Kiev, the raid, the baptism]
 
 ## Say it to your companion
 

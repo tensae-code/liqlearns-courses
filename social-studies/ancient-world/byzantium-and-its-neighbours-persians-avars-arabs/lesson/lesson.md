@@ -42,6 +42,8 @@ pupils imagine themselves foreign envoys received at the palace — diplomacy fe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60403 — envoys at the palace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 17 The neighbours of the Byzantines — Persians, Avars, Slavs, Arabs, Bulgars and Rus ring the empire — every border has a different enemy and a different answer, Unit 18 The Persians and Avars ally against Byzantium — while Heraclius campaigns in Persia, Avars and Persians meet under Constantinople's walls in 626 — and the city holds, Unit 17 Neighbours exercises — pupils locate every people ringing Byzantium on the student book's map, Unit 18 Persians and Avars exercises — exercises retell the 626 siege, when two enemies met under the walls, Revision of Units 17–22 (with the reception of ambassadors) — pupils imagine themselves foreign envoys received at the palace — diplomacy felt from inside. Then let your companion ask you one hard question about it — answer from the lesson.

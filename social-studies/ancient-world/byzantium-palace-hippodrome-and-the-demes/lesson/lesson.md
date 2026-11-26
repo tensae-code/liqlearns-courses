@@ -10,11 +10,15 @@ emperor, people and the Blue and Green factions meet in the Hippodrome, where ra
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60425 — the Hippodrome factions]
+
 ## Sub lesson 2 — Unit 10 Palace, Hippodrome, Demes exercises
 
 word-matching rebuilds the Hippodrome world of Blues, Greens and emperors
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60426 — word-matching the Hippodrome]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Leo VI and the Macedonian emperors reissue the laws in Greek and tighten the the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60405 — the laws in Greek]
+
 ## Sub lesson 2 — Unit 25 Byzantium reaches the peak of its flourishing
 
 Basil II grinds Bulgaria down to "the Bulgar-slayer", and the empire again stretches from Italy to the Euphrates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60406 — Italy to the Euphrates]
 
 ## Sub lesson 3 — Unit 23 Laws modernised exercises
 
@@ -22,11 +26,15 @@ exercises follow the Macedonian emperors reissuing law in Greek
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60407 — exercises on the laws]
+
 ## Sub lesson 4 — Unit 25 Peak of Byzantium exercises
 
 exercises crown Basil II's long grinding of Bulgaria
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60408 — exercises on Basil's war]
 
 ## Sub lesson 5 — Ch. 3.I.3 The reign of Michael III and the dawn of the New Age
 
@@ -34,11 +42,15 @@ Photius at the patriarchate, missions planned, learning reborn — the Macedonia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60409 — a dawn of learning]
+
 ## Sub lesson 6 — Ch. 3.I.5 The Byzantine Epic: epic struggles and expansion of the Empire
 
 Phokas and Tzimiskes retake Crete, Cyprus and Antioch, and Basil II finishes Bulgaria — the empire's military epic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60410 — the epic of recoveries]
 
 ## Say it to your companion
 
