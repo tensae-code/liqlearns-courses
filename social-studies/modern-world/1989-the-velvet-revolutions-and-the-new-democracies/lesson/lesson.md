@@ -10,6 +10,8 @@ Wałęsa's Solidarity makes Poland first, Havel's Velvet Revolution changes Czec
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62004 — velvet and not velvet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: 1989 and after — Wałęsa's Solidarity makes Poland first, Havel's Velvet Revolution changes Czechoslovakia without a shot, Romania shoots its dictator after a show trial, the two Germanys unite in 1990, Czechoslovakia later divides in peace — while Yugoslavia breaks apart in blood, in the diary of twelve-year-old Zlata Filipović writing through Sarajevo's siege. Then let your companion ask you one hard question about it — answer from the lesson.

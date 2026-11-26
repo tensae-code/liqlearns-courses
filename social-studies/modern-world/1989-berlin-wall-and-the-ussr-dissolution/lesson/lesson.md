@@ -10,6 +10,8 @@ on a November night in 1989 East Berliners pour through the Wall hugging, laughi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62001 — the wall falls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: the Wall falls — on a November night in 1989 East Berliners pour through the Wall hugging, laughing and crying — the symbol of a divided Europe becomes souvenir rubble, and the Iron Curtain's end begins. Then let your companion ask you one hard question about it — answer from the lesson.

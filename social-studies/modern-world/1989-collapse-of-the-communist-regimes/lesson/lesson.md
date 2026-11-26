@@ -10,11 +10,15 @@ Wałęsa's Solidarity leads the workers against the workers' state; Charter 77's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62002 — the regimes collapse]
+
 ## Sub lesson 2 — Tema 45: Căderea regimurilor comuniste în Europa
 
 Poland votes freely in June 1989; the Ceaușescus are captured at Târgoviște, Czechoslovakia's "velvet divorce" makes Havel and Kováč presidents in 1993, and even Albania accepts multiparty politics
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62003 — free votes fallen tyrants]
 
 ## Say it to your companion
 

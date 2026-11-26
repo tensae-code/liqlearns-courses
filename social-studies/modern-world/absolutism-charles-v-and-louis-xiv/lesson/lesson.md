@@ -10,6 +10,8 @@ Charles V rules half of Europe, and absolutism finds its theory and its motto in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62012 — half of europe one motto]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Charles V, king of half Europe; origins of Absolutism; "The State is me" — Charles V rules half of Europe, and absolutism finds its theory and its motto in Louis XIV's France. Then let your companion ask you one hard question about it — answer from the lesson.

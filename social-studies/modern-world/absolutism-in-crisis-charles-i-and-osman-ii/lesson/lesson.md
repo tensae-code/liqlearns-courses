@@ -10,11 +10,15 @@ an English king loses his head and an Ottoman sultan is killed by his own janiss
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62018 — two kings who could not]
+
 ## Sub lesson 2 — 7.3 Why could Charles I and Osman II not become absolute monarchs?
 
 parliament and janissaries each kill a would-be absolute ruler
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62019 — why they could not]
 
 ## Say it to your companion
 

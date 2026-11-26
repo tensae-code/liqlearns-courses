@@ -10,6 +10,8 @@ Early-modern kings concentrate power and form absolute monarchies, the state for
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62010 — power gathered to one]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La formación de monarquías absolutas — Early-modern kings concentrate power and form absolute monarchies, the state form the Enlightenment will challenge. Then let your companion ask you one hard question about it — answer from the lesson.
