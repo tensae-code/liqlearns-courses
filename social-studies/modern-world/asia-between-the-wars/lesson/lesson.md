@@ -10,6 +10,8 @@ across Asia two trends contend — bourgeois-democratic and proletarian; in Indi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62204 — two roads]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 3, Asia's two roads, 1918–1945 — across Asia two trends contend — bourgeois-democratic and proletarian; in India Gandhi's Congress leads the boycott of British goods; Mongolia becomes a People's Republic (1921–24); Turkey is reborn as a republic out of its 1919–22 liberation war. Then let your companion ask you one hard question about it — answer from the lesson.

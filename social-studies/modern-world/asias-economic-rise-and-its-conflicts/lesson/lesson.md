@@ -10,6 +10,8 @@ Since the 1960s Asia grows richer faster than any region — East Asian extreme 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62213 — richer yet conflicted]
+
 ## Sub lesson 2 — Asia's development: past and present / Regional and global development influences
 
 The four Asian Tigers industrialise between the 1960s and 1990s; China and India's rise shifts world power from West to East and raises the fear of a clash with US dominance

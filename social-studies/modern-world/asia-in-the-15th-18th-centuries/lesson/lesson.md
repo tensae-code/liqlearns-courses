@@ -10,6 +10,8 @@ Ming and Qing China, Tokugawa Japan, Mughal India and the Ottoman world still ou
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62205 — outweighing europe]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II.7: The East in the 15th–18th c. — Ming and Qing China, Tokugawa Japan, Mughal India and the Ottoman world still outweigh Europe — until the balance begins to tilt. Then let your companion ask you one hard question about it — answer from the lesson.

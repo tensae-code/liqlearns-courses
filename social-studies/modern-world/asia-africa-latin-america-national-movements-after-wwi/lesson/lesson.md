@@ -10,11 +10,15 @@ thrown from a whites-only carriage as a young lawyer, Gandhi turns the insult in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62202 — a walk to the sea]
+
 ## Sub lesson 2 — National democratic movements surge
 
 after WWI the surge rolls on — Gandhi's India, Egypt's Wafd, Turkey's Kemal, Mexico's revolution's children
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62203 — the surge rolls on]
 
 ## Say it to your companion
 

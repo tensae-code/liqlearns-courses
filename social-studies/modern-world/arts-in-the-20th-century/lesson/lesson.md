@@ -58,11 +58,15 @@ Pollock's drips move art's capital across the Atlantic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62190 — drips cross the atlantic]
+
 ## Sub lesson 8 — Chapter 19: The 1960s to the 1980s–90s
 
 Pop, Op and Kinetic art, Minimalism, Conceptual art and Photorealism argue over what art even is
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62191 — arguing over art]
 
 ## Say it to your companion
 

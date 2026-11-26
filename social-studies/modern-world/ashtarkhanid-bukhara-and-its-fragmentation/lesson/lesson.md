@@ -10,6 +10,8 @@ Astrakhan-born Janid khans replace the Shaybanids (1599), but appanages multiply
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62199 — a khanate breaking apart]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II §§10–11 The Ashtarkhanids come to power; The growth of political fragmentation in the first half of the 18th century and its consequences — Astrakhan-born Janid khans replace the Shaybanids (1599), but appanages multiply, Balkh splits away and Nader Shah's invasion (1740) shows a khanate breaking apart. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Qing China weakens, Japan modernises after Meiji, the Ottoman empire retreats �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62206 — opposite answers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II.5: The East in the 18th–early 20th c. — Qing China weakens, Japan modernises after Meiji, the Ottoman empire retreats — Asia answers the Western challenge in opposite ways. Then let your companion ask you one hard question about it — answer from the lesson.

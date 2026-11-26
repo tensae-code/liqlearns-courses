@@ -10,11 +10,15 @@ Aung San Suu Kyi holds her convictions through years of house arrest; Gandhi, th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62211 — conviction and nonviolence]
+
 ## Sub lesson 2 — Individuals and groups as agents of change
 
 The long line of Asia's changemakers — Genghis Khan and Kublai Khan, Emperor Meiji, the Tokugawa Shogunate, the Qin, the Kuomintang, and the Chinese Communist Party ruling since Mao and remaking China into the world's second economy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62212 — a long line of changemakers]
 
 ## Say it to your companion
 

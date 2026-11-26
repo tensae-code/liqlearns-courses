@@ -10,11 +10,15 @@ China goes communist, Korea is fought to a stalemate (the chapter's maps), and A
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62200 — two revolutions at once]
+
 ## Sub lesson 2 — Modulo 9 §5 Rivoluzione in Cina, guerra in Corea
 
 Mao (Personaggi) wins China in 1949 and Korea then freezes the revolution's frontier at the 38th parallel — Asia's Cold War is hot from the start
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62201 — the 38th parallel]
 
 ## Say it to your companion
 
