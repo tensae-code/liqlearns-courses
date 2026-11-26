@@ -9,7 +9,11 @@ clouds form when rising air cools to the dew point and vapour condenses on tiny 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37195 — clouds sorted by height]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37196 — a cloud forms over the hill]
 
 ## The key ideas
 

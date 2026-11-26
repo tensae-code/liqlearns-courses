@@ -9,7 +9,11 @@ The Sun does not heat the Earth evenly: one place is warmed more, another less. 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37165 — uneven heating of land and sea]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37166 — warm rising, cool sinking]
 
 ## Sub lesson 2 — The circulation of the winds
 
@@ -17,7 +21,11 @@ The same rising and sliding-in does not happen in one place only. Across the who
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37167 — the full wind loop]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37168 — sea breeze and land breeze]
 
 ## The key ideas
 

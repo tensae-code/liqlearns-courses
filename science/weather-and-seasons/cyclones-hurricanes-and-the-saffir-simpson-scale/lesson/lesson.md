@@ -9,7 +9,11 @@ Cyclones classified by wind force on the Saffir-Simpson scale; "huracán" named 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37217 — the Saffir-Simpson scale]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37218 — the spiral turns around the eye]
 
 ## Sub lesson 2 — Tropical cyclones
 

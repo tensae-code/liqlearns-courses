@@ -9,7 +9,11 @@ the spiral cyclone (hurricane): a large storm with strong winds and heavy rain t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37187 — a hurricane over the sea]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37188 — the storm reaches land]
 
 ## The key ideas
 

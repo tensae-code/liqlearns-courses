@@ -9,7 +9,11 @@ precipitation falls when droplets or ice crystals grow too heavy for the cloud: 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37197 — droplets grow and fall]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37198 — hail grows layer on layer]
 
 ## The key ideas
 

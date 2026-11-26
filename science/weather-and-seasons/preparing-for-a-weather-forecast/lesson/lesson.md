@@ -9,7 +9,11 @@ A **forecast** is a statement of the weather that is expected — rain, storm, h
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37153 — the forecast board]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37154 — dress for the coming weather]
 
 ## Sub lesson 2 — Prepare — clothing and items to carry
 

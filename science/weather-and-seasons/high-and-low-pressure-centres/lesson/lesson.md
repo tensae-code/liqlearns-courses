@@ -9,7 +9,11 @@ centres of pressure: in a high, air sinks and spreads outward turning clockwise 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37205 — high and low pressure centres]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37206 — the candle-and-jar low model]
 
 ## The key ideas
 

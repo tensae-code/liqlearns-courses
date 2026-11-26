@@ -9,7 +9,11 @@ air pressure falls as we rise; heated air expands, thins and rises leaving low p
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37193 — pressure falls as we rise]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37194 — the dew point on a cold glass]
 
 ## The key ideas
 

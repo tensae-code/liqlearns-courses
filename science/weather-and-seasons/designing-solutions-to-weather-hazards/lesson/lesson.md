@@ -9,7 +9,11 @@ A **weather-related hazard** is dangerous weather whose effects harm people and 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37155 — a weather hazard scene]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37156 — a house the flood cannot reach]
 
 ## Sub lesson 2 — Design, test and optimise the solution
 

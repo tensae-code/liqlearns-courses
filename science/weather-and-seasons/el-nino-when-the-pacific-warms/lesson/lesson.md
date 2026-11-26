@@ -9,7 +9,11 @@ Normally the trade winds blow west from South America and cold deep water wells 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37149 — the Pacific in a normal year]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37150 — the Pacific warming]
 
 ## Sub lesson 2 — Every 3–7 years — the warming
 

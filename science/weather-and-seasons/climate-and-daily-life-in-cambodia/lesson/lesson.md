@@ -9,7 +9,11 @@ This lesson stands on the one before it in Cambodia's Grade 7 book: **seasons an
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37169 — Cambodia's wet season]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37170 — Cambodia's dry season]
 
 ## Sub lesson 2 — What the climate does to people's activities
 

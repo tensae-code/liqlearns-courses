@@ -9,7 +9,11 @@ Colombia's thermal floors by altitude: cálido 0–1,000 m (>24 °C, 83% of land
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37219 — Colombia's thermal floors]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37220 — climbing the thermal floors]
 
 ## The key ideas
 

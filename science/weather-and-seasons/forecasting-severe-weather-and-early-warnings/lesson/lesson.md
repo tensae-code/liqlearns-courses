@@ -9,7 +9,11 @@ weather safety: world institutions watch hurricanes and severe weather with rada
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37211 — satellite, radar and instruments]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37212 — the early warning goes out]
 
 ## The key ideas
 

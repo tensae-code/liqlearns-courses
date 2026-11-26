@@ -9,7 +9,11 @@ South Sudan's Primary 7 book teaches **humidity** as its own topic: humidity is 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37215 — humidity: vapour in the air]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37216 — the sling psychrometer]
 
 ## Sub lesson 2 — Measuring humidity — the hygrometer and the psychrometer
 

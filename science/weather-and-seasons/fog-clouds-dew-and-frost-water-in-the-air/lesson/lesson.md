@@ -11,7 +11,11 @@ China's Grade 6 book teaches the pair together because they are the same thing i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37173 — fog over the valley]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37174 — dew and frost]
 
 ## Sub lesson 2 — Dew and frost
 

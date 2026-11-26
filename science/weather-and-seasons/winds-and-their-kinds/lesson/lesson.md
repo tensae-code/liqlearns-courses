@@ -9,7 +9,11 @@ Stand outside on a still day, then on a windy one. The air did not change its na
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37161 — trees bending in a steady wind]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37162 — the windsock, filled and hanging]
 
 ## Sub lesson 2 — Kinds of wind
 
@@ -17,7 +21,11 @@ Winds are not all one thing: Armenia's book sorts them into **kinds** — winds 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37163 — a storm wind at full strength]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37164 — the wind vane and dial]
 
 ## The key ideas
 

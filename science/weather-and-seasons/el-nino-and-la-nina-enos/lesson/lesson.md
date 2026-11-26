@@ -11,7 +11,11 @@ Teaching the two phases under one name is the point of this lesson: El Niño and
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37151 — the three ENOS faces]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37152 — drought here, floods there]
 
 ## Sub lesson 2 — El Niño — the warm phase and its effects
 

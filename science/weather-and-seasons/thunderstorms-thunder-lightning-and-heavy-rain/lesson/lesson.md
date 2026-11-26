@@ -9,7 +9,11 @@ thunderstorms are one of the patterns of severe weather: a storm accompanied by 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37185 — a thunderstorm]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37186 — thunder: the burst of heated air]
 
 ## The key ideas
 

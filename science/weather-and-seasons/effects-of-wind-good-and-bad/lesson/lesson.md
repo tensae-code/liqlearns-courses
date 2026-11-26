@@ -9,7 +9,11 @@ Rwanda's Primary 2 book teaches the **effects of wind** as their own topic: wind
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37175 — wind at work: mill and kite]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37176 — a storm gust bends the tree]
 
 ## Sub lesson 2 — The dangers of wind
 

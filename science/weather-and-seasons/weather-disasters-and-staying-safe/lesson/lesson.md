@@ -11,7 +11,11 @@ Each disaster is known by what it brings: the damage and danger that arrive with
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37171 — four weather disasters]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37172 — climb to high ground]
 
 ## Sub lesson 2 — Knowing them is how we stay safe
 

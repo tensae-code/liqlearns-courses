@@ -9,7 +9,11 @@ severe weather, 1: thunderstorms grow in cumulonimbus, usually along cold fronts
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37207 — charges inside the storm cloud]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37208 — lightning and thunder]
 
 ## The key ideas
 

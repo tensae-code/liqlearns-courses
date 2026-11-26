@@ -9,7 +9,11 @@ why we need to know the coming weather: choosing heavy clothes in winter, the fa
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37181 — who uses the forecast]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37182 — the farmer and the warning]
 
 ## The key ideas
 

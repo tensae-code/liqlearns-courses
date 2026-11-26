@@ -9,7 +9,11 @@ Ch.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37201 — two air masses]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37202 — a front: cold slides under warm]
 
 ## Sub lesson 2 — 7, Lesson 2
 

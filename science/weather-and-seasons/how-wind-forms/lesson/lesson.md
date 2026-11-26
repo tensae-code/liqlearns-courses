@@ -8,6 +8,8 @@ Bangladesh's Class 4 Elementary Science book asks why the weather changes at all
 
 In your mind's eye: wind is air on the move: the Sun heats the Earth unevenly, warm air rises and cool air sinks, and air flows from where it is pressed down to where it has risen — that flow is wind. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 37221 — how wind forms, step by step]
+
 ## The key facts
 **Heating by day, cooling by night.** The Sun heats the ground and air by day; at night they cool. Warm air is lighter and rises; cool air is heavier and sinks. This daily rising and sinking — the diurnal change — is the first mover of the air.
 

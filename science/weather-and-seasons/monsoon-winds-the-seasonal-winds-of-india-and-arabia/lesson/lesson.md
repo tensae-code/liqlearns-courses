@@ -9,7 +9,11 @@ social-studies link in the same lesson: the monsoon is a wind that changes direc
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37199 — the summer monsoon]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37200 — the winter monsoon reversed]
 
 ## The key ideas
 

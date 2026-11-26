@@ -9,7 +9,11 @@ the three fronts: the cold front forces warm air up steeply, building cumulus, h
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37203 — a cold front]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37204 — warm and stationary fronts]
 
 ## The key ideas
 

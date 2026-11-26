@@ -9,7 +9,11 @@ Air has weight, and the whole depth of air above us **presses** on everything, i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37157 — an ocean of air above us]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37158 — the straw and the air's push]
 
 ## Sub lesson 2 — Proving it — experiments that show the pressure is real
 
@@ -17,7 +21,11 @@ Armenia's book does not ask the learner to take pressure on trust: **Practical w
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37159 — a hand under falling water]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37160 — the upturned glass trick]
 
 ## The key ideas
 

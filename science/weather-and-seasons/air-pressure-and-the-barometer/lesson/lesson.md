@@ -9,7 +9,11 @@ air pressure is the weight of the air pressing on things, and its change changes
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37179 — the mercury barometer]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37180 — reading the barometer sky]
 
 ## The key ideas
 

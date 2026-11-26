@@ -9,7 +9,11 @@ the snowstorm: snow with low temperature and strong winds covers the plants, car
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37189 — a snowstorm]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37190 — a tornado funnel]
 
 ## The key ideas
 

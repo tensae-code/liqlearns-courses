@@ -9,7 +9,11 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37191 — safe indoors together]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37192 — never wade in flood water]
 
 ## The key ideas
 

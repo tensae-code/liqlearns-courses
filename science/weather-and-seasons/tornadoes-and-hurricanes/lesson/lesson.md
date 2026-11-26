@@ -9,7 +9,11 @@ severe weather, 2: the tornado, a spinning funnel less than 200 m across that ra
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37209 — a tornado beside a house]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37210 — a hurricane's life]
 
 ## The key ideas
 

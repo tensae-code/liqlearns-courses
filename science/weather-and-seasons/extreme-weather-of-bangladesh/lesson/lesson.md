@@ -9,7 +9,11 @@ Bangladesh's extremes come in pairs: heat wave and cold wave; and water in both 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37177 — Bangladesh's four seasons of weather]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37178 — a cyclone over the coast]
 
 ## Sub lesson 2 — The Nor'wester and the tornado
 

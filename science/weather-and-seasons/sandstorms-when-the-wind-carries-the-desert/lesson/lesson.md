@@ -9,7 +9,11 @@ the sandstorm: a storm in which the wind carries quantities of sand and dust tha
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37183 — a wall of sand coming]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37184 — inside the sandstorm]
 
 ## The key ideas
 
