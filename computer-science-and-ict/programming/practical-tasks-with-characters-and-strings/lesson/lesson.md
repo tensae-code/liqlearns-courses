@@ -10,11 +10,15 @@ The earlier sections gave the pieces: **char** and codes, the **string** type, a
 
 In your mind's eye: a task card — input text on the left, required result on the right. With the string tools laid out between them.
 
+[Picture 47409 — a task card — input text on the left, required result on the right. With the string tools laid out between them]
+
 ## Sub lesson 2 — Testing the finished program
 
 A program that works on one easy text may still be wrong. **Testing** means running it on chosen cases: an ordinary case, a short case (one word, one character), and an awkward case (an empty text, extra spaces, a piece that is not found). Each test compares the program's result with the result worked out by hand. When a test fails, the fault is hunted in the plan first — the wrong tool, a position off by one, an edge the plan forgot — and only then in the typing. A task is finished when its tests pass, not when its program merely runs.
 
 In your mind's eye: three test cards labelled ordinary, short and awkward, each with a tick being checked against a hand-worked answer.
+
+[Picture 47410 — three test cards labelled ordinary, short and awkward, each with a tick being checked against a hand-worked answer]
 
 ## Say it to your companion
 

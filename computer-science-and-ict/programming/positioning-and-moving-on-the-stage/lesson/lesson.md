@@ -10,6 +10,8 @@ A sprite that only moves forward from wherever it stands is hard to direct. This
 
 In your mind's eye: a picture of a Scratch stage with a sprite being placed at a marked spot, a dotted planned path to a second marked spot, and the rest of the stage empty.
 
+[Picture 47404 — a picture of a Scratch stage with a sprite being placed at a marked spot, a dotted planned path to a second marked spot, and the rest of the stage empty]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Every place on the Scratch stage has a position: a sprite can be put at an exact place, and moved from place to place on purpose — not just wandered forward. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

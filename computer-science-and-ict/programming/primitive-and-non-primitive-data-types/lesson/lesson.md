@@ -10,11 +10,15 @@ Java sorts every type a variable can have into two families, and the sorting mat
 
 In your mind's eye: primitive types — the value itself in the box.
 
+[Picture 47411 — primitive types — the value itself in the box]
+
 ## Sub lesson 2 — Non-primitive types — a reference in the box
 
 **Non-primitive (reference) types** — String, arrays, and every class — work differently: the variable holds a **reference**, a way to reach an **object** that lives elsewhere in memory. Copying a reference variable copies the **reference**, so both boxes reach the **same object** — change it through one and the other sees the change. Malaysia's contrast is the lesson: primitive, the value in the box; non-primitive, a pointer to the value in the box — and most beginner surprises about two variables 'changing together' are this difference, met in the wild.
 
 In your mind's eye: non-primitive types — a reference in the box.
+
+[Picture 47412 — non-primitive types — a reference in the box]
 
 ## Say it to your companion
 

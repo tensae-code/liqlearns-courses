@@ -10,11 +10,15 @@ A sprite's **direction** is **where it faces**, measured as a number: **90 is to
 
 In your mind's eye: direction — a number on a compass.
 
+[Picture 47402 — direction — a number on a compass]
+
 ## Sub lesson 2 — The point-in-direction block
 
 The **point in direction** block **sets the sprite's facing at once** to the number it is given — no turning journey, the sprite simply faces that way from that moment. It differs from the turn blocks: **turning adds** an amount to the facing the sprite already has, while **pointing replaces** it with the named direction, whatever it was before. Directing a character through a scene — right along the path, down at the corner, left to the door — is pointing, one named facing per leg of the journey.
 
 In your mind's eye: the point-in-direction block.
+
+[Picture 47403 — the point-in-direction block]
 
 ## Say it to your companion
 

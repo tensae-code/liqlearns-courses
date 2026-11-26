@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Practical Answers 5–8 — converting
 
 In your mind's eye: practical Answers 5–8 — converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line.
 
+[Picture 47407 — practical Answers 5–8 — converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line]
+
 ## Sub lesson 2 — Doing it — Practical Answers 5–8 — converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line in practice
 
 This part of South Sudan's book teaches **Doing it — Practical Answers 5–8 — converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line in practice** — covering: Practical Answers 5–8 — converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Practical Answers 5–8 — converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Practical Answers 5–8 — converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line in practice is part of that chain..
 
 In your mind's eye: doing it — Practical Answers 5–8. Converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line in practice.
+
+[Picture 47408 — doing it — Practical Answers 5–8. Converting seconds to hours, minutes and seconds; month name; reading a password until it is correct; printing 3 numbers in a line in practice]
 
 ## Say it to your companion
 

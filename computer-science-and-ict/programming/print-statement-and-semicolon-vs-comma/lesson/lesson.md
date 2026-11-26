@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, PRINT Statement** — covering
 
 In your mind's eye: , PRINT Statement.
 
+[Picture 47413 — , PRINT Statement]
+
 ## Sub lesson 2 — Doing it — Print Statement and Semicolon vs Comma in practice
 
 **Doing it — Print Statement and Semicolon vs Comma in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Print Statement and Semicolon vs Comma in practice.
+
+[Picture 47414 — doing it — Print Statement and Semicolon vs Comma in practice]
 
 ## Say it to your companion
 

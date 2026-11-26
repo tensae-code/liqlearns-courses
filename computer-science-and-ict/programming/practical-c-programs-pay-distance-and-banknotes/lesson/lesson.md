@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Practical Answers 1–4 — employee I
 
 In your mind's eye: practical Answers 1–4 — employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes.
 
+[Picture 47405 — practical Answers 1–4 — employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes]
+
 ## Sub lesson 2 — Doing it — Practical Answers 1–4 — employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes in practice
 
 This part of South Sudan's book teaches **Doing it — Practical Answers 1–4 — employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes in practice** — covering: Practical Answers 1–4 — employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Practical Answers 1–4 — employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Practical Answers 1–4 — employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes in practice is part of that chain..
 
 In your mind's eye: doing it — Practical Answers 1–4. Employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes in practice.
+
+[Picture 47406 — doing it — Practical Answers 1–4. Employee ID and salary; fuel consumption and distance between two points; breaking an amount into the smallest number of bank notes in practice]
 
 ## Say it to your companion
 

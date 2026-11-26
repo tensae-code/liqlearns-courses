@@ -10,11 +10,15 @@ To **plot a graph**, the program needs axes first: lines for the horizontal and 
 
 In your mind's eye: axes with a stated scale and a curve being plotted point by point across them.
 
+[Picture 47400 — axes with a stated scale and a curve being plotted point by point across them]
+
 ## Sub lesson 2 — Diagrams from data
 
 A **diagram** shows amounts, not a function: the program reads the data values and draws each as a bar or sector of the height or size the value deserves, in the same scale across the whole diagram — the comparison is the message. Both graph and diagram share one discipline: the picture must be **honest to the numbers** — axes and scales stated, steps even, heights proportional — because a plotted picture persuades faster than a table, and a wrong scale persuades wrongly. That is why this section closes the graphics work: pictures from programs are claims, and the programmer answers for them.
 
 In your mind's eye: a row of bars of different heights with one scale ruler standing beside them.
+
+[Picture 47401 — a row of bars of different heights with one scale ruler standing beside them]
 
 ## Say it to your companion
 

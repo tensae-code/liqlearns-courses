@@ -10,11 +10,15 @@ A **procedure (διαδικασία)** is a subprogram called to **do** a job �
 
 In your mind's eye: procedures do, functions answer.
 
+[Picture 47419 — procedures do, functions answer]
+
 ## Sub lesson 2 — Formal and actual parameters — the handshake
 
 The subprogram's heading declares its **formal parameters (τυπικές παράμετροι)** — the names the piece uses for the values it will receive. The call supplies **actual parameters (πραγματικές παράμετροι)** — the caller's own variables or values, matched to the formals **in order**. The chapter's care points are the exam's traps: the counts must match, the **types** must match, and whether a changed formal reaches the caller's actual depends on the passing the language makes — so the trace of a call, formals bound to actuals one by one, is drawn by hand until it is habit.
 
 In your mind's eye: formal and actual parameters — the handshake.
+
+[Picture 47420 — formal and actual parameters — the handshake]
 
 ## Say it to your companion
 
