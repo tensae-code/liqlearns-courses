@@ -10,6 +10,8 @@ synthesis — most European states trace their present structures to this age of
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41211 — gleanerslamplit]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §53: Europa modernă – o lume a contrastelor — synthesis — most European states trace their present structures to this age of contrasts; Millet's gleaners and O'Connor's evening London close the book's two worlds. Then let your companion ask you one hard question about it — answer from the lesson.

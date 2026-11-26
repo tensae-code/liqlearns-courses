@@ -10,6 +10,8 @@ gunboats carry flags, schools and alphabets together; colonised peoples answer b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41203 — importsremade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modern wars and the expansion of Western culture — gunboats carry flags, schools and alphabets together; colonised peoples answer by remaking the imports. Then let your companion ask you one hard question about it — answer from the lesson.

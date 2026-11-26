@@ -10,6 +10,8 @@ Ming falls to Manchu Qing; Kangxi and Qianlong raise China to its greatest exten
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41219 — vastestcloseddoors]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §20 China in the 16th–18th centuries — Ming falls to Manchu Qing; Kangxi and Qianlong raise China to its greatest extent while closing its doors to the sea-traders. Then let your companion ask you one hard question about it — answer from the lesson.

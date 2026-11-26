@@ -10,11 +10,15 @@ Jesuit missions in Moxos found ordered towns of four sectors; in 1767 Carlos III
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41214 — orderedtownsexpelled]
+
 ## Sub lesson 2 — Año 2: Las misiones coloniales españolas
 
 Teacher-compendium unit, same arc as the student text (Año 2: Las misiones coloniales españolas)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41213 — crownnotrome]
 
 ## Say it to your companion
 

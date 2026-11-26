@@ -10,6 +10,8 @@ the richest system in history protests against itself in its own financial stree
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41212 — ninetyninevone]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 2 Modern capitalism: the post-1945 marriage of monopoly wealth and state power, riding the fourth industrial revolution (the G7 forum from 1976), yet unable to cure global crises, racial injustice, school shootings or the gap that marches as Occupy Wall Street's "99 against 1" in 2011 — the richest system in history protests against itself in its own financial street. Then let your companion ask you one hard question about it — answer from the lesson.

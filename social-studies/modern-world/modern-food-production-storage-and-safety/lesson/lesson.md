@@ -10,6 +10,8 @@ hybrid rice, grain reserves and cold chains against famine; the lesson ends with
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41210 — reservescoldchains]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modern food production, storage and food safety — hybrid rice, grain reserves and cold chains against famine; the lesson ends with food-safety law as a modern state's promise. Then let your companion ask you one hard question about it — answer from the lesson.

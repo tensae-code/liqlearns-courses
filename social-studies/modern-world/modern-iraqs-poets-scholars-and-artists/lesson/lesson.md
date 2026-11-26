@@ -10,6 +10,8 @@ al-Jawahiri sings to the Tigris from exile; al-Sayyab, Nazik al-Malaika, Sargon 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41209 — poetsphysicistmonument]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modern Iraq's poets, scholars and artists — al-Jawahiri sings to the Tigris from exile; al-Sayyab, Nazik al-Malaika, Sargon Boulus and the Kurdish poet Goran voice their homeland; Mandaean physicist Abdul Jabbar Abdullah becomes Baghdad University's first president after 1958; sculptor Jawad Saleem raises the Freedom Monument in Tahrir Square. Then let your companion ask you one hard question about it — answer from the lesson.

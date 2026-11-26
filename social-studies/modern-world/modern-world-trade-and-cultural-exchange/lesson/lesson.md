@@ -10,6 +10,8 @@ world expos, the Olympics and Hollywood extend the exchange from goods to images
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41202 — exposgamesfilms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: World trade and cultural exchange expand in modern times — world expos, the Olympics and Hollywood extend the exchange from goods to images and lifestyles. Then let your companion ask you one hard question about it — answer from the lesson.

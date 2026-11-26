@@ -10,6 +10,8 @@ Ellis Island to today's refugee routes; receiving countries argue over the multi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41207 — gatewaysbargain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Migration and multiculturalism in modern society — Ellis Island to today's refugee routes; receiving countries argue over the multicultural bargain their new citizens are offered. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Nigeria may hold 339 million people by 2050 and Ethiopia 213 million; the Syrian
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41221 — growingpeoplesmove]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 59: Migrații în lumea actuală — Nigeria may hold 339 million people by 2050 and Ethiopia 213 million; the Syrian refugee crisis from 2011 and the Ukrainian one teach what drives people from their homes. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Armies as history-makers — students investigate when soldiers, not voters, cha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41220 — soldiersdecide]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Military forces as agents of change — armies as history-makers — students investigate when soldiers, not voters, changed Asian states, and present the evidence as portfolios. Then let your companion ask you one hard question about it — answer from the lesson.

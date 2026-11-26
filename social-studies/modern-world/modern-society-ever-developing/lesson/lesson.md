@@ -10,6 +10,8 @@ the internet, bio-tech and globalisation knit one world, bringing new wealth and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41206 — wealthrisksbalance]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modern society keeps developing — the internet, bio-tech and globalisation knit one world, bringing new wealth and new risks together. Then let your companion ask you one hard question about it — answer from the lesson.

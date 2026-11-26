@@ -10,6 +10,8 @@ missionaries ban polygamy and the polula night dances, push the nuclear family a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41215 — aigatonuclear]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 1, Unit 4 and Part 2, Unit 3, social and cultural effects — missionaries ban polygamy and the polula night dances, push the nuclear family against the aiga, take the priestly role from the matai (the pastor inherits the chiefly address "susuga"), and bring both new diseases and the first modern health care — until the independent nation's motto reads "Sāmoa is founded on God". Then let your companion ask you one hard question about it — answer from the lesson.
