@@ -10,11 +10,15 @@ The micro:bit's **A and B buttons** are its simplest inputs: an Input block runs
 
 In your mind's eye: buttons A and B — the board's ears of touch.
 
+[Picture 47283 — buttons A and B — the board's ears of touch]
+
 ## Sub lesson 2 — Sensors — the board reads its world
 
 The board's **sensors** are inputs that need no finger: it senses **movement** (shake, tilt), **direction**, **light** and **temperature**, and Input blocks let a program react — do this **when shaken**, show the temperature, answer a tilt. With sensors, the micro:bit reads its surroundings and the program becomes about the world the board is in, not only the hands that hold it.
 
 In your mind's eye: sensors — the board reads its world.
+
+[Picture 47284 — sensors — the board reads its world]
 
 ## Say it to your companion
 

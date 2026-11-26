@@ -10,11 +10,15 @@ A spread is **exponential** when each step **multiplies** the count by the same 
 
 In your mind's eye: exponential growth — multiplying by the same factor.
 
+[Picture 47291 — exponential growth — multiplying by the same factor]
+
 ## Sub lesson 2 — Modelling it — a program that watches the spread
 
 A **model** of the spread is a program holding the model's levers — **start count, factor per step, steps** — and **computing the table** the hand cannot extend: thirty steps, fifty steps, the step where the count passes the school, the city, the country. Changing a lever and re-running is the modelling craft: what if each tells **three**? what if only **half** pass it on? The lesson's point is civic as much as mathematical — exponential spread is how messages and infections truly move, and the person who has run the model is not surprised by the curve.
 
 In your mind's eye: modelling it — a program that watches the spread.
+
+[Picture 47292 — modelling it — a program that watches the spread]
 
 ## Say it to your companion
 

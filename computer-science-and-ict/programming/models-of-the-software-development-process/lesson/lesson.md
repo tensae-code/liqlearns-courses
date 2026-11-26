@@ -10,11 +10,15 @@ A **process model** organises **the stages of developing software**. In most mod
 
 In your mind's eye: the development process in stages.
 
+[Picture 47295 — the development process in stages]
+
 ## Sub lesson 2 — Different process models
 
 Models differ in **the order and repetition of the stages**. A **one-direction model** moves stage by stage without going back. A **repeating model** allows returning to earlier stages. A model is chosen by the project and its risks, and following one helps a team work in an order everyone knows. The guide's lesson compares different types of software development process.
 
 In your mind's eye: different process models.
+
+[Picture 47296 — different process models]
 
 ## Say it to your companion
 

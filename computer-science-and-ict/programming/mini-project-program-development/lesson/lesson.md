@@ -10,11 +10,15 @@ The **mini project** takes a **situasi** — a small problem situation from scho
 
 In your mind's eye: the brief and the phases.
 
+[Picture 47289 — the brief and the phases]
+
 ## Sub lesson 2 — Reporting the thinking, phase by phase
 
 At each phase the developer **reports** which computational-thinking technique did the work: decomposition in the analysis (the problem broken into its parts), pattern recognition and abstraction in the design (the repeated shape kept, the clutter dropped), sequencing in the algorithm, and checking in the testing. The finished project is handed over as the program **plus** its report — Malaysia's point is that the report is not decoration: it is the evidence that the program was developed, not merely typed.
 
 In your mind's eye: reporting the thinking, phase by phase.
+
+[Picture 47290 — reporting the thinking, phase by phase]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ In the graph-measures lesson you measured a class network by hand: waves, eccent
 
 In your mind's eye: the same five people drawn twice. Once with two-headed friendship edges, once with one-way follow arrows, the code class under each.
 
+[Picture 47293 — the same five people drawn twice. Once with two-headed friendship edges, once with one-way follow arrows, the code class under each]
+
 ## Sub lesson 2 — Measuring the network with the machine
 
 Once built, the graph answers the measures lesson’s questions in single calls: `nx.center(G)`, `nx.radius(G)`, `nx.diameter(G)` — the very numbers you sweated over by hand, returned instantly, and correct for graphs of thousands of nodes where hand waves would take weeks. The book’s discipline is the professional one: **verify on the small before trusting on the large**. Build the seven-pupil graph from the measures lesson, call the three functions, and check the answers against your hand work — centre, radius 3, diameter 5. Only then point the same calls at a network too big to check, and believe them. The library does not replace the earlier lesson; it is why the earlier lesson mattered — you cannot judge a machine’s answer about a concept you have never computed yourself.
 
 In your mind's eye: a small graph and a vast graph side by side, the same three function calls written under both, the small one ticked "checked by hand".
+
+[Picture 47294 — a small graph and a vast graph side by side, the same three function calls written under both, the small one ticked "checked by hand"]
 
 ## Say it to your companion
 

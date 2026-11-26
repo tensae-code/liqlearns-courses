@@ -10,11 +10,15 @@ The first challenges make the board a voice: **letters** — your initials and n
 
 In your mind's eye: letters, animals and the weather — the board speaks for you.
 
+[Picture 47285 — letters, animals and the weather — the board speaks for you]
+
 ## Sub lesson 2 — The button-guessing game — your program, played by others
 
 The closing challenge is a **game**: the **button-guessing game**, in which the board sets a puzzle its player answers with the A and B buttons — the maker's program, played by somebody else. It gathers the whole ladder into one build: Basic frames, LED display, Input buttons, and the Logic of right and wrong answers. A project that introduces its maker ends properly when a stranger can pick the board up and meet the maker through play.
 
 In your mind's eye: the button-guessing game — your program, played by others.
+
+[Picture 47286 — the button-guessing game — your program, played by others]
 
 ## Say it to your companion
 

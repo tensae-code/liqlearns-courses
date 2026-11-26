@@ -10,11 +10,15 @@ merge sort — sorting by divide and conquer: split the list in half until the p
 
 In your mind's eye: split to singles — the divide.
 
+[Picture 47279 — split to singles — the divide]
+
 ## Sub lesson 2 — Merge in order — the conquer
 
 The way back up is the **merge**: take two neighbouring sorted pieces and build one sorted list from them by repeatedly **taking the smaller of their two front items**. When one piece empties, the other's rest follows in order. Merging two pieces of total length n takes n takings — and because the halves were each sorted the same way, the joined list is sorted whole. The book's cost remark: merge sort does about **n log n** work — splitting gives log n levels, each level merges everything once.
 
 In your mind's eye: merge in order — the conquer.
+
+[Picture 47280 — merge in order — the conquer]
 
 ## Say it to your companion
 

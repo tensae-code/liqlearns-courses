@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Modular Programming in Python** 
 
 In your mind's eye: modular Programming in Python.
 
+[Picture 47297 — modular Programming in Python]
+
 ## Sub lesson 2 — Doing it — Modular Programming and the Main Function in practice
 
 **Doing it — Modular Programming and the Main Function in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Modular Programming and the Main Function in practice.
+
+[Picture 47298 — doing it — Modular Programming and the Main Function in practice]
 
 ## Say it to your companion
 

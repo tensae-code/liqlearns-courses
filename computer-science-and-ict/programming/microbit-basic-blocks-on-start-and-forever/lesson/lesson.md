@@ -10,11 +10,15 @@ Every MakeCode program needs a frame to hang on. Kuwait's micro:bit ladder begin
 
 In your mind's eye: on start — what runs once, at the waking.
 
+[Picture 47281 — on start — what runs once, at the waking]
+
 ## Sub lesson 2 — Forever — what runs while the board lives, and lighting shapes
 
 **Forever** holds the blocks that run **again and again** for as long as the board is on: the program's heartbeat. Between the two frames, the LED grid becomes a canvas: blocks light chosen LEDs into **shapes** — a heart, a face, an arrow — and a shape inside Forever with pauses becomes simple animation. On start sets the stage once; Forever keeps the show running.
 
 In your mind's eye: forever — what runs while the board lives, and lighting shapes.
+
+[Picture 47282 — forever — what runs while the board lives, and lighting shapes]
 
 ## Say it to your companion
 

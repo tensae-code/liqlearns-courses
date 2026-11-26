@@ -10,11 +10,15 @@ A **mid-level language** stands between low and high: it writes in human words l
 
 In your mind's eye: mid-level — C between the worlds.
 
+[Picture 47287 — mid-level — C between the worlds]
+
 ## Sub lesson 2 — High-level — C++, Java, Python; and the fourth generation
 
 **High-level languages** hide the machine almost wholly: one statement does the work of many machine instructions, and the same program can run on many machines. The book profiles its famous three: **C++** — C grown with objects, for systems and games; **Java** — written once, run anywhere its virtual machine lives, for enterprise and Android; **Python** — the readable language of this course's own earlier chapters, for everything from first lessons to artificial intelligence. Beyond them the book names the **fourth generation**: languages that state *what* result is wanted and let the system find the *how* — the ladder still climbing.
 
 In your mind's eye: high-level — C++, Java, Python; and the fourth generation.
+
+[Picture 47288 — high-level — C++, Java, Python; and the fourth generation]
 
 ## Say it to your companion
 
