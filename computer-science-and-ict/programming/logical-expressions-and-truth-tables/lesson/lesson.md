@@ -10,11 +10,15 @@ A **logical expression** joins conditions with logical words — **AND, OR and N
 
 In your mind's eye: logical expressions.
 
+[Picture 47250 — logical expressions]
+
 ## Sub lesson 2 — Truth tables
 
 A **truth table** lists **every possible combination** of the conditions' truth values and the expression's result for each row. With two conditions there are four rows — true/true, true/false, false/true, false/false — and filling the table proves exactly when the expression is true, before any program is written.
 
 In your mind's eye: truth tables.
+
+[Picture 47251 — truth tables]
 
 ## Say it to your companion
 

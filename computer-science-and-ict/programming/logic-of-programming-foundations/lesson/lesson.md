@@ -10,11 +10,15 @@ Cuba's Grade 9 programming year opens its second chapter with a question — *¿
 
 In your mind's eye: what programming logic is.
 
+[Picture 47248 — what programming logic is]
+
 ## Sub lesson 2 — Logic at work — order, exactness, completeness
 
 Logic shows itself in three habits. **Order**: a step that uses a result comes after the step that makes it. **Exactness**: each step names one action the computer can do, with nothing left to guess. **Completeness**: the steps cover the problem's cases — including the awkward ones — not only the easy path. Cuba's chapter order is the logic applied to itself: logic first, then data and types, then variables, then expressions, then counters — each idea standing on the one before.
 
 In your mind's eye: logic at work — order, exactness, completeness.
+
+[Picture 47249 — logic at work — order, exactness, completeness]
 
 ## Say it to your companion
 

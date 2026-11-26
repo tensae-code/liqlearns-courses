@@ -10,11 +10,15 @@ A **list** keeps its values **in order, one after another**, and its length is *
 
 In your mind's eye: adding, inserting, removing — the changing list.
 
+[Picture 47238 — adding, inserting, removing — the changing list]
+
 ## Sub lesson 2 — Reaching and walking — index and traversal
 
 A value is **reached** by its **position (index)** — the first, the third, the last — while the list's whole company is **walked** by **traversal**: a loop with a counter visiting every element once, the standing pattern for printing, summing and searching a list. The unit sets list against array as it closes: the array reaches any place at once but cannot grow; the list grows freely but is walked step by step — the data-structures choice the Grade 12 course will examine, met first here in working form.
 
 In your mind's eye: reaching and walking — index and traversal.
+
+[Picture 47239 — reaching and walking — index and traversal]
 
 ## Say it to your companion
 

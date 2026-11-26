@@ -10,11 +10,15 @@ A **loop around drawing commands** turns repetition into design: draw a square, 
 
 In your mind's eye: loops drawing — nested squares and repetition.
 
+[Picture 47254 — loops drawing — nested squares and repetition]
+
 ## Sub lesson 2 — Randomness and the Mongolian patterns
 
 The **Math object's random numbers** break the order on purpose: **random colours** and positions scatter drawings into fields no two runs repeat — controlled surprise, set inside limits the programmer chooses. Then order returns at its highest: the book draws Mongolia's own ornaments — the **alkhan khee**, the endless meander, and the **khaan buguivch** knot pattern — with loops and graphics together. The lesson's claim is cultural as much as technical: a repeating pattern IS a loop, and the traditional patterns of Mongolia are programs that were drawn by hand for centuries before they were written in code.
 
 In your mind's eye: randomness and the Mongolian patterns.
+
+[Picture 47255 — randomness and the Mongolian patterns]
 
 ## Say it to your companion
 

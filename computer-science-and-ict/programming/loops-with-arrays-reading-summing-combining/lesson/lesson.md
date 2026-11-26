@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Loops and Arrays** — covering:
 
 In your mind's eye: loops and Arrays.
 
+[Picture 47256 — loops and Arrays]
+
 ## Sub lesson 2 — Doing it — Loops with Arrays Reading Summing Combining in practice
 
 **Doing it — Loops with Arrays Reading Summing Combining in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Loops with Arrays Reading Summing Combining in practice.
+
+[Picture 47257 — doing it — Loops with Arrays Reading Summing Combining in practice]
 
 ## Say it to your companion
 

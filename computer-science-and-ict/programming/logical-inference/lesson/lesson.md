@@ -10,11 +10,15 @@ Logical inference — drawing a conclusion that must follow from given propositi
 
 In your mind's eye: inference — conclusions that must follow.
 
+[Picture 47252 — inference — conclusions that must follow]
+
 ## Sub lesson 2 — Valid and invalid — the shape, not the story
 
 An inference is judged by its **shape**, not by whether its story sounds true. It is **valid** when true premises cannot leave the conclusion false; it is **invalid** — however believable — when the same shape lets a false conclusion slip through (from 'some pupils passed' and 'Dedi is a pupil', Dedi's passing does not follow). The chapter's discipline is to test arguments by replacing their content with letters and watching the shape alone — the habit that keeps a reasoner, and later a programmer writing conditions, from being persuaded by a story into a hole in the logic.
 
 In your mind's eye: valid and invalid — the shape, not the story.
+
+[Picture 47253 — valid and invalid — the shape, not the story]
 
 ## Say it to your companion
 

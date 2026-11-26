@@ -10,11 +10,15 @@ Variables declared **inside** a function (and its parameters) are **local**: eac
 
 In your mind's eye: local — private to the function.
 
+[Picture 47246 — local — private to the function]
+
 ## Sub lesson 2 — Global — shared by everyone
 
 A **global** variable is declared **outside** every function and lives for the **whole run**: every function can read and **change** it, so a change made anywhere shows up everywhere — convenient for true whole-program data, dangerous as a habit, because any bug can come from any function. If a local variable shares a global's **name**, inside that function the name means the **local** one (the global is shadowed).
 
 In your mind's eye: global — shared by everyone.
+
+[Picture 47247 — global — shared by everyone]
 
 ## Say it to your companion
 

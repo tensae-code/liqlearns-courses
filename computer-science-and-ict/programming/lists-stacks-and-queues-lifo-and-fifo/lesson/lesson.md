@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Primitive Computational Structur
 
 In your mind's eye: primitive Computational Structures. §4.1.1 Lists in Python.
 
+[Picture 47242 — primitive Computational Structures. §4.1.1 Lists in Python]
+
 ## Sub lesson 2 — Doing it — Lists Stacks and Queues LIFO and FIFO in practice
 
 **Doing it — Lists Stacks and Queues LIFO and FIFO in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Lists Stacks and Queues LIFO and FIFO in practice.
+
+[Picture 47243 — doing it — Lists Stacks and Queues LIFO and FIFO in practice]
 
 ## Say it to your companion
 

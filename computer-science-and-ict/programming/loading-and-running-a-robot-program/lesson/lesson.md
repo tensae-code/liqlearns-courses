@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Запуск программы для 
 
 In your mind's eye: запуск программы для робота.
 
+[Picture 47244 — запуск программы для робота]
+
 ## Sub lesson 2 — Роботқа беғишланған программини ишқа қошуш
 
 This part of Kazakhstan's book teaches **Роботқа беғишланған программини ишқа қошуш** — covering: §23 Роботқа беғишланған программини ишқа қошуш (launching the robot's programme). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: роботқа беғишланған программини ишқа қошуш.
+
+[Picture 47245 — роботқа беғишланған программини ишқа қошуш]
 
 ## Say it to your companion
 
