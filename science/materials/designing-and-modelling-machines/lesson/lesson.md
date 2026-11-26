@@ -9,7 +9,11 @@ Zimbabwe's Grade 6 guide teaches **machine designs and models** as a named unit:
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37009 — a machine begins as a design — the plan on paper, then the model, the plan made small]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 37010 — the model crane works — it lifts its load]
 
 ## Sub lesson 2 — Making a model
 

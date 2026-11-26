@@ -9,7 +9,11 @@ Without enzymes there is no life: living things decompose food quickly with enzy
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37011 — food as a long chain, and an enzyme — the shape that fits one job; with enzymes, food breaks down quickly]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37012 — the enzyme reaches the chain and the links pop apart — fast, not thousands of years]
 
 ## Sub lesson 2 — Enzymes and metabolism
 

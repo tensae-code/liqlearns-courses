@@ -11,7 +11,11 @@ Power chosen, the materials are gathered and the car is built to the design: bod
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37007 — choosing the power first — propeller car, motor car, sail car]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37008 — the test — the car must be strong enough to run at least 1 metre, measured on the track]
 
 ## Sub lesson 2 — Testing and improving the powered car
 

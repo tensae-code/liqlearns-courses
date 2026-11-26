@@ -11,7 +11,11 @@ A puddle after rain does not need to boil to disappear: its water leaves from th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37013 — evaporation — vapour rises from a puddle's surface only, under the sun]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37014 — a puddle after rain shrinks, and shrinks, until it is gone — joined the air]
 
 ## Sub lesson 2 — What speeds evaporation up
 

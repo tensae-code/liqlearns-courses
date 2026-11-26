@@ -11,7 +11,11 @@ The model is the unit's test of itself: a bridge is judged by the load it carrie
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37005 — design first, then build — a model bridge (triangles hold their shape) and a model tower (a wide base, columns)]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37006 — the model is tested — the bridge judged by the load it carries, the tower by standing tall and steady in the wind]
 
 ## Sub lesson 2 — Showing it and improving it — and Lu Ban
 
