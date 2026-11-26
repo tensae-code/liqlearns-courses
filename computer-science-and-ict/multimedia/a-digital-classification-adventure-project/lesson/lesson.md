@@ -10,11 +10,15 @@ The guide's final learning project is an adventure with a scientific errand: jou
 
 In your mind's eye: the project — classifying by journey.
 
+[Picture 46177 — the project — classifying by journey]
+
 ## Sub lesson 2 — The staged project — plan, journey, present
 
 The project runs in the guide's project stages: **plan** (the journey's stages, the groups expected, the tools chosen), **journey and build** (each stage's creatures observed, classified and filed, with sources documented — the intellectual-property habit of the earlier environments riding along), and **present** (the classification adventure shown to its audience, the reasoning for contested sorts defended). Its assessment is the guide's project pattern: a product, a process and a presentation — the pupil is marked as a scientist is judged: by the sorting, the evidence and the telling.
 
 In your mind's eye: the staged project — plan, journey, present.
+
+[Picture 46178 — the staged project — plan, journey, present]
 
 ## Say it to your companion
 

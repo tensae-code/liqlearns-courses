@@ -10,11 +10,15 @@ The livret's **method (démarche)** has a strict order. First **watch whole**, w
 
 In your mind's eye: the method's order — describe, analyse, interpret.
 
+[Picture 46185 — the method's order — describe, analyse, interpret]
+
 ## Sub lesson 2 — Working the method as a class
 
 In class the method is shared work: the description is built together on the board (any pupil may add, any pupil may challenge “show me where”), the analysis assigns elements to groups, and the interpretation is debated with evidence pointed back at the screen — a second viewing of the contested moment settles what memory argues about. The livret gives the démarche so any class can analyse any film the same disciplined way, not only films about school topics.
 
 In your mind's eye: working the method as a class.
+
+[Picture 46186 — working the method as a class]
 
 ## Say it to your companion
 

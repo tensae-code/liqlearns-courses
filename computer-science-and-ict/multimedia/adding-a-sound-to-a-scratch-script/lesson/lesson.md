@@ -10,11 +10,15 @@ Every Scratch project has a **Sounds panel (tab)** where its **sound clips** liv
 
 In your mind's eye: the sounds panel — the project's clips.
 
+[Picture 46180 — the sounds panel — the project's clips]
+
 ## Sub lesson 2 — Playing sounds from the script — and effects
 
 **Sound blocks** in the script **play the clips**: put a play block where the story needs the sound — the bird sings when it appears. The panel also lets you **try sound effects** on a clip, changing how it sounds before the audience hears it. Sound is placed like every block: deliberately, on its moment.
 
 In your mind's eye: playing sounds from the script — and effects.
+
+[Picture 46181 — playing sounds from the script — and effects]
 
 ## Say it to your companion
 

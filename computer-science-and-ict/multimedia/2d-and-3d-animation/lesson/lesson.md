@@ -10,11 +10,15 @@ Animation rests on the eye's own working: shown **frames** in quick succession (
 
 In your mind's eye: the physiology of animation — and the 2D craft.
 
+[Picture 46175 — the physiology of animation — and the 2D craft]
+
 ## Sub lesson 2 — 3D animation — building a world, then moving in it
 
 **3D animation** does not draw its world; it **builds** it — objects modelled with depth, surfaces and light — and then **moves the objects and a virtual camera** through it, the program computing every frame from the model, even to **photorealistic** images the eye takes for film. Its costs are its signature: modelling before any movement, computing time for every frame. The chapter's judgement closes the pair: 2D when the drawing's voice is the point; 3D when the world must be walked around.
 
 In your mind's eye: 3D animation — building a world, then moving in it.
+
+[Picture 46176 — 3D animation — building a world, then moving in it]
 
 ## Say it to your companion
 

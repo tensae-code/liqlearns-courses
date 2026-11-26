@@ -10,11 +10,15 @@ Audacity's **Effect menu** holds the sound-changers. **Amplify** makes a selecti
 
 In your mind's eye: the effects — amplify, fade, change and clean.
 
+[Picture 46193 — the effects — amplify, fade, change and clean]
+
 ## Sub lesson 2 — The editor's rule — select, preview, apply, listen
 
 An effect applies to the **selection** only, so the order is fixed: select the part, open the effect, **preview** it, adjust, then apply — and **listen** to the result in its place in the piece. Effects are undone when the ear says no. The lesson's taste rule: an effect serves the listening; a piece buried under effects has been decorated, not improved.
 
 In your mind's eye: the editor's rule — select, preview, apply, listen.
+
+[Picture 46194 — the editor's rule — select, preview, apply, listen]
 
 ## Say it to your companion
 

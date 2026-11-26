@@ -10,6 +10,8 @@ Sounds live in a **sound library**, as sprites live in the sprite library: choos
 
 In your mind's eye: scratch's sound library open, two blocks side by side — play sound moving on at once, play sound until done waiting. And a forever loop circling a music block.
 
+[Picture 46184 — scratch's sound library open, two blocks side by side — play sound moving on at once, play sound until done waiting. And a forever loop circling a music block]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: sounds come from the sound library, play sound moves on while play until done waits, and a forever loop of the waiting block is background music. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

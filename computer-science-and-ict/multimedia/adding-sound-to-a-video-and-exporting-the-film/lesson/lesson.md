@@ -10,11 +10,15 @@ The pictures tell the story, but nobody can hear it yet. In this lesson you give
 
 In your mind's eye: adding and editing the sound.
 
+[Picture 46182 — adding and editing the sound]
+
 ## Sub lesson 2 — Exporting the film
 
 Editing works on a **project**; the audience needs a **film**. **Exporting** renders the whole project — pictures, text, transitions and sound together — into one finished file. The guide exports as **.mp4 for sharing**: a single file that plays on other computers and phones, ready to present and send.
 
 In your mind's eye: exporting the film.
+
+[Picture 46183 — exporting the film]
 
 ## Say it to your companion
 

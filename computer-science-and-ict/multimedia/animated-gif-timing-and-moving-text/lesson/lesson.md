@@ -10,11 +10,15 @@ An animated GIF is a row of still frames shown one after another; the **delay** 
 
 In your mind's eye: frame delay — the clock of a GIF.
 
+[Picture 46187 — frame delay — the clock of a GIF]
+
 ## Sub lesson 2 — Moving text — words that travel
 
 Text joins the animation by **changing position frame by frame**: the same text layer is copied across frames, shifted a little each time, so the words appear to **glide** — entering from an edge, crossing, or rising. The craft rules are a animator's: move in **small equal steps** for smoothness, keep the text **readable** (it must stay long enough to be read — its frames get longer delays), and let the text's motion serve the message, not fight it.
 
 In your mind's eye: moving text — words that travel.
+
+[Picture 46188 — moving text — words that travel]
 
 ## Say it to your companion
 

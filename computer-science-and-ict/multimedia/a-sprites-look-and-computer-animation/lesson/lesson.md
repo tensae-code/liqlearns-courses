@@ -10,6 +10,8 @@ Grade 4 returns to the sprite's **appearance (Външен вид на геро�
 
 In your mind's eye: a picture of the Scratch paint editor open on a sprite's costume being edited, with a row of four costumes below it — a bird with wings down, half up, up, half up. Ready to switch in order.
 
+[Picture 46179 — a picture of the Scratch paint editor open on a sprite's costume being edited, with a row of four costumes below it — a bird with wings down, half up, up, half up. Ready to switch in order]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A sprite's look is made in the Scratch paint editor — drawn, coloured and changed costume by costume — and a row of looks, switched in order, is computer animation. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

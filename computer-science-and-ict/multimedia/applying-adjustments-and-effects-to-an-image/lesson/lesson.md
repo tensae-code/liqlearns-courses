@@ -10,11 +10,15 @@ A photograph comes off the camera honest but flat — too dark, too pale, colour
 
 In your mind's eye: adjustments — correcting the picture.
 
+[Picture 46191 — adjustments — correcting the picture]
+
 ## Sub lesson 2 — Effects — changing the mood on purpose
 
 **Effects** are deliberate changes of look: a picture turned **black and white**, warmed, blurred at its edges, or given an aged or painted appearance. An effect is chosen for the picture's job — a serious portrait, a poster, an old-story illustration — and applied once the picture is correct. Adjustment repairs; effect dresses: Class VII teaches them in that order, in one chapter, because the second without the first is decoration on a fault.
 
 In your mind's eye: effects — changing the mood on purpose.
+
+[Picture 46192 — effects — changing the mood on purpose]
 
 ## Say it to your companion
 

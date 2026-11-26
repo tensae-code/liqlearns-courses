@@ -10,11 +10,15 @@ Animation software shows the film as a **stage** (the picture the audience sees)
 
 In your mind's eye: the animator's workplace — stage, timeline, frames.
 
+[Picture 46189 — the animator's workplace — stage, timeline, frames]
+
 ## Sub lesson 2 — Layers and the first moving scene
 
 Work is organised in **layers**: the background on one layer, a character on another, so each can change without redrawing the rest. A first animation moves one thing simply — a ball bouncing, a face blinking — by **drawing the change frame by frame** (or setting key positions the software fills between). The discipline of the first steps: **few frames, one moving thing, play it often** — the beginner who plays every three frames never builds an error too big to find.
 
 In your mind's eye: layers and the first moving scene.
+
+[Picture 46190 — layers and the first moving scene]
 
 ## Say it to your companion
 
