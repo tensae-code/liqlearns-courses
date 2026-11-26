@@ -10,17 +10,23 @@ Before you read on, hold this lesson's one thing in mind: 10 November 1989 ends 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62456 — 10 november 1989]
+
 ## Sub lesson 2 — Lesson 64: The end of the communist regime
 
 Zhivkov falls on 10 November 1989 and the regime ends (Lesson 64: The end of the communist regime)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62457 — zhivkov falls]
+
 ## Sub lesson 3 — Lesson 65 + Historical Laboratory: The Bulgarian transition to democracy; the Constitution of the Republic of Bulgaria
 
 Round tables, first free elections and the 1991 Constitution — democracy's foundation and pillar (Lesson 65 + Historical Laboratory: The Bulgarian transition to democracy; the Constitution of the Republic of Bulgaria)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62458 — round tables a constitution]
 
 ## Say it to your companion
 

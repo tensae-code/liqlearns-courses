@@ -10,11 +10,15 @@ Parties, courts and a maturing parliamentary life close the century under Stoilo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62461 — a maturing parliament]
+
 ## Sub lesson 2 — Lesson 44: Bulgaria at the end of the 19th and the beginning of the 20th century
 
 A generation after liberation, Bulgaria stands as a modernising Balkan kingdom (Lesson 44: Bulgaria at the end of the 19th and the beginning of the 20th century)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62462 — a modernising kingdom]
 
 ## Say it to your companion
 

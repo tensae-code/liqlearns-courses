@@ -10,6 +10,8 @@ the April Uprising is drowned in blood and the Batak massacre shocks Europe's ne
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62455 — drawn great cut down]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: Bulgaria 1876–1878 — the April Uprising is drowned in blood and the Batak massacre shocks Europe's newspapers; Russia declares war in 1877 and the Treaty of San Stefano draws a great Bulgaria — which frightens London and Vienna into the Congress of Berlin, cutting it into a tributary principality and an autonomous Eastern Rumelia still under the sultan. Then let your companion ask you one hard question about it — answer from the lesson.

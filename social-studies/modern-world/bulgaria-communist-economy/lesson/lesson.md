@@ -10,11 +10,15 @@ Collectivisation takes the land and forced industrialisation remakes village and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62473 — land taken towns remade]
+
 ## Sub lesson 2 — Lesson 61 + Historical Laboratory: Economic and social changes; the woman in socialist society
 
 Planned industry and the socialist woman — "tears in the eyes, stars in the hair" (Lesson 61 + Historical Laboratory: Economic and social changes; the woman in socialist society)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62474 — the socialist woman]
 
 ## Say it to your companion
 

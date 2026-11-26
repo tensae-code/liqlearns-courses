@@ -10,11 +10,15 @@ Bulgarians fight the Greek Patriarchate for their own church — the first natio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62469 — the first cause won]
+
 ## Sub lesson 2 — Lesson 33: The movement for an independent Bulgarian church
 
 The struggle for the Exarchate (1870) wins the first national institution (Lesson 33: The movement for an independent Bulgarian church)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62470 — the exarchate 1870]
 
 ## Say it to your companion
 

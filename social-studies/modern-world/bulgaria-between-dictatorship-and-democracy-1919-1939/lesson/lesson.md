@@ -10,11 +10,15 @@ Agrarian rule, coups and royal authoritarianism swing Bulgaria between dictators
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62465 — swinging between two poles]
+
 ## Sub lesson 2 — Lessons 51–52: Between dictatorship and democracy (1919–1931); from constitutional to authoritarian regime (1931–1939)
 
 Stamboliyski, the 1923 and 1934 coups, and the Tsar's authoritarian turn (Lessons 51–52: Between dictatorship and democracy (1919–1931); from constitutional to authoritarian regime (1931–1939))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62466 — coups and a royal turn]
 
 ## Say it to your companion
 

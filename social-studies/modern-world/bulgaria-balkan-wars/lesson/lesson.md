@@ -10,11 +10,15 @@ The Balkan Wars — victory over the Ottomans, then catastrophe against former a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62463 — the fire of the balkans]
+
 ## Sub lesson 2 — Lesson 49: Triumph and pogrom — the Balkan Wars
 
 Triumph over the Ottomans, then the 1913 pogrom between allies (Lesson 49: Triumph and pogrom — the Balkan Wars)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62464 — triumph and pogrom]
 
 ## Say it to your companion
 

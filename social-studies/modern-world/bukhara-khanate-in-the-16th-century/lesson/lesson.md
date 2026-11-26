@@ -10,6 +10,8 @@ under Abdullah Khan II Bukhara reaches its greatest extent, mints money, builds 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62454 — bukhara at its greatest]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. I §§5, 7–8 The Bukhara Khanate; Its political and economic situation in the 16th century; Its foreign policy — under Abdullah Khan II Bukhara reaches its greatest extent, mints money, builds caravanserais and treats with Iran, India and Muscovy. Then let your companion ask you one hard question about it — answer from the lesson.

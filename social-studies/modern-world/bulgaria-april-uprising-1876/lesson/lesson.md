@@ -10,11 +10,15 @@ The April Uprising rises and is drowned in blood — and Europe finally hears of
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62459 — europe finally hears]
+
 ## Sub lesson 2 — Lesson 36: The April Uprising of 1876
 
 Koprivshtitsa rises; Batak's massacre turns Europe's conscience (Lesson 36: The April Uprising of 1876)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62460 — batak turns europe]
 
 ## Say it to your companion
 

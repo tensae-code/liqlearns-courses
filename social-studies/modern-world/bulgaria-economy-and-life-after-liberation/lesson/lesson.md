@@ -10,6 +10,8 @@ Railways, factories and new towns change how Bulgarians work and live (Lessons 1
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62477 — railways factories new towns]
+
 ## Sub lesson 2 — Lessons 46–47: The Bulgarian economy at the end of the 19th and beginning of the 20th century; the changing Bulgarian society
 
 Industry, banks and a changing society carry Bulgaria into the new century (Lessons 46–47: The Bulgarian economy at the end of the 19th and beginning of the 20th century; the changing Bulgarian society)

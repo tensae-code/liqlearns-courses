@@ -10,11 +10,15 @@ The 9 September 1944 coup and the Fatherland Front impose communist rule under S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62475 — 9 september 1944]
+
 ## Sub lesson 2 — Lesson 58: The illusions of "people's democracy"
 
 The Fatherland Front's "people's democracy" shows its illusions as the communists take hold (Lesson 58: The illusions of "people's democracy")
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62476 — illusions of peoples democracy]
 
 ## Say it to your companion
 

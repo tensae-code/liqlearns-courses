@@ -10,11 +10,15 @@ Bulgarians left in Macedonia and Thrace under Ottoman rule keep the national cau
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62467 — the cause kept alive]
+
 ## Sub lesson 2 — Lesson 45: The Bulgarians outside the borders of the free state
 
 Macedonia's Bulgarians organise schools, churches and finally arms (Lesson 45: The Bulgarians outside the borders of the free state)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62468 — schools churches arms]
 
 ## Say it to your companion
 

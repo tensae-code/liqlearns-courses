@@ -10,11 +10,15 @@ Bulgaria sits as the Soviet Union's most loyal satellite through the Cold War (L
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62471 — the most loyal satellite]
+
 ## Sub lesson 2 — Lesson 62: Bulgaria behind the "Iron Curtain"
 
 Behind the Iron Curtain, Bulgaria is the Warsaw Pact's most faithful member (Lesson 62: Bulgaria behind the "Iron Curtain")
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62472 — behind the iron curtain]
 
 ## Say it to your companion
 
