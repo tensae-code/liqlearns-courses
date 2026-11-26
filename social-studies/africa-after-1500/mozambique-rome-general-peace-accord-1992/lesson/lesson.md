@@ -10,11 +10,15 @@ After 16 years of war between the Government and RENAMO, negotiators in Rome fin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39206 — two negotiators shaking hands, guns laid down]
+
 ## Sub lesson 2 — The importance of the Rome Accord
 
 Peace after 16 years of war — the lesson weighs what the Rome Accord made possible for Mozambique's recovery
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39207 — a hut, a reopened school, a traveller on a road]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ In the south it is South African mining capital that rules; southern Mozambique'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39199 — walking men with bundles and a mine headgear]
+
 ## Sub lesson 2 — Labour export continues
 
 Salazar preaches ending dependence on foreign capital, yet the Estado Novo keeps exporting Mozambican labour — the contradiction at the regime's heart
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39200 — a crossed-out speech panel above a line of workers]
 
 ## Say it to your companion
 

@@ -114,11 +114,15 @@ Fascist rule wars on the Libyan personality itself — gatherings and clubs bann
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39186 — three panels — banned gathering, seized land, committees abroad]
+
 ## Sub lesson 15 — Liberation and independence
 
 At Alexandria in October 1939 the exiles rally to Idris, and the Cairo conference of 9 August 1940 raises the Libyan Arab Forces — 14,000 men who advance with the Allies from Egypt — and after the years of military administration and the United Nations road, the independent Libyan Kingdom is proclaimed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39187 — marching exile soldiers and a crowned king]
 
 ## Say it to your companion
 

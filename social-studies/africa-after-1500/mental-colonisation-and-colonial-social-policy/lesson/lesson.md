@@ -10,6 +10,8 @@ Domination needs submission; the colonial state builds a social policy of mental
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39197 — a teacher pointing at a homeland poster, children at desks]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Mental colonisation — domination needs submission; the colonial state builds a social policy of mental colonisation to win African collaboration with its own subjection. Then let your companion ask you one hard question about it — answer from the lesson.

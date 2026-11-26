@@ -10,6 +10,8 @@ The armed struggle forces the Lusaka Accords and a transition government; on 25 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39205 — Mozambique's flag rising before a crowd]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Independence proclaimed — the People's Republic — the armed struggle forces the Lusaka Accords and a transition government; on 25 June 1975 independence is proclaimed and the People's Republic is born. Then let your companion ask you one hard question about it — answer from the lesson.

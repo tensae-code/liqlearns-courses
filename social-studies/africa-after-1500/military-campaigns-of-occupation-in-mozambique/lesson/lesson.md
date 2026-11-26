@@ -10,6 +10,8 @@ Lines on a map do not conquer a country; African communities resist the threat t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39201 — a map-lines panel, marching troops, a resisting village]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The military campaigns of occupation — lines on a map do not conquer a country; African communities resist the threat to their sovereignty, and Portugal answers with military campaigns. Then let your companion ask you one hard question about it — answer from the lesson.

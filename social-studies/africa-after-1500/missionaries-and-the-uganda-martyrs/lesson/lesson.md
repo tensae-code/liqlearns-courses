@@ -10,6 +10,8 @@ CMS Protestants come first, Verona Fathers reach the north in 1910, Apollo Kiveb
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39202 — a mission church, pages on a road, a shrine]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Christian Missionaries in Uganda — CMS Protestants come first, Verona Fathers reach the north in 1910, Apollo Kivebulaya becomes "apostle to the pygmies" — and at Namugongo on 3 June 1886 Kizito and his fellow pages are burned, the Uganda Martyrs whose shrine still marks the walk to death. Then let your companion ask you one hard question about it — answer from the lesson.

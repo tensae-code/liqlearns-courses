@@ -10,6 +10,8 @@ Shaka's wars scatter peoples across Southern Africa. This scattering is the Mfec
 
 In your mind's eye: peoples scattering from Zululand in many directions, founding new kingdoms marked Lesotho, Ndebele, Gaza and Ngoni. The student traces each new state to its builder.
 
+[Picture 39198 — arrows scattering from Zululand to four flagged states]
+
 ## Sub lesson 2 — New kingdoms — and emptied land
 
 Scattered peoples build new kingdoms: Moshoeshoe's Lesotho, Mzilikazi's Ndebele, Soshangane's Gaza and the Ngoni. Emptied land invites the Boers in.

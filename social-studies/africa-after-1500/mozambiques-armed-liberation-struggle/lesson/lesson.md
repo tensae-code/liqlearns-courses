@@ -10,11 +10,15 @@ Refused a peaceful path, Mozambicans take up arms on 25 September 1964; the libe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39208 — three fighters between great trees, a date panel]
+
 ## Sub lesson 2 — The launch of the armed struggle
 
 Faced with Lisbon's refusal to negotiate, the united front launches the armed liberation struggle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39209 — three figures joining hands under a banner, a fighter setting out]
 
 ## Say it to your companion
 

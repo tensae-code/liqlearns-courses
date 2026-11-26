@@ -9,26 +9,36 @@ Before you read on, hold this lesson's one thing in mind: Why did armed resistan
 Why did armed resistance not stop when its greatest heroes fell, martyr or prisoner, before 1912 — and who succeeded them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39190 — a fallen hero, his banner, and successors]
 ## Sub lesson 2 — Lesson 11: The resistance in Mauritania
 
 Mauritanians take up arms against the occupation rather than submit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39191 — turbaned fighters with rifles facing a post]
 ## Sub lesson 3 — Lesson 12: The battles and heroes of the resistance
 
 Named battles and named heroes carry the resistance story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39192 — three turbaned heroes over crossed weapons]
 ## Sub lesson 4 — Lesson 3: Colonialism and resistance in Mauritania — the resistance
 
 The resistance the conquest provokes is taught in the same lesson as the conquest itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39193 — a conquest column and resisters across a red line]
 ## Sub lesson 5 — Lesson 9: Colonialism and resistance in Mauritania — the resistance
 
 The armed answer to the occupation, taught with it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39194 — fighters on a dune facing a crenellated post]
 
 ## Say it to your companion
 
