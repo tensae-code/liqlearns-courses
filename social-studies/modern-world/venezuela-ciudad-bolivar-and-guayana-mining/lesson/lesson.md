@@ -10,11 +10,15 @@ Ciudad Bolívar fights its last battle as river port while gold and iron make Gu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39809 — miningpole]
+
 ## Sub lesson 2 — Guayana: wealth, beauty, refuge of liberty
 
 Ciudad Bolívar, founded in the colonial period on the Orinoco's bank, anchors a Guayana sold to children as riches and a refuge of freedom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39808 — orinoco]
 
 ## Say it to your companion
 

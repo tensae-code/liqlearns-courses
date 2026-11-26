@@ -10,6 +10,8 @@ Even under dictatorship, literature, art and thought find new paths — culture 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39796 — culture]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Culture takes new directions despite the government's brake — even under dictatorship, literature, art and thought find new paths — culture outrunning the censor. Then let your companion ask you one hard question about it — answer from the lesson.

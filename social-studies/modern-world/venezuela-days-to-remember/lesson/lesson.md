@@ -10,11 +10,15 @@ The school year is pinned to shared dates, among them 12 October, Day of Indigen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39795 — pinned]
+
 ## Sub lesson 2 — October at school: the Day of Indigenous Resistance
 
 Soon after classes begin the school remembers October's resistance day, turning the calendar itself into a history lesson
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39794 — october]
 
 ## Say it to your companion
 

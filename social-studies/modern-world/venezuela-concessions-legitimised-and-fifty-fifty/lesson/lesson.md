@@ -10,11 +10,15 @@ A famous gusher announces Venezuela's wealth to the world, the 1943 Hydrocarbons
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39801 — gusher]
+
 ## Sub lesson 2 — When our black gold gained commercial importance
 
 Under Gómez the concessions expand, the state lives off oil rent, and Venezuela becomes an oil country in fact
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39800 — rentstate]
 
 ## Say it to your companion
 

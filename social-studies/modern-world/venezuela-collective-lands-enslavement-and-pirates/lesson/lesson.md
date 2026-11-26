@@ -10,11 +10,15 @@ Communal indigenous lands gain foreign owners, enslaved people rebel, colonists 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39807 — pirates]
+
 ## Sub lesson 2 — When private property appeared in Our America; the encomienda
 
 Communal land becomes private property and the encomienda turns indigenous labour into a grant — a new way to exploit the worker
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39806 — encomienda]
 
 ## Say it to your companion
 

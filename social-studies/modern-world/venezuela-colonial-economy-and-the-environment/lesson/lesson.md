@@ -10,6 +10,8 @@ Mines, plantations and cattle remake the land itself — the colonial economy le
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39805 — landremade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Impact of the colonial economy on the environment — mines, plantations and cattle remake the land itself — the colonial economy leaves an environmental debt. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Provinces hang from the Real Audiencia until the 1786 Real Audiencia de Caracas 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39804 — audiencia]
+
 ## Sub lesson 2 — Political-territorial organisation of Our America
 
 Captaincies, audiencias and provinces draw the colonial map whose lines the republics will inherit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39803 — colonialmap]
 
 ## Say it to your companion
 

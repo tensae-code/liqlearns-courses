@@ -10,6 +10,8 @@ A first rebellion in the lost Inca's lands, a conspiracy betrayed, Miranda embar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39787 — attempts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: From failed attempts to the Revolution of 1810 — a first rebellion in the lost Inca's lands, a conspiracy betrayed, Miranda embarking on the Leander — until the creoles decide to act on a 19 April that passed into history. Then let your companion ask you one hard question about it — answer from the lesson.

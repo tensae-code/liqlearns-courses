@@ -10,6 +10,8 @@ At Angostura Bolívar founds Colombia in speech and law, and Cúcuta gives the u
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39799 — congresses]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Congresses of Angostura and Cúcuta — at Angostura Bolívar founds Colombia in speech and law, and Cúcuta gives the union its constitution. Then let your companion ask you one hard question about it — answer from the lesson.

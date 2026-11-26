@@ -10,11 +10,15 @@ The new separate republic lives off its farms and herds, and its society keeps t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39791 — newflags]
+
 ## Sub lesson 2 — Venezuela at the start of our republican life
 
 In 1830 the new republic is exhausted by war, farms and herds ruined, population fallen, and foreign commercial houses move in to control its markets
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39790 — exhausted]
 
 ## Say it to your companion
 

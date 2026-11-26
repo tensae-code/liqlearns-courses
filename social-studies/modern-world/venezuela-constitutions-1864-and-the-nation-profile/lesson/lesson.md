@@ -10,6 +10,8 @@ After the Federal War the 1864 constitution gives the country a new name and the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39798 — newname]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part I: a republic called Estados Unidos de Venezuela, 1864–1953 — after the Federal War the 1864 constitution gives the country a new name and the long search begins for a national profile that Guzmán Blanco's governments finally fix. Then let your companion ask you one hard question about it — answer from the lesson.

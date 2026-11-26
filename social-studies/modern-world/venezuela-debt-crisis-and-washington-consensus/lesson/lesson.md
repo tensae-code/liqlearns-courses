@@ -10,6 +10,8 @@ The debt becomes a feast for the dominant class, and the Washington Consensus wr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39793 — debt]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The 1985 debt dead-end and the Washington Consensus — the debt becomes a feast for the dominant class, and the Washington Consensus writes the rules Venezuela must obey to keep borrowing. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Rebellions and conspiracies across the century rehearse the emancipation to come
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39789 — risings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Libertarian movements of the eighteenth century — rebellions and conspiracies across the century rehearse the emancipation to come. Then let your companion ask you one hard question about it — answer from the lesson.

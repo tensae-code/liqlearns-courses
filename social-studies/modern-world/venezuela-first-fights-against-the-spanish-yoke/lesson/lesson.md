@@ -10,6 +10,8 @@ Zambo rebel José Leonardo Chirino rises at Coro and the rebels take the city; t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39786 — chirino]
+
 ## Sub lesson 2 — Conspiracy of Gual and España (1797)
 
 Gual and España conspire in La Guaira for a republic of equals and are betrayed and executed

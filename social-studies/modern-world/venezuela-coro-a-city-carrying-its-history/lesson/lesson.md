@@ -10,6 +10,8 @@ Coro, first capital of the province of Venezuela, answers "present!" again in th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39797 — present]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Coro, a city with its history on its back — Coro, first capital of the province of Venezuela, answers "present!" again in the independence struggles and carries both pasts into the twentieth century. Then let your companion ask you one hard question about it — answer from the lesson.

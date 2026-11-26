@@ -10,6 +10,8 @@ Colonial society is sorted by colour into castes with different rights — an in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39802 — castes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The colours of an unequal society — colonial society is sorted by colour into castes with different rights — an inequality the present still inherits. Then let your companion ask you one hard question about it — answer from the lesson.
