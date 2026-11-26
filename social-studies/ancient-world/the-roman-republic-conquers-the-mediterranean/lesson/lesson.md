@@ -10,6 +10,8 @@ the republic of 509 BC fights its way down Italy and across the sea — Hannibal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61801 — elephants over the alps]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea V, Lecția 3: Republica Romană. Expansiunea Romei — the republic of 509 BC fights its way down Italy and across the sea — Hannibal crosses the Alps with elephants, Caesar defeats Pompey on three continents and is made dictator. Then let your companion ask you one hard question about it — answer from the lesson.

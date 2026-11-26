@@ -10,17 +10,23 @@ Tigran (95–55 BCE) builds an empire from sea to sea, founds Tigranakert, and m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61816 — sea to sea]
+
 ## Sub lesson 2 — 3.3 The Armenian–Roman wars and the decline of Tigran's empire
 
 Lucullus and Pompey invade, Tigran keeps his crown but loses the empire, and Armenia becomes the prize Rome and Parthia fight over
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61817 — the crown kept the empire lost]
+
 ## Sub lesson 3 — Teaching guidance for Themes 2–3, Yervanduni and Artashesian Armenia
 
 teachers stage the debate over Tigran's sea-to-sea empire — how it rose, and what its fall cost
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61818 — debating tigrans empire]
 
 ## Say it to your companion
 

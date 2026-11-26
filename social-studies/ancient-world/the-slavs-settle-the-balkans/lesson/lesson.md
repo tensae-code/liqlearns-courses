@@ -10,6 +10,8 @@ The child's ancestors walk into the Balkans behind the Avar wars and stay.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61807 — the ancestors walk in and stay]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2 The arrival of the ancestors of the Montenegrins and the South Slavs in the Balkans: South Slavs settle around the middle and lower Danube; Avars arrive in Pannonia in the later 6th century and Slavs and Avars together raid Byzantine provinces to Thessalonica. Then let your companion ask you one hard question about it — answer from the lesson.

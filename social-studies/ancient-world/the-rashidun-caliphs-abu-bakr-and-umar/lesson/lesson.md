@@ -16,11 +16,15 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 The four caliphs who ruled by consultation after the Prophet carry the young community through its first crisis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61795 — four caliphs by consultation]
 ## Sub lesson 3 — Lesson 4: The Rashidun caliphate — Abu Bakr and Umar
 
 The first two caliphs hold and expand the community
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61796 — hold and expand]
 
 ## Say it to your companion
 

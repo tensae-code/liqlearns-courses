@@ -10,6 +10,8 @@ Bangladesh's Grade 6 book gives the world's first cities a name borrowed from Go
 
 In your mind's eye: an early river-valley city — walls, a temple tower, scribes writing, boats on the river and fields beyond. The student points to the writing and says why writing is a city thing.
 
+[Picture 61812 — no surplus no city]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: The Urban Revolution and river-valley civilisations. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Thracian tribes and kingdoms — Sitalk and the Odrysians — rule the Balkans b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61809 — sitalk and the odrysians]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 2: The Thracians — social and political development — Thracian tribes and kingdoms — Sitalk and the Odrysians — rule the Balkans before Rome. Then let your companion ask you one hard question about it — answer from the lesson.

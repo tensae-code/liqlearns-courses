@@ -10,11 +10,15 @@ exhausted by faction fights, the communes hand power to one lord — Visconti, E
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61798 — liberty traded for order]
+
 ## Sub lesson 2 — Dal comune alla signoria; Firenze e Venezia; I Regni di Napoli e di Sicilia; Lo Stato della Chiesa; L'Italia delle Regioni
 
 signori replace communes, Florence and Venice become regional states, and Italy settles into five powers — the map the French invasions will shatter
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61799 — italy settles into five powers]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The Vikings are studied as a whole depth study — their land, raids, voyages, e
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61814 — the vikings studied whole]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 4a: The Vikings — The Vikings are studied as a whole depth study — their land, raids, voyages, everyday life and legacy (contents, printed p. 214). Then let your companion ask you one hard question about it — answer from the lesson.

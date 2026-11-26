@@ -10,6 +10,8 @@ the Shakya clan of Kapilavastu — the republican gana from which Siddhartha Gau
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61804 — the buddhas republican clan]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The History of the Shakya Lineage. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Augustus, remembering Caesar's fate, gathers all power quietly and rules 41 year
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61800 — quiet power greatest extent]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea V, Lecția 4: Imperiul Roman — Augustus, remembering Caesar's fate, gathers all power quietly and rules 41 years; under Trajan the empire turns outward again to its greatest extent. Then let your companion ask you one hard question about it — answer from the lesson.

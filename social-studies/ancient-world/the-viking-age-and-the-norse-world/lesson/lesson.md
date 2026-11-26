@@ -10,6 +10,8 @@ a seafaring people builds ever better ships, and the ships open the world — th
 
 In your mind's eye: a Norse ship under sail, a turf hall and the open field at Þingvellir. Name the ship, the hall and the assembly field.
 
+[Picture 61813 — the ships open the world]
+
 ## Sub lesson 2 — What a Viking was, 800–1050
 
 not everyone in the age was a Viking — "to go a-viking" was a job, not a people (Víkingaöld, student book pp. 14–15)

@@ -10,6 +10,8 @@ Orpheus, rock sanctuaries, golden treasures and royal tombs — the Thracian inh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61815 — orpheus and golden treasures]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 3: Religious beliefs and cultural heritage of the ancient Thracians — Orpheus, rock sanctuaries, golden treasures and royal tombs — the Thracian inheritance. Then let your companion ask you one hard question about it — answer from the lesson.

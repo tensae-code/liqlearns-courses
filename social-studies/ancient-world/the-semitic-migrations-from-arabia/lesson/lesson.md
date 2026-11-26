@@ -10,6 +10,8 @@ Arabia slowly dries, and from about 3500 BCE Semitic tribes wave out toward Pale
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61803 — waves out of a drying arabia]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Semitic migrations — Arabia slowly dries, and from about 3500 BCE Semitic tribes wave out toward Palestine, Sinai, the Nile Delta and North Africa, mixing with the peoples they find. Then let your companion ask you one hard question about it — answer from the lesson.

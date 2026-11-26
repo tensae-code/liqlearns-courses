@@ -12,6 +12,8 @@ The empire the dynasty rules is vast, and Damascus governs it as a hereditary mo
 
 In your mind's eye: damascus as the Umayyad capital — the great mosque's courtyard, officials and messengers setting out for the provinces of a wide empire. The student points to the capital and says from where the empire is now ruled.
 
+[Picture 61811 — chosen or born]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: The caliphate becomes a dynasty at Damascus. Then let your companion ask you one hard question about it — answer from the lesson.

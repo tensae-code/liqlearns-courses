@@ -10,6 +10,8 @@ An island people spread across an archipelago — villages, ball courts and sea 
 
 In your mind's eye: a Taïno village on Quisqueya with its ball court. Name two things that linked the island's communities.
 
+[Picture 61808 — villages linked by sea paths]
+
 ## Sub lesson 2 — The Taïno and the caciquat
 
 Chiefs called caciques rule the villages — but pupils test whether the 'caciquat' they read about is taïno reality or a shape imposed by spanish writers (Séance 3, Les Taïno et le caciquat, des constructions ethno-historiques ?)
