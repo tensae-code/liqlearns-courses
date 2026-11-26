@@ -10,6 +10,8 @@ Otrar, Taraz and Syganak flower as trade makes urban culture
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61170 — trade makes cities flower]
+
 ## Sub lesson 2 — §24 Stone-working, fine, pottery and applied art of the ancient Turks
 
 Turkic craftsmen carve, paint and fire the goods the caravans carry

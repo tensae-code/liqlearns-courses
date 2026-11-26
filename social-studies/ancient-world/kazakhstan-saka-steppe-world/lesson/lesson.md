@@ -218,11 +218,15 @@ clans and tribal unions hold Saka society together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61147 — clans within unions]
+
 ## Sub lesson 28 — §38 Queen Tomiris (Tumar)
 
 Tomiris defeats Cyrus and ends the Persian king's life at the river battle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61148 — tomiris ends cyrus]
 
 ## Sub lesson 29 — §39 The Sakas' social structure
 
@@ -230,11 +234,15 @@ kings, warriors, herders and slaves take their places in Saka order
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61149 — the saka order]
+
 ## Sub lesson 30 — §40 Shirak's feat
 
 the shepherd Shirak cripples himself to doom the Persian army in the desert
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61150 — shiraks sacrifice]
 
 ## Sub lesson 31 — §41 Saka tribes' relations with neighbouring countries
 
@@ -242,11 +250,15 @@ Sakas trade, raid and treat with Persia, Bactria and China
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61151 — trade raid and treat]
+
 ## Sub lesson 32 — 2.1 Mastering iron in Kazakhstan (lesson plans)
 
 iron's arrival is taught as the turn into the nomad age
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61152 — the lesson mastering iron]
 
 ## Sub lesson 33 — 3.1 Historical information about the Sakas (lesson plans)
 
@@ -254,11 +266,15 @@ Persian and Greek texts are read against the Saka map
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61153 — the lesson the sources]
+
 ## Sub lesson 34 — 3.2 The Golden Man find (lesson plans)
 
 the Issyk discovery is staged as an archaeology detective lesson
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61154 — the lesson the golden man]
 
 ## Sub lesson 35 — 3.3 Shilikty and Besshatyr royal kurgans (lesson plans)
 
@@ -266,11 +282,15 @@ royal mounds are measured and compared as royal power in earth
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61155 — the lesson royal mounds]
+
 ## Sub lesson 36 — 3.4 The Berel kurgans (lesson plans)
 
 the frozen graves lesson shows preservation as a gift of the ice lens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61156 — the lesson the frozen graves]
 
 ## Sub lesson 37 — 3.5 The Tasmola archaeological culture (lesson plans)
 
@@ -278,17 +298,23 @@ moustached kurgans teach how archaeologists name a culture
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61157 — the lesson naming a culture]
+
 ## Sub lesson 38 — 3.6 Saka queen Tomiris (lesson plans)
 
 Tomiris's victory over Cyrus is read as history and as legend
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61158 — the lesson tomiris]
+
 ## Sub lesson 39 — 3.7 Shirak's feat (lesson plans)
 
 the shepherd's self-sacrifice anchors a lesson on sources and heroism
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61159 — the lesson shiraks feat]
 
 ## Say it to your companion
 
