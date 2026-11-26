@@ -10,11 +10,15 @@ In Access, a table is built in **design view**: each **field** is given a name a
 
 In your mind's eye: data types in table design view.
 
+[Picture 46532 — data types in table design view]
+
 ## Sub lesson 2 — Field properties — the type's fine settings
 
 Under the type, design view lists the field's **properties** — the fine rules for that one field: its **field size** (how long a text or how big a number may be), its **format** (how the value is shown), a **default value** that appears before anything is typed, and whether the field is **required** — must be filled — or may stay empty. Properties are set field by field, and together with the types they decide what a table will accept before a single record is entered. Set them first; correct them rarely.
 
 In your mind's eye: field properties — the type's fine settings.
+
+[Picture 46533 — field properties — the type's fine settings]
 
 ## Say it to your companion
 

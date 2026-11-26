@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Forms in Access Wizard Design Vi
 
 In your mind's eye: forms in Access Wizard Design View and Controls.
 
+[Picture 46536 — forms in Access Wizard Design View and Controls]
+
 ## Sub lesson 2 — Doing it — Forms in Access Wizard Design View and Controls in practice
 
 **Doing it — Forms in Access Wizard Design View and Controls in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Forms in Access Wizard Design View and Controls in practice.
+
+[Picture 46537 — doing it — Forms in Access Wizard Design View and Controls in practice]
 
 ## Say it to your companion
 

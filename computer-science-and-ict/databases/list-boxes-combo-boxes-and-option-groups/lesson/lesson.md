@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **List and Combo Boxes** — cover
 
 In your mind's eye: list and Combo Boxes.
 
+[Picture 46548 — list and Combo Boxes]
+
 ## Sub lesson 2 — Doing it — List Boxes Combo Boxes and Option Groups in practice
 
 **Doing it — List Boxes Combo Boxes and Option Groups in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — List Boxes Combo Boxes and Option Groups in practice.
+
+[Picture 46549 — doing it — List Boxes Combo Boxes and Option Groups in practice]
 
 ## Say it to your companion
 

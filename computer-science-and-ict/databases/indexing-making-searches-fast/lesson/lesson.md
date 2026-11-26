@@ -10,11 +10,15 @@ An **index** is a separate, sorted structure the DBMS keeps beside a table: for 
 
 In your mind's eye: the index — a book's index inside the database.
 
+[Picture 46542 — the index — a book's index inside the database]
+
 ## Sub lesson 2 — The price of the index — and choosing fields
 
 An index is not free: it takes **storage**, and every INSERT, UPDATE and DELETE must update the index too, so writes grow slower as indexes multiply. The designer's craft is choosing: index the fields searches actually use — the key, the name looked up daily — and leave the rest unindexed. Bangladesh's exercises practise exactly this judgement on school-sized tables, where the principle can be seen whole before the tables grow beyond seeing.
 
 In your mind's eye: the price of the index — and choosing fields.
+
+[Picture 46543 — the price of the index — and choosing fields]
 
 ## Say it to your companion
 

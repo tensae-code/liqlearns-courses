@@ -10,11 +10,15 @@ Attribute **B functionally depends on A** — written **A → B** — when each 
 
 In your mind's eye: the arrow — A settles B.
 
+[Picture 46540 — the arrow — A settles B]
+
 ## Sub lesson 2 — Finding and using dependencies
 
 Dependencies are **found** by testing pairs with the meaning test: 'if I know this, do I always know that?' — checked against the world's rules (an ISBN settles a book's title; a book's title settles nothing). A table's dependencies are listed in full before normalisation begins, because normalisation is nothing but acting on them: where a non-key attribute depends on **part** of a key, or on **another non-key attribute**, the design carries a fault the dependencies have already named. The arrow list is the diagnosis; normalisation is the cure.
 
 In your mind's eye: finding and using dependencies.
+
+[Picture 46541 — finding and using dependencies]
 
 ## Say it to your companion
 

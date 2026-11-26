@@ -10,11 +10,15 @@ When Python runs a SELECT, the results wait on the **cursor** — the query's an
 
 In your mind's eye: the cursor and its rows — answers waiting to be fetched.
 
+[Picture 46530 — the cursor and its rows — answers waiting to be fetched]
+
 ## Sub lesson 2 — fetchone, fetchmany, fetchall — one, some, all
 
 The three fetches differ only in appetite. **fetchone** takes the **next one row** — for questions with a single answer. **fetchmany** takes the **next counted rows** — for answers too big to hold at once, taken in mouthfuls. **fetchall** takes **every remaining row** at once, as a list — right for the course's landmark tables, dangerous for a million-row store. Choosing the fetch is choosing how the program will hold the answer, and Kuwait teaches the choice as part of querying, not after it.
 
 In your mind's eye: fetchone, fetchmany, fetchall — one, some, all.
+
+[Picture 46531 — fetchone, fetchmany, fetchall — one, some, all]
 
 ## Say it to your companion
 

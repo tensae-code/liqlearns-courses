@@ -10,11 +10,15 @@ Storing is only half a database's promise — the other half is getting the righ
 
 In your mind's eye: retrieval — asking the store a question.
 
+[Picture 46544 — retrieval — asking the store a question]
+
 ## Sub lesson 2 — How a retrieval is asked — and judged
 
 A retrieval is asked as a **request in the system's terms**: the field to search, the value to find, the conditions to meet. Its quality is judged two ways — did it return **everything that matches** (nothing wanted missing), and **only what matches** (nothing unwanted mixed in)? A school retrieval shows both: 'all Year 11 pupils in Suva' must bring every such pupil and no Year 12 visitor. Fast, complete and exact — that is retrieval doing the job storage promised.
 
 In your mind's eye: how a retrieval is asked — and judged.
+
+[Picture 46545 — how a retrieval is asked — and judged]
 
 ## Say it to your companion
 

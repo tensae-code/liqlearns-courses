@@ -10,11 +10,15 @@ Data is represented — given a form people and programs can work with — as **
 
 In your mind's eye: the forms — text, number, table, diagram, picture, sound.
 
+[Picture 46538 — the forms — text, number, table, diagram, picture, sound]
+
 ## Sub lesson 2 — Choosing the form — the same data, the right shape
 
 Representation is a choice, and the choice changes what the data says. A term's marks as a **table** invite lookup; as a **bar chart** they invite comparison; as one **average number** they invite a verdict — and hide every individual. The rules: match the form to the question (find one value → table; compare → chart; tell a story → text or picture), keep the form honest (axes that start at zero, labels that say what the numbers are), and remember every form drops something — name what your chosen form drops.
 
 In your mind's eye: choosing the form — the same data, the right shape.
+
+[Picture 46539 — choosing the form — the same data, the right shape]
 
 ## Say it to your companion
 
