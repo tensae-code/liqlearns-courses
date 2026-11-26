@@ -10,11 +10,15 @@ HTML says what a page *is*; something else must say how it *looks*. Fiji's Year 
 
 In your mind's eye: style, separated — the CSS idea.
 
+[Picture 45866 — style, separated — the CSS idea]
+
 ## Sub lesson 2 — Rules and the cascade — how a style takes hold
 
 A CSS **rule** names the part of the page it styles — the **selector** — and states the **declarations**: property and value pairs, such as heading colour or paragraph spacing. Sheets can be written **inside** a page or kept as a **separate file** linked by many pages — the senior course's way, since a site's look should live in one place. The **cascade** is CSS's order of authority when rules meet: the nearer and more specific rule wins. And Fiji names the modern step: **CSS3** adds the effects newer pages show — rounded shapes, shadows, movement — style growing from paint into behaviour.
 
 In your mind's eye: rules and the cascade — how a style takes hold.
+
+[Picture 45867 — rules and the cascade — how a style takes hold]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Designing an HTML page begins with its **structure**: the document's skeleton (h
 
 In your mind's eye: designing the page — structure before decoration.
 
+[Picture 45874 — designing the page — structure before decoration]
+
 ## Sub lesson 2 — The dir attribute — the page's direction
 
 The **`dir` attribute** sets direction: `dir="rtl"` makes the page read **right to left** (Arabic, Hebrew), `dir="ltr"` left to right (English and most languages), set on the `<html>` element for the whole page or on an element for its part. Direction is not a mirror-image decoration: it moves the text's start, the alignment's home, the order of inline elements and the reader's whole path. A mixed page — an Arabic page quoting English terms — is designed by setting direction **per part**, so each language reads in its own direction inside one honest page: Jordan's pupils live in that mixture, and the book teaches it as a first-class design act.
 
 In your mind's eye: the dir attribute — the page's direction.
+
+[Picture 45875 — the dir attribute — the page's direction]
 
 ## Say it to your companion
 

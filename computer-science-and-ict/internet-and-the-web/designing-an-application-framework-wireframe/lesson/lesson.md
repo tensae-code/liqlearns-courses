@@ -10,11 +10,15 @@ A **wireframe** (kerangka aplikasi — the application framework, drawn) is a **
 
 In your mind's eye: the wireframe — pages as skeletons.
 
+[Picture 45872 — the wireframe — pages as skeletons]
+
 ## Sub lesson 2 — Joining the pages — the framework whole
 
 The framework is completed by the **joins**: each page's links drawn to their target pages (menu to every main page, each list item to its detail page), until the whole site stands as a **map** a builder can follow and a client can judge. Malaysia's design step ends with that map reviewed against the brief: every promised page present, every link landing somewhere real, no page reachable by no route (an orphan). Only then does building begin — pages coded from their wireframes, styled after their skeletons stand — because a framework fault found in code costs the rebuild this drawing exists to prevent.
 
 In your mind's eye: joining the pages — the framework whole.
+
+[Picture 45873 — joining the pages — the framework whole]
 
 ## Say it to your companion
 

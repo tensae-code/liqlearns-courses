@@ -10,11 +10,15 @@ A **selector** names what a style rule hits. An element selector hits every such
 
 In your mind's eye: selectors — class for many, id for one.
 
+[Picture 45864 — selectors — class for many, id for one]
+
 ## Sub lesson 2 — Padding and margin — the air inside and outside
 
 Every element is a box, and CSS spaces it twice: **padding** is the space **inside** the box, between its border and its contents — the cushion; **margin** is the space **outside** the border, between this box and its neighbours — the elbow room. The book's practice styles **table headers and cells**: header cells padded so their words breathe, the table margined from the text around it. Confusing the two spaces is the beginner's classic fault; the picture that cures it is a framed photograph — padding is the mount inside the frame, margin is the wall around it.
 
 In your mind's eye: padding and margin — the air inside and outside.
+
+[Picture 45865 — padding and margin — the air inside and outside]
 
 ## Say it to your companion
 

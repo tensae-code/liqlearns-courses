@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **How to customize the settings of your 
 
 In your mind's eye: how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features.
 
+[Picture 45870 — how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features]
+
 ## Sub lesson 2 — Doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice
 
 This part of South Sudan's book teaches **Doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice** — covering: How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice is part of that chain..
 
 In your mind's eye: doing it — How to customize the settings of your blog. Adding authors, setting blog readers, adjusting commenting features in practice.
+
+[Picture 45871 — doing it — How to customize the settings of your blog. Adding authors, setting blog readers, adjusting commenting features in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A page often gives one element **several rules at once**: the element selector s
 
 In your mind's eye: when rules fight — the priority ladder.
 
+[Picture 45862 — when rules fight — the priority ladder]
+
 ## Sub lesson 2 — Equal priority — the cascade's last word, and working with the ladder
 
 When two rules have **equal priority**, the **later rule in the stylesheet wins** — the cascade reads top to bottom and the last word stands. The working habits follow: style generally first (elements), then classes for groups, ids sparingly for the one special element, and inline styles almost never — because a style that cannot be overridden becomes a trap when the design changes. Debugging a wrong colour is now a method: find every rule that touches the element, and climb the ladder.
 
 In your mind's eye: equal priority — the cascade's last word, and working with the ladder.
+
+[Picture 45863 — equal priority — the cascade's last word, and working with the ladder]
 
 ## Say it to your companion
 
