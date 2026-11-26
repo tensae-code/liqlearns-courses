@@ -10,6 +10,8 @@ Slavs move up from the Pripyat in the mid-1st millennium, bringing slash-and-bur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60642 — Slavs move up from the Pripyat]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The first Slavs on the territory of Belarus. Then let your companion ask you one hard question about it — answer from the lesson.

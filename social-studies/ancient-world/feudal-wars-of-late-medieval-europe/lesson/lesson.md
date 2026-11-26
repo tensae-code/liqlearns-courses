@@ -10,11 +10,15 @@ the Hundred Years War and barons' wars bleed late-medieval Europe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60622 — a hundred years of war]
+
 ## Sub lesson 2 — §15 Feudal wars in Europe
 
 the Hundred Years War and dynastic wars exhaust feudal Europe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60623 — dynastic wars exhaust Europe]
 
 ## Sub lesson 3 — §17 Feudal wars; the Hundred Years War; the Wars of the Roses
 
@@ -22,11 +26,15 @@ France and England bleed through a century of dynastic war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60624 — then the Wars of the Roses]
+
 ## Sub lesson 4 — §17 Feudal wars
 
 internecine wars teach Europe the cost of fragmented power
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60625 — fragmented power]
 
 ## Say it to your companion
 

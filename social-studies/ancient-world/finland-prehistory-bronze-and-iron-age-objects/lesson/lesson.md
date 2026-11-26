@@ -10,17 +10,23 @@ Cloak fasteners shaped like spectacles are cast in the age's new luxury metal, b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60628 — bronze spectacle brooches]
+
 ## Sub lesson 2 — Esine 2: Soikea tuluskivi (oval strike-a-light, older Iron Age, found at Lapua and Kangasala)
 
 An oval stone struck for fire-making sparks, believed to guard harvest and fertility in ritual hands.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60629 — the oval strike-a-light]
+
 ## Sub lesson 3 — Esine 3: Pronssikattila (bronze cauldron from the Levänluhta water burial, made in the Roman world, Merovingian c. 550–800)
 
 A precious Roman-made cauldron ends up in an Ostrobothnian pond used as a burial place, one of only three known in the area.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60630 — the bronze cauldron of Levänluhta]
 
 ## Say it to your companion
 

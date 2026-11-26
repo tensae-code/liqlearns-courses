@@ -10,17 +10,23 @@ Stone Age hands shape a small clay elk whose meaning is still unknown, a figure 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60631 — the clay elk idol]
+
 ## Sub lesson 2 — Esine 7: Purupihka (birch-pitch chewing gum, Stone Age)
 
 A chewed lump of birch pitch, chewed to clean teeth, still carries the tooth marks of a Stone Age chewer.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60632 — birch-pitch chewing gum]
+
 ## Sub lesson 3 — Esine 8: Korutaltta (giant green-schist gouge, Neolithic, found at Kiuruvesi)
 
 A near half-metre chisel of stone carried hundreds of kilometres, never used, is sunk in rapids — apparently an offering.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60633 — the giant green-schist gouge]
 
 ## Say it to your companion
 

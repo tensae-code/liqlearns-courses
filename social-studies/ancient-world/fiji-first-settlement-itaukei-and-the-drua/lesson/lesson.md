@@ -10,6 +10,8 @@ More than 3,000 years ago the first iTaukei island-hopped in drua canoes; chief 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60627 — the first iTaukei sail in drua]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.2.1 The Early Fijians — iTaukei. Then let your companion ask you one hard question about it — answer from the lesson.

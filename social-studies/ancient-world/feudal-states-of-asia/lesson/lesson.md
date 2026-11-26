@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Asia builds its own fe
 Asia builds its own feudal kingdoms — China, India, Japan and the Southeast Asian states — on different terms from Europe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60620 — Asia's own feudal kingdoms]
 ## Sub lesson 2 — Part II, Lesson 8: Feudal kingdoms in Asia and Southeast Asia
 
 Asia's own feudal kingdoms — mandalas, wet rice and Theravada kings
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60621 — mandalas, wet rice, Theravada kings]
 
 ## Say it to your companion
 

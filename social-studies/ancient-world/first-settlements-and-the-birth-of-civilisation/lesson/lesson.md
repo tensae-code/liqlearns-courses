@@ -10,11 +10,15 @@ beside the great rivers people settle for good, raise the first towns, and divid
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60640 — the first settlements by the rivers]
+
 ## Sub lesson 2 — Ch. 3.2 How did civilisation develop?
 
 writing, the wheel, irrigation and laws appear; a settled people's inventions become the pattern every later civilisation inherits
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60641 — writing, the wheel, irrigation, laws]
 
 ## Say it to your companion
 

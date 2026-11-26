@@ -10,6 +10,8 @@ people who cannot explain nature pray, sacrifice and paint — the Mother Goddes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60637 — the first beliefs and cave art]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea I, Lecția 4: Apariția credințelor și artei — people who cannot explain nature pray, sacrifice and paint — the Mother Goddess cult, and 15,000 cave images at Lascaux and Altamira turn walls into prayers for the hunt. Then let your companion ask you one hard question about it — answer from the lesson.
