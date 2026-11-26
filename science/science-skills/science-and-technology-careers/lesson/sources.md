@@ -1,6 +1,6 @@
 # Sources — Science and technology careers
 
-countries: Zimbabwe (teacher-guide evidence only)
+countries: Zimbabwe (teacher-guide evidence only), Venezuela
 
 ## Zimbabwe growth (2026-11-14, General Science expansion)
 
@@ -53,3 +53,17 @@ Zimbabwe's own way — Science and Technology as one integrated Heritage-Based C
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
 
 Placement choice, on the record: this NEW LESSON was built for the Zimbabwe placement(s) "NEW LESSON NEEDED — science-and-technology-careers" (7 placement(s), Zimbabwe PlusOne teacher's guides as cited above). No existing general-science lesson covers this thing as its own lesson (checked against the live repo at merge time) — so it gets its own lesson. It sits in science-skills/ and is registered in CURRICULUM.md Unit 15.
+
+## Venezuela growth (2026-11-26, Tomo II read)
+
+**Book (Venezuela — II G11):** *Ciencias Naturales 5to año (Grade 11) — Construyamos el Futuro, Tomo II (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-341-8. PDF 131 pages, 74,830,270 bytes; printed pp. 6–255+. Verdict: COMPLETE for Tomo II (lecturas 15–26 + "Algo más para saber sobre ciencia y tecnología" + Fuentes recomendadas all present). Staged: phase3-staging/grade-11/gov/venezuela/natural-sciences/student/tomo-2.pdf. Scope note, as filed: only the general/integrated parts are item-placed — lectura 18 built a NEW lesson (our-environment/the-gaia-hypothesis-the-living-earth); the pure Biology lecturas 15–17, pure Chemistry lecturas 19–21 and pure Physics lecturas 22–26 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — lectura 19 is line-noted except its environmental-impact part and lectura 24 except its "corriente eléctrica para el vivir bien" part, which are placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-26 Tomo II read (the owner's order of 2026-11-26; Tomo II had no library record — the Tomo I record called the book a single volume). Placements at liqlearns-courses-work/venezuela-tomo2-2026-11-26/venezuela-tomo2-placements.md.
+
+| Part of this lesson | Source |
+| --- | --- |
+| the study-opportunities reading: kindling your scientific spark — the 400+ degree offers in the Natural Sciences (Venezuela, Futuro II G11) | Venezuela, *Futuro II G11*, printed p. 218 |
+
+**Acceptance count: taught in 1 country (Venezuela) — Venezuela added; Zimbabwe remains teacher-guide evidence only.**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, construyamos el futuro, science-skills science-and-technology-careers

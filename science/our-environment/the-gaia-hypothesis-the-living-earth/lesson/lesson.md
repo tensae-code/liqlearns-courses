@@ -1,0 +1,27 @@
+# The Gaia hypothesis — the living Earth
+
+## Do it first
+
+Think of your own body on a cold day and a hot day. Cold, you shiver; hot, you sweat — and inside, your temperature stays almost exactly the same. Your body regulates itself. Now look at the planet: over immense stretches of time, while the Sun has slowly grown hotter, the Earth's surface has stayed within the range where liquid water and life can exist. Who — or what — does the regulating? Hold that question. This lesson teaches one famous answer.
+
+## The idea
+
+The Gaia hypothesis says the Earth keeps itself in balance: living things and the non-living world — air, oceans, rocks — work together as one self-regulating system that holds the planet's temperature and the composition of its air and seas within the limits life needs, the way a body holds its own temperature. And because we are part of that system, not outside it, how we treat the planet is how we treat ourselves.
+
+## The key facts
+
+- **Mother Earth is an old idea.** Many peoples have seen the Earth as a living mother who must be cared for: Gaia to the ancient Greeks, Pachamama in the Andes, Yemayá in Yoruba belief, the Earth Mother of the native peoples of North America. Thinkers such as Thales, Plato, Leonardo da Vinci and Kepler also spoke of the Earth as a living being, centuries before modern science.
+- **Two scientists gave the idea a scientific form.** In the 1970s James Lovelock, studying the atmosphere, worked with the biologist Lynn Margulis to propose the Gaia hypothesis. Their starting observation: the Earth's air is not what chemistry alone would produce. A dead planet's air settles into chemical equilibrium; ours holds far more oxygen and far less carbon dioxide than equilibrium would allow — and it stays that way because living things keep making and remaking it.
+- **The hypothesis in one line.** The living and non-living parts of the Earth form one system that regulates itself: the biota and the abiota together hold temperature, the saltiness and chemistry of the oceans and the mixture of gases in the air within life-friendly limits. Scientists call this kind of self-holding homeostasis — the same word used for your body keeping its temperature — here at the scale of the whole planet, and powered by the energy of the Sun.
+- **The three postulates.** Venezuela's textbook states the hypothesis in three claims: (1) living things have the capacity to control their planetary environment, and they do; (2) the environment evolves by feedback — the system responds to change and holds its balance as conditions shift, rather than following a fixed path; (3) the system's working keeps a stable environment for the biosphere — conditions under which life can continue.
+- **Daisyworld answers the critics.** Some scientists, Ford Doolittle among them, objected: regulation like this sounds as if the planet would have to plan ahead or foresee — and nature does not plan. Lovelock and Andrew Watson answered in 1983 with a mathematical model, Daisyworld. Imagine a planet covered by two kinds of daisies: black daisies, which absorb sunlight and warm the ground around them, and white daisies, which reflect sunlight and cool it. When the young, dim sun shines, black daisies thrive and warm the planet. As the sun brightens over time, white daisies spread and black ones shrink back. Nobody decides anything; growth and competition alone keep the planet's temperature nearly constant. The model shows self-regulation can emerge without any planner.
+- **"Gaia's revenge" — the crisis read through the hypothesis.** The same book reads today's environmental crisis as the system being pushed hard: climate change, desertification, fresh water growing scarce and contaminated, species and whole ecosystems being lost. It points out that the pushing is not shared evenly — roughly 20% of humanity commits about 80% of the aggressions against the planet. Push a self-regulating system far enough and its responses land on everyone: that pushback is what the book calls Gaia's revenge.
+- **The ethics the hypothesis inspires.** If we are participants in the planet's self-regulation — part of the process, not a species standing apart from the world — then the human relation with Gaia has to be rethought: all of society mobilised to educate itself in planetary homeostasis, and economies and cultures changed so they attend to people's real material needs simply, instead of centring on profit and constant growth. The book gives Murray Bookchin's social ecology as the example: a participative society where everyone can develop without discrimination and share power in a healthy, diverse environment.
+
+## Say it to your companion
+
+Say it in your own words, out loud: the Earth keeps itself in balance — living things and the non-living world together hold its temperature, air and oceans steady — and we are part of that system, not outside it. Then name one postulate, explain Daisyworld's black and white daisies, and give one item from the crisis the book lists.
+
+## Do It Yourself
+
+Build the sealed-jar world from hands-on.md: stones, soil, water and a fast-growing plant in a clear sealed jar, in the light. Observe it for two weeks — note who the producers and decomposers are, how water moves, and how living and non-living parts affect each other. Then warm it for three days and observe again. Write what your small world regulated by itself, and what the warming changed — your jar is Gaia in miniature, and its limits are the lesson.

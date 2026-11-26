@@ -1,6 +1,6 @@
 # Sources — The ozone layer and its holes
 
-countries: North Macedonia, Bangladesh, Saudi Arabia, Vietnam, Nepal, Libya, Honduras
+countries: North Macedonia, Bangladesh, Saudi Arabia, Vietnam, Nepal, Libya, Honduras, Venezuela
 
 **Book (North Macedonia — Science, Grade 6, student book):** Title as printed: Природни науки 6 — учебник за шесто одделение (Natural Sciences 6 — textbook for Grade 6). Authors: Icko Gjorgoski, Metodija Najdoski, Boce Mitrevski. Publisher: Ministry of Education and Science of the Republic of North Macedonia, Skopje, 2023 (approval decision 26-2186/1 of 15.09.2023; print run 13,438). No ISBN is printed in the book's imprint pages. PDF 194 pages; printed page numbers match PDF pages. Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — byte-identical to the books.json record (93,278,910 bytes, 194 pages). 124 of its pages carry a custom-font text layer without a character map; those pages were recovered in full by OCR and the whole book was read. Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-06/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
 
@@ -127,3 +127,17 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, our-environment/the-ozone-layer-and-its-holes
+
+## Venezuela growth (2026-11-26, Tomo II read)
+
+**Book (Venezuela — II G11):** *Ciencias Naturales 5to año (Grade 11) — Construyamos el Futuro, Tomo II (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-341-8. PDF 131 pages, 74,830,270 bytes; printed pp. 6–255+. Verdict: COMPLETE for Tomo II (lecturas 15–26 + "Algo más para saber sobre ciencia y tecnología" + Fuentes recomendadas all present). Staged: phase3-staging/grade-11/gov/venezuela/natural-sciences/student/tomo-2.pdf. Scope note, as filed: only the general/integrated parts are item-placed — lectura 18 built a NEW lesson (our-environment/the-gaia-hypothesis-the-living-earth); the pure Biology lecturas 15–17, pure Chemistry lecturas 19–21 and pure Physics lecturas 22–26 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — lectura 19 is line-noted except its environmental-impact part and lectura 24 except its "corriente eléctrica para el vivir bien" part, which are placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-26 Tomo II read (the owner's order of 2026-11-26; Tomo II had no library record — the Tomo I record called the book a single volume). Placements at liqlearns-courses-work/venezuela-tomo2-2026-11-26/venezuela-tomo2-placements.md.
+
+| Part of this lesson | Source |
+| --- | --- |
+| the environmental cost of the alkyl halides: freons/CFCs catalysing ozone breakdown, the ozone hole, the treaties replacing them, and hunting halogenated propellants in aerosols (Venezuela, Futuro II G11) | Venezuela, *Futuro II G11*, printed pp. 80–85 |
+
+**Acceptance count: taught in 8 countries — Venezuela added.**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, construyamos el futuro, our-environment the-ozone-layer-and-its-holes
