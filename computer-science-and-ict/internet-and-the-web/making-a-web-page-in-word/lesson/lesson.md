@@ -10,11 +10,15 @@ The method of this section is **conversion**: prepare the page as an ordinary **
 
 In your mind's eye: a Word document on one side and the same page in a browser on the other, with a Save As arrow between them.
 
+[Picture 45964 — a Word document on one side and the same page in a browser on the other, with a Save As arrow between them]
+
 ## Sub lesson 2 — What the conversion costs
 
 The translated code is **the editor's, not yours**: Word writes far more of it than a person would, mixes the page's content with its own formatting machinery, and ties the page to how Word chose to build it — which makes the page hard to change later by hand, and sometimes heavier to load. That is why the book does not stop here: this section is the first, easiest rung of a ladder that continues to hand-written HTML in Notepad and then to a proper site editor — each rung trading ease for control.
 
 In your mind's eye: a small visible page floating on a very large roll of code underneath it.
+
+[Picture 45965 — a small visible page floating on a very large roll of code underneath it]
 
 ## Say it to your companion
 

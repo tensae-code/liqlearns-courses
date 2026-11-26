@@ -10,11 +10,15 @@ Contacts in Outlook are the address book of the program: each contact holds a pe
 
 In your mind's eye: creating and managing contacts.
 
+[Picture 45966 — creating and managing contacts]
+
 ## Sub lesson 2 — Doing it — Creating and managing contacts in practice
 
 Managing Contacts in Outlook is learned by doing: the learner creates contacts, fills their details, finds a contact again, and keeps the list in order The learner creates contacts, fills their details, finds a contact again, and keeps the list in order Because every other Outlook skill — writing mail, inviting people to meetings — depends on the contacts being there and correct.
 
 In your mind's eye: doing it — Creating and managing contacts in practice.
+
+[Picture 45967 — doing it — Creating and managing contacts in practice]
 
 ## Say it to your companion
 

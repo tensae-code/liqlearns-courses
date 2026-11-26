@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Online Research and Digital Lite
 
 In your mind's eye: online Research and Digital Literacy.
 
+[Picture 45976 — online Research and Digital Literacy]
+
 ## Sub lesson 2 — Doing it — Online Research Kinds and Digital Literacy in practice
 
 **Doing it — Online Research Kinds and Digital Literacy in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Online Research Kinds and Digital Literacy in practice.
+
+[Picture 45977 — doing it — Online Research Kinds and Digital Literacy in practice]
 
 ## Say it to your companion
 

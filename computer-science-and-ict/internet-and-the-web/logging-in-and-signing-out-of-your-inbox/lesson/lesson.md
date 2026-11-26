@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Log in an email inbox and §2.3.
 
 In your mind's eye: log in an email inbox and §2.3.6 An appropriate use of email.
 
+[Picture 45962 — log in an email inbox and §2.3.6 An appropriate use of email]
+
 ## Sub lesson 2 — Doing it — Logging in and Signing Out of Your Inbox in practice
 
 **Doing it — Logging in and Signing Out of Your Inbox in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Logging in and Signing Out of Your Inbox in practice.
+
+[Picture 45963 — doing it — Logging in and Signing Out of Your Inbox in practice]
 
 ## Say it to your companion
 

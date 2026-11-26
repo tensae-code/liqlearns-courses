@@ -10,11 +10,15 @@ HTML pages are built by **nesting**: an element placed inside another — a para
 
 In your mind's eye: nesting — elements inside elements.
 
+[Picture 45970 — nesting — elements inside elements]
+
 ## Sub lesson 2 — The mirror rule — last opened, first closed
 
 The rule is one line: **elements close in the reverse order they opened** — `<p>…<b>…</b>…</p>`, never `<p>…<b>…</p>…</b>`. Wrongly nested (overlapping) tags make the browser guess where boxes end, and its guess may not be yours — the page breaks in ways that wander between browsers. The error-hunting lesson meets wrong nesting as a fault; this lesson is its prevention: write the closing tag the moment you write the opening one, then fill the middle, and the mirror can never break.
 
 In your mind's eye: the mirror rule — last opened, first closed.
+
+[Picture 45971 — the mirror rule — last opened, first closed]
 
 ## Say it to your companion
 

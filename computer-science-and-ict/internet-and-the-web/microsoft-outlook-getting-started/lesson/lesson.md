@@ -10,11 +10,15 @@ Microsoft Outlook is Microsoft's program for electronic mail and personal organi
 
 In your mind's eye: microsoft Outlook.
 
+[Picture 45968 — microsoft Outlook]
+
 ## Sub lesson 2 — Teaching Microsoft Outlook: contacts, calendar events, meetings and task lists
 
 Microsoft Outlook — Getting Started is learned by doing: the learner opens Outlook, finds its parts — mail, contacts, calendar, tasks — and learns what each part is for before using any of them The learner opens Outlook, finds its parts — mail, contacts, calendar, tasks — and learns what each part is for before using any of them Because Outlook gathers the whole working day — messages, people, appointments and jobs — into one program, and the parts only help once the learner knows which is which.
 
 In your mind's eye: teaching Microsoft Outlook. Contacts, calendar events, meetings and task lists.
+
+[Picture 45969 — teaching Microsoft Outlook. Contacts, calendar events, meetings and task lists]
 
 ## Say it to your companion
 

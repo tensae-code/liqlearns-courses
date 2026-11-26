@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Utilizing Digital Resources** �
 
 In your mind's eye: utilizing Digital Resources.
 
+[Picture 45974 — utilizing Digital Resources]
+
 ## Sub lesson 2 — Doing it — Online Libraries Databases and Managing What You Find in practice
 
 **Doing it — Online Libraries Databases and Managing What You Find in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Online Libraries Databases and Managing What You Find in practice.
+
+[Picture 45975 — doing it — Online Libraries Databases and Managing What You Find in practice]
 
 ## Say it to your companion
 
