@@ -10,11 +10,15 @@ A **collaborative presentation** is built in an **online presentation environmen
 
 In your mind's eye: one deck, many hands.
 
+[Picture 45737 — one deck, many hands]
+
 ## Sub lesson 2 — Dividing the work — and presenting as one
 
 Collaboration's craft is division with a seam: the group **assigns slides by member**, agrees the **shared style** (one master look, so twenty slides read as one deck), **comments** instead of overwriting where they disagree, and **rehearses the handovers** so the presented deck speaks in one voice although five hands built it. The unit's rule for all its collaborative documents holds here with slides: the tool shares the file; only the group's agreements share the work.
 
 In your mind's eye: dividing the work — and presenting as one.
+
+[Picture 45738 — dividing the work — and presenting as one]
 
 ## Say it to your companion
 

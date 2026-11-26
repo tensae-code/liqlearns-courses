@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Audio in PowerPoint** — covering: Au
 
 In your mind's eye: audio in PowerPoint.
 
+[Picture 45733 — audio in PowerPoint]
+
 ## Sub lesson 2 — Record Audio inside PowerPoint
 
 This part of South Sudan's book teaches **Record Audio inside PowerPoint** — covering: Record Audio inside PowerPoint; Working With PowerPoint's Audio Tools. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Record Audio inside PowerPoint; Working With PowerPoint's Audio Tools. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — record Audio inside PowerPoint is part of that chain..
 
 In your mind's eye: record Audio inside PowerPoint.
+
+[Picture 45734 — record Audio inside PowerPoint]
 
 ## Say it to your companion
 

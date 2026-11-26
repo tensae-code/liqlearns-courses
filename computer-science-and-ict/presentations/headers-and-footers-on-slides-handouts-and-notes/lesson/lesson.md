@@ -10,11 +10,15 @@ A **header** prints at the **top** of a page and a **footer** at the **bottom**,
 
 In your mind's eye: headers and footers — one setting, three carriers.
 
+[Picture 45743 — headers and footers — one setting, three carriers]
+
 ## Sub lesson 2 — Setting them — and checking the print
 
 The working order is: open the **Header and Footer** dialog, choose the **Slides** tab or the **Notes and Handouts** tab, tick what the set needs — date (fixed, or updating automatically), slide or page number, footer words such as the talk's title or the school's name — and **Apply to All** so every page carries it. Then **preview the print**: headers and footers are print furniture, and the preview is where a wrong date or a missing number is caught before paper is spent.
 
 In your mind's eye: setting them — and checking the print.
+
+[Picture 45744 — setting them — and checking the print]
 
 ## Say it to your companion
 

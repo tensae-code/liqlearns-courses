@@ -10,11 +10,15 @@ A **text box** is a box the maker **inserts and draws** on the slide — at the 
 
 In your mind's eye: inserting a text box — text where you put it.
 
+[Picture 45745 — inserting a text box — text where you put it]
+
 ## Sub lesson 2 — Formatting the box and its text — and WordArt
 
 The box is formatted as an **object** (its fill, its outline, its position) and its **text is formatted inside it** (the font, size, colour and alignment of the words) — two dressings, kept distinct. The lesson's flourish is **WordArt**: text given a ready **style** — shaped, coloured and shadowed display lettering — for the words that must be seen before they are read. The judgement taught with the tool: WordArt for the few display words; plain, readable text for everything the audience must actually read.
 
 In your mind's eye: formatting the box and its text — and WordArt.
+
+[Picture 45746 — formatting the box and its text — and WordArt]
 
 ## Say it to your companion
 

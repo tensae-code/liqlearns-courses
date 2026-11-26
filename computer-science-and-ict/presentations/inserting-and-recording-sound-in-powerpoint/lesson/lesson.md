@@ -10,11 +10,15 @@ A slide can be heard as well as seen. Libya's Grade 12 multimedia presentations 
 
 In your mind's eye: inserting audio — sound placed on a slide.
 
+[Picture 45747 — inserting audio — sound placed on a slide]
+
 ## Sub lesson 2 — Recording in PowerPoint, and ready-made clips
 
 PowerPoint can also **record sound itself**: speaking into the computer's microphone, the presenter records a **narration or comment for a slide** from inside the program — no other tool needed. And a **ready-made sound clip** — a sound file already made, from a library or an earlier recording — is inserted the same way as any audio. Libya's three moves make one skill set: **bring** a sound, **make** a sound, **use** a ready sound — every way a slide gains a voice.
 
 In your mind's eye: recording in PowerPoint, and ready-made clips.
+
+[Picture 45748 — recording in PowerPoint, and ready-made clips]
 
 ## Say it to your companion
 

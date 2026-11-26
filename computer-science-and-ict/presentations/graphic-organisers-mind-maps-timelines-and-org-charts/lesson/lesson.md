@@ -10,11 +10,15 @@ A list hides relations; a drawing shows them. A **graphic organiser** arranges i
 
 In your mind's eye: graphic organisers — relations made visible.
 
+[Picture 45741 — graphic organisers — relations made visible]
+
 ## Sub lesson 2 — Mind maps, timelines and org charts
 
 A **mind map** grows from a **centre**: the main idea in the middle, its parts on branches, their details on smaller branches. A **timeline** lays **events along a line in time order** — first to last, each at its date. An **org chart** stacks **boxes by rank**: who directs at the top, who answers to whom below. One content, three drawings: the same school can be a mind map of its activities, a timeline of its year, and an org chart of its staff.
 
 In your mind's eye: mind maps, timelines and org charts.
+
+[Picture 45742 — mind maps, timelines and org charts]
 
 ## Say it to your companion
 

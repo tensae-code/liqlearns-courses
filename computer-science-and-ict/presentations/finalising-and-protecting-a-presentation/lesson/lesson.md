@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Finalizing and Protecting Presentation
 
 In your mind's eye: finalizing and Protecting Presentations.
 
+[Picture 45739 — finalizing and Protecting Presentations]
+
 ## Sub lesson 2 — Protecting your presentation
 
 This part of South Sudan's book teaches **Protecting your presentation** — covering: Protecting your presentation. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Protecting your presentation. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — protecting your presentation is part of that chain..
 
 In your mind's eye: protecting your presentation.
+
+[Picture 45740 — protecting your presentation]
 
 ## Say it to your companion
 

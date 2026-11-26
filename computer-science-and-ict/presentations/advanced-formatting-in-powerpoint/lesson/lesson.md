@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Advanced formatting in MS PowerPoint**
 
 In your mind's eye: advanced formatting in MS PowerPoint.
 
+[Picture 45731 — advanced formatting in MS PowerPoint]
+
 ## Sub lesson 2 — Teaching advanced formatting in MS PowerPoint
 
 This part of South Sudan's book teaches **Teaching advanced formatting in MS PowerPoint** — covering: Teaching advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Teaching advanced formatting in MS PowerPoint. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — teaching advanced formatting in MS PowerPoint is part of that chain..
 
 In your mind's eye: teaching advanced formatting in MS PowerPoint.
+
+[Picture 45732 — teaching advanced formatting in MS PowerPoint]
 
 ## Say it to your companion
 

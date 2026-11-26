@@ -10,11 +10,15 @@ In the Grade 4 guide's environment project, a PowerPoint presentation becomes an
 
 In your mind's eye: the game idea — slides as rooms, links as doors.
 
+[Picture 45735 — the game idea — slides as rooms, links as doors]
+
 ## Sub lesson 2 — Building it — links, fairness and testing
 
 Building places a hyperlink on an object (select it, insert the link, choose the slide), keeps a **home slide** every path can return to, and makes wrong answers **teach rather than punish** (a hint, not a dead end). The project is tested as its players will play it — clicking everything, including the wrong things, in the wrong order — because an interactive game's faults live in its links, and only clicking finds them. The guide sets the project inside a maths environment (patterns and equations): the game is the subject practised by playing, which is the whole design's point.
 
 In your mind's eye: building it — links, fairness and testing.
+
+[Picture 45736 — building it — links, fairness and testing]
 
 ## Say it to your companion
 

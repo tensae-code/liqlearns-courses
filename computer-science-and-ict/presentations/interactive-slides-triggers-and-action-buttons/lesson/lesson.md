@@ -10,11 +10,15 @@ An **action button** is a shape on a slide that **does something when clicked** 
 
 In your mind's eye: action buttons — slides you can press.
 
+[Picture 45749 — action buttons — slides you can press]
+
 ## Sub lesson 2 — Triggers — this object answers that click
 
 A **trigger** ties an animation to a click on a **chosen object**: click the question and its answer appears; click the wrong choice in the book's **interactive game** and it shakes or vanishes, click the right one and it celebrates. Building one runs: add the animation, set it to **start on click of** the chosen object, and test in the show — triggers only exist while presenting. The design rule: the audience must always know **what can be clicked** — interactivity they cannot see is decoration.
 
 In your mind's eye: triggers — this object answers that click.
+
+[Picture 45750 — triggers — this object answers that click]
 
 ## Say it to your companion
 
