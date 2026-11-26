@@ -10,11 +10,15 @@ The **intended audience** is **the people the website is made for** — a school
 
 In your mind's eye: knowing the audience.
 
+[Picture 45986 — knowing the audience]
+
 ## Sub lesson 2 — Planning pages and content
 
 The plan **lists the pages and what each one holds**, sketches **how the pages will look and link**, and plans the **navigation so visitors find things easily**. Only when the audience and the page plan agree does building begin.
 
 In your mind's eye: planning pages and content.
+
+[Picture 45987 — planning pages and content]
 
 ## Say it to your companion
 

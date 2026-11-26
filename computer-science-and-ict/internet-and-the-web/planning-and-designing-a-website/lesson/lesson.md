@@ -10,11 +10,15 @@ A website is planned from its **audience and purpose**: who must it serve, and w
 
 In your mind's eye: audience, purpose and structure.
 
+[Picture 45988 — audience, purpose and structure]
+
 ## Sub lesson 2 — Layout and the way of building
 
 Each page gets a **layout** — where the title, menu, text and pictures stand — kept the same across the site so visitors learn it once. Then the builder chooses the **way of building**: a **CMS** (content management system) that assembles pages from parts, **hand-coded HTML** written directly, or **design programs** that draw pages and write the code behind them. The plan ends with **hosting** — putting the site on a server — and **testing** every page and link before the world is invited. Mongolia's order is the professional one: plan, structure, build, host, test — in that sequence, never code first.
 
 In your mind's eye: layout and the way of building.
+
+[Picture 45989 — layout and the way of building]
 
 ## Say it to your companion
 

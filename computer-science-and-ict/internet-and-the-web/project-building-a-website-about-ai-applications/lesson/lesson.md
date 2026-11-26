@@ -10,11 +10,15 @@ The Grade 9 web course ends by building a whole site, on the course's own great 
 
 In your mind's eye: the site — seven files, one subject.
 
+[Picture 45994 — the site — seven files, one subject]
+
 ## Sub lesson 2 — The contact form page — the site that listens
 
 Among the seven stands the **contact form page**: the page where a visitor **writes to the site** — name, message, the form's fields and its sending. It changes the site's nature: every other page speaks; this one **listens**. Kuwait ends the hand-built site here, with hosting and FTP as the project's road out (taught beside it), because a site that can be visited and answered is the complete thing the year promised: designed, built, styled, linked, published, and open for reply.
 
 In your mind's eye: the contact form page — the site that listens.
+
+[Picture 45995 — the contact form page — the site that listens]
 
 ## Say it to your companion
 

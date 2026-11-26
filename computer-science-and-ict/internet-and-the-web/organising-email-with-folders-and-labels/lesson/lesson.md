@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Organize emails using different 
 
 In your mind's eye: organize emails using different folders/labels.
 
+[Picture 45982 — organize emails using different folders/labels]
+
 ## Sub lesson 2 — Doing it — Organising Email with Folders and Labels in practice
 
 **Doing it — Organising Email with Folders and Labels in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Organising Email with Folders and Labels in practice.
+
+[Picture 45983 — doing it — Organising Email with Folders and Labels in practice]
 
 ## Say it to your companion
 

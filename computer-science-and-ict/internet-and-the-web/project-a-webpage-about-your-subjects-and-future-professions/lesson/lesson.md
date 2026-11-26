@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Activity 5.7: webpage of your 9t
 
 In your mind's eye: activity 5.7. Webpage of your 9th-class subjects with a famous person's image and the professions each subject.
 
+[Picture 45992 — activity 5.7. Webpage of your 9th-class subjects with a famous person's image and the professions each subject]
+
 ## Sub lesson 2 — Doing it — Project a Webpage About Your Subjects and Future Professions in practice
 
 **Doing it — Project a Webpage About Your Subjects and Future Professions in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Project a Webpage About Your Subjects and Future Professions in practice.
+
+[Picture 45993 — doing it — Project a Webpage About Your Subjects and Future Professions in practice]
 
 ## Say it to your companion
 

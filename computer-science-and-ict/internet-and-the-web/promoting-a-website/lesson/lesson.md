@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Promoting a site** — covering: §22: 
 
 In your mind's eye: promoting a site.
 
+[Picture 45996 — promoting a site]
+
 ## Sub lesson 2 — Promoting a site
 
 This part of Kazakhstan's book teaches **Promoting a site** — covering: §24: Promoting a site. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: promoting a site.
+
+[Picture 45997 — promoting a site]
 
 ## Say it to your companion
 

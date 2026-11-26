@@ -12,6 +12,8 @@ But two refinements make the idea work. First, a page **shares out** what it pas
 
 In your mind's eye: four pages as circles with arrows for links, the arrows thick or thin according to the share of importance they carry.
 
+[Picture 45984 — four pages as circles with arrows for links, the arrows thick or thin according to the share of importance they carry]
+
 ## Sub lesson 2 — The random surfer and working PageRank out by iteration
 
 Google's founders closed the circle with a story: the **random surfer**. Imagine a person who starts on a random page and clicks links at random, never stopping; from time to time, bored, they jump to any page at all. Some pages the surfer visits again and again; others almost never. **PageRank is that share of visits.** A page is important exactly when the random walk keeps coming back to it.
@@ -19,6 +21,8 @@ Google's founders closed the circle with a story: the **random surfer**. Imagine
 To compute it, work in rounds. Give every page an equal starting score. In each round, every page hands its score out along its outgoing links, split evenly, and collects what the others hand to it — that collection is its new score. Round by round the numbers move, then settle: when a round changes nothing, you have the PageRank values. France's book has you run these rounds in a spreadsheet and watch them settle in a simulator, and the 2010 "reasonable surfer" refinement weights links by how likely a real reader is to click them — a link in the main text counts more than one buried in a footer.
 
 In your mind's eye: a table of four pages whose scores change over five rounds and then stay still, the settled column highlighted.
+
+[Picture 45985 — a table of four pages whose scores change over five rounds and then stay still, the settled column highlighted]
 
 ## Say it to your companion
 
