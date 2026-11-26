@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Data Collection and Preparation*
 
 In your mind's eye: data Collection and Preparation.
 
+[Picture 46467 — data Collection and Preparation]
+
 ## Sub lesson 2 — Doing it — Collecting and Preparing Data Surveys Cleaning Missing Values in practice
 
 **Doing it — Collecting and Preparing Data Surveys Cleaning Missing Values in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Collecting and Preparing Data Surveys Cleaning Missing Values in practice.
+
+[Picture 46468 — doing it — Collecting and Preparing Data Surveys Cleaning Missing Values in practice]
 
 ## Say it to your companion
 

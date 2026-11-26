@@ -10,11 +10,15 @@ An **aggregate function** takes a **whole column across many records** and retur
 
 In your mind's eye: five functions, one answer each.
 
+[Picture 46457 — five functions, one answer each]
+
 ## Sub lesson 2 — Aggregates with conditions and groups
 
 Aggregates answer about **chosen records** when a WHERE clause selects them first (SELECT AVG(Mark) FROM Result WHERE Subject = 'Maths';), and about **each group separately** with **GROUP BY** (SELECT Class, AVG(Mark) FROM Result GROUP BY Class; gives one average per class). Malaysia's order of reading keeps the machine's order honest: the records are chosen, then grouped, then each group is summarised. The common fault is expecting both the summary and the records from one plain SELECT — an aggregate query returns summaries; the records stay in the table.
 
 In your mind's eye: aggregates with conditions and groups.
+
+[Picture 46458 — aggregates with conditions and groups]
 
 ## Say it to your companion
 

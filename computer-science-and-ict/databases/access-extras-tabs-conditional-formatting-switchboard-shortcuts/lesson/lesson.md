@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, multiple-page forms using tab 
 
 In your mind's eye: , multiple-page forms using tab controls; conditional formatting; password text fields; change control type; co.
 
+[Picture 46449 — multiple-page forms using tab controls; conditional formatting; password text fields; change control type; co]
+
 ## Sub lesson 2 — Doing it — Access Extras Tabs Conditional Formatting Switchboard Shortcuts in practice
 
 **Doing it — Access Extras Tabs Conditional Formatting Switchboard Shortcuts in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Access Extras Tabs Conditional Formatting Switchboard Shortcuts in practice.
+
+[Picture 46450 — doing it — Access Extras Tabs Conditional Formatting Switchboard Shortcuts in practice]
 
 ## Say it to your companion
 

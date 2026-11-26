@@ -10,11 +10,15 @@ The page opens with an **HTML form**: fields for the term, its meaning and its i
 
 In your mind's eye: the form — where the journey starts.
 
+[Picture 46451 — the form — where the journey starts]
+
 ## Sub lesson 2 — The PHP receiving page — from submission to stored record
 
 On submit, the browser sends the named values to **Add_Term.php**, whose PHP code **reads** each value by its field name, **checks** it (present, sane, safe to store), and runs the **INSERT** that adds one new **record** to the dictionary table in MySQL — then answers the visitor: added, or not added and why. The faults the book makes pupils hunt are the journey's own: a field name mistyped between form and page (the value arrives as nothing), a check skipped (an empty term stored), a success claimed before the insert ran. When the page works, the circle closes — the next visitor who searches the dictionary finds the term this visitor added.
 
 In your mind's eye: the PHP receiving page — from submission to stored record.
+
+[Picture 46452 — the PHP receiving page — from submission to stored record]
 
 ## Say it to your companion
 

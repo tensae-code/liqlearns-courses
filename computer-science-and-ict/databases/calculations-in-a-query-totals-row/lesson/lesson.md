@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Performing Calculation in a Quer
 
 In your mind's eye: performing Calculation in a Query.
 
+[Picture 46461 — performing Calculation in a Query]
+
 ## Sub lesson 2 — Doing it — Calculations in a Query Totals Row in practice
 
 **Doing it — Calculations in a Query Totals Row in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Calculations in a Query Totals Row in practice.
+
+[Picture 46462 — doing it — Calculations in a Query Totals Row in practice]
 
 ## Say it to your companion
 

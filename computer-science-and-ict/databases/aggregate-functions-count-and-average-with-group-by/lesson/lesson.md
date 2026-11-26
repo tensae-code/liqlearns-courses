@@ -10,11 +10,15 @@ An **aggregate function** takes **many rows and returns one value**: **COUNT** r
 
 In your mind's eye: aggregates — one answer from many rows.
 
+[Picture 46455 — aggregates — one answer from many rows]
+
 ## Sub lesson 2 — GROUP BY — one answer per group
 
 **GROUP BY** splits the table into **groups** that share a value, and the aggregate is computed **once per group**: COUNT the students **in each class** — one count per class, not one count overall; the landmarks **grouped by region**, with their **average entry price** per region. Read a grouped query in two beats: the grouping names the crowds, the aggregate asks each crowd its question.
 
 In your mind's eye: gROUP BY — one answer per group.
+
+[Picture 46456 — gROUP BY — one answer per group]
 
 ## Say it to your companion
 

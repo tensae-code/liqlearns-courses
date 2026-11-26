@@ -10,11 +10,15 @@ A **list** here is data **extracted into rows and columns** — the query's answ
 
 In your mind's eye: the list — a table outside the database.
 
+[Picture 46453 — the list — a table outside the database]
+
 ## Sub lesson 2 — Advanced list crafts — sort, filter, subtotal, pivot
 
 The advanced crafts chain. **Multi-level sorting** orders by one column, ties by another (town, then name). **Filtering** shows chosen slices without deleting (this year, this class). **Subtotals** insert group sums into the sorted list at each change of the grouping column — the list echoing the totals query. **Pivot-style summaries** cross-tabulate: rows by one field, columns by another, values aggregated in the cells (marks: classes × subjects). Each craft's honesty rule is the elective's last word: **work on a copy, keep the source list untouched, and label every summary with the extraction it came from**.
 
 In your mind's eye: advanced list crafts — sort, filter, subtotal, pivot.
+
+[Picture 46454 — advanced list crafts — sort, filter, subtotal, pivot]
 
 ## Say it to your companion
 

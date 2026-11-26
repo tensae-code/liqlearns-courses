@@ -10,11 +10,15 @@ A **chart from Access data** draws a table's or query's records **without leavin
 
 In your mind's eye: why chart data where it lives.
 
+[Picture 46465 — why chart data where it lives]
+
 ## Sub lesson 2 — Making the chart — source, type, reading
 
 The making follows the chapter's order: first the **source** — a table, or better a **query that has already summarised** the records into the groups to compare; then the **chart type fitted to the question** — columns to compare groups, a line for change over time, a pie for parts of one whole; then the **labels and title** that make the picture read honestly. The discipline is the course's data discipline in picture form: a chart of unsummarised raw records is noise, so the summary comes first and the drawing second — Access holds the data, the query shapes it, the chart shows it.
 
 In your mind's eye: making the chart — source, type, reading.
+
+[Picture 46466 — making the chart — source, type, reading]
 
 ## Say it to your companion
 

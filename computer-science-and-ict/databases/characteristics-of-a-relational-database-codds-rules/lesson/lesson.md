@@ -10,11 +10,15 @@ Many programs store data in tables; few deserve the title relational database ma
 
 In your mind's eye: codd's rules — the character tests.
 
+[Picture 46463 — codd's rules — the character tests]
+
 ## Sub lesson 2 — The standard systems — and why the rules matter
 
 The book closes with the **standard RDBMS list** — the systems the world's organisations actually run, from desktop-scale to the engines behind banks and governments, Bangladesh's own NID and passport databases among the companion lesson's examples. The rules matter beyond examinations because they are promises a buyer can test: data independent of the programs that use it, integrity the system itself enforces, and no back doors around the language. Choose a system by Codd's tests and the data will outlive every program written against it.
 
 In your mind's eye: the standard systems — and why the rules matter.
+
+[Picture 46464 — the standard systems — and why the rules matter]
 
 ## Say it to your companion
 
