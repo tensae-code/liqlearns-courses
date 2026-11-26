@@ -10,6 +10,8 @@ exiled Prince Drimed Kunden gives his eye to a blind man and his children to str
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60335 — the prince's gift, told by the fire]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter One, Oral Culture — exiled Prince Drimed Kunden gives his eye to a blind man and his children to strangers on the road through Trongsa, and the place-names Changra and Bubja still carry the tale, while the monk Tonpa's 5th-century journey hints Buddhism reached Bhutan before Tibet. Then let your companion ask you one hard question about it — answer from the lesson.

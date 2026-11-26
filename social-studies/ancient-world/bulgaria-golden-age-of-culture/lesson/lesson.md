@@ -10,6 +10,8 @@ Preslav and Ohrid make Bulgaria the literary heart of the Slavic world (Lesson 2
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60354 — Preslav and Ohrid, literary heart]
+
 ## Sub lesson 2 — Lesson 11: The "Golden Age" of Bulgarian culture
 
 Pliska and Veliki Preslav flower in the Golden Age of Slavonic letters (Lesson 11: The "Golden Age" of Bulgarian culture)

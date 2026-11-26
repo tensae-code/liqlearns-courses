@@ -10,6 +10,8 @@ Myths are read as a people's memory and imagination, tested against what the fin
 
 In your mind's eye: the key place or moment of Bronze Age — myth and history as the book shows it: point to it and say what it shows.
 
+[Picture 60348 — the myth and the finds]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: bronze Age — mythology and history. Then let your companion ask you one hard question about it — answer from the lesson.

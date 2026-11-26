@@ -10,6 +10,8 @@ thirteen traditional arts grow out of Buddhist and pre-Buddhist practice, carrie
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60342 — the weaver and the iron-chain bridge]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Three, Zorig Chusum — thirteen traditional arts grow out of Buddhist and pre-Buddhist practice, carried by master craftsmen — 13th-century weaver Khandro Sonam Peldon and Thangtong Gyalpo, who forges eight iron-chain bridges from Bhutanese ore. Then let your companion ask you one hard question about it — answer from the lesson.

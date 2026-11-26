@@ -10,11 +10,15 @@ the lotus-born Padmasambhava enters 8th-century Bhutan, heals the sick king of B
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60333 — the king healed, the spirit tamed]
+
 ## Sub lesson 2 — Chapter One, Guru Rinpoche, Idea of Beyul and Terma, Significance of Sacred Sites
 
 invited c.750 by the ailing King Sindha of Bumthang, Guru Rinpoche travels via Nabji, subdues the local spirits, plants tantric Buddhism, and leaves Bhutan itself a beyul — a hidden sanctuary land seeded with his treasures and ringed by his sacred ney from Taktshang to Singye Dzong (Chapter One, Guru Rinpoche, Idea of Beyul and Terma, Significance of Sacred Sites)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 60334 — a hidden land of treasures]
 
 ## Say it to your companion
 

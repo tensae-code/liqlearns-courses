@@ -10,6 +10,8 @@ Java's great Buddhist stupa, abandoned for a thousand years, is taken apart and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60347 — rebuilt stone by numbered stone]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 5.5: The restoration of Borobudur, Indonesia — Java's great Buddhist stupa, abandoned for a thousand years, is taken apart and rebuilt stone by numbered stone. Then let your companion ask you one hard question about it — answer from the lesson.

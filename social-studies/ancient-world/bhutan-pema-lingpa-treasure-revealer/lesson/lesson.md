@@ -10,6 +10,8 @@ prophesied by Guru Padmasambhava as the rebirth of Princess Pema Sel, a blacksmi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60338 — the blacksmith's grandson]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Four, Pema Lingpa: birth and early life — prophesied by Guru Padmasambhava as the rebirth of Princess Pema Sel, a blacksmith's grandson born at Chel in Bumthang in 1450 teaches himself Tibetan, smithery and carpentry, and begins to have visions at Mani Gonpa. Then let your companion ask you one hard question about it — answer from the lesson.

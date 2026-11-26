@@ -10,11 +10,15 @@ a land in darkness before Buddhism is Lhomon, then the four-gates land, the land
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60340 — signposts of the land's names]
+
 ## Sub lesson 2 — Chapter Two, Ancient Names
 
 toponymy unpacks Mon/Mon Yul, Ri Drag Gi Yul, Lho Mon Kha Zhi of the four gateways, Menjong of the medicinal herbs and Tsenden Köpaijong, then shows outsiders fumbling Bottan/Boutan until George Bogle fixes 'Bhutan' apart from Tibet in the late 1700s (Chapter Two, Ancient Names)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 60341 — Bogle fixes the name Bhutan]
 
 ## Say it to your companion
 

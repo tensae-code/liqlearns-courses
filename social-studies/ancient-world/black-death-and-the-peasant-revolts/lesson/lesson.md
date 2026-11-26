@@ -10,11 +10,15 @@ plague empties villages, then the Jacquerie and Wat Tyler's rebels rise
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60343 — empty villages, rising peasants]
+
 ## Sub lesson 2 — 6.1 Causes of the Black Death's rapid spread
 
 rats, fleas and trade roads carry plague across a continent in five years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60344 — rats, fleas and trade roads]
 
 ## Sub lesson 3 — 6.2 How did the Black Death change Europe?
 
@@ -22,11 +26,15 @@ labour scarcity breaks serfdom and shakes faith and art
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60345 — the broken chain of serfdom]
+
 ## Sub lesson 4 — §16 The Black Death; peasant uprisings in France and England
 
 plague and revolt together break the old feudal order
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60346 — the feudal steps crack]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ bronze casting, deer stones and khirigsuurs mark a new world; horse nomadism tak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60349 — deer stones and horse nomads]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1.3 The Bronze Age and early Iron Age: nomadic civilisation — bronze casting, deer stones and khirigsuurs mark a new world; horse nomadism takes shape on the steppe. Then let your companion ask you one hard question about it — answer from the lesson.

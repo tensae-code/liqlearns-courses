@@ -10,6 +10,8 @@ before Buddhism, Himalayan people take refuge in mountains, forests and lakes, a
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60339 — spirits of mountain, forest, lake]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter One, Pre-Buddhist Traditions — before Buddhism, Himalayan people take refuge in mountains, forests and lakes, and animist and shamanist practice hardens into Bon — Black Bon with animal sacrifice, White Bon without — much of it surviving later as folk rite inside Buddhist Bhutan. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Tibetan king Songtsen Gampo (c.605-650) builds Jampa Lhakhang in Bumthang and Ky
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60331 — Songtsen Gampo's two temples]
+
 ## Sub lesson 2 — Chapter One, The Arrival of Buddhism
 
 Songtsen Gampo's 7th-century temple network pins down a demoness across the Himalayas, with Jampa Lhakhang on her left knee and Kyichu Lhakhang in Paro, while later kings add the thadul-yangdul temples around them (Chapter One, The Arrival of Buddhism)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 60332 — temples pin the demoness]
 
 ## Say it to your companion
 
