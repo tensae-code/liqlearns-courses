@@ -10,6 +10,8 @@ Milesian sailors plant Sinope, Trapezus and a chain of trading cities on the Bla
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60697 — Milesian cities on Pontus]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5 A: The ancient Greek colonies of Pontus — Milesian sailors plant Sinope, Trapezus and a chain of trading cities on the Black Sea's south shore and live between Greeks and local peoples. Then let your companion ask you one hard question about it — answer from the lesson.

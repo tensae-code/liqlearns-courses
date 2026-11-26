@@ -10,11 +10,15 @@ Chaos gives birth to Earth and Sky, the Titans rule, and Zeus leads the younger 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60713 — the Titanomachy]
+
 ## Sub lesson 2 — Unit 1, ch. 2 The creation of the world and the gods / The gods of Olympus
 
 the twelve immortal gods settle on Olympus drinking nectar, each with a realm and symbols children learn to read in pictures
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60714 — the gods of Olympus]
 
 ## Sub lesson 3 — Unit 1, ch. 3 The goddesses of Olympus
 

@@ -10,17 +10,23 @@ captive Greece captures its captor — Roman nobles learn Greek, copy Greek art 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60700 — captive Greece captures Rome]
+
 ## Sub lesson 2 — Unit 2 Greeks conquer Rome by culture exercises
 
 exercises show Greek teachers, artists and gods moving into Roman houses
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60701 — Greece moves into Roman houses]
+
 ## Sub lesson 3 — Ch. I6 Greco-Roman civilisation
 
 Roman power and Greek culture fuse into one civilisation that will carry both to Europe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60702 — Greco-Roman civilisation]
 
 ## Say it to your companion
 

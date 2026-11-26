@@ -10,11 +10,15 @@ victorious Sparta rules Greece harshly yet Agesilaus shows mercy to the conquere
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60704 — Sparta's hegemony]
+
 ## Sub lesson 2 — Ch. 28 Thebes and the Boeotian League
 
 Thebes builds a Boeotian federation with its own coinage and rises to challenge Sparta's hold on Greece
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60705 — the Boeotian League]
 
 ## Sub lesson 3 — Ch. 29 The hegemony of Thebes
 
@@ -22,11 +26,15 @@ Epaminondas's slanting phalanx and the Sacred Band smash Sparta at Leuctra and f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60706 — the slanting phalanx at Leuctra]
+
 ## Sub lesson 4 — Ch. 27 Hegemony of Sparta exercises
 
 names sorted into columns place victors and victims of Sparta's harsh decade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60707 — sort Sparta's victors and victims]
 
 ## Sub lesson 5 — Ch. 28 Thebes and the Boeotian League exercises
 
@@ -34,11 +42,15 @@ exercises build Thebes's federation as Sparta's challenger
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60708 — build Thebes's federation]
+
 ## Sub lesson 6 — Ch. 29 Hegemony of Thebes exercises
 
 marking tasks follow Epaminondas's Leuctra revolution in tactics
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60709 — mark the slanting attack]
 
 ## Sub lesson 7 — Ch. F3 The hegemony of Sparta: a contested dominion
 
@@ -46,11 +58,15 @@ Sparta's harmosts and garrisons make her empire hated within a decade of winning
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60710 — Sparta's contested dominion]
+
 ## Sub lesson 8 — Ch. F4 The dominion of Thebes in Greece
 
 Pelopidas and Epaminondas free Thebes, shatter Sparta at Leuctra and Mantinea, and die leaving no successor system
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60711 — Thebes shatters Sparta]
 
 ## Say it to your companion
 

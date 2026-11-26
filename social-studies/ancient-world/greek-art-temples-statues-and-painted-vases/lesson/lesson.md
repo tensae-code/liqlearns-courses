@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Greek temple, a statue in living balance and a black-and-red painted vase. The student points to the proportion in each.
 
+[Picture 60692 — temple, statue and painted vase]
+
 ## Sub lesson 3 — Vases carry the story home
 
 Black-and-red vases carry the myths and the games into every Greek home.

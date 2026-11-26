@@ -10,11 +10,15 @@ weeping settlers take the sacred fire from home and found the rich cities of Mag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60698 — the sacred fire and Magna Graecia]
+
 ## Sub lesson 2 — Ch. D1 Colonial expansion
 
 land hunger and trade send apoikiai from the Black Sea to Spain, planting Greek cities round two seas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60699 — apoikiai round two seas]
 
 ## Say it to your companion
 

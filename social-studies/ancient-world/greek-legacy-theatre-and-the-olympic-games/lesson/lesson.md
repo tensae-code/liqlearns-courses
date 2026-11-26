@@ -10,6 +10,8 @@ Aeschylus adds the second actor and tragedy is born; the Olympic Games make spor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60712 — theatre and the Olympic Games]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea III, Lecție de sinteză: Moștenirea lumii grecești — teatrul, Jocurile Olimpice — Aeschylus adds the second actor and tragedy is born; the Olympic Games make sport a sacred duty, and the women's Hera games crack a patriarchal world. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ patterned vases, the first stone temples and smiling kouroi learn the human figu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60691 — Geometric to Archaic art]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 4: Greek art from the Geometric to the Archaic times — patterned vases, the first stone temples and smiling kouroi learn the human figure step by step. Then let your companion ask you one hard question about it — answer from the lesson.

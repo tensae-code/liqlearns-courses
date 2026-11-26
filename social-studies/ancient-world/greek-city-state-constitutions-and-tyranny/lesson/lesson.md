@@ -10,17 +10,23 @@ kings give way to aristocrats, angry farmers revolt, and tyrants like Periander 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60693 — kings to tyrants]
+
 ## Sub lesson 2 — Ch. 6 Constitutions exercises
 
 pupils define the tyrant against king and aristocrat and sort who ruled how
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60694 — sort who ruled how]
+
 ## Sub lesson 3 — Ch. D2 The city-state and the evolution of its constitution
 
 the polis is born, and constitutions evolve from kingship through aristocracy and tyranny toward broader rule
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60695 — the constitution evolves]
 
 ## Say it to your companion
 
