@@ -10,11 +10,15 @@ The activity opens with the **instructions (consignes)**: Thymio's Scratch exten
 
 In your mind's eye: a first Scratch script for a real robot.
 
+[Picture 47459 — a first Scratch script for a real robot]
+
 ## Sub lesson 2 — Loops and the two programming kinds
 
 The square's four sides beg for the **“repeat forever” / repeat block**: Séance 1 already adds “répéter indéfiniment” to create a loop, collapsing four sides into one instruction repeated. Séance 2 then names the course's pair: **sequential programming** (the script runs top to bottom) against **event programming** (scripts waiting for sensor events) — Thymio drawing its square both ways, so the kinds are felt in behaviour, not just defined.
 
 In your mind's eye: loops and the two programming kinds.
+
+[Picture 47460 — loops and the two programming kinds]
 
 ## Say it to your companion
 

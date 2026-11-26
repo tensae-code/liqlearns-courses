@@ -10,11 +10,15 @@ There is no single best language — there are languages built for different job
 
 In your mind's eye: six languages, six characters.
 
+[Picture 47447 — six languages, six characters]
+
 ## Sub lesson 2 — Choosing a language for a job
 
 The comparison rests on questions a programmer actually asks: Is it **compiled or interpreted**? How close to the hardware? What is it **used for**, and how easy is it to **learn**? A beginner's block language, a systems language and a web language are not rivals — they are tools shaped by their jobs, and learning one teaches ideas (sequence, choice, loops, data) that carry into all the others.
 
 In your mind's eye: choosing a language for a job.
+
+[Picture 47448 — choosing a language for a job]
 
 ## Say it to your companion
 

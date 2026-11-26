@@ -10,11 +10,15 @@ A **programming paradigm (παράδειγμα)** is a way of organising a progr
 
 In your mind's eye: paradigms — what a program is taken to be.
 
+[Picture 47451 — paradigms — what a program is taken to be]
+
 ## Sub lesson 2 — Structured programming — three structures, no chaos
 
 **Structured programming (δομημένος προγραμματισμός)** is the imperative discipline the whole Greek course obeys: every program is built from exactly three structures — **sequence, selection and repetition** — each with **one way in and one way out**, and the unrestricted jump (the goto that lands anywhere) is banished. Its fruit is provable order: a structured program can be read top to bottom, tested structure by structure, and trusted the way a building of beams is trusted — which is why ΓΛΩΣΣΑ itself is a structured language.
 
 In your mind's eye: structured programming — three structures, no chaos.
+
+[Picture 47452 — structured programming — three structures, no chaos]
 
 ## Say it to your companion
 

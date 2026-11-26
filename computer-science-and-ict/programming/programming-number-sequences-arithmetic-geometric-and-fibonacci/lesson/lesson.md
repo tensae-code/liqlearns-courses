@@ -10,11 +10,15 @@ An **arithmetic sequence** grows by **adding the same difference** each step; a 
 
 In your mind's eye: arithmetic and geometric — add the same, multiply by the same.
 
+[Picture 47449 — arithmetic and geometric — add the same, multiply by the same]
+
 ## Sub lesson 2 — Fibonacci — each term the sum of the two before it
 
 The **Fibonacci sequence** follows its own rule: **each term is the sum of the two before it** — 1, 1, 2, 3, 5, 8… The book keeps its history with it: **Fibonacci learned his mathematics from Arab scholars**, and carried the sequence — and much else — to Europe.
 
 In your mind's eye: fibonacci — each term the sum of the two before it.
+
+[Picture 47450 — fibonacci — each term the sum of the two before it]
 
 ## Say it to your companion
 

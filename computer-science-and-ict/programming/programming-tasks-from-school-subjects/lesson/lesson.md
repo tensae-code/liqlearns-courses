@@ -10,11 +10,15 @@ Each task in this practicum starts in **another subject**: a physics relationshi
 
 In your mind's eye: four subject books — astronomy, geography, biology, physics. Each handing a task card to one program in the middle.
 
+[Picture 47453 — four subject books — astronomy, geography, biology, physics. Each handing a task card to one program in the middle]
+
 ## Sub lesson 2 — Solving and checking across subjects
 
 The solving order repeats the Grade 10 practicum's: understand the subject task first (what is asked, what rule governs it), plan the program, write it, and **test it on the subject's known cases** — values whose answers the subject itself supplies, in its textbook or from the teacher. A program that calculates a physics task wrong is not a programming success with a physics error; it is a wrong answer, and the fault can sit in either subject's part — the rule as translated, or the code as written — so both are checked. The practicum's claim is the course's claim: programming is a tool the other subjects can use.
 
 In your mind's eye: a program's answer being checked against a subject textbook's known answer, with a tick and a cross as the two outcomes.
+
+[Picture 47454 — a program's answer being checked against a subject textbook's known answer, with a tick and a cross as the two outcomes]
 
 ## Say it to your companion
 

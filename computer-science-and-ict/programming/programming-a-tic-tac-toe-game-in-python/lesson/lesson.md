@@ -10,11 +10,15 @@ The board is **data**: nine cells in a list, each empty, X or O. The program's w
 
 In your mind's eye: the game as a program.
 
+[Picture 47441 — the game as a program]
+
 ## Sub lesson 2 — The computer opponent — minimax at work
 
 The computer's move is chosen by **adversarial search**: the current board is a state, legal moves are its children, and **minimax** — with the computer as MAX and the player as MIN — values each move by the best outcome the computer can force. Tic-tac-toe's tree is small enough to search whole, so the minimax opponent **never loses** — the pupil can verify the claim by playing, which is why Jordan chooses this game: the theory of the search lessons becomes an opponent you can test with your own hand, and try, and fail, to beat.
 
 In your mind's eye: the computer opponent — minimax at work.
+
+[Picture 47442 — the computer opponent — minimax at work]
 
 ## Say it to your companion
 
