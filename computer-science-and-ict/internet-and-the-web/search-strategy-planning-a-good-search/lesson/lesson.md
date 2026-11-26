@@ -10,11 +10,15 @@ A **search strategy** starts away from the screen: state the **question** exactl
 
 In your mind's eye: planning the search — question and keywords first.
 
+[Picture 46016 — planning the search — question and keywords first]
+
 ## Sub lesson 2 — Working the results — judge, refine, record
 
 The results are **worked**, not just read: open the promising ones, judge each by its source and date, and **refine** — change the keywords and search again — when the first words missed. What is used is **recorded** for citation: the searcher who planned can say where every fact came from. Strategy is what turns Bhutan's later citation lesson from a rule into a habit.
 
 In your mind's eye: working the results — judge, refine, record.
+
+[Picture 46017 — working the results — judge, refine, record]
 
 ## Say it to your companion
 

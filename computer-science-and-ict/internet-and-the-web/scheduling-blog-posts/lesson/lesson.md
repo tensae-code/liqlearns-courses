@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Schedule of Posts** — covering: Sche
 
 In your mind's eye: schedule of Posts.
 
+[Picture 46014 — schedule of Posts]
+
 ## Sub lesson 2 — Doing it — Schedule of Posts in practice
 
 This part of South Sudan's book teaches **Doing it — Schedule of Posts in practice** — covering: Schedule of Posts. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Schedule of Posts. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Schedule of Posts in practice is part of that chain..
 
 In your mind's eye: doing it — Schedule of Posts in practice.
+
+[Picture 46015 — doing it — Schedule of Posts in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Fiji's searching is practised on real Fijian ground — the **Map of Fiji** — 
 
 In your mind's eye: searching and extracting — take out what you came for.
 
+[Picture 46018 — searching and extracting — take out what you came for]
+
 ## Sub lesson 2 — Downloading and saving — page, picture, print
 
 **Downloading** brings a copy from the web to your own computer. A **webpage is saved** from the browser so it can be opened again without the internet; a **picture is saved** by its own save command into your folder; and a page can be **printed** when paper is what the task needs. Fiji ties the practical with its rule of honesty: work built from downloaded material **acknowledges its sources** — the searcher names where each fact and picture came from, because downloaded does not mean yours.
 
 In your mind's eye: downloading and saving — page, picture, print.
+
+[Picture 46019 — downloading and saving — page, picture, print]
 
 ## Say it to your companion
 

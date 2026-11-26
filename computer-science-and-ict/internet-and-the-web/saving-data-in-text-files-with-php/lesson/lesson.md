@@ -10,11 +10,15 @@ Server data must **outlive** any single page visit: names signed up today are re
 
 In your mind's eye: why a text file — data that outlives the page.
 
+[Picture 46012 — why a text file — data that outlives the page]
+
 ## Sub lesson 2 — Writing — from program values to stored lines
 
 In PHP the writing follows a fixed rhythm: **open** the file for appending (so old records are kept), **write** the new record as one formatted line (the fields joined by the mark, ended by a newline), and **close** the file. Appending matters: opening a file for plain writing **replaces** its contents, and the difference between keeping a term's sign-ups and keeping only the last one is that single choice. Malaysia's check is performed by eye: after saving, the file is opened as text and **read** — if the new line does not stand correctly among the old, the writing, not the idea, is repaired.
 
 In your mind's eye: writing — from program values to stored lines.
+
+[Picture 46013 — writing — from program values to stored lines]
 
 ## Say it to your companion
 

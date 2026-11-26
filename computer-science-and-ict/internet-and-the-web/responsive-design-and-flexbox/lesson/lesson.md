@@ -10,11 +10,15 @@ Fixed layouts break because screens are not fixed. **Flexbox** is CSS's answer: 
 
 In your mind's eye: three boxes in a flex row on a wide screen, then the same three boxes wrapped onto two lines on a narrow screen.
 
+[Picture 46004 — three boxes in a flex row on a wide screen, then the same three boxes wrapped onto two lines on a narrow screen]
+
 ## Sub lesson 2 — Media queries — one page, many screens
 
 Flexbox adapts a layout continuously; sometimes a design must change in a step. That is the job of a **media query**: a block of CSS that applies only when a condition about the screen is true — most often its width. You write the wide-screen layout as the normal rules, then add `@media (max-width: 600px) { … }` containing the narrow-screen rules: the menu becomes a single column, the three boxes stack, the photo takes the full width. The width where the design switches is called the **breakpoint**. One HTML file, one CSS file, two layouts — the page itself asks the screen how wide it is and dresses accordingly. That is **responsive design**: not a separate mobile site, but one page that responds.
 
 In your mind's eye: the same page drawn twice, wide and narrow, with the media query that switches between them written underneath.
+
+[Picture 46005 — the same page drawn twice, wide and narrow, with the media query that switches between them written underneath]
 
 ## Say it to your companion
 
