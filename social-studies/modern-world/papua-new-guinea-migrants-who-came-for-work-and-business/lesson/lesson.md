@@ -10,6 +10,8 @@ Migrants and firms come chasing work and profit — Chinese traders, Filipino wo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40736 — workandprofit]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Economic motives for migration into PNG and the Pacific / Case studies of individuals and groups (Chin Hoi Min, Filipinos in PNG, Sir Brian Bell, the Chinese in PNG) / Multinational corporations in PNG (case study: Rimbunan Hijau) — migrants and firms come chasing work and profit — Chinese traders, Filipino workers, Brian Bell's business empire, logging multinationals — adding skills and workforce while draining brains and pressuring services at home and in PNG. Then let your companion ask you one hard question about it — answer from the lesson.

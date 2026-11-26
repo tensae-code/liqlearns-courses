@@ -10,11 +10,15 @@ The sea that carried the first migrants can also erase a coastline in minutes �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40729 — seagivestakes]
+
 ## Sub lesson 2 — El Niño in the Pacific
 
 Every few years the warm pool slides east — drought where rain belongs in Indonesia, Australia and PNG, floods on South America's dry coast, a weakened Indian monsoon — a climate event with a human history
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40728 — warmpoolslides]
 
 ## Sub lesson 3 — Global effects of tsunami
 
@@ -22,11 +26,15 @@ Waves that travel at jet speed in deep water and rear up in the shallows — des
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40727 — rearsshallow]
+
 ## Sub lesson 4 — Earthquake devastation
 
 Three earthquakes side by side — Christchurch 2011 (185 dead), Tohoku 2011 (magnitude 9, 15,897 dead, US$360 billion), Haiti 2010 (230,000 dead) — devastation compared country by country
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40726 — devastationcompared]
 
 ## Sub lesson 5 — Volcanic eruptions and its aftermath
 
@@ -34,11 +42,15 @@ Blanche Bay itself was blown out 1,400 years ago; on 19 September 1994, after 27
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40725 — rabaulburied]
+
 ## Sub lesson 6 — Cyclones and tornadoes
 
 One storm, three names — hurricane in the Atlantic, typhoon in the Northwest Pacific, cyclone in the South Pacific and Indian Ocean — and what each has done to the coasts it struck
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40724 — onestormthreenames]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: 1999 — Prime Ministe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40722 — hiredarmy1999]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Government policies and plans in the Pacific — 1999 — Prime Minister Sir Julius Chan hires a British mercenary company to end the Bougainville conflict; the decision backfires and Chan is forced to step down — beside it, the Tuition Fee Free policy's mixed harvest in PNG's schools. Then let your companion ask you one hard question about it — answer from the lesson.

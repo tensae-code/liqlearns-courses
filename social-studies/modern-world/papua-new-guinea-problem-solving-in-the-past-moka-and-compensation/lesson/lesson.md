@@ -10,6 +10,8 @@ In Mt Hagen, wrongs and status were settled by Moka — reciprocal gifts of pigs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40723 — mokagiftsgrow]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Case study – Moka (Western Highlands) — in Mt Hagen, wrongs and status were settled by Moka — reciprocal gifts of pigs, always bigger than what was received, building a Big Man's prestige; children compare that system with other traditional compensation across PNG and judge what it did well and where it fell short. Then let your companion ask you one hard question about it — answer from the lesson.

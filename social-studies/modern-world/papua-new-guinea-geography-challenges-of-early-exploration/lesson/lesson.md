@@ -10,6 +10,8 @@ Sea, mountains, rivers, swamps and rain fight the explorers; MacGregor pushes up
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40745 — landfights]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Geographical challenges in the early exploration of PNG — sea, mountains, rivers, swamps and rain fight the explorers; MacGregor pushes up nearly every navigable river, crosses the island and climbs Mount Victoria to plant colonial influence in the interior. Then let your companion ask you one hard question about it — answer from the lesson.

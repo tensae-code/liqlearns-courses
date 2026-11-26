@@ -10,17 +10,23 @@ The arrivals put PNG on the world record but changed local lives for good and il
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40744 — eacharrival]
+
 ## Sub lesson 2 — Cultural influence
 
 Cultures change by contact and diffusion; western schooling, phones and Christianity spread through PNG until people rarely call on ancestors for help — old skills are lost as new ones are learnt, faster in some places than others
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40743 — oldskillsnewskills]
+
 ## Sub lesson 3 — Unit 11.2 responses to imperialism
 
 First contact is role-played, then judged — how colonial powers imposed and held control, what imperialism did to indigenous societies, and how reactions differed from Africa to the Asia-Pacific
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40742 — contactjudged]
 
 ## Say it to your companion
 

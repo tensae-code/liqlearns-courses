@@ -10,11 +10,15 @@ Two world wars started far away arrive in PNG — the colonisers fight each othe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40741 — twofaroffwars]
+
 ## Sub lesson 2 — Impact of World War II
 
 Japan takes Rabaul in 1942 and makes it its South-West Pacific headquarters; ANGAU runs the unoccupied territory with PNG carriers, stretcher-bearers and interpreters; American abundance — and black soldiers with white soldiers' privileges — astonishes villagers, while bombs destroy gardens, homes and lives
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40740 — warreachesvillages]
 
 ## Sub lesson 3 — Significance of War Tracks during World War II
 
@@ -22,11 +26,15 @@ Three jungle tracks become lifelines — Kokoda, Black Cat and Bulldog — up ne
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40739 — threetracks]
+
 ## Sub lesson 4 — Fuzzy Wuzzy Angels
 
 On the Owen Stanley Track, PNG carriers — "impromptu angels with the fuzzy-wuzzy hair" — carry badly wounded Australians down the mountain "as gentle as a nurse", and mothers in Australia pray for them by name; students map every battle site with dates and participants
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40738 — fuzzywuzzyangels]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ A Scottish stonemason's son, converted in a revival, sails to Rarotonga then New
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40737 — tamateschain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Case study – James Chalmers — a Scottish stonemason's son, converted in a revival, sails to Rarotonga then New Guinea as "Tamate", builds the southern-coast mission chain, interprets at the 1884 Protectorate ceremony, and is killed with Oliver Tompkins on Goaribari Island in 1901 — the last punitive expedition and a judge's suicide follow. Then let your companion ask you one hard question about it — answer from the lesson.

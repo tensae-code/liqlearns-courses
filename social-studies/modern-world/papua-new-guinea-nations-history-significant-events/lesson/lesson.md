@@ -10,6 +10,8 @@ The nation's turning points — discovery, the coming of missionaries, Independe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40730 — turningpoints]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Nation's history — the nation's turning points — discovery, the coming of missionaries, Independence and international events, with natural disasters and economic shocks beside them — are listed, explained and drawn on one national timeline. Then let your companion ask you one hard question about it — answer from the lesson.
