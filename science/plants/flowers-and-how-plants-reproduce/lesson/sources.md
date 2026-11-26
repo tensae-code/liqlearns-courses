@@ -1,6 +1,6 @@
 # Sources — Flowers — and how plants reproduce
 
-countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Mauritania, Angola, Syria, Rwanda, Zimbabwe (teacher-guide evidence only), Vietnam, Morocco (teacher-guide evidence only)
+countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Mauritania, Angola, Syria, Rwanda, Zimbabwe (teacher-guide evidence only), Vietnam, Morocco (teacher-guide evidence only), Ecuador
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -282,3 +282,31 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, plant
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, plants flowers-and-how-plants-reproduce
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G6):** *Ciencias Naturales — 6to EGB (Grade 6), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-010-2, primera impresión agosto 2016. PDF pages: 145 (printed p. = PDF p. − 3). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G6 record is cover-swapped at source, so the genuine Don Bosco 2016 edition — the same earlier-edition series the science wave read for G3/G8 — is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants with flowers (Ecuador, G6) | Ecuador, *EC G6 Ciencias Naturales DB2016*, printed pp. 23–30 |
+
+**Acceptance count: taught in 12 countries (Guyana, India, Bulgaria, Armenia, Cambodia, Seychelles, Mauritania, Angola, Syria, Rwanda, Vietnam, Ecuador) — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, plants flowers-and-how-plants-reproduce
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants with flowers (phanerogams) (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 60–62 |
+
+**Acceptance count unchanged: taught in 12 countries.** Ecuador is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, plants flowers-and-how-plants-reproduce

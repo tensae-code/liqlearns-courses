@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea, Libya, Jordan, Iran, Kazakhstan
+countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea, Libya, Jordan, Iran, Kazakhstan, Ecuador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -987,3 +987,31 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, construyamos el futuro, electricity-and-magnetism circuits-source-load-wires-open-and-closed
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G6):** *Ciencias Naturales — 6to EGB (Grade 6), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-010-2, primera impresión agosto 2016. PDF pages: 145 (printed p. = PDF p. − 3). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G6 record is cover-swapped at source, so the genuine Don Bosco 2016 edition — the same earlier-edition series the science wave read for G3/G8 — is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| electric circuits (Ecuador, G6) | Ecuador, *EC G6 Ciencias Naturales DB2016*, printed pp. 135–136 |
+
+**Acceptance count: taught in 41 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, electricity-and-magnetism circuits-source-load-wires-open-and-closed
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| electric circuits (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 136–138 |
+
+**Acceptance count unchanged: taught in 41 countries.** Ecuador is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, electricity-and-magnetism circuits-source-load-wires-open-and-closed

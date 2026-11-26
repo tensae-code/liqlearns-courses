@@ -1,6 +1,6 @@
 # Sources — Evolution and the origin of life
 
-countries: Sri Lanka, Colombia, Kazakhstan, Honduras
+countries: Sri Lanka, Colombia, Kazakhstan, Honduras, Ecuador
 
 **Book (Sri Lanka — Grade 9 Science Part I (English medium)):** Title as printed: Science Part – I, Grade 9. Publisher: Educational Publications Department, Sri Lanka. First print 2017, third print 2019. ISBN 978-955-25-0162-3. PDF 122 pages, 12,471,706 bytes. Verdict: COMPLETE for Part I (Chapters 1–9, printed pp. 1–111); Part II of Grade 9 is not among the target records — library debt, see group log. Record: TSV blob record only; no books.json twin. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
 
@@ -106,3 +106,17 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, animals/evolution-and-the-origin-of-life
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G10):** *Ciencias Naturales — 10mo EGB (Grade 10)* (student book) — Ecuador, Ministerio de Educación del Ecuador / SMEcuaediciones, primera impresión julio 2016. PDF pages: 225 (printed pp. 1–224 + cover). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G10 record is cover-swapped at source (its body is the 9no book), so the genuine SM 2016 edition — the same SM series the science wave read for G8 — is stocked here. Scope note, as filed (the science wave's G9 pattern): this combined book's pure Biology chapters (Unit 1 classification of living beings; Unit 2 reproduction in living beings) and its pure Physics and Chemistry parts of Unit 6 (fluids; carbon and biomolecules) are recorded in the placements file as split-subject chapter lines, not placements — their items are covered by the Biology/Physics/Chemistry waves and are not placed here; only the placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4: origin of the universe, the Solar System and planet Earth; origin of life from biomolecules to the first cells (Ecuador, G10) | Ecuador, *EC G10 Ciencias Naturales SM2016*, printed pp. 118–125 |
+
+**Acceptance count: taught in 5 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, sm, smecuaediciones, animals evolution-and-the-origin-of-life

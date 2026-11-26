@@ -1,6 +1,6 @@
 # Sources — Fertilisation, pregnancy and birth
 
-countries: Nicaragua, Honduras
+countries: Nicaragua, Honduras, Ecuador
 
 **Book (Nicaragua — Grade 6):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 6to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Coordination: Martha Catalina Acevedo; authors Msc. Néstor E. et al. PDF 222 pages, 11,500,635 bytes. Verdict: COMPLETE (printed pp. 9–221, Units 1–12 plus an annex of 15 experimental activities and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-06/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
 
@@ -77,3 +77,17 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/fertilisation-pregnancy-and-birth
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fertilisation, pregnancy month by month, and birth (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 50–51 |
+
+**Acceptance count: taught in 3 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, the-human-body fertilisation-pregnancy-and-birth

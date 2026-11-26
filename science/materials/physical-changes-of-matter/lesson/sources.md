@@ -1,6 +1,6 @@
 # Sources — Physical changes of matter
 
-countries: Cambodia, Seychelles, Kuwait, Syria, Rwanda, Iraq, Iran
+countries: Cambodia, Seychelles, Kuwait, Syria, Rwanda, Iraq, Iran, Ecuador
 
 **Book (Cambodia — Grade 6, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦* (Science, Grade 6) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004324). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6). PDF 129 pages, 53,050,077 bytes (matches record). Verdict: COMPLETE (Chapters 1–6, 17 lessons, printed pp. 1–128). Read note, carried as filed: this PDF is image-only (no usable text layer); read from rendered contents and lesson pages; printed page numbers are the book's own printed pages as listed in its contents page. Twin record: TSV release record and books.json record grade-06/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
 
@@ -143,3 +143,17 @@ Placement choice, on the record: the Iran placement(s) above filed as `materials
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, materials physical-changes-of-matter
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G6):** *Ciencias Naturales — 6to EGB (Grade 6), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-010-2, primera impresión agosto 2016. PDF pages: 145 (printed p. = PDF p. − 3). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G6 record is cover-swapped at source, so the genuine Don Bosco 2016 edition — the same earlier-edition series the science wave read for G3/G8 — is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| changes in matter: physical changes and changes of state (Ecuador, G6) | Ecuador, *EC G6 Ciencias Naturales DB2016*, printed pp. 105–109 |
+
+**Acceptance count: taught in 8 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, materials physical-changes-of-matter

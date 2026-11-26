@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt, Afghanistan, Venezuela, Bhutan, Kuwait, Syria, Eritrea, Bangladesh, Fiji, Yemen, Saudi Arabia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt, Afghanistan, Venezuela, Bhutan, Kuwait, Syria, Eritrea, Bangladesh, Fiji, Yemen, Saudi Arabia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Ecuador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -762,3 +762,17 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, motion-force-and-energy force-gravity-weight-and-the-newton-meter
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| gravity, magnetism and electric force as forces at a distance (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 128–129 |
+
+**Acceptance count: taught in 36 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, motion-force-and-energy force-gravity-weight-and-the-newton-meter

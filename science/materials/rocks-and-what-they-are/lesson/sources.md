@@ -1,6 +1,6 @@
 # Sources — Rocks — and what they are
 
-countries: Albania (teacher-guide evidence only), Armenia, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Syria, Iraq, Papua New Guinea
+countries: Albania (teacher-guide evidence only), Armenia, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Syria, Iraq, Papua New Guinea, Ecuador
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -201,3 +201,31 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 Placement choice, on the record: the Papua New Guinea placements filed 9 of these rows as "NEW LESSON NEEDED — rocks-and-their-properties" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rocks (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 92–96 |
+
+**Acceptance count: taught in 7 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, materials rocks-and-what-they-are
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G10):** *Ciencias Naturales — 10mo EGB (Grade 10)* (student book) — Ecuador, Ministerio de Educación del Ecuador / SMEcuaediciones, primera impresión julio 2016. PDF pages: 225 (printed pp. 1–224 + cover). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G10 record is cover-swapped at source (its body is the 9no book), so the genuine SM 2016 edition — the same SM series the science wave read for G8 — is stocked here. Scope note, as filed (the science wave's G9 pattern): this combined book's pure Biology chapters (Unit 1 classification of living beings; Unit 2 reproduction in living beings) and its pure Physics and Chemistry parts of Unit 6 (fluids; carbon and biomolecules) are recorded in the placements file as split-subject chapter lines, not placements — their items are covered by the Biology/Physics/Chemistry waves and are not placed here; only the placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4: formation of rocks: igneous, sedimentary and metamorphic rocks and the rock cycle (Ecuador, G10) | Ecuador, *EC G10 Ciencias Naturales SM2016*, printed pp. 148–151 |
+
+**Acceptance count unchanged: taught in 7 countries.** Ecuador is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, sm, smecuaediciones, materials rocks-and-what-they-are

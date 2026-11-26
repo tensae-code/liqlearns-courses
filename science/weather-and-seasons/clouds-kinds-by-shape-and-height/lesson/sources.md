@@ -1,6 +1,6 @@
 # Sources — Clouds — kinds by shape and height
 
-countries: Saudi Arabia, Papua New Guinea
+countries: Saudi Arabia, Papua New Guinea, Ecuador
 
 **Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
 
@@ -57,3 +57,17 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 Placement choice, on the record: the Papua New Guinea placements filed 4 of these rows as "NEW LESSON NEEDED — types-of-clouds" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G6):** *Ciencias Naturales — 6to EGB (Grade 6), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-010-2, primera impresión agosto 2016. PDF pages: 145 (printed p. = PDF p. − 3). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G6 record is cover-swapped at source, so the genuine Don Bosco 2016 edition — the same earlier-edition series the science wave read for G3/G8 — is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| meteorological phenomena: clouds, rain and wind events (Ecuador, G6) | Ecuador, *EC G6 Ciencias Naturales DB2016*, printed pp. 58–61 |
+
+**Acceptance count: taught in 3 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, weather-and-seasons clouds-kinds-by-shape-and-height

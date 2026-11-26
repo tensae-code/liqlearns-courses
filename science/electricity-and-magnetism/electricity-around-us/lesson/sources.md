@@ -1,6 +1,6 @@
 # Sources — Electricity around us
 
-countries: Albania (teacher-guide evidence only), Rwanda, Morocco (teacher-guide evidence only)
+countries: Albania (teacher-guide evidence only), Rwanda, Morocco (teacher-guide evidence only), Ecuador
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -49,3 +49,17 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, electricity-and-magnetism electricity-around-us
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| electricity as a form of energy (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 117–118 |
+
+**Acceptance count: taught in 2 countries (Rwanda, Ecuador) — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, electricity-and-magnetism electricity-around-us

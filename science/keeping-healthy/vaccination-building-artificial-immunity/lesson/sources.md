@@ -1,6 +1,6 @@
 # Sources — Vaccination — building artificial immunity
 
-countries: Saudi Arabia
+countries: Saudi Arabia, Ecuador
 
 **Book (Saudi Arabia — Grade 4, Part 1):** *Science — Grade 4 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Fourth Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-39-9; catalogue gives 218 pp (21 × 27.5 cm). Student book. PDF pages: 218; bytes 46,809,197. Verdict: COMPLETE (contents, printed pp. 5–6, through the glossary, printed pp. 209–217, and the closing Vision 2030 page, printed p. 218). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
 
@@ -15,3 +15,17 @@ Placement choice, on the record: this NEW LESSON was built for the Saudi Arabia 
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, keeping-healthy vaccination-building-artificial-immunity
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G10):** *Ciencias Naturales — 10mo EGB (Grade 10)* (student book) — Ecuador, Ministerio de Educación del Ecuador / SMEcuaediciones, primera impresión julio 2016. PDF pages: 225 (printed pp. 1–224 + cover). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G10 record is cover-swapped at source (its body is the 9no book), so the genuine SM 2016 edition — the same SM series the science wave read for G8 — is stocked here. Scope note, as filed (the science wave's G9 pattern): this combined book's pure Biology chapters (Unit 1 classification of living beings; Unit 2 reproduction in living beings) and its pure Physics and Chemistry parts of Unit 6 (fluids; carbon and biomolecules) are recorded in the placements file as split-subject chapter lines, not placements — their items are covered by the Biology/Physics/Chemistry waves and are not placed here; only the placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3: history of vaccines, how vaccines are made, and Ecuador's immunisation programme (Ecuador, G10) | Ecuador, *EC G10 Ciencias Naturales SM2016*, printed pp. 95–104 |
+
+**Acceptance count: taught in 2 countries (Saudi Arabia, Ecuador) — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, sm, smecuaediciones, keeping-healthy vaccination-building-artificial-immunity

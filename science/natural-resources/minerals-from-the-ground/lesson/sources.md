@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia, Malaysia, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Jordan, Kazakhstan, Honduras
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia, Malaysia, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Jordan, Kazakhstan, Honduras, Ecuador
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -653,3 +653,17 @@ Searchable tags: honduras, honduras science, ciencias naturales, secretaria de e
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, comunidad, natural-resources minerals-from-the-ground
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| minerals (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 97–98 |
+
+**Acceptance count: taught in 30 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, natural-resources minerals-from-the-ground

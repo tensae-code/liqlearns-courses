@@ -63,3 +63,17 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, animals/evolution-evidence-and-fossils
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G10):** *Ciencias Naturales — 10mo EGB (Grade 10)* (student book) — Ecuador, Ministerio de Educación del Ecuador / SMEcuaediciones, primera impresión julio 2016. PDF pages: 225 (printed pp. 1–224 + cover). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G10 record is cover-swapped at source (its body is the 9no book), so the genuine SM 2016 edition — the same SM series the science wave read for G8 — is stocked here. Scope note, as filed (the science wave's G9 pattern): this combined book's pure Biology chapters (Unit 1 classification of living beings; Unit 2 reproduction in living beings) and its pure Physics and Chemistry parts of Unit 6 (fluids; carbon and biomolecules) are recorded in the placements file as split-subject chapter lines, not placements — their items are covered by the Biology/Physics/Chemistry waves and are not placed here; only the placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4: history of Earth's geological processes: the five mass extinctions, the palaeontological time scale and radioactive dating of fossils (Ecuador, G10) | Ecuador, *EC G10 Ciencias Naturales SM2016*, printed pp. 138–147 |
+
+**Acceptance count unchanged: taught in 3 countries.** Ecuador is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, sm, smecuaediciones, animals evolution-evidence-and-fossils

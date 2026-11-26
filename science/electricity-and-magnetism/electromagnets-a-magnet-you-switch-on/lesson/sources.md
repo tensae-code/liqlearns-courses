@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, Barbados (curriculum evidence only), India, Pakistan (Punjab), Venezuela, Kuwait, Sri Lanka, Fiji, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Papua New Guinea, Libya (teacher-guide evidence only), Jordan
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, Barbados (curriculum evidence only), India, Pakistan (Punjab), Venezuela, Kuwait, Sri Lanka, Fiji, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Papua New Guinea, Libya (teacher-guide evidence only), Jordan, Ecuador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -393,3 +393,17 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, electricity-and-magnetism electromagnets-a-magnet-you-switch-on
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G6):** *Ciencias Naturales — 6to EGB (Grade 6), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-010-2, primera impresión agosto 2016. PDF pages: 145 (printed p. = PDF p. − 3). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G6 record is cover-swapped at source, so the genuine Don Bosco 2016 edition — the same earlier-edition series the science wave read for G3/G8 — is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the electromagnet: its four parts and how it works (Ecuador, G6) | Ecuador, *EC G6 Ciencias Naturales DB2016*, printed pp. 139–141 |
+
+**Acceptance count: taught in 25 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, electricity-and-magnetism electromagnets-a-magnet-you-switch-on

@@ -55,3 +55,20 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, our-environment/natural-disaster-prevention-and-preparedness
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G6):** *Ciencias Naturales — 6to EGB (Grade 6), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-010-2, primera impresión agosto 2016. PDF pages: 145 (printed p. = PDF p. − 3). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G6 record is cover-swapped at source, so the genuine Don Bosco 2016 edition — the same earlier-edition series the science wave read for G3/G8 — is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| natural disasters and the consequences of natural catastrophes (same NEW slug already proposed by the G5 filing in the science wave) (Ecuador, G6) | Ecuador, *EC G6 Ciencias Naturales DB2016*, printed pp. 93–96 |
+
+Placement choice, on the record: the placement filed as "natural-disaster-prevention-and-preparedness" is stocked into this lesson, our-environment/natural-disaster-prevention-and-preparedness, the course's lesson that teaches this thing, instead of building a duplicate lesson; the filed slug is recorded in this note.
+
+
+**Acceptance count unchanged: taught in 2 countries.** Ecuador is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, our-environment natural-disaster-prevention-and-preparedness

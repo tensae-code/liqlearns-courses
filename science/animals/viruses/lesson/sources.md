@@ -1,6 +1,6 @@
 # Sources — Viruses
 
-countries: Kuwait, Syria, Nicaragua, Malaysia, El Salvador, Colombia, Honduras
+countries: Kuwait, Syria, Nicaragua, Malaysia, El Salvador, Colombia, Honduras, Ecuador
 
 **Book (Kuwait — Grade 5, Term 1):** Title as printed: العلوم — الصف الخامس — الفصل الدراسي الأول. The PDF binds Section 1 and Section 2, each with its own contents and pagination (Section 2 pages are cited as "Section 2 printed p."). Grade 5, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. No ISBN printed. PDF pages: 192. Bytes: 15,705,753 — exactly the books.json `size_bytes`. This book is NOT in the GitHub tree or any release route tried (Contents API 404; asset absent from releases mid-size-books, -1, -3 to -7): it was read from the record's own Drive download link in the staging books.json and the file is STAGED, not deleted (see reading log, "Staged under the new rule"). Records: books.json only, `grade-05/gov/kuwait/science/student/term-1.pdf`. Verdict: COMPLETE. Structure: Unit 1 Life Sciences — Ch.1 A Journey into the Depths of Life (viruses, the five kingdoms), Ch.2 A Journey in the Plant Kingdom, Ch.3 A Journey to the Heart of Nature (adaptation, ecosystems); Unit 2 The Human Body — Ch.1 A Journey to the Wonders of the Human Body; then the Science Inquiry Project. Tally: 13 to existing lessons, 4 NEW LESSON NEEDED (17 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
 
@@ -141,3 +141,17 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, animals/viruses
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G10):** *Ciencias Naturales — 10mo EGB (Grade 10)* (student book) — Ecuador, Ministerio de Educación del Ecuador / SMEcuaediciones, primera impresión julio 2016. PDF pages: 225 (printed pp. 1–224 + cover). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G10 record is cover-swapped at source (its body is the 9no book), so the genuine SM 2016 edition — the same SM series the science wave read for G8 — is stocked here. Scope note, as filed (the science wave's G9 pattern): this combined book's pure Biology chapters (Unit 1 classification of living beings; Unit 2 reproduction in living beings) and its pure Physics and Chemistry parts of Unit 6 (fluids; carbon and biomolecules) are recorded in the placements file as split-subject chapter lines, not placements — their items are covered by the Biology/Physics/Chemistry waves and are not placed here; only the placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3: viruses and their characteristics, transmission, viral diseases, uses of viruses and theories of their origin (Ecuador, G10) | Ecuador, *EC G10 Ciencias Naturales SM2016*, printed pp. 105–109 |
+
+**Acceptance count: taught in 8 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, sm, smecuaediciones, animals viruses

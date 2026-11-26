@@ -1,6 +1,6 @@
 # Sources — Reading climate tables and averaging
 
-countries: Ethiopia, Italy, Bangladesh, Saudi Arabia, Honduras
+countries: Ethiopia, Italy, Bangladesh, Saudi Arabia, Honduras, Ecuador
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -64,3 +64,17 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, weather-and-seasons/reading-climate-tables
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G6):** *Ciencias Naturales — 6to EGB (Grade 6), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-010-2, primera impresión agosto 2016. PDF pages: 145 (printed p. = PDF p. − 3). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G6 record is cover-swapped at source, so the genuine Don Bosco 2016 edition — the same earlier-edition series the science wave read for G3/G8 — is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the climograph: building one and interpreting it (Ecuador, G6) | Ecuador, *EC G6 Ciencias Naturales DB2016*, printed pp. 71–72 |
+
+**Acceptance count: taught in 6 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, weather-and-seasons reading-climate-tables

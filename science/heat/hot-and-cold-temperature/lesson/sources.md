@@ -1,6 +1,6 @@
 # Sources — Hot and cold — temperature
 
-countries: Iran, Jordan
+countries: Iran, Jordan, Ecuador
 
 **Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
 
@@ -36,3 +36,20 @@ Searchable tags: iran, iran science, ministry of education iran, heat hot-and-co
 Jordan's own way (2014 edition) — its older Ministry of Education *Science* books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the book's own unit order (Animals / Measurement / Heat / Light) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science 2014, ministry of education jordan, science hot-and-cold-temperature
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heat and temperature distinguished (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed p. 120 |
+
+Placement choice, on the record: the placement filed as "heat/heat-and-how-it-travels" is stocked into this lesson, heat/hot-and-cold-temperature, the course's lesson that teaches this thing, instead of building a duplicate lesson; the filed slug is recorded in this note.
+
+
+**Acceptance count: taught in 3 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, heat hot-and-cold-temperature

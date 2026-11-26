@@ -1,6 +1,6 @@
 # Sources — Evolution and natural selection
 
-countries: Gabon (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, Nepal, Honduras
+countries: Gabon (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, Nepal, Honduras, Ecuador
 
 **Book 1:** *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 5e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,435,808 bytes). Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 10 ICT and 5 craft/technology lessons not placed per the placements file's scope note; one further Technology lesson, signal transmission, also not placed). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md.
 
@@ -98,3 +98,17 @@ Searchable tags: nepal, curriculum development centre, animals/evolution-and-nat
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, animals/evolution-and-natural-selection
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G10):** *Ciencias Naturales — 10mo EGB (Grade 10)* (student book) — Ecuador, Ministerio de Educación del Ecuador / SMEcuaediciones, primera impresión julio 2016. PDF pages: 225 (printed pp. 1–224 + cover). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G10 record is cover-swapped at source (its body is the 9no book), so the genuine SM 2016 edition — the same SM series the science wave read for G8 — is stocked here. Scope note, as filed (the science wave's G9 pattern): this combined book's pure Biology chapters (Unit 1 classification of living beings; Unit 2 reproduction in living beings) and its pure Physics and Chemistry parts of Unit 6 (fluids; carbon and biomolecules) are recorded in the placements file as split-subject chapter lines, not placements — their items are covered by the Biology/Physics/Chemistry waves and are not placed here; only the placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5: the evolutionary history of South America and the origin of its biodiversity (Ecuador, G10) | Ecuador, *EC G10 Ciencias Naturales SM2016*, printed pp. 162–165 |
+
+**Acceptance count: taught in 6 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, sm, smecuaediciones, animals evolution-and-natural-selection

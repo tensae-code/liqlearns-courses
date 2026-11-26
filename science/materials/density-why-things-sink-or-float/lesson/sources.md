@@ -1,6 +1,6 @@
 # Sources — Density: why things sink or float
 
-countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, China, Syria, Laos, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan, Iran, Kazakhstan, Honduras, Venezuela
+countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, China, Syria, Laos, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan, Iran, Kazakhstan, Honduras, Venezuela, Ecuador
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -629,3 +629,17 @@ Searchable tags: honduras, honduras science, ciencias naturales, secretaria de e
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, construyamos el futuro, materials density-why-things-sink-or-float
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| characteristic properties of matter (density among them) (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed p. 105 |
+
+**Acceptance count: taught in 31 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, materials density-why-things-sink-or-float

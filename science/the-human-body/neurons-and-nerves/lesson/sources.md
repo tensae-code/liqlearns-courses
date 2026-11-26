@@ -1,6 +1,6 @@
 # Sources — Neurons and nerves
 
-countries: Colombia, Kazakhstan, Honduras
+countries: Colombia, Kazakhstan, Honduras, Ecuador
 
 **Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
 
@@ -67,3 +67,31 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/neurons-and-nerves
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G6):** *Ciencias Naturales — 6to EGB (Grade 6), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-010-2, primera impresión agosto 2016. PDF pages: 145 (printed p. = PDF p. − 3). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G6 record is cover-swapped at source, so the genuine Don Bosco 2016 edition — the same earlier-edition series the science wave read for G3/G8 — is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the nervous system (Ecuador, G6) | Ecuador, *EC G6 Ciencias Naturales DB2016*, printed pp. 47–48 |
+
+**Acceptance count: taught in 4 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, the-human-body neurons-and-nerves
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the nervous system: encephalon, spinal cord and nerves (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed p. 38 |
+
+**Acceptance count unchanged: taught in 4 countries.** Ecuador is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, the-human-body neurons-and-nerves

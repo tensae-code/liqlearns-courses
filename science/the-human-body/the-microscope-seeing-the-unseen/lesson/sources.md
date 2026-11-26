@@ -1,6 +1,6 @@
 # Sources — The microscope — seeing the unseen
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Kuwait, Sri Lanka, Saudi Arabia, Vietnam, Colombia, Papua New Guinea (teacher-guide evidence only), Iran, Kazakhstan, Honduras
+countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Kuwait, Sri Lanka, Saudi Arabia, Vietnam, Colombia, Papua New Guinea (teacher-guide evidence only), Iran, Kazakhstan, Honduras, Ecuador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -295,3 +295,17 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/the-microscope-seeing-the-unseen
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the optical microscope and how it is used (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 14–15 |
+
+**Acceptance count: taught in 15 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, the-human-body the-microscope-seeing-the-unseen

@@ -1,6 +1,6 @@
 # Sources — Seasons and the Sun's path — the ecliptic
 
-countries: Palestine, China, Indonesia, Fiji, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Nepal, Papua New Guinea (teacher-guide evidence only), Kazakhstan, Honduras
+countries: Palestine, China, Indonesia, Fiji, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Nepal, Papua New Guinea (teacher-guide evidence only), Kazakhstan, Honduras, Ecuador
 
 **Book 1:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
 
@@ -202,3 +202,17 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, earth-and-space/seasons-and-the-suns-path-the-ecliptic
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| patterns of solar radiation falling on Earth's surface (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed pp. 89–91 |
+
+**Acceptance count: taught in 10 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, earth-and-space seasons-and-the-suns-path-the-ecliptic

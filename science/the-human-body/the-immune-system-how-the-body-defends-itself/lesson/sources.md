@@ -1,6 +1,6 @@
 # Sources — The immune system — how the body defends itself
 
-countries: Bangladesh, Malaysia, Kazakhstan, Honduras
+countries: Bangladesh, Malaysia, Kazakhstan, Honduras, Ecuador
 
 **Book (Bangladesh — Class 9 Investigative Study):** *Investigative Science Study, Class Nine (Experimental Version)* (student book, Grades 9–10 shared) / Bangla twin: *Biggan Onusandhani Path, Nabam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Nine from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 244, Bangla 244; printed pages 236 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14). DUPLICATE RECORDS, as filed: the Grade 10 records are byte-identical to these Grade 9 records (Investigative Bangla 16,278,290 bytes both; Investigative English 14,954,084 both) — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
 
@@ -104,3 +104,17 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/the-immune-system-how-the-body-defends-itself
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G10):** *Ciencias Naturales — 10mo EGB (Grade 10)* (student book) — Ecuador, Ministerio de Educación del Ecuador / SMEcuaediciones, primera impresión julio 2016. PDF pages: 225 (printed pp. 1–224 + cover). Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G10 record is cover-swapped at source (its body is the 9no book), so the genuine SM 2016 edition — the same SM series the science wave read for G8 — is stocked here. Scope note, as filed (the science wave's G9 pattern): this combined book's pure Biology chapters (Unit 1 classification of living beings; Unit 2 reproduction in living beings) and its pure Physics and Chemistry parts of Unit 6 (fluids; carbon and biomolecules) are recorded in the placements file as split-subject chapter lines, not placements — their items are covered by the Biology/Physics/Chemistry waves and are not placed here; only the placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3: the human immune system, the lymphatic system and the body's defence barriers; innate and acquired immunity (Ecuador, G10) | Ecuador, *EC G10 Ciencias Naturales SM2016*, printed pp. 88–94 |
+
+**Acceptance count: taught in 5 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, sm, smecuaediciones, the-human-body the-immune-system-how-the-body-defends-itself

@@ -1,6 +1,6 @@
 # Sources — Hormones and the endocrine system
 
-countries: Bangladesh, Nicaragua, El Salvador, Colombia, Honduras
+countries: Bangladesh, Nicaragua, El Salvador, Colombia, Honduras, Ecuador
 
 **Book (Bangladesh — Class 9 Investigative Study):** *Investigative Science Study, Class Nine (Experimental Version)* (student book, Grades 9–10 shared) / Bangla twin: *Biggan Onusandhani Path, Nabam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Nine from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 244, Bangla 244; printed pages 236 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14). DUPLICATE RECORDS, as filed: the Grade 10 records are byte-identical to these Grade 9 records (Investigative Bangla 16,278,290 bytes both; Investigative English 14,954,084 both) — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
 
@@ -100,3 +100,17 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/hormones-and-the-endocrine-system
+
+## Ecuador growth (2026-11-25, phantom-repair wave)
+
+**Book (Ecuador — G7):** *Ciencias Naturales — 7mo EGB (Grade 7), Serie Ingenios* (student book) — Ecuador, Ministerio de Educación del Ecuador / Editorial Don Bosco (Grupo edebé), ISBN 978-9942-23-011-9, primera impresión agosto 2016 (this copy quinta impresión, junio 2018). PDF pages: 162. Verdict: COMPLETE. Genuine earlier edition under the owner's edition rule: the 2024 MinEduc file behind the G7 record is cover-swapped at source (its body is the 5to book), so the genuine Don Bosco 2016 edition is stocked here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the endocrine system and its hormones (Ecuador, G7) | Ecuador, *EC G7 Ciencias Naturales DB2016*, printed p. 39 |
+
+**Acceptance count: taught in 6 countries — Ecuador added.**
+
+Ecuador's own way — its Ministerio de Educación *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: ecuador, ciencias naturales, don bosco, ingenios, the-human-body hormones-and-the-endocrine-system
