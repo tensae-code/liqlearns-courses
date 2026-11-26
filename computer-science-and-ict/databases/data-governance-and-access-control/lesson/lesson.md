@@ -10,11 +10,15 @@ Data governance and access control — the rules and arrangements that decide wh
 
 In your mind's eye: governance — the rules above the tools.
 
+[Picture 46487 — governance — the rules above the tools]
+
 ## Sub lesson 2 — Access control — the governed door
 
 **Access governance** decides, for each person and each body of data: may they enter, and to do what — read, add, change, delete? Its working rules are the profession's: **least privilege** (no one holds powers their work does not need), **named accounts** (access belongs to a person, never a shared secret), and **review** (permissions are re-judged as jobs change, and removed when they end). Governance is written down or it does not exist: the chapter's learner leaves able to draft the rules, not only work the locks.
 
 In your mind's eye: access control — the governed door.
+
+[Picture 46488 — access control — the governed door]
 
 ## Say it to your companion
 

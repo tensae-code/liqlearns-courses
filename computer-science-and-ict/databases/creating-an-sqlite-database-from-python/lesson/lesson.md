@@ -10,11 +10,15 @@ Python carries the **sqlite3** module built in. The program **imports** it and *
 
 In your mind's eye: connecting with sqlite3 — the file that creates itself.
 
+[Picture 46481 — connecting with sqlite3 — the file that creates itself]
+
 ## Sub lesson 2 — Creating safely — with exceptions
 
 Real programs fail politely or not at all. Kuwait creates the database **safely, with exceptions**: the connecting code is wrapped so that if the file cannot be made or opened — a wrong place, a locked file — the program **catches the error and reports it** instead of dying mid-work with the data half-kept. Safe creation is the course's first professional habit: the database is the memory of everything after it, and its birth is guarded.
 
 In your mind's eye: creating safely — with exceptions.
+
+[Picture 46482 — creating safely — with exceptions]
 
 ## Say it to your companion
 

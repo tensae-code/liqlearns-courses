@@ -10,11 +10,15 @@ Entering data straight into a **table** means working in a grid of rows and colu
 
 In your mind's eye: a table grid on one side and its form on the other — one record laid out with labels, like a card.
 
+[Picture 46485 — a table grid on one side and its form on the other — one record laid out with labels, like a card]
+
 ## Sub lesson 2 — Creating and filling a form
 
 **Creating** a form means choosing the table it serves and arranging its fields: which fields appear, in what order, with what labels — by the program's form-building help or by placing fields by hand. **Filling** it is the daily work: move to a new blank record, type each field, and move through records with the navigation controls to view or correct earlier ones. The form is where the database meets people who never need to see a table — a well-made form makes correct entry the easy path.
 
 In your mind's eye: a form with navigation arrows at its foot, moving from record to record like pages.
+
+[Picture 46486 — a form with navigation arrows at its foot, moving from record to record like pages]
 
 ## Say it to your companion
 

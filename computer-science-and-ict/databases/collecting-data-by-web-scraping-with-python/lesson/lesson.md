@@ -10,11 +10,15 @@ Collecting data by web scraping with Python — a program that fetches web pages
 
 In your mind's eye: scraping — pages in, data out.
 
+[Picture 46469 — scraping — pages in, data out]
+
 ## Sub lesson 2 — The Colab toolkit — Beautiful Soup, pandas, Plotly
 
 The book's workbench is **Google Colab**, where Python runs in the browser with nothing installed. In it: **Beautiful Soup** parses the HTML and finds elements by their tags and classes; **pandas** holds the harvest as a DataFrame — rows and columns that can be cleaned, filtered and counted; **Plotly** turns the table into charts for the eye. The chapter's discipline travels with the tools: scrape only what may be taken (the site's terms and the law of data), record where each table came from, and validate the harvest before analysing it.
 
 In your mind's eye: the Colab toolkit — Beautiful Soup, pandas, Plotly.
+
+[Picture 46470 — the Colab toolkit — Beautiful Soup, pandas, Plotly]
 
 ## Say it to your companion
 

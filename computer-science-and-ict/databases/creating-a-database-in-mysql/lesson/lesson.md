@@ -10,11 +10,15 @@ Egypt's Grade 11 website project needs somewhere real for its dictionary of comp
 
 In your mind's eye: mySQL — a database server, not a file.
 
+[Picture 46477 — mySQL — a database server, not a file]
+
 ## Sub lesson 2 — Tables for the dictionary — fields, types, the key
 
 Inside the new database, the project's **table** is created column by column: for the Illustrated Dictionary, the term, its meaning, and its illustration reference — each column given a **type** (text for the term and meaning, a number where a number belongs) and a length that fits real entries. One column is made the **primary key** — the identifier no two terms may share — so every entry can be found, edited and deleted exactly. Egypt teaches creation inside a live project for a reason: every choice (a too-short text field, a missing key) is paid for later by the Add_Term page that must write into this table, so the table is designed from the page's needs backwards.
 
 In your mind's eye: tables for the dictionary — fields, types, the key.
+
+[Picture 46478 — tables for the dictionary — fields, types, the key]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A VB program works on a database through a **connection** — its opened line to
 
 In your mind's eye: the connection and the DataSet — the database, held in the program.
 
+[Picture 46471 — the connection and the DataSet — the database, held in the program]
+
 ## Sub lesson 2 — The BindingSource — the link between data and form
 
 Between the DataSet and the form's controls stands the **BindingSource**: the component that **binds** a table to the controls, so a grid shows the DataSet's rows and the form's boxes show the **current record** — and moving the current record moves every bound control together. It is the traffic officer of the form: the data changes place, the display follows; the user edits, the BindingSource knows what must be saved.
 
 In your mind's eye: the BindingSource — the link between data and form.
+
+[Picture 46472 — the BindingSource — the link between data and form]
 
 ## Say it to your companion
 

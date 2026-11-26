@@ -10,11 +10,15 @@ Cuba's Grade 11 databases chapter is practical from its second section: after wh
 
 In your mind's eye: sQLite and its administrator.
 
+[Picture 46479 — sQLite and its administrator]
+
 ## Sub lesson 2 — Creating the database — file, tables, fields
 
 The creation order is the database's own structure, outside in: **create the new database file** and name it; inside it, **create each table** the data needs; inside each table, define its **fields** — name and type for each column the records will carry; then **save**, and the file exists holding empty tables ready for records. A field defined wrongly here is paid for by every record after it, so the design — what tables, what fields — is settled before the first table is made.
 
 In your mind's eye: creating the database — file, tables, fields.
+
+[Picture 46480 — creating the database — file, tables, fields]
 
 ## Say it to your companion
 
