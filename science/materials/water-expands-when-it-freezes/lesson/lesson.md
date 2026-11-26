@@ -9,7 +9,11 @@ Most things shrink as they cool and harden. Water does the opposite at the freez
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37108 — a brim-full bottle of water, closed tight, put in the freezer]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37109 — the frozen bottle cracked — the water grew as it froze]
 
 ## Sub lesson 2 — What the expansion does
 
@@ -17,7 +21,11 @@ Because the ice takes more room, it is **lighter for its size than liquid water 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37110 — a lake frozen on top with liquid water and a fish below]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37111 — water in a crack of rock, then frozen — the crack pushed wider]
 
 ## The key ideas
 

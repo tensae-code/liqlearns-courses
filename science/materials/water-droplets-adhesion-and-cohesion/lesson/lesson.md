@@ -9,7 +9,11 @@ Water pulls on itself: **cohesive** forces hold water molecules to each other. W
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37106 — drops sitting on a coin and on foil — two forces in every drop]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37107 — two drops touch and run together into one bigger drop]
 
 ## Sub lesson 2 — Round or flat — and the detergent test
 

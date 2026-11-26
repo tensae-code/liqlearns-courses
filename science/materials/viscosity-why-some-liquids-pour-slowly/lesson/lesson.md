@@ -9,7 +9,11 @@ Yemen's Grade 9 Science book measures pouring slowness with a sinking ball: a st
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37104 — the steel-ball test — one ball let go in car oil, cooking oil and water]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37105 — the same moment later — the ball barely moved in car oil, is halfway in cooking oil, at the bottom in water]
 
 ## Sub lesson 2 — Inner friction — and why engines are oiled
 

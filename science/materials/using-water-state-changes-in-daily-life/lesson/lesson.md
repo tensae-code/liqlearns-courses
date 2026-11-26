@@ -9,7 +9,11 @@ Yemen's Grade 3 Science book teaches matter inside its own unit order: matter ha
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37102 — water in daily life — a glass of liquid water, ice, and vapour rising from a pot]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37103 — ice at work — cubes of ice keeping a drink cold]
 
 ## Sub lesson 2 — How I benefit from the changes
 
