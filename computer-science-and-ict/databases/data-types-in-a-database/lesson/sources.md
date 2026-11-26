@@ -1,6 +1,6 @@
 # Sources — Data Types in a Database
 
-countries: Nepal, North Macedonia, Kazakhstan, France
+countries: Nepal, North Macedonia, Kazakhstan, France, Kenya
 
 **Book 1:** *Computer Science, Class 10* (student book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur. First Edition 2082 B.S. (2025 AD). No ISBN printed (blank on the imprint page). 257 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/nepal-placements.md.
 
@@ -44,3 +44,17 @@ Searchable tags: data types, int, decimal, float, varchar, char, text, date, dat
 France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
 
 Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, data-types-in-a-database
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.6 Field data types and field properties — printed p. 119 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 119 |
+
+**Acceptance count: Kenya added.** (This file carries a pre-existing countries/acceptance mismatch from the ICT expansion wave — left untouched, per the phantom-repair brief; no total is restated here.)
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, data-types-in-a-database

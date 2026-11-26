@@ -1,6 +1,6 @@
 # Sources — Confidentiality, integrity, availability — the CIA triad
 
-countries: Ethiopia, Mongolia, Kuwait, Jordan, Pakistan
+countries: Ethiopia, Mongolia, Kuwait, Jordan, Pakistan, Kenya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -50,3 +50,17 @@ Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging tec
 
 Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
 Searchable tags: CIA triad, confidentiality, integrity, availability, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 7, mongolia, grade 9 it ix, kuwait, grade 10 information technology term 1, jordan, grade 9 term 2 digital skills, pakistan, grade 7 computer science 7, grade 9 computer science 9
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.2 Data security core principles: confidentiality, integrity, availability — printed p. 201 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 201 |
+
+**Acceptance count: taught in 6 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, confidentiality-integrity-availability-the-cia-triad

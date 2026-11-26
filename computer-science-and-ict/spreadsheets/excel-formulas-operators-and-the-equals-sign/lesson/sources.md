@@ -1,6 +1,6 @@
 # Sources — Excel formulas — operators and the equals sign
 
-countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan, Pakistan, Kazakhstan
+countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan, Pakistan, Kazakhstan, Kenya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -158,3 +158,17 @@ Kazakhstan's own way (Salgaraeva G7 «Информатика»): the Arman-PV Gr
 
 Kazakhstan's own way (Zhunusov G8 «INFORMATICS»): the Astana-kitap English-medium Grade 8 book (2nd edition) opens with measuring information by Hartley's formula worked on the Kazakh alphabet in Cyrillic (42) and Latin (32) scripts, and its practical-programming chapter builds one game — the "Melting Snowman" — across four parts from algorithm design to testing.
 Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9, cuba, grade 8, fiji, years 7-8, libya, grade 8 computer, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 8 digital technology, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 8, indonesia, grade 8, vietnam, grade 8 tin học 8, south sudan, grade 9 s1 student, grade 9 s1 teacher, grade 10 s2 student, grade 10 s2 teacher, pakistan, grade 8 computer education 8, kazakhstan, shaniev g8 «informatics», salgaraeva g7 «информатика», zhunusov g8 «informatics»
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.6 Using basic formulae: arithmetic and relational operators, operator precedence — printed p. 83 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 83 |
+
+**Acceptance count: taught in 19 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, excel-formulas-operators-and-the-equals-sign

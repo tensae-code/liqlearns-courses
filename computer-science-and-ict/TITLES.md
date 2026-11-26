@@ -1425,3 +1425,7 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **New Technologies** (ICT leftovers, from France): Data Centres — Where the Cloud Lives
 
 **Programming** (ICT leftovers, from France): Processing CSV Files with Python Pandas · JSON and XML — Exchanging Data · Graph Measures — Distance, Centre and Diameter · Modelling Networks with NetworkX · Controlling a Robot Arm with an HMI
+
+**Spreadsheets** (phantom repair, from Kenya): Subtotals and Grand Totals in a Worksheet
+
+**Databases** (phantom repair, from Kenya): The Data Hierarchy — Character, Field, Record, Table, Database

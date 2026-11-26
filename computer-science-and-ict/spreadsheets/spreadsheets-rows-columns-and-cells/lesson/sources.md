@@ -1,6 +1,6 @@
 # Sources — Spreadsheets — data in rows, columns and cells
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan, Armenia, Indonesia, Vietnam, South Sudan, Pakistan, Kazakhstan
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan, Armenia, Indonesia, Vietnam, South Sudan, Pakistan, Kazakhstan, Kenya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -231,3 +231,17 @@ Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика�
 
 Kazakhstan's own way (Kadirkulov G7 «Информатика»): the Almatykitap Grade 7 course pairs every theory section with «Творческие задания» and test tasks, teaches spreadsheets up to conditional formatting and process modelling, and does its Python through files: reading/writing files and file functions come before branching, nested and compound conditions.
 Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 5 digital skills workbook, armenia, grade 5, grade 6, indonesia, grade 7, grade 7, vietnam, grade 7 tin học 7, south sudan, grade 9 s1 student, grade 10 s2 student, grade 10 s2 teacher, pakistan, grade 8 computer education 8, kazakhstan, kadirkulov g7 informatika, vyshkova & zhurbenko g7 informatics, nis, kadirkulov g7 informatika, 2019 edition, shaniev g8 «informatics», vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition), kadirkulov g7 «информатика»
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.3 Components of a spreadsheet: worksheets, database functionality, graphs — printed p. 74 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 74 |
+
+**Acceptance count: taught in 25 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, spreadsheets-rows-columns-and-cells

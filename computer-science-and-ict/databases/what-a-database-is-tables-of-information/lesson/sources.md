@@ -1,6 +1,6 @@
 # Sources — What a Database Is — Tables of Information
 
-countries: Kuwait, Moldova, Kazakhstan
+countries: Kuwait, Moldova, Kazakhstan, Kenya
 
 **Book 1:** *تقنية المعلومات (Information Technology), Grade 12, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: current printing 2025/2026 (1447H) of the Visual Basic text; ISBN: no ISBN printed. 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
@@ -55,3 +55,17 @@ Kazakhstan's own way (Kadirkulov G9 Informatika): Almatykitap's Grade 9 book spl
 
 Kazakhstan's own way (Heathcote ICT Grade 10): an imported British ICT course (Express Publishing's Grammar Schools series) adapted for Kazakhstan — ten modules that include two topics the national books do not teach at all: expert and control systems, and developing a mobile app.
 Searchable tags: database, tables, records, fields, program connection, databases, kuwait, grade 12 information technology term 2, moldova, grade 12 informatica, kazakhstan, zhunusov g10 computer science, english-medium, adekenova & pryanichnikova g9 informatics, nis, kolyeva g9 informatika, yerzhanov g9 informatics, english-medium, mukhametzhanova g9 informatika, kadirkulov g9 informatika, heathcote ict grade 10
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.1–3.2 Database definition and concepts; electronic data management systems — printed p. 110 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 110 |
+
+**Acceptance count: taught in 4 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, what-a-database-is-tables-of-information

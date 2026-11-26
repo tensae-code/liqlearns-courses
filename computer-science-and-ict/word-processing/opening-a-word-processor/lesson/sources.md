@@ -1,6 +1,6 @@
 # Sources — Opening a word processor
 
-countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan, Vietnam
+countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan, Vietnam, Kenya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -96,3 +96,17 @@ Jordan's own way (Jordan Grade 6 G6 Teacher): Guide plans mirror the workbook bl
 Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
 
 Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8, cuba, grade 2, cuba, grade 5, bhutan, class v, laos, grade 9 ict student, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 6 digital skills workbook, grade 6 digital skills teacher guide, vietnam, grade 4 tin học 4
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.3 Starting Microsoft Word; the Word screen layout — printed p. 3 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 3 |
+
+**Acceptance count: taught in 10 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, opening-a-word-processor

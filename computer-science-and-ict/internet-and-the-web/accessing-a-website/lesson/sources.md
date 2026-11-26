@@ -1,6 +1,6 @@
 # Sources — Accessing a website — address, keyword and ISP
 
-countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia, Vietnam, South Sudan
+countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia, Vietnam, South Sudan, Kenya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -83,3 +83,17 @@ Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book 
 South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
 
 Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7, morocco, grade 2, egypt, grade 5, bhutan, class iv, libya, grade 9 computer, grade 11 it student term 2, laos, grade 12 ict student, jordan, grade 10 term 1 digital skills, armenia, grade 7, vietnam, grade 10 tin học 10, south sudan, grade 9 s1 student
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.7 Browsing the web; downloading web pages — printed p. 190 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 190 |
+
+**Acceptance count: taught in 11 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, accessing-a-website

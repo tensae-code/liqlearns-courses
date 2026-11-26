@@ -1,6 +1,6 @@
 # Sources — Database Security
 
-countries: Fiji, Bangladesh, Vietnam, Kazakhstan
+countries: Fiji, Bangladesh, Vietnam, Kazakhstan, Kenya
 
 **Book 1:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
@@ -35,3 +35,17 @@ Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 ar
 
 Kazakhstan's own way (Vyshkova & Zhurbenko G7 Informatics, NIS): the Nazarbayev Intellectual Schools course is a different programme from the national one: business documents, databases inside the information-processing part, logo design and GIF animation in raster graphics, a whole chapter on modelling the world (including forecasting social problems from data), client–server networks, utilities, and linear-structure programming ending in building your own calculator. Lessons run two pages each with research-style tasks.
 Searchable tags: database, security, databases, fiji, year 11, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, kazakhstan, vyshkova & zhurbenko g7 informatics, nis
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.12 Setting up database security and startup: encryption using a password, startup options — printed p. 147 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 147 |
+
+**Acceptance count: taught in 5 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, database-security

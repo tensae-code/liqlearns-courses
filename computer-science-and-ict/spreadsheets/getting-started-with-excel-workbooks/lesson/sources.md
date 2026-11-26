@@ -1,6 +1,6 @@
 # Sources — Getting Started with Excel Workbooks
 
-countries: Kuwait, Laos, South Sudan, Pakistan, Kazakhstan
+countries: Kuwait, Laos, South Sudan, Pakistan, Kazakhstan, Kenya
 
 **Book 1:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page print المستكشف الرقمي (Digital Explorer), Grade 5, Term 2 — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the series front section placed from Book 1 (Grade 4 Term 1).
 
@@ -41,3 +41,17 @@ Kazakhstan's own way (Shaniev G8 «INFORMATICS»): an English-medium course in f
 
 Kazakhstan's own way (Kadirkulov G7 «Информатика» 2019 edition): the 2019 Almatykitap Grade 7 book is not the 2023 Python book (Book 15): after measurement, networks and spreadsheets it teaches programming through the Lazarus project interface — interface elements, data types, branching, nested and compound conditions — and ends with 3D modelling of objects and events (house, car, table, chair, window, glass as the final tasks).
 Searchable tags: excel, workbook, getting started, save, open, close, window, spreadsheets, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, south sudan, grade 10 s2 student, pakistan, grade 8 computer education 8, kazakhstan, shaniev g8 «informatics», kadirkulov g7 «информатика» 2019 edition
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.5 Creating workbooks in Microsoft Excel; navigating the Excel screen; entering data — printed p. 76 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 76 |
+
+**Acceptance count: taught in 6 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, getting-started-with-excel-workbooks

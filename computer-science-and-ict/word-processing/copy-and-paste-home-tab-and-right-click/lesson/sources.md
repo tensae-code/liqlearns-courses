@@ -1,6 +1,6 @@
 # Sources — Copy and paste — Home tab and right-click ways
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji, Bhutan, Pakistan
+countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji, Bhutan, Pakistan, Kenya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -63,3 +63,17 @@ Bhutan's own way (Class V, Literacy with ICT student book): Word is taught toget
 
 Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
 Searchable tags: copy and paste, Home tab, right-click, select text, clipboard, Ethiopia Grade 8, afghanistan, saudi arabia, grade 3, grade 4, morocco, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class v, pakistan, grade 7 computer science 7
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.4 Block editing operations; copying and moving text and objects — printed p. 12 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 12 |
+
+**Acceptance count: taught in 8 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, copy-and-paste-home-tab-and-right-click

@@ -1,6 +1,6 @@
 # Sources — E-commerce — buying and selling online
 
-countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia, Pakistan, France
+countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia, Pakistan, France, Kenya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -108,3 +108,17 @@ Searchable tags: e-commerce, order flow, buyer merchant bank transporter, interm
 France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
 
 Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, e-commerce-buying-and-selling-online
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 2)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 2, student book):** *Longhorn Secondary Computer Studies Student's Book Form 2* (student book) — Kenya, Longhorn Publishers PLC; authors Stephen Mburu & Geoffrey Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development. © 2004; first published 2004; Revised 2018, reprinted 2019. ISBN 978 9966 49 574 6 (as printed on the copyright page and back-cover barcode; the library record's ISBN 9789966100467 belongs to the earlier printing). Grade 10 (Form 2). 221 PDF pages; printed folio = PDF page − 10. File kenya-computer-form2-longhorn.pdf, 31,817,601 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-10/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every unit opening, at unit-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.6 Internet services: electronic commerce (e-commerce) — printed p. 189 | Kenya, *Longhorn Secondary Computer Studies Form 2*, printed p. 189 |
+
+**Acceptance count: Kenya added.** (This file carries a pre-existing countries/acceptance mismatch from the ICT expansion wave — left untouched, per the phantom-repair brief; no total is restated here.)
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 2) — a pure office-skills year — one unit per Office 2013 application area (Word, Excel, Access, Publisher) worked through feature by feature, then Internet and e-mail, closing with data security and the laws around it, Kenya's own statutes included — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 2, e-commerce-buying-and-selling-online
