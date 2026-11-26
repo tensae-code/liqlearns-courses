@@ -10,6 +10,8 @@ gladiator games and "bread and circuses" fill Roman days while Virgil, Horace, O
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61502 — bread and circuses]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §30 Roman society and culture — gladiator games and "bread and circuses" fill Roman days while Virgil, Horace, Ovid and Tacitus write, and aqueducts, the Colosseum and the Pantheon rebuild the city. Then let your companion ask you one hard question about it — answer from the lesson.

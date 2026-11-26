@@ -10,6 +10,8 @@ Serb tribes organised in župe build two first states — Raška around the fort
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61488 — the first serb states]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: Raška and Duklja — Serb tribes organised in župe build two first states — Raška around the fortress of Ras, where Knez Vlastimir unites the districts and holds off Bulgaria; and coastal Duklja, where the love story of captured prince Jovan Vladimir and Samuil's daughter Kosara softens an empire, Stefan Vojislav wins independence, and Mihailo receives a royal crown from the pope in 1077. Then let your companion ask you one hard question about it — answer from the lesson.

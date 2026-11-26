@@ -10,6 +10,8 @@ The prophet dies and the community nearly splits at the saqifa before pledging a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61485 — the caliphate holds]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: abu bakr — the saqifa and the ridda. Then let your companion ask you one hard question about it — answer from the lesson.

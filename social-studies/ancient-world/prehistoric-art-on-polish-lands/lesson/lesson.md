@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a cave wall, worked amber and an early settlement on Polish land. The student points to each and says which turn in the story it shows.
 
+[Picture 61483 — caves and amber]
+
 ## Sub lesson 3 — The same turns, in our own ground
 
 The Polish lands show the same Palaeolithic and Neolithic turns — hunting art first, then settled farming life — happening in the learners' own ground.

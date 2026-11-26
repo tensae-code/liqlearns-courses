@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Romanesque church with thick walls, round arches and a carved portal. The student points to each feature and says what it did.
 
+[Picture 61503 — thick walls carved portals]
+
 ## Sub lesson 3 — Pilgrims' roads and monasteries
 
 The churches are built by pilgrims' roads and rich monasteries, from France to Poland.

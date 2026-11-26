@@ -10,6 +10,8 @@ colonists, towns of villa and vicus, and above all the legions and their settled
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61504 — dacia turns roman]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea VI, Lecția 4: Romanizarea geto-dacilor — colonists, towns of villa and vicus, and above all the legions and their settled veterans carry Latin into Dacia until the Dacians speak and live Roman. Then let your companion ask you one hard question about it — answer from the lesson.

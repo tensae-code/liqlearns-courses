@@ -10,6 +10,8 @@ Roman gods guard the hearth first and Olympus second, while Roman farms feed a M
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61501 — hearth gods and farms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.V §4–5: What the ancient Romans believed, and the economy of ancient Rome. Then let your companion ask you one hard question about it — answer from the lesson.

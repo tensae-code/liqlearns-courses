@@ -10,6 +10,8 @@ Expansion continues under uthman, and the term closes with ali, the fourth calip
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61487 — the rashidun age ends]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: uthman ibn affan and ali ibn abi talib. Then let your companion ask you one hard question about it — answer from the lesson.

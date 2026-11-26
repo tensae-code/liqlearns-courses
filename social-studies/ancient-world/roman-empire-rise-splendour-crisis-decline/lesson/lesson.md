@@ -10,6 +10,8 @@ Augustus founds an empire that rules the Mediterranean world, then crisis, divis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61499 — rise splendour fall]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.7–3.8 Rise and splendour of the Roman Empire; crisis and decadence — Augustus founds an empire that rules the Mediterranean world, then crisis, division and invasion bring it down. Then let your companion ask you one hard question about it — answer from the lesson.

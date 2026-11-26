@@ -10,6 +10,8 @@ conquered Dacia is cut into provinces — Ulpia Traiana Sarmizegetusa, Superior,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61498 — dacia under rome]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea VI, Lecția 3: Dacia sub stăpânirea Romei — conquered Dacia is cut into provinces — Ulpia Traiana Sarmizegetusa, Superior, Porolissensis — ringed by the limes of forts and earthworks. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Bones and tools found in Moroccan soil show prehistoric Moroccan man — the fir
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61484 — the first moroccans]
+
 ## Sub lesson 2 — A way of life — hunting, sheltering, surviving
 
 From those remains the guide rebuilds his way of life: hunting, sheltering and surviving in the land that would become Morocco.

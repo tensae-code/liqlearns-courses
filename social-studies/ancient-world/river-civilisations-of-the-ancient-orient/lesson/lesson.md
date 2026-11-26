@@ -10,6 +10,8 @@ the first civilisations grow on great rivers — Mesopotamia, Egypt, India, Chin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61496 — civilisations on rivers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea II, Lecția 1: Omul și mediul în Orientul Antic. Popoarele — the first civilisations grow on great rivers — Mesopotamia, Egypt, India, China — where climate and flood shape farming, crafts and trade. Then let your companion ask you one hard question about it — answer from the lesson.

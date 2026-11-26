@@ -10,11 +10,15 @@ Abu Bakr, chosen at the Saqifa in 11 AH, crushes the apostasy wars and dies in 1
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61490 — five successions]
+
 ## Sub lesson 2 — In the era of the Rashidun caliphs (Unit 2 Lesson 1, second half)
 
 the four caliphs are chosen four different ways — Saqifa bay'a, designation, a council of six, emergency choice — and between 11 and 40 AH they gather the Qur'an into one mushaf, found Basra, Kufa and Fustat with Yemenis sharing in the planning, create the diwans of army, land-tax and stipends, the night police and the first fleet that beats Byzantium at Dhat al-Sawari, and dig the canal joining the Nile to the Red Sea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61491 — chosen four ways]
 
 ## Say it to your companion
 

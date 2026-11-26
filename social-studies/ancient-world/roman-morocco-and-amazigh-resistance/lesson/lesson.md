@@ -10,6 +10,8 @@ The guide maps the Roman occupation of Morocco and shows how Rome exploited the 
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61500 — the occupation mapped]
+
 ## Sub lesson 2 — Aedemon's revolt — the Amazigh answer
 
 The Amazigh answer is taught through a model case: Aedemon, an Amazigh freedman, raises the mountains against the empire in revolt.
