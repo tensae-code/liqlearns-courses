@@ -10,11 +10,15 @@ iron weapons and horse gear hand the steppe to mounted warrior tribes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61121 — the age of iron and the horse]
+
 ## Sub lesson 2 — §22–23 The Sakas in written sources
 
 Persian and Greek writers describe the Sakas from outside while their kurgans speak from inside
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61122 — writers outside kurgans inside]
 
 ## Sub lesson 3 — §24 Steppe tribal unions and their settlement
 

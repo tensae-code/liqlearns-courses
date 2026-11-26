@@ -234,11 +234,15 @@ Moghulistan's khans and the Kazakh secession close its arc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61099 — the lesson moghulistans arc]
+
 ## Sub lesson 30 — §44 Socio-economic relations and state order, 14th–15th c. (lesson plan)
 
 ulus administration and taxes are diagrammed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61100 — the lesson the order diagrammed]
 
 ## Sub lesson 31 — §45 Art and literature of the 13th–15th centuries (lesson plan)
 
@@ -246,11 +250,15 @@ Horde-age epics and chronicles are read as literature and source
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61101 — the lesson epics as sources]
+
 ## Sub lesson 32 — §46 Features of traditional cattle-breeding (lesson plan)
 
 the four-kind herd's year is charted in the economy lesson
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61102 — the lesson the herds year]
 
 ## Sub lesson 33 — §47 Nomad applied art achievements, 13th–15th c. (lesson plan)
 
@@ -258,11 +266,15 @@ felt and silver masterpieces evidence craft at its peak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61103 — the lesson craft at its peak]
+
 ## Sub lesson 34 — §26–27 The Mongols conquer Kazakhstan's territory
 
 resistance city by city ends in the steppe's incorporation into an empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61104 — city by city]
 
 ## Sub lesson 35 — §28–29 Kazakhstan inside the Mongol Empire
 
@@ -270,11 +282,15 @@ ulus rule, taxes and the yam post organise conquered Kazakhstan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61105 — ulus taxes and the yam]
+
 ## Sub lesson 36 — §30 Eastern Desht-i Kipchak separates politically: the Ak Orda
 
 the White Horde becomes the east's own state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61106 — the east separates]
 
 ## Sub lesson 37 — §31 Moghulistan (mid 14th–early 16th c.)
 
@@ -282,11 +298,15 @@ the Chagatai east holds Semirechye as Moghulistan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61107 — moghulistan holds semirechye]
+
 ## Sub lesson 38 — §32 The state of Amir Timur and his descendants
 
 Timur's empire and his heirs press on the steppe's south
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61108 — timur and his heirs]
 
 ## Sub lesson 39 — §33 The Abulkhair Khanate (1428–1468)
 
@@ -294,11 +314,15 @@ Abulkhair's Uzbek state gathers — then loses — the Desht
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61109 — 1428 to 1468]
+
 ## Sub lesson 40 — §34 The Nogai Horde; the Siberian Khanate
 
 Nogai and Siberian khanates flank the Kazakh lands
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61110 — flanked by khanates]
 
 ## Sub lesson 41 — §35 Social and political structure of the 13th–first-half-15th c. states
 
@@ -306,11 +330,15 @@ ulus order and khanly courts are compared across successor states
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61111 — khanly courts compared]
+
 ## Sub lesson 42 — §36 The states' economy, 13th–first half 15th c.
 
 herds, cities and caravan taxes feed the post-Horde world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61112 — what fed the states]
 
 ## Sub lesson 43 — §37 Spiritual culture develops, 13th–first half 15th c.
 
@@ -318,11 +346,15 @@ epic singers and chroniclers keep the Horde age's memory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61113 — memory sung and written]
+
 ## Sub lesson 44 — 3.1 How did the Mongols reach the level of statehood?
 
 Chinggis's reforms turn tribes into an organised empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61114 — tribes into an empire]
 
 ## Sub lesson 45 — 3.2 How much resistance did the local population show the Mongol invasion?
 
@@ -330,11 +362,15 @@ Otrar's six-month defence becomes the invasion's emblem
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61115 — six months at otrar]
+
 ## Sub lesson 46 — 3.3 Who changed Central Asia more — the Kipchaks or the Mongols?
 
 two steppe peoples' legacies are weighed against each other
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61116 — weighing two legacies]
 
 ## Sub lesson 47 — 3.4 What changes came to the political map from the Mongol uluses' formation?
 
@@ -342,11 +378,15 @@ Jochi's and Chagatai's uluses partition the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61117 — the steppe partitioned]
+
 ## Sub lesson 48 — 3.5 What was the Ak Orda's role in the formation of Kazakh statehood?
 
 the White Horde's order becomes the khanate's foundation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61118 — the foundation]
 
 ## Sub lesson 49 — 3.6 What political changes did events in the Abulkhair and Moghulistan states bring?
 
@@ -354,11 +394,15 @@ rival khanates set the stage for a Kazakh breakaway
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61119 — the stage is set]
+
 ## Sub lesson 50 — 3.7 Why did Edige's and Koshim Khan's attempts to strengthen their states fail?
 
 the Nogai mirza and Siberian khan cannot hold their unions together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61120 — unions that would not hold]
 
 ## Say it to your companion
 
