@@ -10,6 +10,8 @@ defeat at Sevastopol becomes a national lesson retold for generations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40262 — lessonskept]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.3 Why is the memory of the Crimean War so important for Russia, which lost it? — defeat at Sevastopol becomes a national lesson retold for generations. Then let your companion ask you one hard question about it — answer from the lesson.

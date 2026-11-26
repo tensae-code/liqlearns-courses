@@ -10,6 +10,8 @@ human work passes from hand to machine to the age of space, biology and informat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40263 — handtospace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The contemporary scientific and technological revolution (Unit 6 Lesson 3) — human work passes from hand to machine to the age of space, biology and information networks; the revolution is fast, cumulative and double-edged — new energy, cloning and remote sensing beside widening gaps between advanced and developing worlds — and the book closes by asking what the Arabs must build to root research and invention in their own homeland. Then let your companion ask you one hard question about it — answer from the lesson.

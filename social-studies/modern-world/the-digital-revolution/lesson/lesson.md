@@ -10,6 +10,8 @@ Gates and Jobs (Personaggi) put a computer on every desk and the Net connects th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40253 — everydesk]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 15 §§1–2 La rivoluzione elettronica; La Rete — Gates and Jobs (Personaggi) put a computer on every desk and the Net connects them — the postindustrial society's founding technology arrives as a consumer good. Then let your companion ask you one hard question about it — answer from the lesson.

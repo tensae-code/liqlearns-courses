@@ -10,6 +10,8 @@ The High Commission of 1946 becomes EACSO, then the Community of Amin, Kenyatta 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40246 — joinedagain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Historical background of the EAC — the High Commission of 1946 becomes EACSO, then the Community of Amin, Kenyatta and Nyerere's portraits collapses — trade declines, movement is restricted, enmity grows — and is revived for common taxes, peace and unity. Then let your companion ask you one hard question about it — answer from the lesson.

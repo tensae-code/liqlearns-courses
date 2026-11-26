@@ -10,11 +10,15 @@ Atatürk remakes Turkey, Reza Shah drives Iran to modernise, and China tears its
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40243 — threeremakers]
+
 ## Sub lesson 2 — Theme 2, Lessons 27–30: the traditional societies of the East in the 1920s–1930s
 
 from Turkey to Japan and China, eastern societies wrestle with whether to copy the West or defend their own ways as empires press in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40242 — copyorown]
 
 ## Say it to your companion
 

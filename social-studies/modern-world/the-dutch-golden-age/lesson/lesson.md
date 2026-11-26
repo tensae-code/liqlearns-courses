@@ -10,6 +10,8 @@ a small republic of merchants dominates world trade, finance and painting — an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40251 — goldenage]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 6, Cap. 19 §4 The Dutch miracle — a small republic of merchants dominates world trade, finance and painting — an economy pictured in a bouquet of flowers (Storie d'arte). Then let your companion ask you one hard question about it — answer from the lesson.

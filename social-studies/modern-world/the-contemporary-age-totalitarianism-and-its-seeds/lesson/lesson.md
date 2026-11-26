@@ -10,11 +10,15 @@ the contemporary age opens with totalitarian regimes rising in Europe and the Ve
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40265 — sowedstorm]
+
 ## Sub lesson 2 — Tema 1: Introducere în studierea istoriei contemporane
 
 "a people that does not know its history" is the journal's opening warning; integration begins with the Coal and Steel Community of 1951 and the age turns on 1989–91
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40264 — knowyourhistory]
 
 ## Say it to your companion
 

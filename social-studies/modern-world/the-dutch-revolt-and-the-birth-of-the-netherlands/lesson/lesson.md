@@ -10,6 +10,8 @@ the Netherlands rise against Philip II's Spain and, after eighty years, win the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40250 — eightyyears]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §8 The Dutch Revolution — the Netherlands rise against Philip II's Spain and, after eighty years, win the first bourgeois republic of the age. Then let your companion ask you one hard question about it — answer from the lesson.

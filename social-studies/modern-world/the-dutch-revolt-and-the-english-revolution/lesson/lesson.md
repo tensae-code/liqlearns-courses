@@ -10,6 +10,8 @@ Dutch burghers and English parliamentarians invent the modern state by rebelling
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40249 — reininkings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.1.4 Revolutions in the Netherlands and England. Then let your companion ask you one hard question about it — answer from the lesson.

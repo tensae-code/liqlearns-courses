@@ -10,11 +10,15 @@ Europe answers with deflation, protectionism and dictatorship; in the peripherie
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40255 — saltmarch]
+
 ## Sub lesson 2 — Modulo 4 §4 Le conseguenze in Europa
 
 deflation, unemployment and collapsing democracies — the crisis crosses the Atlantic and becomes the dictatorships' recruiting sergeant
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40254 — slump]
 
 ## Say it to your companion
 

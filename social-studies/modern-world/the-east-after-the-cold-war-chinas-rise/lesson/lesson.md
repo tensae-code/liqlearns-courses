@@ -10,11 +10,15 @@ China's reforms make it the world's workshop while Japan stagnates and the Asian
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40245 — workshoprises]
+
 ## Sub lesson 2 — Theme 4, Lessons 56–57: the countries of the East in the post-Cold War years
 
 China's rise, Japan's stagnation and the Asian tigers redraw the world's economic map eastward
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40244 — tiltseast]
 
 ## Say it to your companion
 

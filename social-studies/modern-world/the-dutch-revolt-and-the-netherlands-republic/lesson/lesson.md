@@ -10,6 +10,8 @@ Spain's richest provinces rebel against Philip II's taxes and Inquisition, the D
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40248 — utrecht1579]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §56 The Netherlands revolution — Spain's richest provinces rebel against Philip II's taxes and Inquisition, the Duke of Alba's terror hardens resistance under William of Orange, and the Union of Utrecht (1579) births a republic that Amsterdam's trade makes golden. Then let your companion ask you one hard question about it — answer from the lesson.

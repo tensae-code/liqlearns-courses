@@ -10,6 +10,8 @@ Britain, France and Piedmont fight Russia in Crimea; the first war reported by j
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40261 — photographedwar]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 12 §3 The Crimean War (1853–1856) and its international consequences — Britain, France and Piedmont fight Russia in Crimea; the first war reported by journalists and photographers breaks the Vienna system and opens Italy's road to the great-power table. Then let your companion ask you one hard question about it — answer from the lesson.

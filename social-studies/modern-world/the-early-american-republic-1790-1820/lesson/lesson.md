@@ -10,6 +10,8 @@ Two visions of the republic collided: Federalists and Democratic-Republicans fou
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40247 — twovisions]
+
 ## Sub lesson 2 — Parties are born in the fighting
 
 The fighting organised itself. Parties were born in the fighting — lasting camps with names, newspapers and loyalties, arguing the republic's future election after election.

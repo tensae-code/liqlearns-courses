@@ -10,6 +10,8 @@ Captain Dreyfus is framed on forged papers and sent to lifelong exile (1894); Zo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40252 — forgedpaper]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II §§6–7 The internal and external policy of France — Captain Dreyfus is framed on forged papers and sent to lifelong exile (1894); Zola's published letter forces the real spy Esterhazy into the open, and France splits for a decade before Dreyfus is fully cleared (1906) — while iron output quadruples and the Eiffel Tower rises over the republic. Then let your companion ask you one hard question about it — answer from the lesson.
