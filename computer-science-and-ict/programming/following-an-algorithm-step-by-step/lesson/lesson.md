@@ -14,6 +14,8 @@ Executing well means three habits: read the whole plan once before starting, tic
 
 In your mind's eye: a child following a numbered plan on paper, ticking step 2 of 4 with a pencil while doing it.
 
+[Picture 47114 — a child following a numbered plan on paper, ticking step 2 of 4 with a pencil while doing it]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Executing an algorithm means following its steps one at a time, in order, doing each step fully before the next — the follower is the executor. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

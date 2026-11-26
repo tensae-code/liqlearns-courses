@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Field-width Specifier** — cove
 
 In your mind's eye: field-width Specifier.
 
+[Picture 47098 — field-width Specifier]
+
 ## Sub lesson 2 — Doing it — Field Width and Formatting Numbers in Printf in practice
 
 **Doing it — Field Width and Formatting Numbers in Printf in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Field Width and Formatting Numbers in Printf in practice.
+
+[Picture 47099 — doing it — Field Width and Formatting Numbers in Printf in practice]
 
 ## Say it to your companion
 

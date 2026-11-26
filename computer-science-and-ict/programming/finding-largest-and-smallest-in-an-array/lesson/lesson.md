@@ -10,11 +10,15 @@ Set **max = a[0]**. For each remaining element, **if (a[i] > max) max = a[i];** 
 
 In your mind's eye: best-so-far — value.
 
+[Picture 47105 — best-so-far — value]
+
 ## Sub lesson 2 — Smallest, and where it sits
 
 **min** mirrors max with **<**. Often the **position** matters as much as the value: keep **imax** beside max, updating both together, and the program can report 'largest is 9, at index 4'. Ties keep the **first** extreme position, because the strict comparison only replaces on a true beating — a detail the exercises test.
 
 In your mind's eye: smallest, and where it sits.
+
+[Picture 47106 — smallest, and where it sits]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Solved Examples** — covering: 
 
 In your mind's eye: solved Examples.
 
+[Picture 47115 — solved Examples]
+
 ## Sub lesson 2 — Doing it — For Loop Programs Counting Multiples Evens and Primes in practice
 
 **Doing it — For Loop Programs Counting Multiples Evens and Primes in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — For Loop Programs Counting Multiples Evens and Primes in practice.
+
+[Picture 47116 — doing it — For Loop Programs Counting Multiples Evens and Primes in practice]
 
 ## Say it to your companion
 

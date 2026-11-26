@@ -10,11 +10,15 @@ A **route** solves one burrow; a **strategy** is an algorithm that solves the fa
 
 In your mind's eye: from a route to a strategy.
 
+[Picture 47107 — from a route to a strategy]
+
 ## Sub lesson 2 — Proving ‘always’
 
 A strategy that ‘works every time’ (qui fonctionne à tous les coups) makes a promise trials must test: run it on many burrows — easy, nasty, adversarial — count movements against the naive route, and hunt the burrow that breaks it. One breaking burrow refutes ‘always’ and improves the strategy; surviving every test the class can build earns provisional trust. This is the algorithmist's honesty standard, first met over a marmot: claims are sized to the tests survived.
 
 In your mind's eye: proving ‘always’.
+
+[Picture 47108 — proving ‘always’]
 
 ## Say it to your companion
 

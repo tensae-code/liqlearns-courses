@@ -10,6 +10,8 @@ This double lesson puts motion blocks to work on two jobs. In **"Подреди 
 
 In your mind's eye: a picture of the hero on a path shaped like letters, with a star goal, a dice beside the path, and motion blocks below waiting to be snapped together.
 
+[Picture 47100 — a picture of the hero on a path shaped like letters, with a star goal, a dice beside the path, and motion blocks below waiting to be snapped together]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Finding a path means planning the hero's route first — spelling a word and reaching a goal — then building exactly that route out of motion blocks, and testing it in a dice game of moves. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

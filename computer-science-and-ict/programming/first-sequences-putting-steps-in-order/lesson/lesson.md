@@ -10,6 +10,8 @@ A **sequence** is a row of actions done one after another, in order. Bulgaria's 
 
 In your mind's eye: a picture of a character at the start of a short path, with three step cards in a row — forward, turn, forward. And the goal at the end of the path.
 
+[Picture 47111 — a picture of a character at the start of a short path, with three step cards in a row — forward, turn, forward. And the goal at the end of the path]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A sequence is actions in an order: do the steps one after another, in the order they are written, and the order itself decides what happens. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Types of Loops** — covering:
 
 In your mind's eye: , Types of Loops.
 
+[Picture 47109 — , Types of Loops]
+
 ## Sub lesson 2 — Doing it — Finite Loops and Infinite Loops in practice
 
 **Doing it — Finite Loops and Infinite Loops in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Finite Loops and Infinite Loops in practice.
+
+[Picture 47110 — doing it — Finite Loops and Infinite Loops in practice]
 
 ## Say it to your companion
 

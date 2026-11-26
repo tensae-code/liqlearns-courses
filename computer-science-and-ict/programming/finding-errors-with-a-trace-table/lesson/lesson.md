@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Identification and Correction of
 
 In your mind's eye: identification and Correction of Errors and §1.6.1 Trace Table.
 
+[Picture 47103 — identification and Correction of Errors and §1.6.1 Trace Table]
+
 ## Sub lesson 2 — Doing it — Finding Errors with a Trace Table in practice
 
 **Doing it — Finding Errors with a Trace Table in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Finding Errors with a Trace Table in practice.
+
+[Picture 47104 — doing it — Finding Errors with a Trace Table in practice]
 
 ## Say it to your companion
 

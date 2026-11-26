@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Types of Test Data** — coverin
 
 In your mind's eye: types of Test Data.
 
+[Picture 47112 — types of Test Data]
+
 ## Sub lesson 2 — Doing it — Five Types of Test Data Valid Invalid Boundary Wrong Format Absent in practice
 
 **Doing it — Five Types of Test Data Valid Invalid Boundary Wrong Format Absent in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Five Types of Test Data Valid Invalid Boundary Wrong Format Absent in practice.
+
+[Picture 47113 — doing it — Five Types of Test Data Valid Invalid Boundary Wrong Format Absent in practice]
 
 ## Say it to your companion
 

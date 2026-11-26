@@ -10,11 +10,15 @@ The inquiry's method is **backward analysis**: start from the end. Facing 1, 2 o
 
 In your mind's eye: positions that win and positions that lose.
 
+[Picture 47101 — positions that win and positions that lose]
+
 ## Sub lesson 2 — A strategy that always works
 
 A **winning strategy** is the analysis turned into conduct: always leave a losing position; from any other position, move to one. The Grade 8 studios meet Nim again as a **video-game project in expert mode** — the algorithm of the unbeatable opponent is this strategy, coded. The inquiry's deeper prize is the shape of the thinking: some games are **solved** — not played better, but understood completely — and the solving method (work backwards from the end) returns in mathematics and programming wherever a perfect plan is hunted.
 
 In your mind's eye: a strategy that always works.
+
+[Picture 47102 — a strategy that always works]
 
 ## Say it to your companion
 
