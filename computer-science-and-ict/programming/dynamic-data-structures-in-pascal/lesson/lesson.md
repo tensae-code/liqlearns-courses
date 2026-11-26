@@ -10,11 +10,15 @@ A **pointer** is a variable that holds not a value but the **address of a value*
 
 In your mind's eye: pointers — variables that hold addresses.
 
+[Picture 47056 — pointers — variables that hold addresses]
+
 ## Sub lesson 2 — Linked lists — structure built at run time
 
 A **linked list** chains **nodes** — records holding a value and a **pointer to the next node** — ending at nil. It **grows by one new per inserted node and shrinks by dispose**, needing exactly the memory its data needs, where an array wastes its declared size or overflows it. Its prices are the duals of its gifts: no index (the fifth node is reached by **walking** four links), and the programmer now owns memory's housekeeping — a lost pointer **leaks** its cell, a followed disposed pointer **crashes**. Dynamic structures trade the compiler's guard for the programmer's freedom, knowingly.
 
 In your mind's eye: linked lists — structure built at run time.
+
+[Picture 47057 — linked lists — structure built at run time]
 
 ## Say it to your companion
 

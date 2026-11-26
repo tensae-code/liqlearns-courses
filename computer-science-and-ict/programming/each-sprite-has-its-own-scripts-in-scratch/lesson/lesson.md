@@ -10,11 +10,15 @@ Grade 7’s rule: with **more than one sprite on the stage**, **selecting a spri
 
 In your mind's eye: selecting a sprite shows its own script area.
 
+[Picture 47060 — selecting a sprite shows its own script area]
+
 ## Sub lesson 2 — Stories and plays — many sprites, one flag
 
 Grade 8 builds plays on the rule: **several sprites on one stage, each with its own script area**; scripts can be **copied between sprites** when two characters share a move; **the green flag runs them all** together; and **sprite size** plays its part — bigger for near characters, smaller for far ones.
 
 In your mind's eye: stories and plays — many sprites, one flag.
+
+[Picture 47061 — stories and plays — many sprites, one flag]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The final lesson of Egypt's Grade 8 Term 2 is a program: encryption using the XO
 
 In your mind's eye: xOR — the operation that undoes itself.
 
+[Picture 47064 — xOR — the operation that undoes itself]
+
 ## Sub lesson 2 — The program — characters, codes, a key, a loop
 
 The book's program assembles the term: each **character** of the message is taken in a **loop**, turned into its **code number**, XORed with the **key** number, and the results gathered — as numbers, or turned back into characters — into the ciphertext. Decryption is the identical program fed the ciphertext. The teaching then turns critic, as Egypt's course keeps doing: this cipher is a perfect **teaching** cipher and a weak **real** one — a single short key repeats its pattern across a long message, and patterns are what codebreakers eat. The pupil who can say both things — how it works, and why the real world needs more — has learned the lesson the book placed last on purpose.
 
 In your mind's eye: the program — characters, codes, a key, a loop.
+
+[Picture 47065 — the program — characters, codes, a key, a loop]
 
 ## Say it to your companion
 

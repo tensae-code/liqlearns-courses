@@ -10,11 +10,15 @@ The project opens with **writing**: the picnic story is typed in **Notepad**, th
 
 In your mind's eye: the picnic story — words first in Notepad.
 
+[Picture 47068 — the picnic story — words first in Notepad]
+
 ## Sub lesson 2 — The picnic animation — drawing and movement in Scratch
 
 The story is then **drawn and animated in Scratch**: a backdrop for the picnic place, sprites for the people and things in the story, and motion and looks blocks to make the scene move — a walk to the picnic spot, food appearing, a greeting said. The finished project is shown to the class: story file and animation together, each part made with a skill the year taught separately.
 
 In your mind's eye: the picnic animation — drawing and movement in Scratch.
+
+[Picture 47069 — the picnic animation — drawing and movement in Scratch]
 
 ## Say it to your companion
 

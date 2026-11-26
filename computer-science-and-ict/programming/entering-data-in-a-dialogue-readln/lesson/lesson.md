@@ -10,11 +10,15 @@ A program that only uses its own numbers talks to itself. With readln, the Pasca
 
 In your mind's eye: read and readln — input from the keyboard.
 
+[Picture 47070 — read and readln — input from the keyboard]
+
 ## Sub lesson 2 — Dialogue programs
 
 A **dialogue program** alternates: prompt, read, compute, answer. The Grade 9 lesson builds the first full dialogues — read two numbers, print their sum — and every later input in the course, including files, is this same conversation written once instead of every run. Test a dialogue with easy numbers you can check in your head.
 
 In your mind's eye: dialogue programs.
+
+[Picture 47071 — dialogue programs]
 
 ## Say it to your companion
 

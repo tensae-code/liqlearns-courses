@@ -10,11 +10,15 @@ Some problems split into pieces that **overlap**: the pieces share smaller piece
 
 In your mind's eye: the waste it removes — solving the same piece twice.
 
+[Picture 47058 — the waste it removes — solving the same piece twice]
+
 ## Sub lesson 2 — Building the table — smallest first
 
 The method has a working order: name the **subproblems** (what exactly a small piece asks), solve them **smallest first** so every answer a bigger piece needs is already in the table, and state the **joining rule** — how a piece's answer is built from the smaller answers beneath it. Its price is memory (the table) and its profit is time (each piece solved once), and its tell is the question a programmer learns to ask of any slow recursion: 'am I solving this piece before?' — where the answer is yes, a table is waiting to be built.
 
 In your mind's eye: building the table — smallest first.
+
+[Picture 47059 — building the table — smallest first]
 
 ## Say it to your companion
 

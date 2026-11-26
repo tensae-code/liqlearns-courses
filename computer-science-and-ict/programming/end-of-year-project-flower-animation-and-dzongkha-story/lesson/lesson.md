@@ -10,11 +10,15 @@ The **flower animation** is built in Scratch from the year's block families work
 
 In your mind's eye: the flower animation — pen, looks and control together.
 
+[Picture 47066 — the flower animation — pen, looks and control together]
+
 ## Sub lesson 2 — The Dzongkha story and the hand-in
 
 Beside the animation, the year's story is typed **in Dzongkha in Word** — the national language typed with Dzongkha keyboard software and fonts, saved into the pupil's folder. The folder itself is the third skill: the year's work gathered, named and **sent to the teacher as a LAN-messenger attachment** — flower, story and folder arriving together as one end-of-year piece.
 
 In your mind's eye: the Dzongkha story and the hand-in.
+
+[Picture 47067 — the Dzongkha story and the hand-in]
 
 ## Say it to your companion
 

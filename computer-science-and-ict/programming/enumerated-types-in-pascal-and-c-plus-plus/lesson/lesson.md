@@ -10,11 +10,15 @@ An **enumerated type** defines a value set by **naming its members**: Pascal wri
 
 In your mind's eye: the same idea — a named set of values.
 
+[Picture 47074 — the same idea — a named set of values]
+
 ## Sub lesson 2 — Where the pair differs — strictness and scope
 
 Pascal keeps the type **strict**: a TDay variable takes only TDay members, and its ord/succ/pred behave as Grade 7 taught. Classic C++ **enum** is **looser**: members leak into the surrounding scope as plain integers, mix freely with int arithmetic, and two enums' same-named members collide — freedoms the newer `enum class` was invented to withdraw. The section's lesson is the pair's in miniature: **the concept is shared; the protection is a language choice**, and knowing both tells you what your compiler will and will not catch.
 
 In your mind's eye: where the pair differs — strictness and scope.
+
+[Picture 47075 — where the pair differs — strictness and scope]
 
 ## Say it to your companion
 
