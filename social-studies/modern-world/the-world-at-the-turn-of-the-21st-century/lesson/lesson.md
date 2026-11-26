@@ -10,6 +10,8 @@ globalisation, unipolar power and its challengers: the book hands pupils the pre
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39934 — onepower]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 9.1–9.2 Panorama of the world at the end of the 20th and start of the 21st c.; generalities of the Contemporary World — globalisation, unipolar power and its challengers: the book hands pupils the present as history's latest chapter. Then let your companion ask you one hard question about it — answer from the lesson.

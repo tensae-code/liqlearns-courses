@@ -10,6 +10,8 @@ Ford's assembly line sets one cadence for every operation; NEP Russia leases sta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39932 — assemblyline]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 19: Evoluţia economică a statelor lumii între 1918 şi 1939 — Ford's assembly line sets one cadence for every operation; NEP Russia leases state firms and licenses small private enterprise while the trusts keep the commanding heights. Then let your companion ask you one hard question about it — answer from the lesson.

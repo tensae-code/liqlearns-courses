@@ -10,11 +10,15 @@ escalation in Vietnam (the chapter's interactive map) breaks the American consen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39949 — televised]
+
 ## Sub lesson 2 — Modulo 9 §10 Nuove tensioni nei due blocchi: guerra del Vietnam e crisi cecoslovacca
 
 1968 strikes both blocs — America's war in Vietnam (Apocalypse Now is the module's film) and the tanks in Prague; the two empires' legitimacy cracks in the same year
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39948 — crack1968]
 
 ## Say it to your companion
 

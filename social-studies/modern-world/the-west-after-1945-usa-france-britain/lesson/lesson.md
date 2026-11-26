@@ -10,11 +10,15 @@ America fights in Korea and Vietnam, signs peace in 1973 and is shaken by Waterg
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39940 — threecapitals]
+
 ## Sub lesson 2 — Tema 30: State democratice în perioada postbelică
 
 Truman inherits Roosevelt's course and launches containment; de Gaulle returns on the Algerian war and proposes the 1958 constitution; women win legal ground against job discrimination yet rarely reach the top — Japan has never had a woman prime minister
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39939 — longclimb]
 
 ## Say it to your companion
 

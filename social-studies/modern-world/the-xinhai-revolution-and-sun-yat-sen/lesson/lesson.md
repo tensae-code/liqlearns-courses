@@ -10,6 +10,8 @@ Sun Yat-sen's Tongmenghui (1905) programmes the republic — down with the Qing,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39930 — nanjing1911]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. V §29 The socio-economic and political position of China — Sun Yat-sen's Tongmenghui (1905) programmes the republic — down with the Qing, equal land rights, a people's livelihood; in December 1911 he returns, Nanjing proclaims the Republic with him as provisional president, but the revolution stalls into dual power with Yuan Shikai's Beiyang north. Then let your companion ask you one hard question about it — answer from the lesson.

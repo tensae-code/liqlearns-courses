@@ -10,6 +10,8 @@ Afghanistan and Iraq are invaded to stabilise a region and destabilise it instea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39944 — tippedscales]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 17 §§6–7 Le guerre contro il terrorismo; La mancata stabilizzazione — Afghanistan and Iraq are invaded to stabilise a region and destabilise it instead — the wars on terror end without the order they promised. Then let your companion ask you one hard question about it — answer from the lesson.

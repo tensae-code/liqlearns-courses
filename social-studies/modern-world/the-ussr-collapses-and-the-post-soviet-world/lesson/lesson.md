@@ -16,6 +16,8 @@ Gorbachev's reforms loosen the union until it breaks apart in 1991, and fifteen 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39953 — fifteenflags]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §17 The collapse of the USSR; the post-Soviet countries — perestroika loosens the union until it dissolves in 1991, and fifteen new states — Armenia among them — start over, Theme 4, Lessons 53–55: the collapse of the USSR; the post-Soviet countries — Gorbachev's reforms loosen the union until it breaks apart in 1991, and fifteen new states, Armenia among them, start independent life in hardship. Then let your companion ask you one hard question about it — answer from the lesson.

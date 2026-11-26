@@ -10,11 +10,15 @@ Rosa Luxemburg's Spartacus programme (Document) asks what the League wants; the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39943 — twofires]
+
 ## Sub lesson 2 — Modulo 1, Cap. 2 §5 La Germania di Weimar
 
 the Anteprima defends Weimar against hindsight — an advanced party democracy that survived its birth traumas and fell, above all, to the world crisis's political fallout; Schulze's Fare storia piece weighs its difficulties
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39942 — felled]
 
 ## Say it to your companion
 

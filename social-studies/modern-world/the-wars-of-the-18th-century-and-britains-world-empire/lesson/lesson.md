@@ -10,11 +10,15 @@ succession wars from Spain to Austria end at Utrecht and Aachen; the Seven Years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39946 — utrecht]
+
 ## Sub lesson 2 — Modulo 1, Cap. 1 §§5–8 The reasons for the wars; The rise of Prussia; Russia from Peter the Great to Catherine II; The results of a hundred years of wars
 
 Rossbach (Eventi) announces Prussia, Russia becomes a European power, and a century of dynastic war quietly builds the modern state system
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39945 — twocrowns]
 
 ## Say it to your companion
 

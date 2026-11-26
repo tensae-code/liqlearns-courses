@@ -10,6 +10,8 @@ A shaky peace, new states and rising dictators fill the twenty years that lead s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39933 — shakypeace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: international developments between the two world wars 1919–1939. Then let your companion ask you one hard question about it — answer from the lesson.

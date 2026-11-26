@@ -10,6 +10,8 @@ socialist parties, unions and Catholic interclassism compete for the new masses;
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39936 — threerivals]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 1 §5 Class struggle and interclassism — socialist parties, unions and Catholic interclassism compete for the new masses; Taylor's scientific organisation (Document) and Kuliscioff on the woman worker state the factory age's two answers, under Pellizza's Fourth Estate. Then let your companion ask you one hard question about it — answer from the lesson.

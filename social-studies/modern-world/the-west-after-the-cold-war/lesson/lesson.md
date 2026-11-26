@@ -10,11 +10,15 @@ the victors of 1991 integrate Europe, globalise markets and meet terrorism and f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39938 — newtests]
+
 ## Sub lesson 2 — Theme 4, Lessons 51–52: the countries of the West in the post-Cold War period
 
 with the Soviet rival gone, the Western states face unification in Europe, new wars at its edges and the question of what their victory means
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39937 — victoryquestion]
 
 ## Say it to your companion
 

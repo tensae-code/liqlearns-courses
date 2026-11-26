@@ -10,6 +10,8 @@ free health, pensions and education become the post-war settlement
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39941 — oneroof]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §10 The formation of the "welfare state's" foundations in Western Europe and the USA — free health, pensions and education become the post-war settlement. Then let your companion ask you one hard question about it — answer from the lesson.

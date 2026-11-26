@@ -10,6 +10,8 @@ the peoples of the great empires enter national rebirth, form parties, and road-
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39935 — rebirth]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 2: Lumea la începutul Epocii Contemporane — the peoples of the great empires enter national rebirth, form parties, and road-building and science remake economy and daily life together. Then let your companion ask you one hard question about it — answer from the lesson.
