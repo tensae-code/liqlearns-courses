@@ -10,11 +10,15 @@ Inside the computer, information is represented in **binary form**: patterns of 
 
 In your mind's eye: binary in memory, codes for characters.
 
+[Picture 45204 — binary in memory — codes for characters]
+
 ## Sub lesson 2 — Data and program — the working scheme
 
 Memory holds two kinds of binary: **data**, the information being worked on, and the **program**, the instructions for working on it — stored in the same memory, in the same form, fetched piece by piece. The book draws the whole machine as one scheme: **input** brings information in, the **processor** works on it in step with memory, and **output** carries results out. Processor, memory, input, output — the scheme every later hardware lesson hangs its parts on, taught here before the parts themselves multiply.
 
 In your mind's eye: data and program — the working scheme.
+
+[Picture 45205 — data and program — the working scheme]
 
 ## Say it to your companion
 

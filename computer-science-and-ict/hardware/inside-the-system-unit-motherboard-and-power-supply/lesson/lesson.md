@@ -10,11 +10,15 @@ The **motherboard** is the large main board inside the system unit: the **CPU** 
 
 In your mind's eye: the motherboard — the board everything joins.
 
+[Picture 45208 — the motherboard — the board everything joins]
+
 ## Sub lesson 2 — The power supply — feeding every part
 
 The **power supply** is the unit that takes electricity from the wall and feeds it to every part inside, each at the level it needs. No part works without it: a dead power supply makes a silent, dark machine however healthy the rest is. Class VI teaches it with the board because the two are the system unit's foundation — one joins everything, the other feeds everything.
 
 In your mind's eye: the power supply — feeding every part.
+
+[Picture 45209 — the power supply — feeding every part]
 
 ## Say it to your companion
 

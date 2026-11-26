@@ -10,11 +10,15 @@ The install begins in the **BIOS setup**: the machine is told to **start (boot) 
 
 In your mind's eye: bIOS setup and the install.
 
+[Picture 45214 — BIOS setup and the install]
+
 ## Sub lesson 2 — First steps after installing
 
 A fresh system is not yet a working system. The **first steps after installing** are: set the **date, time and display** right; check that the machine **sees its devices** (and install the **drivers** for those it does not — the next section's work); and confirm the disk and drives appear as they should. Only then is software installed on top. The lesson's judgement, which the whole chapter stands on: the operating system is the ground every program stands on, so its install is checked like a foundation — level, complete, and only then built upon.
 
 In your mind's eye: first steps after installing.
+
+[Picture 45215 — first steps after installing]
 
 ## Say it to your companion
 

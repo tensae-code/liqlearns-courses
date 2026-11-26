@@ -10,11 +10,15 @@ The card must match a **free expansion slot of its kind** on the board. With the
 
 In your mind's eye: choosing the slot and opening the case back.
 
+[Picture 45212 — choosing the slot and opening the case back]
+
 ## Sub lesson 2 — Seating and securing the card
 
 The card is pressed **straight down into the slot with even pressure** until its contacts are **fully home** — a card sitting at a tilt is a card not connected. Its **bracket is then screwed to the case**, fixing it against the pull of its own cables. Where the card needs power or an internal cable, that lead is connected now. Laos's closing check is the chapter's habit: card level, bracket screwed, then at switch-on the machine should **find the new part** — and if it does not, the seat, not the software, is checked first.
 
 In your mind's eye: seating and securing the card.
+
+[Picture 45213 — seating and securing the card]
 
 ## Say it to your companion
 

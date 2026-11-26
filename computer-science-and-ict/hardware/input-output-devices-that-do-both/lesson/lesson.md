@@ -10,11 +10,15 @@ An **input-output device** carries data **both ways**. The **touchscreen** shows
 
 In your mind's eye: both directions in one device.
 
+[Picture 45206 — both directions in one device]
+
 ## Sub lesson 2 — Why the sort bends — direction is a job, not a device
 
 The lesson's point is classification itself: **input and output name directions of data travel, not species of device**. A device is sorted by asking which way data moves *for the job at hand* — and some devices honestly answer 'both', at once or in turns. Grade 7 files them as their own kind so the young classifier learns the grown-up rule: a sort that cannot admit its exceptions will start lying about everything else too.
 
 In your mind's eye: why the sort bends — direction is a job, not a device.
+
+[Picture 45207 — direction is a job, not a device]
 
 ## Say it to your companion
 

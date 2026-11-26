@@ -10,11 +10,15 @@ A real is stored as **three fields in a fixed row of bits**: the **sign** (0 for
 
 In your mind's eye: sign, exponent, mantissa — the three fields.
 
+[Picture 45202 — sign, exponent, mantissa — the three fields]
+
 ## Sub lesson 2 — Range and precision — the two edges of the compromise
 
 The representation has **two edges**. Beyond the exponent's reach lie numbers **too large (overflow)** and **too small (underflow toward zero)** — the type's range. Between two neighbouring stored mantissas lie all the true values that must share them — the type's **precision limit**, the reason 0.1 is stored as a close stranger and errors accumulate in long computations (Grade 12's error lessons are seated here). The compromise is chosen, not suffered: science needs range and the school needs honesty about precision — the floating point is both, in one row of bits.
 
 In your mind's eye: range and precision — the two edges of the compromise.
+
+[Picture 45203 — range and precision — the two edges of the compromise]
 
 ## Say it to your companion
 

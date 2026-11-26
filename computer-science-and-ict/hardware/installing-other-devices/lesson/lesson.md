@@ -10,11 +10,15 @@ The remaining installs follow the chapter's one pattern — **mount or place the
 
 In your mind's eye: the remaining devices and their connections.
 
+[Picture 45220 — the remaining devices and their connections]
+
 ## Sub lesson 2 — The whole-machine check
 
 The section closes the bench the way the guide times it — as supervised bench work ending in a **whole check**: every device seated and screwed, every lead home, no screw left loose inside, no tool left inside, the case closed only after a last look. Then the first switch-on, watched and listened to: fans turning, lights on the case, the start-up screen, and the **beep signals** the next sections teach — one short beep of health, or a pattern that names the install to revisit. Laos builds the habit this lesson ends on: a build is not finished when the last screw turns, but when the whole machine has answered for itself.
 
 In your mind's eye: the whole-machine check.
+
+[Picture 45221 — the whole-machine check]
 
 ## Say it to your companion
 

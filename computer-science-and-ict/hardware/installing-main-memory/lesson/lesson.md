@@ -10,11 +10,15 @@ The install begins with **matching**: the module's type must fit the board's **m
 
 In your mind's eye: matching module to slot.
 
+[Picture 45218 — matching the module to the slot]
+
 ## Sub lesson 2 — Pressing home to the clips
 
 Seating is one even act: **both thumbs press the module straight down**, firmly and evenly at both ends, until the **end clips snap up into the module's side notches** by themselves. The clips closing are the install's receipt — a module whose clips have not closed is not installed, however straight it looks. Laos's order closes the practical: check each module's clips, and remember that an unseated module announces itself at switch-on as a dead machine or beep codes, sending the installer back to this lesson's clips.
 
 In your mind's eye: pressing home to the clips.
+
+[Picture 45219 — pressing home to the clips]
 
 ## Say it to your companion
 

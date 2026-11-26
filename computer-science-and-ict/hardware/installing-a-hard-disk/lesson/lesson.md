@@ -10,11 +10,15 @@ The disk is fitted into a **drive bay** of its size inside the case and **screwe
 
 In your mind's eye: mounting in the bay.
 
+[Picture 45210 — installing a hard disk — mounting in the bay]
+
 ## Sub lesson 2 — Power and data — the two leads
 
 A mounted disk is still nothing until it is joined twice. The **power lead** comes from the power supply; the **data lead** joins the disk to the board, carrying everything read and written. Each lead fits its own socket, one way, without force. Laos's check: both leads seated, disk firm, and at the install of the system later in the chapter the disk must **appear to the machine** — an unseen disk is a lead or a seat to check, not a program to reinstall.
 
 In your mind's eye: power and data — the two leads.
+
+[Picture 45211 — power and data — the two leads]
 
 ## Say it to your companion
 
