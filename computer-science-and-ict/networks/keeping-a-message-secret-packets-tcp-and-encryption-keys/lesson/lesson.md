@@ -10,11 +10,15 @@ Your message now travels as packets through machines owned by strangers. Two fea
 
 In your mind's eye: tCP — the reliable carrier.
 
+[Picture 46119 — tCP — the reliable carrier]
+
 ## Sub lesson 2 — Encryption — the lock on the contents
 
 Reliability is not secrecy: packets can arrive whole **and** be read on the way. **Encryption** locks the contents with a **key (clef)**: intercepted packets show only scrambled data. The séance's sharp question finishes the lesson — **what if the pirate catches the key?** Then the lock opens for them too: secrecy lives and dies with the key's own safety, which is why keys are guarded, changed, and never sent alongside the message they lock.
 
 In your mind's eye: encryption — the lock on the contents.
+
+[Picture 46120 — encryption — the lock on the contents]
 
 ## Say it to your companion
 

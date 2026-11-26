@@ -12,6 +12,8 @@ The second angle needs a line chosen by agreement, since nature offers none: the
 
 In your mind's eye: a globe with the equator and the Greenwich meridian drawn bold, one place marked with its two angles opened from Earth’s centre.
 
+[Picture 46123 — a globe with the equator and the Greenwich meridian drawn bold, one place marked with its two angles opened from Earth’s centre]
+
 ## Sub lesson 2 — Writing coordinates — decimal, DMS, and altitude
 
 The pair can be written two ways. **Decimal degrees** write each angle as one decimal number: 48.8566° N, 2.3522° E. **Degrees, minutes and seconds** (DMS) split the fraction in sixtieths, as clocks split hours: 48° 51′ 24″ — degrees, then minutes (60′ = 1°), then seconds (60″ = 1′). Converting is clock arithmetic: 0.8566° × 60 = 51.4′, so 51′ and 0.4 × 60 = 24″. GPS frames, as a later lesson shows, arrive in a cousin of the DMS writing and must be converted before a map accepts them.
@@ -19,6 +21,8 @@ The pair can be written two ways. **Decimal degrees** write each angle as one de
 Height is the third number when it matters: **altitude**, the height above sea level in metres — an aeroplane, a mountain refuge and a flood map all care about it. Two numbers fix a place on the surface; three fix it in space.
 
 In your mind's eye: one coordinate written both ways, decimal and DMS, with the ×60 steps of the conversion shown between them.
+
+[Picture 46124 — one coordinate written both ways, decimal and DMS, with the ×60 steps of the conversion shown between them]
 
 ## Say it to your companion
 

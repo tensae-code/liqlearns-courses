@@ -10,11 +10,15 @@ A network is secured at its **doors**: who may **join** it, who may **open** eac
 
 In your mind's eye: the doors of a network.
 
+[Picture 46121 — the doors of a network]
+
 ## Sub lesson 2 — Watching and habits — security as behaviour
 
 Tools guard a network once; **habits** guard it daily: logging out, locking screens, reporting the strange message instead of clicking it, and keeping the class's own list of who holds what access. The session's title is first-person plural — *we* will keep *our* network secured — because a network's security is the behaviour of everyone on it: one careless member is every member's risk. The security lessons of this course grow from this seed: the checklist, the policy, the cyber-intelligence unit all begin as a class keeping its own small network safe on purpose.
 
 In your mind's eye: watching and habits — security as behaviour.
+
+[Picture 46122 — watching and habits — security as behaviour]
 
 ## Say it to your companion
 

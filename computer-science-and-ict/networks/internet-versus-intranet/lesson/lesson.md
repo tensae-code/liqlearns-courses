@@ -10,11 +10,15 @@ The internet and an intranet use the same technology but differ in ownership and
 
 In your mind's eye: comparison between internet and intranet.
 
+[Picture 46115 — comparison between internet and intranet]
+
 ## Sub lesson 2 — Doing it — Comparison between internet and intranet in practice
 
 Internet versus Intranet is learned by doing: the learner compares the two side by side — who owns it, who may enter, what it is used for — and places real examples on the right side The learner compares the two side by side — who owns it, who may enter, what it is used for — and places real examples on the right side Because the similar names hide an opposite difference — open to everyone against open to members only — and confusing them risks real information.
 
 In your mind's eye: doing it — Comparison between internet and intranet in practice.
+
+[Picture 46116 — doing it — Comparison between internet and intranet in practice]
 
 ## Say it to your companion
 

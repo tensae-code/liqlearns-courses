@@ -10,11 +10,15 @@ Every network card carries a **MAC address** — its **physical address**, fixed
 
 In your mind's eye: what a MAC address is.
 
+[Picture 46125 — what a MAC address is]
+
 ## Sub lesson 2 — Two addresses, two jobs
 
 The two addresses work together: the **IP address** is the logical address — it routes data across networks to the right building; the **MAC address** is the physical address — it hands the data to the exact card inside that building. A device keeps its MAC for life but can be given a new IP on every network it joins. Confusing them is the beginner's mistake this lesson prevents: IP is where you are; MAC is who you are.
 
 In your mind's eye: two addresses, two jobs.
+
+[Picture 46126 — two addresses, two jobs]
 
 ## Say it to your companion
 

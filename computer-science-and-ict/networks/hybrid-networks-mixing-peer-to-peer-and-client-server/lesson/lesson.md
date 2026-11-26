@@ -10,11 +10,15 @@ In a **peer-to-peer** network, computers are equals: each shares its own files a
 
 In your mind's eye: the two pure structures — recalled.
 
+[Picture 46111 — the two pure structures — recalled]
+
 ## Sub lesson 2 — The hybrid — each job to its fitting structure
 
 A **hybrid network** mixes the two: **client-server where centrality earns its cost** — accounts, records, backups, the databases of the companion lessons — and **peer-to-peer where directness serves better** — a workgroup sharing its own files and printer without troubling the centre. Most real school, office and home networks are hybrid, whether or not anyone named them so. The designer's question is never 'which structure is best?' but 'which structure fits *this* service?' — asked service by service, which is what makes the hybrid a design and not a muddle.
 
 In your mind's eye: the hybrid — each job to its fitting structure.
+
+[Picture 46112 — the hybrid — each job to its fitting structure]
 
 ## Say it to your companion
 

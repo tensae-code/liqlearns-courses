@@ -10,11 +10,15 @@ At Level 2, the home-network study opens the envelope: a message is **cut into p
 
 In your mind's eye: packets and the Internet Protocol.
 
+[Picture 46109 — packets and the Internet Protocol]
+
 ## Sub lesson 2 — Reassembly at the other end
 
 Arrival is a rebuild: the receiving machine collects the packets, puts them back in order, checks what is missing, and only then holds the message. This is why networks survive broken roads — a lost packet is one piece to resend, not a message to restart — and why the protocol, agreed by everyone, matters more than any single machine: the roads are many, the rules are one.
 
 In your mind's eye: reassembly at the other end.
+
+[Picture 46110 — reassembly at the other end]
 
 ## Say it to your companion
 

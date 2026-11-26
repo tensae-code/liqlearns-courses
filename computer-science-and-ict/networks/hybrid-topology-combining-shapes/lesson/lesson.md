@@ -10,11 +10,15 @@ A **hybrid topology** combines **two or more basic topologies** in one network: 
 
 In your mind's eye: hybrid — shapes combined on purpose.
 
+[Picture 46113 — hybrid — shapes combined on purpose]
+
 ## Sub lesson 2 — The internet — the hybrid of hybrids
 
 The book's closing example is the largest: **the internet is a hybrid topology** — every shape ever named lives somewhere inside it, joined by every joining device of this title. The hybrid's gifts are the fit and the growth: parts can be added, replaced and re-shaped without redesigning the whole. Its costs are honest too — design and management grow complex where shapes meet, and the joining points are where faults love to hide. The lesson ends the topologies where practice begins: choose per part, join with care, and document the whole.
 
 In your mind's eye: the internet — the hybrid of hybrids.
+
+[Picture 46114 — the internet — the hybrid of hybrids]
 
 ## Say it to your companion
 

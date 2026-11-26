@@ -10,11 +10,15 @@ An intranet is a private network inside one organisation that uses internet tech
 
 In your mind's eye: intranet.
 
+[Picture 46117 — intranet]
+
 ## Sub lesson 2 — Intranet and file sharing in an intranet set-up
 
 Intranet a Private Network Inside An Organisation is learned by doing: the learner identifies what an intranet offers inside a school or office — shared files, internal pages, shared resources — and who may use it The learner identifies what an intranet offers inside a school or office — shared files, internal pages, shared resources — and who may use it Because an organisation needs the internet's easy tools without the internet's open door; the intranet is that private version.
 
 In your mind's eye: intranet and file sharing in an intranet set-up.
+
+[Picture 46118 — intranet and file sharing in an intranet set-up]
 
 ## Say it to your companion
 
