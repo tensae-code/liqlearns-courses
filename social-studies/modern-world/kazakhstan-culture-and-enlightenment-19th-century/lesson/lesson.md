@@ -10,11 +10,15 @@ the zar-zaman poets lament the passing old world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64057 — poets lament the old world]
+
 ## Sub lesson 2 — §46 Features of spiritual culture and family traditions
 
 weddings, funerals and hospitality keep their ancient forms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64058 — ancient forms kept]
 
 ## Sub lesson 3 — §47 National games
 
@@ -22,17 +26,23 @@ baiga races and kokpar train riders from childhood
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64059 — riders trained from childhood]
+
 ## Sub lesson 4 — §48 Oral folk creativity in the 19th century
 
 epics and aitys improvisation flourish at every gathering
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64060 — epics and aitys flourish]
+
 ## Sub lesson 5 — §49 Outstanding representatives of oral folk literature, 19th–early 20th centuries
 
 the great zhyraus and akyns are named and remembered
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64061 — the great zhyraus remembered]
 
 ## Sub lesson 6 — §50 Kazakhstan's musical art in the 19th century
 

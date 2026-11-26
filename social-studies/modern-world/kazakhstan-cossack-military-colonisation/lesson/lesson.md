@@ -10,17 +10,23 @@ lines of Cossack forts and stanitsas fence off Kazakh pasture and turn the borde
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64054 — forts fence off the pasture]
+
 ## Sub lesson 2 — §§19–20 The colonisation of Kazakhstan by the Russian Empire
 
 fortress lines, Cossack stanitsas and land seizures turn alliance into colonisation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64055 — alliance into colonisation]
+
 ## Sub lesson 3 — §4.1 How did the Russian Empire carry out the colonisation of Kazakhstan?
 
 forts, stanitsas, land commissions — colonisation is broken into its working parts
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64056 — colonisation in its parts]
 
 ## Say it to your companion
 
