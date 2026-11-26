@@ -1411,6 +1411,31 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 37811 | pictures/37811.webp | A useful plant can harm an ecosystem. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, When a Useful Plant Harms an Ecosystem Eucalyptus |
 | 37812 | pictures/37812.webp | More and more people, one small well. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, When People Crowd Overpopulation and the Strain on Water and Space |
 | 37813 | pictures/37813.webp | Overpopulation strains everything shared. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, When People Crowd Overpopulation and the Strain on Water and Space |
+| 37814 | pictures/37814.webp | Bullying hurts — telling stops it. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Bullying — what it is and how to stop it |
+| 37815 | pictures/37815.webp | First: one speaks, the other listens. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Communicating — listening and expressing feelings |
+| 37816 | pictures/37816.webp | Listening first makes understanding. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Communicating — listening and expressing feelings |
+| 37817 | pictures/37817.webp | Each house answers its place. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Houses built for their place — local building technologies |
+| 37818 | pictures/37818.webp | Thick mud walls keep the inside cool. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Houses built for their place — local building technologies |
+| 37819 | pictures/37819.webp | Needs stack: the base comes first. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Human needs and Maslow's pyramid |
+| 37820 | pictures/37820.webp | A need keeps us alive; a want is a wish. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Human needs and Maslow's pyramid |
+| 37821 | pictures/37821.webp | A motive pushes, an incentive pulls. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Human needs and Maslow's pyramid |
+| 37822 | pictures/37822.webp | Homes come in kinds. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Kinds of homes people live in |
+| 37823 | pictures/37823.webp | The materials at hand make the kind. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Kinds of homes people live in |
+| 37824 | pictures/37824.webp | A family is joined by relations. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Kinship — how family members are related |
+| 37825 | pictures/37825.webp | Every relation has its name. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Kinship — how family members are related |
+| 37826 | pictures/37826.webp | Every child's drawing is different. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Knowing myself: what I like and do well |
+| 37827 | pictures/37827.webp | Each child names one true thing. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Knowing myself: what I like and do well |
+| 37828 | pictures/37828.webp | First: name the day's work. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Planning my time |
+| 37829 | pictures/37829.webp | In order, the day can be done. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Planning my time |
+| 37830 | pictures/37830.webp | More people, the same resources. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Population growth and natural resources |
+| 37831 | pictures/37831.webp | Pressure sets off a chain of harm. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Population growth and natural resources |
+| 37832 | pictures/37832.webp | A population counts everyone who lives there. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Population of my country |
+| 37833 | pictures/37833.webp | Many young workers build the country. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, Population of my country |
+| 37834 | pictures/37834.webp | The world's people, in all their variety. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, The peoples of the world |
+| 37835 | pictures/37835.webp | Features formed slowly, place by place. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, The peoples of the world |
+| 37836 | pictures/37836.webp | People differ — and all are people. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, The peoples of the world |
+| 37837 | pictures/37837.webp | No two people are exactly alike. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, The peoples of the world |
+| 37838 | pictures/37838.webp | Different features, equal worth. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, The peoples of the world |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |

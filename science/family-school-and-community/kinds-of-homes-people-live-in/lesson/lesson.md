@@ -9,7 +9,11 @@ Not every family lives in the same kind of home. Angola's Grade 2 book teaches *
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37822 — homes come in kinds]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37823 — the materials at hand make the]
 
 ## Sub lesson 2 — What makes one kind of home different from another
 

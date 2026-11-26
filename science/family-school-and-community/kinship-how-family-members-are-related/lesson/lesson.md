@@ -9,7 +9,11 @@ Name the people in your family. Now say how each one is related to you — not j
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37824 — a family is joined by relations]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37825 — every relation has its name]
 
 ## Sub lesson 2 — The names of the relations
 

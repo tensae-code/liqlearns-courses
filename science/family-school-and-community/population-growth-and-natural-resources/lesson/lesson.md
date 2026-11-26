@@ -9,7 +9,11 @@ Population grows; natural resources do not grow with it. Bangladesh's books set 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37830 — more people the same resources]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37831 — pressure sets off a chain of]
 
 ## Sub lesson 2 — What the pressure does
 

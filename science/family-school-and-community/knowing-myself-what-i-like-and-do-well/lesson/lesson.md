@@ -13,7 +13,11 @@ That is why the book puts this lesson **first**. The two opening lessons of the 
 
 In your mind's eye: a class of children, each holding up a different drawing of themselves. The student points to two drawings and says how they differ.
 
+[Picture 37826 — every child's drawing is different]
+
 In your mind's eye: one child after another standing and saying one true thing about themselves. Say what changed from child to child.
+
+[Picture 37827 — each child names one true thing]
 
 ## Sub lesson 2 — My likes, my dislikes, and what I am good at
 

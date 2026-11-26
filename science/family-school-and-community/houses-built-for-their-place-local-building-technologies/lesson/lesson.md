@@ -9,7 +9,11 @@ In Many Types of Houses, Bangladesh's Class 9 Exercise Book teaches that the env
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37817 — each house answers its place]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37818 — thick mud walls keep the inside]
 
 ## Sub lesson 2 — Local building technologies
 

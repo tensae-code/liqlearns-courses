@@ -9,6 +9,8 @@ school bullying (acoso escolar) defined as physical or verbal harassment and mis
 
 In your mind's eye: school bullying (acoso escolar) defined as physical or verbal as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37814 — bullying hurts telling stops it]
+
 ## The key ideas
 
 - school bullying (acoso escolar) defined as physical or verbal harassment and mistreatment among peers; a victim does not feel safe, and schools should promote an agreeable atmosphere of respect inside and outside the classroom (guide evidence)

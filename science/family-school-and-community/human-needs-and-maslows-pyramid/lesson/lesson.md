@@ -9,17 +9,23 @@ Maslow's pyramid of needs in five levels: physiological (base: food, water, surv
 
 In your mind's eye: maslow's pyramid of needs in five levels as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37819 — needs stack the base comes first]
+
 ## Sub lesson 2 — A need (something required to live and develop) is
 
 a need (something required to live and develop) is not a desire (given importance by each person); conflicts arise when people's needs compete and are best solved by dialogue, with solidarity and respect as the values that hold a group together.
 
 In your mind's eye: a need (something required to live and develop) is as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37820 — a need keeps us alive a]
+
 ## Sub lesson 3 — Atkinson's theory
 
 Atkinson's theory: people's conduct depends on the motive, the expectation and the incentive; motivating states drive action (hunger is a motivating state that pushes us to seek food); Maslow's levels with contents — physiological (breathing, eating, sleep, homeostasis), security, affiliation (friendship, affection, communication), recognition (confidence, respect, prestige) and self-actualisation (morality, spontaneity, creativity, problem-solving) (guide evidence)
 
 In your mind's eye: atkinson's theory as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37821 — a motive pushes an incentive pulls]
 
 ## The key ideas
 
