@@ -10,6 +10,8 @@ the false prophet al-Aswad al-Ansi gathers Madhhij and other tribes in Yemen, Ab
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61978 — reunited then at siffin]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Yemen in the age of the Caliphs and Imams — the false prophet al-Aswad al-Ansi gathers Madhhij and other tribes in Yemen, Abu Bakr sends three armies and al-Aswad is killed, Yemen is reunited and Yemeni leaders rise; a generation later Yemenis march under Ali's banner at Siffin, where Ali praises Hamdan and his right hand Malik al-Ashtar al-Nakha'i is a Yemeni. Then let your companion ask you one hard question about it — answer from the lesson.

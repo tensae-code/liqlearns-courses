@@ -10,11 +10,15 @@ in 209 BC Modu unites the steppe tribes into the Xiongnu empire, the first great
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61975 — 209 bc the steppe unites]
+
 ## Sub lesson 2 — Ch. 2.1 The Xiongnu empire
 
 Modu's Xiongnu (209 BC) organises the steppe into a decimal military state, builds towns and crafts, and faces Han China as an equal empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61976 — a decimal empire of horsemen]
 
 ## Say it to your companion
 

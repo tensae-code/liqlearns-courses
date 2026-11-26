@@ -10,6 +10,8 @@ Women of the Arab state create in the home, the sciences, letters, crafts, marke
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61971 — creating everywhere]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Women in the Arab-Islamic state. Then let your companion ask you one hard question about it — answer from the lesson.

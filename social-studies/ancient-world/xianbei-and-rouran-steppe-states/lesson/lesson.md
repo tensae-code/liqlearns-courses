@@ -10,11 +10,15 @@ after the Xiongnu fade, the Xianbei and then the Rouran khaganate hold the stepp
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61973 — the steppe tradition lives]
+
 ## Sub lesson 2 — Ch. 2.2 The states after the Xiongnu
 
 Xianbei, Rouran, Turkic, Uyghur and Khitan states succeed one another on the steppe, each inheriting and remaking the nomad state tradition
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61974 — each remaking the tradition]
 
 ## Say it to your companion
 

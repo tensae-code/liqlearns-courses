@@ -10,11 +10,15 @@ from empresses like Theodora and Irene to nuns, mothers and workers, women hold 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61969 — names rarely written]
+
 ## Sub lesson 2 — Unit 39 Women exercises
 
 an acrostic of the Byzantine woman opens her hidden history
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61970 — her hidden history]
 
 ## Say it to your companion
 

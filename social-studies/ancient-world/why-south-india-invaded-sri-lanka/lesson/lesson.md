@@ -10,6 +10,8 @@ Some came to snatch a throne (Sena-Guttika, Ellalan), some to plunder (Sri Mara 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61967 — three kinds of invasion]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The three kinds of invasion — some came to snatch a throne (Sena-Guttika, Ellalan), some to plunder (Sri Mara Sri Vallabha), and some to plant supremacy (Parantaka, before whom Udaya IV fled). Then let your companion ask you one hard question about it — answer from the lesson.

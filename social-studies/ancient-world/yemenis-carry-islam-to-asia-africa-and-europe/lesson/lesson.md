@@ -10,6 +10,8 @@ Yemeni soldiers, merchants and callers carry Islam on every road — Yemeni bloc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61983 — on every road]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The role of the Yemenis in spreading Islam, creed and civilisation (Unit 4 Lesson 1) — yemeni soldiers, merchants and callers carry Islam on every road — Yemeni blocs fight at Yarmouk and al-Qadisiyya and plan Damascus, Homs, Basra and Kufa; Yemeni traders settle Gujarat and the Malabar coast, sail to Canton and the Indonesian islands, cross Bab el-Mandeb into the Horn and down to Sofala, march with Amr into Egypt and with Musa ibn Nusayr through the Maghreb into Spain, where Tarif's landing names Tarifa and al-Ghafiqi falls at Tours. Then let your companion ask you one hard question about it — answer from the lesson.

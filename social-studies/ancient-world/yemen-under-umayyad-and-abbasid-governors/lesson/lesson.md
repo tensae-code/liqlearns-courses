@@ -10,6 +10,8 @@ Yemen gets mostly harsh governors from both dynasties and answers with revolts �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61980 — harsh governors shining scholars]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Yemen in the Umayyad and Abbasid ages — yemen gets mostly harsh governors from both dynasties and answers with revolts — the Tawwabun rising for Husayn after Karbala among them — while Yemeni scholars shine inside and outside the country, Malik bin Anas al-Asbahi, Abd al-Razzaq al-San'ani and Ma'mar bin Rashid, and al-Shafi'i himself studies in Yemen. Then let your companion ask you one hard question about it — answer from the lesson.

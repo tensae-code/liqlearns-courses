@@ -10,17 +10,23 @@ after Van falls, Yervanduni kings rule a satrapy of Persia, Armenia joins the gr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61984 — a satrapy that revolts]
+
 ## Sub lesson 2 — 2.2 Yervanduni Armenia, Alexander's empire and the Seleucids
 
 Alexander's conquest reshuffles the East, and Yervanduni kings keep Armenia together between Macedonian successors
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61985 — held together between empires]
+
 ## Sub lesson 3 — 2.3 The socio-economic and cultural life of Yervanduni Armenia
 
 trade routes cross the Highland, cities grow, and Greek and Iranian cultures meet in Armenian temples and coinage
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61986 — two cultures meet]
 
 ## Say it to your companion
 

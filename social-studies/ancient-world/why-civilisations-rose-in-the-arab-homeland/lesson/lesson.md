@@ -10,6 +10,8 @@ one homeland mid-old-world, commanding land and sea trade routes, with varied cl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61965 — six sisters one homeland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Factors in the rise of the ancient Arab civilisations — one homeland mid-old-world, commanding land and sea trade routes, with varied climate, rivers, rains and fertile soil, lifts six sister civilisations at once: Yemen on its dams, terraces and incense; Mesopotamia between the two rivers; the Levant as bridge of nations; Egypt, the gift of the Nile; the Maghreb facing Europe across the sea; and the Gulf, where Dilmun gathers pearls and trade, Failaka re-exports to Iraq and India, and Magan ships copper and builds boats. Then let your companion ask you one hard question about it — answer from the lesson.

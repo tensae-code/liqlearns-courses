@@ -10,6 +10,8 @@ the civilisation flowers because it refuses to close in on itself: it takes trad
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61963 — open it flowered]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Causes of the flourishing of the Arab Islamic civilisation — the civilisation flowers because it refuses to close in on itself: it takes trade, dams, irrigation and poetry from the old Arab civilisations, administration and architecture from Persia, mathematics and medicine from India, philosophy from Greece, law and road-building from Rome, absorbs the conquered lands' sciences, criticises them and adds its own creations — and lets Muslim, Christian and Jew live and create side by side in tolerance and coexistence. Then let your companion ask you one hard question about it — answer from the lesson.
