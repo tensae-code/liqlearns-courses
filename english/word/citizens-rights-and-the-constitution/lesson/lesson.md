@@ -5,7 +5,7 @@ A country's constitution is its most important book of rules. Uruguay's constitu
 
 LFEI — FDEEROM — NOUHOR — PORPERTY — KROW
 
-[Picture 0001]
+[Picture 36870 — five word cards with their letters mixed up — LFEI, FDEEROM, NOUHOR, PORPERTY, KROW]
 
 ## Sub lesson 1 — The rights the constitution gives you
 Your unscrambled words are the five rights themselves: **life, freedom, honour, property, work**. In Uruguay they stand in Article 7 of the Constitution — the first article of its rights section, which runs from Article 7 to Article 72.
@@ -14,7 +14,7 @@ Your unscrambled words are the five rights themselves: **life, freedom, honour, 
 
 Uruguay's Grade 9 book hears five speakers, one for each right, and asks which right each speaker is talking about; then a gapped text about the rights checks that the five words have landed.
 
-[Picture 0002]
+[Picture 36871 — five speakers, each naming one right — LIFE, FREEDOM, HONOUR, PROPERTY, WORK]
 *Difficulty: Names a fixed list of five; the listening makes each right concrete.*
 
 ## Sub lesson 2 — Rights in Uruguay's history and the world
@@ -22,7 +22,7 @@ Rights on paper need a history of people defending them. Uruguay's Grade 11 book
 
 The same book compares human rights across five countries, then debates: **“Justice delayed is justice denied.”** One team defends the motion, one attacks it — a right that arrives too late, the defenders say, is a right refused.
 
-[Picture 0003]
+[Picture 36872 — two teams debating — Justice delayed is justice denied]
 *Difficulty: Research and argument; the learner must weigh both teams before choosing a side.*
 
 ## Say it to your companion
