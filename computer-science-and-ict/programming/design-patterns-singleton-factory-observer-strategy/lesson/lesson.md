@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Introduction to Design Patterns*
 
 In your mind's eye: introduction to Design Patterns.
 
+[Picture 47010 — introduction to Design Patterns]
+
 ## Sub lesson 2 — Doing it — Design Patterns Singleton Factory Observer Strategy in practice
 
 **Doing it — Design Patterns Singleton Factory Observer Strategy in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Design Patterns Singleton Factory Observer Strategy in practice.
+
+[Picture 47011 — doing it — Design Patterns Singleton Factory Observer Strategy in practice]
 
 ## Say it to your companion
 

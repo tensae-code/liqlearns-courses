@@ -10,6 +10,8 @@ Scratch's automatic names (Sprite1, costume2, backdrop1) describe nothing, and a
 
 In your mind's eye: a sprite list renamed properly — Player, Chaser, Goal. Beside backdrop thumbnails named Maze 1, Maze 2, Maze 3, with a script block switching to Maze 2 reading like a sentence.
 
+[Picture 47007 — a sprite list renamed properly — Player, Chaser, Goal. Beside backdrop thumbnails named Maze 1, Maze 2, Maze 3, with a script block switching to Maze 2 reading like a sentence]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: name sprites, costumes and backdrops for what they are, number series like levels in order, and your scripts will read clearly to anyone. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

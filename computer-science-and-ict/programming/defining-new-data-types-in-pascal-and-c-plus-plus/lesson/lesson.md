@@ -10,11 +10,15 @@ A **type definition** gives a **name** to a type construction, once, for the who
 
 In your mind's eye: type and typedef — naming a construction.
 
+[Picture 46999 — type and typedef — naming a construction]
+
 ## Sub lesson 2 — Why define types — the program in the problem's words
 
 The reasons compound. **Readability**: `var m: TMark` says more than `var m: integer`. **Protection**: a TMark variable inherits the subrange's guard — a mark of 47 is caught by the type. **Change in one place**: if marks become 1..12, one definition changes and the program follows. And **honesty of design**: the definitions at a program's head are its data's manifesto — read them and you know what world the program models. Types defined well are documentation the compiler checks.
 
 In your mind's eye: why define types — the program in the problem's words.
+
+[Picture 47000 — why define types — the program in the problem's words]
 
 ## Say it to your companion
 

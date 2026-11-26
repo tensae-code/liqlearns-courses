@@ -10,11 +10,15 @@ The **delete this clone** block **removes the clone that runs it** — that one 
 
 In your mind's eye: delete this clone — the clone removes itself.
 
+[Picture 47003 — delete this clone — the clone removes itself]
+
 ## Sub lesson 2 — When clones delete — work done, caught, or fallen
 
 A clone deletes itself **when its job is finished**: a raindrop **when it lands**, a game piece **when it is caught**, a letter **when it has been read across the stage**. Without deleting, every run of the program would leave its clones behind and the next run would start on a crowded stage — so deleting is part of the clone's design from the start, not a tidying afterthought. The pattern of the two séances together: **create the clone, work as the clone, delete the clone**.
 
 In your mind's eye: when clones delete — work done, caught, or fallen.
+
+[Picture 47004 — when clones delete — work done, caught, or fallen]
 
 ## Say it to your companion
 

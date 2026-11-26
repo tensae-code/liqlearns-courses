@@ -10,11 +10,15 @@ depth-first search — traversing a graph by plunging down one path as far as it
 
 In your mind's eye: down one path to the end — then back.
 
+[Picture 47005 — down one path to the end — then back]
+
 ## Sub lesson 2 — The stack underneath — and when DFS is the right tool
 
 DFS's memory is a **stack** — the path's vertices are pushed as the search descends and popped as it retreats (recursion hides the same stack inside the calls). DFS is the right tool when the job is about **reachability and structure**: can this vertex be reached at all, is the graph connected, is there a cycle, can these tasks be ordered so each comes after its dependencies? Its weakness is the mirror of its strength: it may dive deep past a solution that lay near the start — that shallower hunt is breadth-first search's.
 
 In your mind's eye: the stack underneath — and when DFS is the right tool.
+
+[Picture 47006 — the stack underneath — and when DFS is the right tool]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Built-in functions cover the work everybody needs; **DEF FN** covers yours. With
 
 In your mind's eye: dEF FN — teach BASIC a new function.
 
+[Picture 47001 — dEF FN — teach BASIC a new function]
+
 ## Sub lesson 2 — Define once, use many times
 
 The worth of a defined function is the worth of every function: the formula is written **once** and **used many times**, with a fresh value each time — `FNA(3)`, `FNA(7)`, `FNA(T)` — and if the formula must change, it changes in the one DEF line, not in every place it was used. A defined function also names an idea: a program that computes a tax, a mean or a conversion reads like its subject when the work hides behind FN names the reader understands.
 
 In your mind's eye: define once, use many times.
+
+[Picture 47002 — define once, use many times]
 
 ## Say it to your companion
 

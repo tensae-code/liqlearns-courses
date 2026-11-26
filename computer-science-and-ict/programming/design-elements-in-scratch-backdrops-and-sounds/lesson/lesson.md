@@ -10,11 +10,15 @@ A **backdrop** is the stage's background picture: chosen from Scratch's library,
 
 In your mind's eye: backdrops — the stage's clothing.
 
+[Picture 47008 — backdrops — the stage's clothing]
+
 ## Sub lesson 2 — Sounds — the project's voice
 
 A project holds **sounds** per sprite and for the stage: chosen from the library, **recorded** in Scratch, or uploaded — and played, looped, stopped and volumed by blocks. Sound is information as much as decoration: the click that confirms, the alarm that warns, the music that sets the scene's weather. Jordan's Grade 8 lesson teaches backdrops and sounds together as **design elements** because a project's quality is judged by eye and ear together — and because choosing them is the pupil's first work as a designer, not only a coder.
 
 In your mind's eye: sounds — the project's voice.
+
+[Picture 47009 — sounds — the project's voice]
 
 ## Say it to your companion
 

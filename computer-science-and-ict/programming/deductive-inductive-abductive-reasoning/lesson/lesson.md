@@ -10,11 +10,15 @@ Reasoning (penalaran) moves between rules and cases, and its direction decides i
 
 In your mind's eye: deduction and induction — certainty down, likelihood up.
 
+[Picture 46993 — deduction and induction — certainty down, likelihood up]
+
 ## Sub lesson 2 — Abduction — reasoning to the best explanation
 
 **Abductive** reasoning (abduktif) goes **from a result to its most likely cause**: the floor is wet and the bucket is empty — probably the water was spilled. It is the reasoning of diagnosis — the technician's, the doctor's, the debugger's — and the weakest of the three in certainty, because another cause may explain the same result. Its strength is that it proposes what to check first. The chapter's craft is naming which reasoning a moment needs: prove with deduction, generalise with induction held humbly, and hunt causes with abduction — then verify what abduction proposes.
 
 In your mind's eye: abduction — reasoning to the best explanation.
+
+[Picture 46994 — abduction — reasoning to the best explanation]
 
 ## Say it to your companion
 

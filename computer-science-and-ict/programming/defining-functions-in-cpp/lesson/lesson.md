@@ -10,11 +10,15 @@ A **function definition** has four parts: the **return type** (what kind of valu
 
 In your mind's eye: the shape of a definition.
 
+[Picture 46997 — the shape of a definition]
+
 ## Sub lesson 2 — Calling and reusing
 
 A **call** writes the function's name with **arguments** — real values for the parameters — and the program jumps into the body, runs it, and **returns to the exact place of the call**, carrying the returned value if there is one. One definition then serves every call site: fix the body once and every call is fixed. main() itself is a function — the one the system calls first.
 
 In your mind's eye: calling and reusing.
+
+[Picture 46998 — calling and reusing]
 
 ## Say it to your companion
 

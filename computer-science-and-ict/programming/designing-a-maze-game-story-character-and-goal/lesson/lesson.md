@@ -10,17 +10,23 @@ The maze project begins on paper, not in blocks. **Plan the story**: who is the 
 
 In your mind's eye: a paper plan with three written lines — who travels, why, what they must reach. And a small maze sketch under them.
 
+[Picture 47012 — a paper plan with three written lines — who travels, why, what they must reach. And a small maze sketch under them]
+
 ## Sub lesson 2 — Draw a small game character
 
 The game's traveller is a sprite you draw yourself. Keep it **small** — a maze's passages are narrow, and a big character cannot fit through them. Draw zoomed in: **zooming** enlarges your view so small work stays neat and the character's edges stay clean. Give the character some life with a **gradient fill** — a colour that shades from one tone to another — so it looks rounded rather than flat. The character must also be easy to see against the maze walls: a colour the walls do not use.
 
 In your mind's eye: a small game character being drawn zoomed-in in the paint editor, its body shaded with a gradient fill, beside the same character at true size on a maze corner.
 
+[Picture 47013 — a small game character being drawn zoomed-in in the paint editor, its body shaded with a gradient fill, beside the same character at true size on a maze corner]
+
 ## Sub lesson 3 — Draw the goal
 
 Last, draw the **goal**: the thing or place the traveller must reach to win — drawn clearly enough that a player who has never seen your game understands at a glance, 'that is where I must get to'. The goal is its own sprite or drawing, in a colour and shape that stand apart from both the walls and the character. Story, character, goal: with those three designed, the maze itself can now be drawn — that is the next lesson's work.
 
 In your mind's eye: a maze corner with a bright, clearly drawn goal — a star-topped door. Standing apart from the wall colour and the character.
+
+[Picture 47014 — a maze corner with a bright, clearly drawn goal — a star-topped door. Standing apart from the wall colour and the character]
 
 ## Say it to your companion
 
