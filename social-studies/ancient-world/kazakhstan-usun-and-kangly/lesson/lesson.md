@@ -10,11 +10,15 @@ the Usuns build a state in the Ili valley and grow rich between China and the st
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61255 — the ili valley state]
+
 ## Sub lesson 2 — §38 Material culture of the Usuns
 
 Usun pottery, tools and dwellings show a settled-herder civilisation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61256 — settled herder civilisation]
 
 ## Sub lesson 3 — §39–40 The Kangly
 
@@ -22,11 +26,15 @@ the Kangly hold the Syr Darya and its cities at the steppe's southern gate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61257 — the steppes southern gate]
+
 ## Sub lesson 4 — 4.1 Written sources about the Usuns
 
 Chinese envoys describe the Usun kunbi's court and herds for the Han emperor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61258 — described for the han emperor]
 
 ## Sub lesson 5 — 4.2 The Kangly's urban culture
 
@@ -34,11 +42,15 @@ Kangly towns on the Syr Darya mix farming, crafts and steppe trade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61259 — farming crafts and trade]
+
 ## Sub lesson 6 — 4.3 The Kangly's social structure
 
 Kangly chiefs, townsfolk and herders hold a state together at the steppe's gate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61260 — chiefs townsfolk herders]
 
 ## Sub lesson 7 — 4.4 The Usuns and the Kangly (chapter review)
 
@@ -46,11 +58,15 @@ two neighbouring peoples are compared as states between China and the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61261 — two neighbours compared]
+
 ## Sub lesson 8 — §43 Who were the ancient Usuns?
 
 the Usuns appear in the Ili valley as a great herding state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61262 — a great herding state]
 
 ## Sub lesson 9 — §44 Chinese sources about the Usuns
 
@@ -58,11 +74,15 @@ Han envoys count Usun herds, towns and kings for their emperor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61263 — counted for the emperor]
+
 ## Sub lesson 10 — §45 Who were the ancient Kangly?
 
 the Kangly hold the middle Syr Darya between steppe and cities
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61264 — between steppe and cities]
 
 ## Sub lesson 11 — §46 Urban culture of the ancient Kangly
 
@@ -70,11 +90,15 @@ Kangly towns raise walls, crafts and markets on the river
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61265 — walls crafts and markets]
+
 ## Sub lesson 12 — §47 Kangly social structure and political life
 
 a khan, tribal chiefs and townsfolk run the Kangly state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61266 — khan chiefs and townsfolk]
 
 ## Sub lesson 13 — §48 The accounts of Sima Qian and Zhang Qian
 

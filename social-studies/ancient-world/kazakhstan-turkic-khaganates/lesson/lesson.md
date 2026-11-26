@@ -250,11 +250,15 @@ Karluk khagans guard the Silk Road's steppe gates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61243 — guarding the steppe gates]
+
 ## Sub lesson 32 — §5 The Oghuz state (9th–mid 11th c.)
 
 the Oghuz yabghu state grows on the lower Syr Darya
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61244 — the lower syr darya]
 
 ## Sub lesson 33 — §6 The Kimak Khaganate (late 9th–early 11th c.)
 
@@ -262,11 +266,15 @@ Kimak towns and herds fill the Irtysh steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61245 — towns and herds]
+
 ## Sub lesson 34 — §7 The Turks' economy in the 6th–9th centuries
 
 herding, crafts and town trade form the khaganate economy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61246 — herding crafts town trade]
 
 ## Sub lesson 35 — §8 Urban culture forms (6th–9th c.)
 
@@ -274,11 +282,15 @@ steppe towns rise along the caravan roads
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61247 — towns along the roads]
+
 ## Sub lesson 36 — §9 Writing in the old Turkic era
 
 runic stones and Uyghur script give the Turks their own letters
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61248 — their own letters]
 
 ## Sub lesson 37 — §10 The old Turks' religious beliefs
 
@@ -286,11 +298,15 @@ Tengri worship, shaman rites and incoming world faiths meet
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61249 — faiths meet on the steppe]
+
 ## Sub lesson 38 — 1.1 Which khagan who ruled in the 6th–9th centuries is remembered in history, and why?
 
 Bumin's and Istemi's khaganate is judged by the mark its rulers left
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61250 — judged by their mark]
 
 ## Sub lesson 39 — 1.2 How did Bilge Khagan and Kul Tegin strengthen their state — what do the sources say?
 
@@ -298,11 +314,15 @@ the Orkhon inscriptions speak in the khagan's own warning voice
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61251 — the khagans own voice]
+
 ## Sub lesson 40 — 1.4 What does the Oghuzname epic tell us?
 
 the Oghuz Khan legend preserves a people's memory of itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61252 — a peoples memory of itself]
 
 ## Sub lesson 41 — 1.6 What information do Chinese and Arab sources give about the Turks?
 
@@ -310,11 +330,15 @@ foreign chroniclers' reports are cross-examined as evidence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61253 — cross examined as evidence]
+
 ## Sub lesson 42 — 1.7 How much did the Turkic peoples' migration affect Eurasian history?
 
 Turkic movement west redraws the continent's peoples and languages
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61254 — peoples and languages redrawn]
 
 ## Say it to your companion
 
