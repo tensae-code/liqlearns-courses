@@ -9,7 +9,11 @@ An **emotion** is a feeling that rises in us — **joy** when something good com
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36918 — name the emotions — joy, sadness, anger, fear]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36919 — a feeling you can name is a feeling you can talk about — I am angry]
 
 ## Sub lesson 2 — Emotions show — and they change
 

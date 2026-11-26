@@ -9,7 +9,11 @@ Eritrea's Grade 8 book closes its Human Systems unit with **homeostasis** (print
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36922 — the inside conditions that must stay steady — temperature, water, and the things dissolved in the blood]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 36923 — outside swings hot and cold; inside the body stays steady]
 
 ## Sub lesson 2 — Correcting a change — the body answers back
 

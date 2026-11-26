@@ -9,7 +9,11 @@ Beside the nervous system, the body runs a second messaging system: the endocrin
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36924 — the endocrine system — glands make hormones, and the blood carries them to the parts they command]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36925 — a gland releases hormones; they ride the blood; the part they command obeys]
 
 ## Sub lesson 2 — Released on demand
 

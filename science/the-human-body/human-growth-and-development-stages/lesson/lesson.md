@@ -16,7 +16,11 @@ The stages cannot be swapped or skipped. An infant becomes a young child, the yo
 
 In your mind's eye: four people in a row, an infant, a young child, a teenager and an adult, in that order. Name each stage before reading on.
 
+[Picture 36926 — the four stages of a human life — infant, young child, teenager, adult]
+
 In your mind's eye: the row of four figures growing one into the next, infant to adult. Say what stays the same (it is one human life) and what changes.
+
+[Picture 36927 — one human life growing through its stages — the stages change, the life is the same]
 
 ## Sub lesson 2 — What changes, stage by stage
 

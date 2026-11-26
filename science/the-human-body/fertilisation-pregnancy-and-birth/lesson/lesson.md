@@ -9,7 +9,11 @@ Nicaragua's Grade 6 book teaches it plainly: **one sperm enters the ovum and for
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36920 — the ovum, and the sperm — one of them enters the ovum]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36921 — one sperm enters the ovum and forms the zygote — the new individual's first cell]
 
 ## Sub lesson 2 — Pregnancy and birth — the amniotic sac, the placenta, and the way out
 
