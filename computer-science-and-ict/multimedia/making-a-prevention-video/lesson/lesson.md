@@ -10,11 +10,15 @@ A **prevention video** is an audiovisual message with a protective job: make vie
 
 In your mind's eye: message first.
 
+[Picture 46350 — message first]
+
 ## Sub lesson 2 — Making and showing it
 
 Making follows the class's audiovisual craft: script the scenes, film simply and clearly, edit to the essential, and check the result against the plan — does a fresh viewer catch the situation, the turn and the sentence? Showing is part of prevention: the video is presented to its real audience (the class, the school), and its makers answer questions. A prevention video succeeds in the audience's memory a week later, not in the filming.
 
 In your mind's eye: making and showing it.
+
+[Picture 46351 — making and showing it]
 
 ## Say it to your companion
 

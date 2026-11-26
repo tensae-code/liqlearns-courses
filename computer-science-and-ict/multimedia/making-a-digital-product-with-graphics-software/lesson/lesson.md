@@ -10,11 +10,15 @@ Track A of Vietnam's Grade 5 applied theme turns graphics software to a **produc
 
 In your mind's eye: a product has a purpose — plan before you draw.
 
+[Picture 46344 — a product has a purpose — plan before you draw]
+
 ## Sub lesson 2 — Make it, look at it, finish it
 
 Production follows the sketch: build the product piece by piece, **save as you go**, then stop and **look at the whole** — is the main thing biggest, can the words be read, do the colours fight? Fix the worst fault, then finish: save the product in its final form and **present it** — a product is not done when the maker stops, but when its person can receive it.
 
 In your mind's eye: make it, look at it, finish it.
+
+[Picture 46345 — make it, look at it, finish it]
 
 ## Say it to your companion
 

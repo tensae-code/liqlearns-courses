@@ -10,11 +10,15 @@ In Grade 5's track B, the teacher of a craft is a **tutorial video**: a maker sh
 
 In your mind's eye: the video is the teacher — watch in steps, not all at once.
 
+[Picture 46340 — the video is the teacher — watch in steps, not all at once]
+
 ## Sub lesson 2 — Hands follow eyes — checking, fixing, finishing
 
 Doing the step is its own skill: **compare** your piece with the video's piece at every pause — same fold, same join, same size? Where yours differs, **rewind and watch that step again** before going on; a small error carried forward becomes a big one. At the end stands a **finished, usable product** — and the track's real lesson beside the craft: a video can teach a pair of hands almost anything, if the hands work while the eyes watch.
 
 In your mind's eye: hands follow eyes — checking, fixing, finishing.
+
+[Picture 46341 — hands follow eyes — checking, fixing, finishing]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The animated film is **produced** from its plan: the script and storyboard name 
 
 In your mind's eye: production — scenes built from the plan.
 
+[Picture 46354 — production — scenes built from the plan]
+
 ## Sub lesson 2 — Sound, export and release — the film leaves the workshop
 
 A film is finished in its last crafts: **sound** is added — voices, music and effects laid under the scenes they belong to; the project is **exported** as one video file any player can show; and the film is **released** — presented to its audience, in the specialist book with a premiere for the class ('Releasing my animated film'). Export and release are part of the lesson, not an afterthought: a film that cannot be shown is a workshop exercise, not a film.
 
 In your mind's eye: sound, export and release — the film leaves the workshop.
+
+[Picture 46355 — sound, export and release — the film leaves the workshop]
 
 ## Say it to your companion
 

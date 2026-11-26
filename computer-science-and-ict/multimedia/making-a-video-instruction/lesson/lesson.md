@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Video instructions** — covering: 7.6:
 
 In your mind's eye: video instructions.
 
+[Picture 46352 — video instructions]
+
 ## Sub lesson 2 — Видеоинструкция
 
 This part of Kazakhstan's book teaches **Видеоинструкция** — covering: 7.6 Видеоинструкция. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: видеоинструкция.
+
+[Picture 46353 — видеонинструкция]
 
 ## Say it to your companion
 

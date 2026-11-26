@@ -10,11 +10,15 @@ An **infographic** presents information **graphically**: icons, simple charts, s
 
 In your mind's eye: the infographic — information as a picture.
 
+[Picture 46356 — the infographic — information as a picture]
+
 ## Sub lesson 2 — Making it — from the unit's knowledge to the public's page
 
 The Grade 9 teams build theirs from the whole cyber-threats experience: choose the **one crime** their audience actually meets (the audience lesson's discipline), take its **true facts** from the unit's verified learning, and design the page — draft, test on a stranger from the target audience, and fix what the stranger missed or misread. The infographic is finished when the stranger can repeat its message unaided. Awareness that cannot be repeated was decoration, and the unit's standard is stricter: a page that changes what its reader does next.
 
 In your mind's eye: making it — from the unit's knowledge to the public's page.
+
+[Picture 46357 — making it — from the unit's knowledge to the public's page]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **collage** pastes pictures together into one image, and in the layered editor
 
 In your mind's eye: layers, Magic Wand, transparency — the collage's craft.
 
+[Picture 46348 — layers, Magic Wand, transparency — the collage's craft]
+
 ## Sub lesson 2 — Perspective and the colour calculator
 
 Two knowledges keep the made scene true. **Perspective**: the pasted parts must obey one space — far animals smaller, all feet on one ground line, one light over all. And **colour choice** is done with instruments, not wishes: the **colour calculator** gives a colour its numbers — **RGB** for the screen, **CMYK** for print, its **hex code** for the web — and the **colour wheel** shows which colours marry and which fight. Mongolia's collage is judged as the composition lesson judged: one picture, one land, one light — the livestock standing in a steppe that never existed, believed because every craft in the lesson was obeyed.
 
 In your mind's eye: perspective and the colour calculator.
+
+[Picture 46349 — perspective and the colour calculator]
 
 ## Say it to your companion
 

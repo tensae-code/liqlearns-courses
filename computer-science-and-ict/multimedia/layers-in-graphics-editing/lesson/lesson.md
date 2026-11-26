@@ -10,11 +10,15 @@ Think of **layers** as **transparent sheets** stacked in order: paint on a sheet
 
 In your mind's eye: the stack — sheets of glass.
 
+[Picture 46338 — the stack — sheets of glass]
+
 ## Sub lesson 2 — Working layer by layer
 
 The working habit: **one element per layer** (background, person, text), **name** layers so the stack stays readable, edit the **active** layer only — most 'the wrong thing changed' accidents are the wrong layer being active. **Opacity** fades a whole layer; **flattening** merges everything into one layer for final export and should be the last step, on a copy, because it cannot be undone into parts.
 
 In your mind's eye: working layer by layer.
+
+[Picture 46339 — working layer by layer]
 
 ## Say it to your companion
 

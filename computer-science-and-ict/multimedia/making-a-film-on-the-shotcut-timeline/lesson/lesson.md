@@ -10,11 +10,15 @@ Shotcut's **interface** centres on the **Timeline** — the tracks where the fil
 
 In your mind's eye: the shotcut screen and importing files.
 
+[Picture 46346 — the shotcut screen and importing files]
+
 ## Sub lesson 2 — Building on the Timeline — and saving the project
 
 **Add clips** to the Timeline in the order the story needs them; **delete** a clip that does not fit. **Lock a track** when its work is finished, so later edits cannot disturb it. A mistake is not a disaster: **Undo** steps back over it. **Save the project** as you work, and **reopen** it next time to carry on exactly where you stopped — the project file remembers the whole arrangement.
 
 In your mind's eye: building on the timeline — and saving the project.
+
+[Picture 46347 — building on the timeline — and saving the project]
 
 ## Say it to your companion
 
