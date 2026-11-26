@@ -26,6 +26,8 @@ Keep the chart near you. Four sayings live in this lesson — two built from the
 
 In your mind's eye: ሆድና ጀርባ. The words join, two people stand divided.
 
+[Picture 36893 — the words join, two people stand divided]
+
 Watch the two word-cards slide together and become one saying — and under it, two people with a crack between them. That crack is the meaning: not a belly, not a back, but a broken agreement.
 
 Notice the pattern: the body words paint a picture, and the picture carries the meaning. Break the picture apart into single words and the meaning falls out of your hands.

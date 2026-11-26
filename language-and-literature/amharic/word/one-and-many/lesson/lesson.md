@@ -61,6 +61,8 @@ You have made plurals since the clothing lessons. Now the whole system is stated
 
 In your mind's eye: the -ኦች suffix attaching to a noun.
 
+[Picture 36892 — the -ኦች ending clicks onto the word, and one tree becomes many trees]
+
 Watch **ኦች** travel in and lock onto **ቀሚስ**: one dress, then **ቀሚሶች** — many dresses, and the ring count under the word goes from one to many at the moment the piece lands.
 
 And the plural does not travel alone into a sentence: **subject and verb phrase must agree — in number, in gender and in person (መደብ).** A plural subject does not sit beside a singular verb phrase; the two sides of the sentence match each other.
