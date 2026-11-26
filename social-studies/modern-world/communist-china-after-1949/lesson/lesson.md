@@ -10,6 +10,8 @@ Mao's revolution, the Great Leap's catastrophe, then Deng's market turn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62793 — revolution leap turn]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §21 Communist China: features of its political and socio-economic system — Mao's revolution, the Great Leap's catastrophe, then Deng's market turn. Then let your companion ask you one hard question about it — answer from the lesson.

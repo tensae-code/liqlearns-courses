@@ -10,6 +10,8 @@ In fifty years the Spanish conquer by contract and dispute; three routes — Car
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62801 — three routes inland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Guía 5: What was the Conquest of our territories, and how? — in fifty years the Spanish conquer by contract and dispute; three routes — Caribbean coast, south-west and centre — push inland, and Gonzalo Jiménez de Quesada leaves Santa Marta with 600 foot soldiers and over 100 horsemen. Then let your companion ask you one hard question about it — answer from the lesson.

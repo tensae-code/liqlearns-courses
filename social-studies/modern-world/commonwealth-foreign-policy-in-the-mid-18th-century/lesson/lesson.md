@@ -10,6 +10,8 @@ The state that no longer decides its own kings watches Russian and Prussian armi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62792 — armies cross its land]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Foreign policy of the Commonwealth in the mid-18th century. Then let your companion ask you one hard question about it — answer from the lesson.

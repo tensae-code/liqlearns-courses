@@ -10,6 +10,8 @@ Pereyaslav in 1654 brings Moscow's war and the Swedish Deluge, Andrusovo in 1667
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62791 — vienna 1683]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Foreign policy of the Commonwealth, second half of the 17th century. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The coffee-and-banana agro-export model that built the nation-state enters repea
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62811 — a model in crisis]
+
 ## Sub lesson 2 — La crisis del modelo agroexportador (Porras y Gamboa)
 
 Coffee-and-banana dependence breaks: WWI's consequences for Costa Rica, González Flores' tax reforms, workers organising, and the actions taken against the 1929 crisis — learners role-play the president facing it (Unidad 2, A: La crisis del modelo agroexportador)

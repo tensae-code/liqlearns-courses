@@ -10,6 +10,8 @@ the agrarian reform confiscates 66.1% of estates over 100 ha and gives land to 1
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62803 — land to 14 million]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 21: Politici de consolidare a statului național român — the agrarian reform confiscates 66.1% of estates over 100 ha and gives land to 1.4 million peasant families; Halippa's Peasant Party carries Bessarabia's politics into the united state. Then let your companion ask you one hard question about it — answer from the lesson.

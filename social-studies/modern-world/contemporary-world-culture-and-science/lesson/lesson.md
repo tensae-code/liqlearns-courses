@@ -10,11 +10,15 @@ Dolly the sheep is cloned, COVID-19 transforms life in 2019–22, Mies van der R
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62806 — dolly to covid]
+
 ## Sub lesson 2 — Tema 53: Realizările tehnice şi ştiinţifice din Epoca Contemporană
 
 Sputnik opens the space age on 4 October 1957 and humanity flies off its own planet; endocrinology, cytology and the microbes-and-viruses revolution remake medicine
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62807 — sputnik 1957]
 
 ## Say it to your companion
 

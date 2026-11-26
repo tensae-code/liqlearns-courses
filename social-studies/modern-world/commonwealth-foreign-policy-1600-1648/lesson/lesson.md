@@ -10,6 +10,8 @@ Sigismund III's Swedish claim drags the state into thirty years of wars, its tro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62790 — troops hold moscow]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Foreign policy of the Commonwealth, first half of the 17th century. Then let your companion ask you one hard question about it — answer from the lesson.

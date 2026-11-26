@@ -10,6 +10,8 @@ From town localisms after 1821 Costa Rica walks the road of centralisation to th
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62812 — to the republic 1848]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: De los localismos a la fundación de la República — From town localisms after 1821 Costa Rica walks the road of centralisation to the founding of the Republic in 1848. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The 1940s social reforms (social guarantees, labour code) end in the 1948 civil 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62809 — reform then war 1948]
+
 ## Sub lesson 2 — Costa Rica en la década de 1940 y la Guerra Civil de 1948 (Porras y Gamboa)
 
 Calderón Guardia's reforms — the University of Costa Rica (1940) and the Caja Costarricense de Seguro Social (1941) — the Bloque de la Victoria, Picado's government, the 1948 elections and civil war, and the 1949 Constitution (Unidad 2, C: Costa Rica en la década de 1940 y la Guerra Civil de 1948)

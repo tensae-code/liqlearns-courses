@@ -10,6 +10,8 @@ containment leaves Europe — Korea, divided in 1945 between Soviet north and Am
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62804 — two koreas remain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 5, Unit 2 — containment leaves Europe — Korea, divided in 1945 between Soviet north and American south, goes to war in 1950 when reunification elections fail, and three years of fighting change nothing: two Koreas remain; Vietnam splits the same way, and America commits to the south. Then let your companion ask you one hard question about it — answer from the lesson.

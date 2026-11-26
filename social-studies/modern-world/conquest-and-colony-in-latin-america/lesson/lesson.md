@@ -10,6 +10,8 @@ Small Spanish bands topple the Aztec and Inca empires, and three centuries of co
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62800 — three centuries]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La conquista y la colonización de América Latina — small Spanish bands topple the Aztec and Inca empires, and three centuries of colonial rule remake America's peoples, languages and faiths. Then let your companion ask you one hard question about it — answer from the lesson.

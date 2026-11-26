@@ -10,6 +10,8 @@ The Requerimiento is read at midnight, far from the town, in Spanish; Cortés ex
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62802 — division decides]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 24: Encounter and conquest of America — the Requerimiento is read at midnight, far from the town, in Spanish; Cortés exploits Totonac discontent for alliances, besieged invaders flee without food or water, and the Inca, divided, fall — bravery and Indigenous division decide the conquests. Then let your companion ask you one hard question about it — answer from the lesson.

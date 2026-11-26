@@ -10,6 +10,8 @@ the book asks whether colonialism really ended — Pacific states still depend o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62808 — did colonialism end]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 2, Unit 6 — the book asks whether colonialism really ended — Pacific states still depend on their former colonisers, and learners research the petition asking New Zealand to grant Sāmoans New Zealand citizenship, and why other Sāmoans objected. Then let your companion ask you one hard question about it — answer from the lesson.

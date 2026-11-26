@@ -10,6 +10,8 @@ The 1980s economic crisis breaks the welfare model; Costa Rica turns to export p
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62810 — the welfare model breaks]
+
 ## Sub lesson 2 — Costa Rica desde la crisis de los años 80 (Porras y Gamboa)
 
 Debt crisis, structural adjustment (PAES), state shrinking and free-trade treaties — the CAFTA referendum decides by popular vote (Unidad 3, A: Costa Rica desde la crisis de los años 80)

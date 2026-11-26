@@ -10,6 +10,8 @@ shrinking water, land and forests turn neighbours into rivals, and nature itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62797 — nature as a cause of war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2 §6: environmental conflicts — shrinking water, land and forests turn neighbours into rivals, and nature itself becomes a cause of war. Then let your companion ask you one hard question about it — answer from the lesson.

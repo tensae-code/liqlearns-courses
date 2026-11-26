@@ -10,6 +10,8 @@ Coffee becomes the motor of economic, social and cultural change, and banana pro
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62813 — joining the world market]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La inserción al mercado mundial — Coffee becomes the motor of economic, social and cultural change, and banana production rises on the Caribbean coast — Costa Rica joins the world market as an agro-exporter. Then let your companion ask you one hard question about it — answer from the lesson.

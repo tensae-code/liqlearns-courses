@@ -10,6 +10,8 @@ Pizarro's 160 men seize Atahualpa at Cajamarca in 1533 and he is killed despite 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62799 — cajamarca 1533]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La conquista — Pizarro's 160 men seize Atahualpa at Cajamarca in 1533 and he is killed despite a ransom room of treasure; colony, mestizaje and Afro-Ecuadorian roots follow, and Indigenous and mestizo uprisings keep resisting cultural domination. Then let your companion ask you one hard question about it — answer from the lesson.

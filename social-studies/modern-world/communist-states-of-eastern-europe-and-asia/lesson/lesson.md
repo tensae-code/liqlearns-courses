@@ -10,11 +10,15 @@ the percentages agreement divides the spoils; Soviet-model plans and forced indu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62794 — percentages and protests]
+
 ## Sub lesson 2 — Tema 34: Instaurarea regimului comunist în țările Europei Centrale și de Est
 
 Groza's government is imposed over Rădescu's Romania; Tito's partisans make their own Yugoslavia, Rákosi opens Budapest's 1948 fair as Hungary's communists take over, and the GDR is proclaimed on Soviet-zone territory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62795 — regimes installed]
 
 ## Say it to your companion
 
