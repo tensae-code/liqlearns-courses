@@ -10,6 +10,8 @@ the Khalifa dies at Umm Diwaykarat (1899), Wad Habuba rises in the Gezira (1908)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39283 — three panels — a fallen banner, green fields, a mountain fort]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1899–1918 — the Khalifa dies at Umm Diwaykarat (1899), Wad Habuba rises in the Gezira (1908), the Nuba Mountains revolt again and again, and Sultan Ali Dinar holds Darfur until Britain's 1916 campaign kills him and annexes his sultanate. Then let your companion ask you one hard question about it — answer from the lesson.

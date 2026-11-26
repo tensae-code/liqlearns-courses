@@ -10,17 +10,23 @@ an empire marches a thousand miles up the Nile in one season, and spends sixty y
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39284 — a winding Nile line and four marching soldiers]
+
 ## Sub lesson 2 — The Turco-Egyptian Invasion of Sudan
 
 a divided land of sultanates meets a modern army, and in one campaigning season Sudan has a foreign master
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39285 — two panels — two crowned sultans, a cannon and a soldier]
+
 ## Sub lesson 3 — Turco-Egyptian Rule in Sudan (3)
 
 sixty years of refusal, in arms, in flight and in mutiny, until refusal becomes a revolution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39286 — three panels — in arms, in flight, in mutiny]
 
 ## Say it to your companion
 

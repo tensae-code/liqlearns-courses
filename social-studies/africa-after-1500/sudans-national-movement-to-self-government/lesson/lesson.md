@@ -10,11 +10,15 @@ a young officer's league carries a flag with no emblem but Sudan's name, and the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39302 — an officer, a plain SUDAN flag, a martyr's flame]
+
 ## Sub lesson 2 — The National Movement, Third, Fourth and Fifth Phases (1925–1937; 1938–1945; 1945–1953)
 
 clubs become congresses, congresses become parties, and parties take the country
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39303 — three ascending houses — CLUBS, CONGRESSES, PARTIES — with flags]
 
 ## Say it to your companion
 

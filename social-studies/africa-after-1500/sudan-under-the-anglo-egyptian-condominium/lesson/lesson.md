@@ -10,17 +10,23 @@ neither colony nor independence: a legal fiction governs Sudan for half a centur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39287 — the 1899 agreement paper between two flags]
+
 ## Sub lesson 2 — The Development of Constitutional Institutions in the Condominium Period
 
 the Sudanese are given chairs in the room, then demand the room
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39288 — a council room — two seated in chairs, one standing]
+
 ## Sub lesson 3 — Economic and Social Developments in the Condominium Period
 
 cotton pays for the state that politics is learning to claim
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39289 — cotton bolls, flowing coins, a state house]
 
 ## Say it to your companion
 

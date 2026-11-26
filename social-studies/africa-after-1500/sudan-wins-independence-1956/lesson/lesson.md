@@ -10,6 +10,8 @@ after 135 years of foreign rule the Sudanese flag goes up over Khartoum
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39298 — the blue-yellow-green flag raised by a palace, four figures]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Independence of Sudan — after 135 years of foreign rule the Sudanese flag goes up over Khartoum. Then let your companion ask you one hard question about it — answer from the lesson.

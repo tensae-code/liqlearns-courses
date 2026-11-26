@@ -10,11 +10,15 @@ The 1900 Buganda Agreement settles land, governance and gun and hut taxes; the 1
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39304 — a signing table, a crowned king, an officer, a mailo panel, tax coins]
+
 ## Sub lesson 2 — How Uganda became a nation
 
 Before the treaties, the British form the Imperial British East Africa Company; then agreements are signed with the kings of Buganda, Ankole, Bunyoro and Toro, one kingdom at a time
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39305 — a Company house and four crowned kings in a row]
 
 ## Sub lesson 3 — The agreements
 

@@ -10,6 +10,8 @@ the Sudanese Union (1920) works in secret leaflets, Ali Abd al-Latif's White Fla
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39282 — a plain white flag, demonstrators, a bridge arc, a Congress panel]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1918–1953 — the Sudanese Union (1920) works in secret leaflets, Ali Abd al-Latif's White Flag League leads the 1924 revolution — demonstrations in Khartoum, the cadets' stand and Abd al-Fadil al-Maz at the Blue Nile bridge — and the Graduates' Congress of 1938 turns protest into a national programme, demanding self-determination in 1942. Then let your companion ask you one hard question about it — answer from the lesson.

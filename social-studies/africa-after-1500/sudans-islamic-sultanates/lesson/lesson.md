@@ -10,17 +10,23 @@ two allies pull down the last Christian capital and raise a Muslim sultanate on 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39299 — a struck church, two allies, a mosque, a river band]
+
 ## Sub lesson 2 — The Islamic Sultanates in Sudan (2)
 
 in the far west, mountain farmers build a sultanate of their own that outlasts empires around it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39300 — a terraced mountain with a fort, a farmer]
+
 ## Sub lesson 3 — the Funj and Fur sultanates that Islam's spread brings forth
 
 conversion ripens into states — Sennar and Darfur rule Muslim Sudan for three centuries
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39301 — two panels — a mosque over a SENNAR band, a mountain fort DARFUR]
 
 ## Say it to your companion
 
