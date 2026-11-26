@@ -11,7 +11,11 @@ Kuwait's Grade 2 book introduces mass beside volume in its Matter unit, with the
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37039 — a balance tipping toward the big stone — more matter, more mass; mass is measured in grams and kilograms]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37040 — Kuwait's test — a full bottle and an empty one, the same size: the full side sinks, more matter inside]
 
 ## Sub lesson 2 — Mass is not size, and not weight
 

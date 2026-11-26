@@ -9,17 +9,23 @@ Every making starts with the thing itself, named first: Iran's Grade 1 book open
 
 In your mind's eye: what do i want to make? as Iran's book shows it. Name the part that carries the sub lesson's point.
 
+[Picture 37036 — What do I want to make? — the made thing is named first (a boat, a kite, a box); the material comes second]
+
 ## Sub lesson 2 — Choosing the material that fits the job
 
 A material is chosen because of what the thing must do. A ruler must be straight and stiff; a cooking pot must stand heat and not melt; a shelter must keep out weather and danger — for thousands of years humans used natural materials like wood and stone for shelter, as Iran's Grade 7 book tells it, and choosing still follows the job. Even a chocolate is shaped by choice: Iran's Grade 2 makers draw the shape they want and make a mould for it.
 
 In your mind's eye: choosing the material that fits the job as Iran's book shows it. Name the part that carries the sub lesson's point.
 
+[Picture 37037 — choosing the material that fits the job — a ruler straight and stiff, a pot that stands heat, a shelter that keeps out weather]
+
 ## Sub lesson 3 — Design it, build it, test it
 
 Iran's Grade 6 book runs the full maker's round in its "let us design and build" lesson: look at the kinds there are, decide what yours will do, build it, and watch how it goes. A design is a choosing plan; building tests the choices; what fails sends you back to choose again.
 
 In your mind's eye: design it, build it, test it as Iran's book shows it. Name the part that carries the sub lesson's point.
+
+[Picture 37038 — design it, build it, test it — and what fails in the test sends you back to choose again]
 
 ## The key ideas
 

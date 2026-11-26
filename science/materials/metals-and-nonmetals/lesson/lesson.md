@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "What the differences betw
 
 In your mind's eye: what the differences between metals and non-metals consist in as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37041 — metals and non-metals — a metal wire, shiny and bent without breaking; a non-metal stick, dull and snapped]
+
 ## The key ideas
 
 - What the differences between metals and non-metals consist in — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

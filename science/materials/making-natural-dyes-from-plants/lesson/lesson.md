@@ -13,7 +13,11 @@ A part that gives no colour is not a failed try. It is a finding, exactly like a
 
 In your mind's eye: different plant parts laid out beside cups of water, some cups already coloured. The student points to the parts and the coloured water.
 
+[Picture 37034 — plant parts laid out beside cups of water — some cups already coloured, one still clear: a part that gives no colour is a finding too]
+
 In your mind's eye: a plant part being stirred in a cup of water, colour spreading from the part through the water. Say where the colour came from and where it went.
+
+[Picture 37035 — a plant part stirred in a cup — the colour leaves the part and dissolves through the water]
 
 ## Sub lesson 2 — Colour dissolving in water
 

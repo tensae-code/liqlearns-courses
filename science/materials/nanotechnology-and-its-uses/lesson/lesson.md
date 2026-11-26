@@ -9,7 +9,11 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37042 — smaller and smaller — a coin, an ant, then a cluster of atoms under a magnifier: the nanometre scale, too small to see]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37043 — gold as we know it, and gold at the nano scale turning a different colour — at the smallest scale, materials behave in new ways]
 
 ## Sub lesson 2 — Applications of nanotechnology
 
