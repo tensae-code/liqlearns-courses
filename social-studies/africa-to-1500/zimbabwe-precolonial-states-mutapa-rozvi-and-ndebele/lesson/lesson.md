@@ -10,6 +10,8 @@ Three kingdoms, three answers. Nyatsimba Mutota founds Mutapa on gold and trade 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38936 — mutapa rozvi and the ndebele state]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: mutapa, rozvi and the ndebele state. Then let your companion ask you one hard question about it — answer from the lesson.

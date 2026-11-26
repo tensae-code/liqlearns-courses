@@ -10,6 +10,8 @@ a kingdom founded by a wedding and a schoolteacher, in hills no conqueror could 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38927 — the taqali kingdom of the hills]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Islamic Sultanates in Sudan (3) — a kingdom founded by a wedding and a schoolteacher, in hills no conqueror could hold, that survives three centuries and ends as the Mahdi's ally. Then let your companion ask you one hard question about it — answer from the lesson.

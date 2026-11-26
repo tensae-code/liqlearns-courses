@@ -10,6 +10,8 @@ Christianity reaches Eritrea across the Red Sea about 350 CE, and in 615 CE the 
 
 In your mind's eye: the key place or moment of The Beja kingdoms and Dahlak as the book shows it. Point to it and say what it shows.
 
+[Picture 38919 — faiths reach eritrea across the sea]
+
 ## Sub lesson 2 — Eritrea in the Medieval Age
 
 The Dahlak kingdom rules the islands, the Beja hold the western lowlands, and mosques and inscriptions mark a coast turned toward the Islamic world.

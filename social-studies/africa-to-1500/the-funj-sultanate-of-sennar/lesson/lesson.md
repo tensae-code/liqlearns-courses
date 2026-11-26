@@ -10,6 +10,8 @@ three centuries of one Sudanese state, taken apart piece by piece so the child s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38921 — how the funj state worked]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Islamic Sultanates in Sudan (1) — three centuries of one Sudanese state, taken apart piece by piece so the child sees exactly how it worked and why it failed. Then let your companion ask you one hard question about it — answer from the lesson.

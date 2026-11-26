@@ -10,11 +10,15 @@ As Zimbabwe fades, the Mwene Mutapa empire rises in the Zambezi valley, ruling t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38925 — the mutapa empire rises]
+
 ## Sub lesson 2 — The Mwenemutapa state
 
 As Zimbabwe declines, the Mwenemutapa state rises north of its ruins in the mid-15th century, stretching from the Kalahari to the Indian Ocean on the Shona-Karanga gold trade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 38926 — the mwenemutapa state's reach]
 
 ## Say it to your companion
 

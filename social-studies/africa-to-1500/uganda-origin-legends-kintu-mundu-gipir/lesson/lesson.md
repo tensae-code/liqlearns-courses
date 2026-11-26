@@ -10,6 +10,8 @@ Elders' stories tell where each people began — Kintu and Nambi in Buganda, Mun
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38932 — uganda's origin legends]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Legends — elders' stories tell where each people began — Kintu and Nambi in Buganda, Mundu and Sera in Bugisu, Gipir and Labong in Acholi — and the legends carry each tribe's culture. Then let your companion ask you one hard question about it — answer from the lesson.

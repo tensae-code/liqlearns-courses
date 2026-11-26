@@ -10,6 +10,8 @@ A stranger who divides the wood fairly is offered marriage and kingship and unit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38930 — the wolof empire unites five states]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Empires of Western Sudan: The Wolof Empire — a stranger who divides the wood fairly is offered marriage and kingship and unites five Wolof states — Walo, Baol, Jolof, Cayor and one more; his successors can be removed by the nobles, and a king's death is kept secret to prevent succession wars. Then let your companion ask you one hard question about it — answer from the lesson.

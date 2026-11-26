@@ -10,6 +10,8 @@ From Khoisan bands without stable organisation, Bantu settlement brings lineages
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38933 — from lineages to states]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: What a state is — from Khoisan bands without stable organisation, Bantu settlement brings lineages; as economy and population grow, lineages strain toward something new — the state. Then let your companion ask you one hard question about it — answer from the lesson.

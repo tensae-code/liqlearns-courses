@@ -10,11 +10,15 @@ Around Lake Victoria in western Kenya stands the only kingdom Kenya had, named a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38928 — wanga kenya's one kingdom]
+
 ## Sub lesson 2 — Traditional institutions
 
 When the British arrive in Kenya in 1883 they find one organised centralised state — the Wanga Kingdom of Mumia in Kakamega — and Kenya, unlike Uganda, barely recognises cultural leaders to this day
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 38929 — one organised state in kenya]
 
 ## Say it to your companion
 

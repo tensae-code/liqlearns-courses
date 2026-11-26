@@ -10,6 +10,8 @@ Two feuding clans cut a sheep and a goat in half and exchange the halves, then d
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38931 — traditional justice the oput drink]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Justice in traditional culture — two feuding clans cut a sheep and a goat in half and exchange the halves, then drink the bitter herb Oput together to "wash away bitterness" — justice as a shared drink, not a verdict. Then let your companion ask you one hard question about it — answer from the lesson.

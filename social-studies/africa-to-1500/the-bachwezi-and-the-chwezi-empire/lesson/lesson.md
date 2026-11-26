@@ -18,17 +18,23 @@ The Bachwezi's gifts are listed like a king's inventory — salt mining at Lake 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38914 — the gifts of the bachwezi]
+
 ## Sub lesson 3 — Economic contributions of the Bachwezi
 
 Coffee, iron working, pottery and the salt mines of Lake Katwe — the Bachwezi are remembered as teachers of crafts
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38915 — what the bachwezi taught]
+
 ## Sub lesson 4 — Bachwezi Dynasty
 
 The Batembuzi, gods come from heaven, found Bunyoro; the Chwezi who follow prize long-horned cattle, grow coffee, beans and millet, make pottery, and play omweso in grass-thatched huts smeared with cow dung
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 38916 — the bachwezi dynasty at home]
 
 ## Say it to your companion
 

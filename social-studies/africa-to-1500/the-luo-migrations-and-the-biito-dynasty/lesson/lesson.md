@@ -10,17 +10,23 @@ Luo speakers migrate from Bahr-el-Ghazal in South Sudan to the lakes, bringing m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38922 — luo speakers move to the lakes]
+
 ## Sub lesson 2 — The River-Lake Nilotes
 
 The Luo speakers leave Bahr-el-Ghazal in South Sudan and settle by the lakes and rivers that name them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38923 — settling by the lakes]
+
 ## Sub lesson 3 — The Luo
 
 The River-Lake Nilotes come from Bahr el Gazel in Southern Sudan, pastoralists whose family fills the map — Dinka, Alur, Luo, Shilluk, Bor, Anuak, Acholi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 38924 — the luo family of peoples]
 
 ## Say it to your companion
 

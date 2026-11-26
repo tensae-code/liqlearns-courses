@@ -10,6 +10,8 @@ Bantu newcomers meet Gabon's first peoples and the two worlds negotiate, trade a
 
 In your mind's eye: bantu-speaking families moving across central Africa with farming tools and iron, meeting forest peoples. Say what the Bantu carried with them.
 
+[Picture 38917 — bantu newcomers meet gabon's first peoples]
+
 ## Sub lesson 2 — The Bantu spread across central Africa
 
 Bantu-speaking peoples spread across central Africa, carrying farming, iron and languages (Leçon 14 Les Bantous)

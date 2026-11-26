@@ -10,6 +10,8 @@ About 2,000 years ago, newcomers walk into the Khoisan's land. The Bantu carry t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 38934 — the bantu migration into zimbabwe]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the bantu migration into zimbabwe. Then let your companion ask you one hard question about it — answer from the lesson.
