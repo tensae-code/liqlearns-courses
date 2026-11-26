@@ -10,11 +10,15 @@ The **pencil tool** draws a **thin free line that follows the mouse** wherever i
 
 In your mind's eye: the pencil tool — drawing free lines.
 
+[Picture 46285 — the pencil tool — drawing free lines]
+
 ## Sub lesson 2 — The eraser — rubbing out mistakes
 
 The **eraser (gomme)** removes drawing where it passes: choose it, and **drag it over the part to rub out** — that part disappears, back to the paper colour. The eraser is for **small corrections** — one wrong line, one stray mark — not for starting again: what it touches is gone, including good lines it crosses, so it is used in short, careful strokes. Pencil and eraser are a pair: draw bravely, correct precisely.
 
 In your mind's eye: the eraser — rubbing out mistakes.
+
+[Picture 46286 — the eraser — rubbing out mistakes]
 
 ## Say it to your companion
 

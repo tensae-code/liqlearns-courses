@@ -10,11 +10,15 @@ The **pencil** draws a **thin line that follows your hand exactly** — the tool
 
 In your mind's eye: pencil and brush — the free-drawing tools.
 
+[Picture 46283 — pencil and brush — the free-drawing tools]
+
 ## Sub lesson 2 — Fill and text — colour poured, words placed
 
 The **fill** (paint bucket) **pours colour into a closed area** with one click: click inside a shape and its whole inside takes the colour — and if the outline has a gap, the colour escapes through it. The **text tool** writes **words inside the drawing**: choose it, click where the words belong, and type — a name under a picture, a title on a poster. Cuba's guides name the text tool inside the same tool lesson as pencil and brush, because a finished school drawing carries both marks and words.
 
 In your mind's eye: fill and text — colour poured, words placed.
+
+[Picture 46284 — fill and text — colour poured, words placed]
 
 ## Say it to your companion
 

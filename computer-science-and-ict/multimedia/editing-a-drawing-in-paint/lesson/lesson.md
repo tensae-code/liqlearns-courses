@@ -10,11 +10,15 @@ To edit, first **select** a part of the drawing with the selection tool — then
 
 In your mind's eye: selecting and moving a part.
 
+[Picture 46287 — selecting and moving a part]
+
 ## Sub lesson 2 — Turning, stretching and the eraser
 
 A selected part can also be **flipped or turned**, and **stretched or shrunk** to a new size; small mistakes are rubbed out with the **eraser**, which paints in the background colour. Editing's rule is the same as on paper, only kinder: try the change on a copy or be ready to undo — Paint forgives, but only one step back at a time in the book's version.
 
 In your mind's eye: turning, stretching and the eraser.
+
+[Picture 46288 — turning, stretching and the eraser]
 
 ## Say it to your companion
 

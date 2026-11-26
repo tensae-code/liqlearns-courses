@@ -10,11 +10,15 @@ Every edit starts with **selection**: mark the part of the picture to work on, l
 
 In your mind's eye: select, copy and crop — taking the part you need.
 
+[Picture 46293 — select, copy and crop — taking the part you need]
+
 ## Sub lesson 2 — Resize, skew, rotate and zoom — changing and viewing the whole
 
 The whole picture, or its selection, can be **resized** — made bigger or smaller — and **skewed** — slanted. **Rotate** turns it: sideways, upside down, or flipped as in a mirror. **Zoom** changes not the picture but your view of it: zoom in and the **pixels** appear — the tiny single-colour squares every Paint picture is made of — which is where fine corrections are made. Mongolia's order is the editor's discipline: take first (select, crop), then change (resize, rotate), then inspect (zoom, pixels).
 
 In your mind's eye: resize, skew, rotate and zoom — changing and viewing the whole.
+
+[Picture 46294 — resize, skew, rotate and zoom — changing and viewing the whole]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A MovieMaker production runs the workplace in order. Clips, pictures and music a
 
 In your mind's eye: the production — shelf to export.
 
+[Picture 46291 — the production — shelf to export]
+
 ## Sub lesson 2 — 'My Homeland' and 'Four Seasons' — the book's two films
 
 The book sets **two productions**, not one. **'My Homeland'** films the pupil's own aimag or town — the homeland tour of the integration chapter, shot instead of slid. **'Four Seasons'** films time itself: the same ground through the year's turn, teaching the patience of the long project — material gathered across months, one timeline at the end. Mongolia's pairing is the strand's philosophy: the first film proves the tool, the second proves the filmmaker — anyone can finish a film about a place; 'Four Seasons' can only be finished by someone who planned, waited and kept their material like a professional.
 
 In your mind's eye: 'My Homeland' and 'Four Seasons' — the book's two films.
+
+[Picture 46292 — 'My Homeland' and 'Four Seasons' — the book's two films]
 
 ## Say it to your companion
 

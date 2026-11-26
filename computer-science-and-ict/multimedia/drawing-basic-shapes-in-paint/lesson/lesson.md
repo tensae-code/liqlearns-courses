@@ -10,11 +10,15 @@ Paint carries a **shapes** gallery: ready-made shapes you draw in one drag — a
 
 In your mind's eye: the shapes tools — line, oval, rectangle and more.
 
+[Picture 46279 — the shapes tools — line, oval, rectangle and more]
+
 ## Sub lesson 2 — Colouring a shape — and saving the drawing
 
 A shape is finished with colour: an **outline** colour for its edge and a **fill** colour for its inside, both picked before or after drawing. Then the drawing is **saved** — given a name and kept as a file, like every file in this course — so it can be opened again, printed or put into a document. Draw, colour, save: the order of this lesson is the order of every Paint job after it.
 
 In your mind's eye: colouring a shape — and saving the drawing.
+
+[Picture 46280 — colouring a shape — and saving the drawing]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Drawing in the layered way means choosing the **layer** before the tool: **shape
 
 In your mind's eye: shapes and curves, layer by layer.
 
+[Picture 46277 — shapes and curves, layer by layer]
+
 ## Sub lesson 2 — Finding and saving pictures — with the copyright note
 
 Not every part is drawn: parts are also **found**. The book teaches **Google image search** as the finding tool — search by words, judge the results, and **save** the picture into the work. With the finding comes the book's **copyright note**, taught in the same breath: a found picture was made by someone; using it carries the duties of naming its source and respecting its maker's rights, in a school picture as in a printed book. Finding, saving and owing — Mongolia binds the three together so the skill and its ethics arrive as one habit.
 
 In your mind's eye: finding and saving pictures — with the copyright note.
+
+[Picture 46278 — finding and saving pictures — with the copyright note]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Editing sound** — covering: §21: Edi
 
 In your mind's eye: editing sound.
 
+[Picture 46289 — editing sound]
+
 ## Sub lesson 2 — Editing sound in Wave Editor
 
 This part of Kazakhstan's book teaches **Editing sound in Wave Editor** — covering: §18: Editing sound in Wave Editor — opening a file, the waveform diagram, selecting a segment by its start and end. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: editing sound in Wave Editor.
+
+[Picture 46290 — editing sound in Wave Editor]
 
 ## Say it to your companion
 

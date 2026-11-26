@@ -10,11 +10,15 @@ Editing starts with **selection**: drag across the waveform to mark the part of 
 
 In your mind's eye: selecting and cutting — the editor's basic moves.
 
+[Picture 46295 — selecting and cutting — the editor's basic moves]
+
 ## Sub lesson 2 — Joining and arranging — building the finished piece
 
 Pieces are **joined** by pasting and by placing clips along the track in order: the introduction first, then the body, then the close. Silence is edited as deliberately as sound — shortened where it drags, left where a pause gives weight. The finished edit is played through once, whole, before it is saved: editing is finished when the piece sounds intended from end to end.
 
 In your mind's eye: joining and arranging — building the finished piece.
+
+[Picture 46296 — joining and arranging — building the finished piece]
 
 ## Say it to your companion
 
