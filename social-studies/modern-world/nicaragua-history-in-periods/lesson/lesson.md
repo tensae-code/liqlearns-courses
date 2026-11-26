@@ -10,6 +10,8 @@ the national past is divided into pre-Columbian, colonial (1502-1821), state-for
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40962 — fourperiods]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Periodización de la Historia de Nicaragua — the national past is divided into pre-Columbian, colonial (1502-1821), state-formation (1821-1893) and modern (1893-1979) periods, each summed up by its defining change. Then let your companion ask you one hard question about it — answer from the lesson.
