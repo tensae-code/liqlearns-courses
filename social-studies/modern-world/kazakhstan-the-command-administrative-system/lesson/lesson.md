@@ -10,6 +10,8 @@ orders from the centre replace law, and the party apparatus reaches every aul
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41481 — orderstoeveryaul]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §27 The policy of the command-administrative system in the 1920s–30s — orders from the centre replace law, and the party apparatus reaches every aul. Then let your companion ask you one hard question about it — answer from the lesson.

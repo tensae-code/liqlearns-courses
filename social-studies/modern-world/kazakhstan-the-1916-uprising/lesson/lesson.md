@@ -16,17 +16,23 @@ the labour-conscription decree ignites the steppe; Amangeldy's army and the Torg
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41489 — torgaiholds]
+
 ## Sub lesson 3 — §3 The national-liberation uprising of 1916
 
 the Tsar's labour-conscription decree sparks a steppe-wide revolt, drowned in blood and flight
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41488 — revoltandflight]
+
 ## Sub lesson 4 — §§1.4–1.5 The 1916 uprising inquiries
 
 the labour-conscription decree ignites the steppe; the revolt is crushed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41487 — decreeignites1916]
 
 ## Say it to your companion
 

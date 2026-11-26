@@ -10,11 +10,15 @@ in 1920 the Kazakhs get an autonomy inside Soviet Russia — with borders and a 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41469 — borderscapital]
+
 ## Sub lesson 2 — §§22–23 The process of forming the Kirghiz (Kazakh) Autonomous Soviet Socialist Republic
 
 decrees in Moscow, a founding congress in Orenburg — an autonomy is proclaimed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41468 — decreescongress]
 
 ## Sub lesson 3 — §24 The forming of the Kazakh ASSR's territory; the Kazakh intelligentsia's role in restoring the integrity of the Kazakh lands
 
@@ -22,11 +26,15 @@ Alash leaders inside Soviet commissions argue whole districts back into Kazakhst
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41467 — districtsarguedback]
+
 ## Sub lesson 4 — §13 The formation of the Kirghiz (Kazakh) Autonomous Soviet Republic
 
 in 1920 the Kazakhs gain an autonomy inside Soviet Russia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41466 — autonomyinside1920]
 
 ## Sub lesson 5 — §2.5 The formation of the Kazakh ASSR
 

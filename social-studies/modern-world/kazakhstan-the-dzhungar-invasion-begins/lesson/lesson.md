@@ -10,11 +10,15 @@ the Dzhungar state arms for conquest while a divided Kazakh Khanate faces invasi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41474 — dividedkhanate]
+
 ## Sub lesson 2 — §1 The domestic and foreign political position of the Kazakh Khanate at the start of the 18th century
 
 Tauke's unified khanate weakens after his death just as Dzhungaria arms and Russia builds forts
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41473 — taukedies]
 
 ## Sub lesson 3 — §2 The organisation of nationwide resistance to the Dzhungar invasion
 
@@ -22,11 +26,15 @@ khans, sultans and batyrs pull a fragmented people into one defensive war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41472 — pulltogetherdefend]
+
 ## Sub lesson 4 — Lesson plan §1: the Kazakh Khanate's internal and external political situation in the first quarter of the 18th century (with the "Zheti Zhargy" law and the Kultobe gatherings)
 
 the teacher builds the khanate under Tauke — law code, councils, growing danger — before the invasion falls
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41471 — taukelawcouncils]
 
 ## Say it to your companion
 

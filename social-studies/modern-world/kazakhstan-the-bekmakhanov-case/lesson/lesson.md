@@ -10,6 +10,8 @@ the historian who praised Kenesary is arrested for it — scholarship itself is 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41482 — historianarrested]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §6. The Bekmakhanov case — the historian who praised Kenesary is arrested for it — scholarship itself is put on trial. Then let your companion ask you one hard question about it — answer from the lesson.

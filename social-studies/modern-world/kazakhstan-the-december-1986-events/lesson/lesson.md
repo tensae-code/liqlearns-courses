@@ -10,17 +10,23 @@ Kunaev is replaced by an outsider; students fill the square; troops clear it —
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41477 — unioncracks]
+
 ## Sub lesson 2 — §32. Punitive measures against participants in the December 1986 events
 
 trials, expulsions and ruined careers follow the square
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41476 — trialsexpulsions]
+
 ## Sub lesson 3 — §14 The December events of 1986 in Kazakhstan
 
 an outsider replaces Kunaev; students fill the square; troops clear it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41475 — studentssquare1986]
 
 ## Say it to your companion
 
