@@ -12,6 +12,8 @@ Then come the postings that season him: service from Damascus to Sofia, an empir
 
 In your mind's eye: the young Mustafa Kemal as a military-school cadet in Salonica, books under his arm, the school gate behind him. The student points to the books and says what formed the founder before any battle did.
 
+[Picture 41103 — ladderofclassrooms]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Mustafa Kemal's education and military life. Then let your companion ask you one hard question about it — answer from the lesson.

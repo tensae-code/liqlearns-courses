@@ -10,6 +10,8 @@ America's Indigenous peoples are dispossessed along the Trail of Tears, with the
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41095 — walkedoutofland]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 6d: America's Trail of Tears (6d.5, 6d.11) — America's Indigenous peoples are dispossessed along the Trail of Tears, with the Lewis and Clark expedition blogged as the research project — the comparison that frames Australia's own contact history. Then let your companion ask you one hard question about it — answer from the lesson.

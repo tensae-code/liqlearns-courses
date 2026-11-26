@@ -10,11 +10,15 @@ workers, students and intellectuals answer repression with liberation movements 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41101 — movementstire]
+
 ## Sub lesson 2 — Movimientos centroamericanos: FMLN, Cinchoneros y FSLN
 
 El Salvador's FMLN (1980), Honduras's Cinchoneros and Nicaragua's FSLN (1961) fight for land, wages and an end to military rule; the Sandinista triumph inspires the region
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41100 — landwagesendrule]
 
 ## Say it to your companion
 

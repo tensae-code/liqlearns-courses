@@ -10,11 +10,15 @@ The Reichstag burns on 27 February 1933; the Nazis blame communist van der Lubbe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41083 — firerightssuspended]
+
 ## Sub lesson 2 — 7.2 The importance of the Enabling Act
 
 With communist deputies arrested and the SA lining the chamber, the Reichstag votes itself out of power in March 1933; Hitler can now legislate without parliament or president.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41082 — votesitselfaway]
 
 ## Sub lesson 3 — 7.3 The removal of opposition
 

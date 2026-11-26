@@ -10,11 +10,15 @@ after Matteotti, the exceptional laws dissolve opposition and free press; Gramsc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41105 — murderthendissolved]
+
 ## Sub lesson 2 — Modulo 6 §§1–2 Lo Stato fascista; Il totalitarismo italiano e i suoi limiti
 
 De Felice and Gentile (Fare storia) argue over fascism's nature — myth and organisation — while the narrative weighs how totalitarian Italy really was against Germany's and Russia's models
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41104 — naturearguedweighed]
 
 ## Say it to your companion
 

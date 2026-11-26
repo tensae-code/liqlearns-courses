@@ -10,6 +10,8 @@ contract theories turn into legal instruments — the modern age argues out what
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41093 — rightswrittenlaw]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §21: Drepturile naturale ale omului în actele revoluţiilor moderne — contract theories turn into legal instruments — the modern age argues out what a human right is and writes it into the revolutions' acts. Then let your companion ask you one hard question about it — answer from the lesson.

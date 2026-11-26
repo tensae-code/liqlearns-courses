@@ -10,11 +10,15 @@ SS, Gestapo and SD watch the whole population and concentration camps hold the r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41092 — watchedalways]
+
 ## Sub lesson 2 — 8.2 The Nazi control of the legal system
 
 Judges join the Nazi lawyers' league, the People's Court tries treason without appeal, and law becomes whatever serves the regime.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41091 — judgesswornregime]
 
 ## Sub lesson 3 — 8.3 Nazi policies towards the Church
 
@@ -22,11 +26,15 @@ A Concordat with the Vatican (1933) buys quiet while the regime builds its own R
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41090 — quietboughtrival]
+
 ## Sub lesson 4 — 8.4 Goebbels and the Ministry of Propaganda
 
 Goebbels' ministry and Reich Chamber of Culture licence every journalist, actor and musician; cheap radios, rallies and film carry one message into every home.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41089 — radioeveryhome]
 
 ## Sub lesson 5 — 8.5 The Nazi control of the Arts
 
@@ -34,11 +42,15 @@ Jazz and modern art are banned as degenerate while folk music, classical giants 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41088 — jazztomonuments]
+
 ## Sub lesson 6 — 8.6 The Nazi control of sport
 
 Sport is Nazified through clubs and the 1936 Berlin Olympics are staged as a showcase of Aryan Germany for the world's cameras.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41087 — sportforcameras]
 
 ## Sub lesson 7 — 9.1 The extent of support for the Nazi regime
 
@@ -46,17 +58,23 @@ Many Germans conform for jobs, order and pride restored; the book weighs real po
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41086 — prideagainstfear]
+
 ## Sub lesson 8 — 9.2 Opposition from young people
 
 Edelweiss Pirates and swing gangs grow their hair, play banned music and beat up Hitler Youth patrols — small refusals that the regime answers with prison and, later, the gallows.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41085 — smallrefusals]
+
 ## Sub lesson 9 — 9.3 Opposition from the Churches
 
 Niemöller's Confessional Church and Bishop Galen's sermons defend faith against Nazi doctrine; Niemöller spends 1937–45 in prison and camps for preaching obedience to God over man.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41084 — sermonsanswer]
 
 ## Say it to your companion
 
