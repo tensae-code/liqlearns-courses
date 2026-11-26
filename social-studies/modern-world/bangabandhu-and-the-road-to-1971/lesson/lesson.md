@@ -10,6 +10,8 @@ The Grade 7 book's Bangabandhu is a traveller before he is a statue: Mujib journ
 
 In your mind's eye: sheikh Mujibur Rahman addressing a vast crowd in Dhaka in 1971, one hand raised — students and ordinary people filling the ground before him. The student points to the crowd and says who made the road with him.
 
+[Picture 62289 — the road to 1971]
+
 ## Sub lesson 2 — Mujib's early struggle — Urdu-only, jail and the hunger strike of 1952
 
 The Grade 8 book starts the road earlier. Sheikh Mujib is born in Tungipara in 1920. As a student leader he fights the Urdu-only policy from 1948 — Pakistan's attempt to make Urdu the only state language — is expelled and jailed for it, and in February 1952, still in prison, he hunger-strikes as the Language Movement ignites outside. The book's thread: the road to 1971 begins with a fight over language, and its leader learns it in classrooms, streets and prison cells, not in palaces.

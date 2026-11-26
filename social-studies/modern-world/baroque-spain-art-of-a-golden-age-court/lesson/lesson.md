@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a grave, intense Spanish Baroque painting in a palace or monastery setting. The student points to the pride and the melancholy in it.
 
+[Picture 62299 — grave and intense]
+
 ## Sub lesson 3 — Pride and melancholy
 
 The painting holds an empire's pride and melancholy in one frame.

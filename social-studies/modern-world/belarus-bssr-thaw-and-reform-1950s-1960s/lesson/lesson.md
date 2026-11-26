@@ -10,6 +10,8 @@ After Stalin's death the "Thaw" opens under Mazurov; MAZ and BelAZ trucks, MTZ t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62309 — trucks tractors potash]
+
 ## Sub lesson 2 — Social and political life in the Thaw
 
 Khrushchev's Thaw loosens fear and denounces the cult of personality, but the party's monopoly survives untouched

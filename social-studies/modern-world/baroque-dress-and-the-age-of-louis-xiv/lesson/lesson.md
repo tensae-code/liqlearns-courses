@@ -10,6 +10,8 @@ lace, ribbons and high heels at the court of the Sun King turn clothing into an 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62296 — dress as power]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 2: Baroque dress — lace, ribbons and high heels at the court of the Sun King turn clothing into an instrument of absolute monarchy. Then let your companion ask you one hard question about it — answer from the lesson.

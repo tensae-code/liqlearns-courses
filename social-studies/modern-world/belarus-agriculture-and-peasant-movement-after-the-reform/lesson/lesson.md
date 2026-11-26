@@ -10,6 +10,8 @@ Pupils hatch the capitalist, labour-rent and mixed estate systems and cross the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62301 — estates and disturbances]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Agriculture and the peasant movement after the reform. Then let your companion ask you one hard question about it — answer from the lesson.

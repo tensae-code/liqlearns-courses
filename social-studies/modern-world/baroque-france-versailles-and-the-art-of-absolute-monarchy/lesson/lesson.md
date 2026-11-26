@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: versailles as a great ordered palace and garden. The student points to how every part displays the king's power.
 
+[Picture 62297 — a machine for power]
+
 ## Sub lesson 3 — England answers
 
 England answers with its own restrained grandeur.

@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: st Peter's Square embracing a crowd and a ceiling painting opening onto heaven. The student points to how the art reaches out to move the viewer.
 
+[Picture 62298 — walls bend like waves]
+
 ## Sub lesson 3 — Ceilings open onto heaven
 
 Ceiling painters break the roof open onto heaven.

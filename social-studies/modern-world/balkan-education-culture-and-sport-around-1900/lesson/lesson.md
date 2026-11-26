@@ -10,6 +10,8 @@ the new Balkan states build universities and stadiums to prove they are modern n
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62288 — proving modern nations]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: education, culture and sport in the Balkans around 1900 — the universities of Belgrade and Sofia, Karagioz shadow theatre speaking for the common man, gymnastics made a school subject — the new Balkan states build universities and stadiums to prove they are modern nations. Then let your companion ask you one hard question about it — answer from the lesson.

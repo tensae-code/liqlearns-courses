@@ -10,6 +10,8 @@ monasteries at Lesnovo, Treskavec and Slepče keep Slavic letters alive in scrip
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62287 — letters kept alive]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: culture and cultural heritage of the Balkans and Macedonia, 15th–18th centuries — monasteries at Lesnovo, Treskavec and Slepče keep Slavic letters alive in scriptoria; damaskini retell saints' lives in near-vernacular; printing happens abroad — Jakov of Kamena Reka in Venice, Žefarović's Stemmatographia (Vienna 1741) with its Macedonian coat of arms, Buzuku's Albanian Meshari (1555); cell schools and medreses (Skopje's Isa-beg) teach the two faiths; hidden cave churches ring Lake Ohrid while Ottoman towns take their lasting shape — čaršija and mahala, türbe, hamam, han and bezisten. Then let your companion ask you one hard question about it — answer from the lesson.

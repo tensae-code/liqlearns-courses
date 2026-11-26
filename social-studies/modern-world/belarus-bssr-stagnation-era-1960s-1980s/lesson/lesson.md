@@ -10,17 +10,23 @@ Khrushchev is removed in 1964, reform cools into stability, and Masherov's long 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62306 — orderly and frozen]
+
 ## Sub lesson 2 — The republic's social and economic situation
 
 The 1965 economic reform fades by the early 1970s, extensive growth slows and the first signs of a braking mechanism and stagnation appear
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62307 — the braking mechanism]
+
 ## Sub lesson 3 — Results of the BSSR's development as an industrial society
 
 The audit closes — a peasant republic became an industrial one, at the price of a system that could no longer reform itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62308 — industrial at a price]
 
 ## Say it to your companion
 

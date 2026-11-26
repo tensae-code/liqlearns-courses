@@ -10,17 +10,23 @@ Victory in 1945 leaves every third Belarusian dead and the land in ruins, yet th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62303 — ruins and rebuilding]
+
 ## Sub lesson 2 — Overcoming the war's consequences in the economy
 
 Women and teenagers sow the first liberated fields while workers raise factories, railways and power stations past pre-war levels by 1950
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62304 — past pre war levels by 1950]
+
 ## Sub lesson 3 — Results of the recovery period
 
 Pupils weigh the recovery's ledger — industry restored, land question settled by force in the west, society exhausted but industrialising
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62305 — weighing the ledger]
 
 ## Say it to your companion
 

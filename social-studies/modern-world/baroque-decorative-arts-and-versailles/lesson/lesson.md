@@ -10,6 +10,8 @@ Versailles's great cabinet-makers turn furniture into royal propaganda in marque
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62295 — furniture as propaganda]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapters 6–7: The Baroque and French classicism — Versailles's great cabinet-makers turn furniture into royal propaganda in marquetry and gilt bronze. Then let your companion ask you one hard question about it — answer from the lesson.

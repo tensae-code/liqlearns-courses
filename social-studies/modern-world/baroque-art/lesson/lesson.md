@@ -10,6 +10,8 @@ Bernini and Rubens make art move and overwhelm for Counter-Reformation courts an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62294 — art that overwhelms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 11: Baroque art — Bernini and Rubens make art move and overwhelm for Counter-Reformation courts and churches. Then let your companion ask you one hard question about it — answer from the lesson.

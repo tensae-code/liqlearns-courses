@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a central European pilgrimage church and palace. The student points to Rome and Versailles speaking in a local accent.
 
+[Picture 62293 — churches and palaces rise]
+
 ## Sub lesson 3 — Each place translates
 
 Each court and monastery translates Rome and Versailles into its own accent.

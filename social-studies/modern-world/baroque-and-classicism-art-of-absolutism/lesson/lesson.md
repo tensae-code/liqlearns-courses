@@ -10,11 +10,15 @@ classicism disciplines imagination on antique models in Louis XIV's France; Remb
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62291 — discipline and rembrandt]
+
 ## Sub lesson 2 — §49: Stilurile artistice: baroc şi clasicism
 
 baroque is born as the Counter-Reformation's art in Catholic lands — Borromini and Maderno raise Rome — while Boileau's classicism binds theatre to the rule of the three unities and David founds French neoclassicism
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62292 — two styles two rules]
 
 ## Say it to your companion
 

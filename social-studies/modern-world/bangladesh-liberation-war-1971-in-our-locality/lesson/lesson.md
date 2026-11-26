@@ -10,6 +10,8 @@ Bangladesh's Grade 6 book meets the Liberation War of 1971 not in a capital but 
 
 In your mind's eye: a quiet village field in Bangladesh with a small memorial — schoolchildren standing respectfully before it as an elder tells the story. The student points to the memorial and says whose story it keeps.
 
+[Picture 62290 — a field you can walk to]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: The killing field and the story of Azad. Then let your companion ask you one hard question about it — answer from the lesson.
