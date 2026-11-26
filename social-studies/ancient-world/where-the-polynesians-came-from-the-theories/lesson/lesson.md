@@ -10,11 +10,15 @@ three rival answers compete — ancestors sailed east from Asia through Melanesi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61960 — three rival answers]
+
 ## Sub lesson 2 — Part 1, Unit 1 "Which Theories Explain Sāmoa's Origins?", Theory One
 
 Lapita pottery, carbon-dated at Mulifanua to about 2,990 years old, traces Austronesian ancestors from Taiwan through the Philippines, Indonesia and New Guinea to the Bismarcks by 1500 BC, Tonga by 1300 BC and Sāmoa by about 1000 BC — backed by DNA, the Austronesian language family and shared practices (siapo, tatau, ava)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61961 — pottery traces the voyage]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Yemen answers the call faster than anywhere — the family of Yasir are among Is
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61962 — faith is yemeni]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Yemen in the Prophetic age — yemen answers the call faster than anywhere — the family of Yasir are among Islam's first martyrs, Yemeni delegations crowd to Medina and are praised, Ali is sent to Yemen in 8 AH and Hamdan embraces Islam in a single day, Mu'adh ibn Jabal follows as teacher, and the Prophet's word stands over the lesson: faith is Yemeni and wisdom is Yemeni. Then let your companion ask you one hard question about it — answer from the lesson.

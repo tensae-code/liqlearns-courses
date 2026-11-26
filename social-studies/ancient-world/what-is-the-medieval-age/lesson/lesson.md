@@ -10,6 +10,8 @@ after Rome falls, a thousand years are cut into early, middle and late Middle Ag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61958 — a thousand years three ages]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Introducere în studiul istoriei medievale — after Rome falls, a thousand years are cut into early, middle and late Middle Ages; castles, churches and monasteries in Romania and Moldova still stand as its witnesses. Then let your companion ask you one hard question about it — answer from the lesson.

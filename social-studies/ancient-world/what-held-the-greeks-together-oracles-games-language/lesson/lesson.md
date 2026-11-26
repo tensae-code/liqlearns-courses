@@ -10,17 +10,23 @@ common language, gods, the oracle at Dodona and Delphi and the panhellenic games
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61953 — one greek world]
+
 ## Sub lesson 2 — Ch. 7 Bonds of the Greeks exercises
 
 two pictures of shared sanctuaries and games are read for what made Greeks one
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61954 — reading the bonds]
+
 ## Sub lesson 3 — Ch. D6 The Panhellenic bonds
 
 Olympia, Delphi, common gods and one language hold the rival poleis in a single Greek world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61955 — olympia and delphi]
 
 ## Say it to your companion
 

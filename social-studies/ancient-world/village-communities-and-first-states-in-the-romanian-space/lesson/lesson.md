@@ -10,6 +10,8 @@ with no state, the free village commune (obștea) governs the Romanians for cent
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61949 — the village governs itself]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea I, Lecția 7: Obștea sătească și primele formațiuni statale în spațiul românesc — with no state, the free village commune (obștea) governs the Romanians for centuries; dukes like Menumorut of Bihor answer Árpád's envoys with gifts and defiance. Then let your companion ask you one hard question about it — answer from the lesson.

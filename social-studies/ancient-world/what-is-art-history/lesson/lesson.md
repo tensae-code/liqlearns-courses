@@ -10,6 +10,8 @@ art serves faith, power and the need to communicate; art history reads the works
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61957 — art inside its age]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Introduction: art and its history — art serves faith, power and the need to communicate; art history reads the works inside the life of their age. Then let your companion ask you one hard question about it — answer from the lesson.

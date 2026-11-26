@@ -10,6 +10,8 @@ England and France fight the Hundred Years' War while kings in France, England a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61952 — war and unification together]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 5.4 Western Europe: struggle and unification — England and France fight the Hundred Years' War while kings in France, England and Spain gather their kingdoms into single states. Then let your companion ask you one hard question about it — answer from the lesson.

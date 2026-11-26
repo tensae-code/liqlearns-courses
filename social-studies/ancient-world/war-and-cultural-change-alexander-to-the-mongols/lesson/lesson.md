@@ -10,6 +10,8 @@ Alexander's conquests Hellenise the East; the Mongol peace carries Chinese print
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61950 — war moves culture too]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ancient wars and the evolution of regional cultures — Alexander's conquests Hellenise the East; the Mongol peace carries Chinese printing and Persian astronomy across one continent. Then let your companion ask you one hard question about it — answer from the lesson.
