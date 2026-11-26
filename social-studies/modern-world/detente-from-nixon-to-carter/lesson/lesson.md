@@ -18,6 +18,8 @@ Watergate to Reagan — Testi's Fare storia piece reads Reagan as "return to the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63006 — return to the future]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 17 §1 The years of détente from Nixon to Carter — Nixon goes to Beijing and Moscow (the joint communiqué is a unit Document), SALT caps the missiles, and Helsinki promises rights the East signs and shelves — détente as management, not friendship. Modulo 12 §2 Gli Stati Uniti: da Nixon a Reagan — Watergate to Reagan — Testi's Fare storia piece reads Reagan as "return to the future"; monetarism (the module's keyword) replaces Keynes in the hegemon's house. Then let your companion ask you one hard question about it — answer from the lesson.

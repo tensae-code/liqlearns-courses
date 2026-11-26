@@ -10,6 +10,8 @@ The great events of the Dominican past are handed to children as a treasure they
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63029 — a treasure inherited]
+
 ## Sub lesson 2 — Unidad 5 Heroínas y héroes nacionales: legado de honor
 
 The nation's heroines and heroes leave an example the children are asked to honour.

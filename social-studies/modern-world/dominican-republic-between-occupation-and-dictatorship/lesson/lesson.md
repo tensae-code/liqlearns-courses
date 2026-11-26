@@ -10,6 +10,8 @@ The marines leave, Vásquez modernises, and the republic breathes — briefly.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63025 — the republic breathes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unidad 7 Gobierno de Horacio Vásquez (1924–1930): primera etapa de modernización. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,17 +10,23 @@ Constitutionalist soldiers and civilians rise to restore Bosch, and the United S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63015 — april 1965]
+
 ## Sub lesson 2 — Unidad 3 La Revolución Constitucionalista
 
 In April 1965 constitutionalists take up arms to restore the 1963 constitution and Bosch.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63016 — for the constitution]
+
 ## Sub lesson 3 — Unidad 3 Intervención militar estadounidense y negociaciones
 
 US troops land again, and the revolution is negotiated into elections.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63017 — negotiated into elections]
 
 ## Say it to your companion
 

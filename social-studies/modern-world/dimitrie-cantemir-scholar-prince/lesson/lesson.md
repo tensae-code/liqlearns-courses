@@ -10,6 +10,8 @@ Moldavia's prince Cantemir is honoured by Berlin's Academy as a king among philo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63010 — a king among philosophers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 19: Dimitrie Cantemir, cărturarul universal — Moldavia's prince Cantemir is honoured by Berlin's Academy as a king among philosophers; his music is said to have inspired Mozart. Then let your companion ask you one hard question about it — answer from the lesson.

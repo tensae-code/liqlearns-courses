@@ -10,11 +10,15 @@ newly independent nations build industries and regional blocs and demand a faire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63007 — a fairer order]
+
 ## Sub lesson 2 — The colonial system collapses, emerging countries develop
 
 1960, the 'Year of Africa', breaks the colonial map; new states build the Non-Aligned Movement and demand a new economic order
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63008 — the year of africa]
 
 ## Say it to your companion
 

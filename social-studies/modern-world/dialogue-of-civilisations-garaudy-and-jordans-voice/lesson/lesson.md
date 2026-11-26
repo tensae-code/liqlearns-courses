@@ -10,6 +10,8 @@ a civilisation is everything humans make, in science, art, building and rule; th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63009 — dialogue not clash]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 2: the dialogue of civilisations — a civilisation is everything humans make, in science, art, building and rule; the French Muslim thinker Roger Garaudy coins "dialogue of civilisations" for peaceful rivalry and bridge-building instead of clash; Jordan carries the idea through Prince Hassan's Arab Thought Forum and the Royal Institute for Inter-Faith Studies. Then let your companion ask you one hard question about it — answer from the lesson.
