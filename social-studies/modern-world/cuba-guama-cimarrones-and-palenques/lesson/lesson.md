@@ -10,6 +10,8 @@ cacique Guamá holds the Baracoa mountains 1522–1533 and burns the town; runaw
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62876 — guama holds the mountains]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.5 Rebellion of Indian and Black against exploitation — cacique Guamá holds the Baracoa mountains 1522–1533 and burns the town; runaway cimarrones build fenced palenques in the wilds and choose a hard free life over slavery. Then let your companion ask you one hard question about it — answer from the lesson.

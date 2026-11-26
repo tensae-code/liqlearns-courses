@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: seven villas rise 1511
 seven villas rise 1511–1515 (Baracoa to Santiago); church, plaza and cabildo at the centre, the cabildo setting prices, judging neighbours and handing out land and Indians
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62869 — seven villas]
 ## Sub lesson 2 — 2.2 Establishment of Spanish colonial rule in Cuba
 
 villas, cabildos, encomiendas and the Church lock the island into an empire's administration
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62870 — locked into an empire]
 
 ## Say it to your companion
 

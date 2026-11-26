@@ -10,6 +10,8 @@ Finlay's mosquito theory, war literature and the Liceos: a culture maturing whil
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62863 — finlays mosquito]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.4 Panorama of culture, science and education in Cuba, second half of the 19th c. — Finlay's mosquito theory, war literature and the Liceos: a culture maturing while its country is at war. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ radio, television, universities and protest culture in the republic's last decad
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62862 — radio tv protest]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.5 Panorama of culture, science and education in the period — radio, television, universities and protest culture in the republic's last decades. Then let your companion ask you one hard question about it — answer from the lesson.

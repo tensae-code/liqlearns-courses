@@ -9,16 +9,22 @@ Before you read on, hold this lesson's one thing in mind: 82 expeditionaries lan
 82 expeditionaries land from the Granma at Los Cayuelos, are scattered at Alegría de Pío, and a handful regroup in the Sierra Maestra
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62871 — 82 land]
 ## Sub lesson 2 — 8.4–8.5 Preparations for the war; Granma expedition and support for the landing
 
 Mexico training, the yacht's storm crossing, Alegría de Pío and the Frank País uprising that covers the survivors
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62872 — the storm crossing]
 ## Sub lesson 3 — 5.3 Start of the national liberation war and consolidation of the Rebel Army
 
 Granma, the Sierra's consolidation and the llano's support turn 12 survivors into an army
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62873 — 12 into an army]
 
 ## Say it to your companion
 

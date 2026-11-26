@@ -10,6 +10,8 @@ new fronts open under Raúl Castro and Juan Almeida; the rebels defeat the summe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62879 — the war spreads]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.4 The guerrilla struggle strengthens and spreads — new fronts open under Raúl Castro and Juan Almeida; the rebels defeat the summer offensive and the war leaves the Sierra for the whole island. Then let your companion ask you one hard question about it — answer from the lesson.

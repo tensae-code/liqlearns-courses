@@ -10,6 +10,8 @@ foreigners — Dominicans like Máximo Gómez and others from many lands — tak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62882 — foreigners lead]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.6 Examples of internationalist presence in our struggles — foreigners — Dominicans like Máximo Gómez and others from many lands — take up Cuba's cause as their own and rise to lead its army. Then let your companion ask you one hard question about it — answer from the lesson.

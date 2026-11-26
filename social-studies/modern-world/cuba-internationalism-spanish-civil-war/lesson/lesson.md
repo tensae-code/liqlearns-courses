@@ -10,6 +10,8 @@ Cuban volunteers, among them Pablo de la Torriente Brau, cross the Atlantic to f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62881 — for another peoples freedom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.2 A new Cuban contribution to internationalism — Cuban volunteers, among them Pablo de la Torriente Brau, cross the Atlantic to fight fascism in Spain and fall there for another people's freedom. Then let your companion ask you one hard question about it — answer from the lesson.

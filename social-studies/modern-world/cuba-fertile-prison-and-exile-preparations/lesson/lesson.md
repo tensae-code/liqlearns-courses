@@ -10,6 +10,8 @@ on the Isle of Pines the prisoners study and organise until amnesty frees them; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62865 — the fertile prison]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.5–4.6 The fertile prison; preparations from exile — on the Isle of Pines the prisoners study and organise until amnesty frees them; in Mexico the exiles train and buy a yacht called Granma. Then let your companion ask you one hard question about it — answer from the lesson.

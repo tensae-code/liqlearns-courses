@@ -10,6 +10,8 @@ Indians wash river gold from dawn to dusk under the whip in encomiendas; Las Cas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62864 — 3000 of 300000]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.4 Exploitation of Cuba's natural and human resources — Indians wash river gold from dawn to dusk under the whip in encomiendas; Las Casas gives up his own encomienda and becomes Protector of the Indians, yet by 1553 only some 3,000 of 300,000 remain; African slavery is authorised from 1512. Then let your companion ask you one hard question about it — answer from the lesson.

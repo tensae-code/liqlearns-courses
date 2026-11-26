@@ -10,6 +10,8 @@ defending himself at trial, Fidel turns his defence speech into the Moncada prog
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62880 — history will absolve me]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.4 "History Will Absolve Me" — defending himself at trial, Fidel turns his defence speech into the Moncada programme — land, industry, education — and a promise that history will judge. Then let your companion ask you one hard question about it — answer from the lesson.
