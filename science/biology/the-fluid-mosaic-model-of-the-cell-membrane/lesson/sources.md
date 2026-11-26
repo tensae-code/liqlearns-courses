@@ -1,6 +1,6 @@
 # Sources — The fluid mosaic model of the cell membrane
 
-countries: Kuwait, China, Greece
+countries: Kuwait, China, Greece, Kenya
 
 **Book 1:** الأحياء — كتاب الطالب — الصف العاشر — الفصل الدراسي الأول (Biology — Student Book — Grade 10 — Term 1) — Kuwait. Grade: 10, Term 1 — Kind: STUDENT BOOK as verified (cover and title page both say كتاب الطالب, Student Book — the record's kind is correct for this one) — Edition: FIRST edition, 1448 AH / 2026–2027 (title page and CIP) — this is Kuwait's NEW curriculum book, a different production from the Pearson Scott Foresman workbook series; ISBN 978-9921-33-125-7; authorship committee supervised by Dalal Saad Al-Masoud, Ministry of Education, State of Kuwait — Repo path: grade-10/gov/kuwait/biology/student/term-1.pdf (grabbed from release mid-size-books-2; TSV record and books.json record are the same book — a verified duplicate, read once) — Byte size: 86,523,462 (matches books.json size_bytes exactly) — PDF pages: 146 — Printed-page offset: printed page = PDF page − 1 — Verdict: COMPLETE — both units present in full with their terms glossaries and review questions; references at printed p. 143; closing pages present (PDF pp. 145–146). Structural summary: Unit 1 "Biosphere and Cell Biology" (printed pp. 13–84) — Ch. 1 Life in the Biosphere, Ch. 2 Life and Cell Biology (cell structure, cell cycle, cell communication and transport); Unit 2 "Functional Integration Between Cells, Tissues, and Body Systems" (printed pp. 85–143) — human body tissues, homeostasis, skeletal and muscular systems. Kuwait's own way: every unit opens with a "From my homeland" (من وطني) spread on a Kuwaiti institution — a stem-cell collection/research centre for Unit 1, the Al-Babtain Burns Centre's tissue-culture skin work for Unit 2; every lesson opens with printed "What will I learn? / How will I learn?" objective lists and a real-life phenomenon, carries embedded practicals, and closes with a lesson assessment (تقويم الدرس); sustainability is taught through Kuwaiti examples (Al-Abdaliya solar power station, ministry waste-sorting, Kuwaiti shrimp, the arfaj plant); lesson titles are bilingual Arabic–English throughout. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/kuwait-placements.md.
 
@@ -29,3 +29,17 @@ Placement choice, on the record (Greece): the Greece placement(s) filed as "NEW 
 Honesty (Greece): Book 3 (*Βιολογία Γ΄ Γενικού Λυκείου — Τεύχος Α΄ (Grade 12 orientation volume A)*) is a student textbook as verified in the placements — so Greece counts toward acceptance. It is COMPLETE as stated in its book entry above. Greece's library records duplicate each other (TSV records duplicate books.json records by book, and the books.json grade-09 entries are cross-reference copies of the grade-08 B'–C' Gymnasiou books) — every Greece book is taught once and cited once here, exactly as the placements file files it.
 
 Searchable tags: biology, kuwait, the fluid mosaic model of the cell membrane, china, greece
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 1: structure of the cell membrane (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 109 |
+
+**Acceptance count: taught in 4 countries (Kuwait, China, Greece, Kenya) — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, biology the-fluid-mosaic-model-of-the-cell-membrane

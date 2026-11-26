@@ -1,6 +1,6 @@
 # Sources — Laboratory safety — hazard signs and protective equipment
 
-countries: Ethiopia, Uganda, Cabo Verde (teacher-guide evidence only), Syria, Indonesia, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Libya, Honduras
+countries: Ethiopia, Uganda, Cabo Verde (teacher-guide evidence only), Syria, Indonesia, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Libya, Honduras, Kenya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -219,3 +219,17 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, science-skills/hazard-signs-and-protective-equipment
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 9: reading labelled containers of substances (hazard and safety labels) (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 39 |
+
+**Acceptance count: taught in 11 countries — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, science-skills hazard-signs-and-protective-equipment

@@ -1,6 +1,6 @@
 # Sources — Atoms, elements and chemical symbols
 
-countries: Mauritania, Mozambique, Italy, China
+countries: Mauritania, Mozambique, Italy, China, Kenya
 
 **Book 1:** *Sciences Physiques 2AS* (student textbook — combined Physics & Chemistry manual; Chemistry part placed here) — Mauritania. Title as printed: Sciences Physiques 2AS (République Islamique de Mauritanie, Institut Pédagogique National, 2026; authors Mohamed Abdou Leffad & Dah Mohamed El Mokhtar). Grade: 8 (collège) · Student · Repo path: grade-08/gov/mauritania/phy-2as-m.pdf. Byte size: 2,657,568 (no size in record) · PDF pages: 60 · Offset: printed pagination runs to ~p. 59; Chemistry Unit I at printed pp. 7–15. Verdict: COMPLETE — Chemistry Unit I read in full, page by page. Split: Chemistry Unit I placed here (the air-pressure/barometer part of Unit I §4 was placed by the Physics wave); all other units are Physics, placed by the Physics wave. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/mauritania-placements.md.
 
@@ -42,3 +42,18 @@ countries: Mauritania, Mozambique, Italy, China
 Placement choice, on the record: this NEW LESSON was built for the Mauritania placement "NEW LESSON NEEDED: chemistry/atoms-elements-and-chemical-symbols — Unit I, II: Les corps purs" — mauritania-placements.md. No existing lesson covers this thing, so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Mauritania's own way of teaching the thing, as the placements describe it, IS content in this lesson, carried exactly as described.
 
 Searchable tags: chemistry, atoms, elements, symbols, Mauritania Grade 8, Mauritania Grade 9, Mauritania Grade 10
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.2 opening + Activities 1–2: distinguishing an element from a compound (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 27 |
+| 1.3 opening + Activities 1–2: the meaning of the term "atom" (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 42 |
+
+**Acceptance count: taught in 5 countries (Mauritania, Mozambique, Italy, China, Kenya) — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, chemistry atoms-elements-and-chemical-symbols

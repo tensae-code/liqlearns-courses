@@ -146,3 +146,19 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 **Acceptance count: taught in 27 countries (Ethiopia, Palestine, Syria, Slovenia, Malaysia, Kenya, Iraq, Cambodia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia, Moldova, Libya, South Sudan, Mozambique, China, Jordan, Greece, Pakistan (Punjab), Armenia, Kazakhstan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
 
 Searchable tags: physics, grade 12, fluid mechanics, pressure under water — deeper means stronger, pressure, palestine, kenya, iraq, cambodia, egypt, yemen, iran, north macedonia, libya, south sudan, mozambique
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activities 8–9: pressure in liquids at the same depth and at different depths (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed pp. 174–175 |
+| Activity 10: pressure in liquids of different densities (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 176 |
+| Activity 11: determining pressure in liquids (pressure = height × density × gravity) (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 178 |
+
+**Acceptance count unchanged: taught in 27 countries.** Kenya is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, physics pressure-under-water-deeper-means-stronger

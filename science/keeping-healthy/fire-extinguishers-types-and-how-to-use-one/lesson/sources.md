@@ -1,6 +1,6 @@
 # Sources — Fire extinguishers — types and how to use one
 
-countries: Malaysia
+countries: Malaysia, Kenya
 
 **Book (Malaysia — Grade 10 (Form 4)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 4"; Grade 10 (Tingkatan 4); student book. Publisher: Odonata Publishing Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Noraini binti Abdullah, Nor Mazliana binti Abdul Hashim, Mohammad Amirul bin Adnan, Shamsulikram bin Abdul Hamid); 2019 (the Malay scan's ISBN page is image-only; the DLP twin below carries ISBN 978-967-2088-73-8) PDF: 293 pages, 83,054,622 bytes — the Malay PDF is IMAGE-ONLY (no text layer). Reading method: the book's content was read in full from its DLP English twin (MY-F4-DLP below, which has a complete text layer), and the Malay edition's own front matter and introduction were verified from page images: same writers, same publisher and year, same four themes (1 Kaedah Saintifik, 2 Penyenggaraan dan Kesinambungan Hidup, 3 Penerokaan Unsur dalam Alam, 4 Tenaga dan Kelestarian Hidup) at the same printed pagination as the twin's contents. Records: TSV release copy read (via the twin as described); the books.json record for the same title (grade-10/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. Scope note: Bab 5, 6, 7 (Biology), Bab 8, 9 (Chemistry) and Bab 11 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3, 4, 10 and 12 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
 
@@ -25,3 +25,19 @@ Placement choice, on the record: this NEW LESSON was built for the Malaysia plac
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, keeping-healthy fire-extinguishers-types-and-how-to-use-one
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activities 13–15: control measures for class A fires; for class B fires; for class C and class F fires (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed pp. 74–76 |
+| Activity 16: control measures for class D and class E fires (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 78 |
+| Activity 20 + Extended activity: using a fire extinguisher to put out a fire (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 83 |
+
+**Acceptance count: taught in 2 countries (Malaysia, Kenya) — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, keeping-healthy fire-extinguishers-types-and-how-to-use-one

@@ -1,6 +1,6 @@
 # Sources — Fire chemistry — flash point and prevention
 
-countries: Vietnam, China
+countries: Vietnam, China, Kenya
 
 **Book 1:** *Chuyên đề học tập Hóa học 10 (Chemistry 10, study topics / advanced topics book)* (student study-topics book) — Vietnam. Title as printed: CHUYÊN ĐỀ HỌC TẬP HOÁ HỌC 10 — Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam (companion advanced-topics volume to Hóa học 10). Grade: 10. Kind as verified: student study-topics book (matches record). Repo path: grade-10/gov/vietnam/chemistry/student/study-topics.pdf (TSV twin: mid-size-books-2 release asset grade-10-gov-vietnam-chemistry-student-study-topics.pdf — same book, placed once). Byte size: 14,297,699 (matches the books.json record exactly). PDF pages: 78 (matches record); printed-page offset: printed p. = PDF p. − 1. Verdict: COMPLETE (glossary at printed p. 75). Reading basis: CONTENTS-LEVEL read of an image-only scan — contents (printed p. 4) read in full on rendered pages and Bài 1 read on its opening pages (printed pp. 5–7: Lewis-formula steps worked for CO₂ and PCl₃, VSEPR introduced with the AXₙEₘ notation); lesson titles and pages are the book's own — never upgraded to a full-read claim. Structure: 3 topics — chemistry foundations (advanced bonding: Lewis formulas, VSEPR, hybridisation; nuclear reactions; activation energy; entropy and Gibbs free energy); chemistry in fire and explosion prevention (combustion, flash point and auto-ignition, fire prevention); chemistry practicals and information technology (molecular-structure practical, virtual experiments, computational parameters). Records deduped: 12 records = 6 distinct books for Vietnam as a whole — this book is cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/vietnam-placements.md.
 
@@ -25,3 +25,18 @@ countries: Vietnam, China
 Placement choice, on the record: this NEW LESSON was built for the Vietnam placement "NEW LESSON NEEDED: fire-chemistry-flash-point-and-prevention — Topic 2, Bài 6 Flash point. Flame temperature. Auto-ignition temperature — printed p. 34 — the three fire temperatures defined and compared; no existing slug covers flash point or auto-ignition." — vietnam-placements.md. This lesson carries both of the book's uses of the proposed slug: Bài 6 (the three temperatures) and Bài 8 (prevention) — the prevention strand is the second use, recorded in sources. No existing Chemistry lesson covers this thing as its own lesson — checked against the full chemistry tree (385 lessons standing at merge time) — so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Reading basis, carried exactly as filed: Vietnam's books are CONTENTS-LEVEL reads of image-only scans — verified by byte size + pdfinfo + rendered cover, read via the rendered table of contents with chapter openers read on rendered pages — and this lesson's provenance is stated on that basis, not upgraded to a full-read claim. Vietnam's own way — as the placements describe it — IS part of this lesson's content, carried exactly as the placements describe it.
 
 Searchable tags: chemistry, fire, flash point, auto-ignition, flame temperature, prevention, Vietnam Grade 10
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activities 7–9: oxygen supports combustion; oxygen reacts with metals and with non-metals (oxides formed) (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed pp. 67–69 |
+| Activities 10–11: the role of oxygen in combustion and in the spread of fire (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed pp. 71–72 |
+
+**Acceptance count: taught in 3 countries (Vietnam, China, Kenya) — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, chemistry fire-chemistry-flash-point-and-prevention

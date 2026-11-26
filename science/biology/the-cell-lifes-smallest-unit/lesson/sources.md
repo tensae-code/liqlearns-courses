@@ -1,6 +1,6 @@
 # Sources — The cell — life's smallest unit
 
-countries: Ethiopia, Nicaragua, Ecuador, India, Italy, Yemen, Malaysia, Bolivia, Iran, Indonesia, Pakistan (Punjab), South Sudan, Iraq, Bulgaria, Kuwait, Cuba, Greece
+countries: Ethiopia, Nicaragua, Ecuador, India, Italy, Yemen, Malaysia, Bolivia, Iran, Indonesia, Pakistan (Punjab), South Sudan, Iraq, Bulgaria, Kuwait, Cuba, Greece, Kenya
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -102,3 +102,17 @@ Honesty (Cuba): Book 18 (*Biología 3 — El organismo humano y la salud, Noveno
 Honesty (Greece): Book 19 (*Βιολογία Α΄ & Β΄ Γυμνασίου (Biologia A' & B' Gymnasiou) — Vivlio Mathiti, Grade 7*) is a student textbook as verified in the placements — so Greece counts toward acceptance. It is COMPLETE as stated in its book entry above. The record title says A' Gymnasiou only; the printed cover and title page read Α΄ & Β΄ ΓΥΜΝΑΣΙΟΥ (book code 0-21-0009, ISBN 978-960-06-2657-5), and it is filed under the identity printed on its own cover, exactly as the placements file files it. Greece's library records duplicate each other (TSV records duplicate books.json records by book, and the books.json grade-09 entries are cross-reference copies of the grade-08 B'–C' Gymnasiou books) — every Greece book is taught once and cited once here, exactly as the placements file files it.
 
 Searchable tags: biology, ethiopia, the, cell, life, smallest, unit, nicaragua, ecuador, india, italy, yemen, malaysia, bolivia, iran, indonesia, pakistan, punjab, south, sudan, iraq, bulgaria, kuwait, cuba, greece
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.1 opening: the cell as the basic unit of living things; single-celled and multicellular organisms (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 91 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Nicaragua, Ecuador, India, Italy, Yemen, Malaysia, Bolivia, Iran, Indonesia, Pakistan (Punjab, Iraq, Kenya) — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, biology the-cell-lifes-smallest-unit

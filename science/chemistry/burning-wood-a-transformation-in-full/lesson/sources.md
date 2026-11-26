@@ -1,6 +1,6 @@
 # Sources — Burning wood — a transformation in full
 
-countries: Ethiopia (teacher-guide evidence only), Uganda
+countries: Ethiopia (teacher-guide evidence only), Uganda, Kenya
 
 **Book 1:** *Chemistry, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia. Chemistry, Teacher's Guide, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Editors: Tesfaye Semela (Ph.D.) (Curriculum Editor), Kenenisa Beresa (M.A.) (Language Editor), Ahmed Awel (M.Sc.) (Content Editor). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). Evaluators: Legesse Adane (Ph.D.), Nega Gichile, Sefiw Melesse, Tolessa Mergo. The guide carries no separate copyright/ISBN page in this file; it is the companion guide to the Grade 9 Student Textbook (first published August 2023, GEQIP-E; ISBN 978-99990-0-016-1). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-teacher-placements.md.
 
@@ -18,3 +18,17 @@ Book errors taught corrected, named here only: the cover spells "Measurments" fo
 Pairing warning (carried exactly): the Grade 9 teacher guide was written against a slightly different student draft — for Unit 5 it cites student Table 5.4 (ionic compounds and their naming), Table 5.7 (halogen melting/boiling points) and Table 5.8 (intermolecular forces and boiling points), but the student book as held contains Tables 5.1, 5.2, 5.3 and 5.5 only and no naming-of-ionic-compounds section; it cites student Figure 5.14 as "hydrogen bonding in HF molecules" and Figure 5.15 as an oil-and-water mixture, but in the student book as held Figure 5.14 is the metallic-bonding electron-sea model and Figure 5.15 is electron flow in a wire; its Unit 2 overview states the factor-label method "is introduced and used throughout the unit" — the student text never teaches it by that name. Guide figure/table references are never paired with the student book blindly.
 
 Searchable tags: chemistry, burning, wood, transformation, full, Ethiopia Grade 9
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activities 20–21: burning a piece of paper and burning magnesium (chemical change, new substances) (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed pp. 19–20 |
+
+**Acceptance count: taught in 2 countries (Uganda, Kenya) — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, chemistry burning-wood-a-transformation-in-full

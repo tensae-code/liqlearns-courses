@@ -1,6 +1,6 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Jordan, Iran, Honduras
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Jordan, Iran, Honduras, Kenya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -1348,3 +1348,25 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, motion-force-and-energy/energy-forms-and-conversions
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.1 opening + Activities 1–2: identifying forms of energy found in the environment (energy hunt) (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 139 |
+| Activity 3: energy transformations in nature (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 143 |
+| Activity 4: transformation of electrical energy to heat energy (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 144 |
+| Activity 5: transformation of chemical energy to electrical energy (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 145 |
+| Activity 6: transformation of mechanical energy to electrical energy (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 146 |
+| Activity 7: transformation of electrical energy to light energy (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 147 |
+| Activity 8: transformation of electrical energy to sound energy (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 148 |
+| Activity 9: transformation of potential energy to kinetic energy (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 149 |
+| Activities 10–13: appliances whose working relies on energy transformation; applications of energy transformation in day-to-day life (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed pp. 150–153 |
+
+**Acceptance count: taught in 52 countries — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, motion-force-and-energy energy-forms-and-conversions

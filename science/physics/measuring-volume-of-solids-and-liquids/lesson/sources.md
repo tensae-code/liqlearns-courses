@@ -1,6 +1,6 @@
 # Sources — Measuring volume of solids and liquids
 
-countries: Kazakhstan
+countries: Kazakhstan, Kenya
 
 **Book 1:** **Title as printed:** Физика. 7-сынып (Physics, Grade 7) — Altynbekov A.S., Boiko N.V., Makhmedkhanova G.M., Presnyakova T.G., Tusyubzhanov A.B., Fedorov V.N. — Nazarbayev Intellectual Schools (NIS), Astana, 2018 (2nd version, 2016) **Grade:** Grade 7 · **Type:** student textbook · **Repo path:** grade-07-gov-kazakhstan-fizika-student-1059.pdf (mid-size-books-4) · **Bytes:** 58,640,251 (verified exact against the release-asset index and the okulyk.kz original) · **PDF pages:** 136 · **Offset:** printed page = PDF page (0 offset; contents on printed p. 3 = PDF p. 3) · **Verdict:** COMPLETE (136 pp., ends with the trilingual glossary; read in full from page renders — scanned book, no text layer beyond the okulyk watermark) Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kazakhstan-placements.md (record 1059).
 
@@ -46,3 +46,19 @@ countries: Kazakhstan
 Placement choice, on the record: this NEW LESSON was built for the Kazakhstan placement(s) tagged "NEW LESSON NEEDED" in kazakhstan-placements.md that name this topic. No existing lesson in the course taught this as its own topic when the Kazakhstan set was merged, so it is built new here in the standard shape, rather than force-fitted into a neighbour.
 
 Searchable tags: measuring volume, measuring cylinder, displacement, meniscus, division value, kazakhstan, grade 7
+
+## Kenya growth (2026-11-25, phantom-repair wave)
+
+**Book (Kenya — Grade 8):** *Longhorn Integrated Science Grade 8 — Learner's Book* (student book) — Kenya, Longhorn Publishers PLC, Nairobi; authors Joel Mungai, Joseph Kitavi, Norah Cherono, Peterson Maranga Gichaba; Approved by KICD, 2023 Edition, first published 2023; ISBN 978 9966 64 411 4. PDF pages: 188; printed folios 1–184 (printed page = PDF page − 4). Copy: the recorded Scribd pull (doc 838749953, 7,616,289 B, byte-exact vs the books.json record) is a textless image assembly — a phantom; the book was read from the rebuilt readable copy (scribd_textlayer_rebuild.py, 88,157,757 B, 188 pp, visually verified), staged at phase3-staging/grade-08/approved-private/kenya/. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave. Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-gs-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 2: volume of a regular solid (length × width × height of a cuboid) (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 2 |
+| Activity 3: volume of an irregular solid by displacement (Eureka can / measuring cylinder) (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 3 |
+| Activity 4: volume of a liquid with a graduated measuring cylinder (Kenya, Grade 8) | Kenya, *Longhorn Integrated Science Grade 8*, printed p. 4 |
+
+**Acceptance count: taught in 2 countries (Kazakhstan, Kenya) — Kenya added.**
+
+Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn, integrated science, kicd, physics measuring-volume-of-solids-and-liquids
