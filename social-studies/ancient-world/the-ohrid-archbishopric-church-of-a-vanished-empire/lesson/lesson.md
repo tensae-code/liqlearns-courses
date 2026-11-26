@@ -10,6 +10,8 @@ conquering Samuil's empire in 1018, Basil II keeps its church alive as an autoce
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61775 — the church of a vanished empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: the Ohrid Archbishopric — conquering Samuil's empire in 1018, Basil II keeps its church alive as an autocephalous archbishopric seated at Ohrid, first under the Slav Jovan of Debar; for centuries it crowns Balkan rulers — Demetrios Chomatenos crowns an Epirote despot emperor — and guards Slavic letters while empires come and go around it. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Farming skill and craft knowledge gather people behind walls: the development of
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61793 — knowledge gathers people]
+
 ## Sub lesson 2 — The Pyu cities, one by one
 
 The Pyu city-states one by one — Beikthano (the Vishnu city), Hanlin, Sri Ksetra, Maingmaw, Thuwunnabumi and Waitharli — a chain of walled, irrigated, Buddhist-and-Hindu trading cities flourishing for centuries before any Myanmar empire exists.

@@ -10,11 +10,15 @@ after the flood the strong-bodied people of 'Ad grow rich in cities and herds in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61791 — seven nights of wind]
+
 ## Sub lesson 2 — The civilisation of 'Ad
 
 'Ad, the first strong nation after the flood, rooted in al-Ahqaf in the south of Arabia, are blessed with mighty bodies, workers, herds, farms, the city of Iram and a feared army, their own prophet Hud warns them and the chiefs mock him, drought comes first and then the barren wind for seven nights and eight days, and Hud and the believers walk away to build again
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61792 — iram of the strong nation]
 
 ## Say it to your companion
 
