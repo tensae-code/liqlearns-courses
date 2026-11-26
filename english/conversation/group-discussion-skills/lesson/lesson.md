@@ -8,7 +8,7 @@ A group works well when its members agree the ground rules before they start. S�
 
 Saying your own part well matters just as much. Give your idea clearly, in a few sentences. Build on what others have said instead of only repeating your own point. If you disagree, disagree with the idea, not the person.
 
-[Picture: four learners in a circle, each holding a different part of one job]
+[Picture 36866 — four learners in a circle, each holding a different part of one job]
 
 ## Sub lesson 2 — Solving Problems and Speaking Up in a Group
 When a group has a problem to solve, Sāmoa's Year 13 book gives three phases. First, **identify the possibilities** — list every option before judging any of them. Second, **examine the pros and cons** of each option, honestly. Third, **decide**. The book works the phases through choosing a venue, and the order is the point: groups that judge too early throw away good options.

@@ -458,7 +458,12 @@ and lift; step 4's hold never opens while the pencil tilts back).
 
 | Number | File | Tag (what it shows) | Used in |
 |---|---|---|---|
+| 7880 | pictures/7880.webp | A cat sleeping under a table, a book on the table and a ball beside it, with the labels on, under, beside — drawn render, Photos+GIFs front 2026-11-25 | English — Prepositions |
+| 7881 | pictures/7881.webp | The mascot listening carefully, head tilted toward his sister, one hand cupped behind his ear, while she speaks (dotted speech bubble) — drawn render, Photos+GIFs front 2026-11-25 | English — Listening comprehension |
 | 7882 | pictures/7882.webp | The little brother clapping the rhythm, his two palms meeting with gold beat arcs, while his sister says a rhyme (speech bubble with musical notes) — drawn render, Photos+GIFs front 2026-11-25 | English — Rhymes |
+| 7885 | pictures/7885.gif | GIF — a paw with chalk writes the word cat on a slate sound by sound: c appears, then a, then t, and the whole word is underlined gold — drawn render, Photos+GIFs front 2026-11-25 | English — Spelling |
+| 7886 | pictures/7886.webp | The sister reading a market price table (Apples 3, Bread 2, Milk 5) while a paw points at the Bread row, picked out in gold — drawn render, Photos+GIFs front 2026-11-25 | English — Finding information |
+| 36866 | pictures/36866.webp | Four learners in a circle holding up one big poster between them, each holding a different quarter of the same sheet, a house drawn whole across its centre — drawn render, Photos+GIFs front 2026-11-25 | English — Group discussion skills |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |
