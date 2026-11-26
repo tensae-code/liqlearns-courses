@@ -11,7 +11,11 @@ An adult prepares a cup of **warm water**. Put bilberry juice into the warm wate
 
 In your mind's eye: two cups side by side, warm water and cold water, with bilberry juice being dropped into each. The student points to which cup is warm and which is cold.
 
+[Picture 37025 — two cups side by side — warm water and cold water — with the same bilberry juice being dropped into each]
+
 In your mind's eye: bilberry juice spreading into warm water, then into cold water, showing a different colour in each. Say what was the same and what was different.
+
+[Picture 37026 — the juice spread through both cups — one colour in the warm water, a different colour in the cold]
 
 ## Sub lesson 2 — Bilberry juice in cold water
 

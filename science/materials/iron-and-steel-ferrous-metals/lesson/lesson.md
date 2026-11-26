@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "What a ferrous metal is".
 
 In your mind's eye: what a ferrous metal is as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37031 — what a ferrous metal is — iron and steel have iron in them and a magnet sticks; copper and aluminium have no iron in them]
+
 ## The key ideas
 
 - What a ferrous metal is — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

@@ -9,7 +9,11 @@ Building a face mask from a cut plastic container, newspaper strips and caps.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37032 — the mask materials — a cut plastic container, newspaper strips, caps and glue]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37033 — building the mask — newspaper strips pasted on layer by layer, caps added at the end]
 
 ## The key ideas
 

@@ -11,7 +11,11 @@ The design names the job first: what work is to be saved, and which machine or m
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37029 — the inventor's start — the job named first (lift the heavy box with less effort), then the machines to choose from: lever, pulley, wheel and axle, inclined plane]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37030 — the test — lifting the box by hand is hard work; the pulley device lifts it with less effort]
 
 ## Sub lesson 2 — Testing the device and improving it
 

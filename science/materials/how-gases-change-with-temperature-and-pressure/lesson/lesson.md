@@ -9,7 +9,11 @@ South Sudan's Primary 8 book teaches the relationship between **temperature, pre
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37027 — heated air expands — a bottle in hot water, its balloon filling as the air inside is heated]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37028 — cold air takes less room (the balloon hangs flat); heated air expands (the balloon blows up); a sealed container heated can burst]
 
 ## Sub lesson 2 — Pressure squeezes air smaller
 
