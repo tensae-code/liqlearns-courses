@@ -10,17 +10,23 @@ once Egypt is opened, Arab Muslims reach Nubia; Old Dongola's church becomes a m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60086 — Old Dongola's church becomes a mosque]
+
 ## Sub lesson 2 — The Islamic Conquest of the Land of Sudan and The Entry of the Arabs into Sudan
 
 Islam comes to Sudan twice — first by treaty at the frontier, then slowly, family by family, with the migrating tribes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60087 — first by treaty, then family by family]
+
 ## Sub lesson 3 — Islam in Sudan
 
 Sudan becomes Muslim not in a battle but over centuries of marriage, trade and teaching
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60088 — not in a battle: over centuries of mixing]
 
 ## Say it to your companion
 

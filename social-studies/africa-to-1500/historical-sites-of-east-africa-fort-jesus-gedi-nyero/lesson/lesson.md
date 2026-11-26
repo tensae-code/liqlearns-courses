@@ -10,6 +10,8 @@ Fort Jesus guards Mombasa, Olduvai's remains reach back 1.9 million years, Gedi 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60076 — Fort Jesus, Gedi and Nyero: stones that remember]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Historical sites in East Africa — Fort Jesus guards Mombasa, Olduvai's remains reach back 1.9 million years, Gedi flourishes on the Kenyan coast from the 13th to the 17th century, and the Nyero rock paintings mark Uganda's own deep past. Then let your companion ask you one hard question about it — answer from the lesson.

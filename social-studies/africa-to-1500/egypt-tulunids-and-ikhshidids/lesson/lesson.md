@@ -10,6 +10,8 @@ Ahmad ibn Tulun, the Turkish officer who came as a deputy in 868, gathers Egypt'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60067 — Ibn Tulun makes Egypt her own state]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Egypt in the Tulunid and Ikhshidid ages. Then let your companion ask you one hard question about it — answer from the lesson.
