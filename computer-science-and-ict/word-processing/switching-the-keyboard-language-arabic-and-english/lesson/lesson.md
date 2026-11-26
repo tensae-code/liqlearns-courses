@@ -10,11 +10,15 @@ Press **Alt+Shift** and the keyboard's **typing language switches** — from **A
 
 In your mind's eye: alt+shift — the language switch.
 
+[Picture 45547 — alt+shift — the language switch]
+
 ## Sub lesson 2 — Text direction follows the language
 
 **Text direction** is where writing runs: **Arabic runs right to left**, and **English is written left to right** — so when the language changes, the **direction changes** too, and the writing point moves to the correct side. A document can hold both: switch language and direction for each part, and each part sits in its own direction.
 
 In your mind's eye: text direction follows the language.
+
+[Picture 45548 — text direction follows the language]
 
 ## Say it to your companion
 

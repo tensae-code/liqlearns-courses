@@ -10,11 +10,15 @@ Word builds a **table of contents** from **heading styles**: mark chapter titles
 
 In your mind's eye: the table of contents — built from heading styles.
 
+[Picture 45551 — the table of contents — built from heading styles]
+
 ## Sub lesson 2 — Lists of tables and figures — built from captions
 
 A **caption** is the numbered label under a table or figure — *Table 1*, *Figure 2* — inserted with Word's caption tool so the numbering **renumbers itself** when a table is added or removed. From the captions Word builds the **list of tables** and the **list of figures** (Insert Table of Figures): every caption with its page, gathered at the front of the document beside the contents. Rwanda's practical documents — a GS Bumbogo meeting file among them — carry all three lists, because a reader of a long document should never hunt.
 
 In your mind's eye: lists of tables and figures — built from captions.
+
+[Picture 45552 — lists of tables and figures — built from captions]
 
 ## Say it to your companion
 

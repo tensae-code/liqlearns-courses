@@ -10,11 +10,15 @@ The smallest piece of text is the **character**: one letter, digit, sign or spac
 
 In your mind's eye: characters and words — the small levels.
 
+[Picture 45555 — characters and words — the small levels]
+
 ## Sub lesson 2 — Sentences and paragraphs — the large levels
 
 Words join into **sentences**: complete statements closed by their ending marks. Sentences join into **paragraphs**: the blocks of text, separated by new lines, that each carry one stretch of thought. The four levels — **character, word, sentence, paragraph** — are the map every later word-processing lesson uses: formatting acts on characters, alignment on paragraphs, and the learner who knows which level a tool works on knows what it will change before touching it.
 
 In your mind's eye: sentences and paragraphs — the large levels.
+
+[Picture 45556 — sentences and paragraphs — the large levels]
 
 ## Say it to your companion
 

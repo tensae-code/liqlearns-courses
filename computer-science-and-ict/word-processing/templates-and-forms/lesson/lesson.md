@@ -10,11 +10,15 @@ A **template** saves a document's **skeleton**: margins, styles, headings, logos
 
 In your mind's eye: templates — start from a pattern.
 
+[Picture 45553 — templates — start from a pattern]
+
 ## Sub lesson 2 — Forms — documents that ask questions
 
 A **form** fixes the questions and frees only the answers: **content controls** give the filler-in text fields, drop-down lists and checkboxes, and **protection** can lock everything except those fields. Schools, offices and clinics run on such forms — the designer's job is that the form cannot be accidentally broken by the person completing it.
 
 In your mind's eye: forms — documents that ask questions.
+
+[Picture 45554 — forms — documents that ask questions]
 
 ## Say it to your companion
 

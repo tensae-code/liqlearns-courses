@@ -10,11 +10,15 @@ One paragraph in your document matters more than the rest. In this lesson you ma
 
 In your mind's eye: shading — colour behind the words.
 
+[Picture 45543 — shading — colour behind the words]
+
 ## Sub lesson 2 — A border — a frame around the paragraph
 
 A **border** draws a **frame (lines) around a paragraph** — on all sides, or only where you choose. Border and shading combine: a framed, lightly shaded paragraph reads as a separate notice inside the document — the way warnings, rules and announcements are set apart.
 
 In your mind's eye: a border — a frame around the paragraph.
+
+[Picture 45544 — a border — a frame around the paragraph]
 
 ## Say it to your companion
 

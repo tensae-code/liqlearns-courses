@@ -10,11 +10,15 @@ The **arrow keys** move the **caret** through the text: left and right by one le
 
 In your mind's eye: moving through text with the arrow keys.
 
+[Picture 45541 — moving through text with the arrow keys]
+
 ## Sub lesson 2 — Selecting text — mouse or keyboard
 
 **Selecting** marks a piece of text so a command acts on the whole piece at once. Drag the **mouse** across the text, or hold Shift and extend with the **keyboard**. For a **large text** selecting is the better way: one marked sweep covers in a second what a hundred arrow steps would crawl through.
 
 In your mind's eye: selecting text — mouse or keyboard.
+
+[Picture 45542 — selecting text — mouse or keyboard]
 
 ## Say it to your companion
 

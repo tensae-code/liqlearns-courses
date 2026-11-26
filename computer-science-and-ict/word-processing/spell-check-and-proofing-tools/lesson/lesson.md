@@ -10,11 +10,15 @@ A letter is typed and ready — almost. Somewhere in it, a name is spelled two d
 
 In your mind's eye: a word processor's Find box with a word typed in it and that word highlighted everywhere it appears in the document.
 
+[Picture 45545 — a word processor's Find box with a word typed in it and that word highlighted everywhere it appears in the document]
+
 ## Sub lesson 2 — Spell check, grammar check and proofreading
 
 The **spell checker** compares each word against its dictionary and flags the words it does not know or doubts; for a flagged word it offers **suggestions**, and the writer chooses — the checker proposes, the writer decides. Two warnings belong with it. A word can be correctly spelled and still wrong — the wrong word entirely, correctly spelled, passes the checker unseen — and a right word can be flagged: names of people and places, and words from your own language, may not be in its dictionary, and they are not mistakes just because the checker doubts them. The **grammar checker** does the same for sentences, flagging places where the wording breaks a grammar rule it knows; again, its flags are questions, not verdicts. So the checker run is not the finish. **Proofreading** is the writer's own final read of the cleaned document, slowly, for meaning: right words, right names, sense that holds. Checker first, for the mistakes it catches fast; proofread last, for the mistakes only a reader can catch — Uganda's integration work, word-processing a real letter, is only finished when both have been done.
 
 In your mind's eye: a document under spell check, with a flagged word, a list of suggested spellings beside it, and the writer choosing the right one.
+
+[Picture 45546 — a document under spell check, with a flagged word, a list of suggested spellings beside it, and the writer choosing the right one]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ If headings carry **heading styles**, Word can **insert a table of contents** th
 
 In your mind's eye: contents — built from headings.
 
+[Picture 45549 — contents — built from headings]
+
 ## Sub lesson 2 — Indexes — built from marked words
 
 An **index** starts by **marking entries**: select a word, mark it (with its main entry wording), and Word plants a hidden mark. Repeat for the words a reader would look up, then **insert the index** where it should stand — usually at the end — and Word gathers every marked word, alphabetises it and lists its pages. Update it the same way after changes.
 
 In your mind's eye: indexes — built from marked words.
+
+[Picture 45550 — indexes — built from marked words]
 
 ## Say it to your companion
 

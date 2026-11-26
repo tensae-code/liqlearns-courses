@@ -10,11 +10,15 @@ The **Design tab** is where a document's **overall look** is set. Its heart is t
 
 In your mind's eye: the Design tab and themes.
 
+[Picture 45557 — the Design tab and themes]
+
 ## Sub lesson 2 — Document formatting from the Design tab
 
 From the Design tab the book works through **document formatting** choices that belong to the document as a whole — the theme's colours and fonts can be varied, and the page itself takes its background and borders there. Change the theme and the whole document changes with it; that is what makes the Design tab different from the Home tab's one-piece-at-a-time formatting.
 
 In your mind's eye: document formatting from the Design tab.
+
+[Picture 45558 — document formatting from the Design tab]
 
 ## Say it to your companion
 
