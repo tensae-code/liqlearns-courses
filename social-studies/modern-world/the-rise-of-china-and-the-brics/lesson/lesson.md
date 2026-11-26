@@ -10,17 +10,23 @@ the New Silk Road (the chapter's maps) draws China's reach; growth shifts the wo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40014 — silkroad]
+
 ## Sub lesson 2 — Modulo 16 §§1–2 Le nuove gerarchie della ricchezza; Il boom della Cina
 
 wealth's map is redrawn — Stiglitz on the Washington Consensus in East Asia and Rampini's "Chinese century" (Fare storia pieces) argue how China rose inside globalisation's rules
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40013 — wealthmap]
+
 ## Sub lesson 3 — Modulo 19 §3 Russia e Cina
 
 an authoritarian Russia and a state-capitalist China offer rival models to the liberal order — the present's scenarios are drawn as a contest of systems
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40012 — threemodels]
 
 ## Say it to your companion
 

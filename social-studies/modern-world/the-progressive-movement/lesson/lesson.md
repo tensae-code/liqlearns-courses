@@ -10,6 +10,8 @@ Muckrakers — journalists who raked up the muck — attacked corruption, monopo
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40022 — muckrakers]
+
 ## Sub lesson 2 — New voices rise for women and African Americans
 
 New voices rose for women and African Americans — demanding the vote, an end to lynching and exclusion, and a place in the reforming nation. Progressivism's promise and its limits both show here: it widened who could speak, unevenly.

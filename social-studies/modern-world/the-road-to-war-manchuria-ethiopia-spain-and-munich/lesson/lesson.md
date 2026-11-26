@@ -10,6 +10,8 @@ the League watches Japan seize Manchuria (1931) and Italy swallow Ethiopia (1935
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40008 — steppingstones]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: the road to the Second World War — the League watches Japan seize Manchuria (1931) and Italy swallow Ethiopia (1935) and does nothing that matters; Spain's civil war becomes the dictators' rehearsal, Hitler takes the Rhineland, Austria and — with London and Paris signing at Munich — the Sudetenland, then signs his pact with Stalin. Then let your companion ask you one hard question about it — answer from the lesson.

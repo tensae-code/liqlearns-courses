@@ -10,6 +10,8 @@ the Reds hold the centre, the railways and one cause; the Whites hold edges and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40002 — centrerails]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §3.4 Why did the Red Army manage to win the Civil War? — the Reds hold the centre, the railways and one cause; the Whites hold edges and grudges. Then let your companion ask you one hard question about it — answer from the lesson.

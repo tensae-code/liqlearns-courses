@@ -10,11 +10,15 @@ under Ottoman suzerainty the Principalities keep medieval relations while market
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40005 — twotables]
+
 ## Sub lesson 2 — §4: Dezvoltarea economică a Ţărilor Române în secolele XVII–XVIII
 
 after long war and calamity, harvests grow and towns fill with locksmiths, armourers and masons, but the Porte's excessive demands brake the Principalities' integration into the market
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40004 — craftsbrake]
 
 ## Say it to your companion
 

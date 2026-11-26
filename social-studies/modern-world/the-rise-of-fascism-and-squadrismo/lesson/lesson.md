@@ -10,11 +10,15 @@ Mussolini's San Sepolcro programme (Document) mutates into the landowners' squad
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40011 — looksaway]
+
 ## Sub lesson 2 — Modulo 3 §§3–4 Lo squadrismo fascista; Mussolini alla conquista del potere
 
 the squads (the module's keyword) burn the leagues' chambers province by province — Tasca's Fare storia anatomy of squadrismo — until the March on Rome (Eventi) turns violence into government; Mussolini is the module's Personaggi study
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40010 — marchonrome]
 
 ## Say it to your companion
 

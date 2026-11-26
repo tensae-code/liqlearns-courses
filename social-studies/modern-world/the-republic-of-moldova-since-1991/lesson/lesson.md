@@ -10,17 +10,23 @@ presidents come and go, the "theft of the billion" (13.3 billion lei) scars the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40019 — scarredeurope]
+
 ## Sub lesson 2 — Tema 47: Democratizarea vieții politice. Constituția Republicii Moldova
 
 within months some 20 parties and organisations form; the name "Romanian language" survives in 1995, communist-era governments subordinate the press, and the 5 April 2009 elections open a new crisis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40018 — twentyparties]
+
 ## Sub lesson 3 — Tema 48: Viața social-economică în Republica Moldova
 
 the land code starts agrarian reform and private land ownership; later stages bring banking growth and foreign banks, and the sixth stage opens with the mixed-system elections of 24 February 2019
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40017 — landbanksvote]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Tsushima (Eventi) humiliates Russia and ignites 1905; Sun's republic ends China'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40015 — hinge]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 6, Cap. 20 §§6–9 Russia: the revolution of 1905 and the war with Japan; The Republic in China; US imperialism; Latin America and the Mexican Revolution — Tsushima (Eventi) humiliates Russia and ignites 1905; Sun's republic ends China's empire; Roosevelt's America takes an empire and Mexico makes the century's first social revolution. Then let your companion ask you one hard question about it — answer from the lesson.

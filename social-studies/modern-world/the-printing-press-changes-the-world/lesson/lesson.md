@@ -10,11 +10,15 @@ movable type multiplies books beyond the copyists' reach, and literacy — and w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40024 — movabletype]
+
 ## Sub lesson 2 — Lesson plan for §2.2, the invention of printing
 
 the guide times the lesson to literacy's worldwide rise once books could be printed rather than copied
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40023 — literacyclimbs]
 
 ## Say it to your companion
 

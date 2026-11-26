@@ -10,6 +10,8 @@ Rodchenko and Lissitzky put photomontage and diagonal type at the revolution's s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40003 — poster]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 20: The art movements of the Russian avant-garde and graphic design — Rodchenko and Lissitzky put photomontage and diagonal type at the revolution's service. Then let your companion ask you one hard question about it — answer from the lesson.

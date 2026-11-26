@@ -10,6 +10,8 @@ Neagoe Basarab backs the merchants and writes his Teachings; Petru Rareș fights
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40007 — teachings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea III, Lecția 1: Situația politică a Țărilor Române în prima jumătate a secolului al XVI-lea. Campania din 1538 — Neagoe Basarab backs the merchants and writes his Teachings; Petru Rareș fights Poland over Pocuția and joins the Holy League before Suleiman's 1538 campaign changes everything. Then let your companion ask you one hard question about it — answer from the lesson.

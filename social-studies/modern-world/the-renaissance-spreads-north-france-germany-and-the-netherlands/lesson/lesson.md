@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Loire château, a Dürer work and a Netherlandish panel of a merchant's world. The student points to the Italian spark in each northern work.
 
+[Picture 40020 — loireperspective]
+
 ## Sub lesson 3 — The Netherlands, Spain and Prague
 
 Netherlandish painters fill panels with merchants' worlds, El Greco stretches souls in Spain, and Rudolf's Prague becomes a cabinet of wonders.

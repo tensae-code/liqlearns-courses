@@ -10,6 +10,8 @@ the International Committee founded in 1863 protects war's victims and visits pr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40021 — twoemblems]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 7: humanitarian organisations and international humanitarian law — the International Committee founded in 1863 protects war's victims and visits prisoners; after the First World War the federation of societies follows, the Arab Red Crescent organisation settles in Riyadh in 1975, and Jordan's own Red Crescent volunteers serve their country; behind them stands humanitarian law — the rules that shield everyone not fighting, or no longer fighting, in a war. Then let your companion ask you one hard question about it — answer from the lesson.
