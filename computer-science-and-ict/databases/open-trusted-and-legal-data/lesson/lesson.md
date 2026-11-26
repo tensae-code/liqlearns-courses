@@ -10,11 +10,15 @@ Open, trusted and legal data — the three tests data must pass before it is use
 
 In your mind's eye: open — data that may be taken.
 
+[Picture 46572 — open — data that may be taken]
+
 ## Sub lesson 2 — Trusted and legal — data that may be believed and used
 
 Open is not enough. **Trusted** (terpercaya) asks whether the data deserves belief — a known maker, a stated method, figures that survive the validation tests. **Legal** (legal) asks whether using it is lawful: collected and shared within the law, respecting personal data and others' rights in their work. The three tests together are the chapter's gate: data for a decision or a publication must be open to take, trusted to stand on, and legal to use — failing any one, it waits outside.
 
 In your mind's eye: trusted and legal — data that may be believed and used.
+
+[Picture 46573 — trusted and legal — data that may be believed and used]
 
 ## Say it to your companion
 

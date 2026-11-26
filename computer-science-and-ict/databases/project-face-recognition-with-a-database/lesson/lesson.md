@@ -10,11 +10,15 @@ The project separates two acts pupils confuse: **detection** — finding that a 
 
 In your mind's eye: detection, recognition, and the log — the Term 1 build.
 
+[Picture 46586 — detection, recognition, and the log — the Term 1 build]
+
 ## Sub lesson 2 — The Term 2 growth — employees, queries and reports that decide
 
 Term 2 grows the logger into a system: an **employees table linked to a face_log table** (the relational year's parent and child), Haar detection feeding the log, and **queries and reports that support decisions** — who was late how often, which door saw whom — finished as **PDF reports built with ReportLab**, the program itself printing its findings. The project's lesson is the integration: neither the AI nor the database is the product — the product is a system whose seeing is remembered, questioned, and reported.
 
 In your mind's eye: the Term 2 growth — employees, queries and reports that decide.
+
+[Picture 46587 — the Term 2 growth — employees, queries and reports that decide]
 
 ## Say it to your companion
 

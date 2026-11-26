@@ -10,11 +10,15 @@ First the knowledge itself: the **emergency services** — fire, police, ambulan
 
 In your mind's eye: the emergency services — and the steps to reach them.
 
+[Picture 46574 — the emergency services — and the steps to reach them]
+
 ## Sub lesson 2 — Building the centre — information ordered for panic
 
 Then the building: the class collects the services' real names, numbers and addresses, **verifies** them (the verification habit applied to the numbers lives depend on), and arranges them so a stranger in a hurry succeeds — services grouped by trouble, numbers large and plain, copies where people actually are: classroom, office, gate. An information centre is a database before the word is taught: facts, checked, structured, and retrievable at the speed of need. The centre is finished only when it has been tested — a timed drill, a stranger, a found number.
 
 In your mind's eye: building the centre — information ordered for panic.
+
+[Picture 46575 — building the centre — information ordered for panic]
 
 ## Say it to your companion
 

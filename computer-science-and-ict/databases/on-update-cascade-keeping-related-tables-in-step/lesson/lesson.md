@@ -10,11 +10,15 @@ In SQLite, foreign-key rules sleep until woken: the connection must run **PRAGMA
 
 In your mind's eye: pRAGMA foreign_keys — the switch that makes rules real.
 
+[Picture 46570 — pRAGMA foreign_keys — the switch that makes rules real]
+
 ## Sub lesson 2 — ON UPDATE CASCADE against NO ACTION
 
 A parent table's key can be **updated** — a region's code corrected. **ON UPDATE CASCADE** answers: the change **cascades** — every child's foreign key is updated to match, automatically, so the family stays in step. **NO ACTION** answers the opposite: the update is **refused** while children still point at the old key, protecting the link by blocking the change. Choosing between them is design: cascade where the key is a mere label the children must follow; no action where a change should never slip through silently.
 
 In your mind's eye: oN UPDATE CASCADE against NO ACTION.
+
+[Picture 46571 — oN UPDATE CASCADE against NO ACTION]
 
 ## Say it to your companion
 

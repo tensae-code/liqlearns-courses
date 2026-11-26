@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Physical Database Design** — c
 
 In your mind's eye: physical Database Design.
 
+[Picture 46580 — physical Database Design]
+
 ## Sub lesson 2 — Doing it — Physical Design and Data Distribution Strategies in practice
 
 **Doing it — Physical Design and Data Distribution Strategies in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Physical Design and Data Distribution Strategies in practice.
+
+[Picture 46581 — doing it — Physical Design and Data Distribution Strategies in practice]
 
 ## Say it to your companion
 

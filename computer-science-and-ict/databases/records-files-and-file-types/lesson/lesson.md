@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Traditional File System** — co
 
 In your mind's eye: traditional File System.
 
+[Picture 46588 — traditional File System]
+
 ## Sub lesson 2 — Doing it — Records Files and File Types in practice
 
 **Doing it — Records Files and File Types in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Records Files and File Types in practice.
+
+[Picture 46589 — doing it — Records Files and File Types in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Introduction to Probability** �
 
 In your mind's eye: introduction to Probability.
 
+[Picture 46584 — introduction to Probability]
+
 ## Sub lesson 2 — Doing it — Probability First Ideas in practice
 
 **Doing it — Probability First Ideas in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Probability First Ideas in practice.
+
+[Picture 46585 — doing it — Probability First Ideas in practice]
 
 ## Say it to your companion
 
