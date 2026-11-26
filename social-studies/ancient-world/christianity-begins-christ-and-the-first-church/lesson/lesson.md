@@ -10,6 +10,8 @@ in Roman Judaea Jesus preaches a kingdom of the poor, is crucified, and his foll
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60516 — the first Church]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. J2 Christ and his teaching; the First Church — in Roman Judaea Jesus preaches a kingdom of the poor, is crucified, and his followers form the first Church in Jerusalem. Then let your companion ask you one hard question about it — answer from the lesson.

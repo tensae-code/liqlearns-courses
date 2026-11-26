@@ -10,17 +10,23 @@ Taizong learns from Sui's fall, keeps Wei Zheng as his 'mirror' through 200 remo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60499 — Taizong's mirror, Wu Zetian, Xuanzong]
+
 ## Sub lesson 2 — Flourishing Tang
 
 curved ploughs and tube wheels, Shu silk, Tang sancai pottery and Chang'an in flower season — a century of farm, craft and city prosperity and warm ethnic relations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60500 — flourishing Tang]
+
 ## Sub lesson 3 — From Sui-Tang prosperity to the Five Dynasties
 
 reunification in 589, the Zhenguan and Kaiyuan heights, then An Lushan's wreckage and a half-century of ten squabbling kingdoms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60501 — heights, wreckage, ten kingdoms]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The Slavs get the gospel in words they understand, and letters of their own to w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60514 — the gospel in Slavonic]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2.3 The states of the South Slavs: Christianity spreads among the Slavs from Frankish, Byzantine and Roman neighbours, above all in the later 9th century, with the Thessalonican brothers (Cyril and Methodius) bringing the faith in the Slavs' own language. Then let your companion ask you one hard question about it — answer from the lesson.

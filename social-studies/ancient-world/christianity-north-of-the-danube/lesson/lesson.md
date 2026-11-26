@@ -10,6 +10,8 @@ north of the Danube, Christianity becomes a badge of Roman identity — Romanian
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60519 — basilica — a badge of Roman identity]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea VI, Lecția 7: Creștinismul în spațiul nord-dunărean — north of the Danube, Christianity becomes a badge of Roman identity — Romanian keeps the Latin basilica for "church", a word almost no other Romance language kept. Then let your companion ask you one hard question about it — answer from the lesson.

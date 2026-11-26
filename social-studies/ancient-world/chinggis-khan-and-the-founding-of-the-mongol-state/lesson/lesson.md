@@ -10,11 +10,15 @@ the orphaned Temüjin of the Secret History — his family captured, his wife ab
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60508 — the orphan Temüjin]
+
 ## Sub lesson 2 — Ch. 4.1.2 Chinggis Khan founds the Great Mongol State
 
 in 1206 the Onon kurultai proclaims Chinggis Khan over all the felt-walled tribes; the Great Mongol State (Yeke Mongγol Ulus) is born
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60509 — the Onon kurultai 1206]
 
 ## Sub lesson 3 — Ch. 4.1.3 Chinggis Khan consolidates his state
 
@@ -22,11 +26,15 @@ the Yassa law code, the decimal army, the Uyghur-derived script and the yam rela
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60510 — law, army, script and relay]
+
 ## Sub lesson 4 — Ch. 4.1.5 Chinggis Khan, founder of the Great Mongol nation
 
 the book weighs his legacy — one people, one script, one law and a state tradition every later Mongol age claims descent from
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60511 — one people, one script, one law]
 
 ## Sub lesson 5 — Ch. 3.2 The Great Mongol State
 
@@ -34,11 +42,15 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60512 — the state in its sources]
+
 ## Sub lesson 6 — Ch. 3.3 Chinggis Khan's role in history
 
 conqueror or state-founder? The chapter weighs his destruction against the Pax Mongolica, the relay roads and the single Eurasian world he opened
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60513 — the weighing of Chinggis]
 
 ## Say it to your companion
 

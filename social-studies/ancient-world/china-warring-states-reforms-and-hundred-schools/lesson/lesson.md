@@ -10,17 +10,23 @@ Shang Yang leaves Wei for Qin in 356 BCE preaching 'Tang and Wu did not follow t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60503 — Shang Yang's reforms]
+
 ## Sub lesson 2 — The Hundred Schools
 
 amid the chaos Confucius, Laozi, Mozi, Han Fei and the rest argue rival answers to one question — how shall the world be ordered again?
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60504 — the Hundred Schools]
+
 ## Sub lesson 3 — Reforms through Chinese history (1)
 
 Shang Yang's Qin reforms open a two-thousand-year procession — every strong dynasty reforms or declines
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60505 — the procession of reforms]
 
 ## Say it to your companion
 

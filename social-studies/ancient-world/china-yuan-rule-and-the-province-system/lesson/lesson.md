@@ -10,11 +10,15 @@ Kublai builds the largest territory in Chinese history; peoples move and mix unt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60506 — Kublai and the provinces]
+
 ## Sub lesson 2 — Yuan unifies
 
 in 1279 the Mongols complete the greatest unification since Han and Tang and govern it through the new provinces
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60507 — 1279 — the great unification]
 
 ## Say it to your companion
 

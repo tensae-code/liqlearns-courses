@@ -10,6 +10,8 @@ every spring the Western Zhou king ploughs and prays at the Altar of Land and Gr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60502 — the sheji altar]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The essence and character of fine traditional Chinese culture — every spring the Western Zhou king ploughs and prays at the Altar of Land and Grain — sheji — until the altar's name becomes the word for the state itself; agriculture-first, family and harmony are read out of such rites. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ refugee princes carve a state from Byzantium's edge, and in 1198 Levon is crowne
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60521 — Levon crowned 1198]
+
 ## Sub lesson 2 — §§2.3–2.4 Cilician Armenia in the 1200s–1300s: state order and socio-economic life
 
 ports like Ayas grow rich on the Europe–Asia trade while crusader alliances slowly fail to save the kingdom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60522 — Ayas and the trade]
 
 ## Sub lesson 3 — Teaching guidance for Chs. 2–3, Cilician Armenia and medieval culture
 

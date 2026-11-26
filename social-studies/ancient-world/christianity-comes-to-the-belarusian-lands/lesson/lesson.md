@@ -10,11 +10,15 @@ Bishoprics at Polotsk and Turov, St Sophia's cathedral and Euphrosyne of Polotsk
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60517 — Polotsk, Turov, St Sophia, the cross]
+
 ## Sub lesson 2 — Christianity in Eastern Europe
 
 The faith spreads slowly against pagan resistance and splits in 1054 into Orthodox East and Catholic West, with Belarus on the seam
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60518 — on the seam of 1054]
 
 ## Say it to your companion
 

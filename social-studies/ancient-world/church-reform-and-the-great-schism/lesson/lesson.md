@@ -10,6 +10,8 @@ Cluniac monks and reforming popes fight simony and clerical marriage; in 1054 Ro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60520 — reform and the split of 1054]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 2 §§3–4 The reform of the Church in the 11th century; The reform of the Papacy and the Schism of the East — Cluniac monks and reforming popes fight simony and clerical marriage; in 1054 Rome and Constantinople split, dividing Western and Eastern Christianity for good. Then let your companion ask you one hard question about it — answer from the lesson.

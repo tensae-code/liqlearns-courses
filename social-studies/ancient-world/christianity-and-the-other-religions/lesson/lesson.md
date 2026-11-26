@@ -10,6 +10,8 @@ Christians, Jews and Muslims live side by side — and collide — in the mediev
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60515 — side by side — and colliding]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 15: Christianity and the other religions — Christians, Jews and Muslims live side by side — and collide — in the medieval world. Then let your companion ask you one hard question about it — answer from the lesson.
