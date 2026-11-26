@@ -10,11 +10,15 @@ A poster is built as a **stack of layers with jobs**: the background, the images
 
 In your mind's eye: the poster's layers — built, and duplicated.
 
+[Picture 46313 — the poster's layers — built, and duplicated]
+
 ## Sub lesson 2 — Formatted text — the words a poster is read by
 
 A poster's text is **formatted** to be read at a distance and in an order: the **title** largest — the words seen first; the **details** smaller beneath; fonts and colours chosen for contrast against what lies under them. Formatting is the poster's traffic control: it decides what the passer-by reads first, second, and never. Kuwait ends the GIMP basics here because a poster is where design stops being exercises: it will hang in public and be judged by strangers.
 
 In your mind's eye: formatted text — the words a poster is read by.
+
+[Picture 46314 — formatted text — the words a poster is read by]
 
 ## Say it to your companion
 

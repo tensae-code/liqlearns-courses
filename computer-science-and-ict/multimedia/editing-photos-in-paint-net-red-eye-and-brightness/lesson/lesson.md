@@ -10,11 +10,15 @@ Grade 7 drew pictures; Grade 9 repairs them. Mongolia's photo lesson works on re
 
 In your mind's eye: red eye — the flash's fault, removed.
 
+[Picture 46297 — red eye — the flash's fault, removed]
+
 ## Sub lesson 2 — Brightness, contrast and Levels — the light corrected
 
 A photograph's light is corrected in steps of strength. **Brightness** lifts or lowers the whole picture's light at once; **contrast** deepens or softens the distance between its lights and darks. **Levels** is the finer instrument: it remaps the picture's tones — where its blacks begin, where its whites peak, the balance between — rescuing photographs that brightness alone would wash or bury. Mongolia's order is the professional's: judge the fault first (too dark? too flat? too harsh?), then choose the smallest instrument that reaches it.
 
 In your mind's eye: brightness, contrast and Levels — the light corrected.
+
+[Picture 46298 — brightness, contrast and Levels — the light corrected]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **selection** is a chosen region of the image — and a shaped selection, fill
 
 In your mind's eye: selections as shape-makers — the Ellipse Select.
 
+[Picture 46315 — selections as shape-makers — the Ellipse Select]
+
 ## Sub lesson 2 — The Paths tool — shapes drawn as outlines
 
 The **Paths tool** draws a shape as an **outline of points and curves** placed by the maker, which can then be filled, stroked (outlined), or used as a selection. Paths draw the shapes selections cannot — the exact curve of a hill, a flag's wave, a logo's sweep — as **editable** geometry: a point can be moved later and the curve follows. Regular drawing's two instruments divide the world: selections for the shapes with names (circle, rectangle), paths for the shapes with intentions.
 
 In your mind's eye: the Paths tool — shapes drawn as outlines.
+
+[Picture 46316 — the Paths tool — shapes drawn as outlines]
 
 ## Say it to your companion
 

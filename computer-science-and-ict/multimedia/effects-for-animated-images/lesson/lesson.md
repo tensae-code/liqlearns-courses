@@ -10,11 +10,15 @@ A still-image effect changes one picture; an **animated effect** changes a pictu
 
 In your mind's eye: an effect is a change spread over frames.
 
+[Picture 46303 — an effect is a change spread over frames]
+
 ## Sub lesson 2 — Using effects with restraint — timing and purpose
 
 Effects obey the animation's other laws: their **timing** is set by frame delays (a slow fade gets many frames, a flash gets few), and their **purpose** must be a story purpose — the glow marks the magic object, the fade ends the scene. Vietnam's specialist lesson warns by example: an animation where everything glows, blurs and flashes has no effects at all, because the eye stops believing any of them. **One effect, well placed, beats five competing.**
 
 In your mind's eye: using effects with restraint — timing and purpose.
+
+[Picture 46304 — using effects with restraint — timing and purpose]
 
 ## Say it to your companion
 

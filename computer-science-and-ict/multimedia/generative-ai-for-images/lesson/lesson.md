@@ -10,11 +10,15 @@ A **generative-AI image model** has been **trained** on huge collections of imag
 
 In your mind's eye: from prompt to picture.
 
+[Picture 46307 — from prompt to picture]
+
 ## Sub lesson 2 — Directing and judging the result
 
 Good results need **precise prompts** (subject + style + setting + details) and **iteration** — generate, judge, sharpen the prompt, repeat. Judge hard: generators famously fumble **hands, written text, and factual details**, and a convincing image can still be a false one. North Macedonia's 2026 book already teaches this in school: the standing rules are to **credit** machine-made work honestly and to respect **copyright and people's likenesses** — a generated picture is a tool's output, not a photograph of reality.
 
 In your mind's eye: directing and judging the result.
+
+[Picture 46308 — directing and judging the result]
 
 ## Say it to your companion
 

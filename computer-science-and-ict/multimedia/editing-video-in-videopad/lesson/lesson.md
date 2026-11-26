@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **The possibilities of the VideoPad edito
 
 In your mind's eye: the possibilities of the VideoPad editor.
 
+[Picture 46301 — the possibilities of the VideoPad editor]
+
 ## Sub lesson 2 — Reworking a video
 
 This part of Kazakhstan's book teaches **Reworking a video** — covering: §18: Reworking a video. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: reworking a video.
+
+[Picture 46302 — reworking a video]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ One picture is found; a design is assembled. Kuwait's blending lesson combines s
 
 In your mind's eye: blending — several images, one design.
 
+[Picture 46311 — blending — several images, one design]
+
 ## Sub lesson 2 — Scale and perspective — making it belong
 
 Two crafts hide the joins. The **Scale tool** resizes a brought-in part to its **true size in the scene** — a balloon bigger than the Tower betrays the blend at once. **Perspective lines** give the design its depth rules: things shrink as they recede, and a part placed far must be scaled and set by those lines. Kuwait teaches the helpers beside the act because blending is not pasting — it is persuading several photographs they were always one.
 
 In your mind's eye: scale and perspective — making it belong.
+
+[Picture 46312 — scale and perspective — making it belong]
 
 ## Say it to your companion
 

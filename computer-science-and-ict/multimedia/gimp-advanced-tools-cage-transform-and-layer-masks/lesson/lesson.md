@@ -10,11 +10,15 @@ The **Cage Transform** tool wraps a part of the image in a **cage** — a frame 
 
 In your mind's eye: cage Transform — bending an image inside a cage.
 
+[Picture 46309 — cage Transform — bending an image inside a cage]
+
 ## Sub lesson 2 — Layer Masks, Curves and Channels — hiding without deleting, light by numbers
 
 A **layer Mask** removes a background the reversible way: the mask **hides** parts of the layer (painted black) and **shows** them (painted white) — nothing is deleted, so a cut can be refined or undone at any moment; the enrichment uses it for background removal finer than any eraser. **Curves** adjust an image's light by a drawn graph — shadows, midtones and highlights pulled separately — and **Channels** are the colour system's separate plates (the RGB plates of the foundations lesson), worked on one at a time. Three tools, one theme: control that does not destroy.
 
 In your mind's eye: layer Masks, Curves and Channels — hiding without deleting, light by numbers.
+
+[Picture 46310 — layer Masks, Curves and Channels — hiding without deleting, light by numbers]
 
 ## Say it to your companion
 

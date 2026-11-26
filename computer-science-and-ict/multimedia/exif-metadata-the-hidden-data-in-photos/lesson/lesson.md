@@ -12,6 +12,8 @@ None of this shows in the picture. A photo of a birthday cake looks innocent; it
 
 In your mind's eye: one photo shown twice: the picture on the left, and on the right its EXIF record as a list — device, date, settings, GPS numbers.
 
+[Picture 46305 — one photo shown twice: the picture on the left, and on the right its EXIF record as a list — device, date, settings, GPS numbers]
+
 ## Sub lesson 2 — Reading EXIF and finding where a photo was taken
 
 Reading EXIF needs no special power: a photo's **properties** on any computer show part of it, and small tools — the book uses a few lines of Python — print the whole block, including the GPS numbers stored as degrees, minutes and seconds to convert into decimal coordinates. Those two numbers go straight onto a map: latitude for the north–south position, longitude for east–west. The mystery photo is solved.
@@ -19,6 +21,8 @@ Reading EXIF needs no special power: a photo's **properties** on any computer sh
 So the practical rule cuts both ways. EXIF is useful: it sorts your photos by date, maps your travels, proves when a shot was taken. And it is a leak: post an original photo of your home and you may publish your address with it. Many social platforms strip EXIF on upload; sending the original file — by email or messaging — usually keeps it. The book's habit is the right one: know the block exists, read it before you share, and strip the location (most phones offer "remove location" when sharing) when the place is private.
 
 In your mind's eye: a pair of GPS numbers from an EXIF block being placed as a pin on a map.
+
+[Picture 46306 — a pair of GPS numbers from an EXIF block being placed as a pin on a map]
 
 ## Say it to your companion
 
