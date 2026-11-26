@@ -8,6 +8,8 @@ ATP is the cell's energy currency: its terminal phosphate bond stores energy tha
 
 In your mind's eye: an ATP molecule drawn as A—P~P~P with the last phosphate group shown jumping onto a pump protein and bending it into a new shape.
 
+[Picture 38276 — atp the last phosphate jumps and]
+
 ## The key facts
 **Ch. 5 §2 ATP, the cell's energy "currency".** opened by Du Mu's Tang-dynasty firefly poem; the A—P~P~P structure with 30.54 kJ released per mole hydrolysed; half a kilogram of ATP turned over per minute in hard exercise; and the mechanism shown honestly — the terminal phosphate transferred onto the calcium pump itself, changing its shape (phosphorylation), which is how the "currency" is actually spent. No existing lesson is given to ATP.
 

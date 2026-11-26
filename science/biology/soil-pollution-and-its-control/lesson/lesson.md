@@ -8,6 +8,8 @@ The soil can be poisoned as surely as air and water: Kenya's Form 3 book gives s
 
 In your mind's eye: a field cross-section in two halves — on one side the poisons arriving: acid rain falling, factory aerosol drifting down with heavy-metal specks, a split oil drum leaking petroleum, fertiliser sacks and dumped solid waste. And on the other side the controls at work: a compost pit, recycling bins, a pipeline carrying petroleum safely, and a sign of the law over the field.
 
+[Picture 38556 — soil pollution and its controls]
+
 ## The key facts
 **The sources.** Soil is polluted by acid rain, aerosols carrying heavy metals, petroleum spills, inorganic fertilisers and solid waste.
 

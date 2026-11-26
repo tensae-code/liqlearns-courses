@@ -8,6 +8,8 @@ Plants respire as animals do — every living cell takes in oxygen and releases 
 
 In your mind's eye: a green plant with oxygen arrows entering at a leaf stoma, a stem lenticel and the roots, and a small furnace glow drawn inside one cell labelled respiration.
 
+[Picture 38539 — plants breathe too at leaf]
+
 ## The key facts
 **§25 Respiration of plants.** how plants take in oxygen without special organs
 

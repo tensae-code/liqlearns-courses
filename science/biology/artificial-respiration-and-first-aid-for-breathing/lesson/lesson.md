@@ -8,6 +8,8 @@ Artificial respiration is rescue breathing: when a person's own breathing has st
 
 In your mind's eye: a trained helper kneeling beside a person lying flat with head tilted back, giving rescue breaths, with a steady rhythm marked beside them.
 
+[Picture 38274 — rescue breathing head back breaths in]
+
 ## The key facts
 **Activity 4.12.** artificial respiration (rescue breathing) as a practical skill
 

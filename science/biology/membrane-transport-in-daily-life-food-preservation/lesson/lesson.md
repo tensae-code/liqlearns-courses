@@ -8,6 +8,8 @@ Malaysia's Form 4 book closes its membrane chapter with an application lesson: m
 
 In your mind's eye: salted fish and a jar of sugared fruit preserve on a kitchen table, with arrows showing water leaving the food and leaving a microbe cell, which shrivels.
 
+[Picture 38469 — salt and sugar preserve by pulling]
+
 ## The key facts
 **The membrane idea applied.** The same crossing the chapter teaches in cells — water moving by osmosis towards the stronger solution — happens in food: salted or sugared food is a strong solution at its surface.
 

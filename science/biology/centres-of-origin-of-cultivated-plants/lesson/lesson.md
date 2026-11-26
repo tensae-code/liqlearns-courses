@@ -8,6 +8,8 @@ Vavilov showed that every cultivated plant comes from a centre of origin — a r
 
 In your mind's eye: a world map with Vavilov's centres of origin marked as glowing regions, a wheat ear, a potato and an apple each joined by a line to the centre it came from.
 
+[Picture 38316 — where our crops began the centres]
+
 ## The key facts
 **10.4 Centres of origin of cultivated plants.** Vavilov's centres as their own §
 

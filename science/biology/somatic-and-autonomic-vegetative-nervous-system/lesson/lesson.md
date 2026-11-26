@@ -8,6 +8,8 @@ the somatic nervous system against the autonomic, whose sympathetic and parasymp
 
 In your mind's eye: a diagram of two pathways from the spinal cord. A single somatic neuron reaching a skeletal muscle, and an autonomic two-neuron chain reaching a gland, with the sympathetic and parasympathetic divisions drawn as two branches.
 
+[Picture 38558 — two nervous pathways direct and relayed]
+
 ## The key facts
 **Somatic against autonomic.** Kuwait's Grade 12 Term 1 student book (Lesson 4-1, printed pp. 46–49) sets the somatic nervous system against the autonomic (vegetative) nervous system.
 

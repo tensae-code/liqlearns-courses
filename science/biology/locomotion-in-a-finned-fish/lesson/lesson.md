@@ -8,6 +8,8 @@ A fish swims with muscle blocks, a gas float and a kit of fins: Kenya's Form 4 b
 
 In your mind's eye: a tilapia drawn mid-swim with its body bent in a shallow S — the muscle blocks (myotomes) shaded in zigzag bands along its flank, arrows showing water pushed backwards by the tail. Its overlapping scales and a mucus sheen marked, the swim bladder drawn as a pale float inside, the lateral line dotted along its side, and each fin labelled: paired pectoral and pelvic fins, unpaired dorsal, anal and tail fins.
 
+[Picture 38463 — a tilapia mid-swim every part labelled]
+
 ## The key facts
 **The streamlined body.** The tilapia's body is streamlined, with overlapping scales under mucus, so resistance is cut as it moves through water.
 

@@ -8,6 +8,8 @@ The central dogma states the flow of genetic information: DNA is transcribed int
 
 In your mind's eye: three boxes in a row — DNA, RNA, protein. Joined by arrows labelled transcription and translation, with a return arrow over the DNA box labelled replication.
 
+[Picture 38582 — the central dogma dna to rna]
+
 ## The key facts
 **§4.2.** molecular genetics opens with the central dogma
 

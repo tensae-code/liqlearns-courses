@@ -8,7 +8,11 @@ Afghanistan's Grade 11 Biology book opens its ecology part with the interactions
 
 In your mind's eye: five paired scenes, one per interaction — two flocks contesting one water hole, a fox with a hare, a tick on a dog, a bee on a flower, and a remora under a shark. Each labelled with its two signs.
 
+[Picture 38448 — five interactions five pairs of signs]
+
 In your mind's eye: the signs appearing beside two populations as each interaction is shown — minus/minus, plus/minus, plus/plus, plus/zero — while the two population lines rise and fall together in the predation scene. The student calls the interaction from its signs.
+
+[Picture 38449 — call the interaction from its signs]
 
 ## The key facts
 **Competition (−/−).** Competition runs between species (interspecific) and inside one species (intraspecific), fiercest where the resource is scarcest. Two species cannot long share exactly the same niche in the same place: one outcompetes the other, or they divide the resource between them.

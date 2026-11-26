@@ -8,6 +8,8 @@ Mozambique's animal module works the tetrapod classes in turn, and the reptiles 
 
 In your mind's eye: a reptile egg cut open with the small curled embryo in the middle, wrapped in its fluid sac, and the four membranes labelled around it — chorion outside, amnion around the embryo, allantois and the yolk sac beside it.
 
+[Picture 38537 — the amniotic egg four membranes one]
+
 ## The key facts
 **Built for dry land.** The reptile skin is thick and waterproof, covered in keratin scales — it holds the body's water in. Reptiles are ectotherms: their body temperature follows the surroundings, which ties them to warm regions.
 

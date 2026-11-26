@@ -8,6 +8,8 @@ Agriculture feeds people, but it also acts on the ecosystem. Chapter 9 of Nigeri
 
 In your mind's eye: a hillside in three panels. Forest being cleared, farmland under cultivation, and a bush fire burning through dry grass, with the soil exposed in each.
 
+[Picture 38364 — farming's footprint cleared worked burnt]
+
 ## The key facts
 **Farming acts on the ecosystem.** Every agricultural activity — clearing, cultivating, burning — changes the ecosystem: its soil, its water and the community of organisms living there.
 

@@ -8,7 +8,11 @@ Armenia's Grade 8 "Biology. Human" book closes its musculoskeletal chapter with 
 
 In your mind's eye: three spines side by side — a straight spine in correct posture, a spine curving sideways from habitually sitting crooked, and a spine stooped from a badly carried load. Beside a normal foot arch and a flat foot, each labelled.
 
+[Picture 38521 — posture written in the spine]
+
 In your mind's eye: a learner sitting slumped and crooked at a desk, then sitting straight — back against the chair, feet flat, book raised — and the spine in the see-through back straightens with the posture. Name what changed.
+
+[Picture 38522 — sitting two ways slumped then straight]
 
 ## The key facts
 **Hygiene closes the system.** Armenia's Grade 8 "Biology. Human" book ends its musculoskeletal chapter the way it ends every system chapter: with hygiene. §22, the hygiene of the musculoskeletal system, is the closing section — the system's care is taught as part of the system itself.

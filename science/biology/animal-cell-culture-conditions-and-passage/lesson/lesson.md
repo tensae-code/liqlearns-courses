@@ -8,6 +8,8 @@ Animal cells can be grown outside the body in a dish, if the culture gives them 
 
 In your mind's eye: a culture flask of animal cells on a dish under a microscope, with the conditions labelled around it — medium with serum, 36.5 °C, pH 7.2–7.4, 95% air with 5% CO₂.
 
+[Picture 38265 — growing animal cells the conditions on]
+
 ## The key facts
 **Ch. 2 §2 Animal cell culture.** opened on growing a burn patient's own skin; the conditions (synthetic medium plus serum, sterility, 36.5 ± 0.5 °C, pH 7.2–7.4, 95% air with 5% CO₂); trypsinising tissue to single cells; attachment and contact inhibition; primary culture against passage culture; and the cell-culture engineer career told through the HeLa line of 1951.
 

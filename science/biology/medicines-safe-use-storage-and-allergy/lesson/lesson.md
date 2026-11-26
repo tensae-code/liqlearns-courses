@@ -8,6 +8,8 @@ Mozambique's fourth PESD I module (2023) ends — Lesson 17, its closing lesson 
 
 In your mind's eye: a home medicine box on a dry shelf with a tick beside it, and crossed-out drawings of a bathroom cabinet, a kitchen sink and a shelf of cleaning bottles below — with a small panel showing a person checking their skin and breathing for signs of allergy.
 
+[Picture 38468 — medicines stored dry and allergy]
+
 ## The key facts
 **Where medicines are kept matters.** The module's storage rule is concrete: medicines are kept away from bathrooms, sinks and cleaning materials — away from the home's moisture and its chemicals.
 

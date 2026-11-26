@@ -8,6 +8,8 @@ Food is made by living things, so the question of whether people have enough of 
 
 In your mind's eye: two fields side by side — one green and watered, one cracked and dry under drought, with a third strip showing flooded land.
 
+[Picture 38399 — food security climate hazards at the]
+
 ## The key facts
 **Food security is a population having enough food, steadily.** The food supply of the world's population is the amount of food living things produce for people to eat — crops from plants, and food from the animals that eat those plants.
 

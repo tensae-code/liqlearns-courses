@@ -8,6 +8,8 @@ Every cell lives in fluid: body fluid divides into the intracellular two-thirds 
 
 In your mind's eye: one cell drawn large, two-thirds of the page inside it shaded as its own fluid, the third outside it labelled plasma, tissue fluid and lymph.
 
+[Picture 38593 — the internal environment fluids in and]
+
 ## The key facts
 **Ch. 1 §1 The environment cells live in.** body fluid divided into intracellular (2/3) and extracellular (1/3: plasma, tissue fluid, lymph), then plasma analysed from a real composition table (sodium 137–147 mmol/L, glucose 3.9–6.1, enzymes in U/L); osmotic pressure built to a number (about 770 kPa at 37 °C, over 90% of it from Na+ and Cl−); and the remark that extracellular fluid is a salt solution much like seawater — a fossil of life's ocean origin. No existing lesson is given to the internal environment itself.
 

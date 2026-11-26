@@ -8,6 +8,8 @@ An ecosystem in balance holds three balances — structure, function and input�
 
 In your mind's eye: two panels — a rainforest barely dented by a storm, and a burnt grassland regrowing shoot by shoot the next season.
 
+[Picture 38362 — stability two ways resisting and recovering]
+
 ## The key facts
 **Ch. 3 §5 Ecological balance and stability.** balance defined by three balances (structure, function, input–output); resistance stability against resilience stability, rainforest against Arctic tundra; raising stability by limiting use to the self-regulation range (closing hillsides to let them regreen) and by building "ecological barriers" — the Three-North Shelterbelt; the eucalyptus pure-plantation problem case, where undergrowth species fall as planting density rises from 750 to 1,000 stems per hectare.
 

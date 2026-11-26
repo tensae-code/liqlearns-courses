@@ -8,6 +8,8 @@ Ecological engineering designs or repairs ecosystems on ecological principles �
 
 In your mind's eye: the mulberry–silkworm–fishpond cycle drawn as a loop — mulberry leaves feed silkworms, silkworm waste feeds fish, pond mud feeds the mulberry trees.
 
+[Picture 38356 — the mulberrysilkwormfishpond loop]
+
 ## The key facts
 **Ch. 1 scientist story: Ma Shijun （马世骏）.** from 1952 he took on China's locust plague with "combine habitat change with control, uproot the locust disaster"; he originated the ecological-engineering principles (wholeness, coordination, cycling, self-generation) and the social–economic–natural complex ecosystem idea that Ch. 4 §3 later teaches as doctrine.
 

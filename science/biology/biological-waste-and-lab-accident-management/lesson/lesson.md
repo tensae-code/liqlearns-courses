@@ -8,6 +8,8 @@ Malaysia's Form 4 biology book treats what leaves the laboratory as examinable b
 
 In your mind's eye: a biology laboratory bench with labelled biological-waste containers beside the sink, a crossed-out arrow showing cultures must not be poured away, and the eye wash and emergency shower marked on the wall.
 
+[Picture 38282 — lab waste and accidents containers rules]
+
 ## The key facts
 **What may not go down the sink.** Not everything from an experiment may be poured away. The book names what may and may not go down the sink — living material, cultures and contaminated waste are not sink waste.
 

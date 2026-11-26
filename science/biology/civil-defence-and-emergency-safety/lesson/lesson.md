@@ -8,6 +8,8 @@ The last unit of Iraq's Grade 7 Biology book (Unit 4) is a safety unit inside a 
 
 In your mind's eye: a civil-defence scene in simple shapes: a uniformed rescue worker directing people to safety while a first-aider helps one injured person — the organised protection and the individual help side by side.
 
+[Picture 38323 — civil defence organised protection individual help]
+
 ## The key facts
 **What civil defence is.** Civil defence is the organised protection of the public in emergencies — the planned, collective work of keeping people safe when disaster or danger strikes a whole community, not only one patient.
 

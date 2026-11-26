@@ -8,6 +8,8 @@ Mozambique's plant module (Módulo 2) follows its bryophyte lesson with the full
 
 In your mind's eye: the Funaria cycle drawn as a circle. The green gametophyte plant with antheridia and archegonia, a swimming antherozoid crossing a water drop, then the sporophyte rising from the gametophyte on a stalk with its capsule, and spores falling from the capsule back to the ground.
 
+[Picture 38262 — the funaria cycle two generations in]
+
 ## The key facts
 **The gametophyte is the main plant.** The green moss plant is the haploid gametophyte — the dominant generation. It carries the sex organs: antheridia making antherozoids, archegonia holding the egg.
 

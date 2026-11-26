@@ -8,6 +8,8 @@ Animals hold themselves up three ways: Kenya's Form 4 book compares the skeleton
 
 In your mind's eye: three animals in a row, each with its skeleton drawn showing through — a worm as a fluid-filled tube, its liquid drawn pressed tight in segments — a grasshopper in its chitin armour, the plates and joints picked out and a shed empty skin beside it. And a rabbit with its white bone skeleton drawn inside the body, the bones shaded as living tissue.
 
+[Picture 38553 — three skeletons fluid armour bone]
+
 ## The key facts
 **The hydrostatic skeleton.** Support from fluid under pressure inside the body: the fluid resists compression, muscles squeeze against it, and the animal holds its shape and moves — a skeleton made of water.
 

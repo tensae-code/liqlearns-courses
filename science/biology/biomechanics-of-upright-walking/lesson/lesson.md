@@ -8,6 +8,8 @@ Upright walking is a physical balancing act: the spine's curves, the arched foot
 
 In your mind's eye: a walking figure drawn in the five phases of one step, with the spine's curves and the foot's arch marked and a vertical line from the centre of mass falling between the feet.
 
+[Picture 38284 — upright walking five phases of one]
+
 ## The key facts
 **§37 Biomechanical features of human movement connected with upright walking.** a "Movement. Biophysics" part: gait treated physically, unique to this book
 

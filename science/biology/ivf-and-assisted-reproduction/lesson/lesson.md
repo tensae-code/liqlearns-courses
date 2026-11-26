@@ -8,6 +8,8 @@ Assisted reproduction helps where natural conception fails — artificial insemi
 
 In your mind's eye: a laboratory dish where a fine needle brings a sperm to an egg, drawn simply, beside a calendar line from 1978 to 1988.
 
+[Picture 38453 — ivf help at the very first]
+
 ## The key facts
 **§2 scientist story "'Father of the test-tube baby' wins the Nobel Prize".** Edwards and Steptoe, Louise Brown in 1978, mainland China's first IVF baby at Peking University Third Hospital in 1988, and roughly four million IVF births by 2010. No existing lesson covers assisted reproduction.
 

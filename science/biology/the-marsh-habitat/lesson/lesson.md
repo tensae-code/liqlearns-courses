@@ -8,6 +8,8 @@ Chapter 14 of Nigeria's Senior Secondary Biology 1 works the terrestrial habitat
 
 In your mind's eye: a marsh scene. Waterlogged ground with reeds and sedges, a frog at the water's edge, and birds feeding in the shallows, the dry land rising behind.
 
+[Picture 38596 — the marsh wet ground reeds frogs]
+
 ## The key facts
 **A border habitat.** The marsh is a terrestrial-aquatic border habitat — ground that stays wet and waterlogged, between open water and dry land.
 

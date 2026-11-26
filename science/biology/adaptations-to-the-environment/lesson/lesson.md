@@ -8,6 +8,8 @@ Living things are not built at random: each carries features that fit the place 
 
 In your mind's eye: three panels side by side: a fish with gills and fins in water, a desert plant with a thick skin and deep roots under a hot sun, and a thick-furred animal in snow — each labelled with the feature that fits it to its place.
 
+[Picture 38248 — each feature fits its place water]
+
 ## The key facts
 **An adaptation fits an organism to its environment.** An adaptation is any feature — of build, of working, or of behaviour — that helps an organism survive and reproduce where it lives. The feature and the environment are a pair: judge an adaptation by the place it answers.
 

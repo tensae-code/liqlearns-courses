@@ -8,6 +8,8 @@ A fruit is classified by what it is built from and how its seeds were attached: 
 
 In your mind's eye: a market stall of opened fruits, each cut to show its making — a tomato berry, a mango drupe with its stone, a bean pod legume, a cotton capsule sprung open, a maize grain caryopsis and a macadamia nut. And beneath them a row of ovary cross-sections showing the five ways ovules are attached, the placentation types.
 
+[Picture 38403 — opened fruits at the market stall]
+
 ## The key facts
 **How a fruit develops.** After fertilisation the ovary grows into the fruit under gibberellin; in parthenocarpy — pineapple and banana — fruit forms without fertilisation, so it is seedless.
 

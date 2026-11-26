@@ -8,6 +8,8 @@ Protein engineering runs the central dogma in reverse: from the function wanted,
 
 In your mind's eye: an arrow running backwards along the dogma — wanted job, folded protein shape, amino-acid chain, gene. Each step drawn under its arrow.
 
+[Picture 38530 — backwards along the dogma job to]
+
 ## The key facts
 **Ch. 3 §4 Protein engineering.** the second-generation genetic engineering that runs the central dogma in reverse (wanted function → designed structure → amino-acid sequence → the gene to build); two single-residue changes raising maize lysine fivefold in leaves and twofold in seed; fast-acting insulin analogues (B28 proline swapped) that cannot clump; humanised mouse antibodies; a hundred-plus engineered subtilisins for detergents; and a heat-proofed T4 lysozyme held together by one designed disulfide bond.
 

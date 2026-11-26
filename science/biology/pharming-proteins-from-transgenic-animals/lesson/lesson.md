@@ -8,6 +8,8 @@ Pharming makes transgenic animals secrete human pharmaceutical proteins in their
 
 In your mind's eye: a goat drawn with a labelled udder and a churn beside it holding a medicine bottle, the chain from gene to milk to medicine marked in three steps.
 
+[Picture 38501 — pharming a goat that makes medicine]
+
 ## The key facts
 **Ch. 9.** pharmaceutical proteins secreted in the milk of transgenic animals
 

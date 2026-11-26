@@ -8,6 +8,8 @@ Cell division is two acts, not one: the nucleus divides (karyokinesis), and then
 
 In your mind's eye: an animal cell pinched in the middle by a deepening furrow until it parts in two, beside a plant cell with a new wall plate growing across its middle — both ending as two cells, each with its own nucleus.
 
+[Picture 38342 — cytokinesis pinched apart or walled apart]
+
 ## The key facts
 **Division has two acts.** First the nucleus divides — karyokinesis, the mitosis of the earlier lessons. Then the cytoplasm divides — cytokinesis. Only when both are done has one cell become two cells.
 

@@ -8,6 +8,8 @@ Every animal is a development before it is a body. North Macedonia's Grade 13 el
 
 In your mind's eye: a row of stages: one cell, the dividing ball of cleavage, the hollow ball, the ball folding in to make layers, and the young embryo with the three germ layers marked in three colours — each stage labelled.
 
+[Picture 38401 — embryology's foundations from one cell to]
+
 ## The key facts
 **Embryology studies development.** Embryology is the branch of biology that studies the embryo — the developing organism from the fertilised egg to birth or hatching. Its question is not what the body is, but how it comes to be.
 

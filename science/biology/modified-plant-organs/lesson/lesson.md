@@ -8,6 +8,8 @@ Bulgaria's Grade 7 book gives modified plant organs a topic of their own (Topic 
 
 In your mind's eye: three modified organs in a row. A curling tendril on a stick, a sharp thorn, and a swollen storage organ cut open.
 
+[Picture 38479 — modified organs grip guard store]
+
 ## The key facts
 **What a modification is.** A modified organ keeps its identity as a root, stem or leaf but its form is changed — flattened, sharpened, swollen or curled — so it can do a special job. The organ is recognised by where it grows and what it grows from, not by the job it now does.
 

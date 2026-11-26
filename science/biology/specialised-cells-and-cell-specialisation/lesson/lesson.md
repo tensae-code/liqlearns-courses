@@ -8,7 +8,11 @@ Most cells in a plant or an animal are not general-purpose. Each kind is special
 
 In your mind's eye: two cells side by side as seen under a microscope — a flat cheek cell and a ciliated cell with a fringe of cilia and a layer of mucus above it.
 
+[Picture 38559 — specialised cells flat and fringed]
+
 In your mind's eye: cilia beating in waves, sweeping a layer of mucus along the wall of the trachea.
+
+[GIF 38560 — cilia beat in waves sweeping mucus]
 
 ## The key facts
 **Fitted to one job.** A specialised cell's shape and parts suit the single job it does. It is not a general-purpose cell that does a bit of everything.

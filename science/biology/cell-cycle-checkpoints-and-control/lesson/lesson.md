@@ -8,6 +8,8 @@ the G1/S and M checkpoints tabulated: what each verifies (growth factors, DNA do
 
 In your mind's eye: the cell cycle drawn as a circle with two stop gates marked on it, labelled G1/S checkpoint and M checkpoint, each gate with a short list of what it verifies.
 
+[Picture 38309 — checkpoints the cycle's two stop gates]
+
 ## The key facts
 **Checkpoints.** Kuwait's new Grade 10 student book (Lesson 1-3, printed p. 52) tabulates the cell cycle's checkpoints: the G1/S checkpoint and the M checkpoint.
 

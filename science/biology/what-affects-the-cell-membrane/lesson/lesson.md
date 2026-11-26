@@ -8,6 +8,8 @@ Kenya's Grade 8 Integrated Science book first builds the membrane — its struct
 
 In your mind's eye: the cell membrane is a delicate, partly permeable skin of fat and protein — heat and chemicals such as acids and alkalis can damage it, and a damaged membrane leaks: the cell's contents escape and substances rush in uncontrolled. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38615 — a damaged membrane leaks step by]
+
 ## The key facts
 **A skin that chooses.** The cell membrane holds the cell together and controls what crosses it: some substances pass, others are kept in or out. That choosing — partial permeability — is the membrane's job, and it works only while the membrane is whole.
 

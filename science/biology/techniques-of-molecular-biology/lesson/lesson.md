@@ -8,6 +8,8 @@ Molecular biology works through a bench of named techniques — extracting and c
 
 In your mind's eye: a laboratory bench drawn with the technique stations in a row. Extraction tubes, a cutting enzyme, a gel tray with separated bands, a PCR machine and a sequence printout.
 
+[Picture 38575 — molecular techniques the bench in a]
+
 ## The key facts
 **Appendix.** "Techniques used in Biology" appendix (20 pages of named laboratory techniques)
 

@@ -8,6 +8,8 @@ Pakistan (Punjab)'s Grade 9 book gives the study of life a named religious frami
 
 In your mind's eye: an open school biology book whose first chapter shows a tree of the branches of biology beside a verse panel headed “Quranic Instructions to Reveal the Study of Life”, with small drawings of a plant, an animal and a human figure under it.
 
+[Picture 38533 — an open biology book branches and]
+
 ## The key facts
 **A named section, not a passing mention.** In *Biology Class 9 SNC* (Punjab Board), Chapter 1 — The Science of Biology — carries a numbered section of its own, 1.4: “Quranic Instructions to Reveal the Study of Life” (printed p. 8). The section sits inside the book's opening run: the branches of biology (1.1), biology's relation with the other sciences, careers in biology, and science as a collaborative field.
 

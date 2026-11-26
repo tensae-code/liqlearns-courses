@@ -8,6 +8,8 @@ A living thing cannot simply lie in a heap. A plant must hold itself up so its l
 
 In your mind's eye: a plant holding itself upright beside an animal standing on its legs, both labelled "support".
 
+[Picture 38571 — support the same job two kingdoms]
+
 ## The key facts
 **Support in plants.** A plant is held up from inside its own body — its stems and other parts keep it upright, spread its leaves towards the light and hold its flowers and fruits in place. Without support the plant would flop to the ground and could not catch the light it needs.
 

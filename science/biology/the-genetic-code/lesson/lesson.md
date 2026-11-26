@@ -8,6 +8,8 @@ The genetic code is the dictionary of life: bases are read in threes — codons 
 
 In your mind's eye: a codon table drawn as a grid of small squares, one square lit showing AUG labelled START, and three squares darkened labelled STOP.
 
+[Picture 38590 — the genetic code read in threes]
+
 ## The key facts
 **Unit 5, Act. 4 + Appendix.** the genetic code as a "musical code"; full code table in appendix (p. 87)
 

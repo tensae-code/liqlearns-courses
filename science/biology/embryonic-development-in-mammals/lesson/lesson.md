@@ -8,6 +8,8 @@ Mammals are the animals whose young do their early developing inside the mother.
 
 In your mind's eye: a fertilised egg cell dividing into 2, 4, 8 cells, the ball of cells settling into the wall of the uterus, and the growing embryo inside its sac with the placenta and cord joining it to the mother.
 
+[Picture 38367 — from one cell to an embryo]
+
 ## The key facts
 **It starts with one cell.** Fertilisation joins a sperm and an egg into one cell — the zygote. That one cell holds everything needed to begin a whole new mammal.
 

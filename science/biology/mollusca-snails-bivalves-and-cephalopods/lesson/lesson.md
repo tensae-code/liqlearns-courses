@@ -8,6 +8,8 @@ Mozambique's animal module gives Mollusca two lessons: the phylum's plan, then i
 
 In your mind's eye: a snail drawn with its spiral shell, head with eyes on tentacle tips and broad foot, beside an open bivalve showing two hinged valves and its axe-shaped foot, with a small magnified radula drawn as a toothed ribbon between them.
 
+[Picture 38482 — molluscs the snail and the bivalve]
+
 ## The key facts
 **The mollusc plan.** A mollusc has a soft, unsegmented body in three regions — head, visceral mass and foot — a shell in most kinds, and the radula, a scraping tongue used in feeding.
 

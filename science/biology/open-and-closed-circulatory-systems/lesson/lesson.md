@@ -8,6 +8,8 @@ Animals move substances two ways: in an open circulatory system the blood leaves
 
 In your mind's eye: two animal cross-sections side by side. A grasshopper whose heart pumps blood out of open vessel ends into body spaces, and a fish whose blood runs in a sealed loop of vessels.
 
+[Picture 38490 — open spills closed circulates]
+
 ## The key facts
 **§3.3.** transport in animals: open vs closed circulation, heart/vessels/blood; jellyfish exchanging directly by diffusion as the no-system case
 

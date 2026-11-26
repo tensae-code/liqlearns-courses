@@ -8,6 +8,8 @@ Epigenetics is inheritance by marks on the DNA — methylation that switches a g
 
 In your mind's eye: two identical mice, one yellow and one mottled, above the same DNA ladder with different small tags clipped onto it.
 
+[Picture 38376 — epigenetics same genes different marks]
+
 ## The key facts
 **§2, epigenetic inheritance.** toadflax flowers changed by methylation of the Lcyc gene and agouti mice whose identical Avy genes give yellow or mottled coats by methylation level, inherited without any change in base sequence; twins, queen and worker bees, and a society note that smoking raises methylation and damages sperm — epigenetics is in this book and in no existing lesson.
 

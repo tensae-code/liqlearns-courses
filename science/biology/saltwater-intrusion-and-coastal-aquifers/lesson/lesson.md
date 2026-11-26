@@ -8,7 +8,11 @@ Fiji's Year 12 Biology book teaches environmental issues from Fiji's own ground.
 
 In your mind's eye: a coast cut open underground — the sea on one side, the land on the other, fresh groundwater drawn as a pale lens floating on darker salt water, the boundary line marked, a village well drawing from the fresh lens, and an arrow showing the salt water pushing inland as the sea rises.
 
+[Picture 38543 — saltwater intrusion a lens of fresh]
+
 In your mind's eye: the boundary moving in steps — the sea rises a little, the salt water pushes further under the land and up toward the well, and the well water turns brackish. Say what moved and why.
+
+[Picture 38544 — the boundary moves in steps]
 
 ## The key facts
 **Fresh water floats on salt water.** Rain that soaks into coastal ground gathers as groundwater in an aquifer. Salt water from the sea also sits in the ground below the coast, and because salt water is denser, the fresh water rests on top of it. The boundary between the two — the saltwater/freshwater interface — is a balance: fresh water pressing down and out to sea, salt water pressing in.

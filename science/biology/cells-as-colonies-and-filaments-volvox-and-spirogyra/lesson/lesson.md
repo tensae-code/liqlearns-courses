@@ -8,6 +8,8 @@ A single cell can live alone. A tissue is many cells depending on each other. Ni
 
 In your mind's eye: a hollow Volvox ball made of many small cells beside a Spirogyra filament — a thread of cells, each with a spiral green chloroplast.
 
+[Picture 38315 — colonies and filaments many cells one]
+
 ## The key facts
 **The colony — Volvox.** Volvox is a hollow ball — a coenobium — of up to 20,000 cells living together as one colony. The cells stay joined in a single sphere instead of separating after division.
 

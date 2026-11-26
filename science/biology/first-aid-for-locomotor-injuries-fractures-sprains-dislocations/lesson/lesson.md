@@ -8,6 +8,8 @@ over-stretching or overloading a muscle beyond its capacity tears fibres (same p
 
 In your mind's eye: an arm with a torn muscle fibre bundle highlighted, beside small labelled sketches of a sprained joint and a bandaged fracture splint.
 
+[Picture 38390 — locomotor injuries torn sprained broken]
+
 ## The key facts
 **Muscle strain and tear.** Kuwait's new Grade 10 student book (Lesson 2-4, printed p. 136) teaches muscle strain and tear: over-stretching or overloading a muscle beyond its capacity tears its fibres.
 

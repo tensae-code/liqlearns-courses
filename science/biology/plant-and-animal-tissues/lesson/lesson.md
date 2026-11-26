@@ -8,6 +8,8 @@ One cell can only do so much. Bodies are built when similar cells team up: a tis
 
 In your mind's eye: microscope views of the tissue kinds in a row. A flat epithelial sheet, connective tissue with long fibres, striped muscle tissue, a nerve cell with long fibres, and a cut plant stem showing vascular bundles.
 
+[Picture 38507 — tissues under the microscope five kinds]
+
 ## The key facts
 **What a tissue is.** A tissue is a group of similar cells, alike in build, doing one job together — the level of organisation between the cell and the organ.
 

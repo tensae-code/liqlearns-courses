@@ -8,6 +8,8 @@ A plant is exchanging gases all the time, in two directions at once: Kenya's For
 
 In your mind's eye: a green plant in a bell jar drawn twice — by day with arrows of carbon dioxide going in and oxygen coming out under a bright sun, and by night with the arrows reversed under a moon. Beside a test tube of bicarbonate indicator changing colour and an upturned funnel collecting bubbles from a pondweed.
 
+[Picture 38406 — a plant breathes both ways day]
+
 ## The key facts
 **Two processes, opposite exchanges.** A plant carries on photosynthesis and respiration, and the gases move in opposite directions in the two: photosynthesis takes in carbon(IV) oxide and gives out oxygen; respiration takes in oxygen and gives out carbon(IV) oxide.
 

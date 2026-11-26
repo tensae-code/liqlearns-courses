@@ -8,6 +8,8 @@ Kazakhstan has its own breeding record — plant varieties and animal breeds sel
 
 In your mind's eye: a Kazakh steppe farm with a bred wheat variety and a bred sheep breed in front, each with a label naming it as a Kazakhstan breeding achievement, and a research institute building behind.
 
+[Picture 38300 — kazakhstan's breeding achievements institute behind]
+
 ## The key facts
 **§53 Selection achievements in Kazakhstan.** the country's own breeding record as a named §
 

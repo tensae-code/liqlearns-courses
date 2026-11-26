@@ -8,6 +8,8 @@ cells plus intercellular matrix plus fibres (thick collagen for tensile strength
 
 In your mind's eye: the four animal tissue kinds drawn in a row and labelled. A tightly packed epithelial sheet, connective tissue with cells scattered in matrix and fibres, striated muscle fibres, and a neuron with its fibres.
 
+[Picture 38267 — the four animal tissues side by]
+
 ## The key facts
 **What a tissue is made of.** Kuwait's new Grade 10 student book (Lesson 2-1, printed pp. 89–92) defines a tissue by its parts: cells plus intercellular matrix plus fibres — thick collagen for tensile strength, elastin, and reticular fibres. Learners build a model tissue from slime, buttons, elastic bands and glue.
 

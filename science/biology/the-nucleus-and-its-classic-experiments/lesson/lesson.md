@@ -8,6 +8,8 @@ The nucleus controls the cell, and its control role is proved by four classic ex
 
 In your mind's eye: four small panels in a row — a transplanted nucleus, a pinched egg, a cut amoeba and a grafted umbrella alga. Each with the same nucleus drawn dark.
 
+[Picture 38597 — the nucleus on trial four classic]
+
 ## The key facts
 **Ch. 3 §3 The nucleus.** its control role is proved by four classic experiments set side by side (axolotl nuclear transplant, salamander egg constriction, amoeba cutting, Acetabularia grafting), opened by a cloned-cow case; chromatin against chromosome closes it. No existing lesson is given to the nucleus itself.
 

@@ -8,6 +8,8 @@ Chapter 14 of Nigeria's Senior Secondary Biology 1 teaches grassland widely firs
 
 In your mind's eye: open savannah with scattered trees and tall grass, a farm plot and a line of bush fire at its edge, and behind them the rain forest the land would return to.
 
+[Picture 38545 — savannah open grass farms fire]
+
 ## The key facts
 **One habitat, many names.** Grassland is known around the world by local names: prairies, steppes, pampas and veldt — the same open grass habitat on different continents.
 

@@ -8,6 +8,8 @@ Once meristem's cells finish, they take jobs. North Macedonia's Biology II teach
 
 In your mind's eye: a cut stem in cross-section: soft thin-walled parenchyma filling the middle, strands of thick-walled mechanical tissue standing like pillars at the corners, each labelled with its job — filling and working, holding up.
 
+[Picture 38417 — plant tissues soft filling strong pillars]
+
 ## The key facts
 **Parenchyma is the ground tissue.** Parenchyma is the basic living tissue of the plant: thin-walled cells with large vacuoles, filling the soft parts — the pith and cortex of stems, the flesh of fruits, the inside of leaves. It is the plant's general-purpose tissue.
 

@@ -8,6 +8,8 @@ Agroecosystems are artificial ecosystems that began when sedentary life domestic
 
 In your mind's eye: a farm field laid out as an agroecosystem — crops, animals and farmer together. With a crop-rotation plan drawn beside it.
 
+[Picture 38257 — the farm as an ecosystem]
+
 ## The key facts
 **4.5 Artificial ecosystems: agroecosystems.** Moldova's Grade 12 book (4.5 Artificial ecosystems: agroecosystems) teaches: sedentary life and domestication as the origin of artificial ecosystems; sustainable agriculture needing ecological technologies and rational crop rotation. (printed p. 143).
 

@@ -8,6 +8,8 @@ Chapter 6 of Iraq's Grade 10 Biology book is the book's longest chapter — prin
 
 In your mind's eye: a bony fish and a pigeon side by side, each labelled with the fittings that suit it to its home — the fish to water, the pigeon to land.
 
+[Picture 38264 — fitted to their homes the fish]
+
 ## The key facts
 **Adaptation in three registers.** An animal's adaptation is read in its form (its outward shape), its structure (how it is built inside) and its ways of life (how it feeds, moves and lives) — Iraq's chapter treats all three together, not shape alone.
 

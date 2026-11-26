@@ -8,6 +8,8 @@ Some diseases are best fought at their carrier. Chapter 12 of Nigeria's Senior S
 
 In your mind's eye: a tsetse fly with its life-cycle stages around it, beside a cleared riverbank strip labelled 'shade resting places cleared' and cattle marked 'nagana-resistant breed'.
 
+[Picture 38610 — tsetse and trypanosomiasis breaking the cycle]
+
 ## The key facts
 **Control the vector.** Where a vector carries a disease, controlling the vector controls the disease — the chapter's principle, worked for the mosquito and then the tsetse fly.
 

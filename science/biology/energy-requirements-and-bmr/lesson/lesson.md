@@ -8,6 +8,8 @@ How much energy a person needs is not one number for everybody: Kenya's Form 1 b
 
 In your mind's eye: two Kenyans side by side — a labourer pulling a loaded cart and an office worker sitting at a desk. Each with an energy bar beside them, the labourer's bar far taller, and beneath both a small resting figure marked as the basal rate, the energy a body uses doing nothing at all.
 
+[Picture 38373 — energy needs the work sets the]
+
 ## The key facts
 **Basal metabolic rate — the floor.** The basal metabolic rate (BMR) is the energy the body uses at complete rest, just to stay alive — breathing, heartbeat, warmth. Every person's daily requirement starts from this floor.
 

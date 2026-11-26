@@ -8,6 +8,8 @@ Hormones are medicines as well as messengers: the same chemistry that lets the b
 
 In your mind's eye: an insulin pen beside a vial labelled hormone medicine, and a crossed-out syringe labelled anabolic steroids beside a sports kit bag.
 
+[Picture 38428 — hormones in medicine and steroids]
+
 ## The key facts
 **Replacement — giving what the body lacks.** Where a gland makes too little of its hormone, the hormone itself can be given as medicine: insulin for diabetes is the standing example — the missing hormone supplied from outside so blood sugar can be regulated again.
 

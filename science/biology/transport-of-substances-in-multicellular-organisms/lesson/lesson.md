@@ -8,6 +8,8 @@ A multicellular organism is too big for diffusion alone, so substances must be c
 
 In your mind's eye: a plant and a small animal side by side, arrows carrying labelled loads — water and food in the plant's vessels, oxygen and food in the animal's blood. From source to farthest cell in each.
 
+[Picture 38607 — transport in two kingdoms]
+
 ## The key facts
 **§16 The importance of transport of substances for the life activity of living organisms.** §16 The importance of transport of substances for the life activity of living organisms
 

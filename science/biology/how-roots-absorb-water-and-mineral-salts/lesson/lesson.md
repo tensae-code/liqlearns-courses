@@ -8,6 +8,8 @@ A root does its absorbing through its zones — cap, division, growth, absorptio
 
 In your mind's eye: a young root drawn long, its four zones labelled in bands — cap, division, growth, absorption with fine root hairs, conduction. With water and mineral arrows entering at the hairs and travelling upward.
 
+[Picture 38431 — the root's zones hairs drink the]
+
 ## The key facts
 **§18 Root zones.** root cap, division, growth, absorption and conduction zones
 

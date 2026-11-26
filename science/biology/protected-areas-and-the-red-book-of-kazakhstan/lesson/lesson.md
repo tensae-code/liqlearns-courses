@@ -8,6 +8,8 @@ Kazakhstan guards its nature through a network of specially protected areas — 
 
 In your mind's eye: a map of Kazakhstan dotted with reserve and national-park shields, beside an open Red Book showing a snow leopard, a Caspian seal and a small Selevinia, each named.
 
+[Picture 38529 — protected areas and the red]
+
 ## The key facts
 **§1.6 Specially protected natural areas of Kazakhstan.** state reserves, national parks (10 reserves, 11 national parks, 50 sanctuaries as printed), the Red Book of Kazakhstan and its listed species (snow leopard, Caspian seal, saiga-type entries) on p. 17
 

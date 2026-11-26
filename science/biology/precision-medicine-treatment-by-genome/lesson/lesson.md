@@ -8,6 +8,8 @@ Precision medicine builds diagnosis and treatment on the patient's own genome: t
 
 In your mind's eye: two patients holding the same medicine bottle, a genome strip above each — a tick over the one whose mutation the drug targets, a cross over the other.
 
+[Picture 38523 — precision medicine the same bottle two]
+
 ## The key facts
 **§1 STS feature "Precision medicine".** why the same drug cures one patient and harms another: diagnosis and treatment built on the patient's own genome and big-data analysis, targeted cancer drugs chosen by mutation (and useless, even harmful, without it), and the obstacles named — data privacy, ethics, and the sheer volume of sequence data. No existing lesson covers precision medicine.
 

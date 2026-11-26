@@ -8,7 +8,11 @@ Afghanistan's Grade 8 Biology book pairs its survey of the country's birds and m
 
 In your mind's eye: a village economy in four panels — a fisher with his catch, hens and eggs in a yard, a sheep being shorn, and a donkey carrying a load on a mountain path. Each panel labelled with what the animal gives.
 
+[Picture 38359 — what the village animals give panel]
+
 In your mind's eye: a donkey train carrying goods up a mountain path while swallows sweep insects over the fields below and a fisher casts his net in the river. Name one gain from each group as it appears.
+
+[Picture 38360 — three groups at work transport pest]
 
 ## The key facts
 **Fish give food and income.** From rivers and lakes, fish bring protein to the table and money to the fisher. Fish farming adds a managed supply, and dried or sold fish carry the value far from the water where they were caught.

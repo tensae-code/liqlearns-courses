@@ -8,6 +8,8 @@ Every living thing in this course belongs somewhere, and the first sorting Ugand
 
 In your mind's eye: a plant rooted in the ground with green leaves beside an animal walking past it; arrows show the plant making food from sunlight and the animal eating.
 
+[Picture 38576 — plant or animal rooted maker walking]
+
 ## The key facts
 **Making food vs eating.** A plant makes its own food: its green parts hold chlorophyll, the green substance that traps sunlight for photosynthesis. An animal has no chlorophyll and cannot make food — it must eat plants, or eat other animals that ate plants.
 

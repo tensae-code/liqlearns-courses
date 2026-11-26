@@ -8,6 +8,8 @@ In a flowering plant, fertilisation is double: of the two male gametes a pollen 
 
 In your mind's eye: a pollen tube entering an embryo sac, releasing two male gametes — one arrow to the egg cell labelled 'zygote → embryo', the other to the two polar nuclei labelled 'endosperm → food store'. Inside a young seed.
 
+[Picture 38353 — double fertilisation two fusions one seed]
+
 ## The key facts
 **Two gametes, two fusions.** A pollen grain carries two male gametes into the embryo sac. Double fertilisation is the two fusions that follow — it is the defining event of reproduction in the flowering plants.
 

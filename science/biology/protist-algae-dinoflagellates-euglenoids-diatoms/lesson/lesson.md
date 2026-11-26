@@ -8,6 +8,8 @@ Mozambique's first PESD II module (Módulo 1) treats the protist algae inside th
 
 In your mind's eye: three protist algae drawn large side by side: an euglena with its single long flagellum, a diatom in its glassy silica box, and a dinoflagellate with its two flagella — above a night sea whose wave-crests sparkle with tiny lights.
 
+[Picture 38531 — protist algae three body plans]
+
 ## The key facts
 **Three phyla of protist algae.** The module names the algal phyla Euglenophyta, Chrysophyta and Pyrrophyta (the dinoflagellates) — the plant-like protists, sorted by their pigments, walls and flagella.
 

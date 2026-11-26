@@ -8,6 +8,8 @@ Chapter 6 of Nigeria's Senior Secondary Biology 1 works through feeding mechanis
 
 In your mind's eye: a fish head with gill rakers straining plankton from water flowing through its gills, beside a blue whale's baleen plates and an animal eating its way through soil.
 
+[Picture 38386 — filter feeding and deposit feeding]
+
 ## The key facts
 **Filter feeding strains the water.** A filter feeder passes water across a straining surface and keeps the fine food particles — no hunting, the food comes with the current.
 

@@ -8,6 +8,8 @@ The placenta feeds the fetus but does not seal it off: alcohol, nicotine and nar
 
 In your mind's eye: a mother and her womb drawn in outline, the placenta in the middle with three crossed-out items at its edge — a cigarette, an alcohol bottle and a drug packet. And arrows showing what the placenta passes.
 
+[Picture 38422 — the placenta a gate that passes]
+
 ## The key facts
 **10.4 The effect of harmful substances on the fetus.** 10.4 The effect of harmful substances on the fetus
 

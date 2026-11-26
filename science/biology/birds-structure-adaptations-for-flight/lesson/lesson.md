@@ -8,6 +8,8 @@ shared bird characteristics and bird evolution; beaks matched to diet (short thi
 
 In your mind's eye: a bird in flight with its adaptations labelled. Beak, air sacs and lungs with the one-way air path drawn, and a cut long bone showing struts and air cavities inside.
 
+[Picture 38286 — built for flight beak air sacs]
+
 ## The key facts
 **Shared bird characteristics.** Kuwait's Grade 10 Term 2 student book (Unit 3, Lesson 2-2, printed p. 93) teaches the birds through their shared characteristics and their evolution.
 

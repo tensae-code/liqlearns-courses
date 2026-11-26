@@ -8,6 +8,8 @@ Arachnids — spiders, ticks and scorpions — are arthropods whose body is buil
 
 In your mind's eye: a spider, a tick and a scorpion side by side, each labelled with its cephalothorax and abdomen.
 
+[Picture 38270 — arachnids two body parts eight legs]
+
 ## The key facts
 **2.9 Class Arachnids.** Moldova's Grade 7 book (2.9 Class Arachnids) teaches: spiders, ticks and scorpions; cephalothorax and abdomen; tick-borne encephalitis and mowing grass as prevention debated. (printed p. 44).
 

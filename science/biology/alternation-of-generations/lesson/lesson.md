@@ -8,6 +8,8 @@ A spore plant's life is a relay between two different bodies. North Macedonia's 
 
 In your mind's eye: two circles side by side: the moss cycle with the green leafy gametophyte drawn large and the small sporophyte growing out of it, and the fern cycle with the large leafy sporophyte drawn large and the tiny heart-shaped gametophyte beneath — spores and gametes marked on each.
 
+[Picture 38263 — moss and fern the big generation]
+
 ## The key facts
 **Two generations take turns.** The life cycle alternates: a diploid sporophyte generation makes spores, and a haploid gametophyte generation makes gametes. Spores grow into gametophytes; gametes join at fertilisation to make the next sporophyte. Neither generation replaces the other — they hand over.
 

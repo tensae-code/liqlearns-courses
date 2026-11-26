@@ -8,6 +8,8 @@ squeezing lemon quarters into a cup of dark tea step by step and recording colou
 
 In your mind's eye: two beakers side by side: in the first, lemon juice being squeezed into dark tea and the tea turning paler step by step; in the second, vinegar meeting baking-powder solution with bubbles rising — labels under each naming the sign of reaction it shows.
 
+[Picture 38551 — signs of a chemical reaction colour]
+
 ## The key facts
 **Lemon in tea.** Kuwait's Grade 10 applications workbook (Activity 15, printed p. 42) squeezes lemon quarters into a cup of dark tea step by step and records the colour and taste changes; the sour taste is citric acid, a chemical — and the changes are the evidence that a chemical reaction happened (a "link with chemistry" box).
 

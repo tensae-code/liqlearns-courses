@@ -8,6 +8,8 @@ A totipotent cell can make a whole organism, and stem cells carry that power at 
 
 In your mind's eye: a tree whose trunk is one cell. Its branches end in a carrot plant, a sheep, two monkeys and a blood-cell family, each labelled with its year.
 
+[Picture 38562 — totipotency one cell a tree of]
+
 ## The key facts
 **Ch. 3 feature "The world's first somatic-cell cloned monkeys".** Zhongzhong and Huahua (2017), the first primate somatic-cell clones: the three technical hurdles that had blocked primates, and the text states China's ban on human cloning outright. (The same proposed lesson is exercised again from Ch. 6 §2 below.)
 

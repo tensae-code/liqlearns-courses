@@ -8,6 +8,8 @@ You already know that classification groups living things by what they share. Th
 
 In your mind's eye: two sorting tables side by side. On the first, organisms sorted by what they look like, their shape and structure; on the second, the same organisms sorted by a strip representing their genetic material.
 
+[Picture 38324 — two sortings by looks or by]
+
 ## The key facts
 **Morphological classification.** التصنيف الشكلي — classification by form: organisms are grouped by their morphology, their outward shape and structure — the characteristics that can be seen, compared and measured.
 

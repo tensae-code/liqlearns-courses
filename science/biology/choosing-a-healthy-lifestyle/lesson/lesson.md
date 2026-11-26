@@ -8,6 +8,8 @@ A healthy lifestyle is a plan a person designs and lives by — balanced meals, 
 
 In your mind's eye: a one-week planner page filled in with meals, exercise, sleep times and group activities, with a tick showing the week was actually lived.
 
+[Picture 38320 — a healthy week planned and]
+
 ## The key facts
 **§2, design task.** pupils design and carry out "a week of healthy living" (balanced meals, exercise, regular hours, no smoking or drinking, sensible screen time, group activities) and keep the habits long-term; the chapter's healthy-lifestyle content is a plan to live by, not a disease topic, and no existing lesson holds it.
 

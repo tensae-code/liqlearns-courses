@@ -8,6 +8,8 @@ Mozambique's animal module takes Cnidaria (Coelenterata) as its second phylum. T
 
 In your mind's eye: a polyp drawn upright on a rock with tentacles up, beside a medusa drawn as the same animal turned upside down like a swimming bell, with one tentacle magnified to show a stinging cell and its nematocyst thread.
 
+[Picture 38328 — cnidaria the same animal two ways]
+
 ## The key facts
 **Radial symmetry.** The cnidarian body is arranged radially — parts repeated around a central axis — unlike the two-sided (bilateral) plan of the worms that follow in the module.
 

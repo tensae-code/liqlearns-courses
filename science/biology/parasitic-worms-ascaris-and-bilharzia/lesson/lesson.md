@@ -8,6 +8,8 @@ Two worms, two roads into the body: Kenya's Form 3 book teaches Ascaris lumbrico
 
 In your mind's eye: two life-road maps side by side — on one side the roundworm Ascaris: eggs swallowed from contaminated soil, a larva's dotted journey through liver, heart and lungs, and the adult worm coiled in the intestine. On the other side the bilharzia fluke: eggs to water, cercariae streaming from a Biomphalaria snail, piercing a bather's skin, and the paired adults settled in their host.
 
+[Picture 38496 — two worm life-roads mapped]
+
 ## The key facts
 **Ascaris — the road in.** Ascaris lumbricoides is transmitted by swallowing its eggs; the larva then migrates through the liver, heart and lungs before the adult settles in the intestine, with effects on the host along the way and at the end of the road.
 

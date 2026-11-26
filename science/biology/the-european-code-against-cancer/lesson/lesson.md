@@ -8,6 +8,8 @@ The European Code Against Cancer is a short public list of everyday rules — do
 
 In your mind's eye: a poster page with a row of simple rule icons — a crossed cigarette, a plate of vegetables, a walking figure, a sun with a hat. Above a set of numbered rule lines.
 
+[Picture 38587 — a poster of rules against cancer]
+
 ## The key facts
 **Appendix.** European Code Against Cancer reproduced as a health appendix (Greek/EU way of teaching cancer prevention)
 

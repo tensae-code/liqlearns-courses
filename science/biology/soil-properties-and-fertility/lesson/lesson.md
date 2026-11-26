@@ -8,6 +8,8 @@ Soil looks like one plain brown stuff, but it is a mixture — of mineral parts 
 
 In your mind's eye: a clear bottle of shaken soil and water settling into visible layers, with a ruler beside it measuring each layer's height.
 
+[Picture 38557 — soil settles into layers measure each]
+
 ## The key facts
 **Soil is a mixture that settles into layers.** Shake soil with water in a bottle and let it stand: the parts separate and settle by weight into layers — coarse heavy parts at the bottom, finer parts above, the lightest matter at the top. The settled layers show, visibly, what the soil is made of.
 

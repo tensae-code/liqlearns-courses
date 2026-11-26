@@ -8,6 +8,8 @@ The plasma membrane is also a receiver: it carries receptor proteins that catch 
 
 In your mind's eye: a cell surface with a receptor catching a round message molecule, and a chain of small arrows lighting up inside the cell in answer.
 
+[Picture 38313 — the membrane as receiver caught outside]
+
 ## The key facts
 **§2.2.** the plasma membrane as a receiver of messages
 

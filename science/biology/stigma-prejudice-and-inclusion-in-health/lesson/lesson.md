@@ -8,6 +8,8 @@ Mozambique's fourth PESD I module (2023) carries a lesson that many biology cour
 
 In your mind's eye: two panels: in the first, a person stands outside a closed circle of neighbours with labels above the scene — alcoholism, mental illness, race, religion. And arrows of judgement pointing at them; in the second, the circle is open and the same person stands inside it, labelled inclusion.
 
+[Picture 38564 — stigma shuts the circle inclusion opens]
+
 ## The key facts
 **Stigma — individual.** Stigma is a mark of disgrace that excludes. Its individual form fastens on a person — as around alcoholism, mental illness or homosexuality.
 

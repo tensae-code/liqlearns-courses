@@ -8,6 +8,8 @@ Animals migrate — they travel between places as the seasons change — and the
 
 In your mind's eye: a map with arrows showing migration routes. Lemmings moving over land, a salmon swimming up a river and an eel crossing the sea.
 
+[Picture 38266 — migration journeys written on the map]
+
 ## The key facts
 **5.2 Migrations in animals.** Moldova's Grade 7 book (5.2 Migrations in animals) teaches: migration causes, "explosive" migration of lemmings, salmon and eel migration schemes. (printed p. 139).
 

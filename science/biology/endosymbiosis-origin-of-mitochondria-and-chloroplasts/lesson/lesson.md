@@ -8,6 +8,8 @@ Every learner who meets the organelles asks, sooner or later, where mitochondria
 
 In your mind's eye: the ancient pact in three panels — a free-living bacterium beside a larger cell; the bacterium taken inside the cell; the bacterium become a mitochondrion, working inside the cell that hosts it.
 
+[Picture 38371 — endosymbiosis the guest that became the]
+
 ## The key facts
 **The claim: organelles that were once bacteria.** The endosymbiosis hypothesis says mitochondria and chloroplasts did not begin as parts of the cell: they began as free-living bacteria, taken inside another cell, which stayed and lived there.
 

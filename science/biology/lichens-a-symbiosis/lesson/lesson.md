@@ -8,7 +8,11 @@ Afghanistan's Grade 8 Biology book closes its microbe chapter with the lichens (
 
 In your mind's eye: a slice through a lichen, labelled — fungal hyphae woven through the body with algal cells dotted among them. Beside the same lichen whole on a rock in its crust form.
 
+[Picture 38457 — a lichen in slice and]
+
 In your mind's eye: rain wetting a dry grey lichen on a stone — it swells and greens as the algal cells wake and photosynthesise, and food passes to the fungal threads around them. Name each partner and its gift.
+
+[Picture 38458 — rain wakes the lichen each partner]
 
 ## The key facts
 **Two partners, one body.** Cut a lichen open and you find two partners woven together — fungal threads (hyphae) forming the body, and algal or cyanobacterial cells living among them. Neither partner is the whole lichen; the lichen exists only where the two live as one.

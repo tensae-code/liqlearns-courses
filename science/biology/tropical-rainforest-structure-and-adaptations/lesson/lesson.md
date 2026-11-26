@@ -8,6 +8,8 @@ Chapter 14 of Nigeria's Senior Secondary Biology 1 studies the forest practicall
 
 In your mind's eye: a rain-forest cross-section in storeys. Buttress-rooted emergents, canopy, climbers, and shade plants on the floor, one leaf enlarged to show its drip tip.
 
+[Picture 38609 — rainforest storeys four layers of life]
+
 ## The key facts
 **Built in storeys.** The rain forest grows in layers — storeys of vegetation from the shaded floor to the high canopy, each storey its own light and living conditions.
 

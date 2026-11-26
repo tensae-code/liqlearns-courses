@@ -8,6 +8,8 @@ A pest is a living population, so it can be fought with living means. Vietnam's 
 
 In your mind's eye: a dragon-fruit field worked as a system in four panels: a ladybird hunting aphids on a stem; a release tube of sterile male fruit flies; a pheromone trap hanging from a branch; and a maize plant carrying a resistance gene, drawn as a shield in its leaves — with a faded spray bottle crossed out in the corner.
 
+[Picture 38280 — biological control allies traps and bred]
+
 ## The key facts
 **The definition and the limits.** Biological control uses natural enemies or biological products to shrink or wipe out a pest population. Vietnam's book states the limits in the same breath: slow, unable to answer an outbreak, and costly — a part of integrated pest management, not a magic replacement for it.
 

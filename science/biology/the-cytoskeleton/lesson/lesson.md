@@ -8,6 +8,8 @@ The cytoskeleton is the cell's inner scaffolding of protein fibres — microtubu
 
 In your mind's eye: a cell drawn with three kinds of inner ropes in different colours — thick tubes, thin threads and tough cables. One tube shown pulling a chromosome.
 
+[Picture 38583 — the cytoskeleton ropes inside the cell]
+
 ## The key facts
 **§2.3.** the cytoskeleton
 

@@ -8,6 +8,8 @@ Microbes are grown on media built from a carbon source, a nitrogen source, salts
 
 In your mind's eye: a streak plate with colonies thinning out along the streak lines until single colonies stand alone, beside a spread plate dotted with counted colonies.
 
+[Picture 38418 — growing microbes streak spread count]
+
 ## The key facts
 **Ch. 1 §2 Culturing microbes.** media built from carbon source, nitrogen source, salts and water, tuned for pH, vitamins and oxygen; pure culture by streak plate and dilution spread plate; selective media explained by the Yellowstone hot-spring bacterium that yielded Taq polymerase; viable counting on the 30–300 colony rule with its underestimate honestly stated; and the capstone practical — isolating and counting urea-decomposing bacteria from soil on a urea-only-nitrogen medium, with Congo-red screening of cellulose decomposers in the exercises.
 

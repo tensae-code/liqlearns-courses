@@ -8,6 +8,8 @@ building a membrane model from a glass dish of water, vegetable oil and fine saw
 
 In your mind's eye: a glass dish of water with a film of vegetable oil on top and fine sawdust sprinkled on the oil, labelled part by part. Water, oil and sawdust, with arrows to the parts of a real cell membrane each one stands for.
 
+[Picture 38476 — modelling the membrane each part stands]
+
 ## The key facts
 **The model.** Kuwait's Grade 10 applications workbook (Activity 3, printed p. 20) has pupils design a sample — a model — for a cell membrane from a glass dish of water, vegetable oil and fine sawdust.
 

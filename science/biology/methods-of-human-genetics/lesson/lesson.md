@@ -8,6 +8,8 @@ Human genetics cannot make breeding experiments on people, so it reads heredity 
 
 In your mind's eye: a pedigree chart of squares and circles over three generations beside a pair of identical twins and a pair of fraternal twins, each pair with its comparison label.
 
+[Picture 38472 — human genetics pedigrees and twin comparisons]
+
 ## The key facts
 **§41 Human genetics and its research methods.** §41 Human genetics and its research methods
 

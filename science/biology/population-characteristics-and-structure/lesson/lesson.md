@@ -8,6 +8,8 @@ A population — living matter organised at its own level — is described by it
 
 In your mind's eye: a population of animals in a field with its characteristics listed beside it — numbers, and the sex structure shown as a ratio of females to males.
 
+[Picture 38519 — describing a population how many of]
+
 ## The key facts
 **4.2 Organisation of living matter: populations.** Moldova's Grade 12 book (4.2 Organisation of living matter: populations) teaches: life at successive levels; population characteristics numbered, including sex structure (ratio of females to males); primary consumers as phytophages feeding on plant tissues. (printed p. 130).
 

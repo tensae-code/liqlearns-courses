@@ -8,6 +8,8 @@ An ecosystem is investigated where it actually is: go out into an ecosystem from
 
 In your mind's eye: pupils on a field excursion in a Moldovan temperate-climate ecosystem, notebook in hand, with a partly completed trophic chain drawn beside them.
 
+[Picture 38452 — fieldwork an ecosystem read on foot]
+
 ## The key facts
 **5.3 An ecosystem from the school's area.** Moldova's Grade 8 book (5.3 An ecosystem from the school's area) teaches: Moldova's temperate-climate ecosystem types, field excursion and completing a trophic chain for the local ecosystem. (printed p. 124).
 

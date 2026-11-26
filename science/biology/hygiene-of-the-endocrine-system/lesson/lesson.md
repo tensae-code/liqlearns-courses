@@ -8,6 +8,8 @@ The endocrine glands are kept healthy by hygiene: the risk factors and gland dis
 
 In your mind's eye: the endocrine glands of a human figure with a set of hygiene rule cards beside them — food, rest and avoiding risk factors.
 
+[Picture 38440 — endocrine hygiene the rule cards]
+
 ## The key facts
 **4.9 Hygiene of the endocrine system.** Moldova's Grade 8 book (4.9 Hygiene of the endocrine system) teaches: risk factors and gland disorders set out as rules, diet restrictions for endocrine health. (printed p. 62).
 

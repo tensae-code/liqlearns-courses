@@ -8,6 +8,8 @@ Organisms carry adaptations — features that fit them to their environment — 
 
 In your mind's eye: a dry Greek hillside with a pine and an olive tree, their small hard leaves labelled, beside a plane tree by a stream with broad leaves, the two habitats marked dry and wet.
 
+[Picture 38247 — dry land small leaves wet land]
+
 ## The key facts
 **§1.4.** interactions and adaptations: pine/olive needle-like hard leaves vs plane tree in dry vs wet habitats, taught by comparing Greek Mediterranean plants
 

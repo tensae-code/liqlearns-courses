@@ -8,6 +8,8 @@ Malaysia's Form 5 book names green technology as a sustainability practice in it
 
 In your mind's eye: a landscape combining solar panels, a wind turbine, a recycling plant and a replanted forest slope, labelled as green technology in practice.
 
+[Picture 38416 — green technology sun wind recycling regrowth]
+
 ## The key facts
 **What 'green' means here.** A technology is green when it is designed to lessen harm to the environment — cleaner energy, less waste, fewer resources used — not merely when it is new or efficient for its owner.
 

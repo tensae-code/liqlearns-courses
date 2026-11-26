@@ -8,6 +8,8 @@ Human populations vary — in skin colour, blood groups, body build and a thousa
 
 In your mind's eye: a row of people from many regions with a gentle gradient of skin tones and a chart beneath showing most variation arrows inside each group rather than between groups.
 
+[Picture 38433 — human diversity more alike than different]
+
 ## The key facts
 **§3.4.7.** diversity in human populations: variation within one species, no separate races in the biological sense
 

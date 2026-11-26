@@ -8,6 +8,8 @@ A green plant does not live on light, air and water alone: it must take in miner
 
 In your mind's eye: two seedlings of the same plant side by side — one grown with the full mineral solution, one grown with one essential element left out and showing its deficiency symptoms.
 
+[Picture 38474 — mineral nutrition complete food or one]
+
 ## The key facts
 **Essential elements.** Photosynthesis builds the plant's food, but building the plant itself takes mineral elements, taken in through the roots from the soil or the water around them. An element is essential when the plant cannot grow and complete its life without it — India's chapter separates these essential elements from everything else a plant may happen to absorb.
 

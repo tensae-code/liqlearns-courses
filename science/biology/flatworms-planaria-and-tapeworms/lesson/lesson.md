@@ -8,6 +8,8 @@ among the first animals with three embryonic germ layers (ectoderm, endoderm, me
 
 In your mind's eye: a planarian drawn flat with its two eye spots labelled, beside a fluke life-cycle circle showing the human as the primary host.
 
+[Picture 38394 — flatworms the free planarian the parasitic]
+
 ## The key facts
 **Three germ layers.** Kuwait's Grade 10 Term 2 student book (Unit 2, Lesson 2-1, printed pp. 31–35) introduces flatworms as among the first animals with three embryonic germ layers: ectoderm, endoderm and mesoderm.
 

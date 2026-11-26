@@ -8,7 +8,11 @@ Afghanistan's Grade 9 Biology book closes its excretory chapter with kidney prob
 
 In your mind's eye: a haemodialysis machine at work, labelled — blood leaving the patient's arm, passing through the dialyser (artificial kidney) where wastes cross the membrane, and the cleaned blood returning.
 
+[Picture 38454 — haemodialysis an artificial kidney at work]
+
 In your mind's eye: blood flowing from a patient's arm into a dialyser — dark with wastes going in, clean coming out — while waste fluid drains away below. Say which kidney job the machine is doing.
+
+[Picture 38455 — dialysis the blood washed outside the]
 
 ## The key facts
 **What failure means.** Healthy kidneys clear urea, balance salts and shed excess water without pause. As they fail, those jobs go undone — wastes poison the blood, water swells the body and lungs, and salts drift out of balance until the heart itself is threatened.

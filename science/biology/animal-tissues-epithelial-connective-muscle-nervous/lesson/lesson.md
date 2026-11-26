@@ -8,6 +8,8 @@ An animal's cells are organised into four tissue kinds — epithelial tissue cov
 
 In your mind's eye: four panels side by side. A sheet of covering cells, a connective sample of bone and blood, a striped muscle bundle, and a nerve cell with its long fibre.
 
+[Picture 38268 — four tissues again sheet support muscle]
+
 ## The key facts
 **§1.3.** the kinds of animal tissues as their own topic
 

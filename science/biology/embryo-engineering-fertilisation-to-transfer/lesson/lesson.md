@@ -8,6 +8,8 @@ Embryo engineering works with the early embryo: sperm capacitation and fertilisa
 
 In your mind's eye: an early embryo's journey in stages — fertilised egg, cleaving ball, morula, blastocyst with inner cell mass labelled. With a pipette transferring one embryo.
 
+[Picture 38366 — an embryo's first journey stage by]
+
 ## The key facts
 **Ch. 2 §3 Embryo engineering.** the theory base in full (sperm capacitation, the egg's two blocks to polyspermy, male and female pronuclei, cleavage, morula, blastocyst with inner cell mass and trophoblast, gastrula); then IVF (China's work from the late 1980s, human and cattle technique at world level), embryo transfer (3–4 calves per flush, a dozen or more offspring per donor cow per year against four or five in a lifetime), and embryo splitting (halves best; China's split-embryo work across mouse, rabbit, sheep, goat and cattle); the northern white rhino — two females left in 2018, frozen sperm saved — as the closing problem.
 

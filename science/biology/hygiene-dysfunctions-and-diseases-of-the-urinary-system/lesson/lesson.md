@@ -8,6 +8,8 @@ The urinary system is kept healthy by hygiene, and its dysfunctions and diseases
 
 In your mind's eye: the kidneys, ureters and bladder with a kidney stone marked, beside a person holding their back in pain.
 
+[Picture 38438 — the urinary system and a]
+
 ## The key facts
 **§40 Hygiene, dysfunctions and diseases of the urinary system.** Moldova's Grade 11 book (§40 Hygiene, dysfunctions and diseases of the urinary system) teaches: kidney-stone (calculi) pain often confused with radiculitis, delaying treatment. (printed p. 131).
 

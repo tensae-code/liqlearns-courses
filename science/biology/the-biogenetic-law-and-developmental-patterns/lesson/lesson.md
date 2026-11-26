@@ -8,6 +8,8 @@ Development is not random: an individual organism passes through its development
 
 In your mind's eye: a row of embryos at matching early stages — fish, bird, mammal. Drawn alike at first and diverging as they develop, with an arrow marked "ontogeny" over the row and "phylogeny" under it.
 
+[Picture 38579 — embryos alike at first diverging as]
+
 ## The key facts
 **Ontogenesis (ontogeny) is one individual's development.** It runs from the fertilised egg through the embryonic period and the postembryonic period to the adult.
 

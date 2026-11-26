@@ -8,6 +8,8 @@ Most pollution lessons stop at dirty air and dirty water. Unit 7 of Yemen's Grad
 
 In your mind's eye: a busy city junction — loud traffic, horns and a road drill on one side. And a sealed radioactive source container with the trefoil warning sign being checked with a radiation meter on the other.
 
+[Picture 38488 — two pollutions noise and radiation]
+
 ## The key facts
 **Noise pollution.** Noise pollution (التلوث الضوضائي) is unwanted, harmful sound — Yemen's book teaches it under its own heading as a named kind of environmental pollution (printed p. 173).
 

@@ -8,6 +8,8 @@ Every people has its own way of healing, and Samoa's Year 12 biology book teache
 
 In your mind's eye: a Samoan medicinal garden — labelled plants including Matalafi and Moso'i beside a taulasea preparing a plant medicine.
 
+[Picture 38604 — traditional healing the garden is the]
+
 ## The key facts
 **Health is balance.** In Samoa's teaching, health is a balance between natural, social and supernatural elements of life. Sickness is a break in that balance, and healing is the work of restoring it — which is why Samoan healing treats more than the germ or the sore place alone.
 

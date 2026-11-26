@@ -8,6 +8,8 @@ An animal's body structures are fitted to its habitat — the camel carries a wa
 
 In your mind's eye: a camel in dry land and an aquatic turtle swimming, each labelled with the body structures that fit it to its habitat.
 
+[Picture 38569 — structures fit to two habitats]
+
 ## The key facts
 **5.3 Structural adaptations of animals.** Moldova's Grade 6 book (5.3 Structural adaptations of animals) teaches: body structures for different habitats, camel water reserve, locomotory-structure adaptations (aquatic turtle). (printed p. 76).
 

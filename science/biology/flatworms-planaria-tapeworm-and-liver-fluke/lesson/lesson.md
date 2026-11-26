@@ -8,6 +8,8 @@ Mozambique's animal module gives the flatworms, phylum Platyhelminthes, two less
 
 In your mind's eye: a flat planarian drawn from above with its flat oval body, beside two life-cycle circles. The tapeworm cycle ending in a human, and the liver fluke cycle turning between a sheep, water and a snail.
 
+[Picture 38395 — two parasite cycles turning through their]
+
 ## The key facts
 **The flatworm plan.** Flatworms are dorsoventrally flattened — pressed flat from back to belly — bilateral and acoelomate (no body cavity), with three germ layers. The gut has a single opening, and the worms are hermaphrodites: both sexes in one body.
 

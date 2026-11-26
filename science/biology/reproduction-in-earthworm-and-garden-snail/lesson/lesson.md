@@ -8,6 +8,8 @@ Hermaphrodite does not mean self-sufficient. Chapter 15 of Nigeria's Senior Seco
 
 In your mind's eye: two earthworms joined at their clitella exchanging sperm, with a cocoon slipping off beside them; and two garden snails mating, with a batch of round eggs in the soil below.
 
+[Picture 38536 — hermaphrodites pairing worms and snails]
+
 ## The key facts
 **Both sexes, still two parents.** Earthworm and garden snail are hermaphrodites — each carries male and female organs — yet both cross-fertilise with a partner rather than fertilising themselves.
 

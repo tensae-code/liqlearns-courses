@@ -8,6 +8,8 @@ Desertification is fertile land turning to desert under overgrazing, over-cultiv
 
 In your mind's eye: a green field at the left cracking and paling step by step toward sand and a lone dead tree at the right, with a fence and young planted trees holding the middle.
 
+[Picture 38344 — desertification green land paling into sand]
+
 ## The key facts
 **§2.4.3.** desertification (ερημοποίηση) as a named environmental problem, a Mediterranean/Greek priority topic
 

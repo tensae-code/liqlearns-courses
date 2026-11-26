@@ -8,6 +8,8 @@ A brain–computer interface reads the brain's signals and lets them control a m
 
 In your mind's eye: a person wearing an EEG cap whose brain signals travel as waves to a robotic arm lifting a cup, beside a second panel showing an implanted electrode array.
 
+[Picture 38297 — braincomputer interfaces a cap or an]
+
 ## The key facts
 **Ch. 2 §5 feature "Brain–computer interfaces: tools that obey the mind".** implanted arrays (a rhesus monkey feeding itself with a robotic arm, 2017) against scalp EEG (weaker signals, no surgery), and China's entries: the 2014 "Shengong No. 1" brain-controlled rehabilitation robot, and its 2016 flight on Tiangong-2 for the first in-orbit brain–computer interaction experiment.
 

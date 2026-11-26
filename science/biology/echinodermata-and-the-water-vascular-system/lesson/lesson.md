@@ -8,6 +8,8 @@ Mozambique's animal module reaches the echinoderms as the last invertebrate phyl
 
 In your mind's eye: a starfish drawn from above with its five arms around a centre, its spiny plated skin shown in a cut corner, and the water canals drawn as a ring with branches running into each arm and down to rows of small tube feet.
 
+[Picture 38355 — a starfish five arms run by]
+
 ## The key facts
 **A plan of five.** Echinoderms are marine animals with pentaradial symmetry — the body arranged in five parts around a centre.
 

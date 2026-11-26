@@ -8,6 +8,8 @@ Cancer immunotherapy fights a tumour with the patient's own immune system: T cel
 
 In your mind's eye: a tumour cell holding up a PD-L1 shield against a T cell, and an antibody stepping between them to block the handshake so the T cell can attack.
 
+[Picture 38307 — immunotherapy blocking the tumour's shield]
+
 ## The key facts
 **Ch. 4 §2 feature "Immunotherapy for cancer".** two strategies: T cells taken out, re-engineered to recognise a cancer, multiplied and returned (in clinical use for some lymphomas); and checkpoint blockade — tumours over-express PD-L1 to be "recognised as self" by PD-1, so antibodies block the handshake (broad-spectrum approvals by November 2018) — with the limits stated: engineered cells can hit healthy tissue, and an unbraked immune system can overreact. No existing lesson covers it.
 

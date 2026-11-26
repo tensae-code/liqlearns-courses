@@ -8,6 +8,8 @@ A plant standing in the sun is losing water all the time, and that loss does wor
 
 In your mind's eye: a leaf in sunlight with arrows showing water rising from the roots through the stem and water vapour leaving the leaf.
 
+[Picture 38606 — the transpiration stream up and out]
+
 ## The key facts
 **Transpiration is water vapour leaving the plant.** Water evaporates from the plant — mainly from the leaves — into the air. That loss is transpiration.
 

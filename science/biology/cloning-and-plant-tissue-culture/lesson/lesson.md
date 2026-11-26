@@ -8,6 +8,8 @@ A clone is a living copy: a new living thing whose heredity comes from one singl
 
 In your mind's eye: the two cloning techniques side by side. On one side an egg, on the other a specialised body cell taken from the mammary glands, each leading to a young animal that is a copy of a single donor.
 
+[Picture 38325 — cloning two roads to a copy]
+
 ## The key facts
 **What cloning is.** Cloning produces a new living thing that is a copy — its heredity is the heredity of one donor, carried whole, with no fertilisation and no mixing of two parents.
 

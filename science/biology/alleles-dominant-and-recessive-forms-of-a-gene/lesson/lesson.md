@@ -8,6 +8,8 @@ A gene comes in alternative forms called alleles, and when two different alleles
 
 In your mind's eye: two chromosomes side by side carrying the same gene position, one marked with a capital-letter allele shown in the flower's colour and one with a small-letter allele hidden behind it.
 
+[Picture 38261 — alleles the capital letter shows the]
+
 ## The key facts
 **§5.3.** alleles (αλληλόμορφα) as their own section before inheritance laws
 

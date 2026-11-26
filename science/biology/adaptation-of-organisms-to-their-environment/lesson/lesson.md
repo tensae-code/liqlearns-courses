@@ -8,6 +8,8 @@ Nepal's Grade 4 My Science, Health and Physical Education book teaches land anim
 
 In your mind's eye: an adaptation is a feature that fits a living thing to the place it lives — land animals carry, in their bodies and behaviour, the answers to their habitat's problems of water, temperature, food and enemies. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38246 — an adaptation fits a living thing]
+
 ## The key facts
 **Features fit places.** A terrestrial animal's body answers its home: thick fur where it is cold, a water-storing body where it is dry, strong legs where it must run, claws or a burrowing shape where it must dig. The feature and the place explain each other.
 

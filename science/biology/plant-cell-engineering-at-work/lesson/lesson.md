@@ -8,6 +8,8 @@ Plant cell engineering at work: micropropagation multiplying orchids and medicin
 
 In your mind's eye: shelves of culture tubes and jars holding tiny green plantlets, with a potato plant and a medicine bottle at the end of the shelf.
 
+[Picture 38508 — plant cell engineering shelves of plantlets]
+
 ## The key facts
 **Ch. 2 §1 Applications of plant cell engineering.** micropropagation (the Dutch orchid industry; Dendrobium candidum tube plantlets at scale in China); virus-free stock from shoot-tip culture (potatoes yielding over 50% more); haploid breeding through anther culture — China's Danyu No. 1 tobacco of 1974, the world's first haploid crop variety; useful mutants selected from cultured cells; and cell-product factories — shikonin, the first marketed plant-cell product (1980s), taxol from cultured yew cells, ginseng saponins cultured in China since 1963.
 

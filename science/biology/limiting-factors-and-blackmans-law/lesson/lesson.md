@@ -8,6 +8,8 @@ Photosynthesis needs several things at once — light, carbon dioxide, warmth �
 
 In your mind's eye: a graph of photosynthesis rate against light intensity rising then flattening, beside the same rising line flattening earlier at a lower level, labelled as carbon dioxide becoming the limiting factor.
 
+[Picture 38460 — blackman's law the slowest factor rules]
+
 ## The key facts
 **Several needs at once.** Photosynthesis runs on light intensity, carbon dioxide concentration and temperature together. Give a plant more of one and the rate may rise — but only so far.
 

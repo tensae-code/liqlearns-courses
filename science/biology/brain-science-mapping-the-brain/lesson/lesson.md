@@ -8,6 +8,8 @@ Brain science maps the brain three ways — its cell types, its connections and 
 
 In your mind's eye: a brain drawn three times side by side — once dotted with its many cell types, once threaded with connection lines, once lit up in active patches.
 
+[Picture 38298 — mapping the brain three ways at]
+
 ## The key facts
 **Ch. 2 §4 feature "The China Brain Project".** launched 2018 under the aims "know the brain, simulate the brain, protect the brain, develop with the brain"; three maps to be drawn (cell types, connections, activity) and why cloned monkeys — genetically uniform model animals — are a brain-science instrument. No existing lesson treats brain science as a national research programme.
 

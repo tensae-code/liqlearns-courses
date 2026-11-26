@@ -8,6 +8,8 @@ Plants have no kidneys and no single excretory system: they get rid of waste thr
 
 In your mind's eye: a green plant with water droplets beading at a leaf tip at dawn, arrows of water vapour leaving the leaf, and a shaded inset of an old leaf and a piece of bark marked as stored waste the plant will shed.
 
+[Picture 38379 — how a plant sheds what it]
+
 ## The key facts
 **No special excretory organs.** An animal sends its waste to kidneys and a gut. A plant has nothing like them: excretion in plants is spread over the whole body, using structures that already exist for other jobs.
 

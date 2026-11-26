@@ -8,6 +8,8 @@ disorders of under- and over-secretion distinguished, with an applied box on the
 
 In your mind's eye: two glands side by side, one drawn shrunken and pale labelled under-secretion, one enlarged labelled over-secretion, with arrows to the opposite effects of too little and too much hormone.
 
+[Picture 38370 — too little or too much the]
+
 ## The key facts
 **Under and over.** Kuwait's Grade 12 Term 1 student book (Lesson 3-2, printed p. 75), "Health of the Endocrine Glands", distinguishes disorders of under-secretion from disorders of over-secretion.
 

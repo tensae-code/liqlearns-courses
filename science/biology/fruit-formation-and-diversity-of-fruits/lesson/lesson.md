@@ -8,6 +8,8 @@ After fertilisation the flower's ovary becomes the fruit — the ovary wall form
 
 In your mind's eye: a flower's ovary changing into a cut-open apricot drupe, an apple pome and a dry multi-seeded fruit, each labelled with its pericarp and seeds.
 
+[Picture 38402 — fruits form from the ovary three]
+
 ## The key facts
 **3.4 From flower to fruits and seeds; the fruit and diversity of fruits.** Moldova's Grade 8 book (3.4 From flower to fruits and seeds; the fruit and diversity of fruits) teaches: ovary to pericarp, drupes (apricot, peach, sour cherry), pome (apple, pear), dry multi-seeded fruits. (printed p. 30).
 

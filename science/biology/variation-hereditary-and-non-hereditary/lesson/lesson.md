@@ -8,6 +8,8 @@ Organisms vary in two ways: hereditary variation, carried in their genes and pas
 
 In your mind's eye: two plants of one kind side by side. One differing from its parent by an inherited mark passed to its seedlings, the other grown larger only by rich soil, its seedlings drawn ordinary.
 
+[Picture 38614 — variation inherited or only environmental]
+
 ## The key facts
 **§50 Hereditary and acquired traits.** telling inherited traits from acquired ones
 

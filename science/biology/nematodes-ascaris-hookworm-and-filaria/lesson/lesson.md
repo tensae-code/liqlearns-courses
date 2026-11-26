@@ -8,6 +8,8 @@ Mozambique's animal module gives the nematode worms, phylum Nemathelminthes, thr
 
 In your mind's eye: a cylindrical nematode drawn with its complete gut tube running mouth to anus, beside three labelled panels. Ascaris the big roundworm, the hookworm with its curved toothed head fastened to a gut wall, and a mosquito above a swollen leg for the filaria.
 
+[Picture 38486 — nematodes the tube worm and its]
+
 ## The key facts
 **The nematode plan.** Nematodes are cylindrical worms with a pseudocoelom (a false body cavity) and a complete gut with mouth and anus. A tough cuticle protects them — it is what lets the parasites survive inside a host — and parasitic nematodes run an anaerobic metabolism.
 

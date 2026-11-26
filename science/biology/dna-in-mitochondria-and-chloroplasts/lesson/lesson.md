@@ -8,6 +8,8 @@ Mitochondria and chloroplasts carry their own small circular DNA — a leftover 
 
 In your mind's eye: a mitochondrion and a chloroplast drawn side by side, each with a small circular DNA loop glowing inside it.
 
+[Picture 38352 — dna lives in mitochondria and chloroplasts]
+
 ## The key facts
 **Ch. 1.** mitochondria and chloroplasts have their own genetic material
 

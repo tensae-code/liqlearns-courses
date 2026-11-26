@@ -8,6 +8,8 @@ Ecology usually studies other species' homes; human ecology turns the same scien
 
 In your mind's eye: a city drawn as an ecosystem diagram. Apartment blocks, traffic and a lake park inside one boundary, with arrows entering labelled energy and food, and arrows leaving labelled emissions and waste; the figures 3% of land, 75% of energy, 85% of emissions written along the arrows.
 
+[Picture 38432 — a city is an ecosystem too]
+
 ## The key facts
 **A named field.** Human ecology is taught as a field in its own right: the ecology of the human species and its made environments, valued because sustainable development cannot be planned without it — greenhouse gases are a glossary term of the topic.
 

@@ -8,6 +8,8 @@ hypersensitivity and allergy first, then the applied boxes: organ-transplant rej
 
 In your mind's eye: three panels. An allergen meeting an antibody labelled allergy, body tissue being attacked by its own immune cells labelled autoimmune disease, and a grafted organ under immune attack labelled rejection.
 
+[Picture 38442 — when immunity misfires three ways]
+
 ## The key facts
 **Hypersensitivity and allergy.** Kuwait's Grade 12 Term 1 student book (Lesson 3-3, printed p. 120) opens the immune system's health lesson with hypersensitivity and allergy.
 

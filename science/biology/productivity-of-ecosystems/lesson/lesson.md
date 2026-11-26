@@ -8,6 +8,8 @@ An ecosystem's productivity is the rate at which it builds living matter: primar
 
 In your mind's eye: a meadow drawn as a ledger. Sunlight entering as income, a slice spent on the plants' own breathing, and the remaining pile labelled net production feeding a rabbit.
 
+[Picture 38527 — productivity the meadow's ledger]
+
 ## The key facts
 **§2.2.3.** the concept of productivity (primary/secondary production)
 

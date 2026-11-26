@@ -8,6 +8,8 @@ Adolescent pregnancy must be avoided — pregnancy while a young person is still
 
 In your mind's eye: two paths from one signpost, drawn simply and respectfully. One path keeps a student at school with books, family and future plans, the other path carries the heavy load of a pregnancy during adolescence.
 
+[Picture 38278 — two paths from one signpost choose]
+
 ## The key facts
 **Why it must be avoided.** Cuba's Grade 9 student text (Ch. 7) teaches why adolescent pregnancy must be avoided — its health risks and its social consequences — together with healthy adolescent couple relationships (printed p. 340)
 

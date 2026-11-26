@@ -8,6 +8,8 @@ fruit-fly wing forms as the visible face of mutation; chromosomal mutations: Rob
 
 In your mind's eye: a chromosome pair with a segment inverted, beside a DNA strip where one base is substituted and another strip where a base is inserted and every codon after it shifted.
 
+[Picture 38408 — mutations swapped inserted inverted]
+
 ## The key facts
 **Chromosomal mutations.** Kuwait's Grade 12 Term 2 student book (Section One, printed p. 43) teaches chromosomal mutations: Robertsonian translocation between chromosomes 14 and 21, inversion, and numerical mutations causing congenital and mental abnormalities — with fruit-fly wing forms as the visible face of mutation.
 

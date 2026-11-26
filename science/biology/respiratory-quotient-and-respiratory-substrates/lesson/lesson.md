@@ -8,6 +8,8 @@ What a cell is burning can be read off the gases: Kenya's Form 2 book closes its
 
 In your mind's eye: three fuel stores drawn as labelled tanks — carbohydrate, fat and protein. Feeding one flame, with two measuring cylinders above it collecting the gases, and a balance card reading RQ = CO₂ out ÷ O₂ in, marked 1.0 for carbohydrate, 0.7 for fat and 0.9 for protein.
 
+[Picture 38540 — respiratory quotient which fuel is burning]
+
 ## The key facts
 **Respiratory substrates.** The fuels respiration burns are the respiratory substrates: carbohydrates, fats — worth about 38 kJ/g — and proteins.
 

@@ -8,6 +8,8 @@ Most school books about the human body end with the last body system. Italy's Gr
 
 In your mind's eye: the human-body course as a row of system diagrams — heart, lungs, gut, nerves. With a final panel after them all, labelled “the biology of cancer”.
 
+[Picture 38580 — system by system then cancer]
+
 ## The key facts
 **Cancer is taught as a biology, not as an appendix.** The chapter is titled The biology of cancer: cancer is presented as something biology studies in its own right — a subject with its own place in the science, not a footnote inside one organ's chapter.
 

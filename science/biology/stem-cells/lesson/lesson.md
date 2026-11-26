@@ -8,6 +8,8 @@ Stem cells are cells that are not yet specialised: they can divide to make more 
 
 In your mind's eye: a single round unspecialised cell in the middle dividing into two, with three arrows leading out to a muscle cell, a nerve cell and a blood cell it can become.
 
+[Picture 38563 — stem cells one cell many futures]
+
 ## The key facts
 **Not yet specialised.** Most cells in a body have one set job — a muscle cell contracts, a nerve cell carries signals. A stem cell has no such fixed job yet: it is unspecialised.
 

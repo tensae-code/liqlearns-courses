@@ -8,7 +8,11 @@ Armenia's Grade 7 Biology book does not leave the fish on the page. After the fi
 
 In your mind's eye: a fish on a dissection tray, labelled outside and inside — fins, scales, lateral line and gill cover outside; gills, heart, stomach, intestine and swim bladder inside, each labelled.
 
+[Picture 38392 — fish dissection outside first then inside]
+
 In your mind's eye: a guided dissection in steps — the cover of the gills is lifted to show the red gills, then the body wall is opened and the organs are lifted one by one in order. Name each part as it appears.
+
+[Picture 38393 — the dissection in steps gills then]
 
 ## The key facts
 **A practical, not a reading.** Armenia's Grade 7 Biology book teaches the fish twice: first its structure in the fishes section, then again as Laboratory work — a guided dissection. The lesson is done with the hands: the learner studies a real fish, outside and inside, in the book's own order.

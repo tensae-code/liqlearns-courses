@@ -8,6 +8,8 @@ An eating disorder is a disordered way of eating that damages health. Ecuador's 
 
 In your mind's eye: a cause→effect table: on the left, five causes in a row — eating disorders, drugs, alcohol, sedentarism, pollution; on the right, the damage each one does to health, with an arrow from each cause to its effect.
 
+[Picture 38354 — causes and their damage matched in]
+
 ## The key facts
 **The two the book names.** The eating disorders Ecuador's book names are anorexia and bulimia. They stand in the book as causes of damaged health — not as habits, fashions or choices of appearance, but as health problems with effects, which is why they belong in a biology book's health section.
 

@@ -8,6 +8,8 @@ An insect breathes through a pipework of air tubes and a fish through feathery g
 
 In your mind's eye: two animals side by side — a grasshopper opened to show silvery tracheal tubes branching from valved spiracles along its side, its abdomen pumping. And a fish head with the operculum lifted to show red gill filaments on their bars, arrows of water flowing one way across the filaments and blood the other way inside them.
 
+[Picture 38405 — gas exchange air tubes and water]
+
 ## The key facts
 **The insect's tracheal system.** Insects exchange gases through a tracheal system: air enters through spiracles — openings with valves and hairs — into branching tracheae and tracheoles that carry air directly to the tissues, and abdominal pumping movements drive the flow.
 

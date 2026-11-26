@@ -8,6 +8,8 @@ Breathing is kept safe by hygiene of the airways, and when breathing stops in as
 
 In your mind's eye: a person giving artificial respiration to another person lying down, with the causes of asphyxia — dust, water, a blocked airway. Shown as small labelled scenes.
 
+[Picture 38439 — breaths given and what stops]
+
 ## The key facts
 **4.5 Hygiene of breathing.** Moldova's Grade 7 book (4.5 Hygiene of breathing) teaches: asphyxia causes (dust, drowning, strangling) and first aid / artificial respiration. (printed p. 105).
 

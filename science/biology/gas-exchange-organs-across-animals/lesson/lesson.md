@@ -8,6 +8,8 @@ Animals exchange gases through organs fitted to where they live — skin in worm
 
 In your mind's eye: four animals in a row — earthworm, fish, grasshopper and rabbit. Each with its breathing organ drawn enlarged beside it: skin, gills, tracheae, lungs.
 
+[Picture 38404 — breathing organs skin gills tubes lungs]
+
 ## The key facts
 **§4.3.** respiration across animal groups: skin, gills, tracheae and lungs compared
 

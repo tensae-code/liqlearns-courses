@@ -8,6 +8,8 @@ Not every heterotroph hunts or grazes. Nigeria's Senior Secondary Biology 1 buil
 
 In your mind's eye: a labelled tapeworm head with hooks and suckers holding to a gut wall, beside a guinea-worm emerging and a mosquito carrying Wuchereria.
 
+[Picture 38494 — parasite adaptations grip emerge hitchhike]
+
 ## The key facts
 **Feeding on a living host.** In parasitic nutrition the parasite lives on or inside a living host and feeds at the host's expense, harming it — one of the modes of nutrition in Chapter 6.
 

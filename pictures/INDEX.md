@@ -1842,6 +1842,380 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 38242 | pictures/38242.webp | Classifying plants — and seeking medicines among them — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Venezuelan scientists — love of nature |
 | 38243 | pictures/38243.webp | Word processing: the document, shaped as you write — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Word processing — first steps |
 | 38244 | pictures/38244.webp | The full how-to: shortcuts and tables together — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Word processing — first steps |
+| 38245 | pictures/38245.webp | Acceleration: each generation grows taller, earlier — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Acceleration — earlier growth and maturation |
+| 38246 | pictures/38246.webp | An adaptation fits a living thing to its home — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Adaptation of organisms to their environment |
+| 38247 | pictures/38247.webp | Dry land, small leaves; wet land, broad leaves — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Adaptations — how organisms fit their environment |
+| 38248 | pictures/38248.webp | Each feature fits its place: water, desert, snow — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Adaptations to the environment |
+| 38249 | pictures/38249.webp | New neurons still grow in two parts of the adult brain — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Adult neurogenesis — new neurons in the grown brain |
+| 38250 | pictures/38250.webp | Attachment — and a life free of violence — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Affective relationships and attachment |
+| 38251 | pictures/38251.webp | Afghanistan's high country: who is bird, who is mammal — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Afghanistan's birds and mammals |
+| 38252 | pictures/38252.webp | Feathers and flight; milk for the young — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Afghanistan's birds and mammals |
+| 38253 | pictures/38253.webp | Seed plants: cones bare, flowers enclosed — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Afghanistan's seed plants |
+| 38254 | pictures/38254.webp | Seeds on the move, and seeds waking up — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Afghanistan's seed plants |
+| 38255 | pictures/38255.webp | Nigeria's crops, sorted by what they give us — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Agricultural classification of crops |
+| 38256 | pictures/38256.webp | Agrobacterium: a bacterium that delivers genes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Agrobacterium — plant gene transfer |
+| 38257 | pictures/38257.webp | The farm as an ecosystem — with rotation beside it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Agroecosystems and sustainable agriculture |
+| 38258 | pictures/38258.webp | Four algae: cell, filament, glass shell, kelp — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Algae — plant-like protists |
+| 38259 | pictures/38259.webp | Pond life starts with the algae and the sun — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Algae — plant-like protists |
+| 38260 | pictures/38260.webp | A thallus is one body; a plant has parts — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Algae — thallus plants |
+| 38261 | pictures/38261.webp | Alleles: the capital letter shows, the small one hides — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Alleles — dominant and recessive forms of a gene |
+| 38262 | pictures/38262.webp | The Funaria cycle: two generations in one circle — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Alternation of generations — the Funaria life cycle |
+| 38263 | pictures/38263.webp | Moss and fern: the big generation swaps over — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Alternation of generations |
+| 38264 | pictures/38264.webp | Fitted to their homes: the fish and the pigeon — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Animal adaptations to environment |
+| 38265 | pictures/38265.webp | Growing animal cells: the conditions on the label — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Animal cell culture — conditions and passage |
+| 38266 | pictures/38266.webp | Migration: journeys written on the map — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Animal migration |
+| 38267 | pictures/38267.webp | The four animal tissues, side by side — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Animal tissues — epithelial, connective, muscle and nervous |
+| 38268 | pictures/38268.webp | Four tissues again: sheet, support, muscle, nerve — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Animal tissues — epithelial, connective, muscle, nervous |
+| 38269 | pictures/38269.webp | Antibiotics: the clear zone — and when it fails — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Antibiotics and antibiotic resistance |
+| 38270 | pictures/38270.webp | Arachnids: two body parts, eight legs — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Arachnids — spiders, ticks and scorpions |
+| 38271 | pictures/38271.webp | Arid lands: the camel, the thorn tree, the succulent — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Arid lands and desert adaptations |
+| 38272 | pictures/38272.webp | Artificial ecosystems are kept going by people — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Artificial ecosystems and agrocenoses |
+| 38273 | pictures/38273.webp | Making new plants without seeds: three ways — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Artificial propagation — cuttings, grafting and tissue culture |
+| 38274 | pictures/38274.webp | Rescue breathing: head back, breaths in rhythm — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Artificial respiration — first aid for breathing |
+| 38275 | pictures/38275.webp | Judging the project: four columns of quality — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Assessing an activity of integration |
+| 38276 | pictures/38276.webp | ATP: the last phosphate jumps and does the work — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, ATP — the energy currency |
+| 38277 | pictures/38277.webp | Autophagy: the cell eats its own worn-out parts — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Autophagy — the cell eats itself |
+| 38278 | pictures/38278.webp | Two paths from one signpost: choose the school road — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Avoiding adolescent pregnancy |
+| 38279 | pictures/38279.webp | Bilateral symmetry — and the three kinds of body cavity — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Bilateral symmetry and the coelom |
+| 38280 | pictures/38280.webp | Biological control: allies, traps and bred resistance — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Biological control of pests |
+| 38281 | pictures/38281.webp | Moldova's institutes: biology at work in four places — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Biological science and research institutes in Moldova |
+| 38282 | pictures/38282.webp | Lab waste and accidents: containers, rules, wash stations — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Biological waste and lab accident management |
+| 38283 | pictures/38283.webp | Biological weapons: sealed, banned, agreed in 1972 — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Biological weapons — and the ban |
+| 38284 | pictures/38284.webp | Upright walking: five phases of one step — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Biomechanics of upright walking |
+| 38285 | pictures/38285.webp | Seedling heights: the same numbers, two pictures — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Biostatistics — mean, median and mode |
+| 38286 | pictures/38286.webp | Built for flight: beak, air sacs, hollow bones — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Birds — structure and adaptations for flight |
+| 38287 | pictures/38287.webp | A drop of blood under the microscope — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Blood and its components |
+| 38288 | pictures/38288.webp | Blood at work: carrying, hunting, clotting — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Blood and its components |
+| 38289 | pictures/38289.webp | Clotting: a net woven across the break — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Blood clotting mechanism |
+| 38290 | pictures/38290.webp | Three vessels: artery, capillary, vein — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Blood vessels — arteries, veins and capillaries |
+| 38291 | pictures/38291.webp | Three body plans: solid, false cavity, true coelom — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Body cavities — acoelomate, pseudocoelomate, coelomate |
+| 38292 | pictures/38292.webp | The ladder of body plans: the cavity appears, then lines itself — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Body cavities — acoelomate, pseudocoelomate, coelomate |
+| 38293 | pictures/38293.webp | Radial all round — or a head that leads — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Body symmetry and cephalisation |
+| 38294 | pictures/38294.webp | A long bone: cartilage first, then bone, plates last — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Bone formation and growth |
+| 38295 | pictures/38295.webp | Ossein and minerals: what treatment takes from bone — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Bone structure and composition — ossein and minerals |
+| 38296 | pictures/38296.webp | Inside a long bone: layers, rings and marrow — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Bone tissue histology — osteocytes and cartilage |
+| 38297 | pictures/38297.webp | Brain–computer interfaces: a cap, or an implant — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Brain–computer interfaces |
+| 38298 | pictures/38298.webp | Mapping the brain three ways at once — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Brain science — mapping the brain |
+| 38299 | pictures/38299.webp | Brazil's Atlantic forest: a band worn to patches — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Brazilian biomes and the Mata Atlântica |
+| 38300 | pictures/38300.webp | Kazakhstan's breeding achievements, institute behind — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Breeding achievements in Kazakhstan |
+| 38301 | pictures/38301.webp | A moss plant, labelled the book's way — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The bryophyte life cycle — the moss |
+| 38302 | pictures/38302.webp | The moss cycle: spore, plant, capsule, spores — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The bryophyte life cycle — the moss |
+| 38303 | pictures/38303.webp | Liverwort and moss: still tied to the water — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Bryophytes — mosses and liverworts |
+| 38304 | pictures/38304.webp | Bulk transport: swallowing in, spilling out — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Bulk transport — endocytosis and exocytosis |
+| 38305 | pictures/38305.webp | Total magnification: eyepiece times objective — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Calculating the magnification of a microscope |
+| 38306 | pictures/38306.webp | Cancer: division that has lost its brakes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cancer and tumours |
+| 38307 | pictures/38307.webp | Immunotherapy: blocking the tumour's shield — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cancer immunotherapy — checkpoints and engineered T cells |
+| 38308 | pictures/38308.webp | How cancer starts — and the checks that catch it early — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cancer — what it is and how it starts |
+| 38309 | pictures/38309.webp | Checkpoints: the cycle's two stop gates — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cell cycle checkpoints and control |
+| 38310 | pictures/38310.webp | Three junctions hold cells together — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cell junctions — tight, gap and desmosomes |
+| 38311 | pictures/38311.webp | Tactic movement: towards good, away from harm — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cell reactions — tactic and nastic movements |
+| 38312 | pictures/38312.webp | Cell signalling: a molecule, a receptor, a relay — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cell signalling and communication |
+| 38313 | pictures/38313.webp | The membrane as receiver: caught outside, answered inside — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cell signalling — the membrane as receiver |
+| 38314 | pictures/38314.webp | Outside the membrane: a wall, or a web — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cell wall and extracellular matrix |
+| 38315 | pictures/38315.webp | Colonies and filaments: many cells, one body — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cells as colonies and filaments — Volvox and Spirogyra |
+| 38316 | pictures/38316.webp | Where our crops began: the centres of origin — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Centres of origin of cultivated plants |
+| 38317 | pictures/38317.webp | Channels: each pore fits one traveller — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Channel proteins — aquaporins and ion channels |
+| 38318 | pictures/38318.webp | Nitrifying bacteria live on the change itself — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Chemosynthesis — food-making without light |
+| 38319 | pictures/38319.webp | Cholera and typhoid: the water point, danger and defence — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cholera and typhoid — waterborne bacterial diseases |
+| 38320 | pictures/38320.webp | A healthy week, planned — and actually lived — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Choosing a healthy lifestyle |
+| 38321 | pictures/38321.webp | Chromosome numbers: every species its own count — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Chromosome numbers in different organisms |
+| 38322 | pictures/38322.webp | From DNA thread to chromosome — and the full set — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Chromosome structure and karyotype |
+| 38323 | pictures/38323.webp | Civil defence: organised protection, individual help — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Civil defence and emergency safety |
+| 38324 | pictures/38324.webp | Two sortings: by looks, or by genes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Classification by form vs by genes |
+| 38325 | pictures/38325.webp | Cloning: two roads to a copy of one donor — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cloning and plant tissue culture |
+| 38326 | pictures/38326.webp | Dolly's road — and plantlets by the jar — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cloning and the human genome |
+| 38327 | pictures/38327.webp | Cloning debated: exact copies, tick or question — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cloning — debate and technique |
+| 38328 | pictures/38328.webp | Cnidaria: the same animal, two ways up — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cnidaria — polyps, medusae and stinging cells |
+| 38329 | pictures/38329.webp | Coevolution: arms races and partnerships — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Coevolution — arms races and partnerships |
+| 38330 | pictures/38330.webp | Data: collected, processed, presented — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Collecting and processing biological data |
+| 38331 | pictures/38331.webp | Respiratory diseases: each strikes its own part — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Common respiratory diseases |
+| 38332 | pictures/38332.webp | Two barriers: cover the cough, air the room — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Common respiratory diseases |
+| 38333 | pictures/38333.webp | A community in layers, seasons and patches — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Community structure — layers, seasons and richness |
+| 38334 | pictures/38334.webp | Five invertebrates: five ways to run a body — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Comparing invertebrate body systems |
+| 38335 | pictures/38335.webp | The gut's story: none, a sac, then a through tube — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Comparing invertebrate body systems |
+| 38336 | pictures/38336.webp | Hearts: count the chambers, two to four — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Comparing vertebrate body systems |
+| 38337 | pictures/38337.webp | Single circulation in fish, double in mammals — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Comparing vertebrate body systems |
+| 38338 | pictures/38338.webp | The compensation point: making and using balance — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Compensation point |
+| 38339 | pictures/38339.webp | Flowers on order: blooming exactly for the festival — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Controlling flowering for people |
+| 38340 | pictures/38340.webp | Cyanobacteria: chains, lone cells, pond mats — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cyanobacteria — the blue-green algae |
+| 38341 | pictures/38341.webp | A filament grows cell by cell — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cyanobacteria — the blue-green algae |
+| 38342 | pictures/38342.webp | Cytokinesis: pinched apart, or walled apart — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cytokinesis — dividing the cytoplasm |
+| 38343 | pictures/38343.webp | Fibres inside, cilia and flagella outside — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Cytoskeleton, cilia and flagella |
+| 38344 | pictures/38344.webp | Desertification: green land paling into sand — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Desertification |
+| 38345 | pictures/38345.webp | Diabetes: a balance tipped — and righted — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Diabetes mellitus and its control |
+| 38346 | pictures/38346.webp | Toluidine blue: each tissue takes its own colour — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Differential staining of plant sections — toluidine blue |
+| 38347 | pictures/38347.webp | The hygiene chain: four barriers in a row — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Digestive system disorders and hygiene |
+| 38348 | pictures/38348.webp | The fly's road — and the barriers that close it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Digestive system disorders and hygiene |
+| 38349 | pictures/38349.webp | Muscle disorders: cramp, and wasting — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Disorders of the muscular system |
+| 38350 | pictures/38350.webp | Day and night: the flower sleeps, the night animal wakes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Diurnal and nocturnal organisms |
+| 38351 | pictures/38351.webp | Odd diets: trapper, rider, parasite — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Diversity in plant nutrition — carnivorous, epiphytes and parasites |
+| 38352 | pictures/38352.webp | DNA lives in mitochondria and chloroplasts too — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, DNA in mitochondria and chloroplasts |
+| 38353 | pictures/38353.webp | Double fertilisation: two fusions, one seed — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Double fertilisation in flowering plants |
+| 38354 | pictures/38354.webp | Causes and their damage, matched in a table — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Eating disorders |
+| 38355 | pictures/38355.webp | A starfish: five arms run by water pressure — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Echinodermata and the water-vascular system |
+| 38356 | pictures/38356.webp | The mulberry–silkworm–fishpond loop — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Ecological engineering — designing with nature |
+| 38357 | pictures/38357.webp | Ecological engineering: a railway that lets life pass — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Ecological ethics — who nature is for |
+| 38358 | pictures/38358.webp | Kazakhstan's ecological problems, pinned on its map — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Ecological problems of Kazakhstan |
+| 38359 | pictures/38359.webp | What the village animals give, panel by panel — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Economic importance of fish, birds and mammals |
+| 38360 | pictures/38360.webp | Three groups at work: transport, pest control, food — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Economic importance of fish, birds and mammals |
+| 38361 | pictures/38361.webp | Ecosystem services: nature's three kinds of gift — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Ecosystem services — what nature does for us |
+| 38362 | pictures/38362.webp | Stability two ways: resisting, and recovering — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Ecosystem stability — resistance and resilience |
+| 38363 | pictures/38363.webp | Exercise lifts the heart rate — measure it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Effect of exercise on heart rate |
+| 38364 | pictures/38364.webp | Farming's footprint: cleared, worked, burnt — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Effects of agricultural activities on ecosystems |
+| 38365 | pictures/38365.webp | The body's elements: four great, many trace — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Elements of life in the body |
+| 38366 | pictures/38366.webp | An embryo's first journey, stage by stage — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Embryo engineering — fertilisation to transfer |
+| 38367 | pictures/38367.webp | From one cell to an embryo in its sac — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Embryonic development in mammals |
+| 38368 | pictures/38368.webp | Development: dividing, folding in, organs forming — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Embryonic development — segmentation, gastrulation and organogenesis |
+| 38369 | pictures/38369.webp | Endocrine disruptors: false keys at the hormone lock — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Endocrine disruptors |
+| 38370 | pictures/38370.webp | Too little or too much: the gland out of balance — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Endocrine dysfunctions — hypo- and hypersecretion and diagnosis |
+| 38371 | pictures/38371.webp | Endosymbiosis: the guest that became the power station — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Endosymbiosis: the origin of mitochondria and chloroplasts |
+| 38372 | pictures/38372.webp | Three fuels feed one furnace — fat holds most — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Energy from the breakdown of lipids and proteins |
+| 38373 | pictures/38373.webp | Energy needs: the work sets the bar's height — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Energy requirements and BMR |
+| 38374 | pictures/38374.webp | Cofactors: the helpers click in first — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Enzyme cofactors and coenzymes |
+| 38375 | pictures/38375.webp | Flatten the curve: keep cases under the line — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Epidemic curves and healthcare capacity |
+| 38376 | pictures/38376.webp | Epigenetics: same genes, different marks — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Epigenetics — marks on the DNA |
+| 38377 | pictures/38377.webp | Mangrove roots: each creature its own level — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Estuaries, mangroves and the Lagos lagoon |
+| 38378 | pictures/38378.webp | Excretion evolves: the waste changes with the animal — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Evolution of excretory systems in animals |
+| 38379 | pictures/38379.webp | How a plant sheds what it cannot use — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Excretion and osmosis in plants |
+| 38380 | pictures/38380.webp | A class survey: counting inherited traits — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Exploring inherited traits — a class survey |
+| 38381 | pictures/38381.webp | Eye and ear care: correct the light, guard the sound — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Eye and ear care — correction and prevention |
+| 38382 | pictures/38382.webp | Short sight — and the lens that corrects it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Eye and ear care — correction and prevention |
+| 38383 | pictures/38383.webp | Health: three rings of influence around one person — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Factors that affect human health |
+| 38384 | pictures/38384.webp | Photosynthesis speeds up — until something else limits — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Factors that affect the rate of photosynthesis |
+| 38385 | pictures/38385.webp | Fermentation engineering: from flask to factory — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Fermentation engineering — from flask to factory |
+| 38386 | pictures/38386.webp | Filter feeding and deposit feeding — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Filter feeding and deposit feeding |
+| 38387 | pictures/38387.webp | Move! in Finland: fitness measured at school — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Finland's Move! fitness monitoring |
+| 38388 | pictures/38388.webp | First aid in order: press, rest, fetch help — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, First aid basics |
+| 38389 | pictures/38389.webp | The first minutes: five steps, in order — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, First aid basics |
+| 38390 | pictures/38390.webp | Locomotor injuries: torn, sprained, broken — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, First aid for locomotor injuries — fractures, sprains, dislocations |
+| 38391 | pictures/38391.webp | A perch: fitted to life in water, part by part — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Fish adaptations to life in water |
+| 38392 | pictures/38392.webp | Fish dissection: outside first, then inside — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Fish dissection — a practical |
+| 38393 | pictures/38393.webp | The dissection in steps: gills, then organs — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Fish dissection — a practical |
+| 38394 | pictures/38394.webp | Flatworms: the free planarian, the parasitic fluke — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Flatworms — planaria and tapeworms |
+| 38395 | pictures/38395.webp | Two parasite cycles, turning through their hosts — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Flatworms — planaria, tapeworm and liver fluke |
+| 38396 | pictures/38396.webp | Additives: read the packet's small print — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Food additives and preservatives |
+| 38397 | pictures/38397.webp | Food poisoning under the lens: three hitchhikers — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Food poisoning and food safety |
+| 38398 | pictures/38398.webp | Preservation: heat, cold, salt and sugar — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Food preservation and storage |
+| 38399 | pictures/38399.webp | Food security: climate hazards at the field's edge — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Food security and climate hazards |
+| 38400 | pictures/38400.webp | Twins two ways: split, or separate — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Formation of twins |
+| 38401 | pictures/38401.webp | Embryology's foundations: from one cell to layers — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Foundations of embryology |
+| 38402 | pictures/38402.webp | Fruits form from the ovary: three kinds — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Fruit formation and diversity of fruits |
+| 38403 | pictures/38403.webp | Opened fruits at the market stall — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Fruits — types and placentation |
+| 38404 | pictures/38404.webp | Breathing organs: skin, gills, tubes, lungs — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Gas-exchange organs across animals |
+| 38405 | pictures/38405.webp | Gas exchange: air tubes, and water over gills — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Gaseous exchange in insects and fish |
+| 38406 | pictures/38406.webp | A plant breathes both ways: day and night — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Gaseous exchange in plants |
+| 38407 | pictures/38407.webp | Identity: labels pinned on, families otherwise — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Gender identity and sexual orientation |
+| 38408 | pictures/38408.webp | Mutations: swapped, inserted, inverted — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Gene and chromosomal mutations |
+| 38409 | pictures/38409.webp | Chicken combs: genes pair up — and block — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Gene interactions — epistasis and polymery |
+| 38410 | pictures/38410.webp | Gene patents: owning a discovery, weighed — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Gene patents — and owning a discovery |
+| 38411 | pictures/38411.webp | Genes switch on and off — one is repressed — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Gene regulation — switching genes on and off |
+| 38412 | pictures/38412.webp | Genetic counselling: pedigree, sampling, first check — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Genetic counselling and prenatal diagnosis |
+| 38413 | pictures/38413.webp | A GM tomato: the new gene passes to its seedlings — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Genetically modified organisms |
+| 38414 | pictures/38414.webp | Gene libraries: colonies shelved like books — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Genomic and cDNA libraries |
+| 38415 | pictures/38415.webp | The food gap: full granaries, empty bowls — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Global food production and the food gap |
+| 38416 | pictures/38416.webp | Green technology: sun, wind, recycling, regrowth — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Green technology |
+| 38417 | pictures/38417.webp | Plant tissues: soft filling, strong pillars — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Ground and mechanical plant tissues |
+| 38418 | pictures/38418.webp | Growing microbes: streak, spread, count — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Growing microbes — media, pure culture and counting |
+| 38419 | pictures/38419.webp | Growth measured, development marked by the flower — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Growth and development |
+| 38420 | pictures/38420.webp | Two growth curves: the S and the staircase — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Growth curves — sigmoid and intermittent growth |
+| 38421 | pictures/38421.webp | Haploid and diploid: halves that rejoin — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Haploid and diploid |
+| 38422 | pictures/38422.webp | The placenta: a gate that passes and blocks — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Harmful substances and the developing fetus |
+| 38423 | pictures/38423.webp | Self-assessment: body, mind, and fitting in — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Health self-assessment — and mood |
+| 38424 | pictures/38424.webp | The mammalian heart, cut open — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Heart dissection — structure of the mammalian heart |
+| 38425 | pictures/38425.webp | Hermaphroditism: both sexes in one body — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hermaphroditism in animals |
+| 38426 | pictures/38426.webp | The horseshoe bat: two seasons, two lives — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hibernation, dormancy and active life |
+| 38427 | pictures/38427.webp | Hormone products: benefit and risk, weighed case by case — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hormone products — benefits and risks |
+| 38428 | pictures/38428.webp | Hormones in medicine — and steroids, which are not — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hormones in medicine and anabolic steroids |
+| 38429 | pictures/38429.webp | One gland, two controls: nerve and hormone — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, How exocrine glands are controlled |
+| 38430 | pictures/38430.webp | Memory's four stages, widening in time — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, How memory works — four stages |
+| 38431 | pictures/38431.webp | The root's zones: hairs drink, the core conducts — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, How roots absorb water and mineral salts |
+| 38432 | pictures/38432.webp | A city is an ecosystem too — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Human ecology — people inside ecosystems |
+| 38433 | pictures/38433.webp | Human diversity: more alike than different — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Human population diversity |
+| 38434 | pictures/38434.webp | Hydroponics: farming in flowing water — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hydroponics — growing plants without soil |
+| 38435 | pictures/38435.webp | Five analysers, five hygiene cards — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hygiene and dysfunctions of the sensory system |
+| 38436 | pictures/38436.webp | A damaged sheath — and the habits that guard nerves — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hygiene, dysfunctions and diseases of the nervous system |
+| 38437 | pictures/38437.webp | Breathing hygiene: cover the cough, keep things apart — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hygiene, dysfunctions and diseases of the respiratory system |
+| 38438 | pictures/38438.webp | The urinary system — and a kidney stone — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hygiene, dysfunctions and diseases of the urinary system |
+| 38439 | pictures/38439.webp | Breaths given — and what stops breathing — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hygiene of breathing and first aid for asphyxia |
+| 38440 | pictures/38440.webp | Endocrine hygiene: the rule cards — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Hygiene of the endocrine system |
+| 38441 | pictures/38441.webp | Naming plant families by their flower heads — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Identifying plant families |
+| 38442 | pictures/38442.webp | When immunity misfires: three ways — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Immune system health — allergy and autoimmune diseases |
+| 38443 | pictures/38443.webp | Raising the yield: soil, manure, better plants — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Improving crop yield |
+| 38444 | pictures/38444.webp | Train the brain; refuse what harms it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Improving memory and protecting the nervous system |
+| 38445 | pictures/38445.webp | One life, two periods of development — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Individual development — embryonic and post-embryonic |
+| 38446 | pictures/38446.webp | A leaf under attack sends a scent signal — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Information transfer in ecosystems |
+| 38447 | pictures/38447.webp | Two hormones steer the moulting road — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Insect moulting hormones |
+| 38448 | pictures/38448.webp | Five interactions, five pairs of signs — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Interactions between populations |
+| 38449 | pictures/38449.webp | Call the interaction from its signs — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Interactions between populations |
+| 38450 | pictures/38450.webp | Three gut parasites, three journeys — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Intestinal parasites — ascariasis, tapeworm and pinworm |
+| 38451 | pictures/38451.webp | Four invaders on one shore — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Invasive alien species and how they spread |
+| 38452 | pictures/38452.webp | Fieldwork: an ecosystem read on foot — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Investigating a local ecosystem near the school |
+| 38453 | pictures/38453.webp | IVF: help at the very first cell — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, IVF and assisted reproduction |
+| 38454 | pictures/38454.webp | Haemodialysis: an artificial kidney at work — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Kidney failure and new treatments |
+| 38455 | pictures/38455.webp | Dialysis: the blood washed outside the body — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Kidney failure and new treatments |
+| 38456 | pictures/38456.webp | A lethal allele: the cross that counts 2:1 — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Lethal alleles |
+| 38457 | pictures/38457.webp | A lichen in slice — and whole — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Lichens — a symbiosis |
+| 38458 | pictures/38458.webp | Rain wakes the lichen: each partner gives — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Lichens — a symbiosis |
+| 38459 | pictures/38459.webp | Life histories: many-and-cheap, or few-and-guarded — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Life-history strategies — r and K selection |
+| 38460 | pictures/38460.webp | Blackman's law: the slowest factor rules — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Limiting factors and Blackman's law |
+| 38461 | pictures/38461.webp | Linked genes: inherited as a package — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Linked inheritance and crossing over |
+| 38462 | pictures/38462.webp | Locomotion across the animal kingdom — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Locomotion across animals |
+| 38463 | pictures/38463.webp | A tilapia mid-swim: every part labelled — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Locomotion in a finned fish |
+| 38464 | pictures/38464.webp | The spirogram: breath measured in volumes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Lung volumes and capacities |
+| 38465 | pictures/38465.webp | Mimicry: a fly dressed as a bee — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Masquerade and mimicry — the hoverfly that imitates a bee |
+| 38466 | pictures/38466.webp | The abiotic field kit, laid out and labelled — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Measuring abiotic factors in the field |
+| 38467 | pictures/38467.webp | Measuring growth: bands, ruler, graph — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Measuring growth of plants |
+| 38468 | pictures/38468.webp | Medicines: stored dry — and allergy watched — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Medicines — safe use, storage and allergy |
+| 38469 | pictures/38469.webp | Salt and sugar preserve by pulling water out — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Membrane transport in daily life — food preservation |
+| 38470 | pictures/38470.webp | A life's road: development, disorders, family — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Mental health disorders |
+| 38471 | pictures/38471.webp | Meristems: where plants grow, two curve shapes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Meristems and plant growth curves |
+| 38472 | pictures/38472.webp | Human genetics: pedigrees and twin comparisons — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Methods of human genetics |
+| 38473 | pictures/38473.webp | Fermentation grows: dish, flask, factory — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Microbial cultures and industrial fermentation |
+| 38474 | pictures/38474.webp | Mineral nutrition: complete food, or one gap — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Mineral nutrition of green plants |
+| 38475 | pictures/38475.webp | Emulsification: one layer becomes many droplets — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Modelling bile function — fat emulsification |
+| 38476 | pictures/38476.webp | Modelling the membrane: each part stands for a part — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Modelling the cell membrane |
+| 38477 | pictures/38477.webp | Models in biology: thing, picture, numbers — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Models in biology — physical, conceptual, mathematical |
+| 38478 | pictures/38478.webp | Modified leaves: five new jobs for a leaf — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Modified leaves |
+| 38479 | pictures/38479.webp | Modified organs: grip, guard, store — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Modified plant organs |
+| 38480 | pictures/38480.webp | Replanting the gut garden — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Modifying the microbiome — probiotics and faecal transplant |
+| 38481 | pictures/38481.webp | Reading the code before birth — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Molecular and prenatal methods in human genetics — PCR and amniocentesis |
+| 38482 | pictures/38482.webp | Molluscs: the snail and the bivalve — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Mollusca — snails, bivalves and cephalopods |
+| 38483 | pictures/38483.webp | The hybridoma trick: one antibody, endlessly — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Monoclonal antibodies — the hybridoma trick |
+| 38484 | pictures/38484.webp | Single cells on the move: three ways — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Movement in unicellular organisms |
+| 38485 | pictures/38485.webp | Muscle fatigue: force fades, acid rises, rest restores — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Muscle fatigue and lactic acid |
+| 38486 | pictures/38486.webp | Nematodes: the tube worm and its three kin — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Nematodes — Ascaris, hookworm and filaria |
+| 38487 | pictures/38487.webp | Nigeria's vegetation belts, south to north — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Nigeria's vegetation belts — the local biomes |
+| 38488 | pictures/38488.webp | Two pollutions: noise, and radiation — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Noise and radiation pollution |
+| 38489 | pictures/38489.webp | Inflammation: the body's first answer to a cut — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Non-specific defence — barriers and inflammation |
+| 38490 | pictures/38490.webp | Open spills, closed circulates — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Open and closed circulatory systems |
+| 38491 | pictures/38491.webp | HLA matching: most rows the same — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Organ transplantation — and HLA matching |
+| 38492 | pictures/38492.webp | Genetic material, housed three ways — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Organisation of the genetic material |
+| 38493 | pictures/38493.webp | Osteoporosis: bone thins from inside — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Osteoporosis and bone health |
+| 38494 | pictures/38494.webp | Parasite adaptations: grip, emerge, hitchhike — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Parasitic nutrition and parasite adaptations |
+| 38495 | pictures/38495.webp | Roundworms: the smooth body, the gripping mouth — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Parasitic roundworms — Ascaris, pinworm, Trichina |
+| 38496 | pictures/38496.webp | Two worm life-roads, mapped — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Parasitic worms — Ascaris and bilharzia |
+| 38497 | pictures/38497.webp | PCR: heat, bind, build — then double, double — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, PCR — polymerase chain reaction |
+| 38498 | pictures/38498.webp | Peristalsis: the wave that pushes food along — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Peristalsis — how food moves through the gut |
+| 38499 | pictures/38499.webp | Pesticides climb the food chain — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Pesticides and the environment |
+| 38500 | pictures/38500.webp | Two shelves: healing drugs, harmful drugs — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Pharmacology — medicinal and addictive drugs |
+| 38501 | pictures/38501.webp | Pharming: a goat that makes medicine — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Pharming — proteins from transgenic animals |
+| 38502 | pictures/38502.webp | Pheromones: a scent only the species reads — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Pheromones — chemical signals between animals |
+| 38503 | pictures/38503.webp | Photoperiodism: day length decides the flower — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Photoperiodism — day length and plant life |
+| 38504 | pictures/38504.webp | Photosynthesis without plants: two bacteria — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Photosynthesis in prokaryotes |
+| 38505 | pictures/38505.webp | China's schedule: the first vaccines at birth — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Planned immunisation — China's schedule |
+| 38506 | pictures/38506.webp | Plant adaptations: four homes, four answers — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant adaptations to habitats |
+| 38507 | pictures/38507.webp | Tissues under the microscope: five kinds — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant and animal tissues |
+| 38508 | pictures/38508.webp | Plant cell engineering: shelves of plantlets — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant cell engineering at work |
+| 38509 | pictures/38509.webp | The hedge before and after the cut — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant growth hormones |
+| 38510 | pictures/38510.webp | Growth regulators at the market stall — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant growth regulators in farming |
+| 38511 | pictures/38511.webp | Plant immunity: walls, thorns, plugs, gum — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant immunity |
+| 38512 | pictures/38512.webp | Plant organ adaptations: four solutions — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant organ adaptations — roots, stems and leaves |
+| 38513 | pictures/38513.webp | Somatic hybridisation: two species, one cell — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant somatic hybridisation — fusing cells across species |
+| 38514 | pictures/38514.webp | Meristem in front, permanent tissue behind — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant tissues — meristem and permanent tissues |
+| 38515 | pictures/38515.webp | From dividing tips to four finished tissues — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Plant tissues — meristems and definitive tissues |
+| 38516 | pictures/38516.webp | Pollen and embryo sac: the two beginnings — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Pollen and embryo sac development |
+| 38517 | pictures/38517.webp | Pollutants meet cells: two microscope fields — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Pollutants and cell life |
+| 38518 | pictures/38518.webp | Polygenic inheritance: a staircase of heights — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Polygenic inheritance |
+| 38519 | pictures/38519.webp | Describing a population: how many, of what kind — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Population characteristics and structure |
+| 38520 | pictures/38520.webp | The sponge: a living water pump — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Porifera — sponges: body plan and feeding |
+| 38521 | pictures/38521.webp | Posture written in the spine — and the foot — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Posture and musculoskeletal hygiene |
+| 38522 | pictures/38522.webp | Sitting two ways: slumped, then straight — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Posture and musculoskeletal hygiene |
+| 38523 | pictures/38523.webp | Precision medicine: the same bottle, two genomes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Precision medicine — treatment by genome |
+| 38524 | pictures/38524.webp | Protection: a firm stop, and people to tell — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Preventing sexual abuse |
+| 38525 | pictures/38525.webp | Growth in length — and in thickness, ring by ring — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Primary and secondary growth in plants |
+| 38526 | pictures/38526.webp | Acellular agents: smaller than cells, still harmful — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Prions, viroids and other acellular agents |
+| 38527 | pictures/38527.webp | Productivity: the meadow's ledger — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Productivity of ecosystems |
+| 38528 | pictures/38528.webp | Two cell fates: a tidy end, or no end — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Programmed cell death and immortal cells |
+| 38529 | pictures/38529.webp | Protected areas — and the Red Book's pages — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Protected areas and the Red Book of Kazakhstan |
+| 38530 | pictures/38530.webp | Backwards along the dogma: job to gene — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Protein engineering — designing proteins backwards |
+| 38531 | pictures/38531.webp | Protist algae: three body plans — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Protist algae — dinoflagellates, euglenoids and diatoms |
+| 38532 | pictures/38532.webp | Public health: refuse, sewage, safe food — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Public health — refuse, sewage and food safety |
+| 38533 | pictures/38533.webp | An open biology book: branches, and a call to study — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Quranic instructions and the study of life |
+| 38534 | pictures/38534.webp | Radiometric dating: the halving clock — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Radiometric dating — a geological clock |
+| 38535 | pictures/38535.webp | Gene expression: same genome, different switches on — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Regulation of gene expression |
+| 38536 | pictures/38536.webp | Hermaphrodites pairing: worms and snails — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Reproduction in earthworm and garden snail |
+| 38537 | pictures/38537.webp | The amniotic egg: four membranes, one embryo — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Reptiles — the amniotic egg and embryonic membranes |
+| 38538 | pictures/38538.webp | Resistance: the survivors inherit the field — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Resistance — evolution in action |
+| 38539 | pictures/38539.webp | Plants breathe too — at leaf, stem and root — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Respiration in plants |
+| 38540 | pictures/38540.webp | Respiratory quotient: which fuel is burning? — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Respiratory quotient and respiratory substrates |
+| 38541 | pictures/38541.webp | Endogamy: the same allele from both sides — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Risks of endogamy — consanguineous marriage |
+| 38542 | pictures/38542.webp | Rudiments: leftovers of working ancestors' parts — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Rudimentary organs and atavisms |
+| 38543 | pictures/38543.webp | Saltwater intrusion: a lens of fresh water at risk — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Saltwater intrusion and coastal aquifers |
+| 38544 | pictures/38544.webp | The boundary moves in steps — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Saltwater intrusion and coastal aquifers |
+| 38545 | pictures/38545.webp | Savannah: open grass, farms, fire — forest behind — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Savannah grasslands and derived savannah |
+| 38546 | pictures/38546.webp | High-throughput screening: thousands of wells, one hit — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Screening microbes at scale — high-throughput screening |
+| 38547 | pictures/38547.webp | Seasonal cycles: one year, two years, many — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Seasonal development cycles of plants — annual, biennial, perennial |
+| 38548 | pictures/38548.webp | Secondary growth: the cambium builds the wood — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Secondary growth — vascular cambium and wood formation |
+| 38549 | pictures/38549.webp | A seed bank: the harvest, frozen for the future — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Seed banks and ex-situ conservation |
+| 38550 | pictures/38550.webp | Dormancy — and how it breaks — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Seed dormancy and how it breaks |
+| 38551 | pictures/38551.webp | Signs of a chemical reaction: colour, gas — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Signs of a chemical reaction |
+| 38552 | pictures/38552.webp | Single-cell protein: grown, dried, eaten — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Single-cell protein |
+| 38553 | pictures/38553.webp | Three skeletons: fluid, armour, bone — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Skeletons — hydrostatic, exoskeleton and endoskeleton |
+| 38554 | pictures/38554.webp | Skin: healthy, infected — and kept clean — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Skin diseases and skin hygiene |
+| 38555 | pictures/38555.webp | Sleep's stages across one night — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Sleep and the body |
+| 38556 | pictures/38556.webp | Soil pollution — and its controls — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Soil pollution and its control |
+| 38557 | pictures/38557.webp | Soil settles into layers: measure each one — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Soil — properties and fertility |
+| 38558 | pictures/38558.webp | Two nervous pathways: direct, and relayed — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Somatic and autonomic (vegetative) nervous system |
+| 38559 | pictures/38559.webp | Specialised cells: flat, and fringed — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Specialised cells and cell specialisation |
+| 38560 | pictures/38560.gif | Cilia beat in waves, sweeping mucus along — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Biology, Specialised cells and cell specialisation |
+| 38561 | pictures/38561.webp | Specific defence: your own, or borrowed — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Specific defence and immunity |
+| 38562 | pictures/38562.webp | Totipotency: one cell, a tree of lives — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Stem cells and totipotency |
+| 38563 | pictures/38563.webp | Stem cells: one cell, many futures — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Stem cells |
+| 38564 | pictures/38564.webp | Stigma shuts the circle; inclusion opens it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Stigma, prejudice and inclusion in health |
+| 38565 | pictures/38565.webp | The stoma: shut by slack cells, opened by swollen ones — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Stomata — opening by guard-cell turgor |
+| 38566 | pictures/38566.gif | Swelling opens the pore; shrinking closes it — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Biology, Stomata — opening by guard-cell turgor |
+| 38567 | pictures/38567.webp | One stoma, open and closed — and a chloroplast — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Stomata — opening, closing and transpiration |
+| 38568 | pictures/38568.webp | The day-night clock: stress crossed by sleep — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Stress, sleep and mental health |
+| 38569 | pictures/38569.webp | Structures fit to two habitats — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Structural adaptations of animals to their environment |
+| 38570 | pictures/38570.webp | Plant structures: saving water, standing tall — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Structural adaptations of plants to their environment |
+| 38571 | pictures/38571.webp | Support: the same job, two kingdoms — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Support in plants and animals |
+| 38572 | pictures/38572.webp | Support in plants: pressure, corners, ropes, pipes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Support in plants — tissues and turgor |
+| 38573 | pictures/38573.webp | Surface area to volume: size changes the ratio — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Surface area to volume ratio and cell size |
+| 38574 | pictures/38574.webp | CRISPR editing: find, cut, repair — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Synthetic biology and CRISPR |
+| 38575 | pictures/38575.webp | Molecular techniques: the bench in a row — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Techniques of molecular biology |
+| 38576 | pictures/38576.webp | Plant or animal? Rooted maker, walking eater — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Telling plants from animals |
+| 38577 | pictures/38577.webp | Telomeres: the caps that shorten with age — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Telomeres and cellular ageing |
+| 38578 | pictures/38578.webp | The autonomic system: two paths to every organ — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The autonomic nervous system |
+| 38579 | pictures/38579.webp | Embryos: alike at first, diverging as they grow — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The biogenetic law and developmental patterns |
+| 38580 | pictures/38580.webp | System by system — then cancer — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The biology of cancer |
+| 38581 | pictures/38581.webp | The brain's hidden plumbing, found in 2015 — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The brain's lymphatic vessels — a 2015 discovery |
+| 38582 | pictures/38582.webp | The central dogma: DNA to RNA to protein — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The central dogma of molecular biology |
+| 38583 | pictures/38583.webp | The cytoskeleton: ropes inside the cell — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The cytoskeleton |
+| 38584 | pictures/38584.webp | One foot, printed on the whole Earth — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The ecological footprint |
+| 38585 | pictures/38585.webp | The ecological niche: one tree, three lives — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The ecological niche |
+| 38586 | pictures/38586.webp | The endomembrane system: a factory line in the cell — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The endomembrane system |
+| 38587 | pictures/38587.webp | A poster of rules against cancer — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The European Code Against Cancer |
+| 38588 | pictures/38588.webp | The fluid mosaic: a membrane with workers in it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The fluid mosaic model of the cell membrane |
+| 38589 | pictures/38589.webp | Cancer's genetics: a broken switchboard — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The genetic basis of cancer |
+| 38590 | pictures/38590.webp | The genetic code: read in threes — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The genetic code |
+| 38591 | pictures/38591.webp | The greenhouse effect in two jars — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The greenhouse effect |
+| 38592 | pictures/38592.webp | Hardy-Weinberg: the alleles hold their balance — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The Hardy–Weinberg law |
+| 38593 | pictures/38593.webp | The internal environment: fluids in and around cells — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The internal environment — the fluid cells live in |
+| 38594 | pictures/38594.webp | A sheep kidney: whole, then cut open — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The kidney — external and internal structure |
+| 38595 | pictures/38595.webp | The language areas: four patches, four losses — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The language areas of the cortex |
+| 38596 | pictures/38596.webp | The marsh: wet ground, reeds, frogs, birds — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The marsh habitat |
+| 38597 | pictures/38597.webp | The nucleus on trial: four classic experiments — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The nucleus — and its classic experiments |
+| 38598 | pictures/38598.webp | Pressure flow: from source leaf to sink fruit — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The pressure-flow hypothesis |
+| 38599 | pictures/38599.webp | The seashore in three bands — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The seashore community |
+| 38600 | pictures/38600.webp | The shore through one tide — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The seashore community |
+| 38601 | pictures/38601.webp | Biodiversity's values: three baskets — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The values of biodiversity — direct, indirect, potential |
+| 38602 | pictures/38602.webp | Balance: the inner ear reports to the brain — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, The vestibular analyser and balance |
+| 38603 | pictures/38603.webp | Energy leaks as heat at every step — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Thermodynamics and entropy in ecosystems |
+| 38604 | pictures/38604.webp | Traditional healing: the garden is the pharmacy — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Traditional healing and medicinal plants |
+| 38605 | pictures/38605.webp | Transpiration proven — and the two saps — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Transpiration and sap movement in plants |
+| 38606 | pictures/38606.webp | The transpiration stream: up, and out — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Transpiration and the transpiration stream |
+| 38607 | pictures/38607.webp | Transport in two kingdoms — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Transport of substances in multicellular organisms |
+| 38608 | pictures/38608.webp | Tree rings: a diary of past climates — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Tree rings — reading past climates |
+| 38609 | pictures/38609.webp | Rainforest storeys: four layers of life — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Tropical rainforest — structure and adaptations |
+| 38610 | pictures/38610.webp | Tsetse and trypanosomiasis: breaking the cycle — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Tsetse fly, trypanosomiasis and vector control |
+| 38611 | pictures/38611.webp | Nervous systems: net, chain, tube — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Types of nervous systems — diffuse, nodal and tubular |
+| 38612 | pictures/38612.webp | Engineered vaccines: yeast, syringe, shield — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Vaccines made by genetic engineering |
+| 38613 | pictures/38613.webp | Variation: the smooth bell, the separate bars — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Variation — continuous and discontinuous |
+| 38614 | pictures/38614.webp | Variation: inherited, or only environmental — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, Variation — hereditary and non-hereditary |
+| 38615 | pictures/38615.webp | A damaged membrane leaks: step by step — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, What affects the cell membrane |
+| 38616 | pictures/38616.webp | When immunity goes wrong: three failures — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, When the immune system goes wrong |
+| 38617 | pictures/38617.webp | World biomes: pole to equator in bands — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, World biomes |
+| 38618 | pictures/38618.webp | Name each biome as the line enters it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, World biomes |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |

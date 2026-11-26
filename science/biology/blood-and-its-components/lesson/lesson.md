@@ -8,7 +8,11 @@ Afghanistan's Grade 9 Biology book opens its circulation chapter with blood and 
 
 In your mind's eye: a drop of blood under the microscope, labelled — many small red discs, one large white cell with its nucleus, tiny platelets between them, all in pale plasma.
 
+[Picture 38287 — a drop of blood under the]
+
 In your mind's eye: blood flowing through a vessel — red cells streaming past carrying oxygen, a white cell squeezing toward a germ, and at a small cut platelets gathering while fibrin threads net the cells into a clot. Name each component as it works.
+
+[Picture 38288 — blood at work carrying hunting clotting]
 
 ## The key facts
 **Plasma — the carrier.** A little over half of blood is plasma: water with dissolved sugars, amino acids, salts, hormones, vitamins and wastes like urea riding in it. Everything the blood delivers dissolved travels in the plasma; everything solid in blood is a cell or a cell fragment.

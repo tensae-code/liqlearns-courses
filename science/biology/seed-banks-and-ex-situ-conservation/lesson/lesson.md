@@ -8,6 +8,8 @@ Seed banks conserve species outside the place they live — ex-situ conservation
 
 In your mind's eye: a vault door set into an icy mountain, shelves of labelled seed packets inside stretching back in rows, with a wheat field in summer drawn outside the door.
 
+[Picture 38549 — a seed bank the harvest frozen]
+
 ## The key facts
 **Module 10: The Svalbard Global Seed Bank.** Module 10: The Svalbard Global Seed Bank
 

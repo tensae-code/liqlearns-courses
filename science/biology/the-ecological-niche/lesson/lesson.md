@@ -8,6 +8,8 @@ A habitat is an address; a niche is a job and a life. North Macedonia's Biology 
 
 In your mind's eye: one tree drawn three ways: a bird hunting insects in the top branches, a bird feeding on the trunk, and a mouse eating fallen seeds under the tree — one address, three niches, marked with labels.
 
+[Picture 38585 — the ecological niche one tree three]
+
 ## The key facts
 **The niche is the whole way of life.** An ecological niche is not just the place an organism lives. It is the place plus everything the organism does and needs there: its food, its enemies, its times of activity, its part in the community's web.
 

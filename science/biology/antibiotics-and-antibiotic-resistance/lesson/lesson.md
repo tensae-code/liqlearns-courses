@@ -8,6 +8,8 @@ Antibiotics kill bacteria — Fleming's discovery of penicillin in 1928 opened t
 
 In your mind's eye: a petri dish with a penicillin disc and a clear killed zone around it, beside a second dish where resistant bacteria grow right up to the disc, labelled resistance.
 
+[Picture 38269 — antibiotics the clear zone and]
+
 ## The key facts
 **§10.3.** Fleming's discovery of penicillin (1928) and bacterial resistance to antibiotics (incl. MRSA in the glossary) as its own teaching block
 

@@ -8,6 +8,8 @@ A genomic library stores a whole genome as cloned DNA fragments in bacteria — 
 
 In your mind's eye: shelves of bacterial colonies drawn as library books, one shelf labelled 'whole genome' and a smaller one 'genes in use', with a glowing probe pulling one book out.
 
+[Picture 38414 — gene libraries colonies shelved like books]
+
 ## The key facts
 **Ch. 4.** a genomic library holds a whole genome (p. 61); cloning mRNA to build a cDNA library (p. 64); nucleic-acid hybridisation to detect clones (p. 64)
 

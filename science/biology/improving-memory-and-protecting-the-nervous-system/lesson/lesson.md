@@ -8,6 +8,8 @@ Memory can be improved by named methods — repetition, association and a regula
 
 In your mind's eye: a brain drawn with a training loop of arrows labelled repeat and associate on one side, and three crossed-out harm items — alcohol, cigarette, drugs. On the other.
 
+[Picture 38444 — train the brain refuse what harms]
+
 ## The key facts
 **§47 Ways to improve memory. Influence of negative factors on the work of the nervous system.** memory-training methods and what harms the nervous system
 

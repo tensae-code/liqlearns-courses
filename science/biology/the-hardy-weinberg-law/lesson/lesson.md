@@ -8,6 +8,8 @@ In a population that is not evolving — no selection, no mutation, no migration
 
 In your mind's eye: a Punnett-style grid for two alleles A and a with the three boxes labelled p², 2pq and q², beside a balance scale standing level across two generations.
 
+[Picture 38592 — hardy-weinberg the alleles hold their balance]
+
 ## The key facts
 **Frequencies, not individuals.** Population genetics counts how common each allele is in a whole population — the allele frequency — and how common each genotype is. The Hardy–Weinberg law is a statement about those frequencies.
 

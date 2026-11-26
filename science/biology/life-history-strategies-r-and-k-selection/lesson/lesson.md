@@ -8,6 +8,8 @@ Organisms hold their place by two broad life strategies: r-strategists make many
 
 In your mind's eye: two panels. A fish releasing thousands of eggs labelled r-strategy, and an elephant guarding one calf labelled K-strategy, with a scale of offspring number against care beneath.
 
+[Picture 38459 — life histories many-and-cheap or few-and-guarded]
+
 ## The key facts
 **11.4 Ecological strategies of organisms' viability.** 11.4 Ecological strategies of organisms' viability
 

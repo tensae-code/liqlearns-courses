@@ -8,6 +8,8 @@ The soil bacterium Agrobacterium naturally carries genes into plant cells on its
 
 In your mind's eye: a soil bacterium touching a plant cell, its small circular plasmid drawn travelling across into the plant cell's nucleus.
 
+[Picture 38256 — agrobacterium a bacterium that delivers genes]
+
 ## The key facts
 **Ch. 9.** Agrobacterium can carry genes into plants
 

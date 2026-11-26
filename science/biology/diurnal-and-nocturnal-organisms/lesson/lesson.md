@@ -8,6 +8,8 @@ Living things keep biological rhythms — some are active by day and some by nig
 
 In your mind's eye: a split day-and-night scene. On the day side a flower open in sunlight, on the night side the same flower closed and a nocturnal animal with large shining eyes awake under the moon.
 
+[Picture 38350 — day and night the flower sleeps]
+
 ## The key facts
 **2.2 Diurnal and nocturnal organisms.** Moldova's Grade 6 book (2.2 Diurnal and nocturnal organisms) teaches: orientation in time / biological rhythms, flower opening-closing times table, nocturnal animals' reflective eye layer and large eyes (e.g. tarsier-like "maki"). (printed p. 16).
 

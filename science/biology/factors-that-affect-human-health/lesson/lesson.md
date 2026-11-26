@@ -8,6 +8,8 @@ Human health is shaped by three families of factors together — the environment
 
 In your mind's eye: a person in the centre with three rings of influence around them labelled environment, lifestyle and heredity, each ring holding small examples.
 
+[Picture 38383 — health three rings of influence around]
+
 ## The key facts
 **§1.1.** factors that influence human health (environment, lifestyle, heredity framing)
 

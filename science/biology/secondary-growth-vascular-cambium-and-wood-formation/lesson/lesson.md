@@ -8,6 +8,8 @@ lateral meristems, the vascular cambium ring between xylem and phloem, and the f
 
 In your mind's eye: a woody stem cross-section with the vascular cambium ring picked out between the xylem inside and the phloem outside, and annual rings drawn in the wood.
 
+[Picture 38548 — secondary growth the cambium builds the]
+
 ## The key facts
 **Lateral meristems.** Kuwait's Grade 11 Term 1 student book (Lesson 1-4, printed pp. 55–58) teaches secondary growth through the lateral meristems.
 

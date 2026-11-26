@@ -8,6 +8,8 @@ A plant's seasonal development cycle is fitted to its lifespan: annual plants co
 
 In your mind's eye: three plants in a row across the seasons. An annual completing its life in one year, a biennial over two years, and a perennial returning year after year.
 
+[Picture 38547 — seasonal cycles one year two years]
+
 ## The key facts
 **5.3 Seasonal aspects of plant development cycles.** Moldova's Grade 7 book (5.3 Seasonal aspects of plant development cycles) teaches: annual, biennial and perennial plants, biorhythms. (printed p. 142).
 

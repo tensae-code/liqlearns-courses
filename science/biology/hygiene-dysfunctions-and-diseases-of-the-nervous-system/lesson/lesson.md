@@ -8,6 +8,8 @@ the system's common disorders, multiple sclerosis among them, and how the system
 
 In your mind's eye: a neuron with its myelin sheath shown damaged in patches, labelled multiple sclerosis, beside a short list of habits that keep the nervous system healthy.
 
+[Picture 38436 — a damaged sheath and the]
+
 ## The key facts
 **Nervous system health.** Kuwait's Grade 12 Term 1 student book (Lesson 5-1, printed p. 51) gives the nervous system a health lesson of its own: the system's common disorders, multiple sclerosis among them.
 

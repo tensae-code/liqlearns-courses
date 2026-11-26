@@ -8,6 +8,8 @@ Pharmacology is the study of drugs — what they are, how they act on the body, 
 
 In your mind's eye: two shelves side by side. On one, a labelled medicine bottle, a strip of antibiotic tablets and a vaccine vial with a syringe; on the other, the same shapes crossed by a warning band, with a downward spiral drawn behind them.
 
+[Picture 38500 — two shelves healing drugs harmful drugs]
+
 ## The key facts
 **Drugs studied as a science.** Pharmacology studies drugs themselves: their sources, their actions on the living body, their doses and their dangers. A drug is any substance that changes how the body works — for healing or for harm.
 

@@ -8,7 +8,11 @@ Afghanistan's Grade 9 Biology book closes its digestive-system chapter with that
 
 In your mind's eye: the hygiene chain in four panels — hands washed with soap, a covered pot of clean water, vegetables being washed, and food cooking thoroughly. Each panel labelled with the barrier it makes.
 
+[Picture 38347 — the hygiene chain four barriers in]
+
 In your mind's eye: a fly walking from waste onto uncovered food, then the same food covered, washed and cooked, and hands washed before eating. Name the barrier that stops the germs at each step.
+
+[Picture 38348 — the fly's road and the]
 
 ## The key facts
 **Disorders of the canal.** Diarrhoea and dysentery empty the body of water dangerously fast; constipation is the opposite failure of movement. Indigestion and acid pain follow overeating and spoiled or irritating food, and an ulcer is a sore in the stomach or intestine wall, worsened by acid.

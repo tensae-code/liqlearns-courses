@@ -8,6 +8,8 @@ A cell's long DNA is packaged with protein into chromosomes — DNA wound around
 
 In your mind's eye: a length of DNA winding twice around a cluster of histone beads to make a nucleosome, the beaded string coiling into a fibre and then into one X-shaped chromosome with its centromere pinched near the middle, beside a karyotype chart of chromosome pairs laid out in size order.
 
+[Picture 38322 — from dna thread to chromosome]
+
 ## The key facts
 **Packaging — nucleosomes.** DNA does not lie loose in the nucleus. It winds around histone proteins, forming bead-like units called nucleosomes, and the beaded string folds further until, at division, it is packed into the dense rod we call a chromosome. A chromosome is therefore a macromolecule of DNA plus protein.
 

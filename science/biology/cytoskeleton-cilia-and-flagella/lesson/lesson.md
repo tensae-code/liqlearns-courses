@@ -8,6 +8,8 @@ A cell is not a still bag of parts. Italy's Grade 9 textbook, *La nuova biologia
 
 In your mind's eye: one cell cut open to show the fibre framework of the cytoskeleton inside it, beside a second cell covered in short beating cilia and a third cell with one long whip-like flagellum.
 
+[Picture 38343 — fibres inside cilia and flagella outside]
+
 ## The key facts
 **The cytoskeleton is the cell's inner framework.** A network of fibres runs through the cell's interior. It holds the cell's shape from inside, anchors the organelles, and serves as the tracks along which materials are moved within the cell — the skeleton the cell carries inside itself.
 

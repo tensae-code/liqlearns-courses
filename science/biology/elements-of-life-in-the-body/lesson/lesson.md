@@ -8,6 +8,8 @@ A living body is built from chemical elements — macroelements taken in bulk an
 
 In your mind's eye: a human figure with a pie chart beside it of the body's main elements — oxygen, carbon, hydrogen, nitrogen. And a small row of trace elements below, iron among them labelled for blood.
 
+[Picture 38365 — the body's elements four great many]
+
 ## The key facts
 **4.2 Chemical elements in human body.** the body's element composition as its own lesson
 

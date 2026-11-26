@@ -8,7 +8,11 @@ A leaf exchanges gases with the air through tiny pores called stomata, and each 
 
 In your mind's eye: a stoma drawn twice — closed between two flaccid guard cells, and open between two swollen, turgid guard cells bulging outwards.
 
+[Picture 38565 — the stoma shut by slack cells]
+
 In your mind's eye: guard cells swelling with water and bulging outwards so the pore between them opens, then losing water and shrinking so the pore closes.
+
+[GIF 38566 — swelling opens the pore shrinking closes]
 
 ## The key facts
 **The stoma and its guard cells.** A stoma is a small pore in the leaf's surface. Two guard cells frame it, one on each side, and their shape decides whether the pore is open or shut.

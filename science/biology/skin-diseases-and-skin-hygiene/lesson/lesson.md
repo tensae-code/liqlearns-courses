@@ -8,6 +8,8 @@ The skin has its own diseases — infectious, allergic and parasitic — and ski
 
 In your mind's eye: a skin cross-section with one healthy labelled panel and one panel showing a small infection entering through an untreated cut, beside a row of hygiene items — soap, water and a towel marked 'mine only'.
 
+[Picture 38554 — skin healthy infected and kept]
+
 ## The key facts
 **§30 Skin diseases and hygiene.** §30 Skin diseases and hygiene
 

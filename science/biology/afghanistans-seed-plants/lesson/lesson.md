@@ -8,7 +8,11 @@ Afghanistan's Grade 7 Biology book ends its botany with the country's own seed p
 
 In your mind's eye: three Afghan seed plants side by side — a pine branch with cones, a wheat head heavy with grain, and a pomegranate branch with fruit. Each labelled with its group, gymnosperm or angiosperm.
 
+[Picture 38253 — seed plants cones bare flowers enclosed]
+
 In your mind's eye: a pine cone opening and letting its winged seeds fall, then a wheat seed swelling, splitting and sending out its first root and shoot. Name the group each plant belongs to.
+
+[Picture 38254 — seeds on the move and seeds]
 
 ## The key facts
 **Seed plants bear seeds.** Seed plants are plants that reproduce by seeds. A seed carries the young plant (the embryo) together with a store of food, protected by a seed coat — which is why a seed plant can spread and survive dry times better than a plant that must scatter bare spores.

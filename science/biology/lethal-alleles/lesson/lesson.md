@@ -8,6 +8,8 @@ Some alleles are lethal: in two copies — or one, for a dominant lethal — the
 
 In your mind's eye: a Punnett square of a mouse coat cross with one of its four boxes crossed out and the surviving mice drawn beneath, counted 2:1.
 
+[Picture 38456 — a lethal allele the cross that]
+
 ## The key facts
 **Ch. 5.** lethal alleles
 

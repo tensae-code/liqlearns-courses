@@ -8,6 +8,8 @@ Ecology becomes science when the habitat's conditions are measured. Nigeria's Se
 
 In your mind's eye: a field kit laid out and labelled. Thermometer, wet-and-dry-bulb hygrometer, wind vane, anemometer, light meter and aneroid barometer.
 
+[Picture 38466 — the abiotic field kit laid out]
+
 ## The key facts
 **Every factor has its instrument.** Abiotic factors are measured, not guessed: each one — temperature, humidity, wind, light, elevation — has an instrument built for it.
 

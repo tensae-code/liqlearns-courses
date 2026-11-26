@@ -8,6 +8,8 @@ Animal nervous systems climb an evolutionary ladder: the diffuse nerve net of a 
 
 In your mind's eye: three animals in a row — a hydra with a net of nerves spread through it, an earthworm with a knotted nerve chain, and a fish with a brain and spinal cord drawn as one tube. Each system highlighted.
 
+[Picture 38611 — nervous systems net chain tube]
+
 ## The key facts
 **§7.2 Types of nervous systems.** diffuse nerve net (hydra), nodal/ganglion system (worms, grasshopper), tubular system of vertebrates on p. 79, compared as an evolutionary ladder
 

@@ -8,6 +8,8 @@ The respiratory system is protected by hygiene against its risk factors and dise
 
 In your mind's eye: a person covering mouth and nose when coughing, with separate labelled utensils, linen and personal objects kept apart from others'.
 
+[Picture 38437 — breathing hygiene cover the cough keep]
+
 ## The key facts
 **§32 Hygiene, dysfunctions and diseases of the respiratory system.** Moldova's Grade 11 book (§32 Hygiene, dysfunctions and diseases of the respiratory system) teaches: risk factors; infectious patients covering mouth and nose and using strictly individual utensils, linen and objects. (printed p. 105).
 

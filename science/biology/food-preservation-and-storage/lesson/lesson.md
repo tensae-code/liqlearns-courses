@@ -8,6 +8,8 @@ A good harvest can still be lost after it leaves the farm. Chapter 9 of Nigeria'
 
 In your mind's eye: yams stacked in a traditional barn, beside preserved foods labelled with their principles. Heated (sealed tin), frozen, salted fish, sugared preserve.
 
+[Picture 38398 — preservation heat cold salt and sugar]
+
 ## The key facts
 **Why harvests are wasted.** The causes of wastage: incomplete harvesting, late harvesting, weather, pests, and poor storage — the harvest can be lost at every step after growing.
 

@@ -8,6 +8,8 @@ a mammalian heart dissected following pictured steps; chambers and valves identi
 
 In your mind's eye: a mammalian heart cut open with its chambers and valves numbered 1 to 14 on a diagram beside it, the thick wall of the left ventricle visibly thicker than the right.
 
+[Picture 38424 — the mammalian heart cut open]
+
 ## The key facts
 **The dissection.** Kuwait's Grade 11 Term 2 applications workbook (Activity 11, printed p. 40) dissects a mammalian heart following pictured steps.
 

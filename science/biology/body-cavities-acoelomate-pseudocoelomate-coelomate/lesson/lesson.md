@@ -8,7 +8,11 @@ Fiji's Year 13 Biology book runs its whole animal survey up one ladder: the body
 
 In your mind's eye: the three body plans cut across — three worm-like bodies in cross-section: the first solid inside with the gut in packed tissue, the second with an unlined space around the gut, the third with the gut and organs lying in a lined cavity. Each labelled acoelomate, pseudocoelomate, coelomate.
 
+[Picture 38291 — three body plans solid false cavity]
+
 In your mind's eye: the ladder climbing in steps — a solid body, then a body with a false cavity, then a body with a true lined coelom, the cavity space lighting up at each step. Name each grade as it appears.
+
+[Picture 38292 — the ladder of body plans the]
 
 ## The key facts
 **Acoelomate — no cavity.** In acoelomate animals there is no body cavity at all: the space between the gut and the body wall is packed solid with tissue. The flatworms are the standing example — flat, with no room inside for organs to lie in a fluid-filled space, and every cell kept near the surface or the gut.

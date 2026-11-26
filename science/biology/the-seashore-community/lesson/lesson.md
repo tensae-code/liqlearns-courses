@@ -8,7 +8,11 @@ Fiji's Year 11 Biology book does not study ecology only in definitions. Inside i
 
 In your mind's eye: a Fijian seashore in three bands — the dry top shore, the middle shore the tide covers and uncovers, and the low shore by the water. With the living things of each band drawn in their band and labelled.
 
+[Picture 38599 — the seashore in three bands]
+
 In your mind's eye: a shore through one tide in steps — the sea rises and covers the low and middle shore, then falls and uncovers them again. Name each zone as the water leaves it.
+
+[Picture 38600 — the shore through one tide]
 
 ## The key facts
 **A whole community, in its place.** A community is all the living things living together in one place. The seashore study takes one real community — the shore — and studies the whole of it together: not one animal or one plant alone, but every kind in its place, with the conditions of that place.

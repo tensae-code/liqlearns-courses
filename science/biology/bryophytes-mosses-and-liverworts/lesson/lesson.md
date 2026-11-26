@@ -8,6 +8,8 @@ Mozambique's plant module (Módulo 2) climbs the plant kingdom phylum by phylum,
 
 In your mind's eye: a flat lobed liverwort lying like a green ribbon on damp ground beside an upright Funaria moss with its rhizoids below, cauloid stem and phylloid leaves labelled, under a rain cloud with droplets — the water the plant still needs.
 
+[Picture 38303 — liverwort and moss still tied to]
+
 ## The key facts
 **Amphibians of the plant kingdom.** Bryophytes are avascular — they have no conducting vessels — and stay under about 30 cm tall. A cuticle protects them on land, but fertilisation still needs liquid water: that half-in, half-out life is why the module calls them the amphibians of the plant kingdom.
 

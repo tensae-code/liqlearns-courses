@@ -8,6 +8,8 @@ radial symmetry in simple animals like sea anemones, bilateral symmetry, and cep
 
 In your mind's eye: a sea anemone drawn from above with radial symmetry lines, beside a bilateral animal with its head end marked and sense organs and nerve cells clustered at the front, labelled cephalisation.
 
+[Picture 38293 — radial all round or a]
+
 ## The key facts
 **Radial and bilateral symmetry.** Kuwait's Grade 10 Term 2 student book (Unit 2, Lesson 1-1, printed pp. 19–20) teaches radial symmetry in simple animals like sea anemones, set against bilateral symmetry.
 

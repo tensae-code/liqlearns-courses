@@ -8,6 +8,8 @@ Jordan's Grade 11 student book closes its plant-response lesson with an enrichme
 
 In your mind's eye: the cut face of a tree trunk showing its rings — some rings wide and pale, some squeezed thin and dark. With one wide ring labelled “warm, wet year” and one thin ring labelled “cold, dry year”.
 
+[Picture 38608 — tree rings a diary of past]
+
 ## The key facts
 **Rings record local climate.** Trees record the climate of their own place: each ring's growth answers the conditions of its year in that place.
 

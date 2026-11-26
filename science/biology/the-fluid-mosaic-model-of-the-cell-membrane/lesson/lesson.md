@@ -8,6 +8,8 @@ the fluid mosaic model; membrane proteins classified by job: channel, carrier, r
 
 In your mind's eye: a cell membrane drawn as two rows of phospholipid heads and tails with protein shapes embedded in it — a channel, a carrier, a receptor and a marker protein each labelled with its job.
 
+[Picture 38588 — the fluid mosaic a membrane with]
+
 ## The key facts
 **The fluid mosaic model.** Kuwait's new Grade 10 student book (Lesson 1-2, printed pp. 35–36) presents the cell membrane through the fluid mosaic model: the lipid layer is fluid — its parts can move — and the proteins sit in it as a mosaic of different pieces.
 

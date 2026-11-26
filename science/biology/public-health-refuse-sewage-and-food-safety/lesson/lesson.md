@@ -8,6 +8,8 @@ Health is not only the doctor's work. Chapter 12 of Nigeria's Senior Secondary B
 
 In your mind's eye: a neighbourhood health panel. A lidded dustbin, an incinerator, a pit latrine and a septic tank in cross-section, and an inspector checking a market food stall.
 
+[Picture 38532 — public health refuse sewage safe food]
+
 ## The key facts
 **A shared duty.** Public health is community health: the chapter teaches it as a duty everyone shares, not a service done to passive people.
 

@@ -8,6 +8,8 @@ Mozambique's first PESD I module (2023) teaches the adaptation of plant organs t
 
 In your mind's eye: a row of four drawings. Maize with prop roots dropping from its stem nodes into the soil; a climbing plant's curling tendril gripping a stick; a banana plant with its sheath "trunk" cut to show the rhizome underground; and a dry-place plant with flattened green cladodes and spines where leaves would be.
 
+[Picture 38512 — plant organ adaptations four solutions]
+
 ## The key facts
 **Roots reshaped.** Roots may be aquatic, aerial/adventitious — the maize's prop roots grow from stem nodes to brace the plant — or fleshy storage roots swollen with food reserves.
 

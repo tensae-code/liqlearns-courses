@@ -8,6 +8,8 @@ The reproduction chapter of Iraq's Grade 12 Biology book climbs the kinds of rep
 
 In your mind's eye: a simple diagram of one animal body carrying both a male and a female reproductive organ, the two labelled side by side in the single body.
 
+[Picture 38425 — hermaphroditism both sexes in one body]
+
 ## The key facts
 **Both sexes, one body.** A hermaphrodite carries male and female reproductive organs in the same individual — one body holds both sets of gamete-making organs.
 

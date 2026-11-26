@@ -8,6 +8,8 @@ Every cell of a body carries the same genes, yet a muscle cell and a nerve cell 
 
 In your mind's eye: one genome drawn as a long control board of gene switches — in one cell only the “muscle” switches are on, in another only the “nerve” switches, though the board itself is identical.
 
+[Picture 38535 — gene expression same genome different switches]
+
 ## The key facts
 **Gene expression is a gene in use.** A gene is expressed when the cell reads it and makes its product — the RNA and protein the gene specifies. A gene that is not being read is present but silent.
 

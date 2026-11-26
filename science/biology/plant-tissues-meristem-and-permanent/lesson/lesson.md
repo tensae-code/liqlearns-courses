@@ -8,6 +8,8 @@ Plant anatomy begins with its tissues — plant histology. North Macedonia's Bio
 
 In your mind's eye: a shoot tip and a root tip marked as the dividing zones, with arrows showing meristem cells becoming the finished tissues of stem and root behind them — dividing tissue in front, permanent tissue behind.
 
+[Picture 38514 — meristem in front permanent tissue behind]
+
 ## The key facts
 **Histology starts with one question.** Plant histology is the study of plant tissues. The first sorting is by division: cells that still divide, and cells that have stopped. Everything else about plant tissues hangs on that one difference.
 

@@ -8,6 +8,8 @@ At the end of its reproduction chapter, Malaysia's Form 4 book teaches the forma
 
 In your mind's eye: two diagrams side by side. One fertilised egg splitting into two embryos labelled identical twins, and two separate eggs each fertilised, labelled fraternal twins.
 
+[Picture 38400 — twins two ways split or separate]
+
 ## The key facts
 **Identical (monozygotic) twins.** One egg is fertilised by one sperm, and the early embryo then splits into two. Both twins grow from the same fertilised egg, so they carry the same genes and are the same sex.
 

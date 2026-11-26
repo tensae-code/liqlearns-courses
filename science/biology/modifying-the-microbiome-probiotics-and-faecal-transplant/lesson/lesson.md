@@ -8,6 +8,8 @@ The human microbiote is the community of micro-organisms living in and on the bo
 
 In your mind's eye: a gut drawn as a garden of many small shapes, the microbiote, with two arrows coming in. One labelled "faecal transplant" bringing a whole new set of shapes, and one labelled "probiotics" bringing a small set; beside the garden, two gauges marked "weight" and "glycaemia".
 
+[Picture 38480 — replanting the gut garden]
+
 ## The key facts
 **The microbiome can be modified.** The manual treats the microbiote as something medicine can act on — not only observe. A disordered microbiote can be changed on purpose, and the change itself is the treatment.
 

@@ -8,6 +8,8 @@ Pollutants act at the level of the cell: Greece's Grade 11 laboratory guide test
 
 In your mind's eye: two microscope views of the same cells. One field green and dividing evenly, one field with shrunken and stopped cells under a grey haze.
 
+[Picture 38517 — pollutants meet cells two microscope fields]
+
 ## The key facts
 **Exercise 6.** effects of pollutants on the life of cells
 

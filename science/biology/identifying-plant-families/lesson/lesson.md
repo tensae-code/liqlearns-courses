@@ -8,6 +8,8 @@ Plant families are recognised by the build of their flowers and inflorescences �
 
 In your mind's eye: two plant heads side by side: a grass with three inflorescence kinds drawn — raceme, panicle, spike. And a composite flower head opened to show its many small florets.
 
+[Picture 38441 — naming plant families by their flower]
+
 ## The key facts
 **Module 1: Identifying plant families — Family Gramineae by inflorescence (raceme, panicle, spike), then Family Compositae.** Kazakhstan's grassland agriculture as the teaching ground
 

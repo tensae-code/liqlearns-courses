@@ -8,6 +8,8 @@ Why does a cell that should stop dividing keep going? Italy's Grade 11 Campbell,
 
 In your mind's eye: a control panel for cell division — gene switches labelled “divide” and “stop”, one switch broken by a mutation, and a signal wire carrying a garbled message to the cell.
 
+[Picture 38589 — cancer's genetics a broken switchboard]
+
 ## The key facts
 **Cancer depends on mutations in division-control genes.** The genes that control cell division — when to divide, when to stop — are the genes whose mutation matters here: change the controller, and the division it controls changes with it.
 

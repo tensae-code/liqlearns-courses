@@ -8,6 +8,8 @@ The autonomic nervous system runs the body's automatic life — heartbeat, diges
 
 In your mind's eye: a human outline with the heart, gut and eye connected by two coloured nerve paths, one labelled 'speed up — action' and one 'slow down. Rest'.
 
+[Picture 38578 — the autonomic system two paths to]
+
 ## The key facts
 **Ch. 9.** autonomic nervous system as a named section
 

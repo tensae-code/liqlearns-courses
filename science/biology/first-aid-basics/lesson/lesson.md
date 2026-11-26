@@ -8,7 +8,11 @@ Fiji's Year 11 Biology book closes its Social Biology chapter — human reproduc
 
 In your mind's eye: a first-aid scene in order — a helper kneeling by a hurt person, one hand pressing a cloth on a bleeding arm, the person lying still and covered warm, and a second person running for help. Each step numbered.
 
+[Picture 38388 — first aid in order press rest]
+
 In your mind's eye: the first minutes in steps — the helper checks the scene is safe, checks the person answers and breathes, presses on the bleeding, covers the person warm and sends for help. Say each step as it is done.
+
+[Picture 38389 — the first minutes five steps in]
 
 ## The key facts
 **First help, given at once.** First aid is the help given first, on the spot, to a person who is injured or suddenly ill. Its work is to keep the person alive and stop the harm growing worse until medical help takes over — it does not replace the doctor; it bridges the time before the doctor.

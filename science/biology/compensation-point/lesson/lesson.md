@@ -8,6 +8,8 @@ Inside its leaf chapter, Malaysia's Form 5 book names a precise balance point (p
 
 In your mind's eye: a graph of carbon dioxide exchange against light intensity, the curve crossing zero at a marked point labelled compensation point, with photosynthesis and respiration arrows shown equal there.
 
+[Picture 38338 — the compensation point making and using]
+
 ## The key facts
 **Two opposite flows.** Photosynthesis takes in carbon dioxide and builds food; respiration releases carbon dioxide and burns food. Both run in a living leaf — respiration day and night, photosynthesis only in light.
 

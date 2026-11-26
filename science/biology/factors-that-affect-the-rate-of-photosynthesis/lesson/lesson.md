@@ -8,6 +8,8 @@ The rate of photosynthesis is set by limiting factors — light intensity, carbo
 
 In your mind's eye: three rising-line graphs side by side for light, carbon dioxide and temperature, each flattening into a plateau labelled 'another factor now limits'.
 
+[Picture 38384 — photosynthesis speeds up until something]
+
 ## The key facts
 **§3.3.** factors affecting photosynthesis yield
 

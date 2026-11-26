@@ -8,6 +8,8 @@ Most school biology teaches food chains first and leaves the physics out. Costa 
 
 In your mind's eye: sunlight falling on grass; arrows carrying energy from grass to a grass-eater to a hunter, each arrow thinner than the one before, with wavy heat arrows leaving at every step.
 
+[Picture 38603 — energy leaks as heat at every]
+
 ## The key facts
 **The first law, in an ecosystem.** Energy is never created or destroyed — only transformed. The energy in a zebra's body was grass energy before that, and sunlight before that; none of it appeared from nothing, and none of it vanishes without going somewhere. An ecosystem's energy can always be accounted for.
 

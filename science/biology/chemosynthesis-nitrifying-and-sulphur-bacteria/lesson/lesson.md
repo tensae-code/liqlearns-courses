@@ -8,6 +8,8 @@ Green plants make food with light. Nigeria's Senior Secondary Biology 1, in Chap
 
 In your mind's eye: soil bacteria around a root, with arrows showing ammonium compounds turning to nitrites and nitrites to nitrates, releasing the energy the bacteria live on.
 
+[Picture 38318 — nitrifying bacteria live on the change]
+
 ## The key facts
 **Food-making without light.** Chemosynthesis is autotrophic nutrition powered by chemical energy instead of light: the organism oxidises a chemical substance and uses the energy released to build food.
 

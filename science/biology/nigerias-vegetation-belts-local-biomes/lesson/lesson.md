@@ -8,6 +8,8 @@ A biome is usually taught from the other side of the world. Nigeria's Senior Sec
 
 In your mind's eye: a map of Nigeria banded into its vegetation belts from south to north — rain forest, Southern Guinea savannah, Northern Guinea savannah, Sahel. With a shea tree and a locust bean tree drawn in the savannah band.
 
+[Picture 38487 — nigeria's vegetation belts south to north]
+
 ## The key facts
 **Belts at home.** Nigeria's vegetation belts are the local biomes of Chapter 7 — the worldwide biome idea taught on the country's own ground.
 

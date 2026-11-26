@@ -8,6 +8,8 @@ A living cell is not passive. Nigeria's Senior Secondary Biology 1 closes Chapte
 
 In your mind's eye: a single-celled organism swimming towards light and away from a harmful chemical, with arrows showing movement towards and away from each stimulus.
 
+[Picture 38311 — tactic movement towards good away from]
+
 ## The key facts
 **Cells react by moving.** Movement is a reaction: cells and organisms respond to changes in their environment by moving — one of the cell reactions Chapter 4 teaches.
 

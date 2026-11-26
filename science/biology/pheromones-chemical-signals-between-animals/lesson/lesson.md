@@ -8,6 +8,8 @@ Animals do not only signal with sound and sight. Vietnam's Sinh học 11 closes 
 
 In your mind's eye: a female silkworm moth releasing an invisible scent trail through the air, drawn as a dotted plume, with a male moth of the same species following the plume toward her; beside it, a field trap baited with pheromone, with male pest moths caught inside.
 
+[Picture 38502 — pheromones a scent only the species]
+
 ## The key facts
 **A signal in the air.** A pheromone is a chemical released by one animal that changes the behaviour of another animal of the same species — a message carried on scent, not on sound or sight.
 

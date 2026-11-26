@@ -8,6 +8,8 @@ Egypt's Grade 12 Biology book teaches immunity twice — in plants first, then i
 
 In your mind's eye: a plant stem in cross-section beside a leaf. The cutinised epidermis on the outside, a thorn, a xylem vessel blocked by a tylose, and a patch of gum on the bark of Acacia nilotica.
 
+[Picture 38511 — plant immunity walls thorns plugs gum]
+
 ## The key facts
 **Structural immunity — the barriers already there.** The plant's outside is armoured: a cutinised epidermis, hairs and thorns, and thickened cell walls keep pathogens out.
 

@@ -8,6 +8,8 @@ Biology is not only about the body. The human part of Azerbaijan's Grade 11 text
 
 In your mind's eye: the human part of Azerbaijan's book as a road: embryonic development, then the developing psyche, then the three named disorders — anxiety disorders, depression, psychoses. Then healthy family relations.
 
+[Picture 38470 — a life's road development disorders family]
+
 ## The key facts
 **The developing psyche.** The psyche develops as the person grows — §38 teaches the features of the development of the human psyche, the mind that feels, thinks and acts, developing through life like the rest of the human organism.
 

@@ -8,6 +8,8 @@ Cells talk to each other. One cell releases a signalling molecule; the molecule 
 
 In your mind's eye: a signalling molecule leaving one cell, crossing to a second cell, and fitting into a receptor on that cell's surface, with arrows carrying the signal onward inside the cell.
 
+[Picture 38312 — cell signalling a molecule a receptor]
+
 ## The key facts
 **Signalling molecules and cellular receptors.** The message is a molecule. A signalling cell releases signalling molecules — ligands — and they travel to target cells: some act on the cell next door, some are carried through the whole body, as hormones are. A target cell hears the message only if it carries the matching receptor, a protein shaped to bind that one ligand. Receptors sit on the cell's surface for water-soluble molecules that cannot cross the membrane, or inside the cell for molecules that can pass through. No receptor, no message — that matching is what makes signalling specific.
 

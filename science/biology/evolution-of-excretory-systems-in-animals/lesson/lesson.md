@@ -8,6 +8,8 @@ Excretory systems evolve along the animal line — from contractile vacuoles and
 
 In your mind's eye: a row of animals in evolutionary order — a single-celled organism, a flatworm, an earthworm, a fish and a bird. Each with its excretory structure drawn enlarged and its waste labelled ammonia, urea or uric acid.
 
+[Picture 38378 — excretion evolves the waste changes with]
+
 ## The key facts
 **§31 Evolution of the excretory system of animals.** excretory structures compared along the animal evolutionary line
 

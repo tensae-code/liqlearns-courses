@@ -8,6 +8,8 @@ Chapter 9 of Nigeria's Senior Secondary Biology 1 asks the practical question: h
 
 In your mind's eye: a terraced hillside with mulched beds, a farmer adding manure, and two labelled plants. Disease-resistant cassava and a budded orange tree.
 
+[Picture 38443 — raising the yield soil manure better]
+
 ## The key facts
 **Conserve the soil.** Soil conservation heads the list: terracing sloping land, mulching the surface, rotating crops, and not burning the bush — keeping the soil there and fertile.
 

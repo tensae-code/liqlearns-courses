@@ -8,6 +8,8 @@ Knowing a condition runs in a family is only useful if someone can turn it into 
 
 In your mind's eye: a counsellor's desk in three panels. A family pedigree drawn on paper with a risk figure worked beside it; an ultrasound-guided needle taking a small sample of fluid from around an unborn baby, the sample tube labelled for culture and analysis; and a newborn's heel-prick screening card.
 
+[Picture 38412 — genetic counselling pedigree sampling first check]
+
 ## The key facts
 **Risk, calculated.** The counsellor's first tool is arithmetic, not a machine: the risk of an inherited condition is calculated from the family's pedigree and from population genetics.
 

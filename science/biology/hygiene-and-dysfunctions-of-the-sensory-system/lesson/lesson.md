@@ -8,6 +8,8 @@ Every sensory analyser has its own hygiene and its own dysfunctions: risk factor
 
 In your mind's eye: the five sensory analysers of a human head and skin, each with a small hygiene card and a warning sign for its risk factors.
 
+[Picture 38435 — five analysers five hygiene cards]
+
 ## The key facts
 **§15 Hygiene and dysfunctions of the human sensory system.** Moldova's Grade 11 book (§15 Hygiene and dysfunctions of the human sensory system) teaches: risk factors by analyser, anaesthesia as absence of cutaneous sensation, myopia discussed as a possible adaptation to near work in the computer era. (printed p. 48).
 

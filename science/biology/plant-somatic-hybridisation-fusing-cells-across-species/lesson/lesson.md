@@ -8,6 +8,8 @@ Plant somatic hybridisation fuses whole cells across species: walls removed by c
 
 In your mind's eye: two wall-less plant cells of different colours merging into one cell with both colours inside, then a callus lump, then a small plant.
 
+[Picture 38513 — somatic hybridisation two species one cell]
+
 ## The key facts
 **Ch. 2 §1 Plant somatic hybridisation.** walls removed by cellulase and pectinase, protoplasts fused by PEG, high-Ca²⁺/high-pH or electric pulse, the hybrid cell grown through callus to a plant; the tomato–potato that disappointed (it did neither job well) told honestly; China's citrus somatic hybrids among the successes.
 

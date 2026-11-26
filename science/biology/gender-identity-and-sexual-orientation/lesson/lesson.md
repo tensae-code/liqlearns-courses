@@ -8,6 +8,8 @@ France's Seconde SVT manual teaches the human body and health in its Thème 3. I
 
 In your mind's eye: two panels and a timeline strip: on the left, stereotype expectations written as labels pinned on two figures; on the right, the Khasi society as a family line passing through the mother; under both, a strip marked "LGBT rights in France — evolving".
 
+[Picture 38407 — identity labels pinned on families otherwise]
+
 ## The key facts
 **What gender is.** The manual opens the part by asking what gender is — a person's gender as its own question, taught before any stereotype is named.
 

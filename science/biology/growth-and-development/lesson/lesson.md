@@ -8,6 +8,8 @@ Growth is an irreversible increase in size — more cells, bigger cells, more dr
 
 In your mind's eye: one organism shown in four stages in a row — a germinating seed, a young seedling, a leafy plant and the same plant in flower. With a ruler under the row for growth and a flower ringed at the end for development.
 
+[Picture 38419 — growth measured development marked by the]
+
 ## The key facts
 **Growth: getting bigger, for good.** Growth is increase in size and mass that is not reversed: new cells are made by division, cells enlarge, and material is laid down. A germinated seed does not shrink back into the seed — growth is one-way.
 

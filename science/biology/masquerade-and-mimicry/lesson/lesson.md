@@ -8,6 +8,8 @@ Mimicry is imitation as survival: one species resembles another, and the resembl
 
 In your mind's eye: a bee and the hoverfly Eristalis tenax side by side. The same yellow-and-dark banded body at a glance, the fly's big eyes and short antennae visible only when you look closely.
 
+[Picture 38465 — mimicry a fly dressed as a]
+
 ## The key facts
 **The case.** Eristalis tenax is a hoverfly — a true fly, not a bee. It has no sting and cannot defend itself the way a bee can. What it has is the bee's appearance: the banded, hairy body that predators have learned to respect.
 

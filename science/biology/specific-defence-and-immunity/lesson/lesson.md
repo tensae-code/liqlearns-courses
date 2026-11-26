@@ -8,6 +8,8 @@ Specific defence is immunity proper: the body recognises an antigen as foreign a
 
 In your mind's eye: a Y-shaped antibody locking onto a spiky antigen like a key in a lock, beside two shields labelled 'made by your body — lasts' and 'borrowed. Brief'.
 
+[Picture 38561 — specific defence your own or borrowed]
+
 ## The key facts
 **§1.3.2.** specific defence mechanisms — immunity: antigens, antibodies, active/passive immunity
 

@@ -8,6 +8,8 @@ Balance is sensed by the vestibular analyser, which controls static and dynamic 
 
 In your mind's eye: the inner ear with the vestibular apparatus labelled, and the vestibular nerve path running to the brain, beside a person keeping balance standing and moving.
 
+[Picture 38602 — balance the inner ear reports to]
+
 ## The key facts
 **§11 The vestibular analyser.** Moldova's Grade 11 book (§11 The vestibular analyser) teaches: static and dynamic balance control, vestibular nerve pathway; case studies: otitis media, motion sickness ("rău de mișcare"). (printed p. 37).
 

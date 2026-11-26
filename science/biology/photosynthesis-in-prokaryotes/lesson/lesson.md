@@ -8,6 +8,8 @@ Photosynthesis began in prokaryotes: cyanobacteria run it much as plants do and 
 
 In your mind's eye: a cyanobacterium chain in pond water releasing oxygen bubbles toward the sun, beside a purple sulphur bacterium depositing yellow sulphur grains.
 
+[Picture 38504 — photosynthesis without plants two bacteria]
+
 ## The key facts
 **§3.3.** photosynthesis in prokaryotic organisms
 

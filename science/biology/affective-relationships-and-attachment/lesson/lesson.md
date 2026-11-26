@@ -8,6 +8,8 @@ Relationships have a biology. Bolivia's Biología-Geografía book for the second
 
 In your mind's eye: two circles joined by a strong band labelled "attachment", beside a shield labelled "a life free of violence" — the two things the unit teaches.
 
+[Picture 38250 — attachment and a life free]
+
 ## The key facts
 **Attachment.** The first thing the unit teaches is attachment: the bond a person builds with the people close to them. Attachment is the tie your opening task asked you to name — the connection that holds a relationship together and shapes how the people in it treat each other.
 

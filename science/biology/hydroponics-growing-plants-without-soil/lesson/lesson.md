@@ -8,6 +8,8 @@ Soil is one way to feed a plant, not the only way. Vietnam's Grade 11 study topi
 
 In your mind's eye: a hydroponics bench in cross-section. A tank of nutrient solution at one end, a pump pushing the solution along a sloping channel past the roots of lettuce plants held in holes along the channel, bubbles of air rising in the tank from an aeration pipe, and the solution returning to the tank.
 
+[Picture 38434 — hydroponics farming in flowing water]
+
 ## The key facts
 **The system.** A hydroponics unit is a tank of nutrient solution, channels that carry the solution past the plants' roots, a pump that keeps it moving, and aeration that keeps air in the water for the roots.
 

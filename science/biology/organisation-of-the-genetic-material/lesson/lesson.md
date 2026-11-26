@@ -8,6 +8,8 @@ Genetic material is organised very differently across life: a prokaryote keeps o
 
 In your mind's eye: three panels. A bacterium with one circular DNA loop, a nucleus with wound chromosomes, and a virus particle with its short genetic strip inside a coat.
 
+[Picture 38492 — genetic material housed three ways]
+
 ## The key facts
 **Ch. 1.** prokaryotic single circular DNA vs complex eukaryotic organisation
 

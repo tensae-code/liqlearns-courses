@@ -8,6 +8,8 @@ Cell division gets the chapters; cell death usually gets nothing. Italy's Grade 
 
 In your mind's eye: two cell lines side by side — one line ending as a cell takes itself apart piece by piece, labelled “programmed cell death (apoptosis)”; the other line dividing on and on without end, labelled “immortal cells”.
 
+[Picture 38528 — two cell fates a tidy end]
+
 ## The key facts
 **Cells are mortal.** The cells of a body do not live for ever: they have a lifespan, they age, and they die. Mortality is the normal condition of a cell, part of the same life story as division.
 

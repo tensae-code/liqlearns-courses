@@ -8,6 +8,8 @@ Plant growth is a process you can measure — elongation growth at the shoot and
 
 In your mind's eye: a seedling marked with ink bands along its stem beside a ruler, a second drawing of the same plant taller a week later, and a rising growth graph pinned beside them.
 
+[Picture 38467 — measuring growth bands ruler graph]
+
 ## The key facts
 **§59 Growth of plants.** plant growth as a measurable process
 

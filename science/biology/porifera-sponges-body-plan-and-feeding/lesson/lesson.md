@@ -8,6 +8,8 @@ Mozambique's animal-kingdom module takes the phyla one by one, and it starts wit
 
 In your mind's eye: a vase-shaped sponge with many small pores in its wall, arrows showing water entering through the pores and leaving through the large opening at the top, and the flagellated choanocyte cells lining the inside drawn as small collars with whips.
 
+[Picture 38520 — the sponge a living water pump]
+
 ## The key facts
 **The simplest animals.** Sponges are the simplest animals in the module's survey: they have no true tissues, and the adult is sessile — fixed in one place, not moving about.
 

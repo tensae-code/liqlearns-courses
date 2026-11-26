@@ -8,6 +8,8 @@ Not all the air in the lungs moves with every breath: the air of breathing is me
 
 In your mind's eye: a spirogram trace — a wavy line of breathing rising and falling, with brackets naming the tidal volume, the inspiratory and expiratory reserves, the residual volume and the tall bracket of the vital capacity.
 
+[Picture 38464 — the spirogram breath measured in volumes]
+
 ## The key facts
 **One quiet breath — the tidal volume.** Breathing at rest moves only a small part of the lung's air in and out. That amount, the air of one normal breath in or out, is the tidal volume.
 

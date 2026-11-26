@@ -8,6 +8,8 @@ bile's emulsifying action on fats modelled and observed
 
 In your mind's eye: two jars of water and oil side by side. In the first the oil sits in one large layer, in the second, after the modelling agent is added, the oil is scattered as tiny droplets through the water.
 
+[Picture 38475 — emulsification one layer becomes many droplets]
+
 ## The key facts
 **The model.** Kuwait's Grade 11 Term 2 applications workbook (Activity 4, printed p. 24) models the function of bile: bile's emulsifying action on fats is modelled and observed — with washing-up liquid and oil standing in for bile and fat.
 

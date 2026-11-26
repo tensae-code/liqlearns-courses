@@ -8,6 +8,8 @@ endocytosis for large particles; exocytosis drawn step by step: Golgi packs mate
 
 In your mind's eye: a cell with two arrows. A large particle being wrapped by the membrane and taken in, labelled endocytosis, and a vesicle fusing with the membrane and releasing its contents outside, labelled exocytosis.
 
+[Picture 38304 — bulk transport swallowing in spilling out]
+
 ## The key facts
 **Endocytosis.** Kuwait's new Grade 10 student book (Lesson 1-4, printed pp. 72–73) teaches bulk transport for large particles: endocytosis takes large particles into the cell.
 

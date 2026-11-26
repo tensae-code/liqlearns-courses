@@ -8,6 +8,8 @@ Food made in the leaves travels through the phloem by pressure flow: sugar is lo
 
 In your mind's eye: a leaf labelled source, a phloem tube running down the stem with arrows flowing toward a fruit labelled sink, with water entering the tube at the leaf end and leaving at the fruit end.
 
+[Picture 38598 — pressure flow from source leaf to]
+
 ## The key facts
 **Sources and sinks.** Translocation moves food from where it is made or stored — a source, usually a leaf — to where it is used or stored — a sink: a growing tip, a fruit, a root. Any account of the mechanism must explain movement in either direction, up or down, as sources and sinks change.
 

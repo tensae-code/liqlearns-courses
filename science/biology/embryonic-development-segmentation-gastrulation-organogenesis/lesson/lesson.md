@@ -8,6 +8,8 @@ Mozambique's seventh PESD II module closes with ontogenesis — Lessons 14–15.
 
 In your mind's eye: an egg drawn with its two poles labelled and yolk at the vegetative end, then three panels in a row. A ball of dividing cells (segmentation), a cup-shaped embryo with layers moving in (gastrulation), and a small embryo with the first organs marked (organogenesis).
 
+[Picture 38368 — development dividing folding in organs forming]
+
 ## The key facts
 **The egg — poles and yolk.** The egg has polarity: an animal pole and a vegetative pole. Eggs are classified by their yolk — how much there is and how it is placed.
 

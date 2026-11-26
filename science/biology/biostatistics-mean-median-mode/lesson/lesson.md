@@ -8,6 +8,8 @@ Biostatistics is the statistics a biologist uses on living data: a set of measur
 
 In your mind's eye: a row of seedlings of different heights with a ruler beside them, and next to it a simple bar chart of the same heights, with the middle seedling ringed as the median.
 
+[Picture 38285 — seedling heights the same numbers two]
+
 ## The key facts
 **Why a biologist needs numbers summed up.** Biology produces lists: the heights of twenty seedlings, the pulse rates of a class, the leaf counts of ten plants. A list alone says little; the mean, median and mode each squeeze the list into one honest number that can be compared with another set.
 

@@ -8,6 +8,8 @@ The brain was the one place the immune system was thought absent — until 2015,
 
 In your mind's eye: a brain wrapped in its membranes with a thin green vessel drawn running alongside a great red blood vessel in the membrane.
 
+[Picture 38581 — the brain's hidden plumbing found in]
+
 ## The key facts
 **Ch. 4 §1 feature "New discoveries about the immune system".** the brain was the one place the immune system was thought absent; in 2015 lymphatic vessels were found in mouse meninges, in 2017 imaged in humans — hidden, the discoverers say, by hugging a great blood vessel through a region MRI reads badly: a lesson in how much anatomy can still be missed.
 

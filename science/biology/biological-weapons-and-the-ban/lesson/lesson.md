@@ -8,6 +8,8 @@ Biological weapons are pathogenic bacteria, viruses and toxins used to harm peop
 
 In your mind's eye: a row of sealed hazard vessels crossed by a bold prohibition sign, beside a scroll representing the 1972 Convention.
 
+[Picture 38283 — biological weapons sealed banned agreed in]
+
 ## The key facts
 **Ch. 4 §3 Banning biological weapons.** what they are (pathogenic bacteria, viruses, toxins) and how they spread; the history China teaches from its own wounds — Unit 731 and Unit 100, germ warfare across more than 20 regions, the 1950–52 allegations and the anti-germ-warfare campaign, the 2001 anthrax letters; gene technology's new dangers (engineered pathogens, ethnic susceptibility claims) and the standing smallpox stocks; the 1972 Convention, China's accession in 1984, and its reaffirmed position — never develop, produce or stockpile, and oppose proliferation.
 

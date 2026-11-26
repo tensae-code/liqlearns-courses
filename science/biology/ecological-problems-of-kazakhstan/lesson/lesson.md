@@ -8,6 +8,8 @@ Kazakhstan teaches its own ecological problems as a named topic — oil and mine
 
 In your mind's eye: a map of Kazakhstan with its own cases pinned. An oil field, a mine, a ragweed plant marked invasive, and a national park shield, each with a small cause-and-consequence label.
 
+[Picture 38358 — kazakhstan's ecological problems pinned on its]
+
 ## The key facts
 **11.5 Ecological problems of Kazakhstan.** the country's own environmental problems as a named §
 

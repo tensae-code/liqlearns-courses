@@ -8,6 +8,8 @@ Cells switch genes on and off: prokaryotes group genes in operons a repressor ca
 
 In your mind's eye: a row of gene switches on a DNA strip, some flipped on and lit, some off and dark, with a repressor block sitting on one switch.
 
+[Picture 38411 — genes switch on and off]
+
 ## The key facts
 **Ch. 2.** gene regulation: control of gene expression in prokaryotes (p. 44) and eukaryotes (p. 45)
 

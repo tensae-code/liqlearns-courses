@@ -8,6 +8,8 @@ Food can carry harm as well as nourishment. Vietnam's Grade 11 study topics clos
 
 In your mind's eye: a market meal under a magnifying lens: a plate of raw fish salad with three labelled callouts — a bacterium with the toxin it leaves in food, a virus particle, and a small liver fluke. Each with an arrow to the dish it can arrive in.
 
+[Picture 38397 — food poisoning under the lens three]
+
 ## The key facts
 **Defined by law.** Vietnam teaches food poisoning from its legal definition: the 2010 Food Safety Law is the lesson's starting point, and the causes are sorted into four groups.
 

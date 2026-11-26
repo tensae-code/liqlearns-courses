@@ -8,7 +8,11 @@ Afghanistan's Grade 11 Biology book closes with the biomes (بایوم‌ها) �
 
 In your mind's eye: a world strip from pole to equator with the biomes banded in order — tundra, taiga, deciduous forest, grassland, desert, savanna, rainforest. Each band with its emblem plant drawn in it.
 
+[Picture 38617 — world biomes pole to equator in]
+
 In your mind's eye: a traveller's line moving from the pole to the equator across the banded strip — snow giving way to conifers, then broadleaf forest, grass, desert, and finally layered rainforest. Name each biome as the line enters it.
+
+[Picture 38618 — name each biome as the line]
 
 ## The key facts
 **Climate decides the biome.** A biome is named for its dominant plants — forest, grassland, desert — because plants, rooted in place, must fit the climate exactly. Change the rainfall or the temperature enough and the same ground carries a different biome.

@@ -8,6 +8,8 @@ The muscular system has its own named disorders — strains and cramps from over
 
 In your mind's eye: a runner holding a cramped calf muscle, beside a small panel of a weakened arm muscle, each with its plain label.
 
+[Picture 38349 — muscle disorders cramp and wasting]
+
 ## The key facts
 **Ch. 8.** disorders of the muscular system (named section)
 

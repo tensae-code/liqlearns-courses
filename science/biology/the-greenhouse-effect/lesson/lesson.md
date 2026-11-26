@@ -8,6 +8,8 @@ The greenhouse effect is the atmosphere's blanket: sunlight warms the Earth, the
 
 In your mind's eye: two glass jars on a bench under a lamp, one with extra carbon dioxide, each with a thermometer, the carbon-dioxide jar's thermometer reading higher.
 
+[Picture 38591 — the greenhouse effect in two jars]
+
 ## The key facts
 **Exercise 8.** qualitative and quantitative detection of the greenhouse effect (model experiment)
 

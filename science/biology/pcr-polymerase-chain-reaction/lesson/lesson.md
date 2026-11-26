@@ -8,6 +8,8 @@ PCR copies one chosen piece of DNA over and over in a tube by cycling three temp
 
 In your mind's eye: a tube in a thermal cycler shown at three stations in a circle — 96°C with the DNA ladder unzipping into two single strands, 55–65°C with two short primers binding, 72°C with Taq polymerase extending new strands. And below, 1 copy becoming 2, then 4, then 8.
 
+[Picture 38497 — pcr heat bind build then]
+
 ## The key facts
 **A copying machine for DNA.** The polymerase chain reaction (PCR) makes many copies of one chosen DNA segment in a tube, without any living cell — the segment is picked out by the primers, short DNA pieces that match its two ends.
 

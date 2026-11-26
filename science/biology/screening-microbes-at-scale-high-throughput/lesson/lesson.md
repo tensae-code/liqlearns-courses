@@ -8,6 +8,8 @@ High-throughput screening searches the microbial kingdom at scale: thousands of 
 
 In your mind's eye: a grid plate of hundreds of tiny wells in rows, a robot arm above it and a screen showing one well picked out in green.
 
+[Picture 38546 — high-throughput screening thousands of wells one]
+
 ## The key facts
 **Ch. 1 §2 feature "High-throughput screening of microbial strains".** thousands of mutagenised strains cultured in microplates and micro-bioreactors under automated handling and computer analysis; China has built such screening models for microbial drugs and found candidate compounds: how industry searches a microbial kingdom of which under 1% can yet be cultured.
 

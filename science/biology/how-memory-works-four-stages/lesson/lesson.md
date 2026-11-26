@@ -8,6 +8,8 @@ Memory works in four stages — sensory memory under a second, first-level memor
 
 In your mind's eye: four widening boxes in a row labelled with their holding times, from under a second to a lifetime, with a name sitting in the last box.
 
+[Picture 38430 — memory's four stages widening in time]
+
 ## The key facts
 **Ch. 2 §5 Learning and memory.** memory in four stages (sensory, under a second; first-level, seconds to minutes — the verification code you forget at once; second-level, minutes to years; third-level, possibly permanent — your own name), with the study advice built into the mechanism: repeat, and bind new information to old; short-term memory tied to the hippocampus, long-term to changed and new synapses.
 

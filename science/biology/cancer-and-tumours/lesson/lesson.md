@@ -8,6 +8,8 @@ Every cell division you have met in this course — mitosis building new cells �
 
 In your mind's eye: two cell families side by side. One dividing under control, each new cell stopping when the need is met; the other dividing without control, piling into a growing mass labelled tumour.
 
+[Picture 38306 — cancer division that has lost its]
+
 ## The key facts
 **Controlled division.** Normal division is controlled division: a cell divides when new cells are needed — for growth and repair — and stops when they are not. The control is part of the division, not an extra.
 

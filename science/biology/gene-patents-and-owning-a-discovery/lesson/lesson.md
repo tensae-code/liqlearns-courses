@@ -8,6 +8,8 @@ A gene patent claims a discovered gene sequence as intellectual property, and Gr
 
 In your mind's eye: a double-helix segment with a padlock and a price tag on one side and an open book and a hospital on the other, a balance scale between them.
 
+[Picture 38410 — gene patents owning a discovery weighed]
+
 ## The key facts
 **Ch. 12.** can discovering a gene be intellectual property?
 

@@ -8,6 +8,8 @@ The endomembrane system is the cell's inner production line: the endoplasmic ret
 
 In your mind's eye: a factory line inside a cell. A folded ER ribbon, small vesicle bubbles travelling, a stacked Golgi, and parcels leaving labelled for their destinations.
 
+[Picture 38586 — the endomembrane system a factory line]
+
 ## The key facts
 **§2.3.** endomembrane system (ER, Golgi, lysosomes, vesicles)
 

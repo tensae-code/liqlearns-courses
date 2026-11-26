@@ -8,6 +8,8 @@ Uganda's Lower Secondary Curriculum ends each chapter of its learner's book with
 
 In your mind's eye: a four-column grid standing over a learner's finished project, the columns headed Accuracy, Coherence, Relevance, Excellence.
 
+[Picture 38275 — judging the project four columns of]
+
 ## The key facts
 **Accuracy.** Is the work right? The facts, the names, the steps — the grid's first question is whether what the learner produced is accurate.
 

@@ -8,6 +8,8 @@ Chapter 4 of Iraq's Grade 11 Biology book is the locomotion chapter. Its animal 
 
 In your mind's eye: a row of movers in order of size. An amoeba reaching out a pseudopodium, a Euglena with its flagellum, an earthworm stretching and gripping, a grasshopper's folded leg, a fish swimming, and a duck in flapping flight.
 
+[Picture 38462 — locomotion across the animal kingdom]
+
 ## The key facts
 **Movement without legs.** Unicellular organisms move without any limbs: the amoeba flows — its endoplasm streams into a pseudopodium that pulls the cell forward — and Euglena rows itself with a whip-like flagellum.
 

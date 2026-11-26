@@ -8,6 +8,8 @@ the Human Genome Project's goal and the NIH-led cooperation of advanced countrie
 
 In your mind's eye: a sequencing read-out strip beside a diagram of a prenatal test being taken, labelled as genetic testing before birth.
 
+[Picture 38481 — reading the code before birth]
+
 ## The key facts
 **The Human Genome Project.** Kuwait's Grade 12 Term 2 student book (Section Two, printed p. 91) teaches human molecular genetics through the Human Genome Project's goal and the NIH-led cooperation of advanced countries that carried it out, with a trigger-release sequencing technique pictured.
 

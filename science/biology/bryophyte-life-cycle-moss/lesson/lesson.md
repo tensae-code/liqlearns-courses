@@ -8,7 +8,11 @@ A moss lives its life in two generations that grow out of one another. This less
 
 In your mind's eye: a moss plant labelled as the book labels it — rhizoids below, the gametophyte body, and the sporophyte rising from it on its seta with the capsule at the top.
 
+[Picture 38301 — a moss plant labelled the book's]
+
 In your mind's eye: a spore landing and growing into a green moss gametophyte, then a sporophyte rising from it on a seta and its capsule opening to release spores.
+
+[Picture 38302 — the moss cycle spore plant capsule]
 
 ## The key facts
 **Bryophytes.** Bryophytes are small, simple land plants without true roots, stems or leaves. The moss is the book's example.

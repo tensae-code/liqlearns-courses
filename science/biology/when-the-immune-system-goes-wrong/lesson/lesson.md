@@ -8,6 +8,8 @@ The immune system itself can be the problem: allergies are its over-reaction to 
 
 In your mind's eye: three panels. A nose sneezing at pollen, a shield turning its sword toward the body's own joint, and a cracked shield lowered while germs walk past.
 
+[Picture 38616 — when immunity goes wrong three failures]
+
 ## The key facts
 **§1.3.3.** problems in the action of the immune system (allergies, autoimmunity, immunodeficiency)
 

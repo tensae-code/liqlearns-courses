@@ -8,6 +8,8 @@ Single-celled organisms move with what they have: an amoeba flows by pseudopodia
 
 In your mind's eye: three microscope circles side by side. An amoeba reaching out a blunt pseudopod, a slipper-shaped cell fringed with cilia, and a cell trailing one long flagellum.
 
+[Picture 38484 — single cells on the move three]
+
 ## The key facts
 **§5.1.** support and movement in unicellular organisms: pseudopodia/amoeboid movement, cilia and flagella
 

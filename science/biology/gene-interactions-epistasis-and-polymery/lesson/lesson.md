@@ -8,6 +8,8 @@ Genes at different loci do not always act alone — they interact: two genes tog
 
 In your mind's eye: four chicken combs — rose, pea, walnut and single. Under the gene pairs that make them, beside a two-step pathway where one gene's product blocks the second gene's colour from showing.
 
+[Picture 38409 — chicken combs genes pair up]
+
 ## The key facts
 **Interaction, not independence.** Mendel's crosses treated each gene as acting on its own. Indonesia's Grade 12 book goes one step further: alleles at one locus can depend for their effect on alleles at another locus, so the offspring ratios change from the plain Mendelian ones.
 

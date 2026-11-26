@@ -8,6 +8,8 @@ Before biology concludes anything, it gathers and tidies. North Macedonia's Biol
 
 In your mind's eye: a field notebook page of tally marks and measurements becoming a neat table, the table becoming a bar graph, and the graph pinned on a board under a title — collection, processing, presentation in one row.
 
+[Picture 38330 — data collected processed presented]
+
 ## The key facts
 **Collect with a plan.** Data are collected by observation and measurement, planned before the work starts: what will be counted or measured, in what units, how often, and on how many individuals — planned collecting is what makes data comparable.
 

@@ -8,6 +8,8 @@ Foods carry additives — preservatives that stop microbes and spoilage, colours
 
 In your mind's eye: a food packet turned to show its ingredients label, a magnifier over the additive lines, and small icons for preservative, colour and flavour.
 
+[Picture 38396 — additives read the packet's small print]
+
 ## The key facts
 **Activity 2.7.** "Help! A preservative in my plate": reading labels, food additives and preservatives
 

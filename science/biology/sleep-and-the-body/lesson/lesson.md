@@ -8,6 +8,8 @@ Sleep is something the body does in stages — and it can be measured. Finland's
 
 In your mind's eye: a pupil's sleep-tracker chart for one night, showing total sleep, deep sleep, REM sleep and the moments of waking, with the stages drawn as bands across the night.
 
+[Picture 38555 — sleep's stages across one night]
+
 ## The key facts
 **Sleep can be measured.** On Finland's sleep card (Card 4 of the wellbeing pack), pupils measure their own sleep with a wearable tracker. The numbers it gives are the lesson's facts: how long the sleep was in total, and how it was divided.
 

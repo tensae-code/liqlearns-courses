@@ -8,6 +8,8 @@ Children in recent generations grow taller and mature faster than earlier genera
 
 In your mind's eye: two height-by-age growth curves on one graph, an earlier generation's curve lying below a recent generation's curve for boys and for girls, with the gap between them labelled acceleration.
 
+[Picture 38245 — acceleration each generation grows taller earlier]
+
 ## The key facts
 **§9.4.** acceleration: children growing taller/faster than earlier generations, read off height-by-age graphs for boys and girls
 

@@ -8,7 +8,11 @@ Afghanistan's Grade 9 Biology book closes its respiratory chapter with the commo
 
 In your mind's eye: the air path from nose to alveoli with the common diseases pinned to the part each one strikes — cold and flu at the nose and throat, bronchitis at the bronchi, pneumonia and tuberculosis in the lungs, asthma at the narrowed bronchus.
 
+[Picture 38331 — respiratory diseases each strikes its own]
+
 In your mind's eye: droplets from an uncovered cough drifting across a room toward another person, then the same cough covered and the room's window opened — the droplets stopped and thinned. Name the two barriers.
+
+[Picture 38332 — two barriers cover the cough air]
 
 ## The key facts
 **Colds and influenza.** A cold blocks the nose and throat for a few days; influenza (flu) is its heavier cousin, with fever, aching and exhaustion, and it can turn dangerous in the very young, the old and the weak. Both ride on the droplets of coughs and sneezes and on hands that touch the face afterwards.

@@ -8,6 +8,8 @@ Biodiversity — held at three levels, genetic, species and ecosystem — has va
 
 In your mind's eye: three baskets under a tree of many species — one with food and a medicine bottle, one with held soil and stored floodwater, one closed with a question mark.
 
+[Picture 38601 — biodiversity's values three baskets]
+
 ## The key facts
 **Ch. 4 §2 The value of biodiversity.** biodiversity defined at three levels (genetic, species, ecosystem), then its value in three kinds: direct (food, fibres, and medicines — Tu Youyou's artemisinin from sweet wormwood pictured), indirect (photosynthesis fixing carbon and releasing oxygen, forests and wetlands holding soil, storing floodwater and steadying climate — stated to far exceed the direct value), and potential (the uses nobody knows yet).
 

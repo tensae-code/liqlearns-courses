@@ -8,6 +8,8 @@ a Punnett square built for the cross BbMm × bbmm and the expected offspring gen
 
 In your mind's eye: two chromosomes drawn side by side carrying the gene pairs B/b and M/m together, beside a Punnett square for the cross BbMm × bbmm.
 
+[Picture 38461 — linked genes inherited as a package]
+
 ## The key facts
 **The cross.** Kuwait's Grade 11 Term 1 applications workbook (Activity 11, printed p. 40) builds a Punnett square for the cross BbMm × bbmm and writes down the expected offspring genotype ratios.
 

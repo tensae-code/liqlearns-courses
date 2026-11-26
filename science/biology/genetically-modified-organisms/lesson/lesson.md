@@ -8,6 +8,8 @@ A genetically modified organism carries a gene deliberately moved into it — tr
 
 In your mind's eye: a tomato plant with one glowing new gene segment marked in its DNA strip, and seedlings from its fruit carrying the same mark.
 
+[Picture 38413 — a gm tomato the new gene]
+
 ## The key facts
 **§6.2.** genetically modified organisms as a named topic
 

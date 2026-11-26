@@ -8,6 +8,8 @@ Pesticides protect crops, but they persist in the environment and concentrate as
 
 In your mind's eye: a sprayed field with a food chain rising from it — plant, insect, small bird, hawk. The pesticide dots growing denser at each step until the hawk carries the heaviest load.
 
+[Picture 38499 — pesticides climb the food chain]
+
 ## The key facts
 **§8 The effect of pesticides on the environment and human health.** §8 The effect of pesticides on the environment and human health
 

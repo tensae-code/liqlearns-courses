@@ -8,6 +8,8 @@ Plant growth regulators are artificial partners to the plant hormones — in Chi
 
 In your mind's eye: a market stall of large glossy fruit beside a smaller flavourful one, with a registration label held up between them.
 
+[Picture 38510 — growth regulators at the market stall]
+
 ## The key facts
 **Ch. 5 §3 Plant growth regulators.** in China these are regulated as pesticides (rules of 1989, 1997, 2011) and only registered products may be sold; cases for evaluation include gibberellin making barley produce amylase without germinating, fruit "expanders" that swell size and thin flavour, and sprout suppressants with health questions; the pre-experiment （预实验） named as method; and two student inquiries — the best auxin-like concentration for rooting cuttings (soak against dip methods), and ethephon ripening of market fruit, with the seller's and the consumer's views set against each other.
 

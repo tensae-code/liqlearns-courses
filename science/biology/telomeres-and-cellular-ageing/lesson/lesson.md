@@ -8,6 +8,8 @@ Jordan's Grade 12 student book ends its cell-cycle unit with an enrichment on te
 
 In your mind's eye: a chromosome drawn as a long thread with a bright cap at each end labelled “telomere”, beside the same chromosome drawn older with its caps worn short.
 
+[Picture 38577 — telomeres the caps that shorten with]
+
 ## The key facts
 **Caps on the ends.** Telomeres are the caps at the ends of chromosomes — the end-pieces of the chromosome, distinct from the gene-carrying length between them.
 

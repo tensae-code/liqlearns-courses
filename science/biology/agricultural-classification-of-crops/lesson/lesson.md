@@ -8,6 +8,8 @@ Classification is not only for wild things. Chapter 9 of Nigeria's Senior Second
 
 In your mind's eye: a market stall arrangement of Nigerian crops sorted into labelled groups. Roots (cassava, yam), cereals (guinea corn), oil crops (oil palm), beverage (kola).
 
+[Picture 38255 — nigeria's crops sorted by what they]
+
 ## The key facts
 **Two classifications.** Plants are classified botanically, by relationship — and agriculturally, by product, useful part and economic importance. The farmer's sorting is a real classification too.
 

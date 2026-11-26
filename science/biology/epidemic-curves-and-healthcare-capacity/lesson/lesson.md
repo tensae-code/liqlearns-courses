@@ -8,6 +8,8 @@ When a sickness spreads through a place, you can draw it: how many cases (antal 
 
 In your mind's eye: the flatten-the-curve graph: cases against time, two curves — with protective measures (med skyddsåtgärder) and without (utan skyddsåtgärder). And the horizontal line of healthcare capacity (sjukvårdens kapacitet) across the graph.
 
+[Picture 38375 — flatten the curve keep cases under]
+
 ## The key facts
 **The axes.** The graph plots cases against time: the number of sick people up the side, the days and weeks along the bottom.
 

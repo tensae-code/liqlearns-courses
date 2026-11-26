@@ -8,6 +8,8 @@ the class surveyed trait by trait (earlobe form among them), counting how many s
 
 In your mind's eye: a class survey chart on a board: trait names in a column — earlobe form first. With tally marks counting how many show the trait and how many do not.
 
+[Picture 38380 — a class survey counting inherited traits]
+
 ## The key facts
 **The survey.** Kuwait's Grade 11 Term 1 applications workbook (Activity 9, printed p. 36) has the class surveyed trait by trait, earlobe form among them.
 

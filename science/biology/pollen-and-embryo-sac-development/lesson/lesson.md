@@ -8,6 +8,8 @@ Malaysia's Form 5 book teaches the development of pollen grains and the embryo s
 
 In your mind's eye: an anther cut open showing pollen grains forming, beside an ovule cut open showing the embryo sac inside it with the egg cell marked.
 
+[Picture 38516 — pollen and embryo sac the two]
+
 ## The key facts
 **Pollen development.** In the anther, mother cells divide by meiosis to form pollen grains. Each pollen grain is the male gametophyte: it will produce the male gametes that fertilisation needs.
 

@@ -8,6 +8,8 @@ The body's first defence is non-specific — it answers any invader the same way
 
 In your mind's eye: a cut in skin drawn in cross-section with germs entering, the area reddening and swelling, and a large phagocyte cell swallowing a bacterium.
 
+[Picture 38489 — inflammation the body's first answer to]
+
 ## The key facts
 **§1.3.1.** non-specific defence mechanisms as their own section (skin, inflammation, fever, phagocytes)
 

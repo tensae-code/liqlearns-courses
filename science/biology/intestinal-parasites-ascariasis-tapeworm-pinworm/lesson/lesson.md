@@ -8,6 +8,8 @@ Mozambique's second PESD I module (2023) closes its nutrition-and-health unit wi
 
 In your mind's eye: three panels: a long pale Ascaris roundworm coiled in a gut outline; a tapeworm's flat ribbon body with a line to a pig for Taenia solium and to a cow for T. saginata; and a small pinworm beside a hand with an arrow marked "scratching — hand to mouth".
 
+[Picture 38450 — three gut parasites three journeys]
+
 ## The key facts
 **Ascariasis — usually silent.** Infection with Ascaris is usually asymptomatic. When it does show: abdominal pain, loss of appetite and weight, nausea, diarrhoea — and, heavily, intestinal obstruction.
 

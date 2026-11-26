@@ -8,6 +8,8 @@ A plant has no nerves, but it still co-ordinates its growth — with hormones. N
 
 In your mind's eye: a hedge before and after cutting. The uncut hedge growing tall from its top bud, the cut hedge bushing out sideways from released side buds.
 
+[Picture 38509 — the hedge before and after the]
+
 ## The key facts
 **Five hormone families.** The book names the plant growth hormones: auxins, cytokinins, gibberellins, abscisic acid and ethylene — chemical regulators made by the plant itself.
 

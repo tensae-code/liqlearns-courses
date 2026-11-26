@@ -8,6 +8,8 @@ In autophagy the cell digests its own damaged parts inside lysosomes — surviva
 
 In your mind's eye: a cell wrapping a worn-out organelle in a double membrane bubble and delivering it to a lysosome that digests it.
 
+[Picture 38277 — autophagy the cell eats its own]
+
 ## The key facts
 **Ch. 6 §3 concept box "Autophagy".** the cell digesting its own damaged parts in lysosomes: survival rations in starvation, clearance of invading microbes and worn organelles in damage and ageing, and its possible runaway into apoptosis — a named mechanism given a box of its own and no lesson of ours.
 

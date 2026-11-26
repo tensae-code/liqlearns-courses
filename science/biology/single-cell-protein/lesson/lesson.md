@@ -8,6 +8,8 @@ Single-cell protein (SCP) is protein harvested from single-celled microorganisms
 
 In your mind's eye: a large glass tank of green culture with bubbles rising, a harvest of dried green powder being scooped from a tray beside it, and a small heap of the powder labelled as protein food.
 
+[Picture 38552 — single-cell protein grown dried eaten]
+
 ## The key facts
 **Protein from one-celled growers.** The microorganisms used — algae such as Spirulina, yeasts, other fungi and bacteria — are single-celled, grow extremely fast, and their cells are rich in protein. Grown in bulk and harvested, they become a protein food in their own right.
 

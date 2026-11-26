@@ -8,6 +8,8 @@ periosteum, compact bone with Haversian systems and canals, spongy bone, red and
 
 In your mind's eye: a long bone cut lengthwise and across, labelled. Periosteum outside, compact bone with a Haversian system ringed around its canal, spongy bone, and red and yellow marrow.
 
+[Picture 38296 — inside a long bone layers rings]
+
 ## The key facts
 **The bone's layers.** Kuwait's new Grade 10 student book (Lesson 2-3, printed pp. 117–119) teaches bone structure part by part: periosteum, compact bone with Haversian systems and canals, spongy bone, and red and yellow marrow.
 

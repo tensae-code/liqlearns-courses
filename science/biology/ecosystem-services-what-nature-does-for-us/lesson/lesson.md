@@ -8,6 +8,8 @@ Nature does work for people, for free — and that work has a name: ecosystem se
 
 In your mind's eye: a Finnish landscape divided into three labelled scenes — a forest giving timber and food, bees pollinating a meadow while a stream is purified, and a family walking a nature trail. The three groups of ecosystem services.
 
+[Picture 38361 — ecosystem services nature's three kinds of]
+
 ## The key facts
 **Services, in three groups.** An ecosystem service is work nature does that people depend on. Finland's field pack teaches them in three groups, and the grouping is the lesson's frame.
 

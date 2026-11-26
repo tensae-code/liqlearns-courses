@@ -8,6 +8,8 @@ Biology thinks with models, and the models come in three kinds — physical mode
 
 In your mind's eye: three models of the same cell side by side — a solid ball model, a labelled diagram, and a small equation with a graph.
 
+[Picture 38477 — models in biology thing picture numbers]
+
 ## The key facts
 **Ch. 3 §3 practical "Trying to build a three-dimensional model of a eukaryotic cell".** the model-building practical doubles as a typology lesson: physical, conceptual and mathematical models distinguished and each judged by what it can and cannot show. No existing lesson teaches models as a method.
 

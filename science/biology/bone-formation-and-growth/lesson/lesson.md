@@ -8,6 +8,8 @@ Bones form by ossification — cartilage or membrane is gradually replaced by ha
 
 In your mind's eye: a long bone drawn in stages. A cartilage model, bone spreading from the centre, and the finished bone with its two pale growth plates near the ends.
 
+[Picture 38294 — a long bone cartilage first then]
+
 ## The key facts
 **Ch. 7.** formation and development of bones (ossification)
 

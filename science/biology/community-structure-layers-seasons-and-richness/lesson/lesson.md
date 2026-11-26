@@ -8,6 +8,8 @@ A community has a structure: its species are layered vertically, patterned horiz
 
 In your mind's eye: a forest cut from the side showing canopy, understorey and floor layers, the same view in two seasons, and a ground-plan patchwork of different plant patches.
 
+[Picture 38333 — a community in layers seasons and]
+
 ## The key facts
 **Ch. 2 §1 The structure of a community.** vertical layering, horizontal patterning and seasonal change (Poyang Lake's wintering birds) as the three faces of community structure, with species richness as its measure.
 

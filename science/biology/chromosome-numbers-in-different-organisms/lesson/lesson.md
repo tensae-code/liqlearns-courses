@@ -8,6 +8,8 @@ Each species carries its own characteristic chromosome number, constant in every
 
 In your mind's eye: a table of farm animals — cow, sheep, pig, chicken. Each with a small nucleus beside it labelled with its chromosome number: 60, 54, 38, 78.
 
+[Picture 38321 — chromosome numbers every species its own]
+
 ## The key facts
 **§52 The number of chromosomes in different organisms.** §52 The number of chromosomes in different organisms
 

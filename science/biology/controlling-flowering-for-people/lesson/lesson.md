@@ -8,6 +8,8 @@ Flowering time can be shaped for people — by temperature, day length, growth r
 
 In your mind's eye: chrysanthemums blooming out of season under lamps in a greenhouse, beside a calendar with a festival day circled and flowers arriving exactly on it.
 
+[Picture 38339 — flowers on order blooming exactly for]
+
 ## The key facts
 **Ch. 5 §4 feature "Shaping flowering time to create a beautiful life".** chrysanthemums in every season, Beijing's roses held in continuous bloom through the 2008 summer Olympics, dragon fruit lit at night to flower early, fruit seasons shifted to spread the market: four levers (temperature, day length, regulators, cultivation) and the economics of a flower that arrives on the festival day.
 

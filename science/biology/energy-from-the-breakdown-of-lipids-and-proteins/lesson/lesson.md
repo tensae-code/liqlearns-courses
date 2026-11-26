@@ -8,6 +8,8 @@ Cells also burn lipids and proteins for energy: fats are split into fatty acids 
 
 In your mind's eye: three fuel arrows — a fat droplet, a protein chain and a glucose ring. All feeding into one furnace labelled respiration, with the fat arrow drawn widest.
 
+[Picture 38372 — three fuels feed one furnace]
+
 ## The key facts
 **§3.4.** energy production from lipid and protein breakdown; relation of photosynthesis and cellular respiration (same page)
 

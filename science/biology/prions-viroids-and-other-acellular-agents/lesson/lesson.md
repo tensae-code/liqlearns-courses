@@ -8,6 +8,8 @@ Jordan's Grade 10 course gives one unit to "Viruses, Viroids and Prions". The vi
 
 In your mind's eye: a diagram of the three acellular agents side by side, drawn to compare them — a virus particle with its coat, a tiny bare circle of RNA labelled viroid, and a normal protein beside its misfolded prion copy.
 
+[Picture 38526 — acellular agents smaller than cells still]
+
 ## The key facts
 **Smaller and simpler than viruses.** The student book's Lesson 2, "Viroids and prions", defines its subject up front: infectious particles smaller and simpler than true viruses. Neither one is a cell, and neither one lives on its own — each can act only inside a living host.
 

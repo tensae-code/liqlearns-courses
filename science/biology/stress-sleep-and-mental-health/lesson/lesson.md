@@ -8,6 +8,8 @@ Mental health is held by sleep, biological rhythms and a workable day: stress st
 
 In your mind's eye: a day-and-night circle drawn as a clock. Work, food, rest and a sleeping figure in their places on the dial, with a stress storm cloud crossed by a calm sleep band.
 
+[Picture 38568 — the day-night clock stress crossed by]
+
 ## The key facts
 **§7.3 The guarantee of strong (mental) health.** mental health, stress factors and consequences, coping; why we sleep and improving memory on p. 81
 

@@ -8,6 +8,8 @@ Mendel's pea traits are each controlled by a single gene, and they come in neat 
 
 In your mind's eye: a row of plants of the same kind standing at many different heights, from shortest to tallest in small steps.
 
+[Picture 38518 — polygenic inheritance a staircase of heights]
+
 ## The key facts
 **Many genes, one trait.** In polygenic inheritance, a single trait is controlled by several genes together. Each gene contributes a small part of the result, and the trait the organism shows is the sum of all those contributions.
 

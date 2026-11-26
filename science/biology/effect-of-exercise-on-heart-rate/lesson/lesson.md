@@ -8,6 +8,8 @@ pulse counted at rest and after exercise and the change analysed
 
 In your mind's eye: a pulse being counted at the wrist, beside a simple two-bar chart. Heart rate at rest and heart rate after exercise.
 
+[Picture 38363 — exercise lifts the heart rate]
+
 ## The key facts
 **The measurement.** Kuwait's Grade 11 Term 2 applications workbook (Activity 10, printed p. 38) examines the effect of exercise on heart rate: the pulse is counted at rest and after exercise.
 

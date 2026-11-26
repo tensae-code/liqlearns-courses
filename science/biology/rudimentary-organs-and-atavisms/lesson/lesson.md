@@ -8,6 +8,8 @@ Some structures make sense only as inheritances. North Macedonia's Biology I giv
 
 In your mind's eye: a human outline marking the appendix, the coccyx (tail bone) and wisdom teeth, beside the same structures shown working in an ancestor — a long gut appendix, a real tail, a full strong jaw.
 
+[Picture 38542 — rudiments leftovers of working ancestors' parts]
+
 ## The key facts
 **Rudimentary organs are reduced leftovers.** A rudimentary (vestigial) organ is a structure that is smaller and simpler than the working organ in related kinds, and no longer does its old job — it persists because it was inherited, not because it is needed.
 

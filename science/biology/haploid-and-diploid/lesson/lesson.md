@@ -8,6 +8,8 @@ Chromosomes come in sets, and counting the sets explains how heredity survives r
 
 In your mind's eye: a diploid cell with its chromosomes in matching pairs, one of each pair marked as from the mother and one from the father, beside a haploid gamete carrying only one of each kind, and the two gametes joining into a diploid zygote.
 
+[Picture 38421 — haploid and diploid halves that rejoin]
+
 ## The key facts
 **Chromosomes come in homologous pairs.** In a body cell, chromosomes exist as pairs: two chromosomes of the same kind, carrying genes for the same features in the same order — one member of each pair came from the mother, one from the father.
 

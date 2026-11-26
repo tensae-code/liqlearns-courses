@@ -8,7 +8,11 @@ Afghanistan's Grade 11 Biology book gives the vertebrates the same treatment as 
 
 In your mind's eye: five hearts in a row — fish, frog, lizard, bird, mammal. Each drawn with its chambers shaded so the climb from two to four can be counted at a glance.
 
+[Picture 38336 — hearts count the chambers two to]
+
 In your mind's eye: blood tracing the fish's single circuit once, then the mammal's double circuit twice through the heart — lung loop, then body loop. The student counts the heart's chambers and the circuits in each.
+
+[Picture 38337 — single circulation in fish double in]
 
 ## The key facts
 **The heart, group by group.** A fish's heart (one atrium, one ventricle) drives blood one way round. Amphibians and most reptiles mix some blood in a three-chambered heart (two atria, one ventricle). Four chambers — in crocodiles, birds and mammals — keep oxygen-rich and oxygen-poor blood fully apart.

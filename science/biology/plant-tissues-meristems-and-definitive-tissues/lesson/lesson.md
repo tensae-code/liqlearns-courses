@@ -8,6 +8,8 @@ Mozambique's plant-physiology module (Módulo 5) opens with histology — define
 
 In your mind's eye: a shoot tip and a root tip drawn with their small dividing meristem cells at the very ends, and arrows running back into the stem and root where the four finished tissues are labelled in a cut section — covering outside, parenchyma filling, support strands and vascular bundles.
 
+[Picture 38515 — from dividing tips to four finished]
+
 ## The key facts
 **Histology — the study of tissues.** The module defines histology as the study of tissues, and plant histology begins with where tissues come from: the meristems.
 

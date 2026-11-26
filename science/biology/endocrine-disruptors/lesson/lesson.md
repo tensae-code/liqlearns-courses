@@ -8,6 +8,8 @@ Hormones are the body's chemical messengers: they are released in one place, tra
 
 In your mind's eye: a hormone signal drawn as a key travelling to its lock, with two outside substances beside it: one labelled bisphenol A with a small "banned in certain uses" tag, and one labelled DDT shown as a false key — the lure. Slipping toward the lock.
 
+[Picture 38369 — endocrine disruptors false keys at the]
+
 ## The key facts
 **What an endocrine disruptor is.** An endocrine disruptor is a substance that interferes with the endocrine system — the hormone system. It does not have to poison the body outright; it disturbs the signalling itself.
 

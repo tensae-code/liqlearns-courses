@@ -8,6 +8,8 @@ Biological science in the Republic of Moldova is carried on in Academy institute
 
 In your mind's eye: four Moldovan research scenes in a row. Microbes degrading plastic, drought-resistant lavender and sage varieties, a zoology fauna study, and in-vitro plant multiplication at a botanical garden.
 
+[Picture 38281 — moldova's institutes biology at work in]
+
 ## The key facts
 **Tema 1.3 Development of the biological sciences in the Republic of Moldova.** Moldova's Grade 10 book (Tema 1.3 Development of the biological sciences in the Republic of Moldova) teaches: Academy institutes and university centres: microbiology project on biodegradation of non-recyclable plastic, genetics/plant-protection institute creating drought-resistant medicinal and aromatic plant varieties (clary sage, lavender, oregano, hyssop, chia, sesame), zoology institute fauna forecasts, National Botanical Garden in-vitro multiplication. (printed p. 9).
 

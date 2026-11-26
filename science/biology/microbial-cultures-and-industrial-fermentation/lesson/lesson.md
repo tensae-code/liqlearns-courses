@@ -8,6 +8,8 @@ Biotechnology's working tool is the microbial culture: microbes grown pure in th
 
 In your mind's eye: a chain growing left to right — a single colony dish, a flask, then a tall factory fermenter with pipes and gauges. Ending in a medicine bottle labelled penicillin.
 
+[Picture 38473 — fermentation grows dish flask factory]
+
 ## The key facts
 **Ch. 7.** microbial cultures as biotechnology's tool; growth in lab and at industrial scale (p. 113), culture methods (p. 114), purifying fermentation products and penicillin production as a milestone (p. 115)
 

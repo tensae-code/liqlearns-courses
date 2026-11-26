@@ -8,6 +8,8 @@ The world's food production does not reach everyone evenly — that unevenness i
 
 In your mind's eye: a world map with full granaries in one region and empty bowls in another, joined by a green-revolution wheat field drawn between them.
 
+[Picture 38415 — the food gap full granaries empty]
+
 ## The key facts
 **Module 10: How can humans contribute to global food production? The green revolution; increasing yield; the food gap.** Module 10: How can humans contribute to global food production? The green revolution; increasing yield; the food gap
 

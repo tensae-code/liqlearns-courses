@@ -8,6 +8,8 @@ A plant grows longer at its tips and thicker at its sides, by two different grow
 
 In your mind's eye: a young tree cut open as a diagram — at the shoot tip and root tip, magnified circles showing the three zones of division, elongation and differentiation, with ink marks spacing out along the root. And in the trunk a cross-section of rings: pale secondary xylem building the wood year by year, the cambium ring, secondary phloem, bark outside with a lenticel pore.
 
+[Picture 38525 — growth in length and in]
+
 ## The key facts
 **Primary growth — length.** Primary growth happens at the root and shoot apical meristems and lengthens the plant; behind the tip lie the zones of division, elongation and differentiation, in that order.
 

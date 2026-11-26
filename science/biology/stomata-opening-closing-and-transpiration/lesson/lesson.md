@@ -8,6 +8,8 @@ Mozambique's plant-physiology module (Módulo 5) gives Lesson 4 to the stomata a
 
 In your mind's eye: a leaf surface magnified, one stoma drawn twice — open between two swollen guard cells and closed between two slack ones. With water-vapour arrows leaving the open pore, and beside it a chloroplast drawn with its double membrane.
 
+[Picture 38567 — one stoma open and closed]
+
 ## The key facts
 **Guard cells work the pore.** Each stoma (pore, ostiole) is flanked by two guard cells. When the guard cells gain water and become turgid, the stoma opens; when they lose water, it closes.
 

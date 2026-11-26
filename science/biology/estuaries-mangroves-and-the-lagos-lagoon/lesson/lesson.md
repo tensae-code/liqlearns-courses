@@ -8,6 +8,8 @@ Chapter 13 of Nigeria's Senior Secondary Biology 1 studies the estuarine habitat
 
 In your mind's eye: red mangroves on stilt roots at the edge of the Lagos lagoon, with the root zones labelled. Mercierella high-salinity, oyster Gryphaea lower, barnacle Balanus lowest.
 
+[Picture 38377 — mangrove roots each creature its own]
+
 ## The key facts
 **Where river meets sea.** An estuary is the habitat where a river's fresh water meets and mixes with the sea — the Ogun, Osun and Osse mouths, the Niger delta and the Lagos lagoons are Nigeria's examples.
 

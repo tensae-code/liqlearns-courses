@@ -8,6 +8,8 @@ A hard-working muscle tires: when it works beyond its oxygen supply it builds up
 
 In your mind's eye: a hand squeezing a ball again and again above a falling force graph, with a muscle cross-section showing lactic acid building up and a rest symbol at the end.
 
+[Picture 38485 — muscle fatigue force fades acid rises]
+
 ## The key facts
 **§17 Muscle fatigue processes under anaerobic and aerobic load.** §17 Muscle fatigue processes under anaerobic and aerobic load
 

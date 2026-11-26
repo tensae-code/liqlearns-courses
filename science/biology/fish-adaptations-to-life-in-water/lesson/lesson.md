@@ -8,6 +8,8 @@ A fish's body shows how it is adapted to life in water: a streamlined shape for 
 
 In your mind's eye: a perch in side view, labelled with its adaptations to life in water — streamlined shape, fins, gills under the gill cover, swim bladder and the lateral line running along its side.
 
+[Picture 38391 — a perch fitted to life in]
+
 ## The key facts
 **A streamlined shape.** A fish's smooth, tapered shape lets it move through water with little resistance — the first adaptation a pupil is asked to read off the fish's structure.
 

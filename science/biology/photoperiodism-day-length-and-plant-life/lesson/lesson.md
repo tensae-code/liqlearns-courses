@@ -8,6 +8,8 @@ Plants measure the length of the day and the night — photoperiodism — and us
 
 In your mind's eye: one plant drawn twice. Under long summer days flowering, under short winter days in leaves only, with a sun-and-moon day-length dial above each.
 
+[Picture 38503 — photoperiodism day length decides the flower]
+
 ## The key facts
 **§35 Photoperiodism in plants.** day-length responses given their own § (not in the NIS book)
 

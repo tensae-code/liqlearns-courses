@@ -8,6 +8,8 @@ A transplanted organ carries its donor's HLA identity labels, so matching donor 
 
 In your mind's eye: two identity cards, donor and recipient, with rows of HLA labels being compared and matched, most rows ticked the same.
 
+[Picture 38491 — hla matching most rows the same]
+
 ## The key facts
 **Ch. 4 §4 Organ transplantation.** rejection explained by HLA identity labels; the 1952 mother-to-son kidney that lived 22 days; matching rules (over half the main HLA shared can suffice); immunosuppressants' bargain; the shortage in numbers (2013: some 120,000 transplants worldwide meeting under 10% of need; China second in 2015 with over 10,000); China's computerised allocation system (2013) ranking by urgency and match, not by influence; stem-cell-grown mini-hearts and colon tissue as the long hope; and an "organ insurance" proposal set for debate in the exercises.
 

@@ -8,6 +8,8 @@ A plant's structure is fitted to the place it lives — support structures hold 
 
 In your mind's eye: a cactus in dry ground with its leaves turned to spines labelled, beside a green plant whose support structures hold it upright.
 
+[Picture 38570 — plant structures saving water standing tall]
+
 ## The key facts
 **5.1 Structural adaptations of plants.** Moldova's Grade 6 book (5.1 Structural adaptations of plants) teaches: support structures, cactus leaves turned to spines reducing evaporation in arid conditions. (printed p. 68).
 

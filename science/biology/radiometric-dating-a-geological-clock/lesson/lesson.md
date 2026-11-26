@@ -8,6 +8,8 @@ Radiometric dating reads a rock's age from its radioactive clocks: uranium-238 h
 
 In your mind's eye: a row of hourglasses halving — a full measure, half, quarter, eighth. Beside a fossil shell in rock layers.
 
+[Picture 38534 — radiometric dating the halving clock]
+
 ## The key facts
 **§1 STS feature "An ideal 'geological clock'" and career.** uranium-238's half-life of 4.5 billion years and carbon-14's of 5,730 years worked through numerically (why 14C fails beyond about 70,000 years), the lead–lead ratio dating a rock's formation, and the fossil-preparation specialist as a featured career. No existing lesson covers radiometric dating.
 

@@ -8,6 +8,8 @@ People build artificial ecosystems — fields and orchards, which are agrocenose
 
 In your mind's eye: four artificial ecosystems in a row — a wheat field, an orchard, a city block and an oil field. Each with a farmer or worker shown keeping it going, beside a self-holding steppe ecosystem with no one tending it.
 
+[Picture 38272 — artificial ecosystems are kept going by]
+
 ## The key facts
 **§4 Humans as part of the ecosystem.** from early human impact (aurochs, mammoths) to artificial ecosystems: fields, orchards, cities, oil fields
 

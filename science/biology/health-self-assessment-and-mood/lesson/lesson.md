@@ -8,6 +8,8 @@ Health can be assessed, not assumed: a self-test scores body, mind and social ad
 
 In your mind's eye: a triangle labelled body, mind and social adaptation, beside a checklist page with ticks and a small BMI scale.
 
+[Picture 38423 — self-assessment body mind and fitting in]
+
 ## The key facts
 **Ch. 3 §1 Evaluating your own health.** health scored, not assumed: a 25-item self-test (which embeds the Chinese school-age BMI standard — for 13-year-olds, overweight above 21.9 for boys and 22.6 for girls) sorted with classmates into body, mind and social-adaptation items; the WHO definition drawn as a triangle; and three named methods for regulating mood — shift attention, vent appropriately, console yourself. No existing lesson covers self-assessment of health.
 

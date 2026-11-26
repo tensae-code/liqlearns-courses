@@ -8,6 +8,8 @@ bones losing mass and mineral salts such as calcium, rising fracture risk and sp
 
 In your mind's eye: a healthy bone and an osteoporotic bone side by side in cross-section, the second with visibly thinner, sparser bone tissue, and a spine outline showing curvature.
 
+[Picture 38493 — osteoporosis bone thins from inside]
+
 ## The key facts
 **Osteoporosis.** Kuwait's new Grade 10 student book (Lesson 2-3, printed p. 124) teaches osteoporosis by what is lost: bones losing mass and mineral salts such as calcium.
 

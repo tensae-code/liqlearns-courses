@@ -8,6 +8,8 @@ A biome is one of the Earth's great living regions — a wide land with its own 
 
 In your mind's eye: brazil's Atlantic coast with a band of green forest running down it, most of the band faded or cut away and only small patches of green remaining.
 
+[Picture 38299 — brazil's atlantic forest a band worn]
+
 ## The key facts
 **Brazil's own biomes.** The book's Biodiversity block first asks about biomes as a whole — Ch. 11, Biomas: "paraísos naturais ou recursos inesgotáveis?" (natural paradises or inexhaustible resources?). Brazil's own biomes are inside that question: a biome can be looked at as a paradise to protect, or as a store of resources to use — and the book makes the learner hold the question, not just the list.
 

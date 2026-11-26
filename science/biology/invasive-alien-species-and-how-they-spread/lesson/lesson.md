@@ -8,6 +8,8 @@ An invasive alien species is a species that has crossed a barrier it could never
 
 In your mind's eye: a Finnish shore meadow with four labelled invaders — a mink among archipelago birds, a large Spanish slug, a stand of garden lupins crowding out native flowers, and a giant hogweed with a warning mark beside it.
 
+[Picture 38451 — four invaders on one shore]
+
 ## The key facts
 **What makes a species an invasive alien.** The species is alien — it does not belong where it is found — and it arrived by crossing a barrier that would naturally be impassable, with human help. Then it spreads, in numbers, and harms the native nature. All three parts matter: alien, human-carried, spreading and harmful.
 

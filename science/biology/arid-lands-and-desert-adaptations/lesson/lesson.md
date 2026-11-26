@@ -8,6 +8,8 @@ Chapter 14 of Nigeria's Senior Secondary Biology 1 closes its habitats with the 
 
 In your mind's eye: an arid-land scene. A camel under a thorny acacia, a succulent plant with swollen water-storing stems, cracked dry ground and a distant dune.
 
+[Picture 38271 — arid lands the camel the thorn]
+
 ## The key facts
 **Lands of little water.** Arid lands are defined by scarcity: very low, unreliable rainfall — the condition every adaptation in this lesson answers.
 

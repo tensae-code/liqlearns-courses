@@ -8,6 +8,8 @@ Regulation does not end with the endocrine glands. North Macedonia's Grade 13 el
 
 In your mind's eye: a salivary gland with its duct opening into the mouth, arrows running to it from a nerve and from a blood vessel carrying a hormone — the two control routes arriving at one gland, and drops of saliva leaving by the duct.
 
+[Picture 38429 — one gland two controls nerve and]
+
 ## The key facts
 **Exocrine means out through a duct.** An exocrine gland releases its product through a duct onto a surface or into a cavity: salivary glands into the mouth, sweat glands onto the skin, gastric and intestinal glands into the gut, the pancreas's digestive part into the intestine. (Endocrine glands, by contrast, release hormones into the blood, with no duct.)
 

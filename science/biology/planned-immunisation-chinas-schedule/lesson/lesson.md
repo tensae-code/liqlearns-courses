@@ -8,6 +8,8 @@ Planned immunisation gives each vaccine at its set age on a national schedule �
 
 In your mind's eye: a child's vaccination certificate opened to a schedule table, with a birth-day row marked BCG and hepatitis B.
 
+[Picture 38505 — china's schedule the first vaccines at]
+
 ## The key facts
 **§2, planned immunisation.** vaccines as inactivated or weakened pathogens, then China's planned immunisation in practice: BCG and hepatitis B at birth, the child's vaccination certificate, and Beijing's two-page immunisation schedule reproduced in full. No existing lesson covers a national immunisation schedule as a document pupils actually hold.
 

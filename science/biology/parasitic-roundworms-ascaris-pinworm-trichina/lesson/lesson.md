@@ -8,6 +8,8 @@ free-living roundworms as predators with grasping mouthparts; the phylum best kn
 
 In your mind's eye: a roundworm drawn with its smooth unsegmented body, beside a magnified view of a free-living roundworm's grasping mouthparts.
 
+[Picture 38495 — roundworms the smooth body the gripping]
+
 ## The key facts
 **Free-living roundworms.** Kuwait's Grade 10 Term 2 student book (Unit 2, Lesson 2-1, printed pp. 36–37) opens the roundworms with their free-living members: predators with grasping mouthparts.
 

@@ -8,6 +8,8 @@ The blood travels in three kinds of vessel — arteries carrying it away from th
 
 In your mind's eye: a blood vessel drawn three times and labelled. A thick-walled artery, a hair-thin capillary beside a body cell, and a vein with a pocket valve.
 
+[Picture 38290 — three vessels artery capillary vein]
+
 ## The key facts
 **Ch. 3.** blood vessels as their own section
 

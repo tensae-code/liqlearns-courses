@@ -8,6 +8,8 @@ Hormone products must be weighed case by case — the chemistry that treats dwar
 
 In your mind's eye: a balance scale with a medicine bottle on one pan and a warning sign on the other, the pans level while a hand points 'judge each case'.
 
+[Picture 38427 — hormone products benefit and risk weighed]
+
 ## The key facts
 **Ch. 3 §2 evaluation feature "Weighing the use of hormone products".** ten real cases set for judgement: insulin and glucocorticoid therapy, gonadotropins breeding the four great Chinese carps, hormones fattening pigs for lean meat, juvenile-hormone spray making silkworms eat longer and spin more, environmental endocrine disruptors, athletes' testosterone derivatives, growth hormone abused for beauty, fever-masking steroids, the oral contraceptive of Pincus and Chang Min-chueh （张明觉）, and sex-pheromone pest traps. No existing lesson teaches evaluating hormone use case by case.
 

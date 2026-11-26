@@ -8,6 +8,8 @@ Kenya's Grade 8 Integrated Science book teaches the microscope by using it — p
 
 In your mind's eye: the total magnification of a microscope is the eyepiece magnification multiplied by the objective magnification — eyepiece × objective. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38305 — total magnification eyepiece times objective]
+
 ## The key facts
 **Two lenses multiply.** A light microscope magnifies twice: the objective lens, close to the specimen, magnifies first, and the eyepiece lens magnifies that image again. Because the magnifications stack, the total is found by multiplying, not adding: total magnification = eyepiece magnification × objective magnification.
 

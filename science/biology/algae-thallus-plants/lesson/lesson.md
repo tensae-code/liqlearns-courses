@@ -8,6 +8,8 @@ Bulgaria's Grade 7 book builds the plant kingdom by body plan first (Topic 15, p
 
 In your mind's eye: two plants side by side. A flat green alga labelled as one thallus body, and a flowering plant labelled root, stem and leaves.
 
+[Picture 38260 — a thallus is one body a]
+
 ## The key facts
 **The thallus.** A thallus is a plant body that is not divided into root, stem and leaves. The whole body does the work of living — taking in water and light and making food — without separate organs for each job.
 

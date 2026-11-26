@@ -8,6 +8,8 @@ Animals meet the cold season two ways — active life, or hibernation and torpor
 
 In your mind's eye: a lesser horseshoe bat shown twice. Active in summer and hibernating in winter, with its fat store marked.
 
+[Picture 38426 — the horseshoe bat two seasons two]
+
 ## The key facts
 **5.1 Active life and hibernation.** Moldova's Grade 7 book (5.1 Active life and hibernation) teaches: hibernation burning fat laid down in the warm season, torpor ("amorțire"), lesser horseshoe bat summer/winter. (printed p. 136).
 

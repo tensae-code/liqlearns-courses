@@ -8,6 +8,8 @@ Malaysia's Form 5 book sets a whole subtopic on the diversity of plant nutrition
 
 In your mind's eye: three plants side by side. A pitcher plant trapping an insect, an orchid growing on a tree branch, and a parasitic plant with roots entering its host's stem.
 
+[Picture 38351 — odd diets trapper rider parasite]
+
 ## The key facts
 **Carnivorous plants.** Pitcher plants and their kin grow where the soil is poor in minerals. They still photosynthesise, but they trap and digest insects to gain the nitrogen and minerals the soil lacks.
 

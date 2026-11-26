@@ -8,6 +8,8 @@ Mozambique's first PESD I module (2023) teaches transpiration as a lesson of its
 
 In your mind's eye: two bottles under a glass bell jar, one holding a leafy branch and one a bare defoliated branch, the leafy one's jar clouded with condensed droplets; beside it a plant with a blue arrow rising through the stem marked raw sap and a green arrow flowing down from the leaves marked elaborated sap.
 
+[Picture 38605 — transpiration proven and the two]
+
 ## The key facts
 **99% is lost.** Plants lose about 99% of the water they absorb by transpiration. The module presents this as the plant's biggest problem — and teaches the adaptation mechanisms plants use to limit the loss.
 

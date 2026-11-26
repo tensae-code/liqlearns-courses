@@ -8,6 +8,8 @@ Cancer begins when mutations strike the genes that control cell multiplication, 
 
 In your mind's eye: one body cell with a damaged control gene dividing again and again into a growing cluster, beside a panel of prevention and early-check symbols.
 
+[Picture 38308 — how cancer starts and the]
+
 ## The key facts
 **Unit 4, Act. 3.** cancer as a workbook topic (with textbook appendix European Code Against Cancer)
 

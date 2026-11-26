@@ -8,6 +8,8 @@ North Macedonia's Biology II closes with a biotechnology and genetic-engineering
 
 In your mind's eye: a strand of DNA with a marked gene, a guide molecule leading a cutting protein to exactly that mark, the cut made, and the strand repaired with a changed letter — editing drawn as find, cut, repair.
 
+[Picture 38574 — crispr editing find cut repair]
+
 ## The key facts
 **Synthetic biology builds with life.** Synthetic biology treats living systems as engineerable: it designs and builds new biological parts, circuits and organisms — or redesigns existing ones — for chosen purposes, joining biology to engineering's design-and-test way of working.
 

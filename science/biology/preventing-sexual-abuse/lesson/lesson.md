@@ -8,6 +8,8 @@ North Macedonia's Grade 8 textbook ends its human reproduction and health theme 
 
 In your mind's eye: a young person standing firm with one hand raised in a clear 'stop', and beside them the trusted adults of their life — a parent, a teacher, a doctor. Drawn as the people who can be told.
 
+[Picture 38524 — protection a firm stop and people]
+
 ## The key facts
 **Your body belongs to you.** Nobody has the right to touch your body in a way that makes you uncomfortable, or to ask you to touch theirs or to keep such things secret. Your body is your own — in biology's terms, part of caring for your reproductive health and your rights.
 

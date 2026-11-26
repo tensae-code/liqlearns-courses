@@ -8,6 +8,8 @@ Genetic engineering makes vaccines by moving a pathogen's antigen gene into a sa
 
 In your mind's eye: a yeast cell drawn producing many copies of one spiky antigen piece, the pieces travelling to a syringe labelled vaccine, with a shield forming in the body beyond.
 
+[Picture 38612 — engineered vaccines yeast syringe shield]
+
 ## The key facts
 **Ch. 8.** vaccines (p. 125) and antibiotics (p. 126) in the medicine chapter
 

@@ -8,6 +8,8 @@ Ecosystems run on information as well as energy and matter: physical, chemical a
 
 In your mind's eye: a tobacco leaf being eaten, wavy signal lines rising from it, and a small parasitoid wasp flying in along the scent trail.
 
+[Picture 38446 — a leaf under attack sends a]
+
 ## The key facts
 **Ch. 3 §4 Information transfer.** physical, chemical and behavioural information on a source–channel–receptor chain; bee round and waggle dances; Butenandt's bombykol (20 years, 500,000 silkworm moths, 1959 — the first pheromone); phytochrome as a plant's information receptor; dolphin echolocation over 100 kHz and ship noise behind mass strandings; herbivore-attacked tobacco releasing volatiles that summon parasitoids (2001); and the farming uses — simulated pollinator signals, longer light for laying hens, pheromone traps and mating disruption.
 

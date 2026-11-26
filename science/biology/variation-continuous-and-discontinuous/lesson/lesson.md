@@ -8,6 +8,8 @@ Malaysia's Form 5 book organises its variation chapter by the two kinds of varia
 
 In your mind's eye: two graphs side by side. A smooth bell curve of heights labelled continuous variation, and separate bars of blood groups labelled discontinuous variation.
 
+[Picture 38613 — variation the smooth bell the separate]
+
 ## The key facts
 **Continuous variation.** Height, mass and skin shade grade smoothly from one extreme to the other, with every step between; plotted, they draw a smooth bell-shaped curve. Such traits are usually built by many genes together, with the environment adding its effect.
 

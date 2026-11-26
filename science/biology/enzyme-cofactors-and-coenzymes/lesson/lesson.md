@@ -8,6 +8,8 @@ Many enzymes work only with a helper: a cofactor — often a metal ion — or an
 
 In your mind's eye: an enzyme drawn with an empty helper socket, a small metal ion and a vitamin-shaped coenzyme clicking into place before the substrate fits.
 
+[Picture 38374 — cofactors the helpers click in first]
+
 ## The key facts
 **§3.2.** enzyme cofactors
 

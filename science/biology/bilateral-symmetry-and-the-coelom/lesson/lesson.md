@@ -8,6 +8,8 @@ Bilateral symmetry — a body with two matching sides and a front end — is an 
 
 In your mind's eye: a bilateral animal drawn from above with a dashed midline dividing its left and right sides and its front end marked, beside three cross-sections of worm-like bodies labelled acoelomate (solid, no cavity), pseudocoelomate (a false cavity) and coelomate (a true lined coelom).
 
+[Picture 38279 — bilateral symmetry and the three]
+
 ## The key facts
 **The programme's frame.** Cuba's Grade 8 programme (Unit 4) teaches bilateral symmetry as an adaptive and evolutionary advantage, together with the coelom and the pseudocoelom (printed p. 17, teacher programme — evidence)
 

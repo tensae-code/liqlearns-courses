@@ -8,6 +8,8 @@ An insect's metamorphosis is decided by two hormones pulling opposite ways: Keny
 
 In your mind's eye: a caterpillar drawn at a crossroads with two hormone taps above it — one labelled juvenile hormone, flowing from two small round corpora allata behind the brain, keeping the road sign pointing to 'larva'. And one labelled ecdysone, flowing from the prothoracic glands, opening the gate to 'pupa' and then 'adult', the butterfly at the road's end.
 
+[Picture 38447 — two hormones steer the moulting road]
+
 ## The key facts
 **Ecdysone — the moulting hormone.** Ecdysone is produced by the prothoracic glands and triggers moulting — the shedding of the old cuticle that lets the insect grow and change stage.
 

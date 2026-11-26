@@ -8,6 +8,8 @@ Channel proteins are fitted pores through the membrane — aquaporins pass water
 
 In your mind's eye: a cell membrane crossed by two pores — a narrow water channel with single-file water molecules, and a potassium channel whose shape fits potassium ions only.
 
+[Picture 38317 — channels each pore fits one traveller]
+
 ## The key facts
 **Ch. 4 history feature "Humanity's exploration of channel proteins".** Agre isolating the water channel in 1988 (13 aquaporins now known in human cells, 35 in Arabidopsis), Neher and Sakmann's patch clamp (Nobel 1991), MacKinnon's potassium-channel structure (1998), and the shared 2003 chemistry Nobel — a whole class of membrane proteins with its own discovery story, held by no existing lesson.
 
