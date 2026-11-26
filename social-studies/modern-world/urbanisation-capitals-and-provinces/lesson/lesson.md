@@ -10,6 +10,8 @@ the town becomes the defining space of modernity — weekly markets, road networ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39870 — marketsroads]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §6: Procese demografice. Urbanizarea — the town becomes the defining space of modernity — weekly markets, road networks, peasants working at home on merchants' orders, and capitals growing at full intensity. Then let your companion ask you one hard question about it — answer from the lesson.

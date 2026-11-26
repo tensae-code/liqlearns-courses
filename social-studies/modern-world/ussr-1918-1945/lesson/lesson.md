@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the Soviet Union survi
 the Soviet Union survives civil war, industrialises in a rush, and breaks Nazi Germany at terrible cost
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39860 — eternalflame]
 ## Sub lesson 2 — Part I, Lesson 2: 1918–1945 — The USSR, 1918–1945
 
 civil war, crash industrialisation, and the breaking of Nazi Germany
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39859 — threepanels]
 
 ## Say it to your companion
 

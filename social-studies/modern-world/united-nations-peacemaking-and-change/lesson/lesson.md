@@ -10,6 +10,8 @@ Six decades of peacekeeping and observer missions, and since the 1990s wars ende
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39874 — bluehelmet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Promoting change and maintaining sustainability — six decades of peacekeeping and observer missions, and since the 1990s wars ended by UN mediation — Sierra Leone, Liberia, Burundi, Sudan's north-south conflict and Nepal named as the proof. Then let your companion ask you one hard question about it — answer from the lesson.

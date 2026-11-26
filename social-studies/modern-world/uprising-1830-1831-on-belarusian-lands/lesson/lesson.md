@@ -10,6 +10,8 @@ Pupils plot the secret societies (Philomaths, "Military Friends", Society of Uni
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39872 — plottedmap]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The uprising of 1830–1831 on the territory of Belarus. Then let your companion ask you one hard question about it — answer from the lesson.

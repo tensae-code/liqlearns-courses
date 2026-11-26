@@ -10,6 +10,8 @@ Washington invites the continent to a union it would lead; Martí, reporting fro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39866 — martiwarns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.5 US imperialist policy toward Latin America; Washington Conference; Martí on pan-Americanism vs Latin-Americanism — Washington invites the continent to a union it would lead; Martí, reporting from inside, warns Our America to stand together or be swallowed. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -12,6 +12,8 @@ Inside that story sits a map: the map of the seven emirates. Seven emirates, sid
 
 In your mind's eye: the map of the seven emirates as the book shows it. Count the emirates on the map and say that together they make one country.
 
+[Picture 39880 — etihad]
+
 ## Sub lesson 2 — Landmarks old and new, and "Zayed taught me"
 
 From the museum, the book walks the child past the country's landmarks — and it deliberately mixes old and new. Among the new: Louvre Abu Dhabi and Burj Khalifa, the tall tower. Among the old: Al Maqta Fort in Umm Al Quwain and Ajman Museum. A young country, the book shows, already has old places to keep and new places to point to, and both belong to its story.

@@ -9,6 +9,8 @@ Before you read on, hold this lesson's one thing in mind: the socialist bloc reb
 the socialist bloc rebuilds from ruins and becomes one pole of the postwar world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39858 — onepole]
 ## Sub lesson 2 — Part II, Lesson 5: II — The USSR and Eastern Europe after WWII
 
 the socialist bloc rebuilds from ruins

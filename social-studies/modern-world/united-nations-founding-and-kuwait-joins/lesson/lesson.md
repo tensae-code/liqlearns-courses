@@ -10,11 +10,15 @@ The second world war ends in 1945, the world judges the league of nations (1920)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39876 — kuwaitflag]
+
 ## Sub lesson 2 — The United Nations organisation
 
 Out of the second war's ruin the victors build the united nations to keep the peace their league had failed to keep.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39875 — houseofpeace]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Polish bacteriologist Ludwik Rajchman founds UNICEF and chairs it 1946-1950 unti
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39879 — fouragencies]
+
 ## Sub lesson 2 — Chapter 1, 3-4 The United Nations Organisation and UNICEF
 
 The UN is built after WWII to keep peace, with veto-bearing permanent members; UNICEF is founded in 1946 for children left homeless by the Second World War.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39878 — councilchild]
 
 ## Say it to your companion
 

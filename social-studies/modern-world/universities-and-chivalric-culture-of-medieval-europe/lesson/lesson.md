@@ -10,6 +10,8 @@ towns need educated men, so Bologna opens Europe's first university in the late 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39873 — bologna]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3: culture and science — the first universities and chivalric culture — towns need educated men, so Bologna opens Europe's first university in the late 11th century, Barbarossa's charter of 1158 frees scholars from every other power, and Paris, Oxford and Cambridge follow — 80 universities by 1500; beside them, knighthood sings itself in the Song of Roland, the Nibelungenlied, Arthur's legends and the troubadours' love poetry. Then let your companion ask you one hard question about it — answer from the lesson.

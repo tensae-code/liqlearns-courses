@@ -10,6 +10,8 @@ boom, crash and New Deal: the hegemon's interwar arc from prosperity to the Grea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39865 — boomcrash]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.1 The United States from 1918 to 1939 — boom, crash and New Deal: the hegemon's interwar arc from prosperity to the Great Depression. Then let your companion ask you one hard question about it — answer from the lesson.

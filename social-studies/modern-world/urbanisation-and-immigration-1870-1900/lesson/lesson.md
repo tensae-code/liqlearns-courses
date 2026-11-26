@@ -10,6 +10,8 @@ Cities swelled faster than they could govern themselves — housing, water, dise
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39871 — growingpains]
+
 ## Sub lesson 2 — The Great Migration and new immigration remake the cities
 
 Two great movements remade the cities: the African American Great Migration out of the South, and new European immigration across the Atlantic. New languages, faiths and foods — and new tensions — filled the swelling streets.
