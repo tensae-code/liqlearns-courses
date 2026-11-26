@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the Sergeants' Revolt 
 the Sergeants' Revolt lifts Batista, the hundred-day revolutionary government of Grau falls under US pressure, and the 1933 revolution is frustrated
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62840 — a frustrated revolution]
 ## Sub lesson 2 — 6.11–6.12 Continuation of the revolutionary struggle; manoeuvres of the reaction
 
 Grau's hundred days, the Sergeants' Revolt and Batista's rise: reaction learns to rule through barracks and embassies
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62841 — barracks and embassies]
 
 ## Say it to your companion
 

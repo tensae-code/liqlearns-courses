@@ -10,6 +10,8 @@ Cuba emerges ruined, slavery dying but not dead, parties forming under a colony 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62842 — ruined promises unkept]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.10 Economic, social and political situation at the war's end — Cuba emerges ruined, slavery dying but not dead, parties forming under a colony that promised reforms it did not keep. Then let your companion ask you one hard question about it — answer from the lesson.

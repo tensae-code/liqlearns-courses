@@ -10,6 +10,8 @@ in the cities the underground sabotages, strikes and hides fighters while Batist
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62851 — the underground]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.3 Clandestine struggle and the tyranny's repression — in the cities the underground sabotages, strikes and hides fighters while Batista's police torture and murder young revolutionaries. Then let your companion ask you one hard question about it — answer from the lesson.

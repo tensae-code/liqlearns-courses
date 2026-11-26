@@ -10,6 +10,8 @@ Gómez and Maceo land from exile expeditions and take command; the veteran army 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62850 — the chiefs land]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 7.2 The war's main chiefs arrive in Cuba — Gómez and Maceo land from exile expeditions and take command; the veteran army of 1868 marches again under new orders. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ wealthy criollos split three ways — reformists asking Madrid for rights, annex
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62860 — three ways]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.3 Different positions criollos took toward Spanish rule — wealthy criollos split three ways — reformists asking Madrid for rights, annexationists looking to the United States, and a few beginning to dream of independence. Then let your companion ask you one hard question about it — answer from the lesson.

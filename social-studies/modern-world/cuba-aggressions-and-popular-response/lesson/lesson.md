@@ -10,6 +10,8 @@ sabotage, air raids and exile attacks are answered by mass mobilisation, militia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62843 — the peoples response]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.3 Aggressions against the Revolution and the people's response — sabotage, air raids and exile attacks are answered by mass mobilisation, militias and the Committees for the Defence of the Revolution. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Ignacio Agramonte falls at Jimaguayú in 1873 and Céspedes, deposed by the Cham
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62844 — two chiefs lost]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.8 The war from 1873; deaths of Agramonte and Céspedes — Ignacio Agramonte falls at Jimaguayú in 1873 and Céspedes, deposed by the Chamber, dies alone at San Lorenzo in 1874; the war loses its two great chiefs. Then let your companion ask you one hard question about it — answer from the lesson.

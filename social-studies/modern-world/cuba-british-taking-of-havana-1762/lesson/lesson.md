@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: a British fleet besieg
 a British fleet besieges Havana in 1762; the city falls and is opened to free trade for eleven months before Spain recovers it in exchange for Florida
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62848 — havana falls 1762]
 ## Sub lesson 2 — 2.4 Colonial evolution in the 18th c. up to the English occupation
 
 Bourbon reforms tighten the monopoly until Britain takes Havana and briefly cracks it open
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62849 — the monopoly cracked]
 
 ## Say it to your companion
 

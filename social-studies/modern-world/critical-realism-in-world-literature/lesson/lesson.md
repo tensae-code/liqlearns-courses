@@ -10,6 +10,8 @@ Dostoevsky, Tolstoy and Chekhov open realism's new possibilities; Maupassant, Zo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62838 — literature as judge]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VIII §43 Critical realism — Dostoevsky, Tolstoy and Chekhov open realism's new possibilities; Maupassant, Zola, Shaw, Mark Twain, Dreiser's financier Cowperwood, Tagore, Lu Xun and Jack London's Iron Heel expose the bourgeois world's greed and lies — literature becomes the epoch's court of judgement. Then let your companion ask you one hard question about it — answer from the lesson.

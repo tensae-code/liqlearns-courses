@@ -10,6 +10,8 @@ the republic's first decades produce vanguard art, the Grupo Minorista and a nat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62861 — vanguard art]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.4 Panorama of culture, science and education in the period — the republic's first decades produce vanguard art, the Grupo Minorista and a national culture arguing with dependence. Then let your companion ask you one hard question about it — answer from the lesson.
