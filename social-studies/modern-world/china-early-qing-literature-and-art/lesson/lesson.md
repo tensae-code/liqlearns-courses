@@ -10,6 +10,8 @@ Dream of the Red Chamber traces Baoyu and Daiyu through the rise and fall of fou
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62627 — 700 named characters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Early Qing literature and art — Dream of the Red Chamber traces Baoyu and Daiyu through the rise and fall of four great houses — banned by rulers, unstoppable among readers, 700 named characters strong. Then let your companion ask you one hard question about it — answer from the lesson.

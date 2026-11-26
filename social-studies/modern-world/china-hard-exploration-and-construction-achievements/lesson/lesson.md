@@ -10,11 +10,15 @@ the young republic stumbles through the Great Leap and commune years yet still b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62644 — daqing bombs a satellite]
+
 ## Sub lesson 2 — Socialist construction twists and turns
 
 the Eighth Congress's good start, then the Great Leap, communes and the Cultural Revolution's decade — against Daqing, the bombs and the satellite
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62645 — twists and turns]
 
 ## Say it to your companion
 

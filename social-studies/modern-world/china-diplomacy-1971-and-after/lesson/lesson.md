@@ -10,6 +10,8 @@ in 1971 Qiao Guanhua laughs as China's UN seat is restored, Nixon lands in Beiji
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62624 — onto the main stage]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Diplomacy develops — in 1971 Qiao Guanhua laughs as China's UN seat is restored, Nixon lands in Beijing in 1972, and China steps onto the world's main stage. Then let your companion ask you one hard question about it — answer from the lesson.

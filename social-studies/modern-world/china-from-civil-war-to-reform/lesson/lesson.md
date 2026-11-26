@@ -10,17 +10,23 @@ the Kuomintang loses the civil war (1946–49), flees to Taiwan, and Mao proclai
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62639 — from civil war to reform]
+
 ## Sub lesson 2 — Bài 4 China takes the socialist road: after the national democratic revolution, the People's Republic is proclaimed in 1949, with North Vietnam following in 1954 and Laos in December 1975
 
 Mao's proclamation in 1949 moves a quarter of humanity into the socialist camp
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62640 — a quarter of humanity]
+
 ## Sub lesson 3 — Bài 4 China's reform and opening: from December 1978 the socialist market economy lifts GDP from 367.9 billion yuan to over 114 trillion by 2021 — about 9.5% a year — turns a Guangdong fishing village into Shenzhen, and launches Shenzhou craft and the BeiDou satellites
 
 in forty years a fishing village becomes a top Asian tech city, and the pupil is asked what the miracle proves
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62641 — 114 trillion by 2021]
 
 ## Say it to your companion
 

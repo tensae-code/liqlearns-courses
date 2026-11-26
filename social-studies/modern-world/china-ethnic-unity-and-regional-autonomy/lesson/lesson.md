@@ -10,11 +10,15 @@ Before you read on, hold this lesson's one thing in mind: 56 peoples under regio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62628 — 56 peoples one family]
+
 ## Sub lesson 2 — Today's Chinese ethnic policy
 
 56 recognised peoples, five autonomous regions and equality-and-unity written into the constitution's first articles
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62629 — five autonomous regions]
 
 ## Say it to your companion
 

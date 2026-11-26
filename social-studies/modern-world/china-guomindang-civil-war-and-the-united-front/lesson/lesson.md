@@ -10,11 +10,15 @@ Chiang Kai-shek's Guomindang turns on the Communists, civil war follows, and Jap
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62642 — forced back together]
+
 ## Sub lesson 2 — §13 The Guomindang's work; the Civil War; Chiang Kai-shek's policy; the united-front problem
 
 Chiang turns on the Communists; Japan's attack forces a second united front
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62643 — the second united front]
 
 ## Say it to your companion
 

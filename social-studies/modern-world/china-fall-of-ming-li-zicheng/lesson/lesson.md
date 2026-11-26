@@ -10,17 +10,23 @@ shepherd boy turned soldier Li Zicheng promises 'equal land, no grain tax', keep
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62630 — equal land no grain tax]
+
 ## Sub lesson 2 — Ming falls
 
 eunuchs and land-grabbing lords hollow out late Ming until drought-starved Shaanxi rises; the folk song runs 'kill the cattle and sheep, open the gates, welcome King Chuang — when King Chuang comes, no grain tax'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62631 — welcome king chuang]
+
 ## Sub lesson 3 — 1644
 
 the Chongzhen emperor hangs himself on Coal Hill as rebels and Qing armies divide his empire between them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62632 — 1644]
 
 ## Say it to your companion
 

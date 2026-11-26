@@ -10,6 +10,8 @@ the foreign ministry's story from the Five Principles to the community of a shar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62636 — a shared future]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Today's Chinese diplomacy — the foreign ministry's story from the Five Principles to the community of a shared future. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ maize and sweet potato conquer the hills until 'when Huguang ripens, the world i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62625 — when huguang ripens]
+
 ## Sub lesson 2 — The economy to mid-Qing
 
 new-world crops climb the hills, merchant guilds span the empire, and silver flows in through Canton
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62626 — silver flows through canton]
 
 ## Say it to your companion
 

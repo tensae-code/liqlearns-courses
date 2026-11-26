@@ -10,6 +10,8 @@ pupils meet Lin Zexu and Wei Yuan, who first translated the world's geography an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62634 — open their eyes to the world]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The first modern Chinese to 'open their eyes to the world' — pupils meet Lin Zexu and Wei Yuan, who first translated the world's geography and urged learning the foreigners' strengths to master the foreigners. Then let your companion ask you one hard question about it — answer from the lesson.

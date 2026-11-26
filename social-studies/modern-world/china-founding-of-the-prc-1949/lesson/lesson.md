@@ -10,11 +10,15 @@ in September 1949 the CPPCC elects Mao Zedong chairman, renames Beiping Beijing,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62637 — 1 october 1949]
+
 ## Sub lesson 2 — The PRC founded
 
 the CPPCC, the Common Programme and 1 October 1949 open the new state, and land reform and the Korean War secure it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62638 — the new state secured]
 
 ## Say it to your companion
 

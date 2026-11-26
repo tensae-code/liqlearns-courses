@@ -10,6 +10,8 @@ the First Five-Year Plan raises Anshan steel and the first Liberation trucks, an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62633 — steel trucks a constitution]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Industrialisation begins and the people's congress system is set up — the First Five-Year Plan raises Anshan steel and the first Liberation trucks, and in 1954 the first National People's Congress adopts the new state's first constitution. Then let your companion ask you one hard question about it — answer from the lesson.
