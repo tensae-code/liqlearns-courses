@@ -10,11 +10,15 @@ Alexander chases steppe horsemen who refuse pitched battle and slip away unconqu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60178 — the chase that never closes]
+
 ## Sub lesson 2 — 3.8 The Sakas' struggle against Alexander the Great's army
 
 Saka horsemen harry Alexander on the Jaxartes and he cannot hold the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60179 — the Sakas harry him on the Jaxartes]
 
 ## Sub lesson 3 — §42 Alexander the Great's campaign against the Sakas
 
@@ -22,17 +26,23 @@ Alexander wins a river battle yet cannot conquer the free steppe tribes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60180 — a battle won, the steppe still free]
+
 ## Sub lesson 4 — 3.8 The Sakas' struggle against Alexander's army (lesson plans)
 
 the Jaxartes fighting is taught from both conqueror's and defenders' sides
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60181 — the fighting taught from both sides]
+
 ## Sub lesson 5 — §24 Why Alexander could not conquer the Scythians (lesson plan)
 
 the steppe campaign is taught as the limit of Alexander's power
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60182 — the limit of Alexander's power]
 
 ## Say it to your companion
 

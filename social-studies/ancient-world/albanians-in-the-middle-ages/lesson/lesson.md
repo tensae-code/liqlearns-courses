@@ -10,6 +10,8 @@ Albania's medieval map is drawn by clan chiefs becoming princes.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60177 — clan chiefs become princes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.4.4 The Albanians in the Middle Ages. Then let your companion ask you one hard question about it — answer from the lesson.

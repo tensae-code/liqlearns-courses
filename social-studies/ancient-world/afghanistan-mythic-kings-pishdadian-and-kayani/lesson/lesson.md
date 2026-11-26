@@ -31,6 +31,8 @@ the mythic sequence is completed with the Aspa line of heroes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60163 — the Aspa heroes complete the line]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 9: The mythical history of Afghanistan (Pishdadians, Kayanis and Aspa) — three legendary houses fill the age before records — Hushang of the Pishdadians wars with the demons, and Rostam the champion strides out of the Shahnameh tradition; Lesson 4: Mythical history of Afghanistan: the Pishdadian rule — the legendary first house, Hushang's line, opens the age before records; Lesson 5: Mythical history of Afghanistan: the Kayani rule — the Kayani kings succeed the Pishdadians in the epic memory of the land; Lesson 6: Mythical history of Afghanistan — the mythic sequence is completed with the Aspa line of heroes. Then let your companion ask you one hard question about it — answer from the lesson.

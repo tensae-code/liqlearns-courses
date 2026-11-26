@@ -10,6 +10,8 @@ Once the Arab state settles, farming expands — more land, more water, better-o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60172 — farming grows — land, water, science]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Agriculture in the Arab state. Then let your companion ask you one hard question about it — answer from the lesson.

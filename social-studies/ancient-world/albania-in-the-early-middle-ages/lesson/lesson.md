@@ -10,6 +10,8 @@ Goths, Huns, Avars and Slavs sweep the Illyrians' Romanised descendants into coa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60176 — to the coast cities and high mountains]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: Albania in the early Middle Ages — Goths, Huns, Avars and Slavs sweep the Illyrians' Romanised descendants into coastal cities and high mountains; Byzantium organises the land into the themes of Dyrrachion and Nikopolis, with Durrës guarding the start of the Via Egnatia; Bulgaria and Samuil's empire take turns ruling it, the people rise under Tihomir in 1040, and Norman invaders close the period. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ al-Hasan bin Ali al-Utrush, born in Medina in 230 AH and schooled there and in I
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60175 — al-Utrush enters Amul, 301 AH]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Islamic state in the age of the Alawites in Tabaristan (Imam al-Nasir al-Utrush, 230-304 AH) — al-Hasan bin Ali al-Utrush, born in Medina in 230 AH and schooled there and in Iraq, carries the call to Tabaristan south of the Caspian, takes it in 301 AH and enters Amul, its capital, at the head of his army, and rules Tabaristan, Gilan and Daylam on the same principles as the Zaydi states of Yemen. Then let your companion ask you one hard question about it — answer from the lesson.

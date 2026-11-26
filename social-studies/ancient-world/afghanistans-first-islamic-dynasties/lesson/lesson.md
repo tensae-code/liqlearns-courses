@@ -9,16 +9,22 @@ Before you read on, hold this lesson's one thing in mind: Tahir ibn Husayn of Pu
 Tahir ibn Husayn of Pushang by Herat plays kingmaker between the Abbasid brothers Amin and Ma'mun and founds the first of the land's own Islamic dynasties
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60168 — Tahir the kingmaker]
 ## Sub lesson 2 — Lesson 7: Tahirids and Saffarids
 
 Tahir of Fushanj makes the first post-Islam bid for the country's independence with his semi-independent Tahirid state, and the Saffarids carry the work against the Abbasid caliphate further
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60169 — Tahirids half-free, Saffarids further]
 ## Sub lesson 3 — Lesson 8: The Samanids
 
 the Samanids raise the land's first great Persianate Islamic state from Bukhara and Herat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60170 — the Samanids — Bukhara and Herat]
 
 ## Say it to your companion
 

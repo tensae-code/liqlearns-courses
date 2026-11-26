@@ -10,6 +10,8 @@ Alexander conquers Persia and builds an empire from Greece to India in a decade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60184 — an empire in ten years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §24 Alexander of Macedon's state, mightiest military power — Alexander conquers Persia and builds an empire from Greece to India in a decade. Then let your companion ask you one hard question about it — answer from the lesson.

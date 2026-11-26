@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the Umayyads, a house 
 the Umayyads, a house of Quraysh, hold the caliphate from 41 AH/661 CE for ninety years and Islam spreads widely under them, Afghanistan included
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60166 — the Umayyads — Islam spreads east]
 ## Sub lesson 2 — Lesson 3: Afghanistan in the Umayyad era
 
 ninety years of Damascus's rule over the eastern lands
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60167 — ninety years of Damascus's rule]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The guide reads the Amazigh system of rule from a text and a diagram: before any
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 60186 — the Amazigh rule themselves]
+
 ## Sub lesson 2 — Daily life and the Amazigh script
 
 Daily life follows — housing, clothing and food, including Morocco's Jewish popular dishes taught as heritage — and the Amazigh script, the Amazigh's own letters.

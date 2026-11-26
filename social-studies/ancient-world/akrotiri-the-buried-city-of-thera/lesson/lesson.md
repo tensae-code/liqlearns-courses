@@ -10,6 +10,8 @@ a Bronze Age town preserved by volcanic ash like a Greek Pompeii is excavated st
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60173 — Akrotiri — buried by ash, dug out]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 6.3: Akrotiri of Thera (Santorini) — a Bronze Age town preserved by volcanic ash like a Greek Pompeii is excavated street by street under a protective shelter. Then let your companion ask you one hard question about it — answer from the lesson.

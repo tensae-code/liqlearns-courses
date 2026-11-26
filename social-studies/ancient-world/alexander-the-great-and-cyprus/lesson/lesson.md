@@ -10,6 +10,8 @@ Cypriot kings bring their fleets to Alexander at Tyre, trading Persian masters f
 
 In your mind's eye: the key place or moment of Alexander the Great and Cyprus as the book shows it. Point to it and say what it shows.
 
+[Picture 60183 — Cyprus's fleets sail to Tyre]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: alexander the Great and Cyprus. Then let your companion ask you one hard question about it — answer from the lesson.
