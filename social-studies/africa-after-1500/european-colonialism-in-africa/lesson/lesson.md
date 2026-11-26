@@ -10,6 +10,8 @@ the child is taught to name the thing, count its motives and recognise its instr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39126 — a flag planted on Africa, coins and a factory]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: European Colonialism in Africa — the child is taught to name the thing, count its motives and recognise its instruments before he ever meets its dates. Then let your companion ask you one hard question about it — answer from the lesson.

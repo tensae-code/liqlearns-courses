@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: Mauritania becomes the
 Mauritania becomes the target of European greed from the 15th century, and the dossier follows the French advance
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39132 — flags marching north from the Senegal River]
 ## Sub lesson 2 — Lesson 10: Colonialism enters Mauritania
 
 The French advance from Senegal up the river and into the desert
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39133 — a column marching from the river into the dunes]
 ## Sub lesson 3 — Lesson 3: Colonialism and resistance in Mauritania — the conquest
 
 France occupies Mauritania piece by piece against armed refusal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39134 — a French column facing Mauritanian horsemen]
 ## Sub lesson 4 — Lesson 9: Colonialism and resistance in Mauritania — the occupation
 
 The French occupation of Mauritania, stage by stage
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39135 — three stages — flag, post, administration]
 
 ## Say it to your companion
 

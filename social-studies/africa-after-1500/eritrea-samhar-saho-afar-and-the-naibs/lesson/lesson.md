@@ -10,6 +10,8 @@ Saho and Afar tribes, with no master-serf relations, govern themselves through e
 
 In your mind's eye: the key place or moment of Eritrea — Samhar, Saho, Afar and the Naibs as the book shows it: point to it and say what it shows.
 
+[Picture 39121 — elders gathered under a great tree]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: eastern Lowlands: Samhar and Dankalia. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Africans resist colonisation in defence of sovereignty; cultural associations be
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39129 — an association hall, a drum, a reader]
+
 ## Sub lesson 2 — The first nationalist formulations
 
 Out of the colonial order's own contradictions, the first nationalist formulations appear in Mozambique — the idea of the nation takes shape
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39130 — a writer at a great paper headed THE NATION]
 
 ## Say it to your companion
 

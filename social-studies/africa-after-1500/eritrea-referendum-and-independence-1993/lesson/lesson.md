@@ -10,6 +10,8 @@ In April 1993 Eritreans vote under international observation and 99.8 percent ch
 
 In your mind's eye: the key place or moment of Eritrea — referendum and independence, 1993 as the book shows it: point to it and say what it shows.
 
+[Picture 39120 — voters queueing at a ballot box under observation]
+
 ## Sub lesson 2 — Referendum and independence
 
 In April 1993 Eritreans vote 99.8 percent for independence, and the flag of a sovereign Eritrea rises on 24 May 1993.

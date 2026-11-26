@@ -9323,3 +9323,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 60304 | pictures/60304.webp | a drawn scene — two translators at their desks between tall shelves of books in the House of Wisdom, an arrow carrying the books into Arabic | Social Studies — Ancient World — Baghdad — the House of Wisdom |
 | 60305 | pictures/60305.webp | a drawn scene — the Nizamiyya school with a student holding his free bowl, and the Mustansiriyya with its hospital cross and rows of library books, 80,000 of them | Social Studies — Ancient World — Baghdad's great schools — the Nizamiyya and the Mustansiriyya |
 | 60306 | pictures/60306.webp | a drawn scene — a crowned Bagratuni king with the kingdom's banner on the Armenian highlands, a church and a walled city beside him | Social Studies — Ancient World — Bagratuni Armenia The Kingdom Restored |
+| 39114 | pictures/39114.webp | Two panels: the flags federated in 1952, then Eritrea's flag crossed out at annexation in 1962 | Social Studies — Africa after 1500 — Eritrea — federation with Ethiopia and its end |
+| 39115 | pictures/39115.webp | A grand school for Italian children beside a small one for Eritreans, and the Massawa–Asmara cableway | Social Studies — Africa after 1500 — Eritrea — Italian colonial administration |
+| 39116 | pictures/39116.webp | The deed buying Assab in 1869 beside Bahta Hagos rising in the highlands, 1894 | Social Studies — Africa after 1500 — Eritrea — Italian expansion and resistance |
+| 39117 | pictures/39117.webp | A mosque and the Naib's house hold the coast while the highlands stay free | Social Studies — Africa after 1500 — Eritrea — the Ottoman coast and the Naibs |
+| 39118 | pictures/39118.webp | Three party leaders with their flags face the UN's question mark | Social Studies — Africa after 1500 — Eritrea — political parties and the UN question |
+| 39119 | pictures/39119.webp | A Portuguese ship and a Turkish dhow face off while war smoke rises inland | Social Studies — Africa after 1500 — Eritrea — Portuguese-Turkish rivalry and the Gragn wars |
+| 39120 | pictures/39120.webp | Voters queue at the ballot box under an observer's eye, the 99.8% panel beside them | Social Studies — Africa after 1500 — Eritrea — referendum and independence, 1993 |
+| 39121 | pictures/39121.webp | Elders of the council gather under a great tree, the Naib's house apart | Social Studies — Africa after 1500 — Eritrea — Samhar, Saho, Afar and the Naibs |
+| 39122 | pictures/39122.webp | Turkish soldiers push up from Massawa while Yeshaq bars the highland pass | Social Studies — Africa after 1500 — Eritrea — Turkish expansion and Bahri Negassi Yeshaq |
+| 39123 | pictures/39123.webp | A crowned emperor hangs on puppet strings before a map split into four lordships | Social Studies — Africa after 1500 — Ethiopia — Era of the Princes (Zemene Mesafint) |
+| 39124 | pictures/39124.webp | Kassa stands crowned over one Ethiopia, Maqdala's flat-topped fortress behind | Social Studies — Africa after 1500 — Ethiopia — Tewodros II the unifier |
+| 39125 | pictures/39125.webp | Yohannes and Menelik join hands in accord beside a map marking Gundet and Gura | Social Studies — Africa after 1500 — Ethiopia — Yohannes IV against Egypt and Italy |
+| 39126 | pictures/39126.webp | A flag planted on the continent beside gold coins and a factory — the motives | Social Studies — Africa after 1500 — European colonialism in Africa |
+| 39127 | pictures/39127.webp | A lone governor faces a growing crowd with flags across a red line | Social Studies — Africa after 1500 — European powers face African nationalism |
+| 39128 | pictures/39128.webp | Da Gama's carrack anchors off Mozambique as a fort rises and an arrow pushes inland | Social Studies — Africa after 1500 — The European presence in Mozambique |
+| 39129 | pictures/39129.webp | Figures gather in an association hall beside a drum and a reader with a book | Social Studies — Africa after 1500 — First nationalist movements in Mozambique |
+| 39130 | pictures/39130.webp | A writer pens a great paper headed THE NATION while readers look on | Social Studies — Africa after 1500 — First nationalist movements in Mozambique |
+| 39131 | pictures/39131.webp | Rows of cotton with basket-carrying peasants and the overseer's weighing scale | Social Studies — Africa after 1500 — Forced cultivation — cotton, rice and tea in Mozambique |
+| 39132 | pictures/39132.webp | A map panel: three flags march north from the Senegal River into the desert | Social Studies — Africa after 1500 — France colonises Mauritania |
+| 39133 | pictures/39133.webp | A French column marches up from the river into the rising desert | Social Studies — Africa after 1500 — France colonises Mauritania |
+| 39134 | pictures/39134.webp | A French column and flag face two Mauritanian horsemen across a post | Social Studies — Africa after 1500 — France colonises Mauritania |
+| 39135 | pictures/39135.webp | Three panels of occupation: a flag planted, posts and patrols, an administration | Social Studies — Africa after 1500 — France colonises Mauritania |
+| 39136 | pictures/39136.webp | French ships anchor on the Gabon estuary beside the first huts of Libreville | Social Studies — Africa after 1500 — France in Gabon and the founding of Libreville |
+| 39137 | pictures/39137.webp | A 1946 'citizens on paper' panel behind walkers heading for a rising sun | Social Studies — Africa after 1500 — French territories — the road to independence |

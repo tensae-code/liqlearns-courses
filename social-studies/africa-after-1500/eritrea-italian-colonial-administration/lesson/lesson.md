@@ -10,6 +10,8 @@ Separate schools for Eritrean and Italian children, Fascist propaganda posters, 
 
 In your mind's eye: the key place or moment of Eritrea — Italian colonial administration as the book shows it: point to it and say what it shows.
 
+[Picture 39115 — a grand school door and a small one, the cableway]
+
 ## Sub lesson 2 — Italian colonial administration and the Racial Laws
 
 Commissariati and municipalities administer a colony whose aims shift from settler farms to markets to a springboard against Ethiopia, and the 1937 Racial Laws bar Eritreans from Italian streets, bars and schooling beyond grade 4.

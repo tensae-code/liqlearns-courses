@@ -10,6 +10,8 @@ Eritrea is federated with Ethiopia in 1952 with its own government, but Ethiopia
 
 In your mind's eye: the key place or moment of Eritrea — federation with Ethiopia and its end as the book shows it: point to it and say what it shows.
 
+[Picture 39114 — two flags linked, then one crossed out]
+
 ## Sub lesson 2 — The federation and its end
 
 UN Resolution 390A(V) of 2 December 1950 federates Eritrea with Ethiopia; Chief Executive Tedla Bairu heads Eritrea's own government, but Ethiopia strips the federation away and annexes Eritrea outright on 14 November 1962.

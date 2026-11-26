@@ -10,6 +10,8 @@ France's 1946 Fourth Republic constitution gives colonials citizenship on paper 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39137 — the 1946 panel and walkers on a road to a rising sun]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The French territories' road to independence — France's 1946 Fourth Republic constitution gives colonials citizenship on paper but not their interests; the French territories push on toward independence. Then let your companion ask you one hard question about it — answer from the lesson.

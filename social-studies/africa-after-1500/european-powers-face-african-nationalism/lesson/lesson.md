@@ -10,6 +10,8 @@ By mid-century nationalism is irreversible; the colonial powers must decide how 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39127 — a governor facing a flag-bearing crowd]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The European powers face nationalism — by mid-century nationalism is irreversible; the colonial powers must decide how to face a movement they can no longer stop. Then let your companion ask you one hard question about it — answer from the lesson.

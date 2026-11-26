@@ -10,6 +10,8 @@ French ships and treaties turn into a permanent settlement on the estuary (Leço
 
 In your mind's eye: french ships on the Gabon estuary and the first settlement that becomes Libreville. Say how Libreville began.
 
+[Picture 39136 — ships on the estuary, huts and the freed]
+
 ## Sub lesson 2 — The story of Libreville
 
 A settlement of freed slaves becomes the capital city, Libreville (Leçon 36 L'histoire de Libreville)

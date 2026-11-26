@@ -10,6 +10,8 @@ Portuguese and Turks fight over the Red Sea trade while Imam Ahmad Gragn's wars 
 
 In your mind's eye: the key place or moment of Eritrea — Portuguese-Turkish rivalry and the Gragn wars as the book shows it: point to it and say what it shows.
 
+[Picture 39119 — two fleets facing across the sea, smoke inland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: portuguese-Turkish rivalry and the Gragn wars. Then let your companion ask you one hard question about it — answer from the lesson.

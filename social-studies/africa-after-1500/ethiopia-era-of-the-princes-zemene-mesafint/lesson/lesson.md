@@ -10,6 +10,8 @@ Ethiopia's society, economy and government to 1855 slide into the Era of the Pri
 
 In your mind's eye: a puppet emperor on a throne while regional lords rule their own districts on a map behind him. The student explains who really ruled and whom the people waited for.
 
+[Picture 39123 — a puppet emperor on strings, a map of lordships]
+
 ## Sub lesson 2 — Waiting for a prophesied Theodore
 
 Divided and ruled by lords, the people wait for a prophesied Theodore to reunite them — the hope that closes this part of the story.

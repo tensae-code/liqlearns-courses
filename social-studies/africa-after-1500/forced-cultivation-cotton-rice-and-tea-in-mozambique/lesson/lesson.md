@@ -10,6 +10,8 @@ Portugal's textile industry starves for raw cotton; the answer is forced cultiva
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39131 — cotton rows, basket carriers, an overseer's scale]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Forced cultivation — cotton, rice and tea — Portugal's textile industry starves for raw cotton; the answer is forced cultivation — Mozambican peasants made to grow cotton, rice and tea for the metropole. Then let your companion ask you one hard question about it — answer from the lesson.

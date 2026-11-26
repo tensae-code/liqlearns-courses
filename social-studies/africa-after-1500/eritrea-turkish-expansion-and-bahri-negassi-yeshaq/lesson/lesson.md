@@ -10,6 +10,8 @@ Ozdemir Pasha takes Massawa in 1557 and pushes for the highlands; Bahri Negassi 
 
 In your mind's eye: the key place or moment of Eritrea — Turkish expansion and Bahri Negassi Yeshaq as the book shows it: point to it and say what it shows.
 
+[Picture 39122 — Yeshaq barring the pass above Massawa]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: turkish Expansion and Eritrean Resistance. Then let your companion ask you one hard question about it — answer from the lesson.

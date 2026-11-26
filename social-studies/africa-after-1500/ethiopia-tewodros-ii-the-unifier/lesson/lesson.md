@@ -10,6 +10,8 @@ Kassa, the outlawed shifta whose widowed mother hawked medicine in Gondar, fight
 
 In your mind's eye: kassa rising from outlaw to emperor, crowned over a reunited Ethiopia, with Maqdala's mountain fortress in the distance. The student tells his rise, his reforms and his death.
 
+[Picture 39124 — Kassa crowned, Maqdala's fortress behind]
+
 ## Sub lesson 2 — Reforms — and death at Maqdala
 
 As emperor, Theodore reforms church and army. He dies at Maqdala facing a British expedition, in 1868.

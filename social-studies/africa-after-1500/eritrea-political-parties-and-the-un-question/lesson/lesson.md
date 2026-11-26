@@ -10,6 +10,8 @@ After Britain replaces Italy in 1941, Eritrea's first political leaders — Ibra
 
 In your mind's eye: the key place or moment of Eritrea — political parties and the UN question as the book shows it: point to it and say what it shows.
 
+[Picture 39118 — three party leaders and the UN question mark]
+
 ## Sub lesson 2 — The party leaders
 
 Woldeab Woldemariam, Ibrahim Sultan and Ras Tesemma Asberom lead the independence parties of the 1940s against the unionists, as the Four Powers fail and the UN takes up Eritrea's case.

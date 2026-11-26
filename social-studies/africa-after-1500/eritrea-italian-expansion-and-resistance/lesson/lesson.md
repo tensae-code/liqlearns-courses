@@ -10,6 +10,8 @@ Italy buys Assab in 1869, takes Massawa, and in 1890 names the colony Eritrea �
 
 In your mind's eye: the key place or moment of Eritrea — Italian expansion and resistance as the book shows it: point to it and say what it shows.
 
+[Picture 39116 — the Assab deed and Bahta Hagos on the hill]
+
 ## Sub lesson 2 — Italian rule 1882–1941
 
 Italy lands at Assab and Massawa, proclaims the colony of Eritrea in 1890, and meets resisters like Bahta Hagos — while Eritrean askari are shipped to Italy's other wars.

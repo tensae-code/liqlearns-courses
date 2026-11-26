@@ -10,6 +10,8 @@ Yohannes wins Menelik's submission by accord not war. He crushes Khedive Ismail'
 
 In your mind's eye: emperor Yohannes IV receiving Menelik's submission by agreement, with the battlefields of Gundet and Gura marked on a map. Name the accord, the battles and his death.
 
+[Picture 39125 — two emperors in accord, a map with Gundet and Gura]
+
 ## Sub lesson 2 — Italy takes Eritrea — death against the Mahdists
 
 Italy takes Eritrea with British blessing while Yohannes reigns. He dies fighting the Mahdists, in 1889.

@@ -10,6 +10,8 @@ Vasco da Gama's landfall opens the European presence in Mozambique; rivalry foll
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39128 — da Gama's carrack, a fort, an arrow inland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The European presence in Mozambique — Vasco da Gama's landfall opens the European presence in Mozambique; rivalry follows as colonists move from the coast to effective penetration. Then let your companion ask you one hard question about it — answer from the lesson.
