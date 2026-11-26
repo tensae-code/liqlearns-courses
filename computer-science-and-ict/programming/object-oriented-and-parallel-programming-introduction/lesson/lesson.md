@@ -10,11 +10,15 @@ The **object-oriented** introduction restates the shift the course's later chapt
 
 In your mind's eye: object-oriented programming — the world as objects.
 
+[Picture 47351 — object-oriented programming — the world as objects]
+
 ## Sub lesson 2 — Parallel programming — several things at once
 
 **Parallel programming (παράλληλος προγραμματισμός)** writes programs whose parts run **at the same time** — splitting a heavy job across processors that work together, so the wall-clock time falls where the job truly divides. Its new difficulty is the introduction's warning: parts running together must **coordinate** — share data carefully, wait for each other at the right joins — or the speed is bought with answers that change from run to run. The chapter closes with the **programming environments** where each road is worked, the course's bridge from languages to the places programmers actually write them.
 
 In your mind's eye: parallel programming — several things at once.
+
+[Picture 47352 — parallel programming — several things at once]
 
 ## Say it to your companion
 

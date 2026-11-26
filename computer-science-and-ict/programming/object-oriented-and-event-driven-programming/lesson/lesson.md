@@ -10,11 +10,15 @@ An **object** is one thing of the program — a button, a pupil, a card — hold
 
 In your mind's eye: objects — data and actions in one thing.
 
+[Picture 47349 — objects — data and actions in one thing]
+
 ## Sub lesson 2 — Events — the program answers what happens
 
 An **event-driven** program does not run top to bottom and stop: it **waits**, and when an **event** happens — the user clicks a button, presses a key, a timer fires — it runs the **handler**, the code attached to that event, then waits again. The user, not the program, decides the order of happenings. Cuba teaches the pair together because its implementation tool, LiveCode, works exactly so: objects on a card, each with scripts that answer its events.
 
 In your mind's eye: events — the program answers what happens.
+
+[Picture 47350 — events — the program answers what happens]
 
 ## Say it to your companion
 

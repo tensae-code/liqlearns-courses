@@ -10,11 +10,15 @@ A **class** is a plan: it names the **data** (attributes/properties) a kind of t
 
 In your mind's eye: class and object — the plan and the thing.
 
+[Picture 47355 — class and object — the plan and the thing]
+
 ## Sub lesson 2 — Working with objects — properties, methods, and why it helps
 
 Code works with an object through its **properties** (reading and setting its data — `pupil.name`) and its **methods** (asking it to act — `pupil.average()`). The bundle is the point: data and the actions that belong to it travel together, so a program reads as a world of things, each responsible for itself. That is also the advantage Armenia's Grade 7 book names next (6.12): objects model the real world directly, hide inner detail behind the methods, and let one class be reused in every program that needs that kind of thing.
 
 In your mind's eye: working with objects — properties, methods, and why it helps.
+
+[Picture 47356 — working with objects — properties, methods, and why it helps]
 
 ## Say it to your companion
 

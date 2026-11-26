@@ -10,11 +10,15 @@ Programs are built of numbers even when they show words: counts, sizes, position
 
 In your mind's eye: numbers are the programmer's material.
 
+[Picture 47347 — numbers are the programmer's material]
+
 ## Sub lesson 2 — Estimates, ranges and the sanity check
 
 The numerate programmer's habits are three. **Estimate** before computing — guess the answer's size, so a result ten times too big is caught by the eye. **Mind the ranges** — a byte holds so much, a counter overflows, a percentage of a small class is a handful of people; every type and every real quantity has its banks. **Sanity-check** the output — does this total exceed its parts, this average sit outside its values, this count come out negative? Numeracy is not more mathematics; it is mathematics standing guard over the program.
 
 In your mind's eye: estimates, ranges and the sanity check.
+
+[Picture 47348 — estimates, ranges and the sanity check]
 
 ## Say it to your companion
 

@@ -12,6 +12,8 @@ A computer's switches are either on or off, two states only, so the computer's o
 
 In your mind's eye: the three systems side by side. The same value counted in decimal, in binary and in hexadecimal, with the place values written over each digit.
 
+[Picture 47341 — the three systems side by side. The same value counted in decimal, in binary and in hexadecimal, with the place values written over each digit]
+
 Binary numbers grow long very fast — the small value 255 already needs eight bits — so the people who build and program computers write them shortly in **hexadecimal**, base 16. Hexadecimal needs sixteen digits: 0 to 9, then the letters A, B, C, D, E, F for the values ten to fifteen. Its places are worth powers of sixteen: 1, 16, 256. The hexadecimal number 2F means 2×16 + 15 = 47. Hexadecimal is not a fourth thing to fear: it is only shorthand, because one hexadecimal digit always stands for exactly four binary digits, as the next part shows.
 
 ## Sub lesson 2 — Converting between the systems
@@ -23,6 +25,8 @@ Converting never changes a value; it only changes the clothes the value wears. T
 **Decimal to binary:** divide by 2 again and again, writing down each remainder, until the quotient is 0; then read the remainders from the last one backwards to the first. For 22: 22÷2 = 11 remainder 0; 11÷2 = 5 r 1; 5÷2 = 2 r 1; 2÷2 = 1 r 0; 1÷2 = 0 r 1. Reading backwards: 10110₂ — the same number we started from, which is how you check. A second way to the same answer: take away the biggest power of two that fits, then the biggest that fits what is left, marking 1 under each power used and 0 under the rest.
 
 In your mind's eye: the repeated division of 22 by 2, with the remainders circled and an arrow showing them read backwards into 10110.
+
+[Picture 47342 — the repeated division of 22 by 2, with the remainders circled and an arrow showing them read backwards into 10110]
 
 **Binary to hexadecimal:** split the bits into groups of four, starting from the right (add zeros at the left if the last group is short), turn each group into its value 0–15, and write that value as one hexadecimal digit. 10110₂ splits as 0001 0110 = 1 and 6, so 10110₂ = 16₁₆.
 

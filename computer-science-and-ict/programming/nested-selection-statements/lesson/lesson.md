@@ -10,11 +10,15 @@ A **nested selection statement** is a **selection statement placed inside anothe
 
 In your mind's eye: a selection inside a selection.
 
+[Picture 47339 — a selection inside a selection]
+
 ## Sub lesson 2 — Working through nested selection
 
 Reading a nested selection means following **one path at a time**: fix the outer condition true or false, then meet the inner selection only on the branch that contains it. Nesting lets a program handle **cases inside cases** — the book's name for the structure is the **Nested Selection Structure** — without repeating the outer test on every line.
 
 In your mind's eye: working through nested selection.
+
+[Picture 47340 — working through nested selection]
 
 ## Say it to your companion
 

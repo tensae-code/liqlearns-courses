@@ -10,11 +10,15 @@ A BASIC program is written in **numbered lines**: every line of the program begi
 
 In your mind's eye: every line has a number.
 
+[Picture 47343 — every line has a number]
+
 ## Sub lesson 2 — Numbering with gaps — and the versions of BASIC
 
 Programmers number in **steps of ten** — 10, 20, 30 — leaving **gaps** so a forgotten line can be inserted later (a 15 between 10 and 20) without renumbering the whole program. BASIC has also grown in **versions** since 1964, each adding powers to the standard language; the line-numbered shape is the standard the book teaches first, the shape every version keeps. Type the program in any order you like: the numbers, not the typing, are the program's true order.
 
 In your mind's eye: numbering with gaps — and the versions of BASIC.
+
+[Picture 47344 — numbering with gaps — and the versions of BASIC]
 
 ## Say it to your companion
 

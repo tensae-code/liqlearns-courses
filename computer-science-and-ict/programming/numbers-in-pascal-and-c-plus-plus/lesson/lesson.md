@@ -10,11 +10,15 @@ An **integer constant** is a whole number written with digits and an optional si
 
 In your mind's eye: integer constants — whole writings.
 
+[Picture 47345 — integer constants — whole writings]
+
 ## Sub lesson 2 — Real constants — the point and the exponent
 
 A **real constant** carries a fractional part or an exponent: 3.14, 0.5, and the exponent forms 2.5E3, 1.2E−4 — the letter E reads 'times ten to the power'. The decimal separator is a **point**, never a comma, in both languages: 3,14 is a syntax error, not a number. A constant with a point or an E is **real-typed**; without, integer-typed — the writing decides the type before any operation touches it, the fact the type-of-expression lessons will spend.
 
 In your mind's eye: real constants — the point and the exponent.
+
+[Picture 47346 — real constants — the point and the exponent]
 
 ## Say it to your companion
 

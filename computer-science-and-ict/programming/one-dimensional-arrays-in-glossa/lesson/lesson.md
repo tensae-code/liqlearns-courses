@@ -10,11 +10,15 @@ A **one-dimensional array (μονοδιάστατος πίνακας)** is a row
 
 In your mind's eye: declaring and reaching an array.
 
+[Picture 47357 — declaring and reaching an array]
+
 ## Sub lesson 2 — When an array should be used — filling, reading, first work
 
 The book's rule: reach for an array **when many values of one kind must all be kept** — because later commands need them again (to search, to sort, to compare against a second run), not merely passed once. The study guide and workbook work the standard first patterns: **input** into an array inside a loop, **output** of the whole array, the **sum and count** over its places, and input into **two-dimensional** arrays beside it — the graded exercises mark which are medium and which advanced, so the learner climbs the structure in the book's own order.
 
 In your mind's eye: when an array should be used — filling, reading, first work.
+
+[Picture 47358 — when an array should be used — filling, reading, first work]
 
 ## Say it to your companion
 
