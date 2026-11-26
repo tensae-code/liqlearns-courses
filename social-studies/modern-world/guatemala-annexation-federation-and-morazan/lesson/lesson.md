@@ -10,6 +10,8 @@ Independence did not settle Central America's shape. Annexed to Iturbide's Mexic
 
 In your mind's eye: the Federal Republic's map joining the Central American states, with Morazán on horseback and Carrera's Montaña rebels in the hills. Name the Federation and the year it broke.
 
+[Picture 63532 — made and unmade in sixteen years]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): From annexation to Federation — and its breaking. Then let your companion ask you one hard question about it — answer from the lesson.

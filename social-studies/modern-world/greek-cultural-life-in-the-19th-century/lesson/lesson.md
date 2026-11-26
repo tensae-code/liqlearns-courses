@@ -10,6 +10,8 @@ Solomos and Papadiamantis, the language question, and a young state inventing it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63513 — inventing a culture]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §26 Intellectual life, letters and arts in 19th-century Greece — Solomos and Papadiamantis, the language question, and a young state inventing its culture between folk song and Europe. Then let your companion ask you one hard question about it — answer from the lesson.

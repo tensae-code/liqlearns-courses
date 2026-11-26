@@ -10,11 +10,15 @@ outside the kingdom, Smyrna, Constantinople and the Pontic towns hold richer Gre
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63517 — richer worlds outside]
+
 ## Sub lesson 2 — §36 The Hellenism of western Asia Minor and Pontus
 
 Smyrna's cosmopolitan Greeks and the Pontic towns — the world the campaign claimed to protect
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63518 — the world it claimed to protect]
 
 ## Say it to your companion
 

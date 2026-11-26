@@ -10,6 +10,8 @@ The colonial capital would not stay still. Founded at Iximche' in 1524, Santiago
 
 In your mind's eye: santiago's four homes on a map — Iximche', Almolonga under Volcán de Agua, Panchoy, and the Ermita valley — with cacao beans used as coins beside a 1733 mint coin. Name two of the capitals.
 
+[Picture 63533 — a capital that keeps moving]
+
 ## Sub lesson 2 — Colonial society — slavery, encomienda, repartimiento
 
 Colonial society, in the Grade 4 book, is a pyramid built on forced labour. Captured indigenous people are enslaved and wash gold. The 1542 New Laws abolish slavery — but tribute encomienda and the weekly repartimiento labour draft take its place, under peninsulares, criollos, castas, indigenous people and Black slaves. Abolition on paper, the book shows, did not end forced work.

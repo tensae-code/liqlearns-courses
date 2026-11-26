@@ -10,6 +10,8 @@ Trikoupis the moderniser and Deligiannis the populist alternate in power and org
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63512 — alternating in power]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2 C: Two-party system and modernisation (1880–1909) — Trikoupis the moderniser and Deligiannis the populist alternate in power and organise parties on a national scale. Then let your companion ask you one hard question about it — answer from the lesson.

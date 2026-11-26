@@ -10,6 +10,8 @@ Macedonian mansions with their painted rooms, tower houses of Mani and Aegean is
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63515 — climate defence custom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 11: Traditional architecture and decoration in Greece — Macedonian mansions with their painted rooms, tower houses of Mani and Aegean island houses with pebble floors answer climate, defence and custom. Then let your companion ask you one hard question about it — answer from the lesson.

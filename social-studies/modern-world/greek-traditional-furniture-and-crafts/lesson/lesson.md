@@ -10,6 +10,8 @@ carved chests, pottery, weaving, the folk costume, metalwork and jewellery furni
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63516 — from its own hands]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 12: The traditional furniture and household vessels in Greece — carved chests, pottery, weaving, the folk costume, metalwork and jewellery furnish the Greek house from its own hands. Then let your companion ask you one hard question about it — answer from the lesson.

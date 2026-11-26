@@ -10,6 +10,8 @@ The Grade 6 learning experience in Guatemala's primary teacher guide studies the
 
 In your mind's eye: ancestral authorities seated in a circle with a community gathered, talking through a harm to repair it. Name the difference between restorative and punitive justice.
 
+[Picture 63531 — repair not punishment]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): Repair, not punishment — Maya justice (teacher guide — evidence). Then let your companion ask you one hard question about it — answer from the lesson.

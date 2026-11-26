@@ -58,11 +58,15 @@ within a generation the refugees transform Greece's farming, industry, cities an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63510 — transformed transforming]
+
 ## Sub lesson 8 — Theme 5 E: The presence of Black Sea Hellenism today — the refugee problem from 1922
 
 the survivors reach Greece as refugees and rebuild Pontic villages in Macedonia, carrying the loss with them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63511 — carrying the loss]
 
 ## Say it to your companion
 
