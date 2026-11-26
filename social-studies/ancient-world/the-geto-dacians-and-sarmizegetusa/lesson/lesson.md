@@ -10,6 +10,8 @@ the northern Thracians become the Geto-Dacians — Greeks and Romans' name for o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61694 — sarmizegetusa in the mountains]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea IV, Lecția 2: Geto-dacii. Sarmizegetusa — the northern Thracians become the Geto-Dacians — Greeks and Romans' name for one people — with tribes from the Carpathians to the Black Sea and their holy capital in the mountains. Then let your companion ask you one hard question about it — answer from the lesson.

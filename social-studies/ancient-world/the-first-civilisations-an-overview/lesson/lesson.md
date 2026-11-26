@@ -10,6 +10,8 @@ the world's first civilisations are surveyed together before each is taken in tu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61683 — surveyed together first]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 3 (Ancient Civilisations of the World), Lesson 21: The ancient civilisations of the world — the world's first civilisations are surveyed together before each is taken in turn. Then let your companion ask you one hard question about it — answer from the lesson.

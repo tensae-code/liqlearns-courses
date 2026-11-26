@@ -12,6 +12,8 @@ The book proves the idea from the Turks' own voices. Mete Han's letter to the Ch
 
 In your mind's eye: the Orhun standing stones on the open steppe, carved rows of the old Turkish runic alphabet, a khagan's camp in the distance. The student points to the carved rows and says whose words they carry.
 
+[Picture 61696 — kut power from heaven]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: From clans to state — kut, Mete Han's letter and the Orhun stones. Then let your companion ask you one hard question about it — answer from the lesson.

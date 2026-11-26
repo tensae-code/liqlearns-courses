@@ -10,6 +10,8 @@ Stone Age hunters leave tools across the Highland, and farming villages grow int
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61686 — hunters then villages]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.1 The oldest inhabitants of the Armenian Highland — Stone Age hunters leave tools across the Highland, and farming villages grow into some of the world's earliest settled communities. Then let your companion ask you one hard question about it — answer from the lesson.

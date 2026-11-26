@@ -10,6 +10,8 @@ Christianity spreads along the coast, and after 1204 the Grand Komnenoi rule the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61676 — trebizond holds out to 1461]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5 B: Black Sea Hellenism in the Byzantine period — Christianity spreads along the coast, and after 1204 the Grand Komnenoi rule their own empire of Trebizond until 1461. Then let your companion ask you one hard question about it — answer from the lesson.

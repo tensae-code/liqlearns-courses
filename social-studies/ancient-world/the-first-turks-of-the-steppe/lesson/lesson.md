@@ -12,6 +12,8 @@ Then the book reads the life out of the land. The horse gives speed and milk and
 
 In your mind's eye: a steppe camp — felt tents in a ring, herds of horses and sheep grazing to the horizon, a rider watching over them. The student points to the tent and the herds and says how each one answers the grassland.
 
+[Picture 61687 — the steppe writes the life]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: The first Turkish traces, and a way of life shaped by geography. Then let your companion ask you one hard question about it — answer from the lesson.

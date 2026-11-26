@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a painted Etruscan tomb-house with feasting and dancing inside. The student points to what the living put around their dead.
 
+[Picture 61677 — painted tomb-houses]
+
 ## Sub lesson 3 — Rome's teachers
 
 The Etruscans teach the young Rome its arches, its gods' temples and its portrait faces.

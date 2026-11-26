@@ -10,11 +10,15 @@ Michael VIII Palaiologos wins Constantinople back in 1261, but the restored empi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61678 — 1453 the walls break]
+
 ## Sub lesson 2 — Theme 2: the fall of Byzantium and its legacy
 
 Manzikert opens Anatolia to the Seljuks, the Fourth Crusade sacks Constantinople itself in 1204, and though Nicaea restores the empire in 1261 it shrinks to a city — Mehmed II takes it in 1453 and the last emperor dies on the walls; what survives is law, letters and the mission of Cyril and Methodius, while Moscow dreams of being the Third Rome
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61679 — what survives law and letters]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ kings slowly turn feudal overlordship into states — Philip Augustus takes Norm
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61680 — overlords become states]
+
 ## Sub lesson 2 — La monarchia francese: dall'ascesa allo scontro con il papato; La monarchia inglese; I regni nella Penisola iberica
 
 Philip IV humiliates Boniface VIII at Anagni, England's barons extract Magna Carta (DOC), and Iberia's kingdoms grow on the Reconquista frontier
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61681 — anagni and magna carta]
 
 ## Say it to your companion
 

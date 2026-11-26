@@ -10,6 +10,8 @@ Clovis's Franks conquer Gaul and build the model feudal kingdom of the early Mid
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61692 — the model feudal kingdom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.2–4.3 The Franks, their expansion; economic, social and political traits of the Frankish state — Clovis's Franks conquer Gaul and build the model feudal kingdom of the early Middle Ages. Then let your companion ask you one hard question about it — answer from the lesson.

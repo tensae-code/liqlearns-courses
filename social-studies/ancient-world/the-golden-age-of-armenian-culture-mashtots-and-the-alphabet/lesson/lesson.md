@@ -10,11 +10,15 @@ Mesrop Mashtots creates the Armenian alphabet in 405, the Bible is translated, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61697 — 405 an alphabet is born]
+
 ## Sub lesson 2 — 6.2 Natural sciences and art in the 5th–9th centuries
 
 Anania Shirakatsi maps the cosmos, physicians and architects raise a learning culture that outlives the kingdom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61698 — a learning culture outlives the kingdom]
 
 ## Say it to your companion
 

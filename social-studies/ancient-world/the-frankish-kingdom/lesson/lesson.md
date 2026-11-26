@@ -10,6 +10,8 @@ Clovis founds the Frankish kingdom and takes Roman baptism; his successors make 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61691 — clovis founds the kingdom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3.2 The Frankish state is founded and grows strong — Clovis founds the Frankish kingdom and takes Roman baptism; his successors make the Franks the West's leading power. Then let your companion ask you one hard question about it — answer from the lesson.

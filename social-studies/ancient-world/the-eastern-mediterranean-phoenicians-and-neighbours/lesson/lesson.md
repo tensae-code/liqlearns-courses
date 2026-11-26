@@ -10,6 +10,8 @@ small coastal peoples — Phoenicians, Hebrews and their neighbours — trade, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61675 — small peoples far reach]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2 §4: the countries of the Eastern Mediterranean — small coastal peoples — Phoenicians, Hebrews and their neighbours — trade, alphabet and faith far beyond their size. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ before letters there are signs, pictures and marks — humans invent ways to sen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61684 — signs before letters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Introduction & Unit 1: The graphic arts and their history; the first forms of communication — before letters there are signs, pictures and marks — humans invent ways to send a message across distance and time. Then let your companion ask you one hard question about it — answer from the lesson.

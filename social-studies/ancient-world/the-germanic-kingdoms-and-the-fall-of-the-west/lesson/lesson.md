@@ -10,6 +10,8 @@ Goths, Franks and Vandals carve kingdoms from Rome's West and remake Europe's ma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61693 — kingdoms from romes west]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 6.I.1 The consequences of the Germanic peoples' migration for Europe — Goths, Franks and Vandals carve kingdoms from Rome's West and remake Europe's map and peoples. Then let your companion ask you one hard question about it — answer from the lesson.

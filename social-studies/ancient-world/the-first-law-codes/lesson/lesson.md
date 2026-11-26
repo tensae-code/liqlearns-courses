@@ -12,6 +12,8 @@ The change the book stresses is not any single rule but the fact of the stone it
 
 In your mind's eye: hammurabi's tall stone stele in a public square, a crowd gathered while a reader reads the carved laws aloud. The student points to the stone and says why the laws were put where everyone could reach them.
 
+[Picture 61685 — justice becomes a stone]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Laws are born — from Ur-Namma to Hammurabi. Then let your companion ask you one hard question about it — answer from the lesson.

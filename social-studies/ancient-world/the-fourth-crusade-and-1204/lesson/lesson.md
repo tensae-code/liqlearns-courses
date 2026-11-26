@@ -10,17 +10,23 @@ the Fourth Crusade, diverted by Venice and debt, storms the Christian capital in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61688 — diverted by debt]
+
 ## Sub lesson 2 — Unit 30 Fourth Crusade and the Frankish capture exercises
 
 ordering the Crusade's diversion ends at the storming of a Christian capital
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61689 — ordering the diversion]
+
 ## Sub lesson 3 — Ch. 4.II.1 The Crusades and the first capture of the City
 
 crusading armies pass, quarrel and finally in 1204 storm Constantinople itself for Venice's debt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61690 — the first capture of the city]
 
 ## Say it to your companion
 

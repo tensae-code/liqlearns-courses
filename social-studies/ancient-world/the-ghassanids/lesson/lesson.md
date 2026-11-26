@@ -10,6 +10,8 @@ Azd tribes flee Yemen after the Marib dam breaks and, as Byzantium's Arab allies
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61695 — from the broken dam]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Ghassanids — Azd tribes flee Yemen after the Marib dam breaks and, as Byzantium's Arab allies against Persia and the desert raiders, build the White Palace, al-Mushatta and al-Qastal. Then let your companion ask you one hard question about it — answer from the lesson.
