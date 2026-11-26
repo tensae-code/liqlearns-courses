@@ -10,11 +10,15 @@ Compression's cleverest trick, met in the Zip la marmotte activity, is unfair on
 
 In your mind's eye: frequent means short.
 
+[Picture 45024 — frequent means short]
+
 ## Sub lesson 2 — Reading the tree
 
 The codes are drawn as a **coding tree (arbre de codage)**: from the root, each branch is a step — left for 0, right for 1, say — and each symbol sits at a leaf; its code is the path from root to leaf. Frequent symbols sit near the root (short paths); rare ones hang deep. The tree also guarantees decoding: since no symbol sits on another's path, a stream of bits can be cut back into symbols in exactly one way.
 
 In your mind's eye: reading the tree.
+
+[GIF 45025 — reading the tree]
 
 ## Say it to your companion
 

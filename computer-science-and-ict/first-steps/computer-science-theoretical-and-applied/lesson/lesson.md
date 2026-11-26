@@ -10,11 +10,15 @@ Grade 11 opens by dividing its own subject in two. Every later chapter of the bo
 
 In your mind's eye: theoretical computer science — what can be computed, and at what cost.
 
+[Picture 45026 — theoretical computer science — what can be computed, and at what cost]
+
 ## Sub lesson 2 — Applied computer science — systems that must work in the world
 
 **Applied computer science** builds the **working systems**: operating systems, databases and information systems, networks, the applications people use — Unit 3 of the book, chapter by chapter. Its questions are the engineer's: does it **work**, is it **usable**, does it stay **correct and safe** under real hands and real data? The book's balance is the lesson: neither half is the other's servant — theory tells practice what is possible and what it costs; practice gives theory its problems.
 
 In your mind's eye: applied computer science — systems that must work in the world.
+
+[Picture 45027 — applied computer science — systems that must work in the world]
 
 ## Say it to your companion
 

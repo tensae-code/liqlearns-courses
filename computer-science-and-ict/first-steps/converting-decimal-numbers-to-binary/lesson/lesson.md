@@ -10,11 +10,15 @@ Write the decimal number and **divide it by 2**. Write the **remainder** — alw
 
 In your mind's eye: the divisions for 13 stacked up, remainders written down the side.
 
+[Picture 45036 — the divisions for 13 stacked up, remainders written down the side]
+
 ## Sub lesson 2 — Read the remainders upwards
 
 The binary number is the remainders read **from last to first** — upwards: for 13, that gives **1101**. The first remainder you found is the **last** digit of the binary number, its ones place; the last remainder is its first digit, the biggest place. Check by place value: 1101 = 8 + 4 + 0 + 1 = 13. If the check fails, a division or a reading direction went wrong — the check is part of the method, not an extra.
 
 In your mind's eye: the remainders read upwards into 1101, checked by 8 + 4 + 0 + 1.
+
+[Picture 45037 — the remainders read upwards into 1101, checked by 8 + 4 + 0 + 1]
 
 ## Say it to your companion
 

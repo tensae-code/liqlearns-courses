@@ -10,11 +10,15 @@ A **computing system** is the whole that computes: the **hardware** (the physica
 
 In your mind's eye: the parts of a computing system — hardware, software, data, people.
 
+[Picture 45028 — the parts of a computing system — hardware, software, data, people]
+
 ## Sub lesson 2 — How a computing system works — input, process, store, output
 
 Every computing system runs the same cycle: **input** brings data in, **processing** transforms it, **storage** keeps data and results for later, and **output** presents results to people. Systems are also **connected**: one system's output becomes another's input (a school office system feeding a report system). Judging a system means checking each stage — most failures live at the joins, where one stage hands over to the next.
 
 In your mind's eye: how a computing system works — input, process, store, output.
+
+[Picture 45029 — how a computing system works — input, process, store, output]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The computer's memory holds only **binary patterns** — strings of 0s and 1s. N
 
 In your mind's eye: a letter A, its agreed binary pattern, and the same A shown back.
 
+[Picture 45020 — a letter A, its agreed binary pattern, and the same A shown back]
+
 ## Sub lesson 2 — One pattern per character
 
 A coding system is a **table**: character by character, pattern by pattern, with no two characters sharing a pattern. The more patterns the system allows, the more characters it can hold — digits and capital letters first, then small letters, punctuation, and the letters of other alphabets, Arabic among them. Text stored this way stays exact: a document saved today opens with every character in place, because each pattern still points at its own character in the table.
 
 In your mind's eye: a coding table — rows of characters each with its own pattern.
+
+[Picture 45021 — a coding table — rows of characters each with its own pattern]
 
 ## Say it to your companion
 

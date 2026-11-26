@@ -10,11 +10,15 @@ Because 8 = 2³, **every octal digit is exactly three binary digits**. To conver
 
 In your mind's eye: groups of three — binary and octal.
 
+[Picture 45032 — groups of three — binary and octal]
+
 ## Sub lesson 2 — Groups of four — binary and hexadecimal
 
 Because 16 = 2⁴, **every hexadecimal digit is exactly four binary digits**: split in **fours from the right** — 101110₂ → 0010 | 1110 → **2E₁₆**, hex digits running 0–9 then **A–F** for ten to fifteen. Hexadecimal → binary expands each digit to four bits. Between octal and hexadecimal themselves, binary is the honest broker: octal → binary (threes) → hex (fours). The lesson's number-sense closes Grade 11's base theory: bases are not rivals but **views** — some views group the bits for the hand and eye.
 
 In your mind's eye: groups of four — binary and hexadecimal.
+
+[Picture 45033 — groups of four — binary and hexadecimal]
 
 ## Say it to your companion
 

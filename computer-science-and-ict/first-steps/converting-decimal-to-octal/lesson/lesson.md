@@ -10,11 +10,15 @@ Write the decimal number and **divide it by 8**. Write the **remainder** — alw
 
 In your mind's eye: divide by 8, keep the remainders.
 
+[Picture 45038 — divide by 8, keep the remainders]
+
 ## Sub lesson 2 — Read the remainders upwards — and check
 
 The octal number is the remainders read **from last to first** — upwards: for 25, that gives **31₈**. The first remainder you found is the **last** digit of the octal number, its ones place; the last remainder is its first digit, the biggest place. Check by place value: 31₈ = 3×8 + 1 = 25. If the check fails, a division or the reading direction went wrong — the check is part of the method, not an extra.
 
 In your mind's eye: read the remainders upwards — and check.
+
+[Picture 45039 — read the remainders upwards — and check]
 
 ## Say it to your companion
 

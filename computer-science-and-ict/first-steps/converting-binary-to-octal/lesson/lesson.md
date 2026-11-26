@@ -10,11 +10,15 @@ Starting at the **right-hand end** of the binary number, split the bits into **g
 
 In your mind's eye: group in threes — from the right.
 
+[Picture 45034 — group in threes — from the right]
+
 ## Sub lesson 2 — Each group — one octal digit
 
 Read **each group as one octal digit** (000→0 up to 111→7) and write the digits in order: 100111₂ → groups 100 | 111 → 4, 7 → **47₈**. The binary number 101010₂ → 101 | 010 → **52₈**. Malaysia teaches the two directions together: octal-to-binary spreads each digit into three bits; binary-to-octal gathers three bits into each digit — inverse roads over the same kinship.
 
 In your mind's eye: each group — one octal digit.
+
+[Picture 45035 — each group — one octal digit]
 
 ## Say it to your companion
 

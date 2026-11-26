@@ -8381,3 +8381,23 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 60039 | pictures/60039.webp | a drawn scene — families with a cow and a camel moving along an arrow toward the ponds | Social Studies — Africa to 1500 — Ancient Mauritania — peoples of the Western Sahara |
 | 60040 | pictures/60040.webp | a drawn scene — a rock panel engraved with an ostrich, a chariot wheel, and a camel | Social Studies — Africa to 1500 — Ancient Mauritania — peoples of the Western Sahara |
 | 60041 | pictures/60041.webp | a drawn scene — a veiled Sanhaja chief under his tent canopy, his people and a well beside him | Social Studies — Africa to 1500 — Ancient Mauritania — peoples of the Western Sahara |
+| 45020 | pictures/45020.webp | a drawn diagram — the letter A, its agreed binary pattern 01000001, and the same A shown back on a screen | ICT — First Steps — Codes That Represent Data in the Computer |
+| 45021 | pictures/45021.webp | a drawn diagram — a coding table: rows A, B, a, b, 0, 1, each with its own 8-bit pattern | ICT — First Steps — Codes That Represent Data in the Computer |
+| 45022 | pictures/45022.webp | a drawn diagram — three codes for letters and sounds: alphabet numbers, Morse dots and dashes, music notation | ICT — First Steps — Coding Information — Codes All Around Us |
+| 45023 | pictures/45023.webp | a drawn diagram — codes for meanings: a warning road sign, an exit pictogram, a no-smoking pictogram | ICT — First Steps — Coding Information — Codes All Around Us |
+| 45024 | pictures/45024.webp | a drawn diagram — frequency bars E, A, T, Z with codes 0, 10, 110, 11110: frequent means short | ICT — First Steps — Coding Trees |
+| 45025 | pictures/45025.gif | an animated diagram — a coding tree whose path to leaf T lights up step by step, the code building 1, 11, 110 | ICT — First Steps — Coding Trees |
+| 45026 | pictures/45026.webp | a drawn diagram — theoretical computer science: a maze (can it be solved at all?) and growing step bars 10, 100, 1000 (what does it cost?) | ICT — First Steps — Computer Science — Theoretical and Applied |
+| 45027 | pictures/45027.webp | a drawn diagram — applied computer science: a working computer with apps, a database, network nodes and a user | ICT — First Steps — Computer Science — Theoretical and Applied |
+| 45028 | pictures/45028.webp | a drawn diagram — the four parts of a computing system: hardware, software, data, people | ICT — First Steps — Computing Systems — Introduction |
+| 45029 | pictures/45029.webp | a drawn diagram — the computing cycle: input, process, store, output, with results feeding the next round | ICT — First Steps — Computing Systems — Introduction |
+| 45030 | pictures/45030.webp | a drawn diagram — a screen off and on, each with the power button symbol: starting and stopping | ICT — First Steps — Controlling Digital Devices |
+| 45031 | pictures/45031.gif | an animated diagram — a remote control whose signal dots travel in a straight line to a television, which changes channel | ICT — First Steps — Controlling Digital Devices |
+| 45032 | pictures/45032.webp | a drawn diagram — the binary number 101101011 grouped in threes: 5, 5, 3 — octal 553 | ICT — First Steps — Converting Between Binary, Octal and Hexadecimal |
+| 45033 | pictures/45033.webp | a drawn diagram — the binary number padded to 010110101011 and grouped in fours: 5, A, B — hexadecimal 5AB | ICT — First Steps — Converting Between Binary, Octal and Hexadecimal |
+| 45034 | pictures/45034.webp | a drawn diagram — the binary number 1101011 grouped in threes from the right: 1, 101, 011 | ICT — First Steps — Converting Binary to Octal |
+| 45035 | pictures/45035.webp | a drawn diagram — each group of 1101011 becomes one octal digit: 1, 5, 3 — the answer 153 | ICT — First Steps — Converting Binary to Octal |
+| 45036 | pictures/45036.webp | a drawn diagram — the halving divisions for 13 with remainders 1, 0, 1, 1 written down the side | ICT — First Steps — Converting Decimal Numbers to Binary |
+| 45037 | pictures/45037.webp | a drawn diagram — the remainders read upwards into 1101, checked by 8 + 4 + 0 + 1 = 13 | ICT — First Steps — Converting Decimal Numbers to Binary |
+| 45038 | pictures/45038.webp | a drawn diagram — 45 divided by 8 twice, remainders 5 and 5 kept | ICT — First Steps — Converting Decimal to Octal |
+| 45039 | pictures/45039.webp | a drawn diagram — the remainders read upwards: 45 in octal is 55, checked by 5 x 8 + 5 = 45 | ICT — First Steps — Converting Decimal to Octal |
