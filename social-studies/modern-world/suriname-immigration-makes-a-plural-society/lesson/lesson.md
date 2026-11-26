@@ -10,17 +10,23 @@ From a plantation colony in 1651 the population is remade group by group — inc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40404 — groupbygroup]
+
 ## Sub lesson 2 — Hoe wij hier ook samenkwamen
 
 Taking its title from the anthem, the lesson recounts how each population group came to Suriname, building one multicultural society (Hoe wij hier ook samenkwamen)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40403 — howevercame]
+
 ## Sub lesson 3 — Ons land, een smeltkroes van culturen
 
 Suriname as melting pot: cultural exchange, respect and national unity across the groups, voiced by poet Robin Ravales (Dobru) (Ons land, een smeltkroes van culturen)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40402 — meltingpot]
 
 ## Say it to your companion
 

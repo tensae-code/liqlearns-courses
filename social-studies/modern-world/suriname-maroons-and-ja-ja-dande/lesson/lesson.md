@@ -10,6 +10,8 @@ Ja-Ja Dandé, priestess daughter of Maroon leader Ayoko, warns her forest people
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40393 — priestesspeace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ja-Ja Dandé, een moedige vrouw — Ja-Ja Dandé, priestess daughter of Maroon leader Ayoko, warns her forest people of soldiers, heals with herbs and persuades the Maroons to make peace, even letting the whites hold church in Santea. Then let your companion ask you one hard question about it — answer from the lesson.

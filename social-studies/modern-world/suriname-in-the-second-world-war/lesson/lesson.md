@@ -10,11 +10,15 @@ As a Dutch colony Suriname is at war; Germans are interned, the German ship Gosl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40401 — colonyatwar]
+
 ## Sub lesson 2 — Oorlog met Duitsland
 
 The book defines world war, sets out 1939–45, and brings the war home: as a Dutch colony Suriname is at war with Germany (Oorlog met Duitsland)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40400 — comeshome]
 
 ## Sub lesson 3 — De veiligheid in ons land
 
@@ -22,11 +26,15 @@ Governor Kielstra orders blackout from 7pm to 7am, dark curtains and air-raid sh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40399 — blackout]
+
 ## Sub lesson 4 — De bauxietindustrie in ons land
 
 War cuts imports and queues lengthen in Paramaribo, yet scarcity sparks local production — small farmers, shoemakers, tailors, lemonade factories — while bauxite booms for the Allied war effort (De bauxietindustrie in ons land)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40398 — scarcitymaking]
 
 ## Say it to your companion
 

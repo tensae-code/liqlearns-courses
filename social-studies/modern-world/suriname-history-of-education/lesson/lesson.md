@@ -10,17 +10,23 @@ Before schools, Indigenous children learned hut-building, tools, hunting and hea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40409 — beforeschools]
+
 ## Sub lesson 2 — Het onderwijs verandert
 
 Fearing revenge at abolition, the government lets Christian churches from 1844 prepare the enslaved for freedom through religion and reading lessons; schooling slowly opens and changes (Het onderwijs verandert)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40408 — readingtoward]
+
 ## Sub lesson 3 — Hoe belangrijk is goed onderwijs?
 
 A country needs nurses, teachers, police and builders who cannot be trained at home — the lesson argues why good schooling matters for an independent society (Hoe belangrijk is goed onderwijs?)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40407 — trainedhands]
 
 ## Say it to your companion
 

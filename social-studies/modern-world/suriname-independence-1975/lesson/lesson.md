@@ -10,11 +10,15 @@ After the war Surinamers demand to be "boss in their own house"; on 25 November 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40397 — ownhouse]
+
 ## Sub lesson 2 — De onafhankelijkheid van ons land
 
 After long talks with the Netherlands, on 25 November 1975 the Dutch flag comes down, the Surinamese flag and anthem (with its Sranan verse) rise, and Suriname becomes a republic (De onafhankelijkheid van ons land)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40396 — flagdownup]
 
 ## Say it to your companion
 

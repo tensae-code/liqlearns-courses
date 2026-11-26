@@ -10,6 +10,8 @@ Gauri, born in India in 1863, is recruited, sails three months to Suriname, work
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40392 — kwattaweg]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Mata Gauri — Gauri, born in India in 1863, is recruited, sails three months to Suriname, works six years on a Commewijne sugar plantation, then saves, buys land at Kwattaweg, funds a school in her Indian village and at 100 gives land for the Mata Gauri cultural building. Then let your companion ask you one hard question about it — answer from the lesson.

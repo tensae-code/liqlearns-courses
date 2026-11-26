@@ -10,11 +10,15 @@ Plantations are laid out along the rivers; Indigenous people are first forced to
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40389 — alongrivers]
+
 ## Sub lesson 2 — De aanleg van plantages
 
 Plantations are drained and laid out along the lower rivers and creeks with sluices and polders; today's place names (Beekhuizen, Berlijn, Totness) still remember them (De aanleg van plantages)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40388 — poldered]
 
 ## Sub lesson 3 — Plantage Meerzorg
 
@@ -22,11 +26,15 @@ One plantation studied whole: Meerzorg in Commewijne; by 1712 there are some 200
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40387 — meerzorg]
+
 ## Sub lesson 4 — Hoe was het werk verdeeld op een plantage?
 
 A plantation is a whole organisation under its owner and director; enslaved field gangs do the planting, tending and harvesting under the basya's watch while others look on at punishments (Hoe was het werk verdeeld op een plantage?)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40386 — organisation]
 
 ## Sub lesson 5 — Slaafgemaakten in Paramaribo
 

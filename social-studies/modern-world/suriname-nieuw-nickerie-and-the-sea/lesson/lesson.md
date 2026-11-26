@@ -10,6 +10,8 @@ The sea eats the town of De Punt bite by bite; its people refound Nieuw-Rotterda
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40390 — fourtowns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Een verdronken stad, een nieuwe stad — The sea eats the town of De Punt bite by bite; its people refound Nieuw-Rotterdam, move again to De Nieuwe Wijk, and finally cross the Nickerie river in 1879 to found Nieuw-Nickerie behind a sea dike. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Pak Saleh carves twenty leather wayang puppets and performs wayang kulit behind 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40394 — wayang]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Pak Saleh laat de poppen bewegen — Pak Saleh carves twenty leather wayang puppets and performs wayang kulit behind a screen, singing a story that teaches the audience to plant trees. Then let your companion ask you one hard question about it — answer from the lesson.

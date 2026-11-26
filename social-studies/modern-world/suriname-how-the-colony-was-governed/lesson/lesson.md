@@ -10,11 +10,15 @@ Europeans replace Indigenous self-rule with foreign governors; in 1683 the Chart
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40406 — governorandcouncil]
+
 ## Sub lesson 2 — Invoering van kiesrecht
 
 After 1863 and state supervision the country is divided into districts under district commissioners, and the long road to voting rights and representation begins (Invoering van kiesrecht)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40405 — roadtovote]
 
 ## Say it to your companion
 
