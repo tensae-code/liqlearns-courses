@@ -10,6 +10,8 @@ Syria's society is a historical mixture shaped by its land, its crossroads posit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61535 — roots and mixture]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Society of medieval Syria — roots and mixture. Then let your companion ask you one hard question about it — answer from the lesson.

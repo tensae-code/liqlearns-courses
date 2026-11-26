@@ -10,11 +10,15 @@ Ma'in trades from Qarnaw in the fertile Jawf; Saba builds the great dam of Marib
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61536 — models of yemen]
+
 ## Sub lesson 2 — Civilisations of the Arabian Peninsula before Islam: the southern kingdoms
 
 In the irrigated south the kingdoms rise in turn — Ma'in, Saba of the Ma'rib dam, and Himyar — farming states grown rich on the incense roads.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61537 — kingdoms in turn]
 
 ## Say it to your companion
 

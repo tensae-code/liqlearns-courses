@@ -26,6 +26,8 @@ Slav settlers fill the Balkan countryside and the Bulgars build a rival empire t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61531 — settlers and a rival empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 2.I.1 The Slavs and their relations with Byzantium — Slav tribes settle the Balkans to the Peloponnese and slowly become the empire's Christian neighbours, Ch. 2.I.2 The Bulgarians and their relations with Byzantium — a Turkic Bulgar state on the Danube becomes Byzantium's most dangerous northern rival — and its pupil, Slavs and Bulgars — Slav settlers fill the Balkan countryside and the Bulgars build a rival empire that Constantinople fights for centuries. Then let your companion ask you one hard question about it — answer from the lesson.

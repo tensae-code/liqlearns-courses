@@ -10,6 +10,8 @@ justice is equality in rights and duties regardless of colour, race, creed or li
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61534 — justice is equality]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Social justice in the Arab Islamic civilisation — justice is equality in rights and duties regardless of colour, race, creed or lineage: Islam lifts women out of a Jahiliyya that buried daughters alive into inheritance, the bay'a and public life, protects the dhimmis' worship, courts, property and blood-money, and raises the freed mawali into administration and leadership in the Abbasid age — while Ibn Khaldun's warning hangs over the lesson: injustice is the harbinger of civilisation's ruin, killing a society's cohesion, creativity and defence. Then let your companion ask you one hard question about it — answer from the lesson.

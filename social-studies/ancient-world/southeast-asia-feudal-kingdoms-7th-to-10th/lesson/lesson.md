@@ -10,11 +10,15 @@ Before you read on, hold this lesson's one thing in mind: Đại Cổ Việt of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61548 — the kingdoms take shape]
+
 ## Sub lesson 2 — Bài 12, their economies: rice kingdoms and the spice route
 
 mainland kingdoms farm while Srivijaya, Kalinga and Mataram live by the sea; an Arab geographer's praise of Srivijaya's aromatics and a 10th-century price — a measure of turmeric for a horse, of ginger for a cow — show the pull of Southeast Asian spice
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61549 — rice and the spice route]
 
 ## Say it to your companion
 

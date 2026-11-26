@@ -10,11 +10,15 @@ Surpluses split once-equal communities into classes; Egypt is used as the case w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61532 — surplus splits equals]
+
 ## Sub lesson 2 — The rise of social differentiation
 
 Growing production, population, taxation and defence split society into layers and set them struggling — differentiation, the precondition of the state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61533 — layers set struggling]
 
 ## Say it to your companion
 

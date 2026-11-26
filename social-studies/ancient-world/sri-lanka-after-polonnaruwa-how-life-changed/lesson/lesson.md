@@ -10,6 +10,8 @@ Tank civilisation fades as capitals chase safety, paddy gives ground to cinnamon
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61554 — life after polonnaruwa]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Social and economic change after Polonnaruwa — tank civilisation fades as capitals chase safety, paddy gives ground to cinnamon, pepper and arecanut for export, and caste and family life carry on in new towns. Then let your companion ask you one hard question about it — answer from the lesson.
