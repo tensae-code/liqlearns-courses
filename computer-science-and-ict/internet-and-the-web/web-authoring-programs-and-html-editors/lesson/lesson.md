@@ -10,11 +10,15 @@ A **web authoring program** is an application for **building web pages and whole
 
 In your mind's eye: authoring — making pages without writing every tag.
 
+[Picture 46066 — authoring — making pages without writing every tag]
+
 ## Sub lesson 2 — HTML editors — the middle way
 
 Beside the full authoring programs stand **HTML editors**: programs that help a person **write HTML directly** — colouring the tags, completing them, checking them — without hiding the code. The two kinds divide by how much code the author wants to see: authoring programs hide it for speed and ease; editors show it for control and learning. Fiji places both in its advanced applications because a serious web worker meets the pair — and because every page either kind produces is still HTML, which the course teaches on its own terms alongside.
 
 In your mind's eye: hTML editors — the middle way.
+
+[Picture 46067 — hTML editors — the middle way]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Unit 2 of Egypt's Grade 11 project is the professional middle: before pages are 
 
 In your mind's eye: requirements — what the site must do, written before building.
 
+[Picture 46072 — requirements — what the site must do, written before building]
+
 ## Sub lesson 2 — Production stages — specification to finished site
 
 The making is divided into **production stages**, each ending in something checkable: **analysis** (the audience and their needs), **design** (the site's structure, page pattern and database design), **implementation** (pages built, database created, code written), **testing** (the requirements tried one by one), and **publishing and maintenance** (the site placed where its audience reaches it, and kept correct after). The stages discipline the project twice over: work is done in an order where each stage feeds the next — no pages before the database design they write into — and a fault is traced to the stage that owns it, so a wrong requirement is not 'fixed' by patching code. The Grade 11 term is literally built in these stages: Unit 1 plans, Unit 2 specifies, Unit 3 produces.
 
 In your mind's eye: production stages — specification to finished site.
+
+[Picture 46073 — production stages — specification to finished site]
 
 ## Say it to your companion
 

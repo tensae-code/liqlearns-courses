@@ -10,11 +10,15 @@ Each project is a **complete website** for a named owner with a named audience: 
 
 In your mind's eye: the three set projects — one course, three real sites.
 
+[Picture 46074 — the three set projects — one course, three real sites]
+
 ## Sub lesson 2 — Building the project — the term's skills in order
 
 The build uses the term in its own order: **structure** every page (head, title, body), **format** the text (size, style, colour), **link** the pages and the outside with text and image links, **list and tabulate** what the site holds, then **publish**: a registered **domain**, a chosen **host**, and the files **uploaded by FTP**. A project is judged whole: does a visitor reach everything in a few clicks, do the pages look like one site, and does the published site — not the folder on your machine — actually work?
 
 In your mind's eye: building the project — the term's skills in order.
+
+[Picture 46075 — building the project — the term's skills in order]
 
 ## Say it to your companion
 

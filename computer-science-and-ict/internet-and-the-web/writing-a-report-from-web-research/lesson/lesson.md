@@ -10,11 +10,15 @@ The report begins with **research**: using **browsers and search engines** — t
 
 In your mind's eye: gathering information from the web.
 
+[Picture 46082 — gathering information from the web]
+
 ## Sub lesson 2 — Preparing the report
 
 Preparing the report means **arranging what was found into a written report of your own**: the topic opened, the facts set out in an order that serves the reader, and the report finished as a document that stands by itself. The web supplied the information; the report — its order, its wording, its sense — is the writer's own work.
 
 In your mind's eye: preparing the report.
+
+[Picture 46083 — preparing the report]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A hand-built website needs a workbench. Kuwait's Grade 9 web course opens its ed
 
 In your mind's eye: vS Code — the editor, and the project folder.
 
+[Picture 46064 — vS Code — the editor, and the project folder]
+
 ## Sub lesson 2 — Creating your first web page
 
 The first page is **created inside the folder** from the editor: a new file, given its web name (the course's first is the site's home page), and saved so it exists on disk where the project can grow around it. The discipline is naming and placing from the first minute — a page outside the folder is a page the site cannot use, and a file unsaved is a page that exists only until the editor closes.
 
 In your mind's eye: creating your first web page.
+
+[Picture 46065 — creating your first web page]
 
 ## Say it to your companion
 

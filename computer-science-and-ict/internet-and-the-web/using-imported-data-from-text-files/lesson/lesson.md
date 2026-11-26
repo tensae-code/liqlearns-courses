@@ -10,11 +10,15 @@ Reading reverses writing: the program **opens** the text file, reads it **line b
 
 In your mind's eye: reading back — lines into records.
 
+[Picture 46060 — reading back — lines into records]
+
 ## Sub lesson 2 — Using the records — lists, searches, answers
 
 With fields in hand, the records become the program's working data: **listed** on a page (the guestbook shows its entries), **searched** (does this name already exist?), **counted and totalled**, and used to **answer** the visitor (a login read against the stored sign-ups). The unit's name for the flow is **imported data**: data made elsewhere — by an earlier visit, another program, or a person typing the file — taken in and used as the program's own. The test of an import is a round trip: store three records by the writing program, import them by the reading program, and the three records that come back must be the three that went in, field for field.
 
 In your mind's eye: using the records — lists, searches, answers.
+
+[Picture 46061 — using the records — lists, searches, answers]
 
 ## Say it to your companion
 

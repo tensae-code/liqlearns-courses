@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Creating First Webpage and Displ
 
 In your mind's eye: creating First Webpage and Displaying it.
 
+[Picture 46084 — creating First Webpage and Displaying it]
+
 ## Sub lesson 2 — Doing it — Your First Webpage in Notepad in practice
 
 **Doing it — Your First Webpage in Notepad in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Your First Webpage in Notepad in practice.
+
+[Picture 46085 — doing it — Your First Webpage in Notepad in practice]
 
 ## Say it to your companion
 

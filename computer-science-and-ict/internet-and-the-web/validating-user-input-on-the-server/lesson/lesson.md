@@ -10,11 +10,15 @@ Users send everything: blanks, letters in number fields, dates that do not exist
 
 In your mind's eye: what validation checks.
 
+[Picture 46062 — what validation checks]
+
 ## Sub lesson 2 — Why the server must check — even if the page already did
 
 Pages can check too (JavaScript validation, for comfort and speed), but the **server's check is the one that counts**: the page's code runs in the visitor's own browser, where it can be skipped, altered or bypassed entirely — a sender need never load your page at all. Data that reaches storage has passed the server or it has passed nothing. Malaysia's architecture is therefore **both**: the client checks for the user's sake, the server checks for the **data's** sake — and the stored text files of this unit hold only what the server's gate let through.
 
 In your mind's eye: why the server must check — even if the page already did.
+
+[Picture 46063 — why the server must check — even if the page already did]
 
 ## Say it to your companion
 
