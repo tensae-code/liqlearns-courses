@@ -10,6 +10,8 @@ Indians vanish, Africans arrive in chains, Spaniards and criollos multiply; a mi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62911 — a layered society]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.5 Population in Cuba during the 16th–18th centuries — Indians vanish, Africans arrive in chains, Spaniards and criollos multiply; a mixed, layered society forms that will later call itself Cuban. Then let your companion ask you one hard question about it — answer from the lesson.

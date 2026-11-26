@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: a new government of th
 a new government of the people takes office, tries war criminals, and begins transforming a dependent republic into a sovereign state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62919 — the people in power]
 ## Sub lesson 2 — 9.1–9.9 Beginnings of the Revolution in power; confronting counter-revolution; advance toward socialism; armed imperialist aggression (Girón); new imperialist manoeuvres and revolutionary response; party formation and state reorganisation; socio-economic development to 1965; development efforts from 1965; culture in the Revolution
 
 agrarian reform, Girón, the October crisis era and the building of a socialist state fill the survey's final chapter — the Revolution as the national story's destination
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62920 — the destination]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ criollo delegates carry reform petitions to Madrid and return empty-handed and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62912 — empty-handed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.4 New reform requests to Spain; sharpening contradictions — criollo delegates carry reform petitions to Madrid and return empty-handed and taxed more; the failure teaches Cuba that Spain will concede nothing. Then let your companion ask you one hard question about it — answer from the lesson.

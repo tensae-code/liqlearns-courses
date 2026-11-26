@@ -10,6 +10,8 @@ a US-backed exile brigade lands at Playa Girón in April 1961 and is defeated in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62910 — defeated in 72 hours]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.5 The imperialists tried to crush the Revolution and were defeated — a US-backed exile brigade lands at Playa Girón in April 1961 and is defeated in under 72 hours by militias, workers and the Rebel Army. Then let your companion ask you one hard question about it — answer from the lesson.

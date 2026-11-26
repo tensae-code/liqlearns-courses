@@ -10,6 +10,8 @@ the Moncada programme becomes law — land to the tillers, schools, health — p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62918 — martis republic built]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.1 How the Revolution fulfilled Martí's dreams — the Moncada programme becomes law — land to the tillers, schools, health — presented as Martí's republic finally built. Then let your companion ask you one hard question about it — answer from the lesson.

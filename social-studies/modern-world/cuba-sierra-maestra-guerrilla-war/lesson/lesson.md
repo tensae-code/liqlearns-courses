@@ -10,6 +10,8 @@ the Rebel Army wins its first fights, holds liberated territory, runs a radio st
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62926 — liberated territory]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.2 Guerrilla struggle in the Sierra Maestra — the Rebel Army wins its first fights, holds liberated territory, runs a radio station and agrarian reform while Batista's offensive fails in the mountains. Then let your companion ask you one hard question about it — answer from the lesson.

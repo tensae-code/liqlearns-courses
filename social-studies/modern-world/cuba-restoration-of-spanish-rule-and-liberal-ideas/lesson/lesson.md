@@ -10,6 +10,8 @@ Spain returns, but Enlightenment and American independence ideas have entered th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62917 — ideas will not leave]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.5–2.6 Restoration of Spanish rule; Cuba under the influence of liberal ideas — Spain returns, but Enlightenment and American independence ideas have entered the island and will not leave. Then let your companion ask you one hard question about it — answer from the lesson.

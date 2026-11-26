@@ -10,6 +10,8 @@ legal mass organisations, the CTC and popular parties win real gains even as the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62921 — small victories]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.3 Successes of the revolutionary struggle in the period — legal mass organisations, the CTC and popular parties win real gains even as the republic decays — small victories keep the revolutionary tradition alive. Then let your companion ask you one hard question about it — answer from the lesson.

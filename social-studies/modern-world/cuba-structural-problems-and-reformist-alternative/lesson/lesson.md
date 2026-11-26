@@ -10,6 +10,8 @@ economists name the sugar monoculture trap; reformism offers a cure the system c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62932 — the monoculture trap]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.1 Structural problems of the economy and the reformist alternative (to 1940) — economists name the sugar monoculture trap; reformism offers a cure the system cannot take. Then let your companion ask you one hard question about it — answer from the lesson.

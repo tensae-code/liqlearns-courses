@@ -10,6 +10,8 @@ Spain funnels all trade through its fleet system and Seville; Cuban producers, s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62931 — contraband lifeline]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.2 Spaniards control Cuba's trade — Spain funnels all trade through its fleet system and Seville; Cuban producers, shut out, turn to contraband with foreign traders as the island's lifeline. Then let your companion ask you one hard question about it — answer from the lesson.

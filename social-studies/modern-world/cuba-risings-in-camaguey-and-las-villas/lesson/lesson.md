@@ -10,6 +10,8 @@ the war spreads west as Camagüey and Las Villas rise, turning an eastern revolt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62925 — island-wide]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.3 Risings in Camagüey and Las Villas — the war spreads west as Camagüey and Las Villas rise, turning an eastern revolt into an island-wide struggle. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ students, workers and veterans protest corruption, the Platt Amendment and surre
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62933 — protesting the evils]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.2 The struggle against the evils of the neocolonial Republic — students, workers and veterans protest corruption, the Platt Amendment and surrendered sovereignty; repression answers each rising. Then let your companion ask you one hard question about it — answer from the lesson.

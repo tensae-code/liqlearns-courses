@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: as sugar booms, enslav
 as sugar booms, enslaved Africans cut cane under drivers and live locked in barracones; the plantation's wealth is built on their exhaustion
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62927 — wealth on exhaustion]
 ## Sub lesson 2 — 1.2 Slave society in the first half of the 19th c.; ideas and their bearers
 
 sugar makes Cuba a slave society at industrial scale while Varela, Luz y Caballero and reformist thinkers argue over its future
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62928 — a slave society]
 
 ## Say it to your companion
 
