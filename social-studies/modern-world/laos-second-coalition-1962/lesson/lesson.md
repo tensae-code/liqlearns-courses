@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: after Kong Le's coup a
 after Kong Le's coup and the Plain of Jars fighting, a second coalition and Geneva neutrality are agreed in 1962
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41357 — jarscoupcoalition]
 ## Sub lesson 2 — Part III, Lesson 16: 2 — The second Lao coalition
 
 a second coalition and Geneva neutrality are agreed in 1962
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41356 — coalitionneutrality]
 
 ## Say it to your companion
 

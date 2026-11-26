@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the secret war — Hmo
 the secret war — Hmong armies, massive bombing — and the Lao people's struggle deepens in answer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41355 — resistancedeepens]
 ## Sub lesson 2 — Part III, Lesson 17: America's escalating special war
 
 the secret war — Hmong armies and massive bombing
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41354 — cratersproxies]
 
 ## Say it to your companion
 

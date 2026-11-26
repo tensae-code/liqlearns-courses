@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Dien Bien Phu breaks F
 Dien Bien Phu breaks French power and Geneva recognises Laos — the first great victory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41359 — firstgreatvictory]
 ## Sub lesson 2 — Part III, Lesson 14: 1954 — Victory and the Geneva Accords, 1954
 
 Dien Bien Phu breaks French power and Geneva recognises Laos
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41358 — dienbienphugeneva]
 
 ## Say it to your companion
 

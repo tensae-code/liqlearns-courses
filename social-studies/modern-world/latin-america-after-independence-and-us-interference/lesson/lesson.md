@@ -10,6 +10,8 @@ After independence Our America redraws its map, Brazil goes its own imperial roa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41348 — mapsbrazilus]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Latin America cries freedom; Our America reorganises its territory; Brazil a different case; US interference — after independence Our America redraws its map, Brazil goes its own imperial road, and the United States begins to interfere. Then let your companion ask you one hard question about it — answer from the lesson.

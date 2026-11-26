@@ -10,6 +10,8 @@ kings consolidated and distanced themselves from the Church, European universiti
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41351 — universitiesprint]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the late medieval turn — kings consolidated and distanced themselves from the Church, European universities were founded (an experience the Muslim world already had), trades and commerce flowered, a free bourgeoisie of merchants and artisans organised itself, and Gutenberg's press spread the new learning. Then let your companion ask you one hard question about it — answer from the lesson.

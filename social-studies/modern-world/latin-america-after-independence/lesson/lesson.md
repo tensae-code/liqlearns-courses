@@ -10,6 +10,8 @@ Two centuries after independence Latin America still fights inequality, dependen
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41347 — liberationunfinished]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Historia latinoamericana, desafíos contemporáneos — two centuries after independence Latin America still fights inequality, dependence and weak states, and Ecuador shares the continent's unfinished liberation. Then let your companion ask you one hard question about it — answer from the lesson.
