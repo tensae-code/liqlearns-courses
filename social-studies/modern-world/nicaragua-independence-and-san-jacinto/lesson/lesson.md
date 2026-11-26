@@ -10,11 +10,15 @@ Estrada, a soldier from Nandaime, grows up to command the patriots at the Battle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40942 — nandaimesoldier]
+
 ## Sub lesson 2 — Celebraciones del 14 y 15 de septiembre
 
 on 14 Sept Estrada's poorly armed patriots beat Walker's filibusters at San Jacinto, Andrés Castro felling an invader with a stone; on 15 Sept the country celebrates Central American independence in blue and white
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40941 — fourteenthfifteenth]
 
 ## Sub lesson 3 — Efemérides: anniversary of General José Dolores Estrada's death
 
@@ -22,17 +26,23 @@ pupils visit/read the inscription honouring "the illustrious General José Dolor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40940 — inscribedgeneral]
+
 ## Sub lesson 4 — Celebraciones de hechos históricos de mi departamento (unit introduction)
 
 historical events are kept alive by celebrating them; the unit frames discovery, resistance, autonomy, independence and heroes as one patriotic calendar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40939 — patrioticcalendar]
+
 ## Sub lesson 5 — Las fiestas patrias: Independencia de Centroamérica y Nicaragua
 
 the September patriotic festivals retell how Central America became independent and Nicaragua kept that freedom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40938 — septemberretells]
 
 ## Sub lesson 6 — La Batalla de San Jacinto
 
