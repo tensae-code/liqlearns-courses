@@ -10,11 +10,15 @@ Before an account is made or a message sent, Class VI stops to say what email is
 
 In your mind's eye: what email is — the internet's letter.
 
+[Picture 45954 — what email is — the internet's letter]
+
 ## Sub lesson 2 — Why email matters — fast, written and kept
 
 Email is **fast** where a posted letter is slow, **written** where a call leaves no record, and **kept** — a message can be reread, searched, forwarded and filed. Those three are why schools and offices run on it: Bhutan's Class VI pupils use Gmail on their **G Suite for Education** school account, the account this chapter's next lessons sign into and work from.
 
 In your mind's eye: why email matters — fast, written and kept.
+
+[Picture 45955 — why email matters — fast, written and kept]
 
 ## Say it to your companion
 

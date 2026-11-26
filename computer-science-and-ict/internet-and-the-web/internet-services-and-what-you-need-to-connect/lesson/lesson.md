@@ -10,11 +10,15 @@ The **internet** earns its place through its **services** — the things it does
 
 In your mind's eye: internet services and advantages.
 
+[Picture 45950 — internet services and advantages]
+
 ## Sub lesson 2 — What you need to connect
 
 Joining the internet takes a kit of things together: a **device** — a computer or phone; a **connection** to carry the signals — a line or wireless link with its modem or adaptor; an **account with a service provider** that lets your device onto the network; and a **browser** to use the web once you arrive. Miss one and the rest cannot help you: the checklist is the lesson, and it is also the first thing to check, in order, when a connection fails.
 
 In your mind's eye: what you need to connect.
+
+[Picture 45951 — what you need to connect]
 
 ## Say it to your companion
 

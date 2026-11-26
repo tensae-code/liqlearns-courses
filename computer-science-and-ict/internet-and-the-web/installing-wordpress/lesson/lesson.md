@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Installing WordPress** — covering: I
 
 In your mind's eye: installing WordPress.
 
+[Picture 45946 — installing WordPress]
+
 ## Sub lesson 2 — Doing it — Installing WordPress in practice
 
 This part of South Sudan's book teaches **Doing it — Installing WordPress in practice** — covering: Installing WordPress. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Installing WordPress. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Installing WordPress in practice is part of that chain..
 
 In your mind's eye: doing it — Installing WordPress in practice.
+
+[Picture 45947 — doing it — Installing WordPress in practice]
 
 ## Say it to your companion
 

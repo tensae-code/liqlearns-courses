@@ -10,11 +10,15 @@ Text formatting first fixes **how the words stand**: the **font size**, set for 
 
 In your mind's eye: size and style — how big, and in what manner.
 
+[Picture 45940 — size and style — how big, and in what manner]
+
 ## Sub lesson 2 — Colour and combining properties — background, font, together
 
 Colour is set in **two places**: the **background colour** of the page, and the **font colour** of the text — a pair that must stay **readable together**, dark text on a light ground or the reverse. The chapter closes by **combining font properties**: size, style and colour set on the **same piece of text at once**, so one heading can be large, bold and coloured in a single instruction. Combining is where formatting becomes design: every property chosen once, together, for one reason.
 
 In your mind's eye: colour and combining properties — background, font, together.
+
+[Picture 45941 — colour and combining properties — background, font, together]
 
 ## Say it to your companion
 

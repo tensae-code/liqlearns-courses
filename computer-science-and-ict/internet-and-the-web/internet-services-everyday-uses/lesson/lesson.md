@@ -10,11 +10,15 @@ An **internet service** is a job done for you over the network. **E-banking** mo
 
 In your mind's eye: services for money, goods and learning.
 
+[Picture 45952 — services for money, goods and learning]
+
 ## Sub lesson 2 — Weather and search — the information services
 
 The **weather service** answers what the sky will do — the book's own example is Mongolia's tsag-agaar.mn, checked by herders and travellers alike. **Search services** find information: name what you need and the service returns the pages that hold it — the door to every other service, since a service you cannot find is a service you cannot use. Mongolia's closing point for Grade 6: the internet is not one thing but a market of services, and the skilled user is the one who can name the right service for the job in hand.
 
 In your mind's eye: weather and search — the information services.
+
+[Picture 45953 — weather and search — the information services]
 
 ## Say it to your companion
 

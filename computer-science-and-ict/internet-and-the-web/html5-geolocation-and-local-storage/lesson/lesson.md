@@ -10,11 +10,15 @@ Pages used to forget you the moment you left and had no idea where you were. Thi
 
 In your mind's eye: geolocation — with permission.
 
+[Picture 45942 — geolocation — with permission]
+
 ## Sub lesson 2 — Local storage — the page remembers
 
 **Local storage** gives each website a small store **in the browser**: **key–value pairs** of text (a name for each value, like a labelled drawer) saved by the page's code and **still there** after the tab closes and the browser restarts — settings, drafts and preferences live there. Its cousin **session storage** forgets when the tab closes. Storage is per-site: one site cannot read another's drawers.
 
 In your mind's eye: local storage — the page remembers.
+
+[Picture 45943 — local storage — the page remembers]
 
 ## Say it to your companion
 
