@@ -10,6 +10,8 @@ ancestors sail from South East Asia across the Pacific and settle Tonga about th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61823 — three thousand years at sea]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 4, Topic 4 "Tonga" — ancestors sail from South East Asia across the Pacific and settle Tonga about three thousand years ago; a monarchy more than a thousand years old grows from those settlements, and Europeans such as Captain Cook later visit and name it the Friendly Islands. Then let your companion ask you one hard question about it — answer from the lesson.

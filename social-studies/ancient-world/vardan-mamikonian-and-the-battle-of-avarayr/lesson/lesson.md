@@ -10,6 +10,8 @@ Persia's king Hazkert II tries to force Zoroastrianism on Christian Armenia, and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61842 — avarayr 26 may 451]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.1 The struggle for the homeland's independence — Persia's king Hazkert II tries to force Zoroastrianism on Christian Armenia, and Vardan Mamikonian's army falls at Avarayr on 26 May 451 defending the faith — told through Ghazar Parpetsi. Then let your companion ask you one hard question about it — answer from the lesson.

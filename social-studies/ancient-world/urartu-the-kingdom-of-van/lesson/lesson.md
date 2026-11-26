@@ -10,11 +10,15 @@ Sarduri I raises Tushpa-Van, Ishpuini and Menua organise the kingdom, and Argish
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61836 — tushpa raised erebuni planted]
+
 ## Sub lesson 2 — 1.5 The fall of the Van kingdom and independence
 
 Sarduri II clashes with Tiglath-Pileser III, Rusa I fights Assyria and Cimmerians, and by the early 6th century BCE the kingdom is gone — but its lands pass to Armenian rulers
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61837 — gone but its lands live on]
 
 ## Sub lesson 3 — 1.6 The socio-economic and cultural life of the Van kingdom
 
@@ -22,11 +26,15 @@ canals still water fields today, bronze and iron workshops arm the kingdom, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61838 — canals still watering fields]
+
 ## Sub lesson 4 — Teaching guidance for Theme 1, the Highland's first civilisations and Urartu
 
 lesson designs turn inscriptions, the Lchashen wagon and satellite maps into evidence pupils argue from
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61839 — arguing from evidence]
 
 ## Say it to your companion
 

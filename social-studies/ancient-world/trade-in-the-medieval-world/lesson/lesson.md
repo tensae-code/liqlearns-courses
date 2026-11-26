@@ -12,6 +12,8 @@ Then the book lifts its eyes to the great trade routes: caravans crossing the st
 
 In your mind's eye: a medieval caravan reaching a walled market town, bales unloaded while guild craftsmen work at open workshops nearby. The student points to the goods and says where they might have come from and who made the town's own goods.
 
+[Picture 61824 — stitched together by trade]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Economy from agriculture to trade. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Tiwanaku builds the Akapana pyramid and the Puerta del Sol and trades camelid te
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61820 — the akapana and the sun gate]
+
 ## Sub lesson 2 — Año 1: La civilización Tiwanakota
 
 The Tiwanaku civilisation is given its own unit as the Altiplano's great state (Año 1: La civilización Tiwanakota)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61821 — the altiplanos great state]
 
 ## Say it to your companion
 

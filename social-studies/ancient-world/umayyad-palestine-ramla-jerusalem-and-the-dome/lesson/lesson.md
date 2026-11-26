@@ -10,6 +10,8 @@ Muawiya restores Jerusalem's walls, the Umayyads rebuild Ascalon, expand Caesare
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61835 — ramla built from nothing]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 2 Lesson 3: architectural achievements in Palestine — Muawiya restores Jerusalem's walls, the Umayyads rebuild Ascalon, expand Caesarea and Acre, and raise the Dome of the Rock; Sulayman ibn Abd al-Malik founds Ramla, the only city Muslims built from nothing in Palestine, and Jerusalem's wall gets its last rebuilding under the Ottoman sultan. Then let your companion ask you one hard question about it — answer from the lesson.

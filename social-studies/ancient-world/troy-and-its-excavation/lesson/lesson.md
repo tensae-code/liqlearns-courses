@@ -10,6 +10,8 @@ Schliemann digs a mound in Asia Minor hunting Homer's city, finds layered cities
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61827 — digging for homers city]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 5.2: The excavation of Troy — Schliemann digs a mound in Asia Minor hunting Homer's city, finds layered cities instead, and starts archaeology's argument with itself. Then let your companion ask you one hard question about it — answer from the lesson.

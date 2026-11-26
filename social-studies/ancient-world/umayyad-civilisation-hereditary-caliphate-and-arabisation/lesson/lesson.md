@@ -10,6 +10,8 @@ Mu'awiya turns shura-rule into hereditary kingship and moves the capital to Dama
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61832 — coinage domes and hospitals]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: In the Umayyad state era — mu'awiya turns shura-rule into hereditary kingship and moves the capital to Damascus; in 41–132 AH the state Arabises its coinage and its diwans, builds the Dome of the Rock, al-Aqsa and the Umayyad Mosque, raises the first Damascus bimaristan with wards, pharmacy and music for the mentally ill, conscripts a five-part army and a great Levantine fleet, and opens chemistry with Khalid ibn Yazid and history-writing with Yemen's Ubayd ibn Sharya and Wahb ibn Munabbih. Then let your companion ask you one hard question about it — answer from the lesson.

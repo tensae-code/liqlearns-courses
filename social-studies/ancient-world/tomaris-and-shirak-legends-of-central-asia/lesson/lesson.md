@@ -10,6 +10,8 @@ Queen Tomaris of the Massagetae defeats Cyrus the Great and dips his head in blo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61822 — tomaris and shirak]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 13. The feat of Tomaris and Shirak — Queen Tomaris of the Massagetae defeats Cyrus the Great and dips his head in blood; the shepherd Shirak maims himself to lead Darius's army into the desert — two homeland legends of sacrifice against Persia. Then let your companion ask you one hard question about it — answer from the lesson.

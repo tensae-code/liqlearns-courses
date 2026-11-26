@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: One Umayyad survivor r
 One Umayyad survivor refounds his dynasty at the far end of the Islamic world, and al-Andalus rises and fragments
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61828 — one survivor refounds a dynasty]
 ## Sub lesson 2 — Lesson 8: The Umayyad state in al-Andalus
 
 The far-western Umayyad state and its civilisation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61829 — the far-western state]
 
 ## Say it to your companion
 

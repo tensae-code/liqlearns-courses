@@ -10,6 +10,8 @@ Maya, Aztec and Inca are compared with Africa and Asia to close the medieval wor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61825 — three high cultures compared]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.9–5.10 Distinctive traits of America's high cultures; generalities of Afro-Asian and American contexts — Maya, Aztec and Inca are compared with Africa and Asia to close the medieval world survey. Then let your companion ask you one hard question about it — answer from the lesson.

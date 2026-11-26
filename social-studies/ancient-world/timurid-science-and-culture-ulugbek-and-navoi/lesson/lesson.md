@@ -10,6 +10,8 @@ Temur's grandson Ulugbek builds Samarkand's observatory and star tables while Al
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61819 — stars and poetry at samarkand]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 29. The golden age of science and culture — Temur's grandson Ulugbek builds Samarkand's observatory and star tables while Alisher Navoi raises Turkic poetry to classic rank — the Timurid renaissance. Then let your companion ask you one hard question about it — answer from the lesson.

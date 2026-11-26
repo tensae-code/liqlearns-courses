@@ -10,11 +10,15 @@ After Ali's martyrdom a new age opens — the Umayyad state rules for about nine
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61830 — ninety-one years]
+
 ## Sub lesson 2 — The Islamic conquests in the Umayyad age
 
 Under the Umayyads the paused movement of conquest rolls again to the state's widest reach.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61831 — to the widest reach]
 
 ## Say it to your companion
 

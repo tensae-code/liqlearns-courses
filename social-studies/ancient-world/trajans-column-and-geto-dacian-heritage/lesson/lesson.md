@@ -10,6 +10,8 @@ Getic art speaks in animal symbols on gold helmets and silver bracelets, and Tra
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61826 — a column that tells a war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea VI, Lecția 6: Moștenirea culturală a geto-dacilor. Columna lui Traian — Getic art speaks in animal symbols on gold helmets and silver bracelets, and Trajan's Column in Rome stands as a stone visual chronicle of the Dacian wars. Then let your companion ask you one hard question about it — answer from the lesson.

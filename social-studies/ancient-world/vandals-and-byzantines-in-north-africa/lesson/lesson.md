@@ -10,11 +10,15 @@ Genseric's Vandals cross from Spain in 429, take Carthage in 439 and western Lib
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61840 — 429 to carthage]
+
 ## Sub lesson 2 — The Byzantines in Libya
 
 Belisarius lands in 533 with 35,000 men and 600 ships, captures King Gelimer and restores North Africa to Justinian; forts rise along the coast manned by Libyan soldiers, but corrupt clergy and quarrelling sects hollow the empire out
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61841 — 600 ships restore an empire]
 
 ## Say it to your companion
 
