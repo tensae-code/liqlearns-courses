@@ -10,11 +10,15 @@ Database security begins with **access control**: every user has their **own acc
 
 In your mind's eye: who may do what — users, passwords, permissions.
 
+[Picture 46506 — who may do what — users, passwords, permissions]
+
 ## Sub lesson 2 — Guarding the data itself — backup and honesty of records
 
 The second half guards against loss and wrongness. **Backups** — copies of the database kept apart — mean a fire, a theft or a failed disk cannot take the only copy. **Accuracy** is security too: wrong data entered carelessly harms like wrong data entered in malice, so entries are checked and changes are **recorded** — who changed what, and when — so a wrong record can be traced to its moment. Fiji's picture is complete: locks on the door, copies in another house, and a written trail inside.
 
 In your mind's eye: guarding the data itself — backup and honesty of records.
+
+[Picture 46507 — guarding the data itself — backup and honesty of records]
 
 ## Say it to your companion
 

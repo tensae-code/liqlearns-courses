@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Data Information and Data Proces
 
 In your mind's eye: data Information and Data Processing.
 
+[Picture 46489 — data Information and Data Processing]
+
 ## Sub lesson 2 — Doing it — Data Information and Data Processing in practice
 
 **Doing it — Data Information and Data Processing in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Data Information and Data Processing in practice.
+
+[Picture 46490 — doing it — Data Information and Data Processing in practice]
 
 ## Say it to your companion
 

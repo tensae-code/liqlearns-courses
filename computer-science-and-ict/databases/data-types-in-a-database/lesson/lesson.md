@@ -10,17 +10,23 @@ A **data type** is the rule given to a column that says what kind of value may l
 
 In your mind's eye: a table drawn as four labelled columns — age, fee, name, joining day. Each with its data type written under it.
 
+[Picture 46495 — a table drawn as four labelled columns — age, fee, name, joining day. Each with its data type written under it]
+
 ## Sub lesson 2 — Text types — words, names and longer writing
 
 Text has its own family. **CHAR** holds text of a fixed length that you set — every value is padded to the same length, fitting codes that are always the same size. **VARCHAR** holds text up to a length you set, storing only the length each value actually has — the usual choice for names, addresses and titles. **TEXT** holds long writing with no short limit: remarks, descriptions, a whole paragraph of notes. The test for the text family is simple: if the value is words to be read rather than amounts to be added, it belongs to text — even when the words are made of digits, as the next part shows.
 
 In your mind's eye: a database refusing a value. The word "twelve" trying to enter an INT age column, stopped by a gate marked with the column's type.
 
+[Picture 46496 — a database refusing a value. The word "twelve" trying to enter an INT age column, stopped by a gate marked with the column's type]
+
 ## Sub lesson 3 — Dates, times — and choosing the right type
 
 Dates and times have their own types too: **DATE** holds a day (year, month, day), **TIME** holds a time of day, and **DATETIME** holds a day and a time together. A date in a DATE column can be sorted truly — the earliest day first — and the database can count the days between two dates, which no text column can do. **Choosing** a type follows one rule: ask what the values *are* and what will be *done* with them. The famous case is the **phone number**: it is written in digits, but it is **text**, not a number — nobody adds two phone numbers or averages them, and a number column would strip off a leading zero and ruin the number. Give a column the type of the thing it holds, and the database itself will guard the gate, refusing values that do not belong.
 
 In your mind's eye: a phone number written two ways. As a number, its first zero missing, and as text, complete.
+
+[Picture 46497 — a phone number written two ways. As a number, its first zero missing, and as text, complete]
 
 ## Say it to your companion
 

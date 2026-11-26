@@ -10,11 +10,15 @@ The **hierarchical model** organises records as a **tree**: each record has one 
 
 In your mind's eye: hierarchical and network — the linked-record models.
 
+[Picture 46498 — hierarchical and network — the linked-record models]
+
 ## Sub lesson 2 — Relational and object-oriented — tables and objects
 
 The **relational model** stores data in **tables** of rows and columns, joined not by stored links but by **matching values** — keys — worked out when a question is asked. It is the model of this whole course: simple to see, flexible to question. The **object-oriented model** stores **objects** — data together with the actions that belong to it (a Pupil object that holds its marks and can print its own report) — suiting programs built from objects, at the cost of a smaller, more specialised world of tools. Malaysia's comparison ends where its course stands: relational, because school and business data is tabular, shared, and questioned in ways no tree foresaw.
 
 In your mind's eye: relational and object-oriented — tables and objects.
+
+[Picture 46499 — relational and object-oriented — tables and objects]
 
 ## Say it to your companion
 

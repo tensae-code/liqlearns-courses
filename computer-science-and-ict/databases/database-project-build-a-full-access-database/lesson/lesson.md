@@ -10,11 +10,15 @@ Each **set project** asks for a **complete database**: **tables** designed and c
 
 In your mind's eye: the set projects — the year's skills in one build.
 
+[Picture 46502 — the set projects — the year's skills in one build]
+
 ## Sub lesson 2 — Working a project — plan, build, check
 
 A project is worked in the database's own order: **plan** the tables and their relationships on paper first; **build** tables, then relationships, then entry through forms; **ask** the project's questions as queries; **present** the answers as a report; and **check** every stage against the project's brief before calling it finished. Libya sets **three** projects, not one, so the second and third are worked with the first one's mistakes already understood — the project's real teaching is the repetition with growing independence.
 
 In your mind's eye: working a project — plan, build, check.
+
+[Picture 46503 — working a project — plan, build, check]
 
 ## Say it to your companion
 

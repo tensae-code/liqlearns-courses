@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Overview: §4.1.1 Data Integrity
 
 In your mind's eye: overview. §4.1.1 Data Integrity.
 
+[Picture 46493 — overview. §4.1.1 Data Integrity]
+
 ## Sub lesson 2 — Doing it — Data Integrity Entity and Referential in practice
 
 **Doing it — Data Integrity Entity and Referential in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Data Integrity Entity and Referential in practice.
+
+[Picture 46494 — doing it — Data Integrity Entity and Referential in practice]
 
 ## Say it to your companion
 

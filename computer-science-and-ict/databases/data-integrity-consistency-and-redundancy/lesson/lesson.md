@@ -10,11 +10,15 @@ A school keeps a pupil's address in four places; she moves, one place is updated
 
 In your mind's eye: integrity and consistency — data you can trust.
 
+[Picture 46491 — integrity and consistency — data you can trust]
+
 ## Sub lesson 2 — Redundancy — the stored copy that breeds disagreement
 
 **Redundancy** is storing the **same fact in more than one place**. It wastes storage, but its deeper harm is that the copies can **drift apart** — update one, miss another, and consistency is broken by the design itself. Malaysia's design answer follows: store each fact **once**, in its own table, and let other tables **refer** to it by a key rather than copy it. Some copying is sometimes accepted knowingly for speed — but as a chosen trade, never as an accident of design.
 
 In your mind's eye: redundancy — the stored copy that breeds disagreement.
+
+[Picture 46492 — redundancy — the stored copy that breeds disagreement]
 
 ## Say it to your companion
 

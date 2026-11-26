@@ -10,11 +10,15 @@ The VB database year ends on paper. Kuwait's Grade 12 projects chapter builds pr
 
 In your mind's eye: crystal Reports — the database, printed properly.
 
+[Picture 46504 — crystal Reports — the database, printed properly]
+
 ## Sub lesson 2 — Sorting — the report's order is a decision
 
 A report is read in the order it presents, so **sorting** is taught beside building: the records arranged **by the field the reader thinks in** — names alphabetical for a directory, dates in order for a log, amounts largest-first for a dues list. An unsorted report makes its reader hunt; a sorted one answers at walking pace. Kuwait places reports and sorting in the Projects chapter because they are the database program's public face: the part the world actually receives.
 
 In your mind's eye: sorting — the report's order is a decision.
+
+[Picture 46505 — sorting — the report's order is a decision]
 
 ## Say it to your companion
 

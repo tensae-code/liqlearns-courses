@@ -10,11 +10,15 @@ By Year 13 the uses are the organisation itself: databases run **stock and sales
 
 In your mind's eye: the uses — what organisations run on databases.
 
+[Picture 46508 — the uses — what organisations run on databases]
+
 ## Sub lesson 2 — The issues — privacy, accuracy, dependence
 
 The issues grow from the same gifts. **Privacy**: one shared store means one breach reaches everything, and records about people demand rules for who may look. **Accuracy**: a wrong record, shared fast, misleads everyone at once — the database makes errors efficient too. **Dependence**: when the system stops, work that forgot how to proceed without it stops as well. Fiji's closing balance is the mature one: use databases fully, and govern them as seriously as they deserve — backup, access rules, and checked data are not extras; they are the price of the gifts.
 
 In your mind's eye: the issues — privacy, accuracy, dependence.
+
+[Picture 46509 — the issues — privacy, accuracy, dependence]
 
 ## Say it to your companion
 
