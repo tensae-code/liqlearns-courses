@@ -10,11 +10,15 @@ You have designed a site, written a page of it by hand in Notepad, and prepared 
 
 In your mind's eye: the FrontPage window with the site's pages and links on one side and the page being edited on the other.
 
+[Picture 45817 — the FrontPage window with the site's pages and links on one side and the page being edited on the other]
+
 ## Sub lesson 2 — Developing the website
 
 **Developing** the site (§ 5.4) is the build carried out in order: the design from the course's opening sections — purpose, audience, structure — becomes a real site skeleton first (the home page and the planned pages, linked as designed), then each page is filled with its prepared content — texts, the images prepared in § 4, tables where they help (§ 5.3) — and the links are checked by walking the site as a visitor. Only a site that walks cleanly is ready for the next step, publication (§ 5.5). The Belarus way is deliberate: the same site idea is carried from design, through Notepad by hand, and rebuilt here with the editor, so the learner sees what the editor does for them.
 
 In your mind's eye: a site skeleton of empty linked pages filling up one by one with text and pictures.
+
+[Picture 45818 — a site skeleton of empty linked pages filling up one by one with text and pictures]
 
 ## Say it to your companion
 

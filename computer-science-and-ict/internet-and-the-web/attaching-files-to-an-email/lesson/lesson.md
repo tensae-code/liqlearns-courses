@@ -10,11 +10,15 @@ An **attachment** is a file sent together with an email. While composing the mes
 
 In your mind's eye: an email being composed — the paperclip Attach command and the attached file listed with its size.
 
+[Picture 45803 — an email being composed — the paperclip Attach command and the attached file listed with its size]
+
 ## Sub lesson 2 — Receiving attachments — and attachment care
 
 At the other end, a message with an attachment shows its paperclip; the receiver **downloads** (saves) the attached file and opens it with a program that understands it. Three cares govern attachments. **Size**: a very large file may be refused or fill the receiver's mailbox — send the smallest version that serves. **Form**: send a form the receiver can open; a file in a program they do not have is a letter in a language they cannot read. **Safety**: an attachment from an unknown sender, or an unexpected one from a known sender, may carry a virus — do not open it; check with the sender first. The paperclip is a door: welcome at your own choosing, never opened blindly.
 
 In your mind's eye: a received message showing its paperclip, and the attachment being saved before opening.
+
+[Picture 45804 — a received message showing its paperclip, and the attachment being saved before opening]
 
 ## Say it to your companion
 

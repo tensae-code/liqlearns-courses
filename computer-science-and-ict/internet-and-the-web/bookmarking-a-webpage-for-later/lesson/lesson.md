@@ -10,11 +10,15 @@ A **bookmark** (called a favourite in some browsers) saves a page's **address** 
 
 In your mind's eye: saving the bookmark — the browser remembers the address.
 
+[Picture 45811 — saving the bookmark — the browser remembers the address]
+
 ## Sub lesson 2 — Using bookmarks well — names and folders
 
 Bookmarks serve when they can be **found**: short clear names, and **folders** for kinds of pages — school, news, reference — as the list grows. A bookmark whose page has moved or closed leads nowhere, and is deleted so the list stays honest. Class VII teaches bookmarking beside browser history: the bookmark is what you chose to keep; history is everything you visited.
 
 In your mind's eye: using bookmarks well. Names and folders.
+
+[Picture 45812 — using bookmarks well. Names and folders]
 
 ## Say it to your companion
 

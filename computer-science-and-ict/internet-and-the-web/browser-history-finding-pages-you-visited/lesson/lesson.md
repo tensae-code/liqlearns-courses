@@ -10,11 +10,15 @@ Yesterday you read the perfect page — and today you cannot remember its addres
 
 In your mind's eye: history — the browser's diary.
 
+[Picture 45815 — history — the browser's diary]
+
 ## Sub lesson 2 — Clearing history — your diary, your choice
 
 History is also **private information**: it shows what a person has been reading, so browsers let the user **clear** it — the last hour, a day, or everything. On a shared school computer, clearing history is courtesy and safety together. Class VII teaches history beside bookmarks: history keeps everything automatically; a bookmark keeps what you chose.
 
 In your mind's eye: clearing history — your diary, your choice.
+
+[Picture 45816 — clearing history — your diary, your choice]
 
 ## Say it to your companion
 

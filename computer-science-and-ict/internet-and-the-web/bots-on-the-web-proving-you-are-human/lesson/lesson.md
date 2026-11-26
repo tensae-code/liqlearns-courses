@@ -10,11 +10,15 @@ A large share of web traffic is not people but **bots (les “robots”)** — p
 
 In your mind's eye: the web's other visitors.
 
+[Picture 45813 — the web's other visitors]
+
 ## Sub lesson 2 — Proving you are human
 
 Sites defend themselves with **humanity tests**: distorted letters to read, pictures to pick, boxes to tick — tasks easy for a person and (for now) hard for a program. When you meet one while connecting to a protected site, you are watching the defence work: the site is checking that a person, not a password-testing bot, is asking to enter. The tests annoy — and their annoyance is the receipt that the border is guarded.
 
 In your mind's eye: proving you are human.
+
+[Picture 45814 — proving you are human]
 
 ## Say it to your companion
 

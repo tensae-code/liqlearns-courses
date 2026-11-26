@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Differentiating a blog and a social ne
 
 In your mind's eye: differentiating a blog and a social network account.
 
+[Picture 45805 — differentiating a blog and a social network account]
+
 ## Sub lesson 2 — Doing it — Differentiating a blog and a social network account in practice
 
 This part of South Sudan's book teaches **Doing it — Differentiating a blog and a social network account in practice** — covering: Differentiating a blog and a social network account. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Differentiating a blog and a social network account. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Differentiating a blog and a social network account in practice is part of that chain..
 
 In your mind's eye: doing it — Differentiating a blog and a social network account in practice.
+
+[Picture 45806 — doing it — Differentiating a blog and a social network account in practice]
 
 ## Say it to your companion
 
