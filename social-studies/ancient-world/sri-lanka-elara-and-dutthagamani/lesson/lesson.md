@@ -10,6 +10,8 @@ Horse traders Sena and Guttika seize the throne, the just Tamil king Elara rules
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61572 — elara the just]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: South Indian invasions of Anuradhapura — horse traders Sena and Guttika seize the throne, the just Tamil king Elara rules 44 years, Dutthagamani defeats him in 161 BCE, seven more Tamil chiefs follow, and Dhatusena at last restores the line. Then let your companion ask you one hard question about it — answer from the lesson.

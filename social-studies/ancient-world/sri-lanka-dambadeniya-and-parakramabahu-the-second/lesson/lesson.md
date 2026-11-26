@@ -10,6 +10,8 @@ Vijayabahu III founds a safer capital, hides the Tooth Relic on Kotmale hill, an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61571 — the relic hidden and won back]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dambadeniya (1232–1270) and Parakramabahu II — Vijayabahu III founds a safer capital, hides the Tooth Relic on Kotmale hill, and his son wins it back, beats Kalinga Magha in 1255 with Pandya help, and drives off Chandrabhanu of Java. Then let your companion ask you one hard question about it — answer from the lesson.

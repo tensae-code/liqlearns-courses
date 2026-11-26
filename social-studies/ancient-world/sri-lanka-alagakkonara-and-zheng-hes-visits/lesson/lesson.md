@@ -10,6 +10,8 @@ Zheng He's fleet lands in 1405 and again in 1411, the minister Alagakkonara defi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61556 — the admiral and the chief]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Alagakkonara chiefs and the Chinese admiral — Zheng He's fleet lands in 1405 and again in 1411, the minister Alagakkonara defies him, and the admiral carries the chief off to China before sending him home. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ How the ancient kingdom actually ran — king, council, provincial rulers, villa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61565 — how the kingdom ran]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Political administration — how the ancient kingdom actually ran — king, council, provincial rulers, village headmen, taxes and justice. Then let your companion ask you one hard question about it — answer from the lesson.

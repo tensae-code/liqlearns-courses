@@ -10,6 +10,8 @@ Vijayabahu III restarts the upasampada, scholars rewrite lost books, and Sinhala
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61555 — faith and letters flower]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Religion and literature of the Dambadeniya–Kotte ages — Vijayabahu III restarts the upasampada, scholars rewrite lost books, and Sinhala and Tamil works — from the Dambadeni Kathawa to the Sarasvati Malai — flower under royal patronage. Then let your companion ask you one hard question about it — answer from the lesson.

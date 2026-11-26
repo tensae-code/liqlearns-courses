@@ -10,6 +10,8 @@ Theravada Buddhism roots itself in Burma, Thailand, Java and Cambodia — Angkor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61559 — monks sail both ways]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Buddhism in South-East Asia and Sri Lanka's links — Theravada Buddhism roots itself in Burma, Thailand, Java and Cambodia — Angkor Wat rises — and island monks sail both ways, carrying higher ordination between Sri Lanka and Siam in 1753. Then let your companion ask you one hard question about it — answer from the lesson.

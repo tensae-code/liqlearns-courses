@@ -10,6 +10,8 @@ Magha's terror scatters monks and people to the hills, and chiefs set up small s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61569 — the court flees south-west]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: After Magha: the court flees south-west — Magha's terror scatters monks and people to the hills, and chiefs set up small strongholds at Yapahuwa, Kurunegala, Gampola and Dambadeniya. Then let your companion ask you one hard question about it — answer from the lesson.

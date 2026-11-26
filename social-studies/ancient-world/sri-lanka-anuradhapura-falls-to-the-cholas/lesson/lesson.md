@@ -10,11 +10,15 @@ A thousand-year capital weakens under weak kings, Rajaraja I invades in 993, Mah
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61563 — a thousand years fall]
+
 ## Sub lesson 2 — The Chola conquest and liberation
 
 Rajaraja invades in 993, Rajendra carries King Mahinda V captive to India in 1017 and rules from Polonnaruwa, until Vijayabahu I drives the Cholas out in 1070
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61564 — conquest and liberation]
 
 ## Say it to your companion
 

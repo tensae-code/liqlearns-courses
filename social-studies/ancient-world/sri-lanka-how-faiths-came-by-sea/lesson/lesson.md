@@ -10,6 +10,8 @@ Buddhism, Hinduism and later Islam each land with merchants and monks, Sinhala k
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61575 — faiths come by sea]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Religions arrive with the traders — Buddhism, Hinduism and later Islam each land with merchants and monks, Sinhala kings take Tamil titles, and three faiths root themselves in one small island. Then let your companion ask you one hard question about it — answer from the lesson.

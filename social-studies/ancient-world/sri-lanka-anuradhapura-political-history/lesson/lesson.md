@@ -10,6 +10,8 @@ Thirteen centuries of kings in one long narrative — dynasties rise, Tamil inva
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61566 — thirteen centuries of kings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Political history of the Anuradhapura period — thirteen centuries of kings in one long narrative — dynasties rise, Tamil invasions break in, capitals hold — the political spine the younger books only sample. Then let your companion ask you one hard question about it — answer from the lesson.

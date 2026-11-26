@@ -10,6 +10,8 @@ Excavated gold ornaments shaped like conches, iron work, gems and foreign coins 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61557 — an island of skilled makers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Crafts and industries of ancient Sri Lanka — excavated gold ornaments shaped like conches, iron work, gems and foreign coins prove an island of skilled makers trading far beyond its shores. Then let your companion ask you one hard question about it — answer from the lesson.

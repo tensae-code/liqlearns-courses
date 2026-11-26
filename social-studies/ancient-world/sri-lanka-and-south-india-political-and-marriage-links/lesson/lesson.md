@@ -10,6 +10,8 @@ Exiled princes like Ilanaga and Moggallana sail to India for armies, Manavamma w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61560 — kings helping kings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Kings helping kings across the strait — exiled princes like Ilanaga and Moggallana sail to India for armies, Manavamma wins his throne with Pallava help, and royal marriages bind the two shores. Then let your companion ask you one hard question about it — answer from the lesson.

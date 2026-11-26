@@ -10,6 +10,8 @@ Kings' engineers dam valleys and invent the bisokotuwa sluice that tames the rus
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61558 — how a tank was built]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: How an ancient tank was built — kings' engineers dam valleys and invent the bisokotuwa sluice that tames the rush of water, and a diagram names every part of the tank from bund to spill. Then let your companion ask you one hard question about it — answer from the lesson.

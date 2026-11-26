@@ -10,6 +10,8 @@ Chinese porcelain and coins turn up in island soil, Ibn Battuta visits in 1344, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61573 — what the finds tell]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: What the finds and travellers tell — Chinese porcelain and coins turn up in island soil, Ibn Battuta visits in 1344, Zheng He's fleet leaves a trilingual stone in 1409, and elephants, pearls and gems sail out as cloth and pottery sail in. Then let your companion ask you one hard question about it — answer from the lesson.

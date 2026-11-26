@@ -10,6 +10,8 @@ Society, religion, literature and the arts of the Anuradhapura centuries, each w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61567 — life inside the history]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Social and cultural life — society, religion, literature and the arts of the Anuradhapura centuries, each written by a different professor — how people lived inside the history the kings made. Then let your companion ask you one hard question about it — answer from the lesson.

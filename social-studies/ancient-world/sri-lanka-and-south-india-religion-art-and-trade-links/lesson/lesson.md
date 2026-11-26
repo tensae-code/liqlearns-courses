@@ -10,6 +10,8 @@ Mahayana Buddhism and Hindu worship arrive with traders, Amaravati-style statues
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61561 — crossing the strait]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Faith, art and goods crossing the strait — Mahayana Buddhism and Hindu worship arrive with traders, Amaravati-style statues are carved, invaders carry off 12,000 prisoners, and Karikala builds a Kaveri dam with their labour. Then let your companion ask you one hard question about it — answer from the lesson.

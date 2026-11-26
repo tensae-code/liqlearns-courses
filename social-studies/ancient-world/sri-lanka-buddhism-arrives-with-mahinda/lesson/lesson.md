@@ -10,6 +10,8 @@ Ashoka sends his own son Mahinda, who meets King Devanampiyatissa hunting on Mih
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61568 — mahinda on mihintale]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Buddhism established in Sri Lanka — Ashoka sends his own son Mahinda, who meets King Devanampiyatissa hunting on Mihintale, preaches, and stays — and the king who hosted Asoka's envoys for five months at Pataliputra gives the new faith a kingdom. Then let your companion ask you one hard question about it — answer from the lesson.
