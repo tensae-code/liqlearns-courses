@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Интернетке деректер �
 
 In your mind's eye: интернетке деректер жіберу.
 
+[Picture 46022 — интернетке деректер жіберу]
+
 ## Sub lesson 2 — Интернетке деректер жіберу. Жоба құру
 
 This part of Kazakhstan's book teaches **Интернетке деректер жіберу. Жоба құру** — covering: §30 Интернетке деректер жіберу. Жоба құру (project). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: интернетке деректер жіберу. Жоба құру.
+
+[Picture 46023 — интернетке деректер жіберу. Жоба құру]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ CSS treats **every element as a box** of four layers. At the centre, the **conte
 
 In your mind's eye: four layers — content, padding, border, margin.
 
+[Picture 46036 — four layers — content, padding, border, margin]
+
 ## Sub lesson 2 — True size — the sum of the layers
 
 The model's hard lesson is arithmetic: an element's **true width** is width + left and right padding + left and right border + left and right margin. Two boxes that 'should' fit side by side overflow when their paddings and borders are forgotten. The working habits: set padding and border **deliberately**, expect margins between neighbours to sit **between** the boxes (adjoining vertical margins even collapse into one), and when a layout breaks, **draw the boxes** — the picture finds the forgotten layer.
 
 In your mind's eye: true size — the sum of the layers.
+
+[Picture 46037 — true size — the sum of the layers]
 
 ## Say it to your companion
 

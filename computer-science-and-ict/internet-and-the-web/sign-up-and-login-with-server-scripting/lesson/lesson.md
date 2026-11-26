@@ -10,11 +10,15 @@ Almost every site asks two things of its visitors: who are you — once, at sign
 
 In your mind's eye: sign-up — making the account record.
 
+[Picture 46030 — sign-up — making the account record]
+
 ## Sub lesson 2 — Login — checking against the store
 
 **Login** takes a sent name and password and **checks them against the stored record**: the program queries the file for the name, compares the password with the stored one, and on a **match** lets the visitor in **as that user** — the following pages are built for them, their name at the top, their data the one shown. On a **mismatch** the login refuses with one careful message ('name or password not recognised') that does not say **which** part failed — a courtesy to the honest and a wall to the guesser. Malaysia's closing caution belongs to the real world: passwords in this unit's plain text files are a **school model** of the shape; real systems store passwords protected, never readable — the shape is what is taught, and the caution travels with it.
 
 In your mind's eye: login — checking against the store.
+
+[Picture 46031 — login — checking against the store]
 
 ## Say it to your companion
 

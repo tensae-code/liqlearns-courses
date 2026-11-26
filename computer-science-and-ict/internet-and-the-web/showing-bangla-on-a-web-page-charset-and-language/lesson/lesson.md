@@ -10,11 +10,15 @@ Characters travel as numbers (the character-codes lesson), and the browser must 
 
 In your mind's eye: meta charset — declare UTF-8.
 
+[Picture 46028 — meta charset — declare UTF-8]
+
 ## Sub lesson 2 — The lang attribute — name the language
 
 The page's other declaration names its **language**: the **lang attribute** on the html element — `<html lang="bn">` for a Bangla page. Lang does quiet, essential work: screen readers pronounce by it, search engines file the page under its language, browsers offer translation and choose fonts and hyphenation by it. Together the two declarations are the page's passport: charset says how its letters are coded, lang says what language they speak — and a page that carries both can travel the whole web and be read as written, in Dhaka or anywhere.
 
 In your mind's eye: the lang attribute. Name the language.
+
+[Picture 46029 — the lang attribute. Name the language]
 
 ## Say it to your companion
 

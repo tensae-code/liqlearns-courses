@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Document Toolbar** — covering: Docum
 
 In your mind's eye: document Toolbar.
 
+[Picture 46038 — document Toolbar]
+
 ## Sub lesson 2 — Doing it — Document Toolbar in practice
 
 This part of South Sudan's book teaches **Doing it — Document Toolbar in practice** — covering: Document Toolbar. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Document Toolbar. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Document Toolbar in practice is part of that chain..
 
 In your mind's eye: doing it — Document Toolbar in practice.
+
+[Picture 46039 — doing it — Document Toolbar in practice]
 
 ## Say it to your companion
 

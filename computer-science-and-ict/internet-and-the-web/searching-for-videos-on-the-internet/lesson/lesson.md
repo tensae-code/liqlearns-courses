@@ -10,11 +10,15 @@ A **video search** starts like every search: the learner opens the **browser**, 
 
 In your mind's eye: searching for a video.
 
+[Picture 46020 — searching for a video]
+
 ## Sub lesson 2 — Searching for other videos — and bringing one home
 
 One found video leads to more: the guide's second séance searches for **other videos** on the same or a new subject, changing the **search words** to steer what comes back — a different word brings different videos. The annual plan adds the home step: a found video can be **downloaded — saved onto the computer** — so it can be watched again without searching again. Searching again with new words, and saving what is worth keeping, turn a single search into a way of gathering.
 
 In your mind's eye: searching for other videos — and bringing one home.
+
+[Picture 46021 — searching for other videos — and bringing one home]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **fragment** is a working piece of a site: not the whole finished site, but a 
 
 In your mind's eye: three site fragments side by side — a literature page of text and a portrait, a geography page with a map and table, a biology page with a labelled photograph.
 
+[Picture 46032 — three site fragments side by side — a literature page of text and a portrait, a geography page with a map and table, a biology page with a labelled photograph]
+
 ## Sub lesson 2 — Fitting the fragment to its subject
 
 **Different subject areas** give different material, and the fragment must fit it: a literature fragment is mostly text and portrait, a geography fragment leans on maps and tables, a biology fragment on labelled photographs. The maker's decisions repeat the course in miniature — who is this for, what structure serves it, which images must be prepared and how — but the answers change with the subject. That is the section's point: the web skills are not tied to one example; carried to a new subject, they still work.
 
 In your mind's eye: one pair of hands carrying the same toolbox of web skills to three different subject doors.
+
+[Picture 46033 — one pair of hands carrying the same toolbox of web skills to three different subject doors]
 
 ## Say it to your companion
 

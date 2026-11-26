@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Classroom blog guide — the Blogger e
 
 In your mind's eye: classroom blog guide — the Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML.
 
+[Picture 46034 — classroom blog guide — the Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML]
+
 ## Sub lesson 2 — Doing it — Classroom blog guide — the Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML in practice
 
 This part of South Sudan's book teaches **Doing it — Classroom blog guide — the Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML in practice** — covering: Classroom blog guide — the Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Classroom blog guide — the Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Classroom blog guide — the Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML in practice is part of that chain..
 
 In your mind's eye: doing it — Classroom blog guide. The Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML in practice.
+
+[Picture 46035 — doing it — Classroom blog guide. The Blogger editor: insert image, hyperlink a word or phrase, insert videos, add a quote, check spelling, change font size, label your post, HTML in practice]
 
 ## Say it to your companion
 
