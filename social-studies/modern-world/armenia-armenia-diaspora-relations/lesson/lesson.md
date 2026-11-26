@@ -10,6 +10,8 @@ after 1991 the diaspora funds, lobbies and resettles, and homeland and diaspora 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62117 — homeland and diaspora]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 7.2 Armenia–Diaspora relations — after 1991 the diaspora funds, lobbies and resettles, and homeland and diaspora argue and cooperate over recognition, Karabakh and identity. Then let your companion ask you one hard question about it — answer from the lesson.

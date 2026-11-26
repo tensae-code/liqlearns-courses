@@ -10,11 +10,15 @@ the Arabs were there first — Yemeni ships crossing to India, China and East Af
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62108 — there first then bypassed]
+
 ## Sub lesson 2 — Effects of the European geographical discoveries (Unit 1 Lesson 2)
 
 the book first credits Arab sailors of al-Andalus with crossing the Atlantic before Spain and Portugal used their maps; then da Gama reaches Calicut in 1498, and at Diu in 1509 the Mamluk fleet sent to defend Arab trade is betrayed by Diu's own ruler — the signal that the Indian Ocean, and thirty million enslaved Africans' homelands, pass under Western hegemony
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62109 — diu 1509]
 
 ## Say it to your companion
 

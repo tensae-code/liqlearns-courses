@@ -10,6 +10,8 @@ the Tsar falls, the Caucasus front dissolves, and Armenian soldiers and councils
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62116 — 1917 radical change]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.1 Armenia in the phase of radical change, 1917 — the Tsar falls, the Caucasus front dissolves, and Armenian soldiers and councils must improvise a government as refugees pour in from the west. Then let your companion ask you one hard question about it — answer from the lesson.

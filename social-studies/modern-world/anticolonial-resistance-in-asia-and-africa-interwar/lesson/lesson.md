@@ -10,6 +10,8 @@ on three continents the colonised organise between the wars; the liberation move
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62103 — three continents organise]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.6 Resistance to colonial domination in Asia and Africa: semi-colonial China, French Algeria, Black majority vs white minority in South Africa — on three continents the colonised organise between the wars; the liberation movements of the 1950s are being prepared. Then let your companion ask you one hard question about it — answer from the lesson.

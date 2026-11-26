@@ -10,11 +10,15 @@ from the 1892 cholera riot to the 1916 uprising against the labour draft, Turkes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62098 — revolts drowned in blood]
+
 ## Sub lesson 2 — Ch. 3 §§20–21 The national-liberation movement in the Turkestan krai at the end of the 19th century
 
 the 1892 Tashkent 'cholera riot' and Dukchi Ishan's Andijan rising (1898) — desperate, local, and answered with gallows
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62099 — answered with gallows]
 
 ## Say it to your companion
 

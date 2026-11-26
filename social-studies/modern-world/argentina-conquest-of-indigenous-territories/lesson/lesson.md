@@ -14,6 +14,8 @@ So the map of the new Argentina was completed not only by railways and laws, but
 
 In your mind's eye: the two faces of Argentina's progress in this period — indigenous lands in the south and the Chaco, and a crowded conventillo courtyard in the city: name who lost out in each half of the picture.
 
+[Picture 62114 — who progress left out]
+
 ## Sub lesson 2 — "Progress" does not reach everyone
 
 The book then turns to the cities, and to the newcomers themselves.

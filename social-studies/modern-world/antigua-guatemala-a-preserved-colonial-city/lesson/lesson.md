@@ -10,6 +10,8 @@ an earthquake-ruined colonial capital is kept as a living ruin-city under strict
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62104 — a living ruin city]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 5.8: Interventions at Antigua, Guatemala — an earthquake-ruined colonial capital is kept as a living ruin-city under strict protection law. Then let your companion ask you one hard question about it — answer from the lesson.

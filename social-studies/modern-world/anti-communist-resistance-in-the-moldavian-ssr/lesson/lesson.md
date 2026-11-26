@@ -10,11 +10,15 @@ starving villagers raid the grain stores; a leaflet "Truth for the people" earns
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62101 — truth for the people]
+
 ## Sub lesson 2 — Tema 43: Rezistența anticomunistă în RSSM
 
 110 people are arrested for anti-Soviet resistance organisations; in October 1955 the Academy's own scientific conference recognises the "Romanian-Moldavian" linguistic identity the regime denied
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62102 — 110 arrested]
 
 ## Say it to your companion
 

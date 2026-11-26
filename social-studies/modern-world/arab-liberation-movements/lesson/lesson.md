@@ -10,6 +10,8 @@ one grammar of liberation, spoken from Casablanca to Baghdad
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62107 — casablanca to baghdad]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The General Features of the Arab Liberation Movements — one grammar of liberation, spoken from Casablanca to Baghdad. Then let your companion ask you one hard question about it — answer from the lesson.

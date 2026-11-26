@@ -10,6 +10,8 @@ Mustafa Wahbi al-Tal "Arar", born in Irbid in 1899, teacher and state employee, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62112 — jordans national poet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 3 Lesson 3: the poet Arar — Mustafa Wahbi al-Tal "Arar", born in Irbid in 1899, teacher and state employee, becomes Jordan and the Arab world's famous poet of the diwan "Ashiyyat Wadi al-Yabis". Then let your companion ask you one hard question about it — answer from the lesson.

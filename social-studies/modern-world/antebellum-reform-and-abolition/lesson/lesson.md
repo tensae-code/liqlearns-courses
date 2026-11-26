@@ -10,6 +10,8 @@ The Second Great Awakening's revival preaching fired a generation of reformers. 
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 62097 — fired by revival]
+
 ## Sub lesson 2 — Communes, temperance and health reform
 
 The fire spread widely: utopian communes trying to live a perfect society now, temperance campaigns against drink, and health reform. Each movement, in its own way, refused to accept the world as it was.

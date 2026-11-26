@@ -10,11 +10,15 @@ a dated table runs 1776 (USA) to 1982 (Belize); Bolívar defends federal union a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62095 — 1776 to 1982]
+
 ## Sub lesson 2 — where the movements centred
 
 the great independence movements centred on Mexico, Caracas and Buenos Aires — rich, populous, trading captaincies and viceroyalties — while Central America's independence, unlike South America's junta-led wars, was NOT won by armed struggle, its 1811 risings (Delgado, Argüello) having failed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62096 — mexico caracas buenos aires]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ American social development is credited with contributions to the arts and to te
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62094 — reaching the whole world]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Global social developments and contributions of USA to arts and technology — American social development is credited with contributions to the arts and to technology that reach the whole world. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ de-Stalinisation blames Stalin alone; Hungary rises and Operation Whirlwind answ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62100 — budapest 1956]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 42: Mișcări anticomuniste în Europa postbelică — de-Stalinisation blames Stalin alone; Hungary rises and Operation Whirlwind answers with artillery and some 6,000 Soviet tanks in Budapest, while Prague's reformers secretly beg Moscow to intervene. Then let your companion ask you one hard question about it — answer from the lesson.

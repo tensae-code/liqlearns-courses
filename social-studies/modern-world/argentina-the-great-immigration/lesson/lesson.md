@@ -22,6 +22,8 @@ In 1876 that idea became law: the Immigration and Colonisation Law. Under it, th
 
 In your mind's eye: immigrant families crossing the Atlantic and arriving in Argentina, as the book tells it. Say one push reason and one pull reason for the journey.
 
+[Picture 62115 — the state fetches them]
+
 The result, by 1914, was a country remade: nearly a third of Argentina's people were foreign-born, most of them from Italy and Spain. The state that set out to populate itself had done so in a single generation — and the newcomers' crowded city homes are where the next Argentina lesson begins.
 
 ## Say it to your companion

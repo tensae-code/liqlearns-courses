@@ -22,6 +22,8 @@ That is why the book teaches this period through images as well as words: the ch
 
 In your mind's eye: buenos Aires and the pampas changing in one generation, as the book's photographs and accounts show it: name three changes the picture shows — ports, trains, new towns.
 
+[Picture 62113 — ports trains new towns]
+
 ## Sub lesson 3 — The state and foreign investment
 
 Building railways and ports took more money than the young state had on its own. So the state looked outward.
