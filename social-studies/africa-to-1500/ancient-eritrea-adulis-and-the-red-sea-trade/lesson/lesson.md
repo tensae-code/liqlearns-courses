@@ -10,6 +10,8 @@ The ruins of Adulis, Kohaito and Metera — stelae, temples, dams — prove a tr
 
 In your mind's eye: the key place or moment of Ancient Eritrea — Adulis and the Red Sea trade as the book shows it: point to it and say what it shows.
 
+[Picture 60033 — Adulis: a trading port on the Red Sea]
+
 ## Sub lesson 2 — Ancient trade in the Red Sea
 
 Egyptian ships sail to the Land of Punt and Eritrea's ports grow rich on the sea trade — leopard skins, ivory, rhino horn and cowries out, goods from Arabia and India in.

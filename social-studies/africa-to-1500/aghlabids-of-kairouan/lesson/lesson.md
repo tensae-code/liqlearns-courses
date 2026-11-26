@@ -10,6 +10,8 @@ an Abbasid governorship quietly becomes a kingdom, and its capital becomes one o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60030 — Kairouan rules in fact; Baghdad in name only]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Aghlabid State (184–296 / 800–909): Ibrahim ibn al-Aghlab holds Ifriqiya for Baghdad in name and rules it in fact from Kairoua — an Abbasid governorship quietly becomes a kingdom, and its capital becomes one of Islam's great cities. Then let your companion ask you one hard question about it — answer from the lesson.

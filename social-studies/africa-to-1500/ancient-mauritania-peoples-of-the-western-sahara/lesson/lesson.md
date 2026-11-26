@@ -9,16 +9,22 @@ Before you read on, hold this lesson's one thing in mind: Farming and herding be
 Farming and herding begin in the Neolithic (7000–2000 BC); as the Sahara dries, Garamantes, Bafour and Berbers migrate in — Sanhaja Berbers in the 3rd century AD settle the ponds and wadis, the Bafour hold Adrar from Azuggi behind trained dogs until the Almoravids come, Phoenician sailors trade down the Atlantic coast from 1500 BC, and Sudanic groups hold the south
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60039 — peoples move in as the Sahara dries]
 ## Sub lesson 2 — Lesson 3: Ancient Mauritania — culture, economy and chiefs
 
 Rock engravings at al-Ghallawiya in Adrar, engraved ostrich eggs and pottery mark the culture; the first Berbers bring the wheeled chariot, horse, metal, writing and finally the camel (1st century AD), which opens the desert to caravan trade Herodotus already called silent; with no strong states, local chiefs manage water, grazing and disputes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60040 — engravings and chariots — then the camel opens the desert]
 ## Sub lesson 3 — Dossier 1: Mauritania before Islam
 
 Before Islam the Sanhaja tribes lead desert society for long ages under their own chiefs — the test asks the pupil to name the tribes and their leaders
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60041 — Sanhaja chiefs lead the desert peoples]
 
 ## Say it to your companion
 

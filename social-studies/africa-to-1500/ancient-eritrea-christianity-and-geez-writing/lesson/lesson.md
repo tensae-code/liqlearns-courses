@@ -10,6 +10,8 @@ Aksumite coins change their symbols as Christianity comes in the 4th century thr
 
 In your mind's eye: the key place or moment of Ancient Eritrea — Christianity and Geez writing as the book shows it: point to it and say what it shows.
 
+[Picture 60034 — coins change their signs as the faith changes]
+
 ## Sub lesson 2 — Religion, language and writing
 
 South Arabian and Greek gods give way in the mid-4th century when the Syrian monks Frumentius and Aedesius bring Christianity, the Sabean alphabet yields to Geez, and by the 5th century the Bible is translated into Geez.

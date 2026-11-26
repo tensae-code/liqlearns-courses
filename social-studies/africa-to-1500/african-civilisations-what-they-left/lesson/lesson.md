@@ -10,6 +10,8 @@ the theme closes by weighing what Africa's states and cities gave the wider worl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60022 — gold, learning and trade for the wider world]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4 §7: the influence of Africa's civilisations — the theme closes by weighing what Africa's states and cities gave the wider world — gold, learning and trade networks. Then let your companion ask you one hard question about it — answer from the lesson.

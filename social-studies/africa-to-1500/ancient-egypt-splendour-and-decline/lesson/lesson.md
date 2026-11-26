@@ -10,6 +10,8 @@ empire and temples at their height, then invasion and exhaustion pull the old ki
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60032 — Egypt at its height — then invasion and decline]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.3 Splendour and decadence of ancient Egyptian society — empire and temples at their height, then invasion and exhaustion pull the old kingdom down. Then let your companion ask you one hard question about it — answer from the lesson.

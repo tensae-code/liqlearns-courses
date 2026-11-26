@@ -10,6 +10,8 @@ Desert reformers, the Almoravids, unite the Maghreb and cross to Spain; the Almo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60031 — desert reformers unite the Maghreb, then cross to Spain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Almoravid and Almohad states — desert reformers, the Almoravids, unite the Maghreb and cross to Spain; the Almohads overthrow them and build an even wider western empire. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Before the foreign religions, each society names God its own way — Katonda for
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60023 — each people names God in its own tongue]
+
 ## Sub lesson 2 — Culture and religion
 
 One God, many names on the classroom table — Katonda for Buganda, Ruhanga for Ankole, Were for Bugishu, Ngai for the Kikuyu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60024 — one God, many names]
 
 ## Sub lesson 3 — Culture and religions of East Africa
 
@@ -22,11 +26,15 @@ The child is sent to the elders to name the religions and Christian sects of Eas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60025 — children learn the old ways from the elders]
+
 ## Sub lesson 4 — Culture and Ethnic Groupings in East Africa
 
 Culture is taught at family level — values, rituals, acceptable and unacceptable behaviour — and Buganda's Ekisaakaate, the Nabagereka's holiday camp, coaches the young in the old values
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60026 — the young are coached in the old values]
 
 ## Sub lesson 5 — Religions in East Africa
 
@@ -34,11 +42,15 @@ In traditional African religion the ancestors are present at every major event �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60027 — the ancestors are present at every big day]
+
 ## Sub lesson 6 — Traditional religions
 
 The chapter opens at the Nakayima tree in Mubende and a traditional shrine in Nyamwezi — living shrines, not museum pieces
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60028 — the Nakayima tree — a living shrine]
 
 ## Say it to your companion
 

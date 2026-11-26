@@ -10,6 +10,8 @@ Bushmen and Pygmies hunting and painting on rocks, Hottentots, Bantu farmers, an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60029 — Africa's ancient peoples: hunters, herders, farmers, sea traders]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Africa's ancient peoples — Bushmen and Pygmies hunting and painting on rocks, Hottentots, Bantu farmers, and the Swahili people born where Arabs met Africans on the coast. Then let your companion ask you one hard question about it — answer from the lesson.
