@@ -14,6 +14,8 @@ To compare objects, look at one feature at a time. Ask: is the colour the same? 
 
 In your mind's eye: two pencils side by side, and a red ball beside a red apple, with the shared colour circled.
 
+[Picture 45122 — similar features — comparing objects by what they share]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Two objects can be alike in some ways: features they share — like colour, shape or size — are their similar features. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

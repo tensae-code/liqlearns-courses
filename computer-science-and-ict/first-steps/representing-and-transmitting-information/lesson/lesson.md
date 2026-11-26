@@ -10,11 +10,15 @@ To travel, information must be **represented**: given a **form** (text, number, 
 
 In your mind's eye: representation — giving information a travel form.
 
+[Picture 45112 — representation — giving information a travel form]
+
 ## Sub lesson 2 — Transmission — channel, interference, decoding
 
 **Transmission** is the sending of signals over a **channel** (wire, air, fibre) from a **transmitter** to a **receiver**, which **decodes** the signals back into information. The road has an enemy: **interference (noise)** — anything in the channel that alters signals on the way, from a crackling line to a storm over a radio path. The defences belong to the representation: redundancy, checks, and codes that notice damage. The chapter's closing model — source, code, channel, noise, decode, destination — is the map the networks unit will now walk with machines.
 
 In your mind's eye: transmission — channel, interference, decoding.
+
+[GIF 45113 — transmission — channel, interference, decoding]
 
 ## Say it to your companion
 

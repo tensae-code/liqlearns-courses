@@ -10,11 +10,15 @@ A computer stores only numbers, so **information is represented with digits**: a
 
 In your mind's eye: everything becomes a number.
 
+[Picture 45118 — everything becomes a number]
+
 ## Sub lesson 2 — Counting the amount of information
 
 Representing with numbers lets us **measure**: the amount of information in a message can be counted in its digits and symbols, and a bigger store holds more numbers than a smaller one. The same idea returns in the book's next lessons as volume of information and transfer speed — representation first, measurement second, code third.
 
 In your mind's eye: counting the amount of information.
+
+[Picture 45119 — counting the amount of information — bit by bit]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Before a computer can store or process anything, the information must be **repre
 
 In your mind's eye: everything becomes data the computer can hold.
 
+[Picture 45114 — everything becomes data the computer can hold]
+
 ## Sub lesson 2 — Two states are enough
 
 The computer's circuits work with **two states** — a signal is present or absent, on or off. Every piece of information is represented by **patterns of these two states**. The next lesson names the two-state digits themselves: the **binary numbers** that are the computer's own language.
 
 In your mind's eye: two states are enough.
+
+[Picture 45115 — two states are enough — off and on, 0 and 1]
 
 ## Say it to your companion
 

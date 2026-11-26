@@ -14,6 +14,8 @@ So people also store information on **carriers** — things outside the body tha
 
 In your mind's eye: a child remembering a friend's face in a thought bubble, beside a book, a sheet of paper and a photograph on a table.
 
+[Picture 45129 — storing information — memory and carriers]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Information can be stored so it is not forgotten: people store it in their memory, and outside the body it is kept on carriers — paper, books and photographs. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

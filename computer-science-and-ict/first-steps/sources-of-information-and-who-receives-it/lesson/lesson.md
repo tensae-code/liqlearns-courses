@@ -12,6 +12,8 @@ A source is the one who gives the information. When your teacher speaks, the tea
 
 In your mind's eye: a teacher speaking to a class, a book, a radio and a road sign, each marked as a source.
 
+[Picture 45123 — sources of information — teacher, book, radio, road sign]
+
 To find the source, ask one question: *where did this information start?* Point to that place or that person. That is the source.
 
 ## Sub lesson 2 — The receiver — who takes the information in
@@ -21,6 +23,8 @@ Information goes somewhere, too. It goes to a **receiver**.
 A receiver is the one who takes the information in. When the teacher speaks, the pupils listening are the receivers. When you read a book, you are the receiver, and the book is the source. When the radio plays, everyone who hears it is a receiver.
 
 In your mind's eye: a child speaking to a friend, with an arrow going from the speaker to the listener.
+
+[Picture 45124 — who receives it — from the speaker to the listener]
 
 Here is the part to remember: you swap jobs all day long. When you listen, you are a receiver. When you speak, you become a source, and your friend becomes the receiver. Source and receiver are not who you are — they are the job you are doing at that moment.
 

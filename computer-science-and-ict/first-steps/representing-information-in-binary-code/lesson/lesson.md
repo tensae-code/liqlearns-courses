@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **The binary representation of informatio
 
 In your mind's eye: the binary representation of information.
 
+[Picture 45116 — the binary representation of information]
+
 ## Sub lesson 2 — –1.7: Practical tasks on representing information
 
 This part of Kazakhstan's book teaches **–1.7: Practical tasks on representing information** — covering: 1.6–1.7: Practical tasks on representing information. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: –1.7. Practical tasks on representing information.
+
+[Picture 45117 — practical tasks on representing information]
 
 ## Say it to your companion
 

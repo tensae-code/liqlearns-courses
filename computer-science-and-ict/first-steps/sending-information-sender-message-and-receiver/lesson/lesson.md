@@ -10,11 +10,15 @@ Every transmission has the same skeleton: a **sender (émetteur)** who has somet
 
 In your mind's eye: sender, message, receiver.
 
+[Picture 45120 — sender, message and receiver]
+
 ## Sub lesson 2 — The shared language makes it work
 
 The game only works because both sides share a **language in advance**: which signal means black, which means white, in what order the squares are read. Without the agreement, the same signals are noise. That is the deep lesson the activity carries into all computing: machines, like pupils, can only exchange information through a code both sides hold before the first signal is sent.
 
 In your mind's eye: the shared language makes it work.
+
+[Picture 45121 — the shared language makes it work]
 
 ## Say it to your companion
 

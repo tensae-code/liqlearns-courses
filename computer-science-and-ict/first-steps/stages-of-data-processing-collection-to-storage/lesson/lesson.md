@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Stages of Data Processing figu
 
 In your mind's eye: , Stages of Data Processing figure.
 
+[Picture 45127 — the stages of data processing — collection to storage]
+
 ## Sub lesson 2 — Doing it — Stages of Data Processing Collection to Storage in practice
 
 **Doing it — Stages of Data Processing Collection to Storage in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Stages of Data Processing Collection to Storage in practice.
+
+[Picture 45128 — doing it — the class register, step by step]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Modelling is a **process** with stages. **Meet the object and the purpose**: wha
 
 In your mind's eye: the modelling process — stage by stage.
 
+[Picture 45125 — the modelling process — stage by stage]
+
 ## Sub lesson 2 — Material and information models — and what a model is for
 
 The process forks at its kind. A **material model** is built in matter — the clay ger, the demonstration skeleton — copying form. An **information model** is built in information — the property table, the formula, the drawing — copying knowledge. Both serve the one master: **a model is for studying, predicting and presenting** what cannot be handled directly — too big, too small, too far, too dangerous, or not yet built. Mongolia's strand keeps the two kinds in one lesson because the stages before the fork are one craft.
 
 In your mind's eye: material and information models — and what a model is for.
+
+[Picture 45126 — material and information models — and what a model is for]
 
 ## Say it to your companion
 
