@@ -10,6 +10,8 @@ Memphis's clashing colours declare the modern rules dead and design becomes play
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40683 — designplay]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 23: Contemporary designers — postmodernism, Studio Alchimia and Memphis — Memphis's clashing colours declare the modern rules dead and design becomes play and statement. Then let your companion ask you one hard question about it — answer from the lesson.

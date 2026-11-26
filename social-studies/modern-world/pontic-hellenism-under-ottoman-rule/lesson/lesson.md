@@ -10,6 +10,8 @@ Pontic Greeks trade from Odessa to Trebizond under Ottoman rule, while mountain 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40693 — hiddenfaith]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5 C: Black Sea Hellenism in early modern times — Pontic Greeks trade from Odessa to Trebizond under Ottoman rule, while mountain communities keep their faith openly or in secret as crypto-Christians. Then let your companion ask you one hard question about it — answer from the lesson.

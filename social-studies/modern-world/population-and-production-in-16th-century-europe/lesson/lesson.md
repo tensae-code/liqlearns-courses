@@ -10,6 +10,8 @@ numbers recover past the pre-plague peak, enclosures fence England's commons (Do
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40691 — numbersrecover]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 13 §§1–2 In the 16th century the population grows again; The changes in agriculture and manufacturing — numbers recover past the pre-plague peak, enclosures fence England's commons (Document) and putting-out manufacturing spreads work into cottages. Then let your companion ask you one hard question about it — answer from the lesson.

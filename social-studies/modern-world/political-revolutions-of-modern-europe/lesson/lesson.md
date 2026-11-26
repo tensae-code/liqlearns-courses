@@ -10,6 +10,8 @@ Europe's states are remade by revolution and reform in the modern centuries
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40696 — revolutionreform]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 34: Political changes in modern Europe — Europe's states are remade by revolution and reform in the modern centuries. Then let your companion ask you one hard question about it — answer from the lesson.

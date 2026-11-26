@@ -10,11 +10,15 @@ the scientific-technical revolution moves work from factory to screen, and creat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40687 — factorytoscreen]
+
 ## Sub lesson 2 — Programme Theme 5: The world at the modern stage
 
 the formation of the post-industrial (information) society, economic and unification prospects, and media literacy as a named outcome
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40686 — informationsociety]
 
 ## Say it to your companion
 

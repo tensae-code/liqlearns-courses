@@ -10,6 +10,8 @@ subjectivism and internationalisation, the searches of contemporary architecture
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40684 — videoartcentury]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 20: Postmodernism and the 1990s — subjectivism and internationalisation, the searches of contemporary architecture, and video art close the century's story. Then let your companion ask you one hard question about it — answer from the lesson.

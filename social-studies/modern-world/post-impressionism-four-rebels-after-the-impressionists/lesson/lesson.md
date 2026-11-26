@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: four different post-Impressionist works side by side. The student points to how each one breaks a different way.
 
+[Picture 40688 — fourrebels]
+
 ## Sub lesson 3 — Toulouse-Lautrec takes art to the poster
 
 Toulouse-Lautrec takes art to the cabaret poster.

@@ -10,6 +10,8 @@ ruined economies boom — Germany and Japan rise from ashes to export champions
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40678 — ashestoexports]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §9 The economic consequences of the Second World War; the "economic miracle" of the 1950s–60s — ruined economies boom — Germany and Japan rise from ashes to export champions. Then let your companion ask you one hard question about it — answer from the lesson.

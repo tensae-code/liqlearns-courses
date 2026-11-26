@@ -10,11 +10,15 @@ welfare states, state-guided economies and the first steps of European integrati
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40681 — softenedsteadied]
+
 ## Sub lesson 2 — Capitalist countries' new changes
 
 golden-age growth, the welfare state, the third industrial (information) revolution and Europe uniting from coal and steel to union
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40680 — coalsteeltounion]
 
 ## Say it to your companion
 

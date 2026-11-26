@@ -10,6 +10,8 @@ Argentina's 1976–83 junta, Brazil's generals, Greece's "Black Colonels"; China
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40679 — juntasfaminehavana]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 32: Regimuri totalitare și autoritare în perioada postbelică — Argentina's 1976–83 junta, Brazil's generals, Greece's "Black Colonels"; China's Great Leap famine kills 40–45 million in 1959–61; Castro's guerrillas take Havana on 3 January 1959 and Pinochet answers with a coup. Then let your companion ask you one hard question about it — answer from the lesson.

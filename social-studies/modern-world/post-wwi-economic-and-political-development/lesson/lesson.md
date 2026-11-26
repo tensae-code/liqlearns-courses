@@ -10,6 +10,8 @@ The USA enters the war Europe's debtor and leaves its creditor; Germany and Ital
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40685 — debtorcreditor]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Economic and political development after the First World War — the USA enters the war Europe's debtor and leaves its creditor; Germany and Italy struggle with the post-war order. Then let your companion ask you one hard question about it — answer from the lesson.

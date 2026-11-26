@@ -10,6 +10,8 @@ Six nations sign the European Common Market into being in 1957, UNCTAD speaks fo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40674 — threedates]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The institutions built after 1945 — six nations sign the European Common Market into being in 1957, UNCTAD speaks for the poor countries from 1964, and in January 1995 the WTO takes over world trade's rulebook. Then let your companion ask you one hard question about it — answer from the lesson.

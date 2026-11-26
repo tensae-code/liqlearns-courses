@@ -10,6 +10,8 @@ most states stay monarchies until 1914, but the liberal society of money and sch
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40697 — crownsfade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §31: Regimuri politice în Europa — most states stay monarchies until 1914, but the liberal society of money and schooling is carried by the middle class, and after 1848 liberalism imposes itself across most of Europe. Then let your companion ask you one hard question about it — answer from the lesson.

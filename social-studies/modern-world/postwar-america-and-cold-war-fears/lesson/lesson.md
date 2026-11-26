@@ -10,6 +10,8 @@ Veterans came home to the American Dream of suburbs and televisions — houses, 
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40682 — dreaminside]
+
 ## Sub lesson 2 — The Cold War freezes policy; McCarthyism hunts at home
 
 The Cold War froze foreign policy into a permanent standoff with the Soviet Union. At home the fear turned inward: McCarthyism hunted supposed enemies inside America's own institutions, and accusation itself became a weapon.

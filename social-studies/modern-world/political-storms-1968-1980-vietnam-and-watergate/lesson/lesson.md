@@ -10,6 +10,8 @@ Identity politics fractured the old coalitions — the great voting blocs that h
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40695 — coalitionscrack]
+
 ## Sub lesson 2 — Vietnam spirals down and divides the nation
 
 Vietnam spiralled down: more troops, more deaths, no visible victory — and the nation divided over the war in its streets and living rooms. The war abroad became the storm at home.

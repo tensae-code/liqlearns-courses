@@ -10,17 +10,23 @@ Marshall aid, emigration and growth rebuild Greece until the colonels' junta of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40677 — rebuiltjunta]
+
 ## Sub lesson 2 — §55 Sharpening of the political crisis and the dictatorship of 21 April 1967 (1963–1974)
 
 Lambrakis's murder, the apostasia, the colonels' tanks, the Polytechnic uprising and the Cyprus collapse of the junta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40676 — sevencolonels]
+
 ## Sub lesson 3 — §56 Greece from the Metapolitefsi to the early 1980s (1974–1981)
 
 Karamanlis returns by plane, a referendum ends the monarchy, a constitution is voted and Europe is chosen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40675 — europechosen]
 
 ## Say it to your companion
 

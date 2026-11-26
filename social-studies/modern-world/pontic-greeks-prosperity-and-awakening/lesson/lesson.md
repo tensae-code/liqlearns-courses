@@ -10,6 +10,8 @@ mines, tobacco and banking enrich Pontus; schools and newspapers in Trebizond an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40694 — minesbanksschools]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5 D: Economic and intellectual development (19th–20th centuries) — mines, tobacco and banking enrich Pontus; schools and newspapers in Trebizond and beyond wake a national consciousness. Then let your companion ask you one hard question about it — answer from the lesson.
