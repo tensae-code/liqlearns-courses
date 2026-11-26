@@ -10,6 +10,8 @@ foreign debt (the module's keyword), crises and a contested development — the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41339 — tworoadsout]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 16 §5 L'America Latina: dalle crisi allo sviluppo — foreign debt (the module's keyword), crises and a contested development — the continent exits the lost decade unevenly, between Washington's recipes and its own. Then let your companion ask you one hard question about it — answer from the lesson.

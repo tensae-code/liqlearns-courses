@@ -10,6 +10,8 @@ From Indigenous resistance to modern equality struggles, Latin Americans repeate
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41325 — risesagain]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Movimientos sociales y revoluciones en Latinoamérica — from Indigenous resistance to modern equality struggles, Latin Americans repeatedly rise against the orders imposed on them. Then let your companion ask you one hard question about it — answer from the lesson.

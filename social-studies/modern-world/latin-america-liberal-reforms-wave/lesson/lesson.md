@@ -10,11 +10,15 @@ one continental wave — Morazán's reforms (1830–1839) named the first great 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41338 — liberalwavefive]
+
 ## Sub lesson 2 — the reform across the continent, and Honduras's stall
 
 Mexico's reform built a federal, secular republic; Central America's liberal period ran 1870–1950, but in Honduras the reform stayed unfinished — no consolidated class to drive it, excessive foreign capital, a weak export economy — until Gálvez (1949–1954) completed pieces of it: roads, the Central Bank, the development bank
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41337 — completesstalls]
 
 ## Say it to your companion
 

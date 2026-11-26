@@ -10,6 +10,8 @@ Panama split from Colombia in 1903; Arica went to Chile and Tacna back to Peru (
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41345 — bordersdated]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the last border changes — Panama split from Colombia in 1903; Arica went to Chile and Tacna back to Peru (1929); Leticia to Colombia (1934); Bolivia and Paraguay bled in the Chaco War (1932–1935); Ecuador–Peru fought in 1941 and settled at Rio in 1942. Then let your companion ask you one hard question about it — answer from the lesson.

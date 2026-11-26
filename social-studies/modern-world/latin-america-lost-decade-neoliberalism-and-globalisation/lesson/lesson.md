@@ -10,17 +10,23 @@ debt from the 1960s breaks in 1981 — the lost decade; from 1980 Honduras appli
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41336 — debtbreaks1981]
+
 ## Sub lesson 2 — Honduras in the regional crisis
 
 the 1980s brought militarisation, foreign interference, debt and rights violations to Honduras while Nicaragua and El Salvador burned, until the Esquipulas peace accords silenced the guns in 1992
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41335 — esquipulassilences]
+
 ## Sub lesson 3 — the Washington Consensus turn
 
 the welfare state's crisis from 1974 became Latin America's acute 1982 crisis; the region answered with liberalising structural reforms — the "Washington Consensus" of market opening and deregulation, with claimed gains in growth and investment
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41334 — washingtonturn]
 
 ## Say it to your companion
 

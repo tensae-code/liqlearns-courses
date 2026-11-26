@@ -10,6 +10,8 @@ coups, desaparecidos (Focus) and debt shadow the continent; the return to democr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41343 — returnfragile]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 10 §§11–12 Dittature e democrazie in America Latina; L'America Latina: il difficile ritorno alla democrazia — coups, desaparecidos (Focus) and debt shadow the continent; the return to democracy is real and fragile — the module closes the decolonisation story in its hardest region. Then let your companion ask you one hard question about it — answer from the lesson.

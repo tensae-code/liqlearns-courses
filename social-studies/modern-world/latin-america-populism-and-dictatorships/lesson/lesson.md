@@ -10,6 +10,8 @@ Populist governments claim to represent the people's interests — Paz Estenssor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41333 — fruitandclaims]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 14: Latin America to the mid-20th century — populist governments claim to represent the people's interests — Paz Estenssoro reaches power in Bolivia after coups — dictatorships spread, and the United Fruit Company controls production and refuses the workers' demands. Then let your companion ask you one hard question about it — answer from the lesson.

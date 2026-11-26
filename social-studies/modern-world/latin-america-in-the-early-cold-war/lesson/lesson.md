@@ -10,6 +10,8 @@ the northern hegemon treats the continent as its yard — populisms, coups and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41340 — hemisphereclaimed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 14 §8 Latin America in the first phase of the Cold War — the northern hegemon treats the continent as its yard — populisms, coups and the first guerrilla answers form inside the Truman Doctrine's hemisphere (unit Document). Then let your companion ask you one hard question about it — answer from the lesson.

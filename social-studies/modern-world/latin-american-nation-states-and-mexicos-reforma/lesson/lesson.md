@@ -10,6 +10,8 @@ Juárez's liberals break the Church's and army's privileges and defeat a French-
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41327 — privilegebroken]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.4 Formation of national states in Latin America; the Reforma movement in Mexico 1854–1876 — Juárez's liberals break the Church's and army's privileges and defeat a French-imposed emperor — a second independence inside the first. Then let your companion ask you one hard question about it — answer from the lesson.

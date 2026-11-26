@@ -10,11 +10,15 @@ Venice holds Crete, the islands and Cyprus against the Ottomans until one by one
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41323 — fallonebyone]
+
 ## Sub lesson 2 — The end of Latin rule
 
 Napoleon hands Venice's Ionian islands away in 1797 and the last Latin chapter in Greece closes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41322 — islandsaway1797]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Bolívar and San Martín cross mountains and free a continent from Spain, leavin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41324 — twocrossings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §30 The national-liberation struggle of the peoples of Latin America — Bolívar and San Martín cross mountains and free a continent from Spain, leaving republics in the creoles' hands. Then let your companion ask you one hard question about it — answer from the lesson.

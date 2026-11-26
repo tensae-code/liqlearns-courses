@@ -10,6 +10,8 @@ The unit lands at home: Latin America's place and problems in the contemporary g
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41342 — continenttoday]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: El contexto geopolítico latinoamericano — The unit lands at home: Latin America's place and problems in the contemporary geopolitical context. Then let your companion ask you one hard question about it — answer from the lesson.
