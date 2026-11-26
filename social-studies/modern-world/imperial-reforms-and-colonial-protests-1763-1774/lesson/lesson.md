@@ -10,6 +10,8 @@ Britain's war debt brought new imperial reforms — above all the Stamp Act, a t
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 63639 — taxed without a voice]
+
 ## Sub lesson 2 — Boycotts, the Townshend Acts and the Boston Tea Party
 
 The Sons and Daughters of Liberty answered with boycotts — refusing British goods until the taxes bent. The Townshend Acts taxed anew; protest sharpened; and in Boston, tea went into the harbour in the Boston Tea Party.

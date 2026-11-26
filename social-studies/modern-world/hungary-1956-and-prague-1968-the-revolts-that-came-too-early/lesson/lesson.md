@@ -10,6 +10,8 @@ Budapest pulls down Stalin's statue in 1956 and Soviet tanks answer; Prague's "s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63634 — seen to crack]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: revolts inside the Eastern bloc — Budapest pulls down Stalin's statue in 1956 and Soviet tanks answer; Prague's "socialism with a human face" in 1968 is ended the same way — the bloc holds, but everyone has seen it can crack. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ when factories outgrow their home markets, flags follow the goods to every shore
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63642 — a quarter of the earth]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 2 Imperialism and the hunger for colonies: Lenin's law that capitalism cannot live without expanding; by 1914 Britain, "the empire on which the sun never sets", holds 33 million km² and 400 million people — a quarter of the earth, twelve times Germany's colonies and three times France's — when factories outgrow their home markets, flags follow the goods to every shore. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Gandhi returns in 1915, answers the Rowlatt Act and repression with satyagraha, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63651 — free but cut in two]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Gandhi, Quit India and independence — Gandhi returns in 1915, answers the Rowlatt Act and repression with satyagraha, launches Quit India in 1942, and on 15 August 1947 India is free — but cut in two, as Jinnah's Pakistan is born beside it. Then let your companion ask you one hard question about it — answer from the lesson.

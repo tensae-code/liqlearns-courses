@@ -10,6 +10,8 @@ the industrial revolution arrives late to Iceland, through fish (Síðbúin atvi
 
 In your mind's eye: a steam trawler landing fish in a growing Icelandic harbour town. Say what arrived late and what it changed.
 
+[Picture 63636 — late through fish]
+
 ## Sub lesson 2 — Steam trawlers and new towns
 
 steam trawlers and new towns remake Icelandic work and life (Síðbúin atvinnubylting á Íslandi, student book pp. 54–63)

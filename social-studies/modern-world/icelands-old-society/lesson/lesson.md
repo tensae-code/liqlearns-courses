@@ -10,6 +10,8 @@ in old Iceland most people own nothing; the vistarband ties servants to farms (G
 
 In your mind's eye: a tenant farm in old Iceland, with the farmer's family and servants, and a census writer at the door. Say who owns the farm and who is counted.
 
+[Picture 63637 — tied to the farms]
+
 ## Sub lesson 2 — The 1703 census counts them all
 
 the census counts the tenant farmers and servants of old Iceland — a whole people listed farm by farm (Gamla samfélagið, student book pp. 4–9)

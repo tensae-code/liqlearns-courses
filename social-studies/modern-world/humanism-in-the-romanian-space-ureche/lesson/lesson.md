@@ -10,6 +10,8 @@ Grigore Ureche's Chronicle proclaims "from Rome we descend" and glorifies the an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63633 — from rome we descend]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea IV, Lecția 4: Manifestări ale Renaşterii şi Umanismului în spațiul românesc — Grigore Ureche's Chronicle proclaims "from Rome we descend" and glorifies the ancestors' victories; bishopric schools teach at Râmnic, Buzău, Roman and Rădăuți. Then let your companion ask you one hard question about it — answer from the lesson.

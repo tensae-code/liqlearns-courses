@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: formally independent, 
 formally independent, Latin America is held by debt, companies and the northern giant's shadow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63643 — independent but held]
 ## Sub lesson 2 — Part III, Lesson 9: Imperialism in Latin America
 
 formally independent, held by debt, companies and the northern giant
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63644 — held by debt]
 
 ## Say it to your companion
 

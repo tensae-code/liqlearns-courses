@@ -10,6 +10,8 @@ Sigurður, born 1853 to poor tenant parents in Skagafjörður, weighs leaving Ic
 
 In your mind's eye: a young Icelander at a harbour with a packed box, looking at a ship for Canada. Say who he is and what he must decide.
 
+[Picture 63635 — weighing whether to leave]
+
 ## Sub lesson 2 — Leaving for Canada forever
 
 the choice is Canada — a new life across the ocean, at the price of leaving Iceland forever (Verkefnablað 11)

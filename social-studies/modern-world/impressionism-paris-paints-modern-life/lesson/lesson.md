@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: an Impressionist scene outdoors — a boulevard, a regatta or haystacks in changing light. The student points to light itself as the subject.
 
+[Picture 63645 — catching light itself]
+
 ## Sub lesson 3 — The rejects build their own market
 
 The academy's rejects build their own exhibitions and invent modern art's marketplace.

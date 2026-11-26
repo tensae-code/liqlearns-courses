@@ -10,6 +10,8 @@ a military governor-general in Tashkent, oblasts and uezds below, native aksakal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63630 — rules wiring diagram]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3 §§14–15 The political-administrative system of the Turkestan Governor-Generalship — a military governor-general in Tashkent, oblasts and uezds below, native aksakal elders kept at the bottom — colonial rule's wiring diagram. Then let your companion ask you one hard question about it — answer from the lesson.

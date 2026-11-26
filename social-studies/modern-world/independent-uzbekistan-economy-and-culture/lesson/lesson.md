@@ -10,6 +10,8 @@ the new state builds its own economic model and revives Navoi, Temur and the anc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63648 — its own model its ancestors]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 53. On the path of economic development and 54. On the path of cultural and spiritual revival — the new state builds its own economic model and revives Navoi, Temur and the ancestors' heritage as the nation's spiritual foundation. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Jón Sigurðsson leads Iceland's peaceful independence struggle, and the Fjallko
 
 In your mind's eye: the republic proclaimed at Þingvellir in 1944, crowds on the old assembly field. Say what was proclaimed and where.
 
+[Picture 63638 — a peaceful struggle]
+
 ## Sub lesson 2 — Home rule and sovereignty in 1918
 
 home rule, then sovereignty in 1918, mark the road's middle steps (Þjóðfrelsi og lýðræði, student book pp. 132–151)

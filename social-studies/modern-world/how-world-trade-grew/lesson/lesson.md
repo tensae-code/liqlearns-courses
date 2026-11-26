@@ -10,6 +10,8 @@ Villages once made everything themselves and bartered the surplus, then the Indu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63632 — no nation can live alone]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: From the ancient self-sufficient economy to world trade — villages once made everything themselves and bartered the surplus, then the Industrial Revolution multiplies goods a hundredfold and no nation can live alone — colonies, markets and world trade are born. Then let your companion ask you one hard question about it — answer from the lesson.

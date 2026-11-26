@@ -10,6 +10,8 @@ Kipchak tribes settle among the older Sogdian-Turkic population and the name 'Uz
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63631 — from a horde to a people]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. I §6 Changes in the ethnic composition of the Uzbek people — Kipchak tribes settle among the older Sogdian-Turkic population and the name 'Uzbek' passes from a horde to a people. Then let your companion ask you one hard question about it — answer from the lesson.

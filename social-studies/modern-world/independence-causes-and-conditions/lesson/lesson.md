@@ -10,11 +10,15 @@ criollo–peninsular conflict inside; outside, US independence, the French Revol
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63646 — inside and outside]
+
 ## Sub lesson 2 — the Bourbon Reforms and criollo exclusion
 
 Spain's Bourbon Reforms tried to recover the colonies while criollos stayed politically marginalised despite their wealth and Spanish blood — the grievance that turned colonies toward independence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63647 — wealthy but shut out]
 
 ## Say it to your companion
 

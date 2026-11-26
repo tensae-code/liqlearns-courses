@@ -10,6 +10,8 @@ sepoy mutiny or first war of independence — the sources argue
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63649 — mutiny or first war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 9.1 How do accounts describe the events in India in 1857–1859? — sepoy mutiny or first war of independence — the sources argue. Then let your companion ask you one hard question about it — answer from the lesson.
