@@ -10,11 +10,15 @@ Grade 10 opens with a declaration no other book in this course makes so openly: 
 
 In your mind's eye: why two languages — teaching and technology.
 
+[Picture 47200 — why two languages — teaching and technology]
+
 ## Sub lesson 2 — First sight of both — the same program twice
 
 The initiation lesson sets the two side by side on the smallest ground: a first program in Pascal — `program`, declarations, `begin…end.` — and the same program in C++ — `#include`, `main`, braces `{ }`, semicolons ending each instruction, `return 0`. The pupil's first skill is **reading across**: recognising the same parts (input, processing, output) under both spellings. Every chapter after this one is written in the pair's double column — this lesson is its key.
 
 In your mind's eye: first sight of both — the same program twice.
+
+[Picture 47201 — first sight of both — the same program twice]
 
 ## Say it to your companion
 

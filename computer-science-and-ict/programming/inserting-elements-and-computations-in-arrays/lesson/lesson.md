@@ -10,11 +10,15 @@ Elements are **entered** one by one — typed in a **fill loop** (cin >> a[i]) o
 
 In your mind's eye: entering elements with a live count.
 
+[Picture 47204 — entering elements with a live count]
+
 ## Sub lesson 2 — Computations over the filled part
 
 With the array filled, **basic computations** walk the live elements: the **sum**, the **average** (sum divided by n — the live count, not the capacity), each element transformed (doubled into a second array, say). The classic fault is dividing by capacity or walking into the unfilled tail where garbage values wait; the live-count discipline prevents both.
 
 In your mind's eye: computations over the filled part.
+
+[Picture 47205 — computations over the filled part]
 
 ## Say it to your companion
 

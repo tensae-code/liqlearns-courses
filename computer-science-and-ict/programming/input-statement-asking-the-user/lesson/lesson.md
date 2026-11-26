@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, INPUT Statement** — covering
 
 In your mind's eye: , INPUT Statement.
 
+[Picture 47202 — , INPUT Statement]
+
 ## Sub lesson 2 — Doing it — Input Statement Asking the User in practice
 
 **Doing it — Input Statement Asking the User in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Input Statement Asking the User in practice.
+
+[Picture 47203 — doing it — Input Statement Asking the User in practice]
 
 ## Say it to your companion
 

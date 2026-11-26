@@ -10,11 +10,15 @@ The project program is **interactive**: it **takes input** from its user (typed 
 
 In your mind's eye: the brief — a program that answers.
 
+[Picture 47214 — the brief — a program that answers]
+
 ## Sub lesson 2 — Building with the whole chapter
 
 The build **combines**: variables and constants hold the state; **if…else** judges the answers; **loops over arrays** carry the lists (questions, marks, items); **functions** each do one job (ask, check, report); the **standard library** is called for what it already does. The program is tested as a conversation — right answers, wrong answers, empty answers, answers at the edges — because a user will send all of them. Malaysia's project standard is the chapter in one artefact: if any structure from the chapter is missing, the brief usually shows where it belonged.
 
 In your mind's eye: building with the whole chapter.
+
+[Picture 47215 — building with the whole chapter]
 
 ## Say it to your companion
 

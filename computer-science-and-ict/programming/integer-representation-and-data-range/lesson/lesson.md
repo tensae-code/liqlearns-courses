@@ -10,11 +10,15 @@ With **n bits** a type can hold **2ⁿ different patterns**. An unsigned type sp
 
 In your mind's eye: bits fix the range.
 
+[Picture 47212 — bits fix the range]
+
 ## Sub lesson 2 — Negatives and overflow
 
 Signed integers are stored in **two's complement**, the scheme that lets the same addition circuits work for negative and positive numbers. The danger at the edges is **overflow**: add 1 to the maximum and the value wraps to the minimum — 127 + 1 in a signed byte becomes **−128** — with no error message. Programs that count people, money or measurements must use types whose range the data can never outgrow.
 
 In your mind's eye: negatives and overflow.
+
+[Picture 47213 — negatives and overflow]
 
 ## Say it to your companion
 

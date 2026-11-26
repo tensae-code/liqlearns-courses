@@ -10,11 +10,15 @@ An **instruction** is an order that tells an executor **exactly one thing to do*
 
 In your mind's eye: an instruction is one clear order.
 
+[Picture 47210 — an instruction is one clear order]
+
 ## Sub lesson 2 — Instructions are not only pictures
 
 The book's second point surprises its six-year-olds: instructions do not live only in **pictures**. A picture sequence can show the steps of making a sandwich, but instructions also come as **words spoken**, **words written**, **signs and arrows**, and **sounds** — a whistle in a game is an instruction to stop. Whatever its form, an instruction keeps its nature: one order, for one executor, to be carried out exactly. Later lessons will write instructions a computer can follow; the form changes, the nature does not.
 
 In your mind's eye: instructions are not only pictures.
+
+[Picture 47211 — instructions are not only pictures]
 
 ## Say it to your companion
 

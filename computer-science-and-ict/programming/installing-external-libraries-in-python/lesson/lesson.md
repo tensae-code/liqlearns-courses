@@ -10,11 +10,15 @@ Python arrives with a large standard library — but the data unit needs librari
 
 In your mind's eye: why external libraries, and where they live.
 
+[Picture 47206 — why external libraries, and where they live]
+
 ## Sub lesson 2 — Installing — pip, versions, and care
 
 The installer is **pip**: `pip install <name>` fetches and installs; the import in the program then works as usual. The care around it: install the **named** package (sound-alike names are a known trap — a mistyped name can fetch a stranger's, even a hostile, package), mind **versions** (a program may need the version its book used), install into the environment the work actually uses, and record what was installed so the work can be rebuilt on another machine. Jordan places installing inside the data lesson because the unit's first practical act is exactly this: before the data, the tools; before the tools, the trust.
 
 In your mind's eye: installing — pip, versions, and care.
+
+[Picture 47207 — installing — pip, versions, and care]
 
 ## Say it to your companion
 

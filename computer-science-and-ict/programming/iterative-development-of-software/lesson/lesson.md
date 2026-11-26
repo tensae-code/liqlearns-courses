@@ -10,11 +10,15 @@ The first version of almost everything is wrong in ways only use can reveal. Ite
 
 In your mind's eye: what iterative development is.
 
+[Picture 47216 — what iterative development is]
+
 ## Sub lesson 2 — Working the rounds — in the Scratch unit
 
 Jordan teaches iteration inside the Grade 9 Scratch work because Scratch makes rounds fast: a game is built, played, found too easy or broken at level two, **changed**, and played again — the loop of **build → test → improve** is the lesson's heartbeat. Each round ends with a decision the feedback earned: keep, fix, or drop a feature. The approach's discipline is that a round must end in a **working** version — 'nearly working' is where projects go to hide — and that feedback is collected on purpose (players observed, faults written), not awaited by chance.
 
 In your mind's eye: working the rounds — in the Scratch unit.
+
+[Picture 47217 — working the rounds — in the Scratch unit]
 
 ## Say it to your companion
 
