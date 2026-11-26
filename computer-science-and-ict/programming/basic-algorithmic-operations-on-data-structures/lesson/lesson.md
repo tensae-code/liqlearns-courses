@@ -10,11 +10,15 @@ Three operations change or question a structure's contents. **Insertion** puts a
 
 In your mind's eye: insert, delete, search — changing and finding.
 
+[Picture 46744 — insert, delete, search — changing and finding]
+
 ## Sub lesson 2 — Traverse and sort — visiting all, and putting in order
 
 **Traversal** visits **every** value of the structure once, in its order — printing the list, summing the array, counting the chain; half of all real work on structures is traversal wearing a purpose. **Sorting** rearranges the structure's values into order without losing or adding any. The chapter teaches the five operations as one checklist: meet any new structure and ask — how does it insert, delete, search, traverse, sort, and what does each cost here?
 
 In your mind's eye: traverse and sort — visiting all, and putting in order.
+
+[Picture 46745 — traverse and sort — visiting all, and putting in order]
 
 ## Say it to your companion
 

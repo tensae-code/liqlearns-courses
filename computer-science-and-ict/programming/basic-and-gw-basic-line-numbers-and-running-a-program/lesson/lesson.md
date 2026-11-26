@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Programming in BASIC** — cover
 
 In your mind's eye: programming in BASIC.
 
+[Picture 46748 — programming in BASIC]
+
 ## Sub lesson 2 — Doing it — BASIC and GW BASIC Line Numbers and Running a Program in practice
 
 **Doing it — BASIC and GW BASIC Line Numbers and Running a Program in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — BASIC and GW BASIC Line Numbers and Running a Program in practice.
+
+[Picture 46749 — doing it — BASIC and GW BASIC Line Numbers and Running a Program in practice]
 
 ## Say it to your companion
 

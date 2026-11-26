@@ -10,11 +10,15 @@ backtracking — building a solution step by step and, the moment a partial buil
 
 In your mind's eye: build, test, step back — the technique.
 
+[Picture 46742 — build, test, step back — the technique]
+
 ## Sub lesson 2 — Designing with backtracking — choices, conditions, recursion
 
 A backtracking program has a fixed shape: a **recursive** procedure that places the next piece, with the **choices** at each step listed, the problem's **conditions** checked after every placement, and the **return** from the call doing the stepping back. Vietnam's specialist book teaches the design, then drills it twice — a technique practical and a design practical — because the shape transfers: change the pieces, the choices and the conditions, and the same skeleton solves the next problem.
 
 In your mind's eye: designing with backtracking — choices, conditions, recursion.
+
+[Picture 46743 — designing with backtracking — choices, conditions, recursion]
 
 ## Say it to your companion
 

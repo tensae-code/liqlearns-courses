@@ -10,11 +10,15 @@ Laos's Grade 7 teacher guide introduces the classic languages two at a time. Its
 
 In your mind's eye: bASIC — the beginners' language.
 
+[Picture 46746 — bASIC — the beginners' language]
+
 ## Sub lesson 2 — C — the systems language
 
 **C** is the opposite character: a **compact, powerful language close to the machine**, in which operating systems themselves (Unix first among them) were written. C gives the programmer direct command of the machine's memory and parts, and demands in return exactness — a C program does what it is told at a depth where mistakes are the programmer's alone. It is a **compiled** language, translated whole before it runs. The guide pairs the two because together they mark the road every programmer walks: begin where the language forgives (BASIC), arrive where the language obeys (C).
 
 In your mind's eye: c — the systems language.
+
+[Picture 46747 — c — the systems language]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ In **x = expression;** the machine **evaluates the right side completely**, then
 
 In your mind's eye: right side first, then store.
 
+[Picture 46732 — right side first, then store]
+
 ## Sub lesson 2 — Store, not equals — and growing a value
 
 Because = means store, **x = x + 1** reads: take x's current value, add 1, store it back — the standard **counter** step, impossible as an equation and ordinary as an instruction. Chained thinking follows: swap two variables needs a **third** to hold one value during the exchange, because the first store destroys what the second still needs.
 
 In your mind's eye: store, not equals — and growing a value.
+
+[Picture 46733 — store, not equals — and growing a value]
 
 ## Say it to your companion
 

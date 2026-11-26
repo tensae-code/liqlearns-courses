@@ -10,11 +10,15 @@ A Pascal program first does two things: put a value into a variable, and show a 
 
 In your mind's eye: assignment — putting a value in.
 
+[Picture 46736 — assignment — putting a value in]
+
 ## Sub lesson 2 — Output — showing the result
 
 **Output** is written with **write** and **writeln**: `writeln(x)` shows the value of x on the screen and moves to a new line. Text is shown in apostrophes — `writeln('Sum=', s)`. The book's next lesson is a repetition of this one: assignment and output are the pair every later program — branching, loops, files — is built from.
 
 In your mind's eye: output — showing the result.
+
+[Picture 46737 — output — showing the result]
 
 ## Say it to your companion
 

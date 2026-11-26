@@ -10,11 +10,15 @@ An **array** (the book also calls it a **vector** in one dimension) is **one var
 
 In your mind's eye: what an array is.
 
+[Picture 46730 — what an array is]
+
 ## Sub lesson 2 — One-dimensional arrays and worked examples
 
 A **one-dimensional array** is a single row of values, each reached by its **position number**. The book represents arrays on paper first, then works **solved examples** on one-dimensional arrays — filling them, reading values out, and working through every value in turn — the pattern every later array lesson, and the two-dimensional arrays after it, stand on.
 
 In your mind's eye: one-dimensional arrays and worked examples.
+
+[Picture 46731 — one-dimensional arrays and worked examples]
 
 ## Say it to your companion
 

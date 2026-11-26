@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Assignment Operator** — coveri
 
 In your mind's eye: assignment Operator.
 
+[Picture 46738 — assignment Operator]
+
 ## Sub lesson 2 — Doing it — Assignment vs Equality One Equals or Two in practice
 
 **Doing it — Assignment vs Equality One Equals or Two in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Assignment vs Equality One Equals or Two in practice.
+
+[Picture 46739 — doing it — Assignment vs Equality One Equals or Two in practice]
 
 ## Say it to your companion
 
