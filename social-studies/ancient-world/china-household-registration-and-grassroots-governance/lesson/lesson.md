@@ -10,6 +10,8 @@ the Ming stores its Yellow Registers of every household on five guarded islands 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60479 — the Yellow Registers' islands]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Household registration and grassroots governance in ancient China — the Ming stores its Yellow Registers of every household on five guarded islands in Nanjing's Xuanwu Lake, safe from fire and thieves — the empire counted in paper. Then let your companion ask you one hard question about it — answer from the lesson.

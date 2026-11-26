@@ -10,6 +10,8 @@ virtue leads and punishment assists — the Tang Code mixes Confucian family ord
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60483 — virtue leads, punishment assists]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Law and moral teaching in ancient China — virtue leads and punishment assists — the Tang Code mixes Confucian family order into the empire's law for every dynasty after. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ at Zhoukoudian, Peking Man chips stone tools, hunts and gathers in groups and ma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60476 — Peking Man's fire]
+
 ## Sub lesson 2 — Origins of Chinese civilisation
 
 in May 1965 geologists dig two shovel-shaped incisor fossils from a Yunnan hillside — Yuanmou Man, 1.7 million years old — opening a map of hundreds of sites from Peking Man to Upper Cave Man
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60477 — Yuanmou Man's teeth]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Li Si's memorial stops the expulsion of foreign advisers, Ying Zheng conquers th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60490 — one state, one measure]
+
 ## Sub lesson 2 — Burning books, burying scholars, and Qin's fall
 
 on Li Si's advice the First Emperor burns the histories of the other states and buries scholars alive; within four years of his death peasant rebels and Xiang Yu and Liu Bang tear the empire down
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60491 — the fall within four years]
 
 ## Say it to your companion
 

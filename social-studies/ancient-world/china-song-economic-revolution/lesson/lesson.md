@@ -10,11 +10,15 @@ early rice and the yangma transplanting horse push rice to first place — 'when
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60492 — rice comes first]
+
 ## Sub lesson 2 — Liao-Song-Xia-Jin-Yuan economy and society
 
 paper money, sea-going junks, coal and iron at medieval heights, and cities whose night markets outshine Europe's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60493 — paper money, junks, coal, night markets]
 
 ## Say it to your companion
 

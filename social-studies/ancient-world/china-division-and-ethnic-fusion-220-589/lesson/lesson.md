@@ -10,6 +10,8 @@ three centuries of rival courts become a melting pot — northern peoples settle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60475 — division melts into fusion]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Three Kingdoms, Jin, Northern and Southern dynasties — three centuries of rival courts become a melting pot — northern peoples settle, learn Chinese farming and dress, and the peoples fuse into a wider China. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Toyotomi Hideyoshi sends 200,000 men into Korea; Korea begs Ming aid, Ming gener
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60482 — the Imjin War]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Medieval Asia — the Imjin War — Toyotomi Hideyoshi sends 200,000 men into Korea; Korea begs Ming aid, Ming general Deng Zilong and Korean admiral Yi Sun-sin die fighting side by side, and after seven years China and Korea together throw the invasion back. Then let your companion ask you one hard question about it — answer from the lesson.

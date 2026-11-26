@@ -10,11 +10,15 @@ Aguda's Jurchen destroy Liao in 1125, then turn on their Song allies; two Song e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60480 — Kaifeng falls 1127]
+
 ## Sub lesson 2 — Liao, Xia, Jin and Yuan rule (2)
 
 Jin destroys Liao and Northern Song, then the Mongols destroy Jin, Xia and Southern Song in turn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60481 — conquerors conquered in turn]
 
 ## Say it to your companion
 

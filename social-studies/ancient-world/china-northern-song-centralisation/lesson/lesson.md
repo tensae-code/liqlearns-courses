@@ -10,11 +10,15 @@ fearing another warlord age, Song Taizu invites his generals to wine and persuad
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60487 — a cup of wine releases power]
+
 ## Sub lesson 2 — Song politics and military
 
 Song's founders trade military glory for civil rule — strong trunk, weak branches — gaining order and losing armies that can win
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60488 — strong trunk, weak branches]
 
 ## Say it to your companion
 

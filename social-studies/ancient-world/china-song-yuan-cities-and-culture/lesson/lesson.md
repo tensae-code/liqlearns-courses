@@ -10,11 +10,15 @@ Kaifeng's night markets never close, Daxiangguo Temple opens five times a month 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60494 — Kaifeng's night markets]
+
 ## Sub lesson 2 — Liao-Song-Xia-Jin-Yuan culture
 
 Su Shi's ci, Sima Guang's history mirror, Song landscape painting and Yuan stage drama carry Chinese culture to a new peak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60495 — a new cultural peak]
 
 ## Say it to your companion
 
