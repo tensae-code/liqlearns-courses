@@ -10,11 +10,15 @@ The project begins where Grade 4 ended — an **underwater scene with swimming f
 
 In your mind's eye: from aquarium scene to aquarium game.
 
+[Picture 47476 — from aquarium scene to aquarium game]
+
 ## Sub lesson 2 — Six categories at work — the breadth check
 
 The game's scripts must draw on **six block categories** together: **Motion** swims the fish, **Looks** shows their changes, **Sound** voices the tank, **Events** start and restart the game, **Control** waits, repeats and decides, and **Sensing** lets fish and player feel each other — with **Operators and Variables** scoring where the game counts. The project's check is by category: the maker lists, for each of the six, the blocks the game truly uses — a category carried by one token block has not been used, only visited.
 
 In your mind's eye: six categories at work — the breadth check.
+
+[Picture 47477 — six categories at work — the breadth check]
 
 ## Say it to your companion
 

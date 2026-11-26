@@ -10,11 +10,15 @@ The project sets its scene with an **underwater backdrop** — water, sand, plan
 
 In your mind's eye: stocking the tank — the underwater scene.
 
+[Picture 47474 — stocking the tank — the underwater scene]
+
 ## Sub lesson 2 — Making them swim — motion, looks and sound in each fish
 
 Each fish **swims by its scripts**: **motion** carries it across the tank and turns it at the ends so it swims back, **looks** work — costume changes or effects — give it life, and the scene's **sounds** — bubbles, water, a gentle music — play at a volume that sits under the scene. Fish move **at different speeds and heights**, as real tank fish do. The check is the tank watched whole: continuous, varied swimming that a watcher can enjoy without touching anything.
 
 In your mind's eye: making them swim — motion, looks and sound in each fish.
+
+[Picture 47475 — making them swim — motion, looks and sound in each fish]
 
 ## Say it to your companion
 

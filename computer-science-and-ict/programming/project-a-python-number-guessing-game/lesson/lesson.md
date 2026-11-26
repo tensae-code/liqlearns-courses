@@ -10,11 +10,15 @@ The design names the game's working before any code: the computer **chooses a se
 
 In your mind's eye: designing the game.
 
+[Picture 47468 — designing the game]
+
 ## Sub lesson 2 — Building it in IDLE — the unit assembled
 
 The build assembles the unit: **variables** hold the secret and the count, **input and conversion** take the guess, a **while loop** repeats it, **conditions** compare and answer, and the **random** choice starts each new game. The **puzzle game** companion spends the same kit differently — a shuffled word or a slid tile — proving the kit is general. The project's closing craft is testing as a player, not as the builder: play unfairly (guess outside the range, type letters) and repair what the player finds, because the player is the program's true examiner.
 
 In your mind's eye: building it in IDLE — the unit assembled.
+
+[Picture 47469 — building it in IDLE — the unit assembled]
 
 ## Say it to your companion
 

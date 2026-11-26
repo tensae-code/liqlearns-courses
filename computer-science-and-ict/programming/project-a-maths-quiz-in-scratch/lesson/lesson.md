@@ -10,11 +10,15 @@ One round of the quiz is a complete circuit: the program **asks a maths question
 
 In your mind's eye: asking and checking — the quiz's round.
 
+[Picture 47466 — asking and checking — the quiz's round]
+
 ## Sub lesson 2 — Scoring the game — a variable keeps count
 
 A quiz of one question is a moment; the project makes a **game of rounds**, and a **score variable** keeps the count: **set to zero at the start**, **changed by one for every right answer**, and **shown at the end** as the player's result. Rounds repeat — by a loop or by re-asking — for the planned number of questions, and the quiz **ends by reporting the score** with the sprite's words. Set, change, show: the variable's whole life, in the service of a game a classmate can play.
 
 In your mind's eye: scoring the game — a variable keeps count.
+
+[Picture 47467 — scoring the game — a variable keeps count]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Grade 4's second long project arc is **"Пътешествие из Българ
 
 In your mind's eye: a picture of a map-like route with three place pins joined by a dotted road, beside a Scratch stage showing the first place as a backdrop with two sprites in dialogue.
 
+[Picture 47465 — a picture of a map-like route with three place pins joined by a dotted road, beside a Scratch stage showing the first place as a backdrop with two sprites in dialogue]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: The "Journey through Bulgaria" project builds a Scratch journey across the country: places as backdrops, decisions on the road, sprites meeting and speaking — a whole journey made from the year's skills. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

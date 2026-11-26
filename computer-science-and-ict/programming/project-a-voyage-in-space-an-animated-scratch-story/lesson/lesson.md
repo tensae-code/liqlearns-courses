@@ -10,11 +10,15 @@ The project plans the story as **a journey in scenes**: a **launch or departure*
 
 In your mind's eye: planning the voyage — scenes of a journey.
 
+[Picture 47472 — planning the voyage — scenes of a journey]
+
 ## Sub lesson 2 — Animating the journey — the spiral at work
 
 The animation runs on the taught kit together: **motion and waits** pace the travelling, **backdrop switches** carry the journey from place to place, **say blocks and sounds** voice the travellers and the space around them, and **conditions and sensing** let the story answer its moments — a star touched, a signal received. The project's check is the voyage watched whole: a watcher travels from departure to arrival, in order, and can say afterwards where the story went and what happened on the way.
 
 In your mind's eye: animating the journey — the spiral at work.
+
+[Picture 47473 — animating the journey — the spiral at work]
 
 ## Say it to your companion
 

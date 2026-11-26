@@ -10,11 +10,15 @@ A **digital product** is a finished piece of software made **for users** — it 
 
 In your mind's eye: digital products and the team — 4–5 members, named roles.
 
+[Picture 47480 — digital products and the team — 4–5 members, named roles]
+
 ## Sub lesson 2 — The project steps — idea to sharing
 
 The build runs the course's own craft in order: the **idea** (the product's purpose, in a sentence a user would want), the **work environment** set up in **PyCharm**, the **flowchart** (the plan drawn before code — the year's drawing lessons spent), the **code** itself, **testing** (the debugger's discipline turned on the team's own work), and **sharing** — the product handed to its users. Six steps, and the sequence is the quality system: a product that skips the flowchart codes its confusions; one that skips testing ships them.
 
 In your mind's eye: the project steps — idea to sharing.
+
+[Picture 47481 — the project steps — idea to sharing]
 
 ## Say it to your companion
 

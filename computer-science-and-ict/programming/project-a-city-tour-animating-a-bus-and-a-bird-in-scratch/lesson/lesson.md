@@ -10,11 +10,15 @@ The project builds its stage first: a **city backdrop** — streets, buildings, 
 
 In your mind's eye: building the city — backdrops and travellers.
 
+[Picture 47461 — building the city — backdrops and travellers]
+
 ## Sub lesson 2 — Running the tour — motion, sound and events together
 
 The tour runs when its **events** start it: the **bus moves along its route** — moving, pointing and turning at the city's corners — while the **bird flies across**, flapping. **Sounds** ride with the scene: the bus's engine or bell, the bird's call, set at volumes that let both be heard. The project's check is the scene alive: a watcher sees a tour, not two exercises — road and sky moving together, each traveller in its own element, from the flag to the route's end.
 
 In your mind's eye: running the tour — motion, sound and events together.
+
+[Picture 47462 — running the tour — motion, sound and events together]
 
 ## Say it to your companion
 

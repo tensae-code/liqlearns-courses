@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, program example: a timer count
 
 In your mind's eye: , program example. A timer counting down from 100 with if–else inside a forever loop.
 
+[Picture 47463 — , program example. A timer counting down from 100 with if–else inside a forever loop]
+
 ## Sub lesson 2 — Doing it — Project a Countdown Timer in Scratch in practice
 
 **Doing it — Project a Countdown Timer in Scratch in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Project a Countdown Timer in Scratch in practice.
+
+[Picture 47464 — doing it — Project a Countdown Timer in Scratch in practice]
 
 ## Say it to your companion
 
