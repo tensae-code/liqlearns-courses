@@ -106,11 +106,15 @@ China's great historian and its explorer-envoy open the steppe to written record
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61267 — the historian and the envoy]
+
 ## Sub lesson 14 — §49 Culture of the Usuns and Kangly
 
 pottery, jewellery and dwellings show two settled-herder cultures
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61268 — two settled herder cultures]
 
 ## Sub lesson 15 — §50 Archaeological monuments of the Usuns and Kangly
 
@@ -118,11 +122,15 @@ excavated towns and graves anchor both peoples in Kazakhstan's soil
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61269 — anchored in the soil]
+
 ## Sub lesson 16 — 4.1 Written sources about the Usuns (lesson plans)
 
 Chinese envoy reports are mined for Usun life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61270 — the lesson mining the reports]
 
 ## Sub lesson 17 — 4.2 The Kangly's urban culture develops (lesson plans)
 
@@ -130,17 +138,23 @@ Kangly towns show farming and craft beside the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61271 — the lesson towns by the steppe]
+
 ## Sub lesson 18 — 4.3 The Kangly's social structure (lesson plans)
 
 the Kangly state is diagrammed from khan to townsfolk
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61272 — the lesson the state diagrammed]
+
 ## Sub lesson 19 — 4.4 Material and spiritual culture of Usuns and Kangly (lesson plans)
 
 objects and beliefs of two peoples are compared in one lesson arc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61273 — the lesson objects and beliefs]
 
 ## Say it to your companion
 

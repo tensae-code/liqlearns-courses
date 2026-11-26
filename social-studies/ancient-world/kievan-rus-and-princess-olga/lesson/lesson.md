@@ -10,11 +10,15 @@ the Rus' princes build a state and Olga's embassy baptises its diplomacy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61275 — olgas embassy]
+
 ## Sub lesson 2 — §4 The formation of Kievan Rus'
 
 Varangian princes and Slav towns grow into the Rus' state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61276 — varangians and slav towns]
 
 ## Sub lesson 3 — §4 Kievan Rus' forms; Christianity adopted
 
@@ -22,11 +26,15 @@ princes unite the Rus' towns and Vladimir's baptism turns the state Christian
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61277 — vladimirs baptism 988]
+
 ## Sub lesson 4 — §4 The formation of Kievan Rus'
 
 princes and towns grow into the first Rus' state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61278 — the first rus state]
 
 ## Say it to your companion
 

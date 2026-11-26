@@ -10,6 +10,8 @@ after Vasudeva's death the great empire's centre dissolves into local rulers, an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61274 — kushans in miniature]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 18: The Kidarites, or Little Kushans — after Vasudeva's death the great empire's centre dissolves into local rulers, and the Kidarites hold Balkh as Kushans in miniature. Then let your companion ask you one hard question about it — answer from the lesson.

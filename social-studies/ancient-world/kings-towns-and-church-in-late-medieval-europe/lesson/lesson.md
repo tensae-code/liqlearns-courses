@@ -10,6 +10,8 @@ Kings and barons fight for Europe, and the towns' money decides who wins.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61282 — the towns money decides]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.3.3 State and Church in the developed and late Middle Ages. Then let your companion ask you one hard question about it — answer from the lesson.
