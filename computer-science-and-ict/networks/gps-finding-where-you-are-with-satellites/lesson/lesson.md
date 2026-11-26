@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Global Positioning System** — 
 
 In your mind's eye: global Positioning System.
 
+[Picture 46105 — global Positioning System]
+
 ## Sub lesson 2 — Doing it — GPS Finding Where You Are with Satellites in practice
 
 **Doing it — GPS Finding Where You Are with Satellites in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — GPS Finding Where You Are with Satellites in practice.
+
+[Picture 46106 — doing it — GPS Finding Where You Are with Satellites in practice]
 
 ## Say it to your companion
 

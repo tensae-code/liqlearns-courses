@@ -10,11 +10,15 @@ Jordan compares the three on five grounds. **Speed**: Wi-Fi is fastest by far; B
 
 In your mind's eye: the five grounds of comparison.
 
+[Picture 46093 — the five grounds of comparison]
+
 ## Sub lesson 2 — Choosing — the job picks the standard
 
 The comparison's lesson is that there is no winner, only fits. **Streaming video or files** — Wi-Fi. **A headset, a watch, a keyboard** — Bluetooth, paired and personal. **Sensors and controls by the hundred, living on batteries** — Zigbee. An IoT designer reads the job's five numbers — how much data, how far, how long on battery, how many devices, what budget — and the standard chooses itself.
 
 In your mind's eye: choosing — the job picks the standard.
+
+[Picture 46094 — choosing — the job picks the standard]
 
 ## Say it to your companion
 

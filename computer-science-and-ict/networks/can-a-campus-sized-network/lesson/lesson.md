@@ -10,11 +10,15 @@ A **Campus Area Network (CAN)** interconnects the **LANs of one institution** sp
 
 In your mind's eye: cAN — the campus area network.
 
+[Picture 46091 — cAN — the campus area network]
+
 ## Sub lesson 2 — CAN among its neighbours — LAN, MAN, WAN
 
 The ladder of sizes now reads whole: **PAN** one person, **LAN** one building, **CAN** one campus of buildings, **MAN** one city, **WAN** countries and the world. CAN and MAN can cover similar ground; the difference is **ownership and purpose** — a CAN is one institution's private linking of its own LANs, while a MAN serves many organisations across a city, usually on a provider's roads. Bangladesh's book keeps CAN in the ladder because its students live on campuses: the network they use daily deserved its own rung.
 
 In your mind's eye: cAN among its neighbours — LAN, MAN, WAN.
+
+[Picture 46092 — cAN among its neighbours — LAN, MAN, WAN]
 
 ## Say it to your companion
 

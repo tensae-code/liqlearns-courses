@@ -10,11 +10,15 @@ A **gateway** connects networks that use **different protocols** and **translate
 
 In your mind's eye: the gateway — translator at the border.
 
+[Picture 46103 — the gateway — translator at the border]
+
 ## Sub lesson 2 — Where gateways stand
 
 Gateways stand wherever unlike systems must cooperate: between a local network and a provider's differently-built network, between old and new generations of a system that cannot be replaced at once, and at the doors of services reached through the internet from networks of every kind. The home 'router' box is quietly several devices in one coat — switch, router, and often gateway among them. The lesson's test for naming any device is its work: if it translates protocols, gateway is its name, whatever the box is called in the shop.
 
 In your mind's eye: where gateways stand.
+
+[Picture 46104 — where gateways stand]
 
 ## Say it to your companion
 

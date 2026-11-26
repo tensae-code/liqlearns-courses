@@ -10,11 +10,15 @@ The work starts with **research**: find out the users' needs and the place, and 
 
 In your mind's eye: from brief to network plan.
 
+[Picture 46097 — from brief to network plan]
+
 ## Sub lesson 2 — Configuring and managing the simple network
 
 To **configure** the network is to set up each device so the network works. The network is then **tested — that the devices can communicate** — and **managed**: a named person checks that it keeps working and fixes faults. The design meets its brief when the working network does what the brief asked.
 
 In your mind's eye: configuring and managing the simple network.
+
+[Picture 46098 — configuring and managing the simple network]
 
 ## Say it to your companion
 

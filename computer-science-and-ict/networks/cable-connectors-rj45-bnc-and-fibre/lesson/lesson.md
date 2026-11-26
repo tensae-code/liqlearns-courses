@@ -10,17 +10,23 @@ A **connector** is the plug fitted to the end of a cable. It is the part that me
 
 In your mind's eye: an RJ45 plug end-on, its eight gold pins and small plastic clip showing.
 
+[Picture 46088 — an RJ45 plug end-on, its eight gold pins and small plastic clip showing]
+
 ## Sub lesson 2 — BNC — the connector on coaxial cable
 
 **Coaxial cable** — the cable with one central core wrapped in a metal shield — ends in a **BNC connector**. The BNC is a metal connector with a **bayonet lock**, the same push-and-twist fastening as a bayonet on a rifle. Two small studs on the socket fit into slots on the connector's outer ring: you push the connector on, **twist it a quarter turn**, and the studs slide into the locked end of the slots, holding the join tight and keeping the shield connected all the way round the core. Twist it back and pull, and it comes free. BNC connectors join lengths of coaxial cable and connect coaxial cable to devices; you meet them on older networks and on aerial and video cabling.
 
 In your mind's eye: a BNC connector being pushed onto its socket and twisted to lock.
 
+[Picture 46089 — a BNC connector being pushed onto its socket and twisted to lock]
+
 ## Sub lesson 3 — Fibre connectors — joining a glass thread of light
 
 **Fibre-optic cable** carries its signal as **light** along a thread of glass, so its connector has a different job: it must hold two glass ends **exactly face to face**, so the light passes straight out of one thread and into the next without spilling. A **fibre connector** is a small, precisely made end-piece that centres the glass thread and keeps it lined up with its partner. Because the thread is thinner than a hair, the end must be **polished smooth and kept clean** — a speck of dust or a crooked join blocks the light, and a blocked light is a lost message. Fibre ends are handled gently and capped when they are not joined.
 
 In your mind's eye: two fibre-optic cable ends meeting inside a fibre connector, a thin beam of light passing straight through the join.
+
+[Picture 46090 — two fibre-optic cable ends meeting inside a fibre connector, a thin beam of light passing straight through the join]
 
 ## Say it to your companion
 

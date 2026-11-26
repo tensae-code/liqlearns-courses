@@ -10,11 +10,15 @@ Devices on a bench are not yet a network: **configuration** is the work that mak
 
 In your mind's eye: from devices to a working network — installation.
 
+[Picture 46095 — from devices to a working network — installation]
+
 ## Sub lesson 2 — The settings that matter — addresses and agreement
 
 Configuration's heart is **agreement**: every device must hold settings that match the network's design — its **IP address** within the network's range and unlike any other, the gateway and name-service addresses it should use, and the wireless name and password where air is the medium. A network fails politely or not at all when two devices claim one address or one device keeps a stranger's settings; the configurator's discipline is to set deliberately, record what was set, and test device by device until the whole design answers.
 
 In your mind's eye: the settings that matter — addresses and agreement.
+
+[Picture 46096 — the settings that matter — addresses and agreement]
 
 ## Say it to your companion
 
