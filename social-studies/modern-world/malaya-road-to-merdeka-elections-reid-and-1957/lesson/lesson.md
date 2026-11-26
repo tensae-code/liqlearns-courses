@@ -10,17 +10,23 @@ The Communities Liaison Committee draws the races' leaders together, the Member 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41287 — machineryparties]
+
 ## Sub lesson 2 — The first general election
 
 Elections climb from municipal to state to federal level; the 1955 general election (proclaimed by Sir Donald MacGillivray) fills the Federal Legislative Council, and Tunku Abdul Rahman becomes Chief Minister at the head of the first cabinet (Bab 8: the first general election)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41286 — electionsclimb]
+
 ## Sub lesson 3 — Reid, the Agreement, and Merdeka
 
 At Lancaster House, London (18 January–6 February 1956) the Rulers' representatives and the Alliance win agreement on self-government; the Reid Commission (announced 8 March 1956, at work by late June, receiving 131 written memoranda) drafts the constitution; and after the midnight lowering of the Union Jack at Padang Kelab Selangor, some 20,000 people stand in the rain from 6 a.m. at Stadium Merdeka on 31 August 1957 to hear independence proclaimed — the First Malaya Plan 1956–1960 already charting the economy (Bab 9–10: Reid, the Agreement, and Merdeka)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 41285 — reidmidnightflag]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Tun Abdul Razak's negotiations with Lee Kuan Yew fail across 29 June–1 July 19
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41281 — singaporeleaves]
+
 ## Sub lesson 2 — The communist threat after 1963
 
 In Sarawak the army's operations — Hammer (1965), RASCOM's and Sri Aman among them — break the communist movement division by division, while the peninsula faces its own renewed insurgency (Bab 6.3: the communist threat after 1963)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 41280 — sarawakoperations]
 
 ## Sub lesson 3 — The inter-ethnic tragedy
 
@@ -22,11 +26,15 @@ The race riots of 13 May 1969 force an emergency; the Yang di-Pertuan Agong cons
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41279 — may13candle]
+
 ## Sub lesson 4 — Rebuilding unity and the economy
 
 The Rukun Negara is proclaimed as the nation's unity charter; education is re-knit (the Cabinet Committee of September 1974 reviews the national system with Bahasa Melayu at its centre); and the New Economic Policy (Dasar Ekonomi Baru, 1970–1990), launched through the First Outline Perspective Plan, sets out to eradicate poverty and restructure society's economic imbalances (Bab 7–8: rebuilding unity and the economy)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 41278 — charterandnep]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The Radziwiłłs' glassworks and the Slutsk sash manufactory, then Tyzenhauz's G
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41275 — glasssashfactory]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Manufactories on the Belarusian lands. Then let your companion ask you one hard question about it — answer from the lesson.

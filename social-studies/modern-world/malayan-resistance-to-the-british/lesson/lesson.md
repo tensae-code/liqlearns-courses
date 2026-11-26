@@ -10,6 +10,8 @@ Stripped of governing, legal and financial power, local leaders rise state by st
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41284 — statebystate]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Local resistance — stripped of governing, legal and financial power, local leaders rise state by state — Dato' Maharaja Lela in Perak, Yamtuan Antah in Negeri Sembilan, Dol Said in Naning, Dato' Bahaman in Pahang, Tok Janggut in Kelantan, Haji Abdul Rahman Limbong in Terengganu, Rentap and Sharif Masahor in Sarawak, Mat Salleh and Mat Sator in Sabah; the risings win early successes before Britain crushes them one by one. Then let your companion ask you one hard question about it — answer from the lesson.

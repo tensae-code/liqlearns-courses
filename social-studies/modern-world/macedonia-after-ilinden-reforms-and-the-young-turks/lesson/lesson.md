@@ -10,11 +10,15 @@ a crushed uprising brings European reform officers, and with them the neighbours
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41296 — reformofficerscome]
+
 ## Sub lesson 2 — Theme 5: Macedonia in the Young Turk coup and regime — Macedonia is the centre of the 1908 coup, pluralism blooms, then the regime hardens after the counter-coup attempt
 
 Macedonian revolutionaries help restore the constitution, then watch the Young Turks turn nationalist
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41295 — bloomshardens]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ the Little Red Book (Fare storia Document) arms a revolution against its own par
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41274 — littlebookinward]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 9 §11 La Cina maoista — the Little Red Book (Fare storia Document) arms a revolution against its own party; the Great Leap and the Cultural Revolution make China the communist world's second, rival centre. Then let your companion ask you one hard question about it — answer from the lesson.

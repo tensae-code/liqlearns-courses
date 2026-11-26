@@ -10,11 +10,15 @@ After the British Military Administration, Sir Harold MacMichael is sent to extr
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41283 — thousandsrally]
+
 ## Sub lesson 2 — The Federation of Malaya 1948
 
 The rejected Malayan Union of 1946 is replaced by the Federation of Malaya, drafted by a Working Committee into the Federation Agreement — while another camp proposes its own alternative, the Perlembagaan Rakyat (People's Constitution) (Bab 5: the Federation of Malaya 1948)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 41282 — federationdrafted]
 
 ## Say it to your companion
 

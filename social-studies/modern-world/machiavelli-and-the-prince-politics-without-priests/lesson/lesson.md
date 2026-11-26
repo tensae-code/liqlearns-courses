@@ -10,6 +10,8 @@ two Florentine-era shocks — Machiavelli's Prince teaches that ruling is a skil
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41291 — princesuncentre]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: Machiavelli and Copernicus — two Florentine-era shocks — Machiavelli's Prince teaches that ruling is a skill with its own rules, separate from sermons; Copernicus quietly moves the Earth and puts the Sun at the centre of the world. Then let your companion ask you one hard question about it — answer from the lesson.

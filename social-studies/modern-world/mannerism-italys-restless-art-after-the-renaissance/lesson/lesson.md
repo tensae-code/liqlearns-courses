@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Mannerist figure, stretched and twisted in an elegant, uneasy pose. The student points to where balance has been deliberately broken.
 
+[Picture 41276 — stretchedtwisted]
+
 ## Sub lesson 3 — An invaded Italy
 
 Italy itself is invaded and Rome is sacked — the unease in the art matches the age.
