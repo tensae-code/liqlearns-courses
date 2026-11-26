@@ -10,11 +10,15 @@ Print measures type in **points (pt)**: one point is **1/72 of an inch** (about 
 
 In your mind's eye: the point — print's unit.
 
+[Picture 45486 — the point — print's unit]
+
 ## Sub lesson 2 — The pixel — the screen's unit, and converting between worlds
 
 Screens measure in **pixels (px)** — the screen's own dots. The bridge between the units: at the CSS reference density, **1 pt = 4/3 px**, so 12 pt type is 16 px — the common default body size on the web. Because real screens pack pixels at different densities, a px on a phone is not a fixed physical size; that is why web type is also set in relative units (em, rem) that scale with the reader's settings. Rule of thumb: points for print, pixels (or relatives) for screens, and never assume they match without the 4/3 bridge.
 
 In your mind's eye: the pixel — the screen's unit, and converting between worlds.
+
+[Picture 45487 — the pixel — the screen's unit, and converting between worlds]
 
 ## Say it to your companion
 

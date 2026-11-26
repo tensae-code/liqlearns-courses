@@ -10,11 +10,15 @@ Text is entered in a table **cell by cell**: click in a cell (or arrive in it) a
 
 In your mind's eye: typing into a cell.
 
+[Picture 45482 — typing into a cell]
+
 ## Sub lesson 2 — Moving through the table — Tab
 
 The traveller's key is **Tab**: it moves the insertion point to the **next cell** — across the row, then down to the next row's start — selecting that cell's contents ready for replacement or typing. Tab in the **last cell creates a new row**, which is both a convenience and the classic accident: a stray Tab at the table's end grows a row nobody wanted, removed by Undo. The careful order the book teaches is the typist's rhythm: type, Tab, type, Tab — filling the grid in its reading order, so no cell is skipped and none is filled twice.
 
 In your mind's eye: moving through the table — Tab.
+
+[Picture 45483 — moving through the table — Tab]
 
 ## Say it to your companion
 

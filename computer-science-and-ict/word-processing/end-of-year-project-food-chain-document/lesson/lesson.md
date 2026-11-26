@@ -10,11 +10,15 @@ The **food-chain document** presents a food chain — who eats whom — in Word:
 
 In your mind's eye: building the food-chain document.
 
+[Picture 45480 — building the food-chain document]
+
 ## Sub lesson 2 — Agreeing, filing and reporting it
 
 The project is **agreed in Google Classroom** first — the group settles its chain and its parts where the class collaborates. The finished document is **password-protected**, saved into the group's **folders**, and **reported to the teacher by email** — the report saying what was made and where it is filed. The project is the year's proof: Word, files, internet and collaboration in one hand-in.
 
 In your mind's eye: agreeing, filing and reporting it.
+
+[Picture 45481 — agreeing, filing and reporting it]
 
 ## Say it to your companion
 

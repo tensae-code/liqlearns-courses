@@ -10,11 +10,15 @@ Word's **formula** tools (the equation editor) build mathematics from parts: cho
 
 In your mind's eye: the formula editor.
 
+[Picture 45490 — the formula editor]
+
 ## Sub lesson 2 — Writing mathematics that reads well
 
 A good formula in a document is **placed and explained**: it sits on its own line or inside the sentence where the text names it, and the text around it says what its letters mean. The pupil's own school subjects are the source — the lesson practises on real sums from mathematics and physics homework, set in Word so they can be printed and handed in.
 
 In your mind's eye: writing mathematics that reads well.
+
+[Picture 45491 — writing mathematics that reads well]
 
 ## Say it to your companion
 

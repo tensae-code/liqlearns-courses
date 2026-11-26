@@ -10,11 +10,15 @@ The **home keys** are the middle row keys your fingers rest on: **A S D F** for 
 
 In your mind's eye: the home keys.
 
+[Picture 45494 — the home keys]
+
 ## Sub lesson 2 — Which finger presses which keys
 
 **Each finger owns a column of keys**: the left little finger owns A, the right index finger owns the J column, and so on. After pressing a key away from home, the finger **returns to its home key** at once. Keeping the fingers on the home keys is what makes every key quick and accurate to reach.
 
 In your mind's eye: which finger presses which keys.
+
+[Picture 45495 — which finger presses which keys]
 
 ## Say it to your companion
 

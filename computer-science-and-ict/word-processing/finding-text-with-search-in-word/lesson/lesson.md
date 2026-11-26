@@ -10,11 +10,15 @@ Somewhere in a twenty-page document one name is spelled wrong — and reading ev
 
 In your mind's eye: word's Find dialog — the search text typed in, and the found word selected in the document behind it.
 
+[Picture 45484 — word's Find dialog — the search text typed in, and the found word selected in the document behind it]
+
 ## Sub lesson 2 — Find Next, and finding to fix
 
 One word may appear many times, so **Find Next** takes you to each further occurrence in turn, until Word reports it has finished searching the document — that report is how you know you have seen them all. Finding is usually the first half of fixing: with **Replace**, Word can change each found occurrence (or all of them at once with Replace All) into corrected text — find the wrong spelling, replace it with the right one, everywhere, in one pass. The care rule: check a few replacements with your own eyes before trusting Replace All, because Word replaces exactly what you typed, including anywhere you did not mean.
 
 In your mind's eye: the Find and Replace dialog — the wrong spelling being replaced by the right one.
+
+[Picture 45485 — the Find and Replace dialog — the wrong spelling being replaced by the right one]
 
 ## Say it to your companion
 

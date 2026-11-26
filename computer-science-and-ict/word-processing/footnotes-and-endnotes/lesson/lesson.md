@@ -10,11 +10,15 @@ A **footnote** stands at the **foot of the page** where its mark appears: the re
 
 In your mind's eye: footnote against endnote — two houses for notes.
 
+[Picture 45488 — footnote against endnote — two houses for notes]
+
 ## Sub lesson 2 — Automatic numbering — the machine keeps the count
 
 Notes are **numbered automatically**: insert a note and Word gives it the next number, plants its mark in the text and its space in the house. Delete a note and the rest **renumber**; move a paragraph and its note travels and takes its new number. No hand-kept list survives editing — that is the point. Mongolia's booklet-and-report pupils use the system for the duty the ethics lessons taught: sources named where they are used, numbered by the machine, true after every change.
 
 In your mind's eye: automatic numbering — the machine keeps the count.
+
+[Picture 45489 — automatic numbering — the machine keeps the count]
 
 ## Say it to your companion
 

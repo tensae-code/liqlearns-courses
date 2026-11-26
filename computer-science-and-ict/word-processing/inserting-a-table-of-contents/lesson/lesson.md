@@ -10,11 +10,15 @@ Word builds a table of contents from **heading styles**, not from text that is m
 
 In your mind's eye: heading styles come first.
 
+[Picture 45496 — heading styles come first]
+
 ## Sub lesson 2 — Building the table of contents
 
 With the headings styled, put the cursor where the table should stand — usually on its own page after the title page — open the **References** tab and choose **Table of Contents**, then an automatic style. Word collects every styled heading with its page number and builds the list. If headings or pages change later, do not retype the table: click **Update Table** and Word rebuilds it from the styles.
 
 In your mind's eye: building the table of contents.
+
+[Picture 45497 — building the table of contents]
 
 ## Say it to your companion
 
