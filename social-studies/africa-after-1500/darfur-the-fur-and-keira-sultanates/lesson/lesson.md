@@ -10,6 +10,8 @@ the west's great sultanate runs on customary law, granted land and the pilgrim r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39079 — the sultan, a land grant and the pilgrim road]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Islamic Sultanates in Sudan (4) — the west's great sultanate runs on customary law, granted land and the pilgrim road. Then let your companion ask you one hard question about it — answer from the lesson.

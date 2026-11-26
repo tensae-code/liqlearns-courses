@@ -10,6 +10,8 @@ Every colonial administration asks the same question — how to make the colony 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39083 — coins flowing from a village to the metropole]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The economies of the colonial territories — every colonial administration asks the same question — how to make the colony pay the metropole the highest possible return. Then let your companion ask you one hard question about it — answer from the lesson.

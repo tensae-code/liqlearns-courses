@@ -10,6 +10,8 @@ Colonisation remakes Mozambican society — new classes form with the colonial e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39074 — two wages — a tall stack against one coin]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Colonial social policy in Mozambique — colonisation remakes Mozambican society — new classes form with the colonial economy, and racial discrimination and wage injustice become everyday facts. Then let your companion ask you one hard question about it — answer from the lesson.

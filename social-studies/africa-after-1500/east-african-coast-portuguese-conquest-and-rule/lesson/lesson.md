@@ -10,6 +10,8 @@ The Portuguese come to the East African coast looking for ports on the sea route
 
 In your mind's eye: portuguese sailing ships anchored off a Swahili coastal city, with tribute being demanded on the shore. Say why the Portuguese came and which cities were plundered.
 
+[Picture 39082 — Portuguese ships off a Swahili city, tribute demanded]
+
 ## Sub lesson 2 — One province — until Oman drives them out
 
 The Portuguese hold the coast as one province. Their rule lasts until Oman drives them out — the end the Nigerian book gives this conquest story.

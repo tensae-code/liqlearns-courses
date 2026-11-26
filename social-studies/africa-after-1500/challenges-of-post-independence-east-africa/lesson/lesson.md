@@ -10,11 +10,15 @@ The new states inherit illiteracy, poor transport, civil wars, coups and human-r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39069 — three challenges — illiteracy, poor transport, civil wars]
+
 ## Sub lesson 2 — The Road to Independence
 
 After independence the region's economies stall — little to export, low income, poverty and poor living standards are the inheritance the lessons name
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39070 — a near-empty stall — the economies stall]
 
 ## Say it to your companion
 

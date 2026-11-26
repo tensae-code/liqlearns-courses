@@ -9163,3 +9163,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45259 | pictures/45259.webp | a drawn open dictionary spread — a drawn printer on the left page, the word printer written out with ruled lines on the right | ICT — Hardware — Project — An Illustrated Mini-Dictionary of Computer Hardware |
 | 45260 | pictures/45260.webp | a drawn square wave — high, low, high, low, four rectangular pulses marching along the time axis, the machine's heartbeat | ICT — Hardware — Pulse Generators — and the Clock Signal |
 | 45261 | pictures/45261.webp | a drawn conductor — a figure with a baton before CPU, memory, disk and screen blocks, every block stepping on the same tick of the clock | ICT — Hardware — Pulse Generators — and the Clock Signal |
+| 39066 | pictures/39066.webp | Six flags on a timeline mark the islands' revolts, 1811 to 1910 | Social Studies — Africa after 1500 — Cabo Verde — popular revolts |
+| 39067 | pictures/39067.webp | Two ballot scenes: one party's banner, then many parties in 1991 | Social Studies — Africa after 1500 — Cabo Verde — the two Republics |
+| 39068 | pictures/39068.webp | Van Riebeeck's 1652 refreshment station grows into farms, settlers arriving in 1820 | Social Studies — Africa after 1500 — Cape Colony and the frontier wars |
+| 39069 | pictures/39069.webp | Three panels of post-independence challenges: illiteracy, poor transport, civil wars | Social Studies — Africa after 1500 — Challenges of post-independence East Africa |
+| 39070 | pictures/39070.webp | A near-empty market stall and an empty basket: the economies stall | Social Studies — Africa after 1500 — Challenges of post-independence East Africa |
+| 39071 | pictures/39071.webp | Settler families arrive by ship and build new homes under harder rules | Social Studies — Africa after 1500 — Changes in Portuguese colonial policy after 1950 |
+| 39072 | pictures/39072.webp | Workers carry bales that sail away to Lisbon | Social Studies — Africa after 1500 — Colonial economic exploitation in Mozambique |
+| 39073 | pictures/39073.webp | A tilted balance: gold and ivory weigh heavy, beads light | Social Studies — Africa after 1500 — Colonial plunder and unequal trade |
+| 39074 | pictures/39074.webp | Two wage panels: a tall coin stack for the settler, one coin for the African | Social Studies — Africa after 1500 — Colonial social policy and racial discrimination in Mozambique |
+| 39075 | pictures/39075.webp | Leopold with his rubber vine, an arrow of years, then Lumumba's flag | Social Studies — Africa after 1500 — The Congo — from Leopold to Lumumba |
+| 39076 | pictures/39076.webp | Coastal mosque towns, Makua warriors and inland peoples of the north | Social Studies — Africa after 1500 — Conquest and resistance in northern Mozambique |
+| 39077 | pictures/39077.webp | The Mozambique Company's post flies its own flag over the centre | Social Studies — Africa after 1500 — Conquest of central Mozambique |
+| 39078 | pictures/39078.webp | Gaza's shield warriors man their wall as the colonial column approaches | Social Studies — Africa after 1500 — Conquest of the south — the fall of Gaza |
+| 39079 | pictures/39079.webp | Darfur's sultan with a land-grant paper and a camel on the pilgrim road | Social Studies — Africa after 1500 — Darfur — the Fur and Keira sultanates |
+| 39080 | pictures/39080.webp | People of many groups gather under one flag as the sun rises | Social Studies — Africa after 1500 — Driving forces of African nationalism |
+| 39081 | pictures/39081.webp | Kenya, Uganda and Tanganyika panels with the links between them crossed out | Social Studies — Africa after 1500 — Early attempts at East African federation |
+| 39082 | pictures/39082.webp | Portuguese sailing ships anchor off a Swahili city while tribute is demanded | Social Studies — Africa after 1500 — East African coast — Portuguese conquest and rule |
+| 39083 | pictures/39083.webp | Coins flow from an African village to the metropole's counting house | Social Studies — Africa after 1500 — Economies of the colonial territories |
+| 39084 | pictures/39084.webp | Egypt's pyramid beside the founders' table of the OAU and the African Union | Social Studies — Africa after 1500 — Egypt and Africa's regional organisations |
+| 39085 | pictures/39085.webp | Egyptian soldiers march south along the Nile as Khartoum rises | Social Studies — Africa after 1500 — Egypt and Sudan under Muhammad Ali and his successors |
+| 39086 | pictures/39086.webp | Khedive Ismail's railway and telegraph lines, with the debt growing | Social Studies — Africa after 1500 — Egypt and Sudan under Muhammad Ali and his successors |
+| 39087 | pictures/39087.webp | Mamluk swordsmen face Selim's Ottoman soldiers and cannon by the pyramids | Social Studies — Africa after 1500 — Egypt between the Mamluks and the Ottomans |
+| 39088 | pictures/39088.webp | Marchers with flags in 1919, the palace standing behind them | Social Studies — Africa after 1500 — Egypt — from the protectorate to the July 1952 Revolution |
+| 39089 | pictures/39089.webp | A treaty paper lies on the table between a British official and an Egyptian minister | Social Studies — Africa after 1500 — Egypt — from the protectorate to the July 1952 Revolution |

@@ -10,6 +10,8 @@ Colonial oppression falls on all Africans, but some groups understand the situat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39080 — many peoples under one movement's flag]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The driving forces of nationalism — colonial oppression falls on all Africans, but some groups understand the situation first and turn grievance into ideas and action. Then let your companion ask you one hard question about it — answer from the lesson.

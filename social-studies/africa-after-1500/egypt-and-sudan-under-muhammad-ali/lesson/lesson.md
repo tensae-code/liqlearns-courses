@@ -10,11 +10,15 @@ Muhammad Ali drives into Sudan to widen Egypt's borders, crush the Mamluks who f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39085 — Egypt's army marching south along the Nile]
+
 ## Sub lesson 2 — Egypt's role under Muhammad Ali's successors
 
 Khedive Ismail pushes the Egyptian flag to Lakes Albert and Victoria and the Somali coast, maps the continent in the Khedivial map of 1877, and builds schools, railways, telegraph lines and the Khartoum post office — but debt, crisis and foreign officials such as Gordon hollow the project out and open the road to Britain.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39086 — a railway and telegraph — and growing debt]
 
 ## Say it to your companion
 

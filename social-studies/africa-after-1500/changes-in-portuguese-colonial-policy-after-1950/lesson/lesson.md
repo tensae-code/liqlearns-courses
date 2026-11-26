@@ -10,6 +10,8 @@ From the mid-20th century settler population swells and exploitation intensifies
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39071 — settlers arriving, new homes, harder rules]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Changes in colonial policy after 1950 — from the mid-20th century settler population swells and exploitation intensifies; the lesson asks why Portuguese colonial policy changed when it did. Then let your companion ask you one hard question about it — answer from the lesson.

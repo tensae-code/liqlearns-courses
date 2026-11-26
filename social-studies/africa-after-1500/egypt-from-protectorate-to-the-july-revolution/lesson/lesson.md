@@ -10,11 +10,15 @@ The 1919 revolution and Saad Zaghloul, the declaration of 28 February 1922 and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39088 — the people marching in 1919, the palace behind]
+
 ## Sub lesson 2 — Chapter 4: Egypt after the First World War
 
 From the 1919 revolution through the treaty age to the eve of 1952 — Egypt's interwar struggle for full independence.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39089 — the treaty paper on the table between Britain and Egypt]
 
 ## Say it to your companion
 

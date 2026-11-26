@@ -10,6 +10,8 @@ The conquest begins in the south, where the Gaza state stands as the obstacle to
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39078 — Gaza's warriors on their wall, the column approaching]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Conquest of the south — the fall of Gaza — the conquest begins in the south, where the Gaza state stands as the obstacle to colonial rule in the region and the whole country. Then let your companion ask you one hard question about it — answer from the lesson.

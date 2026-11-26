@@ -10,6 +10,8 @@ The poor of the islands rise again and again — Ribeira Grande 1811, the Engenh
 
 In your mind's eye: a timeline with six flags planted on it — 1811, 1822, 1835, 1841, 1847, 1910. The student reads the flags in order and says what the people rose against.
 
+[Picture 39066 — a timeline of six revolt flags, 1811 to 1910]
+
 
 ## Sub lesson 2 — Ribeirão Manuel, 1910
 

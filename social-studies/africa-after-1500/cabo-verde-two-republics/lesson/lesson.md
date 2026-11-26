@@ -10,6 +10,8 @@ The First Republic rules one-party under the PAIGC/PAICV with its first leaders 
 
 In your mind's eye: two ballot scenes: one with a single party's banner, and one in 1991 with many parties' banners over a polling station. Say which Republic each scene belongs to.
 
+[Picture 39067 — two ballot scenes — one party, then many]
+
 
 ## Sub lesson 2 — The Second Republic, 1991
 

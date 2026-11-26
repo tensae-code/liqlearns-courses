@@ -10,6 +10,8 @@ The north's diversity resists as diversely — Islamised coastal formations, Mak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39076 — the north's peoples ready to resist]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Conquest and resistance in the north — the north's diversity resists as diversely — Islamised coastal formations, Makua confederations in Nampula, Yao states in Niassa and lineage societies inland. Then let your companion ask you one hard question about it — answer from the lesson.

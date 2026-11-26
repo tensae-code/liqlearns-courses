@@ -10,6 +10,8 @@ Egypt stands among the founders of the Organisation of African Unity in 1963 and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39084 — leaders at the union table, OAU 1963 and AU 2002]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Egypt and the regional organisations in Africa. Then let your companion ask you one hard question about it — answer from the lesson.

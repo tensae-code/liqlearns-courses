@@ -10,6 +10,8 @@ From the 16th century Europe drains African wealth — goods seized, people traf
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39073 — rigged scales — gold and ivory against beads]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Colonial plunder and unequal trade — from the 16th century Europe drains African wealth — goods seized, people trafficked, trades rigged unequal — and the plunder builds European capitalism. Then let your companion ask you one hard question about it — answer from the lesson.

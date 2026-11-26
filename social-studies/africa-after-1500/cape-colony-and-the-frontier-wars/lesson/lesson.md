@@ -10,6 +10,8 @@ Van Riebeeck's 1652 refreshment station grows into a settler colony. Its trekboe
 
 In your mind's eye: the Cape refreshment station in 1652 growing into farms, with Xhosa frontier country beyond and British settler ships arriving in 1820. The student tells the Dutch and British parts in order.
 
+[Picture 39068 — the 1652 refreshment station growing into farms]
+
 ## Sub lesson 2 — Britain takes the Cape — the reforms to 1835
 
 Britain takes the Cape twice, lands 5,000 settlers in 1820, anglicises law and language and emancipates the slaves — reforms the Boers read as an attack on their whole way of life.
