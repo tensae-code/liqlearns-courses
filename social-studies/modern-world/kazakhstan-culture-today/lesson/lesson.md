@@ -10,11 +10,15 @@ a post-Soviet culture searches for its own voice
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64089 — culture seeks its own voice]
+
 ## Sub lesson 2 — §30 The development of the culture of independent Kazakhstan
 
 a post-Soviet culture searches for its voice
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64090 — a culture finds its voice]
 
 ## Say it to your companion
 

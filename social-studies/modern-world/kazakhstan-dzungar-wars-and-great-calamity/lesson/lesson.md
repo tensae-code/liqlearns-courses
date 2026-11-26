@@ -10,11 +10,15 @@ a weakened khanate faces Dzungars, Russians and khanates at once
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64099 — a weakened khanate]
+
 ## Sub lesson 2 — §2 Organising the all-people's resistance to the Dzungar invasion
 
 the three zhuzes unite their militias against the invader
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64100 — three zhuzes unite]
 
 ## Sub lesson 3 — §3 The years of the Great Calamity — 'Aktaban Shubyryndy'
 
@@ -22,11 +26,15 @@ the barefoot flight of 1723 leaves the steppe starving and scattered
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64101 — the barefoot flight]
+
 ## Sub lesson 4 — §4 Organising the united people's militia
 
 Abylai's generation rebuilds a single Kazakh army
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64102 — one army rebuilt]
 
 ## Sub lesson 5 — §5 The Battle of Anrakai and its historical significance
 
@@ -34,11 +42,15 @@ the 1729/30 victory at Anrakai turns the war against the Dzungars
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64103 — victory at anrakai]
+
 ## Sub lesson 6 — §6 Famous khans, biys and batyrs in the struggle against the Dzungar invasion
 
 Bogenbai, Kabanbai and Raiymbek become the war's remembered heroes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64104 — the remembered heroes]
 
 ## Sub lesson 7 — §§1–2 The Patriotic War against the Dzungar invaders begins
 
@@ -46,17 +58,23 @@ the khanate rallies as Dzungar armies strike in 1723
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64105 — the war begins 1723]
+
 ## Sub lesson 8 — §§3–4 Organising the all-people's resistance to the Dzungar invasion
 
 zhuz militias unite under common command
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64106 — one command]
+
 ## Sub lesson 9 — §§5–6 Kazakh-Dzungar relations and the war's course
 
 victories at Bulanty and Anrakai break the invasion
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64107 — the invasion broken]
 
 ## Say it to your companion
 

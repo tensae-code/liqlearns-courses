@@ -10,11 +10,15 @@ cities swell, villages age, Kazakhs become a minority in their own republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64093 — cities swell villages age]
+
 ## Sub lesson 2 — §9 Demographic processes in the stagnation years
 
 cities swell; Kazakhs are a minority in their own republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64094 — a minority in their own republic]
 
 ## Say it to your companion
 

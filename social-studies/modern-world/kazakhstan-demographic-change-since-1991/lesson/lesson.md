@@ -10,11 +10,15 @@ emigration, return of oralmans, a falling then recovering population
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64091 — leave return recover]
+
 ## Sub lesson 2 — §21 Socio-demographic processes in the first years of independence
 
 emigration and oralman return reshape the population
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64092 — emigration and return]
 
 ## Say it to your companion
 

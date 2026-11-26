@@ -10,6 +10,8 @@ novels, films and opera negotiate with censorship
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64088 — four decades of art]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §12 The development of literature and art in the 1940s–80s — novels, films and opera negotiate with censorship. Then let your companion ask you one hard question about it — answer from the lesson.

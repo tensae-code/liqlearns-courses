@@ -10,11 +10,15 @@ collapse, tenge, oil contracts — the economy bottoms out and turns
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64108 — bottoming out then turning]
+
 ## Sub lesson 2 — §49. Results of the Republic of Kazakhstan's economic development: achievements and problems
 
 growth returns on oil — and dependence deepens with it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64109 — growth and dependence]
 
 ## Sub lesson 3 — §20 Economic development of Kazakhstan in the first years of independence
 

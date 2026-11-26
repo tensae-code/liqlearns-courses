@@ -42,11 +42,15 @@ zhyrau poetry preserves the calamity's memory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64086 — poetry preserves the calamitys memory]
+
 ## Sub lesson 6 — §§15–16 The Kazakhs' material culture in the 18th century
 
 yurt, craft and costume sustain steppe life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64087 — life sustained]
 
 ## Say it to your companion
 
