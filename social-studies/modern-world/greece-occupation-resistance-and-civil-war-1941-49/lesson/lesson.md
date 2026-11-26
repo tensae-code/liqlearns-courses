@@ -10,17 +10,23 @@ resistance movements free mountains and sabotage the occupier, liberation slides
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63476 — a decade of struggles]
+
 ## Sub lesson 2 — §48 Occupation, Resistance and Liberation
 
 famine winters, EAM's mountain state, Gorgopotamos, and a liberation already shadowed by December 1944
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63477 — shadowed by december]
+
 ## Sub lesson 3 — §54a The Civil War and the main problems of post-civil-war Greece (1944–1963)
 
 Dekemvriana, the mountain war of 1946–49, and a wounded, policed democracy that follows
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63478 — a wounded democracy]
 
 ## Say it to your companion
 

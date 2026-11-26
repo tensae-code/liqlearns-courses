@@ -10,6 +10,8 @@ risings in Thessaly, Epirus, Macedonia and Crete send wave after wave of refugee
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63482 — wave after wave]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3 D: Refugees and irredentist movements in the 19th century — risings in Thessaly, Epirus, Macedonia and Crete send wave after wave of refugees into the kingdom, keeping the Great Idea alive. Then let your companion ask you one hard question about it — answer from the lesson.

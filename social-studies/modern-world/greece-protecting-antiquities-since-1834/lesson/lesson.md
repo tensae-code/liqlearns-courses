@@ -10,11 +10,15 @@ the new kingdom's 1834 antiquities law is among Europe's first; a century and a 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63480 — among europes first 1834]
+
 ## Sub lesson 2 — Chapter 4.2–4.4: The bodies, the scientists and today's framework
 
 the Ministry of Culture, the Archaeological Society (1837) and generations of conservators form the machine that runs Greek protection today
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63481 — the protection machine]
 
 ## Say it to your companion
 

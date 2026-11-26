@@ -10,11 +10,15 @@ Seferis and Elytis win Nobels while Cavafy's Alexandria poems conquer the world 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63465 — two nobels]
+
 ## Sub lesson 2 — Arts in 20th-century Greece
 
 painters, sculptors and filmmakers search for a modern Greek style between folk tradition and Europe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63466 — between folk and europe]
 
 ## Sub lesson 3 — Greek culture in the 20th century
 
@@ -22,11 +26,15 @@ from the Generation of the '30s to Nobel poets, Greece argues with its past in m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63467 — arguing with its past]
+
 ## Sub lesson 4 — Artistic and intellectual life in 20th-century Greece
 
 Kontoglou to Tsarouchis in painting, Theodorakis in music, Cavafy's afterlife in poetry — Greece argues its identity in modern forms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63468 — identity in modern forms]
 
 ## Say it to your companion
 

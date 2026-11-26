@@ -10,6 +10,8 @@ the 1844 constitution, the slow death of the 'foreign' parties, a 'new generatio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63479 — parliamentary rule crowned]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2 B: Emancipation and reform (1844–1880) — the 1844 constitution, the slow death of the 'foreign' parties, a 'new generation' of politicians, and the 1862–64 Assembly that crowns parliamentary rule. Then let your companion ask you one hard question about it — answer from the lesson.

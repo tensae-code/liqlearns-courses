@@ -10,11 +10,15 @@ Greeks flee massacres in Asia Minor, Constantinople, Cyprus, Chios and Crete int
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63483 — arguing over their care]
+
 ## Sub lesson 2 — Theme 3 C: Refugee rehabilitation under Otto's monarchy (1833–1862)
 
 the Bavarian state settles war refugees while 'autochthones' and 'heterochthones' fight over jobs and rights
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63484 — jobs and rights fought over]
 
 ## Say it to your companion
 

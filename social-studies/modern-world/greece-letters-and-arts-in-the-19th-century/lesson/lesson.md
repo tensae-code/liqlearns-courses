@@ -10,17 +10,23 @@ a new state argues over its language, writes its novels and poems, and paints it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63462 — arguing over language]
+
 ## Sub lesson 2 — Intellectual and artistic Greece in the 19th century
 
 Athens builds a neoclassical capital and argues in poetry and prose over the nation's language
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63463 — a neoclassical capital]
+
 ## Sub lesson 3 — Artistic and intellectual life in 19th-century Greece
 
 the Munich School paints the new nation's heroes and peasants while Athens rebuilds itself in neoclassical marble
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63464 — painted heroes]
 
 ## Say it to your companion
 

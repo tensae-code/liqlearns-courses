@@ -10,6 +10,8 @@ Crete rises in 1821, 1866, 1878 and 1897, wins autonomy under Prince George, and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63485 — rises waits for union]
+
 ## Sub lesson 2 — The Cretan question (1821–1905)
 
 Crete rises again and again against Ottoman rule, wins autonomy under Prince George, and waits for union with Greece

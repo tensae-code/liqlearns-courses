@@ -10,17 +10,23 @@ famine winters, a mass resistance movement in mountains and cities, and liberati
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63473 — liberation shadowed]
+
 ## Sub lesson 2 — Occupation and National Resistance
 
 famine, collaboration, and a resistance that liberates much of the countryside before Athens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63474 — the countryside first]
+
 ## Sub lesson 3 — Occupation and the National Resistance
 
 famine, the great resistance organisations of town and mountain, and liberation shadowed by the first clashes of Greeks with Greeks
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63475 — greeks with greeks]
 
 ## Say it to your companion
 
