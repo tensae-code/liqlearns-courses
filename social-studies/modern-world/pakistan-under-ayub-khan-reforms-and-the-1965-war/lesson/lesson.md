@@ -10,11 +10,15 @@ A general promises development instead of politics, builds dams and factories, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40806 — damsnotpolitics]
+
 ## Sub lesson 2 — The war of 1965
 
 Kashmir sparks a seventeen-day war that ends where it began but lives on as a national epic.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40805 — seventeendays]
 
 ## Say it to your companion
 

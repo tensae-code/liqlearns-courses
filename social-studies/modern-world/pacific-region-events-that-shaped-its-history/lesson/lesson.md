@@ -10,11 +10,15 @@ King George Tupou I's Tonga expansion wars and his stand as "Maker of Modern Ton
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40815 — kingscoupscrises]
+
 ## Sub lesson 2 — Events that occurred in the Pacific Region
 
 Independence comes unevenly — different colonial masters, most of Melanesia free in the 1970s under indigenous elites, then the crises: Bougainville's resource rebellion, Fiji's denial of Indo-Fijian rights, and island economies dependent on foreign companies extracting timber, minerals, oil and fish
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40814 — wealthsailsaway]
 
 ## Say it to your companion
 

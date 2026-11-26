@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the eastern neighbour 
 the eastern neighbour is surveyed from partition onward, including the separation of East Pakistan (Bangladesh)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40808 — twowings]
 ## Sub lesson 2 — Chapter 3 (Afghanistan's Neighbouring Countries), Lesson 29: The Islamic Republic of Pakistan
 
 the eastern neighbour surveyed as a modern republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40807 — neighboursurveyed]
 
 ## Say it to your companion
 

@@ -10,17 +10,23 @@ A state born in partition must house, feed and govern millions before it has off
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40811 — noofficesyet]
+
 ## Sub lesson 2 — The Objectives Resolution, 1949
 
 Before any constitution, the founding assembly agrees sovereignty belongs to Allah and power is a trust from the people.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40810 — powerintrust]
+
 ## Sub lesson 3 — Three constitutions — 1956, 1962 and 1973
 
 It takes three constitutions and twenty-six years for Pakistan to settle the rules its founders argued over.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40809 — threeconstitutions]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Guadalcanal and Malaita tensions explode in 1998; the Malaita Eagle Force seizes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40817 — eightnationsland]
+
 ## Sub lesson 2 — Foreign intervention
 
 Intervention against isolationism — sanctions, embargoes, blockades and armies; the Iraq wars' cost to the US is the worked example of what intervening does to the intervener
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40816 — steppingincost]
 
 ## Say it to your companion
 

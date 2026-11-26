@@ -10,11 +10,15 @@ The Absentees' Property Law hands the state the lands of Palestinians driven out
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40804 — presentabsent]
+
 ## Sub lesson 2 — Unit 2 Lesson 3: the Palestinian national movement organises
 
 At the Palestinian Arab congress in Jerusalem on 28 May 1964 the Palestine Liberation Organization is founded under Ahmad Shuqairi, to fight the battle of liberation and affirm the Palestinian Arab's right in his homeland (Unit 2 Lesson 3: the Palestinian national movement organises)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40803 — movementorganises]
 
 ## Sub lesson 3 — Unit 4 Lesson 2: the All-Palestine Government
 
@@ -22,11 +26,15 @@ In 1948 Palestinians proclaim the All-Palestine Government in Gaza under Haj Ami
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40802 — governmentpressedaway]
+
 ## Sub lesson 4 — Unit 4 Lesson 3: Palestine divided after 1948
 
 Inside the new state, laws do the demographic work — army land confiscation (1949), the Absentees' Property Law and the Law of Return (both 1950); the Jericho Conference (1 December 1948) resolves to join the West Bank to Jordan, and Gaza (365 km²) passes under Egyptian administration (Unit 4 Lesson 3: Palestine divided after 1948)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40801 — dividedbylaws]
 
 ## Sub lesson 5 — Unit 4 Lesson 4: Palestine in the 1956 Tripartite Aggression
 
@@ -34,11 +42,15 @@ Gaza is occupied during the attack on Egypt and pays in massacres — the lesson
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40800 — countedbytown]
+
 ## Sub lesson 6 — Unit 4 Lesson 5: the PLO and the contemporary revolution
 
 The first Palestinian National Council meets in Jerusalem on 28 May 1964 with King Hussein present and founds the PLO under Ahmad Shuqairi; Fatah launches on 1 January 1965 with the Eilabun operation, Yahya Hammuda holds the chair in between, and Yasser Arafat takes the leadership in 1969 (Unit 4 Lesson 5: the PLO and the contemporary revolution)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40799 — founded1964]
 
 ## Sub lesson 7 — Unit 5 Lesson 2: the Battle of Karameh 1968
 
@@ -46,11 +58,15 @@ On the morning of Thursday 21 March 1968 the Palestinian resistance and the Jord
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40798 — karamehhope]
+
 ## Sub lesson 8 — Unit 5 Lesson 3: settlement colonisation after 1967
 
 The old legal tools are reused — absentee-property and "state land" declarations — settlements climb the hilltops under plans like Allon's, the wall (begun 2002) follows, and the lesson sets the law against it: Geneva IV Article 49(6), The Hague 1907, and the International Court of Justice's 2004 advisory opinion (Unit 5 Lesson 3: settlement colonisation after 1967)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40797 — lawobjects]
 
 ## Sub lesson 9 — Unit 6 Lesson 1: the Palestinian revolution 1970–1976
 
@@ -58,17 +74,23 @@ Driven from Jordan in 1971, the PLO rebuilds in Lebanon; Israel assassinates Kam
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40796 — rebuiltinlebanon]
+
 ## Sub lesson 10 — Unit 6 Lesson 2: Palestine in the 1978 Egyptian–Israeli peace
 
 Sadat's 1977 Jerusalem speech and the Camp David framework leave the West Bank and Gaza to staged negotiations; the Arab world erupts in rejection and the Steadfastness Front forms at the 1977 Tripoli summit — Syria, Libya, Algeria, Yemen and the PLO (Unit 6 Lesson 2: Palestine in the 1978 Egyptian–Israeli peace)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40795 — frontrefuses]
+
 ## Sub lesson 11 — Unit 6 Lesson 3: the invasions of Lebanon 1978–1982
 
 In 1982 the invasion reaches Beirut — the stand at Beaufort Castle, then an 80-day siege of West Beirut with power, food, medicine and fuel cut — until the revolution's fighters evacuate the city (Unit 6 Lesson 3: the invasions of Lebanon 1978–1982)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40794 — eightydayssiege]
 
 ## Sub lesson 12 — Unit 6 Lesson 4: the 1987 Intifada
 

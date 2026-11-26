@@ -10,11 +10,15 @@ Pacific nations build their own institutions together — the South Pacific Foru
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40813 — forumandusp]
+
 ## Sub lesson 2 — Part 4, Units 2–3
 
 shut out of politics at the South Pacific Commission, the new island leaders found the South Pacific Forum at Wellington in 1971 (Sāmoa among the seven founders), build SPEC (1973), the Forum Fisheries Agency and SOPAC, win the 1989 driftnet ban, and crown regional co-operation with the 1985 Rarotonga Treaty making the South Pacific a nuclear free zone
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40812 — nuclearfreeagreed]
 
 ## Say it to your companion
 
