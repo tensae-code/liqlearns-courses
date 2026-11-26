@@ -10,17 +10,23 @@ The Punto Fijo pact trades dictatorship for party democracy, the 1960 agrarian r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39731 — land]
+
 ## Sub lesson 2 — Representative democracy returns with a political pact
 
 The Punto Fijo pact refounds democracy by agreement among parties, setting the rules of the next forty years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39730 — pact]
+
 ## Sub lesson 3 — Governments of Betancourt and Leoni (1959–1969)
 
 Punto Fijo democracy opens under guerrilla challenge, founds OPEC diplomacy and hands power peacefully to the opposition
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39729 — sash]
 
 ## Say it to your companion
 

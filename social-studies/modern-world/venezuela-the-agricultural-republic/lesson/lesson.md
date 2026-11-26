@@ -10,6 +10,8 @@ In 1830 a Congress meets to found the separate republic, opening the long agricu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39715 — congress]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Some presidents and events of the Agricultural Republican Period — in 1830 a Congress meets to found the separate republic, opening the long agricultural age and its line of presidents. Then let your companion ask you one hard question about it — answer from the lesson.

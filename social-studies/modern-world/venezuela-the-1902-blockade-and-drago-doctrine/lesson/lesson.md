@@ -10,17 +10,23 @@ European fleets blockade the ports to collect debts by force; the Drago Doctrine
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39718 — chain]
+
 ## Sub lesson 2 — A December of cannon fire: 1902
 
 In December 1902 foreign warships blockade Venezuela violently over its debts, and a child of the time hears the guns
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39717 — window]
+
 ## Sub lesson 3 — The blockade of Venezuelan coasts, 1902
 
 British, German and Italian warships blockade the coasts to collect debts by force, the crisis that produces the Drago answer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39716 — fleet]
 
 ## Say it to your companion
 

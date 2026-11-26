@@ -10,6 +10,8 @@ Parties, constitutions and new political habits appear one after another as the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39733 — panels]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Political novelties of the first republican century — parties, constitutions and new political habits appear one after another as the young republic experiments with ruling itself. Then let your companion ask you one hard question about it — answer from the lesson.

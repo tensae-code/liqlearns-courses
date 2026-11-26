@@ -10,6 +10,8 @@ A single timeline cuts 1830–1908 into named periods — Páez, Monagas, Federa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39735 — timeline]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Periods of the political history of agrarian Venezuela (timeline) — a single timeline cuts 1830–1908 into named periods — Páez, Monagas, Federal War, Federation, Yellow Liberalism, Castro — teaching periodisation itself. Then let your companion ask you one hard question about it — answer from the lesson.

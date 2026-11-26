@@ -10,11 +10,15 @@ By the fifteenth century the story opens, and Venezuela's economy is divided int
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39737 — book]
+
 ## Sub lesson 2 — Cacao, coffee, oil and population
 
 Three export products in a row remake where Venezuelans live and how many they are — each crop, then oil, redraws the population map
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39736 — products]
 
 ## Say it to your companion
 

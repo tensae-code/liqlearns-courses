@@ -10,6 +10,8 @@ The Afro-Venezuelan feast of San Juan keeps African memory alive in song and dru
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39728 — feast]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: San Juan Congo — the Afro-Venezuelan feast of San Juan keeps African memory alive in song and drum, a heritage carried by the descendants of the enslaved. Then let your companion ask you one hard question about it — answer from the lesson.

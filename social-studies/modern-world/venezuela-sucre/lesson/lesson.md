@@ -10,11 +10,15 @@ A state bears a great man's name, so two children reconstruct Antonio José de S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39720 — statue]
+
 ## Sub lesson 2 — Sucre, a state with a hero's name; the valour and goodness of Sucre
 
 Cumaná's state is named for Antonio José de Sucre, whose childhood listening and refusal to shoot prisoners show goodness matching his valour
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39719 — gate]
 
 ## Say it to your companion
 

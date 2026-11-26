@@ -10,6 +10,8 @@ Venezuela enters satellite technology with China-built satellites named for Bol�
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39727 — satellites]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Communication sovereignty: the Simón Bolívar (2008) and Miranda (2013) satellites — Venezuela enters satellite technology with China-built satellites named for Bolívar and Miranda, launched as a public policy of integration. Then let your companion ask you one hard question about it — answer from the lesson.

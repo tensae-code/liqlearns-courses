@@ -10,6 +10,8 @@ From Manifest Destiny onward, outside interference is told as a constant pressin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39714 — cloud]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part III: the axis of violence — interference and integration — from Manifest Destiny onward, outside interference is told as a constant pressing on Venezuela, answered each time by a push for Latin American integration. Then let your companion ask you one hard question about it — answer from the lesson.

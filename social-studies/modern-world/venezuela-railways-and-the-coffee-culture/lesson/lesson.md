@@ -10,6 +10,8 @@ Railways stitch the coffee country to its ports, and a whole coffee culture of w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39732 — train]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The railways arrived; coffee culture in Yellow Liberal times — railways stitch the coffee country to its ports, and a whole coffee culture of work, taste and talk grows up around the bean. Then let your companion ask you one hard question about it — answer from the lesson.

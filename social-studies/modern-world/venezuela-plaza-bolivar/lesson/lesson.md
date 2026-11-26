@@ -10,6 +10,8 @@ A restless squirrel's square turns out to be the city's memory-place, named for 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39734 — plaza]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Plaza Bolívar of Caracas — a restless squirrel's square turns out to be the city's memory-place, named for the Liberator at its centre. Then let your companion ask you one hard question about it — answer from the lesson.

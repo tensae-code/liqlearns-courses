@@ -10,11 +10,15 @@ The great union breaks and Venezuela walks out to be its own republic in 1830 �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39726 — door]
+
 ## Sub lesson 2 — The destruction of Colombia
 
 Gran Colombia tears itself apart and is destroyed by 1830, leaving Venezuela separate as Bolívar dies
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39725 — tear]
 
 ## Say it to your companion
 

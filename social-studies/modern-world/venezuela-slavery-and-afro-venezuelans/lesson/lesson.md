@@ -10,11 +10,15 @@ Africans brought in chains and their descendants build the country while "gossip
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39722 — builders]
+
 ## Sub lesson 2 — Maroon settlements and cumbes of the enslaved
 
 The enslaved flee and found cimarroneras and cumbes — free African towns inside the colony that enslaved them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39721 — cumbe]
 
 ## Say it to your companion
 
