@@ -1,6 +1,6 @@
 # Sources — How information systems change society — gains and problems
 
-countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, Pakistan, Kazakhstan
+countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, Pakistan, Kazakhstan, Kenya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -199,3 +199,17 @@ Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика�
 
 Kazakhstan's own way (Kadirkulov G5 «Информатика»): Grade 5 in the Almatykitap line is a robotics year: after information representation (encryption, binary, binary-coded graphics) and raster/vector graphics, two full sections run LEGO robots — gyro sensor, turns, line following and robo-sumo competitions — before a closing safety section that ends with shared folders and mini-projects. Every term is glossed in three languages (Kazakh/Russian/English) in the margin.
 Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, armenia, grade 5, grade 6, grade 7, grade 9, indonesia, grade 10, vietnam, grade 10 tin học 10, pakistan, grade 11 computer science and entrepreneurship 11, kazakhstan, kopeeva g5 «информатика», vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition), kadirkulov g5 «информатика»
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 4)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 4, student book):** *Longhorn Secondary Computer Studies Student's Book Form 4* (student book) — Kenya, Longhorn Publishers PLC; authors S. Mburu & G. Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development (KICD). Revised 2018. ISBN 978-9966-49-578-5 (as printed on the back-cover barcode). Grade 12 (Form 4). 124 PDF pages; printed folio = PDF page − 5. File kenya-computer-form4.pdf, 18,414,138 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-12/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.3 Evolution and future trends of computing: breakthroughs in ICT; broadband information superhighway — printed p. 67 | Kenya, *Longhorn Secondary Computer Studies Form 4*, printed p. 67 |
+
+**Acceptance count: taught in 20 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 4) — the networks-and-society year — one long networking chapter taught down to crimping patch cables and configuring IP, then ICT's application areas and social impact, careers, and a complete worked computer-studies project (HorizonMiS, a motor-dealer MIS built in Access) as the final chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 4, how-information-systems-change-society

@@ -1,6 +1,6 @@
 # Sources — What networks are good for
 
-countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, Indonesia, Vietnam, South Sudan, Pakistan
+countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, Indonesia, Vietnam, South Sudan, Pakistan, Kenya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -89,3 +89,17 @@ South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book'
 
 Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
 Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, indonesia, grade 12, grade 10, vietnam, grade 10 tin học 10, south sudan, grade 10 s2 student, grade 10 s2 teacher, pakistan, grade 9 computer science 9
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 4)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 4, student book):** *Longhorn Secondary Computer Studies Student's Book Form 4* (student book) — Kenya, Longhorn Publishers PLC; authors S. Mburu & G. Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development (KICD). Revised 2018. ISBN 978-9966-49-578-5 (as printed on the back-cover barcode). Grade 12 (Form 4). 124 PDF pages; printed folio = PDF page − 5. File kenya-computer-form4.pdf, 18,414,138 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-12/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.4 Purpose and limitations of networking: benefits and limitations — printed p. 5 | Kenya, *Longhorn Secondary Computer Studies Form 4*, printed p. 5 |
+
+**Acceptance count: taught in 13 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 4) — the networks-and-society year — one long networking chapter taught down to crimping patch cables and configuring IP, then ICT's application areas and social impact, careers, and a complete worked computer-studies project (HorizonMiS, a motor-dealer MIS built in Access) as the final chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 4, what-networks-are-good-for

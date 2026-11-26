@@ -1,6 +1,6 @@
 # Sources — Health effects of information systems — benefits and harms
 
-countries: Ethiopia, Iraq, Bhutan, Greece, Bangladesh, Pakistan, Kazakhstan
+countries: Ethiopia, Iraq, Bhutan, Greece, Bangladesh, Pakistan, Kazakhstan, Kenya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -142,3 +142,17 @@ Kazakhstan's own way (Atayeva/Vyushkova/Zhurbenko G8 «Информатика» 
 
 Kazakhstan's own way (Pryanichnikova team G9 «Информатика» NIS): the NIS Grade 9 book is a step up in level: logic expressions, truth tables and logic circuits inside "computer architecture"; sound encoding beside raster encoding; single-table then multi-table databases in Access with forms, queries and reports; and a full object-oriented programming course in C# — components of OOP, multimedia applications, and a software-solution project with a video instruction and a slide show.
 Searchable tags: health information systems, eye strain, musculoskeletal pain, sleep disorders, addiction chain, Ethiopia Grade 12 IT, iraq, grade 7, bhutan, class vi, greece, grade 7 pliroforiki a gymnasiou, bangladesh, hsc ict classes xi xii and alim, pakistan, grade 6 computer science 6, kazakhstan, kadirkulov g8 informatika, lazarus edition, kadirkulov g8 informatika, python edition, salgaraeva g8 informatika, 2018 edition, shaniev g9 informatics, salgaraeva g8 informatika, updated edition, mukhametzhanova g8 informatika, adekenova & pryanichnikova g9 informatics, nis, yerzhanov g9 informatics, english-medium, zhunusov g8 informatics, bilingual edition, zhunusov g8 informatics, english-medium, mukametzhanova g8 «информатика», salgaraeva g9 «информатика», salgaraeva g8 «информатика», kadirkulov g8 «информатика» 2019 edition, kadirkulov g8 «информатика» 2023 edition, shaniyev team g9 «informatics», salgaraeva g8 «информатика» 2021 edition, mukametzhanova g8 «информатика» 2021 edition, atayeva/vyushkova/zhurbenko g8 «информатика» nis, pryanichnikova team g9 «информатика» nis
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 4)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 4, student book):** *Longhorn Secondary Computer Studies Student's Book Form 4* (student book) — Kenya, Longhorn Publishers PLC; authors S. Mburu & G. Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development (KICD). Revised 2018. ISBN 978-9966-49-578-5 (as printed on the back-cover barcode). Grade 12 (Form 4). 124 PDF pages; printed folio = PDF page − 5. File kenya-computer-form4.pdf, 18,414,138 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-12/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.2 Effects of ICT on workers' health — printed p. 65 | Kenya, *Longhorn Secondary Computer Studies Form 4*, printed p. 65 |
+
+**Acceptance count: taught in 8 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 4) — the networks-and-society year — one long networking chapter taught down to crimping patch cables and configuring IP, then ICT's application areas and social impact, careers, and a complete worked computer-studies project (HorizonMiS, a motor-dealer MIS built in Access) as the final chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 4, health-effects-of-information-systems

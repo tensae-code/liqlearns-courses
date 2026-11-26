@@ -1,6 +1,6 @@
 # Sources — Green technology and paperless systems
 
-countries: Ethiopia, Mozambique, Egypt, Mongolia, Greece, Jordan
+countries: Ethiopia, Mozambique, Egypt, Mongolia, Greece, Jordan, Kenya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -70,3 +70,17 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
 
 Searchable tags: green technology, paperless, solar, electric vehicles, smart meters, virtual laboratory, Ethiopia Grade 12 IT, mozambique, papua new guinea, grade 11, egypt, grade 7, mongolia, grade 12 it xii, greece, grade 8 pliroforiki b gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 4)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 4, student book):** *Longhorn Secondary Computer Studies Student's Book Form 4* (student book) — Kenya, Longhorn Publishers PLC; authors S. Mburu & G. Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development (KICD). Revised 2018. ISBN 978-9966-49-578-5 (as printed on the back-cover barcode). Grade 12 (Form 4). 124 PDF pages; printed folio = PDF page − 5. File kenya-computer-form4.pdf, 18,414,138 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-12/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.2 Effects of ICT on the environment — printed p. 65 | Kenya, *Longhorn Secondary Computer Studies Form 4*, printed p. 65 |
+
+**Acceptance count: taught in 7 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 4) — the networks-and-society year — one long networking chapter taught down to crimping patch cables and configuring IP, then ICT's application areas and social impact, careers, and a complete worked computer-studies project (HorizonMiS, a motor-dealer MIS built in Access) as the final chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 4, green-technology-and-paperless-systems

@@ -1,6 +1,6 @@
 # Sources — Writing Documentation for a Project
 
-countries: Kazakhstan
+countries: Kazakhstan, Kenya
 
 **Book 1:** *Mukhametzhanova G6 Informatika, 2018 edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 6 of the general school; authors Mukhambetzhanova S.T., Ten A.S., Kylyrbek O. Editions in this group: okulyk 184 (Kazakh, record 31 — read in full from its text layer). No parallel edition of this 2018 book is in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Atamura (Almaty); year 2018; no ISBN in the extracted text. PDF pages: 176 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
 
@@ -51,3 +51,17 @@ Kazakhstan's own way (Atayeva/Vyushkova/Zhurbenko G8 «Информатика» 
 Kazakhstan's own way (Pryanichnikova team G9 «Информатика» NIS): the NIS Grade 9 book is a step up in level: logic expressions, truth tables and logic circuits inside "computer architecture"; sound encoding beside raster encoding; single-table then multi-table databases in Access with forms, queries and reports; and a full object-oriented programming course in C# — components of OOP, multimedia applications, and a software-solution project with a video instruction and a slide show.
 
 Searchable tags: writing documentation for a project, word processing, kazakhstan, mukhametzhanova g6 informatika, 2018 edition, salgaraeva & ilyasova g6 informatika, adekenova & pryanichnikova g9 informatics, nis, ataeva & vyshkova g8 informatics, nis, mukametzhanova g6 «информатика», salgaraeva g6 «информатика», atayeva/vyushkova/zhurbenko g8 «информатика» nis, pryanichnikova team g9 «информатика» nis
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 4)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 4, student book):** *Longhorn Secondary Computer Studies Student's Book Form 4* (student book) — Kenya, Longhorn Publishers PLC; authors S. Mburu & G. Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development (KICD). Revised 2018. ISBN 978-9966-49-578-5 (as printed on the back-cover barcode). Grade 12 (Form 4). 124 PDF pages; printed folio = PDF page − 5. File kenya-computer-form4.pdf, 18,414,138 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-12/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.8 The HorizonMiS User Manual: loading the system, data entry procedure, generating reports, closing the system — printed p. 111 | Kenya, *Longhorn Secondary Computer Studies Form 4*, printed p. 111 |
+
+**Acceptance count: taught in 2 countries — Kenya added.**
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 4) — the networks-and-society year — one long networking chapter taught down to crimping patch cables and configuring IP, then ICT's application areas and social impact, careers, and a complete worked computer-studies project (HorizonMiS, a motor-dealer MIS built in Access) as the final chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 4, writing-documentation-for-a-project

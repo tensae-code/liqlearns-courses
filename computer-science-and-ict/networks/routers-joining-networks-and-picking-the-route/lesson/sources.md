@@ -1,6 +1,6 @@
 # Sources — Routers — joining networks and picking the route
 
-countries: Ethiopia, Bangladesh, Armenia, Vietnam, Pakistan, France
+countries: Ethiopia, Bangladesh, Armenia, Vietnam, Pakistan, France, Kenya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -53,3 +53,17 @@ Searchable tags: router, routing, routing table, best path, Grade 9 ICT Ethiopia
 France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
 
 Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, routers-joining-networks-and-picking-the-route
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 4)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 4, student book):** *Longhorn Secondary Computer Studies Student's Book Form 4* (student book) — Kenya, Longhorn Publishers PLC; authors S. Mburu & G. Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development (KICD). Revised 2018. ISBN 978-9966-49-578-5 (as printed on the back-cover barcode). Grade 12 (Form 4). 124 PDF pages; printed folio = PDF page − 5. File kenya-computer-form4.pdf, 18,414,138 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-12/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.5 Data communication devices: routers and internetworking devices — printed p. 20 | Kenya, *Longhorn Secondary Computer Studies Form 4*, printed p. 20 |
+
+**Acceptance count: Kenya added.** (This file carries a pre-existing countries/acceptance mismatch from the ICT expansion wave — left untouched, per the phantom-repair brief; no total is restated here.)
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 4) — the networks-and-society year — one long networking chapter taught down to crimping patch cables and configuring IP, then ICT's application areas and social impact, careers, and a complete worked computer-studies project (HorizonMiS, a motor-dealer MIS built in Access) as the final chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 4, routers-joining-networks-and-picking-the-route

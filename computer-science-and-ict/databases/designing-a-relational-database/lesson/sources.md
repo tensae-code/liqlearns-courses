@@ -1,6 +1,6 @@
 # Sources — Designing a Relational Database
 
-countries: Malaysia, Indonesia, Kazakhstan, France
+countries: Malaysia, Indonesia, Kazakhstan, France, Kenya
 
 **Book 1:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
@@ -46,3 +46,17 @@ Searchable tags: relational database design, entities, attributes, keys, databas
 France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
 
 Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, designing-a-relational-database
+
+## Kenya growth (2026-11-25, phantom repair — Longhorn Secondary Computer Studies Form 4)
+
+**Book (Kenya — Longhorn Secondary Computer Studies Form 4, student book):** *Longhorn Secondary Computer Studies Student's Book Form 4* (student book) — Kenya, Longhorn Publishers PLC; authors S. Mburu & G. Chemwa; Government of Kenya edition (Property of the Government of Kenya, NOT FOR SALE), approved by the Kenya Institute of Curriculum Development (KICD). Revised 2018. ISBN 978-9966-49-578-5 (as printed on the back-cover barcode). Grade 12 (Form 4). 124 PDF pages; printed folio = PDF page − 5. File kenya-computer-form4.pdf, 18,414,138 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-12/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.5 System design: system flowchart, output design, input design, database design, table design, hardware and software requirements — printed p. 85 | Kenya, *Longhorn Secondary Computer Studies Form 4*, printed p. 85 |
+
+**Acceptance count: Kenya added.** (This file carries a pre-existing countries/acceptance mismatch from the ICT expansion wave — left untouched, per the phantom-repair brief; no total is restated here.)
+
+Kenya's own way (Longhorn Secondary Computer Studies Form 4) — the networks-and-society year — one long networking chapter taught down to crimping patch cables and configuring IP, then ICT's application areas and social impact, careers, and a complete worked computer-studies project (HorizonMiS, a motor-dealer MIS built in Access) as the final chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, longhorn computer studies form 4, designing-a-relational-database
