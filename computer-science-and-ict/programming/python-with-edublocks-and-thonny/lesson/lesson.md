@@ -10,11 +10,15 @@ Grade 9 does not throw its learners at a bare editor. It gives them two careful 
 
 In your mind's eye: eduBlocks — Python built from blocks.
 
+[Picture 47533 — eduBlocks — Python built from blocks]
+
 ## Sub lesson 2 — Thonny — the environment built for beginners
 
 **Thonny** is a **Python environment (IDE) made for learners**: a simple editor above, the program's run below, and — its famous kindness — a **debugger that walks the program step by step**, showing each variable's value as it changes, so the machine's invisible work becomes watching a table fill. Greece's unit introduces both environments before data types and variables, in the book's own order: first the homes where Python will be lived in, then the language's furniture.
 
 In your mind's eye: thonny — the environment built for beginners.
+
+[Picture 47534 — thonny — the environment built for beginners]
 
 ## Say it to your companion
 

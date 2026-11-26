@@ -10,11 +10,15 @@ A **quantity** in an algorithm is known by three faces. Its **name**: the word t
 
 In your mind's eye: name, value, type — the three faces of a quantity.
 
+[Picture 47537 — name, value, type — the three faces of a quantity]
+
 ## Sub lesson 2 — The tethered horse — one problem, three tellings
 
 The book's example is Mongolian to the bone: a **horse tethered** by a rope grazes a circle of steppe — how large is its pasture? The problem is worked **in words** first (the grazing ground is a circle; its radius is the rope), then **as a model** (area from radius by the circle rule), then **in Turtle Art**, where the drawing blocks walk the circle the horse walks. Same quantities — rope, radius, area — in all three tellings: the horse teaches that an algorithm's quantities survive every change of clothing, from words to model to machine.
 
 In your mind's eye: the tethered horse — one problem, three tellings.
+
+[Picture 47538 — the tethered horse — one problem, three tellings]
 
 ## Say it to your companion
 

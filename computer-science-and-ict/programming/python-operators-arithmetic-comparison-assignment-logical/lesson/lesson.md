@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Operators and Expressions** — 
 
 In your mind's eye: operators and Expressions.
 
+[Picture 47523 — operators and Expressions]
+
 ## Sub lesson 2 — Doing it — Python Operators Arithmetic Comparison Assignment Logical in practice
 
 **Doing it — Python Operators Arithmetic Comparison Assignment Logical in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Python Operators Arithmetic Comparison Assignment Logical in practice.
+
+[Picture 47524 — doing it — Python Operators Arithmetic Comparison Assignment Logical in practice]
 
 ## Say it to your companion
 

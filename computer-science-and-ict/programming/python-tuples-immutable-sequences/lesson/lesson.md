@@ -10,11 +10,15 @@ A **tuple** holds values **in order**, like a list — but written in **round br
 
 In your mind's eye: a tuple — a list that cannot change.
 
+[Picture 47531 — a tuple — a list that cannot change]
+
 ## Sub lesson 2 — When fixedness is right
 
 Immutability is a **feature chosen on purpose**: a tuple holds data that **must not change** while the program runs — the days of the week, a point's coordinates (x, y), a record's fixed fields — where an accidental change would be a bug the program could not see. The course's rule of choice: a **list** for a collection the program will **build and change**; a **tuple** for a collection whose changing would be a **mistake**. Same order, same indexing — opposite promises.
 
 In your mind's eye: when fixedness is right.
+
+[Picture 47532 — when fixedness is right]
 
 ## Say it to your companion
 

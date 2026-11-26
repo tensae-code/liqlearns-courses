@@ -10,11 +10,15 @@ A **set** is a collection of **unique** values in **no fixed order**, written in
 
 In your mind's eye: what a set is.
 
+[Picture 47525 — what a set is]
+
 ## Sub lesson 2 — Set operations — the mathematics built in
 
 Python builds set mathematics in as operations: **union** (in either — `|`), **intersection** (in both — `&`), **difference** (in the first, not the second — `−`), and **symmetric difference** (in exactly one — `^`). Jordan's Grade 12 data-structures lesson places sets after lists, tuples and dictionaries because the four together are the chooser's kit: order-and-change (list), order-fixed (tuple), named (dictionary), unique (set) — and real data declares which it is, if the programmer listens.
 
 In your mind's eye: set operations — the mathematics built in.
+
+[Picture 47526 — set operations — the mathematics built in]
 
 ## Say it to your companion
 

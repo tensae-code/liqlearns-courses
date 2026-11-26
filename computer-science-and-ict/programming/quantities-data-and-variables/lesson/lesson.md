@@ -10,11 +10,15 @@ A **quantity** is anything a program works with — a number, a text, a measurem
 
 In your mind's eye: constants and variables — what may change.
 
+[Picture 47535 — constants and variables — what may change]
+
 ## Sub lesson 2 — Naming rules and data types
 
 A variable's **name** is under rules: it must begin with a letter, may join letters, digits and underscore into one word, takes no spaces, and must not be one of the language's own reserved words. Names are chosen to say what the variable holds. Values themselves have **types** — above all **numbers** and **text (strings)** — and the type decides what may be done with the value: numbers can be calculated with; text can be joined and compared. Mongolia's discipline: name the quantity, fix its type in your mind, and only then write the program that uses it.
 
 In your mind's eye: naming rules and data types.
+
+[Picture 47536 — naming rules and data types]
 
 ## Say it to your companion
 

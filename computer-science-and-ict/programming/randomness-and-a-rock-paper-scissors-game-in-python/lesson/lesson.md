@@ -10,11 +10,15 @@ A program gains **randomness** from a **random-choice tool**: Python's **random*
 
 In your mind's eye: randomness — chosen unpredictability.
 
+[Picture 47541 — randomness — chosen unpredictability]
+
 ## Sub lesson 2 — Rock-paper-scissors — the game built whole
 
 The unit's game is the classic three: the player enters **rock, paper or scissors**; the computer **chooses randomly**; the **rules judge** (rock breaks scissors, scissors cut paper, paper wraps rock; equal choices draw); the round is **reported** and the game repeats. Small as it is, the program spends the whole Python the unit has taught — input, variables, selection over both choices, randomness — which is why the book places it as the unit's summit: a complete, honest game, unrigged because its opponent's heart is a random choice.
 
 In your mind's eye: rock-paper-scissors — the game built whole.
+
+[Picture 47542 — rock-paper-scissors — the game built whole]
 
 ## Say it to your companion
 
