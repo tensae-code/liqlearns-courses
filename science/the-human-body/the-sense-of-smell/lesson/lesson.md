@@ -11,7 +11,11 @@ Kuwait's Grade 1 book teaches smell as a way of knowing: the child names things 
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 36952 — the nose knows what the eyes cannot see — food cooking, a flower, smoke]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 36953 — when the nose is blocked by a cold, the food seems to lose its taste]
 
 ## Sub lesson 2 — Keeping the nose safe
 

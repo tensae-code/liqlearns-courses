@@ -9,7 +9,11 @@ South Sudan's Primary 5 book teaches the eye in two steps: first the **external 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36948 — the eye, outside and inside — the cornea, the lens, the retina, the nerve to the brain]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36949 — light reaches the retina, and the message reaches the brain]
 
 ## Sub lesson 2 — The ear — outside and inside
 

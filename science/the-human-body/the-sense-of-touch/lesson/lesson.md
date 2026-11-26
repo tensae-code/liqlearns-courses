@@ -11,7 +11,11 @@ Kuwait's Grade 1 book teaches touch by feeling with eyes closed: the child reach
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 36956 — feeling in the bag — a stone, a sponge, a spoon, named by touch alone]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 36957 — what touch discovers — rough, smooth, hot, cold]
 
 ## Sub lesson 2 — What harms the hand
 

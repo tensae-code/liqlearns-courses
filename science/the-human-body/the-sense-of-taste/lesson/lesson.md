@@ -11,7 +11,11 @@ Kuwait's Grade 1 book teaches taste together with smell, because the two work as
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 36954 — the tongue tastes — sweet like honey, sour like lemon, salty like salt, bitter like leaves]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 36955 — taste and smell work as a pair — the tongue tastes, the nose smells]
 
 ## Sub lesson 2 — Taste is a warning
 
