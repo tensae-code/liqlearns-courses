@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Introduction to Data Visualizati
 
 In your mind's eye: introduction to Data Visualization. §5.4.1 Types of Visualizations.
 
+[Picture 45607 — introduction to Data Visualization. §5.4.1 Types of Visualizations]
+
 ## Sub lesson 2 — Doing it — Choosing the Right Chart Bar Line Histogram Scatter Boxplot in practice
 
 **Doing it — Choosing the Right Chart Bar Line Histogram Scatter Boxplot in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Choosing the Right Chart Bar Line Histogram Scatter Boxplot in practice.
+
+[Picture 45608 — doing it — Choosing the Right Chart Bar Line Histogram Scatter Boxplot in practice]
 
 ## Say it to your companion
 

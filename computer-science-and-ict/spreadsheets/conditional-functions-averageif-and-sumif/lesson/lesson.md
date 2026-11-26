@@ -10,11 +10,15 @@
 
 In your mind's eye: sUMIF — summing with a condition.
 
+[Picture 45613 — sUMIF — summing with a condition]
+
 ## Sub lesson 2 — AVERAGEIF — and the pair's discipline
 
 **AVERAGEIF** works identically for the average: the mean of the marks **of those who passed**, of the prices **in one category**. The pair's discipline is the analyst's: state the criteria **before** computing (a condition chosen after seeing results is a story, not a statistic), and report the condition **with** the number ('average, among sitters of the second exam: …') because a conditional number quoted bare is a whole truth cut in half. Jordan teaches the pair inside data analysis because most real questions are conditional — data is rarely asked about 'everything'.
 
 In your mind's eye: aVERAGEIF — and the pair's discipline.
+
+[Picture 45614 — aVERAGEIF — and the pair's discipline]
 
 ## Say it to your companion
 

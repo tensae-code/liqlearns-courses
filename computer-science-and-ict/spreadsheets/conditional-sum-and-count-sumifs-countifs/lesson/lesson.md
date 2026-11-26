@@ -10,11 +10,15 @@ Conditional sum and count — SUMIFS adds, and COUNTIFS counts, only the rows th
 
 In your mind's eye: several conditions at once — SUMIFS.
 
+[Picture 45617 — several conditions at once — SUMIFS]
+
 ## Sub lesson 2 — Counting with conditions — COUNTIFS
 
 **COUNTIFS** counts instead of adding: the number of rows meeting every condition — how many pupils are *in Grade 8, in the science club, and present today*. Together the pair answers the two shapes of every summarising question — *how much* and *how many* — under any number of conditions, and beside them in the chapter stands the pivot table, the same summarising done by dragging instead of writing. The discipline is the analyst's: state the conditions before the number, and report them with it — a conditional total quoted bare is a whole truth cut in half.
 
 In your mind's eye: counting with conditions — COUNTIFS.
+
+[Picture 45618 — counting with conditions — COUNTIFS]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ the conditional functions of a spreadsheet — COUNTIF counts the rows that meet
 
 In your mind's eye: cOUNTIF and SUMIF — counting and adding with a condition.
 
+[Picture 45615 — cOUNTIF and SUMIF — counting and adding with a condition]
+
 ## Sub lesson 2 — IF — the function that decides
 
 **IF(test, value_if_true, value_if_false)** makes the sheet **decide**: it evaluates the test and returns one answer or the other — `IF(mark>=50, "Pass", "Fail")`. The Applied specialist book spends the three functions together in its quotation project: COUNTIF and SUMIF build the **estimate's numbers**, and IF turns conditions into choices the estimate acts on. The discipline across all three: a condition must be **stated exactly** — the function applies it literally, to every row, without mercy or common sense.
 
 In your mind's eye: iF — the function that decides.
+
+[Picture 45616 — iF — the function that decides]
 
 ## Say it to your companion
 

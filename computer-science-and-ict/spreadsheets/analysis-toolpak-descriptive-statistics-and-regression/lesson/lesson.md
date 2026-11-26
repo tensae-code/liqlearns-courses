@@ -10,11 +10,15 @@ The **Analysis ToolPak** is Excel's built-in analysis add-in (switched on once i
 
 In your mind's eye: the ToolPak and its descriptive statistics.
 
+[Picture 45601 — the ToolPak and its descriptive statistics]
+
 ## Sub lesson 2 — Regression in the ToolPak
 
 The **Regression** tool fits the line of the forecasting lesson properly: given the x range (the explainer) and y range (the explained), it returns the line's equation and the report around it — above all **R-squared**, the share of y's variation the line accounts for, the fit's honesty number (near 1: the line carries the story; near 0: it doesn't). The tool computes; the analyst judges — whether a straight line is the right shape at all, whether the relation could be cause or companion (the cause-and-effect lesson stands behind this one), and what the forecast may responsibly claim.
 
 In your mind's eye: regression in the ToolPak.
+
+[Picture 45602 — regression in the ToolPak]
 
 ## Say it to your companion
 

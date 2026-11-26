@@ -10,11 +10,15 @@ A spreadsheet can carry a **form**: not just cells to type in, but **controls** 
 
 In your mind's eye: a form inside the sheet — controls a person can touch.
 
+[Picture 45605 — a form inside the sheet — controls a person can touch]
+
 ## Sub lesson 2 — The checkbox works — its value feeds the sheet
 
 A checkbox is not decoration: it is **linked to a cell**, which reads **TRUE when ticked, FALSE when not**, and formulas can spend that truth — an IF adds the insurance cost only when its box is ticked. Building the form well means the usual form discipline: **labels a stranger understands**, boxes grouped by meaning, and nothing required left ambiguous. The quotation that follows in the project is only as honest as this form's ticks.
 
 In your mind's eye: the checkbox works — its value feeds the sheet.
+
+[Picture 45606 — the checkbox works — its value feeds the sheet]
 
 ## Say it to your companion
 

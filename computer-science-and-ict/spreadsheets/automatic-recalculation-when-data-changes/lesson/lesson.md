@@ -10,11 +10,15 @@ On paper, a corrected price means re-adding the whole column by hand. In the spr
 
 In your mind's eye: the living sheet — results that follow their data.
 
+[Picture 45603 — the living sheet — results that follow their data]
+
 ## Sub lesson 2 — Chains and care — what recalculation demands of the builder
 
 Recalculation chains run **as far as the formulas reach** — change an early price and a total, a tax on the total, and a grand total all move in the same instant — so the builder's care is the mirror of the gift: **build with formulas wherever a value is derived**, never type a derived value by hand, and **check the chain's sources**, because one wrong source value now poisons every result downstream, instantly and everywhere. Grade 8 teaches the gift and the care in one section because they are one fact seen from two sides.
 
 In your mind's eye: chains and care — what recalculation demands of the builder.
+
+[Picture 45604 — chains and care — what recalculation demands of the builder]
 
 ## Say it to your companion
 
