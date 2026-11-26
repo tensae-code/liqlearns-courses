@@ -10,11 +10,15 @@ goods come by ration stamp and the precious rice book, farmers work for cooperat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39523 — life by ration stamp]
+
 ## Sub lesson 2 — Bài 17, the country in the Đổi mới period
 
 from 1986 Vietnam moves from food shortage to one of the world's top rice exporters, with factories, cars and computers of its own making
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39522 — the country in Doi Moi]
 
 ## Sub lesson 3 — Bài 20, unification, the subsidy years and Đổi mới
 

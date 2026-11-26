@@ -10,11 +10,15 @@ the country that fought for the islands chooses law as its first weapon for keep
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39542 — law as the first weapon]
+
 ## Sub lesson 2 — Bài 9 Defending sovereignty in the East Sea: the reunified state administers Hoàng Sa and Trường Sa; the 12-5-1977 declaration defines Vietnam's seas, Vietnam ratifies UNCLOS as its 63rd state (1994), island districts are founded (1982) and a Trường Sa town (2007), and sovereignty is exercised through exhibitions, surveys, markers, lighthouses and island communities; when Chinese forces attack Gạc Ma, Cô Lin and Len Đao (March 1988) and dozens of naval soldiers fall, Vietnam protests to the UN and presses negotiation; the 2012 Sea Law gives the defence its legal base, with the DOC pushed forward
 
 sovereignty here is defended as much by declarations, districts and law as by the navy's sacrifice at Gạc Ma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39541 — sovereignty kept by law and presence]
 
 ## Say it to your companion
 

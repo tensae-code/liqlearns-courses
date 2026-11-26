@@ -10,11 +10,15 @@ in May 1786 Nguyễn Huệ storms Phú Xuân, then rides the victory north under
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39535 — riding north twice]
+
 ## Sub lesson 2 — Bài 8, the Tết offensive of 1789: Ngọc Hồi – Đống Đa
 
 against Tôn Sĩ Nghị's 290,000 Qing troops Quang Trung — crowned emperor in December 1788 — first withdraws in good order to the Tam Điệp–Biện Sơn line, then strikes in the Tết holiday itself: on the night of 25 January 1789 his men cross the Gián Khẩu river and wipe out the outposts, on 28 January they surround Hà Hồi fort, and at dawn on 30 January, the fifth day of Tết, Quang Trung personally storms Ngọc Hồi while another wing takes Đống Đa — the Qing commander Sầm Nghi Đống hangs himself, Tôn Sĩ Nghị flees abandoning his seal, and by noon the victorious army enters Thăng Long; the capital is freed in five days
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39534 — the Tet offensive of 1789]
 
 ## Say it to your companion
 

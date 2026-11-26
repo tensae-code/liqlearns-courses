@@ -10,11 +10,15 @@ Nguyễn Hoàng takes up the government of Thuận Hoá in 1558 — the Nguyễn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39544 — the milestones run south]
+
 ## Sub lesson 2 — Bài 6, what the southern opening achieved
 
 by the late 18th century the Nguyễn lords hold everything from south of the Hoành Sơn range to Cape Cà Mau, islands included; the book's meaning is twofold — a wasteland becomes an inseparable part of Đại Việt and a new centre of production and trade where Viet settlers and the peoples already there live together — and, in the quoted judgement of Phan Huy Lê, a land "awakened and revived after centuries of near-forgetting" within little more than a hundred years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39543 — a wasteland becomes the South]
 
 ## Say it to your companion
 

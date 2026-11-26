@@ -10,11 +10,15 @@ Phan Bội Châu (1867–1940) of Nghệ An, a Hương examination laureate, con
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39540 — seeking help abroad]
+
 ## Sub lesson 2 — Bài 12 Phan Bội Châu and Phan Châu Trinh go abroad: Phan Bội Châu works Japan and China — 200 youths sent to study under Đông Du (1905), the Điền–Quế–Việt and East Asia alliances (1908), then the Vietnam Restoration Society at Guangzhou (early 1912) and feelers to German and Russian representatives; Phan Châu Trinh works France from 1911 — petitions to the government, exposure of colonial rule to French opinion, and a hand in founding patriotic Vietnamese organisations there
 
 the two rival roads of the 1900s — borrowed armies versus borrowed consciences — are both, at root, foreign-policy operations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39539 — two roads abroad]
 
 ## Say it to your companion
 
