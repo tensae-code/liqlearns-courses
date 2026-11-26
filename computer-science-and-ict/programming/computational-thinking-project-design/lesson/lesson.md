@@ -10,11 +10,15 @@ A **project design** starts with a problem worth solving, stated in one sentence
 
 In your mind's eye: from a problem to a design — decompose and pattern-spot.
 
+[Picture 46908 — from a problem to a design — decompose and pattern-spot]
+
 ## Sub lesson 2 — The design on paper — steps, parts and a check
 
 The design is written down as an **algorithm for the project**: the parts in build order, what each part needs from the others, and how the finished project will be **checked** against the problem it set out to solve. A good design names who does what in a team, what 'finished' looks like for each part, and the order that lets parts be tested as they are built — not only at the end.
 
 In your mind's eye: the design on paper — steps, parts and a check.
+
+[Picture 46909 — the design on paper — steps, parts and a check]
 
 ## Say it to your companion
 

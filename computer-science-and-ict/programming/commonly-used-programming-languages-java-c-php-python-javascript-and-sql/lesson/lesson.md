@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Commonly used programming language —
 
 In your mind's eye: commonly used programming language — Java, C, PHP, Python, JavaScript, SQL.
 
+[Picture 46893 — commonly used programming language — Java, C, PHP, Python, JavaScript, SQL]
+
 ## Sub lesson 2 — Doing it — Commonly used programming language — Java, C, PHP, Python, JavaScript, SQL in practice
 
 This part of South Sudan's book teaches **Doing it — Commonly used programming language — Java, C, PHP, Python, JavaScript, SQL in practice** — covering: Commonly used programming language — Java, C, PHP, Python, JavaScript, SQL. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Commonly used programming language — Java, C, PHP, Python, JavaScript, SQL. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Commonly used programming language — Java, C, PHP, Python, JavaScript, SQL in practice is part of that chain..
 
 In your mind's eye: doing it — Commonly used programming language. Java, C, PHP, Python, JavaScript, SQL in practice.
+
+[Picture 46894 — doing it — Commonly used programming language. Java, C, PHP, Python, JavaScript, SQL in practice]
 
 ## Say it to your companion
 

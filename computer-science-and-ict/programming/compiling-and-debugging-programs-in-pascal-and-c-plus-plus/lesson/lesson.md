@@ -10,11 +10,15 @@ Grade 10's book ends not with theory but with the workshop: two annexes, one per
 
 In your mind's eye: compiling — from text to running program.
 
+[Picture 46900 — compiling — from text to running program]
+
 ## Sub lesson 2 — Debugging — hunting the errors the compiler cannot see
 
 The errors that remain are **runtime and logic errors**: the program runs, and divides by zero, or answers wrong, or loops forever. **Debugging (depanare)** hunts them with a method: **reproduce** the failure on the smallest input, **watch** the values (by inserted prints, or the debugger's stepping and breakpoints — pausing the run at a chosen line to inspect the state), **locate** the first moment the state goes wrong, **fix**, and **test again**. The annexes' stance is the profession's: debugging is not shame — it is half the craft, practised by method, not by staring.
 
 In your mind's eye: debugging — hunting the errors the compiler cannot see.
+
+[Picture 46901 — debugging — hunting the errors the compiler cannot see]
 
 ## Say it to your companion
 

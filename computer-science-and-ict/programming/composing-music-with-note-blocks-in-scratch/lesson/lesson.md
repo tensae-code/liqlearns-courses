@@ -10,11 +10,15 @@ The composing blocks work in threes: **set instrument** chooses the voice, **pla
 
 In your mind's eye: set instrument, play note, rest.
 
+[Picture 46904 — set instrument, play note, rest]
+
 ## Sub lesson 2 — Looping a tune
 
 A short composed sequence becomes a tune when it is **looped**: the same notes return, the listener recognises the pattern, and small changes between repeats can grow the tune. Composing is programming with the ears — every block is heard the moment the program runs.
 
 In your mind's eye: looping a tune.
+
+[Picture 46905 — looping a tune]
 
 ## Say it to your companion
 

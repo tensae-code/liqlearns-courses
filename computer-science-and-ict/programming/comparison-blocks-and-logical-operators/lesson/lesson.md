@@ -10,6 +10,8 @@ Branching questions grow up in this lesson. **Comparison blocks** compare two va
 
 In your mind's eye: a picture of green comparison blocks — greater, less, equal. Feeding an and block and an or block, with a small true/false table beside them showing each joined answer.
 
+[Picture 46897 — a picture of green comparison blocks — greater, less, equal. Feeding an and block and an or block, with a small true/false table beside them showing each joined answer]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Comparison blocks ask how two numbers stand — greater, less, equal — and logical operators join tests with and, or and not, so a branch can ask a compound question. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

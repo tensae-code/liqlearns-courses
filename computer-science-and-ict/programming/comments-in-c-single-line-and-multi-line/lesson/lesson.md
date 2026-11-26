@@ -10,11 +10,15 @@ A **single-line comment** begins with **//** and runs to the line's end: `// rea
 
 In your mind's eye: two shapes — // and /* */.
 
+[Picture 46891 — two shapes — // and /* */]
+
 ## Sub lesson 2 — Writing comments that earn their place
 
 A good comment says **why**, or what the code below must never break — never merely repeats the code in words ('add 1 to i' above `i = i + 1` is noise wearing a comment's coat). Comments also carry the working programmer's second tool: **commenting out** — wrapping a troublesome block in /* … */ to silence it while debugging, instead of deleting what may be innocent. And a rotten comment is worse than none: a note that lies about the code below it will be believed once, at the worst moment — so comments are maintained like code, changed when the code changes, or struck out with it.
 
 In your mind's eye: writing comments that earn their place.
+
+[Picture 46892 — writing comments that earn their place]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **compound instruction** is a sequence of instructions enclosed by **begin** a
 
 In your mind's eye: begin…end — many instructions, one place.
 
+[Picture 46906 — begin…end — many instructions, one place]
+
 ## Sub lesson 2 — Why the wrapper matters — the governed block
 
 Without the wrapper, governance leaks: in `if x > 0 then a := 1; b := 2;` only a := 1 is conditional — b := 2 runs always, because the if governs one instruction. With begin…end around both, the pair stands or falls together. The lesson's reading habit follows: to know what any governing instruction commands, find its **one instruction** — a single step, or the whole begin…end block — and draw its border before judging the program. Most beginner logic errors are border errors.
 
 In your mind's eye: why the wrapper matters — the governed block.
+
+[Picture 46907 — why the wrapper matters — the governed block]
 
 ## Say it to your companion
 

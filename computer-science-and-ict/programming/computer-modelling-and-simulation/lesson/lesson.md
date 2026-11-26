@@ -10,11 +10,15 @@ A **computer model** is an information model written for a computer: the kept fe
 
 In your mind's eye: an information model being carried into a computer screen, where it starts to move.
 
+[Picture 46910 — an information model being carried into a computer screen, where it starts to move]
+
 ## Sub lesson 2 — Simulation — running the model
 
 Running a computer model to watch what happens is a **simulation**. Simulations answer 'what if' questions: what if the speed doubles, the price rises, the rain doubles? They are used where the real experiment cannot be run — training pilots without risking aircraft, testing a bridge design without building it, forecasting weather before it happens. A simulation is only as good as its model: features left out cannot affect the answer, so every simulation result must be read with its model's choices in mind — a result is a statement about the model first, and about the world only as far as the model is faithful.
 
 In your mind's eye: a pilot training in a simulator cockpit while the real aircraft stands safely outside.
+
+[Picture 46911 — a pilot training in a simulator cockpit while the real aircraft stands safely outside]
 
 ## Say it to your companion
 

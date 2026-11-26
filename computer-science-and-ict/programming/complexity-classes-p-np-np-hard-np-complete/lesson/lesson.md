@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Complexity Classes** — coverin
 
 In your mind's eye: complexity Classes.
 
+[Picture 46902 — complexity Classes]
+
 ## Sub lesson 2 — Doing it — Complexity Classes P NP NP Hard NP Complete in practice
 
 **Doing it — Complexity Classes P NP NP Hard NP Complete in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Complexity Classes P NP NP Hard NP Complete in practice.
+
+[Picture 46903 — doing it — Complexity Classes P NP NP Hard NP Complete in practice]
 
 ## Say it to your companion
 

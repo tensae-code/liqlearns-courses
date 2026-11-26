@@ -10,11 +10,15 @@ A **compiler directive** is an instruction **to the compiler, not to the program
 
 In your mind's eye: directives — orders to the builder.
 
+[Picture 46898 — directives — orders to the builder]
+
 ## Sub lesson 2 — C++'s preprocessor — directives before the compiler
 
 C++ gives this work to a **preprocessor** that runs **before** compilation, driven by lines beginning with **#**: **#include** inserts a whole file's text (the libraries' headers), **#define** names a text substitution used through the program, **#ifdef / #endif** include or exclude whole parts of the text by condition. The famous first line of every C++ program, `#include <iostream>`, is a directive — the program's first word is spoken not to the machine, but to the builder about where its tools live.
 
 In your mind's eye: c++'s preprocessor — directives before the compiler.
+
+[Picture 46899 — c++'s preprocessor — directives before the compiler]
 
 ## Say it to your companion
 
