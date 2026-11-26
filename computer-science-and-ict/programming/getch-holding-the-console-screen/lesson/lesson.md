@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Getch Holding the Console Screen
 
 In your mind's eye: getch Holding the Console Screen.
 
+[Picture 47141 — getch Holding the Console Screen]
+
 ## Sub lesson 2 — Doing it — Getch Holding the Console Screen in practice
 
 **Doing it — Getch Holding the Console Screen in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Getch Holding the Console Screen in practice.
+
+[Picture 47142 — doing it — Getch Holding the Console Screen in practice]
 
 ## Say it to your companion
 

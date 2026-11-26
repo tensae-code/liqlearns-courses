@@ -10,6 +10,8 @@ Measuring a graph starts with **distance**: between two nodes, count the edges o
 
 In your mind's eye: the seven-pupil graph with waves of colour spreading from B. Distance 0, then 1, then 2, then 3 at G.
 
+[Picture 47151 — the seven-pupil graph with waves of colour spreading from B. Distance 0, then 1, then 2, then 3 at G]
+
 ## Sub lesson 2 — Centre, radius and diameter — and small worlds
 
 Now measure the whole graph. Every node has an eccentricity; the smallest of them belongs to the **centre** — the node that minimises the worst journey, the true "middle" the argument in Do it first needed. That smallest eccentricity has its own name: the **radius**. The largest distance between any two nodes is the **diameter** — the graph’s longest shortest journey, its real width. On our graph: eccentricities run from 3 (B, C, D, F) up to 4 (A, E) and 5 (G, out on its stalk). The radius is 3, the centre is shared by B, C, D and F — and the diameter is 5, the A-to-G and E-to-G journeys. Both arguers were partly right; the numbers say precisely how.
@@ -17,6 +19,8 @@ Now measure the whole graph. Every node has an eccentricity; the smallest of the
 Then the astonishment the SNT book ends with: real social graphs are vast yet their diameters are tiny. Milgram’s 1960s letter experiment suggested about **six degrees of separation** between strangers; measured on Facebook’s whole graph, the average distance came out at **4.74**. Hubs — the few nodes with enormous numbers of edges — shrink the world: almost everyone is a few handshakes from almost everyone else.
 
 In your mind's eye: a huge crowd of dots joined by edges, with one short highlighted path of five edges joining two distant strangers.
+
+[Picture 47152 — a huge crowd of dots joined by edges, with one short highlighted path of five edges joining two distant strangers]
 
 ## Say it to your companion
 

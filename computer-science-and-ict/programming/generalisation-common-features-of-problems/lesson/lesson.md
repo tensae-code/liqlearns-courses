@@ -10,11 +10,15 @@ You solved yesterday's problem. Today's looks new — but shares its bones with 
 
 In your mind's eye: the common features of problems.
 
+[Picture 47139 — the common features of problems]
+
 ## Sub lesson 2 — Widening the solution to the family
 
 A solution written against the **skeleton** — with the differing parts left as **values to be supplied** — serves every problem in the family: one wrapping method, fed a filling and a skin each time. That widened solution is the generalisation. Malaysia's caution closes the technique: generalise only as far as the common features truly run — a problem that breaks the skeleton (a food that is poured, not wrapped) is **not** in the family, and forcing it in breaks the solution.
 
 In your mind's eye: widening the solution to the family.
+
+[Picture 47140 — widening the solution to the family]
 
 ## Say it to your companion
 

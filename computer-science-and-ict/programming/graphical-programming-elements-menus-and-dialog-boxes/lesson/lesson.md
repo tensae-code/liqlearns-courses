@@ -10,11 +10,15 @@ A **menu** is the application's **organised offer of its commands**: a **menu ba
 
 In your mind's eye: menus — the application's offered commands.
 
+[Picture 47155 — menus — the application's offered commands]
+
 ## Sub lesson 2 — Dialog boxes — the application asks and tells
 
 A **dialog box** is a **small window that interrupts for one exchange**: it **asks** (choose a file, set the options, confirm the deletion) or **tells** (the error message, the finished notice), and the application waits for its answer — its buttons (OK, Cancel, and their kin) — before continuing. Beside the elements, the chapter teaches applications **communicating with other applications** — handing work and data across — because the modern environment's applications are built as neighbours in one workshop, not islands.
 
 In your mind's eye: dialog boxes — the application asks and tells.
+
+[Picture 47156 — dialog boxes — the application asks and tells]
 
 ## Say it to your companion
 

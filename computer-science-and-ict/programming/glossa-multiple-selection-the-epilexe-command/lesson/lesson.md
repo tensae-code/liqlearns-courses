@@ -10,11 +10,15 @@ An ΑΝ command chooses between two roads. But a menu has five dishes, a grade h
 
 In your mind's eye: the shape of ΕΠΙΛΕΞΕ.
 
+[Picture 47145 — the shape of ΕΠΙΛΕΞΕ]
+
 ## Sub lesson 2 — Choosing ΕΠΙΛΕΞΕ or ΑΝ — and the worked cases
 
 ΕΠΙΛΕΞΕ fits choosing **by one expression's value** — a code, a grade band, a menu number; nested ΑΝ fits choosing by **different conditions** on different values. The supplementary material works the command through graded examples: days-in-month by month number, ticket price by age band, a calculator by operation code — each time reading the case list as a table and checking the ΑΛΛΙΩΣ case is the honest remainder, never a hiding place for a case the writer forgot.
 
 In your mind's eye: choosing ΕΠΙΛΕΞΕ or ΑΝ — and the worked cases.
+
+[Picture 47146 — choosing ΕΠΙΛΕΞΕ or ΑΝ — and the worked cases]
 
 ## Say it to your companion
 

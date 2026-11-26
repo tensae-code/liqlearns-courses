@@ -10,11 +10,15 @@ A declared variable holds nothing until a command puts something in it. This les
 
 In your mind's eye: operators and expressions.
 
+[Picture 47147 — operators and expressions]
+
 ## Sub lesson 2 — Functions and the assignment command
 
 ΓΛΩΣΣΑ keeps ready **functions** the program may call: **Α_Τ** (absolute value), **Τ_Ρ** (square root), **ΗΜ/ΣΥΝ/ΕΦ** (sine/cosine/tangent), **ΛΟΓ** (logarithm), **Ε** (exponential), **Α_Μ** (integer part) and more — each takes a value in and hands a value back. The **assignment command** is the language's arrow: **name ← expression** works the expression out and stores the answer in the name — the arrow points at the place that receives, which is why ΓΛΩΣΣΑ writes assignment with ← and never confuses it with the = of comparison.
 
 In your mind's eye: functions and the assignment command.
+
+[Picture 47148 — functions and the assignment command]
 
 ## Say it to your companion
 

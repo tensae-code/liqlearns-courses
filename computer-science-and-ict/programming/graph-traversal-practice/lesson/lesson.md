@@ -10,11 +10,15 @@ The specialist book closes its graph strand with a **synthesis practical**: take
 
 In your mind's eye: one graph, two walks — the orders differ.
 
+[Picture 47153 — one graph, two walks — the orders differ]
+
 ## Sub lesson 2 — Choosing the walk — what the problem asks decides
 
 The comparison's point is choice. **Breadth-first** answers 'nearest' questions — its rings are distances, so the first time it reaches a vertex is by the **fewest edges**. **Depth-first** answers 'reachable and structured' questions — connectedness, cycles, orderings — and uses memory only along one path. The practical ends with mixed problems: for each, name the walk **before** running it, and give the reason in the problem's own words — the traversal is chosen by the question, never by habit.
 
 In your mind's eye: choosing the walk — what the problem asks decides.
+
+[Picture 47154 — choosing the walk — what the problem asks decides]
 
 ## Say it to your companion
 
