@@ -10,6 +10,8 @@ Inside the Cold War frame, peoples fight their own battles — social and politi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62715 — their own battles]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Luchas y reivindicaciones sociales y políticas en la guerra fría — Inside the Cold War frame, peoples fight their own battles — social and political demands movements press claims the blocs try to capture (a long section, printed pp. 84–125). Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ the course ends by looking forward — what the pupils' own century may become i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62707 — your century your question]
+
 ## Sub lesson 2 — Theme 5, Lessons 65–66: prospects for the development of civilisation in the 21st century
 
 pupils close the course by weighing what science gives humanity against the new dangers it creates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62708 — gifts against dangers]
 
 ## Sub lesson 3 — Theme 5 §24: prospects of civilisation's development in the 21st century
 
@@ -22,11 +26,15 @@ the year's argument peaks — can one civilisation of mankind grow without flatt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62709 — one civilisation many cultures]
+
 ## Sub lesson 4 — Theme 6 §29: the civilisation achievements of the newest period
 
 the book closes by summing the newest age's achievements and asking what they are worth
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62710 — what are they worth]
 
 ## Say it to your companion
 

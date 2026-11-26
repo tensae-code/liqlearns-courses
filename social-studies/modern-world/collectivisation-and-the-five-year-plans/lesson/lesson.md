@@ -10,11 +10,15 @@ Stalin forces peasants into collective farms, liquidates the kulaks and seizes t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62716 — grain seized regions starve]
+
 ## Sub lesson 2 — 4.2 Changes in industry
 
 The Five-Year Plans (from 1928/29) set heroic targets for coal, steel and tractors; managers and workers are driven to meet them and a backward country industrialises at breakneck, brutal speed.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62717 — heroic targets]
 
 ## Say it to your companion
 

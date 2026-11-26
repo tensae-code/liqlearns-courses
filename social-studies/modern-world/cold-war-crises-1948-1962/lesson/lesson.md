@@ -10,6 +10,8 @@ the Berlin blockade is beaten by an airlift of coal and candy; Korea splits at t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62712 — to the edge 1962]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: Cold War crises — the Berlin blockade is beaten by an airlift of coal and candy; Korea splits at the 38th parallel in a war that never formally ends; the Wall goes up in 1961; and in October 1962 Soviet missiles in Cuba bring Kennedy and Khrushchev — and the world — to the edge, before the quiet bargain over Turkey steps it back. Then let your companion ask you one hard question about it — answer from the lesson.

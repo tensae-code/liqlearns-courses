@@ -10,11 +10,15 @@ Mukden 1931, Shanghai 1932, Lugou Bridge 1937 — piecemeal resistance hardens i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62697 — from local to full resistance]
+
 ## Sub lesson 2 — The whole nation fights and wins
 
 Taierzhuang, Pingxingguan, the Hundred Regiments, Burma roads and Chongqing under bombs — eight years until Japan surrenders in 1945 and Taiwan returns
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62698 — eight years to victory]
 
 ## Say it to your companion
 

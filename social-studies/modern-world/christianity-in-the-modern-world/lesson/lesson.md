@@ -10,6 +10,8 @@ missions carry Christianity worldwide, churches face secular states and each oth
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62705 — healing old splits]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Christianity in the world community — missions carry Christianity worldwide, churches face secular states and each other, and the ecumenical movement tries to heal old splits. Then let your companion ask you one hard question about it — answer from the lesson.

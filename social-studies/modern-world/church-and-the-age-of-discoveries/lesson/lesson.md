@@ -10,6 +10,8 @@ printing, humanism and the ocean voyages confront the Church with worlds it neve
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62706 — worlds never imagined]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: New times, new worlds, new ideas — printing, humanism and the ocean voyages confront the Church with worlds it never imagined. Then let your companion ask you one hard question about it — answer from the lesson.

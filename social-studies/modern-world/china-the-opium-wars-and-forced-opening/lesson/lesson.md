@@ -18,6 +18,8 @@ the two empires' letters are read against each other — politeness on one side,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62694 — politeness meets ultimatums]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §15 The isolation policy of the Qing Empire; the "Opium Wars" — Britain forces China's doors open with opium and gunboats, and the unequal treaties begin, §6.1 What can we learn about imperialism from the correspondence of the English and Chinese governments? — the two empires' letters are read against each other — politeness on one side, ultimatums on the other. Then let your companion ask you one hard question about it — answer from the lesson.

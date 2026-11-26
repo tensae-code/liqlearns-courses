@@ -10,6 +10,8 @@ The 1973 Arab-Israeli war triggers the oil crisis; in Afghanistan ethnic and rel
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62713 — oil and afghanistan]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Crisis del petróleo y Afganistán — The 1973 Arab-Israeli war triggers the oil crisis; in Afghanistan ethnic and religious groups unite to resist the Soviet occupation and overthrow Kabul's communist government. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Capitalist and socialist economic models organise rival societies and everyday l
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62714 — two models]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Modelos económicos y sociedad durante la guerra fría — Capitalist and socialist economic models organise rival societies and everyday life during the Cold War. Then let your companion ask you one hard question about it — answer from the lesson.

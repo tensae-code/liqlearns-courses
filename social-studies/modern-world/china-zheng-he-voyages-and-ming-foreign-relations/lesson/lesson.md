@@ -10,11 +10,15 @@ from 1405 to 1433 Zheng He's fleets — 200 ships, 27,000 men, treasure ships ca
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62703 — 200 ships 27000 men]
+
 ## Sub lesson 2 — Zheng He and Columbus compared
 
 pupils set Zheng He's great treasure fleets of 1405 beside Columbus's three small ships of 1492 and ask why the two voyages led to such different worlds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62704 — 1405 beside 1492]
 
 ## Say it to your companion
 

@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a classicist building with Roman columns raised for a bank or parliament. The student points to Rome being used as clothing for a new age.
 
+[Picture 62711 — roman virtue]
+
 ## Sub lesson 3 — An empire style for a new Caesar
 
 Napoleon's empire style dresses a new Caesar in Rome's forms.
