@@ -1085,6 +1085,9 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9014 | pictures/9014.gif | a music note, a theatre mask and a drawing sliding together into one | Performing and Visual Arts — How the Arts Belong Together |
 | 9015 | pictures/9015.gif | a Genna player swinging a curved stick and striking the ball | Performing and Visual Arts — Festivals and Their Arts |
 | 9016 | pictures/9016.gif | a long pestle pounding grain in a tall mortar, rising and falling | Performing and Visual Arts — Old Arts and Today's Arts |
+| 9017 | pictures/9017.gif | GIF — አል- and -ም closing around ገሰፀ from both sides until አልገሰፁም stands whole, the verb changing shape inside the wrap | Language and Literature — Amharic — The Sentence |
+| 9018 | pictures/9018.gif | GIF — the -ኦች suffix sliding in from the right and attaching to ቀሚስ, and ቀሚሶች stands whole | Language and Literature — Amharic — One and Many |
+| 9019 | pictures/9019.gif | GIF — the word cards ሆድና and ጀርባ sliding together into one saying, over two people standing back to back, divided | Language and Literature — Amharic — Idioms |
 | 9150 | pictures/9150.webp | a free red scribble over coloured strokes | Performing and Visual Arts — First Marks and Scribbles |
 | 9151 | pictures/9151.webp | line models: across, down, slanting, curved | Performing and Visual Arts — Lines in Every Direction |
 | 9152 | pictures/9152.webp | zigzag, wave and loop patterns | Performing and Visual Arts — Lines in Every Direction |

@@ -26,7 +26,7 @@ Paper and pencil; the learner's own surroundings for examples.
 ## The run of the lesson (in order)
 1. **Do it first** — the learner pictures the leaf's power station before reading (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
-   - ADD IMAGE [Picture 21370]: a picture of the thylakoid membrane with both photosystems and the electron chain — the student studies it and names what it shows.
+   - ADD IMAGE [Picture 36602]: a picture of the thylakoid membrane with both photosystems and the electron chain — the student studies it and names what it shows.
    - ADD IMAGE [Picture 36602]: a picture of the thylakoid membrane with photosystem II, the carriers plastoquinone, cytochromes and plastocyanin, photosystem I and ferredoxin, the H+ build-up in the lumen and ATP synthase — the student follows one electron's whole journey across the picture.
    - ADD AUDIO: a reading aloud of the lesson's key terms and definitions — the student listens and repeats each term.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
@@ -36,7 +36,7 @@ Paper and pencil; the learner's own surroundings for examples.
 6. **Do It Yourself** — the doing block at the end of lesson/lesson.md.
 
 ## Add-ons for this lesson (the full list)
-- IMAGE [Picture 21370] — the thylakoid membrane with both photosystems and the electron chain → the student studies it and names what it shows.
+- IMAGE [Picture 36602] — the thylakoid membrane with both photosystems and the electron chain → the student studies it and names what it shows.
 - IMAGE [Picture 36602] — the full chain diagram: photolysis, carriers, lumen protons, ATP synthase, ferredoxin → the student follows one electron's journey.
 - AUDIO (described slot only) — the lesson's key terms read aloud → the student listens and repeats.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.

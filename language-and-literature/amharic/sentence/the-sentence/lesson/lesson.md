@@ -197,6 +197,8 @@ Sub lesson 7 taught you the negative's wrap: **አል- … -ም** around the ver
 
 In your mind's eye: an affirmative verb wrapped into its negative.
 
+[GIF 9017 — አል- and -ም closing around ገሰፀ until አልገሰፁም stands whole]
+
 [Picture 36891 — a verb said plainly, then wrapped at both ends so it says NO]
 
 Watch አል- and -ም close around the verb from both sides. That closing is the conversion.

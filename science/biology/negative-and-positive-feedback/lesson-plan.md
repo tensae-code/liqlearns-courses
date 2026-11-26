@@ -26,7 +26,7 @@ Paper and pencil; the learner's own surroundings for examples.
 ## The run of the lesson (in order)
 1. **Do it first** — the learner thinks of the hot-day sweating example before reading (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
-   - ADD IMAGE [Picture 29244]: a picture of the temperature feedback loop drawn as a full circle with the "reverse" and "amplify" exits marked — the student studies it and names what it shows.
+   - ADD IMAGE [Picture 36601]: a picture of the temperature feedback loop drawn as a full circle with the "reverse" and "amplify" exits marked — the student studies it and names what it shows.
    - ADD IMAGE [Picture 36601]: a picture of the temperature feedback loop in four steps — temperature rises, brain centre sends the order, vessels widen and sweating starts, temperature falls back to normal — with a positive-feedback "amplify" box and a too-cold reverse box beside it — the student traces the loop and names each step.
    - ADD AUDIO: a reading aloud of the lesson's key terms and definitions — the student listens and repeats each term.
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
@@ -36,7 +36,7 @@ Paper and pencil; the learner's own surroundings for examples.
 6. **Do It Yourself** — the doing block at the end of lesson/lesson.md.
 
 ## Add-ons for this lesson (the full list)
-- IMAGE [Picture 29244] — the temperature feedback loop drawn as a full circle with the "reverse" and "amplify" exits marked → the student studies it and names what it shows.
+- IMAGE [Picture 36601] — the temperature feedback loop drawn as a full circle with the "reverse" and "amplify" exits marked → the student studies it and names what it shows.
 - IMAGE [Picture 36601] — the temperature feedback loop in four steps, with the amplify and too-cold boxes → the student traces the loop and names each step.
 - AUDIO (described slot only) — the lesson's key terms read aloud → the student listens and repeats.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
