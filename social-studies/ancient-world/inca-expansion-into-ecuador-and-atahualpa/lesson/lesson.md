@@ -10,6 +10,8 @@ The Incas push north into Ecuador, Atahualpa wins the civil war against his brot
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60842 — an empire split as the spaniards land]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: The Inca turn — the Incas push north into Ecuador, Atahualpa wins the civil war against his brother Huáscar, and the Tahuantinsuyo he inherits is already split when the Spaniards land. Then let your companion ask you one hard question about it — answer from the lesson.

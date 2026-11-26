@@ -10,6 +10,8 @@ a subcontinent of two great faiths and fragmenting Mughal power stands on the ed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60848 — two faiths a fading empire ships coming]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 2, Cap. 4 §2 India between Islam and Hinduism — a subcontinent of two great faiths and fragmenting Mughal power stands on the edge of the European companies' century. Then let your companion ask you one hard question about it — answer from the lesson.

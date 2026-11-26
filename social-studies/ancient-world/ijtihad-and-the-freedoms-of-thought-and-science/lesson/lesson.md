@@ -10,6 +10,8 @@ ijtihad, exerting the mind to derive rulings where Qur'an and Sunna give no text
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60840 — ijtihad the striving mind]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ijtihad in the Arab Islamic civilisation — ijtihad, exerting the mind to derive rulings where Qur'an and Sunna give no text — the Prophet approving it in his dialogue with Mu'adh, whom he was sending to Yemen — powers five centuries of scientific renaissance and the experimental method Europe later borrows; the striving mujtahid earns two rewards if right and one if wrong, but when ijtihad weakens and its gate closes in the late Mamluk and Ottoman ages, superstitious thought spreads, Arab Muslim society closes in on itself, and the civilisation's torch dies. Then let your companion ask you one hard question about it — answer from the lesson.

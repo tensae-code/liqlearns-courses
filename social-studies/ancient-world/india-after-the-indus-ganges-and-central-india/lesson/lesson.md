@@ -10,6 +10,8 @@ The centre of civilisation shifts east to the Ganges plain and south into the De
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60843 — the centre moves to the ganges]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Ganges civilisation and early Central India — the centre of civilisation shifts east to the Ganges plain and south into the Deccan, told through the pots, burials and iron the plates display. Then let your companion ask you one hard question about it — answer from the lesson.

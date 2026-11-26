@@ -10,6 +10,8 @@ A raja lets a sacrificial horse wander a year under guard; kings who stop it mus
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60847 — the horse that made kings bow]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: How some men became rulers. Then let your companion ask you one hard question about it — answer from the lesson.

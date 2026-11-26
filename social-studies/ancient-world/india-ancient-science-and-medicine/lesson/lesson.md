@@ -10,6 +10,8 @@ Aryabhata's Aryabhatiyam explains day and night by the earth's own rotation and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60844 — zero the turning earth and healing]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Writing books on science; zero; Ayurveda. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ emperors ban and smash the icons, monks and people resist, and for over a centur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60835 — byzantium argues over a picture]
+
 ## Sub lesson 2 — Unit 24 Iconoclasm exercises
 
 pupils sort Leo III's acts between war, reform and the war on icons
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60836 — sorting the acts of leo iii]
 
 ## Sub lesson 3 — Ch. 3.I.2 The transitional age: the quarrels over the veneration of icons
 
@@ -22,17 +26,23 @@ emperors and monks fight over the icons for a century while the empire argues wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60837 — a century of quarrelling over icons]
+
 ## Sub lesson 4 — The battle for the icon between Gospel and political power
 
 emperors ban the icons, monks and empresses defend them; a century of struggle ends with the Triumph of Orthodoxy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60838 — the triumph of orthodoxy]
+
 ## Sub lesson 5 — Iconoclasm
 
 emperors smash the icons blaming them for defeats; monks resist; the empire argues about images for over a century
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60839 — emperors blame the icons]
 
 ## Say it to your companion
 

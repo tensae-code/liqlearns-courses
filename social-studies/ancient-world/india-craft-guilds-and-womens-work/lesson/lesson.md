@@ -10,6 +10,8 @@ Potters fire mirror-black Northern Black Polished Ware, Varanasi and Madurai wea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60849 — guilds that worked and banked]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Crafts persons; shrenis; rules for spinning and weaving. Then let your companion ask you one hard question about it — answer from the lesson.

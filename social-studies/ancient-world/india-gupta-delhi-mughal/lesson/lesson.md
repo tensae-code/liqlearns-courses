@@ -10,17 +10,23 @@ Chandragupta I unites the Ganges plain in the early 4th century; iron tools, irr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60855 — the gupta golden age]
+
 ## Sub lesson 2 — Bài 5, the Delhi Sultanate and Akbar's Mughal empire
 
 Turkic Muslims found the Delhi Sultanate in 1206 and drive south; two centuries on, the Mughal Akbar (1556–1605) rebuilds India with 15 provinces, surveyed land, fair taxes, new crops and a policy of harmony among peoples and faiths
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60856 — from delhis sultans to akbar]
+
 ## Sub lesson 3 — Bài 5, the culture of feudal India
 
 Brahmanism ripens into Hinduism, Buddhism divides and travels abroad, Islam arrives with Delhi; Sanskrit is perfected, Kalidasa writes Shakuntala (praised by Goethe), and three faiths raise Khajuraho's temples and the 31 rock caves of Ajanta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60857 — three faiths one rich culture]
 
 ## Say it to your companion
 

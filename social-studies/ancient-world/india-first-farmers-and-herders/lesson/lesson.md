@@ -10,17 +10,23 @@ Surplus grain forces invention — clay pots, woven baskets, storage pits; tende
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60852 — storing grain storing animals]
+
 ## Sub lesson 2 — Towards a settled life
 
 At Burzahom in Kashmir people dig pit-houses with steps and cook indoors or out by the weather; polished Neolithic tools, mortars for grinding, cooking pots and woven cotton cloth mark the settled turn.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60853 — houses dug into the earth]
+
 ## Sub lesson 3 — A closer look — Living and dying in Mehrgarh
 
 In one of the earliest villages, by the Bolan Pass route to Iran, square houses store the barley and wheat people first grew here; a dead person is buried with goats — food, the mourners believed, for the next world.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60854 — mehrgarh living and dying]
 
 ## Say it to your companion
 
