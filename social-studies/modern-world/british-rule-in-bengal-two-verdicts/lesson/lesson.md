@@ -10,6 +10,8 @@ Bangladesh's Grade 8 book teaches British rule by setting two verdicts face to f
 
 In your mind's eye: two facing pages — on one, a proud 1911 magazine page praising peace and security; on the other, a falling chart of India's share of world wealth down to about 3 percent. The student points to each page and says whose verdict it is.
 
+[Picture 62448 — a boast and a count]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Some views on British rule — a boast and a count. Then let your companion ask you one hard question about it — answer from the lesson.

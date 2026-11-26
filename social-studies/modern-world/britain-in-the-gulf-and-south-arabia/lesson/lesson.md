@@ -10,6 +10,8 @@ missions survey the southern coasts and map them while the Wahhabi movement resh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62438 — surveying the coasts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Britain in the Gulf and South Arabia — missions survey the southern coasts and map them while the Wahhabi movement reshapes Arabia's interior. Then let your companion ask you one hard question about it — answer from the lesson.

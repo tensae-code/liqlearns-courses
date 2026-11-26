@@ -10,6 +10,8 @@ England establishes its own presence on the Caribbean side, a second empire insi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62447 — a second empire inside]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Los Ingleses en Centroamérica: características de la presencia inglesa — England establishes its own presence on the Caribbean side, a second empire inside Spain's claimed isthmus. Then let your companion ask you one hard question about it — answer from the lesson.

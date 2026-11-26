@@ -10,6 +10,8 @@ Brazil becomes independent without a war of liberation — a Portuguese prince p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62430 — independence without a war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.6 Peculiarities of Brazil's independence — Brazil becomes independent without a war of liberation — a Portuguese prince proclaims it and keeps the throne and slavery. Then let your companion ask you one hard question about it — answer from the lesson.

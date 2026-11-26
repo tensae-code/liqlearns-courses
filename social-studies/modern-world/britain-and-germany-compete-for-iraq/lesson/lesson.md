@@ -10,6 +10,8 @@ Britain surveys Iraq's rivers from 1834 and corners its trade; Germany answers w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62435 — the railway race]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2 Before the war: British interests and German rivalry — Britain surveys Iraq's rivers from 1834 and corners its trade; Germany answers with archaeology and the railway race toward Baghdad and the Gulf. Then let your companion ask you one hard question about it — answer from the lesson.

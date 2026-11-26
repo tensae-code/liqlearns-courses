@@ -10,6 +10,8 @@ the workshop of the world votes itself wider franchises (1832, 1867) while Chart
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62437 — franchises widen]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §24 Great Britain in the first half and 1860s of the 19th century — the workshop of the world votes itself wider franchises (1832, 1867) while Chartists demand the rest. Then let your companion ask you one hard question about it — answer from the lesson.

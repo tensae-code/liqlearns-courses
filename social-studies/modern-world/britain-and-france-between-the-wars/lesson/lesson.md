@@ -10,6 +10,8 @@ Edward VIII is told "the throne or Simpson" and abdicates; Britain appeases aggr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62434 — abdication and appeasement]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 7: Marea Britanie, Franța — Edward VIII is told "the throne or Simpson" and abdicates; Britain appeases aggressors over Manchuria and Ethiopia, and France's crisis lasts to 1936 with 1,457 firms bankrupt. Then let your companion ask you one hard question about it — answer from the lesson.

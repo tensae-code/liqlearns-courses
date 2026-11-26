@@ -10,6 +10,8 @@ Britain, stung by Crimean chaos and impressed by China's examinations, builds a 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62443 — merit by examination]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Western civil service — Britain, stung by Crimean chaos and impressed by China's examinations, builds a neutral merit civil service that America copies. Then let your companion ask you one hard question about it — answer from the lesson.

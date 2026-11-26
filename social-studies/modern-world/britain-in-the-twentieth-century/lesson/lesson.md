@@ -10,6 +10,8 @@ the old adversary of the Afghan story is surveyed as a modern kingdom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62439 — a modern kingdom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 43: The Kingdom of England — the old adversary of the Afghan story is surveyed as a modern kingdom. Then let your companion ask you one hard question about it — answer from the lesson.

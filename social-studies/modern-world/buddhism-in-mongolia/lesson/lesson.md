@@ -10,11 +10,15 @@ monasteries multiply across Khalkha, the Bogd Jebtsundamba's Ikh Khüree becomes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62451 — a city of temples]
+
 ## Sub lesson 2 — Ch. 3.8 Buddhism and socialism
 
 the socialist state first taxes and restricts the monasteries, then moves to destroy them; a living church of hundreds of temples is reduced to almost none
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62452 — hundreds to almost none]
 
 ## Say it to your companion
 

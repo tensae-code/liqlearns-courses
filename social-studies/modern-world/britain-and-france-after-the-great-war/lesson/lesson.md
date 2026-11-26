@@ -10,11 +10,15 @@ two victors discover victory's price — Britain's empire strains (Guazzaloca's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62432 — victorys price]
+
 ## Sub lesson 2 — Modulo 1, Cap. 2 §6 Il dopoguerra dei vincitori
 
 the victors' own postwar — debts, strikes and empires to police on credit — winning proves almost as destabilising as losing
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62433 — winning destabilises too]
 
 ## Say it to your companion
 

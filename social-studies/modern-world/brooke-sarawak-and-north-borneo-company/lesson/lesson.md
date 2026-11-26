@@ -10,6 +10,8 @@ By the treaties of 1841 and 1842 with Pengiran Raja Muda Hashim, James Brooke ru
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62450 — a white rajah]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Sarawak and Sabah under Western rule — by the treaties of 1841 and 1842 with Pengiran Raja Muda Hashim, James Brooke rules Sarawak — pledged to respect Malay law and custom — and the Brunei sultan cedes the territory; the Brooke dynasty expands for a century, while in Sabah the British North Borneo Company governs under a Royal Charter with conditions it must obey. Then let your companion ask you one hard question about it — answer from the lesson.

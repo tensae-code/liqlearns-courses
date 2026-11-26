@@ -10,6 +10,8 @@ the empire that was the world's largest before 1914 shrinks after 1945 into a 22
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62431 — empire into commonwealth]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 Lesson 2, The British Empire — the empire that was the world's largest before 1914 shrinks after 1945 into a 224,046 km² island state of 58 million (2006), its politics rebuilt around parties, welfare and Europe. Then let your companion ask you one hard question about it — answer from the lesson.

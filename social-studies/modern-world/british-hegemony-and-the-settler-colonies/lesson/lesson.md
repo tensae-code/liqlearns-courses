@@ -10,6 +10,8 @@ Cook (Personaggi) charts a Pacific Britain will settle, while Crosby's ecologica
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62446 — conquering alongside flags]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 2, Cap. 5 §§3–4 British hegemony and the conquest of Australia; The biological exchange — Cook (Personaggi) charts a Pacific Britain will settle, while Crosby's ecological imperialism (the module's book) shows plants, animals and diseases conquering alongside flags. Then let your companion ask you one hard question about it — answer from the lesson.

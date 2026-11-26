@@ -10,6 +10,8 @@ Britain backs separation from Spain to take Spain's economic place without rulin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62444 — spains place without ruling]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Pretensiones de Inglaterra y los Estados Unidos por el control de América Latina — Britain backs separation from Spain to take Spain's economic place without ruling politically, while both powers seek trade routes and territory to impose their interests. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ On the ruins of saint-domingue, black and mixed-race leaders proclaim a free sta
 
 In your mind's eye: henri Christophe's kingdom in the north beside Pétion's republic in the west and south. Say how the two states bet differently.
 
+[Picture 62453 — a state no one thought possible]
+
 ## Sub lesson 2 — An authoritarian state — the Dessalinian empire
 
 Dessalines crowns himself emperor and rules by the sword; his assassination in 1806 leaves the young state without an agreed direction (Séance 2, Un État autoritaire, l'empire dessalinien et la crise d'orientation)
