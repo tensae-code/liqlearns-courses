@@ -26,11 +26,15 @@ Saka tribes unite and divide the steppe into their territories
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61123 — unions on the steppe]
+
 ## Sub lesson 4 — §25–26 Cattle-breeders of Northern and Eastern Kazakhstan
 
 northern and eastern herders live by herds, bronze and burial mounds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61124 — herds bronze and mounds]
 
 ## Sub lesson 5 — §27–28 Sakas of Southern and Central Kazakhstan
 
@@ -38,11 +42,15 @@ southern Sakas raise the great royal kurgans, Issyk among them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61125 — the royal kurgans]
+
 ## Sub lesson 6 — §29–30 Sauromatians and Massagetae
 
 Sauromatian warrior women and the Massagetae who defeated Cyrus people the western steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61126 — the western steppe peoples]
 
 ## Sub lesson 7 — 2.1 Mastering iron in Kazakhstan
 
@@ -50,11 +58,15 @@ iron tools and weapons spread and the early-Iron-Age world opens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61127 — iron mastered]
+
 ## Sub lesson 8 — 3.1 Historical information about the Sakas
 
 Persian inscriptions and Greek writers introduce the pointed-hat Sakas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61128 — the pointed hat sakas]
 
 ## Sub lesson 9 — 3.2 The "Golden Man" archaeological find
 
@@ -62,11 +74,15 @@ the Issyk kurgan yields a warrior in gold — Kazakhstan's emblem is dug out of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61129 — dug out of the earth]
+
 ## Sub lesson 10 — 3.3 Shilikty and Besshatyr royal kurgans
 
 royal burial mounds the size of hills guard Saka kings and their treasure
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61130 — mounds the size of hills]
 
 ## Sub lesson 11 — 3.4 The Berel kurgans
 
@@ -74,11 +90,15 @@ frozen Berel graves keep horses and art intact for two thousand years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61131 — kept by the ice]
+
 ## Sub lesson 12 — 3.5 The Tasmola archaeological culture
 
 Tasmola's moustache-shaped stone ridges mark a distinct Saka world in the centre
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61132 — the moustached mounds]
 
 ## Sub lesson 13 — 3.6 Saka queen Tomiris
 
@@ -86,11 +106,15 @@ Queen Tomiris defeats Cyrus of Persia and avenges her son on the battlefield
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61133 — tomiris avenges her son]
+
 ## Sub lesson 14 — 3.7 Shirak's feat
 
 the shepherd Shirak mutilates himself to lead the Persian army into a waterless trap
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61134 — the shepherds trap]
 
 ## Sub lesson 15 — §19 Periodising the Iron Age and its features
 
@@ -98,11 +122,15 @@ iron arrives and the age of mounted tribal states opens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61135 — into the iron age]
+
 ## Sub lesson 16 — §20 Mastering iron and its place in early nomads' life
 
 iron tools and weapons arm the first nomads for the open steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61136 — iron arms the nomads]
 
 ## Sub lesson 17 — §27 Sakas on Kazakhstan's territory
 
@@ -110,11 +138,15 @@ the Saka tribes take the whole steppe from Altai to the Aral
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61137 — altai to the aral]
+
 ## Sub lesson 18 — §28 Ancient Greek and Persian information about the Sakas
 
 Herodotus and Persian inscriptions introduce the Sakas to written history
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61138 — written history begins]
 
 ## Sub lesson 19 — §29 Archaeological information about the Sakas
 
@@ -122,11 +154,15 @@ kurgan excavations let the Sakas speak without written words
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61139 — the sakas speak from the earth]
+
 ## Sub lesson 20 — §30 The Issyk kurgan: the Golden Man
 
 a young warrior in golden armour rises from the Issyk mound as the nation's symbol
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61140 — the golden man]
 
 ## Sub lesson 21 — §31 Royal kurgans of the Shilikty valley
 
@@ -134,11 +170,15 @@ giant royal mounds guard Saka kings in the Shilikty valley
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61141 — the shilikty valley]
+
 ## Sub lesson 22 — §32 Besshatyr — a sacred, revered place
 
 five great kurgans ringed with menhirs form a Saka sanctuary
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61142 — a saka sanctuary]
 
 ## Sub lesson 23 — §33 Berel — relics kept in 'eternal ice'
 
@@ -146,11 +186,15 @@ frozen Berel graves preserve horses, wood and felt for two millennia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61143 — relics in eternal ice]
+
 ## Sub lesson 24 — §34 Saka applied art: the animal style
 
 gold beasts twist and fight in the famous Scythian-Saka animal style
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61144 — the animal style]
 
 ## Sub lesson 25 — §35 Saka religious beliefs and rites
 
@@ -158,11 +202,15 @@ sun and fire cults and funeral feasts order Saka spiritual life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61145 — sun fire and the feast]
+
 ## Sub lesson 26 — §36 Tasmola culture: the secret of the 'moustached kurgans'
 
 stone ridges stream from Tasmola mounds like moustaches across the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61146 — the moustache secret]
 
 ## Sub lesson 27 — §37 The Sakas' communal structure
 
