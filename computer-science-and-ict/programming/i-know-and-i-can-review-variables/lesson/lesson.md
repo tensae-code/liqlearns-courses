@@ -10,6 +10,8 @@ This **"Знам и мога" (I know and I can)** check proves the **variables*
 
 In your mind's eye: a picture of a balloon sprite with a score variable box beside it reading first 0, then 1, then 2, with a small checklist ticking "variable made" and "value changed".
 
+[Picture 47185 — a picture of a balloon sprite with a score variable box beside it reading first 0, then 1, then 2, with a small checklist ticking "variable made" and "value changed"]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This "Знам и мога" mastery check proves the variables work — making a variable, changing its value as a program runs (the balloon game) — together with the drawing blocks. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

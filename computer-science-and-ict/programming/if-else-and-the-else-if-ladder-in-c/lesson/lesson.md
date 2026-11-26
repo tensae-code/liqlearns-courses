@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **If-else statement** — covering
 
 In your mind's eye: if-else statement.
 
+[Picture 47186 — if-else statement]
+
 ## Sub lesson 2 — Doing it — If Else and the Else If Ladder in C in practice
 
 **Doing it — If Else and the Else If Ladder in C in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — If Else and the Else If Ladder in C in practice.
+
+[Picture 47187 — doing it — If Else and the Else If Ladder in C in practice]
 
 ## Say it to your companion
 

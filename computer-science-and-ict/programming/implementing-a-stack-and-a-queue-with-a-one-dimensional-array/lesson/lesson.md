@@ -10,11 +10,15 @@ An array of fixed size holds the pile; a pointer — **top (κορυφή)** — 
 
 In your mind's eye: the stack on an array — one pointer on top.
 
+[Picture 47190 — the stack on an array — one pointer on top]
+
 ## Sub lesson 2 — The queue on an array — two pointers, front and rear
 
 The queue needs **two** pointers: **front (εμπρός)** where values leave and **rear (πίσω)** where values join. Joining moves rear up and stores; leaving takes the value at front and moves front up — so the line **walks along the array** as it works, and the implementation must face the array's end honestly (the book's worked examples keep the line inside its fixed array and test full and empty by the pointers' positions). The unit works both structures through printed implementation examples step by step, pointer by pointer.
 
 In your mind's eye: the queue on an array — two pointers, front and rear.
+
+[Picture 47191 — the queue on an array — two pointers, front and rear]
 
 ## Say it to your companion
 

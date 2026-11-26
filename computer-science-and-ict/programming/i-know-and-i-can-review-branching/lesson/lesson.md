@@ -10,6 +10,8 @@ Grade 4's first **"Знам и мога" (I know and I can)** check proves the *
 
 In your mind's eye: a picture of a map of a journey with one decision point, a checklist beside it with two boxes — "yes way proved" and "no way proved". The second box still empty.
 
+[Picture 47181 — a picture of a map of a journey with one decision point, a checklist beside it with two boxes — "yes way proved" and "no way proved". The second box still empty]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This "Знам и мога" mastery check proves the branching work — the branching block and branched algorithms — inside a "Journey through Bulgaria" theme. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

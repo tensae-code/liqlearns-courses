@@ -10,11 +10,15 @@ A **frameset** document holds no page content of its own: its **FRAMESET** eleme
 
 In your mind's eye: the frameset — dividing the window.
 
+[Picture 47177 — the frameset — dividing the window]
+
 ## Sub lesson 2 — Working with frames — what they were for
 
 Frames solved a real problem of their era: a **menu frame** could stay fixed while the **content frame** changed, and a banner could head every page without being copied into each. Their costs are taught with them: a framed site has one address for many pages, so bookmarking and printing a single inner page fight the design — which is why later web practice replaced frames with page layouts. Mongolia teaches them as the book's complete-HTML duty: the pupil who can build a frameset understands how the early web was assembled, and reads old sites without mystery.
 
 In your mind's eye: working with frames — what they were for.
+
+[Picture 47178 — working with frames — what they were for]
 
 ## Say it to your companion
 

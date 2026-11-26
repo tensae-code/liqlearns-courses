@@ -10,6 +10,8 @@ The second **"Знам и мога" (I know and I can)** check comes after Scrat
 
 In your mind's eye: a picture of a Scratch stage with five small badges around it — environment, move, loop, pen, place. Four ticked and one waiting.
 
+[Picture 47183 — a picture of a Scratch stage with five small badges around it — environment, move, loop, pen, place. Four ticked and one waiting]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This "Знам и мога" mastery check proves the first Scratch skills together: the environment, moving the hero, loops, turning and drawing with the pen, and positioning on the stage. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

@@ -10,11 +10,15 @@ Two programs, identical words — one printed flush-left in a solid slab, one st
 
 In your mind's eye: steps show belonging.
 
+[Picture 47196 — steps show belonging]
+
 ## Sub lesson 2 — Indentation is meaning, kept honest
 
 Indentation is not decoration: in block representations and logigrammes it mirrors the **structure itself**, and in text languages the same steps keep humans (and some languages, the machine) certain about belonging. The séance's test is cruel and fair: scramble a program's indentation and watch readers misjudge its behaviour — then restore it and feel the certainty return. Programmers indent because programs are read a hundred times for every writing.
 
 In your mind's eye: indentation is meaning, kept honest.
+
+[Picture 47197 — indentation is meaning, kept honest]
 
 ## Say it to your companion
 

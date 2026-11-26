@@ -10,6 +10,8 @@ Bulgaria's book stops every few lessons for **"Знам и мога" — I know 
 
 In your mind's eye: a picture of a checklist with five ticks — sequence, motion blocks, path, repeats, loop. And a small flag on the one item not yet ticked.
 
+[Picture 47184 — a picture of a checklist with five ticks — sequence, motion blocks, path, repeats, loop. And a small flag on the one item not yet ticked]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This "Знам и мога" (I know and I can) lesson is the book's own mastery check: prove the sequences, motion blocks, paths, repeats and loops from the lessons before it — and find any one that is not proved yet. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

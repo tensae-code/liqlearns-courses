@@ -10,6 +10,8 @@ Grade 4 closes with **"Знам и мога. Представям проект" 
 
 In your mind's eye: a picture of a learner standing beside a screen running their journey project, pointing at one part of it while classmates watch, with speech marks showing the explanation.
 
+[Picture 47180 — a picture of a learner standing beside a screen running their journey project, pointing at one part of it while classmates watch, with speech marks showing the explanation]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: The year ends with "Знам и мога. Представям проект" — the mastery check as a presentation: run your project for an audience, explain how it works, and answer for every part of it. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

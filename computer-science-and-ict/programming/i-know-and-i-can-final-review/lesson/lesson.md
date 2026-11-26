@@ -10,6 +10,8 @@ Both Bulgaria books end their programming with a closing **"Знам и мога
 
 In your mind's eye: a picture of a full-year map — sequence, Scratch, dialogue, project, branching, variables, robot. With a learner standing at the end holding a flag that reads "I know and I can".
 
+[Picture 47179 — a picture of a full-year map — sequence, Scratch, dialogue, project, branching, variables, robot. With a learner standing at the end holding a flag that reads "I know and I can"]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: The final "Знам и мога" is the whole-course mastery review and summary: prove, in one sitting, the programming the year taught — and carry the same honest check into Grade 4's closing review. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

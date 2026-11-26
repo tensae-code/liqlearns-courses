@@ -10,11 +10,15 @@ An algorithm on paper is a promise. Implementing is keeping it; improving is kee
 
 In your mind's eye: implementing — from algorithm to working form.
 
+[Picture 47194 — implementing — from algorithm to working form]
+
 ## Sub lesson 2 — Improving — same answer, better road
 
 An algorithm is **improved** when it reaches the same answer with less: **fewer steps**, less memory, clearer working. Improvement begins by **counting** — how many steps for this size of problem, and how the count grows — then hunting the waste: steps repeated that could be remembered, searches that could stop early, work done for cases that cannot occur. Jordan's closing rule is the improver's honesty: an improvement must be **proved** — tracked and tested on the same cases — because a 'faster' algorithm that answers differently has not improved the road; it has changed the destination.
 
 In your mind's eye: improving — same answer, better road.
+
+[Picture 47195 — improving — same answer, better road]
 
 ## Say it to your companion
 

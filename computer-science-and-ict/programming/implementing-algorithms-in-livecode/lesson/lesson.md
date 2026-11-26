@@ -10,11 +10,15 @@ A LiveCode program is a **stack of cards** — screens — and each card carries
 
 In your mind's eye: liveCode — cards, controls and scripts.
 
+[Picture 47192 — liveCode — cards, controls and scripts]
+
 ## Sub lesson 2 — From algorithm to running program
 
 **Implementing** an algorithm means **translating its steps into the tool's objects and scripts**: each step of the algorithm finds its home — an input step becomes a field, a decision becomes a script that tests, an output becomes a field or a message. Then the program is **run and tested** against cases whose answers are known from the algorithm worked by hand; where they differ, the implementation — not the algorithm — is debugged first. Cuba closes the chapter with an integrative project: the whole road, algorithm to running program, walked once entire.
 
 In your mind's eye: from algorithm to running program.
+
+[Picture 47193 — from algorithm to running program]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ After the screen is left behind, the book checks the new ground with a **"Зна
 
 In your mind's eye: a picture of the bee robot arriving exactly at a star on a mat, with a checklist beside it — "cleared", "entered in order", "arrived", "shape closed". The last box being ticked.
 
+[Picture 47182 — a picture of the bee robot arriving exactly at a star on a mat, with a checklist beside it — "cleared", "entered in order", "arrived", "shape closed". The last box being ticked]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This "Знам и мога" mastery check proves the robot work: what a programmable device is, Blue-Bot commands and routes, and driving shapes — all proved on the mat, not on paper alone. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.
