@@ -10,11 +10,15 @@ The heritage topics close by naming the value that carries them. A person is a p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39399 — a circle of eight figures around an elder]
+
 ## Sub lesson 2 — The attributes of unhu (Grade 2)
 
 A year on, unhu is unpacked into its attributes. The value stops being one big word and becomes a checklist a child can use: how a good person treats others, item by item, day by day.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39400 — a checklist panel with three ticked rows]
 
 ## Say it to your companion
 

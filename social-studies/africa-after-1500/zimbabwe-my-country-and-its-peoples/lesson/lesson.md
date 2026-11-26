@@ -10,11 +10,15 @@ Zimbabwe is named as home, with Harare its capital and ten provinces. Then its p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39384 — three panels — Ndau dancers, a Tonga fisher, a masked Chewa dancer]
+
 ## Sub lesson 2 — Ethnic groups and their languages (Grade 2)
 
 The peoples lesson returns, now with languages attached. Each group is known by two things together: where it lives, and the tongue it speaks — place and language, the twin name-tags of a people.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39385 — three figures with speech tags and place-and-language labels]
 
 ## Sub lesson 3 — Customs of different cultural groups (Grade 4)
 
@@ -22,17 +26,23 @@ Each cultural group in Zimbabwe keeps its own customs. The lesson lines them up 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39386 — four custom panels — a drum, a pot, a dancer, a woven pattern]
+
 ## Sub lesson 4 — The different languages of Zimbabwe (Grade 5)
 
 Now the country's many tongues are counted and mapped. Language itself becomes the census of Zimbabwe's peoples: count the languages and you have counted the nation, people by people.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39387 — a map panel dotted with speech bubbles and a tally row]
+
 ## Sub lesson 5 — Ethnic groups and their cultures (Grade 6)
 
 At the top of the cycle the peoples of Zimbabwe are paraded group by group, each with its culture. The nation is learned, finally and fully, as a gathering of distinct peoples — no people a footnote, each one a chapter.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39388 — six figures paraded, each standing on its own chapter block]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The war's central grievance outlives the war. After independence the land stays 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39383 — two panels — one fenced farm, then four family plots with farmers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the land reform programme. Then let your companion ask you one hard question about it — answer from the lesson.

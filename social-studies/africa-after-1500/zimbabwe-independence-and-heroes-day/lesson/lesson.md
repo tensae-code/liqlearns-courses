@@ -10,17 +10,23 @@ On 18 April the country marks the 1980 break from colonial rule — Independence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39378 — the Zimbabwe flag, grave mounds and a flame at the Heroes Acre]
+
 ## Sub lesson 2 — National events — the district joins in (Grade 3)
 
 The national calendar returns at Grade 3 with the district added. The country's milestones are now also the town's own days of remembrance — the national story lands on local ground.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39379 — a national-days panel, a district hall with a flag, townsfolk]
+
 ## Sub lesson 3 — The five holidays of the settlement (Grade 6)
 
 The year is re-founded in holidays: Independence Day, Heroes Day, Defence Forces Day, Unity Day — 22 December 1987 — and Workers Day. Each one is a chapter of the national story, retold annually so no chapter is forgotten.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39380 — five holiday panels, each with its flag]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ It begins on foot: footpaths through the land and runners carrying messages. The
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39398 — a runner with a message stick, a train, a car, a plane]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: development of transport and communication. Then let your companion ask you one hard question about it — answer from the lesson.

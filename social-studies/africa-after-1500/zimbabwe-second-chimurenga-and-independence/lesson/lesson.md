@@ -10,11 +10,15 @@ The second war opens at Chinhoyi in 1966, where ZANU and ZAPU's armies — ZANLA
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39396 — bush trees with ZANLA and ZIPRA tags, a Lancaster House table, the 1980 flag]
+
 ## Sub lesson 2 — Independence and self-governance (Grade 7)
 
 At Grade 7, 1980 is re-read as a definition. Independence means this: a people who had no say under colonial rule now choose their leaders, control their resources and keep their own identity. Anything less is not yet independence.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39397 — three panels — a ballot box, a mine and crops, a drum]
 
 ## Say it to your companion
 

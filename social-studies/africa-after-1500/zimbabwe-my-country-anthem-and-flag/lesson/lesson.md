@@ -10,11 +10,15 @@ A small child learns that her country is Zimbabwe. She stands at attention for i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39389 — the Zimbabwe flag with four colour labels and a child at attention]
+
 ## Sub lesson 2 — The flag's five colours, the pledge and the anthem (Grade 1)
 
 A year on, the flag's five colours are sung as a rhyme — red for the blood of those who fought for freedom, white for peace — and the morning pledge turns that story into a daily promise: hard work, honesty and unity, spoken by the child herself.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39390 — the flag, five colour dots, a child pledging hand on heart]
 
 ## Sub lesson 3 — National colours (ECD B)
 
@@ -22,11 +26,15 @@ The anthem and the flag return, and now the colours step out of the flag to be l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39391 — five colour swatches with their meanings]
+
 ## Sub lesson 4 — Anthem, symbols and pledge — one kit of belonging (Grade 2)
 
 Anthem, symbols and pledge are gathered as one kit of belonging. They are recited and sung again and again until the nation's story is no longer the teacher's story — it is carried in the child's own voice.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39392 — three panels — anthem notes, the flag, pledge lines]
 
 ## Sub lesson 5 — National symbols explained (Grade 3)
 
@@ -34,17 +42,23 @@ Now the symbols are revisited as a set to be explained, not just recognised. Eac
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39393 — the flag, a pointing child and an it-means panel]
+
 ## Sub lesson 6 — Why the national school pledge matters (Grade 4)
 
 The pledge is now studied for why it matters. It is a daily spoken promise that binds the schoolchild to the country's story — said every morning, it ties one child's day to the whole nation's past.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39394 — three children hand on heart, a red thread to a past panel with the flag]
+
 ## Sub lesson 7 — Symbols of the settlement — flag, bird and coat of arms (Grade 6)
 
 After the war, the settlement is symbolic. The flag, the Zimbabwe bird and the coat of arms appear on money and on documents, so the state the people fought for is seen every day, in every hand.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39395 — a coin with a bird emblem, a document with a shield, the flag]
 
 ## Say it to your companion
 

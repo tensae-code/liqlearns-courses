@@ -10,6 +10,8 @@ The same needs, two worlds. The work and play of grandparents are set against th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39401 — two panels — a hoe and story-fire, a phone and screen]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: work and leisure in the past and present. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ The knowledge that kept communities alive — healing, farming, weather and craf
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39381 — four panels — healing herbs, a hoe, sun and cloud, a pot — under an IKS panel]
+
 ## Sub lesson 2 — Preserving food — the old ways beside the new (Grade 7)
 
 The old food-keeping knowledge — drying, smoking, storing — is set beside today's methods and judged on its own merits. IKS appears here as living technology: the question is not whether it is old, but whether it works.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39382 — two panels — a drying rack and smoking hut, a fridge]
 
 ## Say it to your companion
 
