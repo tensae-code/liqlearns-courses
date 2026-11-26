@@ -10,17 +10,23 @@ Cipriano Castro marches from Colombia in 1899 at the head of the Liberal Restora
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39817 — restoration]
+
 ## Sub lesson 2 — The twentieth century opens with a nationalist government under the sign of oil
 
 The century begins with Castro's nationalist government, then Gómez takes power and oil moves to the centre of national life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39816 — oilcentre]
+
 ## Sub lesson 3 — Government of Cipriano Castro (1899–1908)
 
 Castro's Liberal Restoration marches from the Andes to Caracas and governs defying the foreign houses and fleets
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39815 — andesmarch]
 
 ## Say it to your companion
 

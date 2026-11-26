@@ -10,11 +10,15 @@ The king of Spain drew the Captaincy General of Venezuela's limits, and today's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39824 — kingsline]
+
 ## Sub lesson 2 — Border controversies and international conflicts
 
 The young republic argues its inherited colonial borders with neighbours and empires, losing and defending territory on paper and in the field
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39823 — argued]
 
 ## Say it to your companion
 

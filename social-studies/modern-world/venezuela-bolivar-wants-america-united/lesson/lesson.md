@@ -10,6 +10,8 @@ With the continent nearly free, Bolívar pushes for its union — the dream that
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39827 — uniondream]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Almost all Latin America liberated, and Bolívar wants it united — with the continent nearly free, Bolívar pushes for its union — the dream that will be tested in the next chapter and fail. Then let your companion ask you one hard question about it — answer from the lesson.

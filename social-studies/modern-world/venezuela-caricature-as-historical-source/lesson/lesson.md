@@ -10,6 +10,8 @@ From the nineteenth century Venezuelan caricature denounces with humour — Juan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39818 — juanbimba]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Caricature in the oil age as a source — from the nineteenth century Venezuelan caricature denounces with humour — Juan Bimba, the people, crosses López Contreras's bridge from dictatorship toward democracy. Then let your companion ask you one hard question about it — answer from the lesson.

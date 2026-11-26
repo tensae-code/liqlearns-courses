@@ -10,17 +10,23 @@ Austerity sparks the Caracazo explosion, and the economic wreckage behind the 19
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39821 — spark]
+
 ## Sub lesson 2 — A conflictive period: Pérez's second Presidency
 
 Austerity, the Caracazo and two 1992 military rebellions break the old system's calm in Pérez's second term
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39820 — pricetag]
+
 ## Sub lesson 3 — Second governments of Pérez and Caldera (1989–1999)
 
 The Caracazo, two coup attempts, a president impeached and Caldera's return close the Punto Fijo age
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39819 — pactarch]
 
 ## Say it to your companion
 

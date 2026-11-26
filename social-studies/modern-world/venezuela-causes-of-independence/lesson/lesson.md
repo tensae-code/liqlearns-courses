@@ -10,6 +10,8 @@ Taxes, exclusions and the rising of the gente del común show independence growi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39814 — commonpeople]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Internal causes of independence; when the common people rose — taxes, exclusions and the rising of the gente del común show independence growing from inside the colony, not only from European ideas. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Rain falls in Caracas the day Simón is born; the patio house is happy until dea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39826 — rainbirth]
+
 ## Sub lesson 2 — A Liberator is born
 
 The birth of the child who will liberate is told as a door opening — birds leave the cage as the liberator enters the world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39825 — dooropens]
 
 ## Say it to your companion
 

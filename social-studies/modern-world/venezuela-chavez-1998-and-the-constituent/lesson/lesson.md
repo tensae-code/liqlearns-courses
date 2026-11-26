@@ -10,11 +10,15 @@ Amid economic collapse Hugo Chávez wins in 1998, takes office in February 1999 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39813 — headlines]
+
 ## Sub lesson 2 — Chávez: a new model of government
 
 Chávez wins in 1998 promising refoundation, and a constituent process opens a participatory model
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39812 — 1998win]
 
 ## Sub lesson 3 — The 1999 constituent process: meeting of dreams and knowledge
 
@@ -22,11 +26,15 @@ A consultative referendum, election of the Constituent Assembly and a final refe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39811 — peoplemake]
+
 ## Sub lesson 4 — Government of Hugo Rafael Chávez (1999–2012)
 
 Chávez refounds the republic in 1999, survives coup and oil strike, and governs through missions and a new oil policy to 2012
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39810 — timeline]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The liberator of armies becomes a president who must govern, and the story follo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39829 — office]
+
 ## Sub lesson 2 — A president on liberating campaigns
 
 Bolívar governs from the saddle, campaigning and presiding at once, so the republic is born already shaped by war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39828 — saddle]
 
 ## Say it to your companion
 

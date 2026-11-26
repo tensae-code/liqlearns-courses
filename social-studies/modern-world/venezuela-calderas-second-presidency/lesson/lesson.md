@@ -10,6 +10,8 @@ Caldera returns outside the old pact, pardons the 1992 rebels and governs the sy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39822 — pardon]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Rafael Caldera's second Presidency — Caldera returns outside the old pact, pardons the 1992 rebels and governs the system's final crisis. Then let your companion ask you one hard question about it — answer from the lesson.
