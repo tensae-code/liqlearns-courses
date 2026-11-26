@@ -10,6 +10,8 @@ Aden, the port bridging east-west trade, solves its thirst with giant cisterns c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60524 — the cisterns of Aden]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Cisterns of Aden — aden, the port bridging east-west trade, solves its thirst with giant cisterns cut into Wadi al-Tawila on the slopes of Jabal Shamsan under the Himyarite kings — a cascading chain of tanks some 229 metres long that cleans the water as it falls, holding some 14 million litres and shielding the crater city from the floods; of 55 cisterns, 18 still stand in good repair after the British occupation destroyed many. Then let your companion ask you one hard question about it — answer from the lesson.

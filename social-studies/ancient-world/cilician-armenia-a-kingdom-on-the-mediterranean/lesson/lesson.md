@@ -26,6 +26,8 @@ the guide stages Cilicia as Armenia's civilisational answer — a trading kingdo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60523 — a culture that flowered]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§2.1–2.2 Armenian statehood arises in Cilicia and the kingdom is proclaimed — refugee princes carve a state from Byzantium's edge, and in 1198 Levon is crowned king with a crown sent by pope and emperor, §§2.3–2.4 Cilician Armenia in the 1200s–1300s: state order and socio-economic life — ports like Ayas grow rich on the Europe–Asia trade while crusader alliances slowly fail to save the kingdom, Teaching guidance for Chs. 2–3, Cilician Armenia and medieval culture — the guide stages Cilicia as Armenia's civilisational answer — a trading kingdom and a culture that flowered without one. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ bishops gather in councils to keep one faith across many lands, while the Church
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60544 — councils and charity]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unity and conciliarity in the Church; change in society — bishops gather in councils to keep one faith across many lands, while the Church's charity quietly reshapes Roman society. Then let your companion ask you one hard question about it — answer from the lesson.

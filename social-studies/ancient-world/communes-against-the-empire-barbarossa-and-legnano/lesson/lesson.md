@@ -10,6 +10,8 @@ Frederick Barbarossa descends to crush the communes' liberties; the Lombard Leag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60532 — Legnano 1176]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 2, Cap. 4 §3 The clash between the Communes and the Empire — Frederick Barbarossa descends to crush the communes' liberties; the Lombard League's carroccio infantry stops his knights at Legnano (1176) and the Peace of Constance recognises the cities. Then let your companion ask you one hard question about it — answer from the lesson.

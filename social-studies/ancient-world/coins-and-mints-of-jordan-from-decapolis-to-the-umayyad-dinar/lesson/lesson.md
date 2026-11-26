@@ -10,6 +10,8 @@ from barter to numismatics — Rome lets the Decapolis cities strike their own c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60531 — barter to the pure dinar]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 7: coinage (al-maskukat) in Jordan — from barter to numismatics — Rome lets the Decapolis cities strike their own copper and bronze, stamped with the city's name and Latin values; the first Muslims keep Byzantium's gold dinar and Persia's silver dirham, then arabise them step by step (Umar adds "alhamdulillah", Uthman "Allahu akbar", Mu'awiya writes his name even in Pahlavi); Abd al-Malik puts his own image where the emperor's stood, then strikes the pure Islamic dinar in 77 AH/696; the little copper fals (from Latin follis, "money-bag") serves daily trade, and Amman and Jerash work as mints. Then let your companion ask you one hard question about it — answer from the lesson.

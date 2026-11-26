@@ -10,6 +10,8 @@ surplus appears, some families hold more than others, and equality quietly break
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60534 — surplus breaks equality]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.3–1.4 Traits of community society; its decomposition and transition to class societies — surplus appears, some families hold more than others, and equality quietly breaks into chiefs, priests and the first classes. Then let your companion ask you one hard question about it — answer from the lesson.

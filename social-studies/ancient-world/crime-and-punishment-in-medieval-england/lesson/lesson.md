@@ -10,6 +10,8 @@ Local communities, the king and the Church share justice in Anglo-Saxon England;
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60546 — justice shared three ways]
+
 ## Sub lesson 2 — 1.2 Crime, punishment and law enforcement in Norman England
 
 William, who took the throne by force at Hastings, tightens royal grip on the law with the Forest Laws, the murdrum fine and trial by combat.

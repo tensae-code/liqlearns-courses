@@ -10,11 +10,15 @@ Constantine founds a New Rome on the Bosporus, where Europe meets Asia and the s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60537 — a New Rome on the Bosporus]
+
 ## Sub lesson 2 — Unit 7 Constantinople is fortified and adorned with works of art
 
 Theodosian walls ring the city while forums, columns and churches dress the new capital as an empress
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60538 — walls and monuments]
 
 ## Sub lesson 3 — Unit 6 New capital exercises
 
@@ -22,11 +26,15 @@ pupils match other refounded capitals to Constantinople's story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60539 — the matching exercise]
+
 ## Sub lesson 4 — Unit 7 Fortified and adorned Constantinople exercises
 
 picture work reads the walls and monuments as the city's armour and crown
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60540 — armour and crown]
 
 ## Sub lesson 5 — Ch. J5 Constantine: the great turn
 
@@ -34,11 +42,15 @@ Constantine wins under the cross, tolerates and favours Christianity, and founds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60541 — Constantine wins under the cross]
+
 ## Sub lesson 6 — Ch. 1.I.1 From Rome to the New Rome
 
 Constantine moves the empire's heart east and the Roman state begins its thousand-year Greek transformation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60542 — the heart moves east]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Alexandru cel Bun and his fellow rulers strengthen Moldavia and Wallachia with l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60535 — Alexandru strengthens Moldavia]
+
 ## Sub lesson 2 — Unitatea II, Lecția 8: Viața politică a Țării Moldovei. Alexandru cel Bun
 
 Alexander the Good defends Moldavia's independence, guards its trade roads, founds bishoprics and brings St John the New's relics to Suceava, while Poland and Hungary sign the 1412 Treaty of Lubla over his land
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60536 — relics to Suceava, Lubla 1412]
 
 ## Say it to your companion
 

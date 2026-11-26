@@ -10,11 +10,15 @@ Clovis unites the Franks, accepts baptism at Reims and wins the Church for his d
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60529 — Clovis to Charlemagne]
+
 ## Sub lesson 2 — Theme 2: the Franks and the Holy Roman Empire
 
 Clovis's baptism wins the Church for the Franks; Charles Martel halts the Arabs, Pepin takes a crown, and Charlemagne's Aachen court sparks a renaissance before Verdun splits his empire three ways — Otto I's imperial coronation in 962 refounds an "empire" that is really a loose league of princes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60530 — Verdun and Otto]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ temples crown the Acropolis, tragedy and comedy fill the theatre, and Socrates, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60527 — temples, theatre, thinkers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §19 The culture of classical Greece — temples crown the Acropolis, tragedy and comedy fill the theatre, and Socrates, Plato and Aristotle teach Greece — and everyone after — how to think. Then let your companion ask you one hard question about it — answer from the lesson.

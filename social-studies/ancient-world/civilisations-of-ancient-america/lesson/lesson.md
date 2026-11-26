@@ -10,6 +10,8 @@ against the old belief that America's civilisations were young, research shows h
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60526 — thousands of years deep]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 31: The American civilisation — against the old belief that America's civilisations were young, research shows human life there thousands of years deep, with its own political, social, economic and cultural orders. Then let your companion ask you one hard question about it — answer from the lesson.
