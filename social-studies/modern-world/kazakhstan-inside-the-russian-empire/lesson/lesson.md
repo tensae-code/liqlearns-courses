@@ -58,11 +58,15 @@ the Steppe Statute of 1891 completes the colonial framework
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64158 — the framework completed]
+
 ## Sub lesson 8 — §43 Trade relations develop in Kazakhstan
 
 caravan fairs link the steppe to Russia and Central Asia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64159 — caravan fairs link the steppe]
 
 ## Sub lesson 9 — §§31–32 Administrative-territorial reforms (second half of the 19th century)
 
