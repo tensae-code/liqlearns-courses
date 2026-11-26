@@ -10,11 +10,15 @@ Bumin and Istemi found the first great Turkic empire across the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61213 — the first turkic empire]
+
 ## Sub lesson 2 — §3–4 The Western and Eastern Turkic Khaganates
 
 the khaganate splits into rival West and East, each ruling its half of Eurasia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61214 — west against east]
 
 ## Sub lesson 3 — §5 The Turgesh Khaganate (704–756)
 
@@ -22,11 +26,15 @@ the Turgesh take the West's throne and hold Semirechye against Arabs and China
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61215 — holding semirechye]
+
 ## Sub lesson 4 — §6 The Karluk Khaganate (756–940)
 
 the Karluks succeed in the south-east and guard the Silk Road towns
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61216 — guarding the road towns]
 
 ## Sub lesson 5 — §7 Written sources on Turkic rulers' politics
 
@@ -34,11 +42,15 @@ Chinese annals and runic stones let pupils judge the khagans from evidence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61217 — judged from evidence]
+
 ## Sub lesson 6 — §8 Old Turkic writing
 
 the Orkhon runes carve Kultegin's and Bilge Khagan's deeds in stone
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61218 — deeds carved in stone]
 
 ## Sub lesson 7 — §9 The Battle of Atlakh (Talas), summer 751
 
