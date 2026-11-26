@@ -10,6 +10,8 @@ Timur rebuilds a Mongol-style empire from Samarkand and crushes the Ottomans at 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61626 — timur and the ming]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 3, Cap. 8 §6 The Asian scene: the parabola of Tamerlane and Ming China — Timur rebuilds a Mongol-style empire from Samarkand and crushes the Ottomans at Ankara (1402), while the Ming expel the Mongols and refound a Chinese empire. Then let your companion ask you one hard question about it — answer from the lesson.

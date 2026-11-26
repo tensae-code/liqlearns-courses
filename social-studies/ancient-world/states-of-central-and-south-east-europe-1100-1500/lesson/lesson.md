@@ -10,6 +10,8 @@ Bohemia, Poland and Hungary rise and fragment; Casimir the Great reunifies Polan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61606 — rise and fragment]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea II, Lecția 2: Formarea şi evoluția statelor în Europa Centrală şi de Sud-Est (sec. XI–XV) — Bohemia, Poland and Hungary rise and fragment; Casimir the Great reunifies Poland, and Kievan Rus breaks apart under its princes. Then let your companion ask you one hard question about it — answer from the lesson.

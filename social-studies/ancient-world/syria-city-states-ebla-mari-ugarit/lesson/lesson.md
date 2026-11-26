@@ -10,11 +10,15 @@ Syria's cities grow into city-states, then kingdoms — Ebla, Mari and Ugarit ea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61618 — from city to kingdom]
+
 ## Sub lesson 2 — Ebla's tablet library, Mari's palace and Ugarit's alphabet
 
 Ebla (Tell Mardikh) near Aleppo kept a huge library of thousands of clay tablets, Mari on the Euphrates had its royal palace, temples and statues, and Ugarit (Ras Shamra) invented the alphabetic writing it gave to all peoples, its tablets kept in the National Museum in Damascus.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61619 — tablets palace alphabet]
 
 ## Say it to your companion
 

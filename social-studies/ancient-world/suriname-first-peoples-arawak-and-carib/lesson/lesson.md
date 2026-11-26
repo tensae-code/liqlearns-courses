@@ -10,11 +10,15 @@ Before you read on, hold this lesson's one thing in mind: 500 years ago only Ind
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61615 — the first inhabitants]
+
 ## Sub lesson 2 — Eerste Inheemsen in ons land
 
 The first Indigenous people reach Suriname 7,000–10,000 years ago via the Sipaliwini savanna; Arawak ancestors come from the Amazon/Orinoco 3,000+ years ago, and around 1100 the Caribs reach the Guiana coast by sea (Eerste Inheemsen in ons land)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61616 — three arrivals]
 
 ## Say it to your companion
 

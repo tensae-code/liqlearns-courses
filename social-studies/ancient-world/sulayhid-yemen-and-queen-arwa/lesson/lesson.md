@@ -10,17 +10,23 @@ Ali bin Muhammad al-Sulayhi, seasoned guarding the Hajj road and preaching the F
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61611 — arwa rules yemen]
+
 ## Sub lesson 2 — The development of women's roles: the ruling queen (Unit 3 Lesson 3, fifth part)
 
 among the models of women's rising roles — Aisha the scholar and teacher, women soldiers in the armies, political guides stronger in counsel than the caliph himself — the book names Yemen's own Sayyida bint Ahmad al-Sulayhi, Queen Arwa, who ruled the Sulayhid state and stands among the most famous kings of Yemen in Islamic history, beside Egypt's Shajar al-Durr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61612 — the ruling queen]
+
 ## Sub lesson 3 — Yemeni states that contributed: the Sulayhid state (Unit 4 Lesson 2)
 
 the Sulayhids unite Yemen under one leadership for nearly a century, and Queen Arwa rules almost fifty years with justice, building the Jibla mosque and some twenty-two mosques, endowing scholars' and students' salaries, while Sulayhid roads are cut through mountains with pillars, arches and bridges that still stand
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61613 — fifty years of justice]
 
 ## Say it to your companion
 

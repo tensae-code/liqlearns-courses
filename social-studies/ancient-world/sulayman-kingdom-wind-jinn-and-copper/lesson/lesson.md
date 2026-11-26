@@ -10,6 +10,8 @@ Sulayman inherits Dawud's prophethood and kingdom and asks for a kingdom no one 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61614 — a kingdom like no other]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Prophet of God Sulayman — sulayman inherits Dawud's prophethood and kingdom and asks for a kingdom no one after him will have — the wind runs at his command like a transport fleet, a spring of molten copper feeds his industries, jinn dive for pearls and raise buildings and cauldrons too heavy to move, and he understands the speech of birds and ants; he dies leaning on his staff and the jinn labour on, not knowing, until a termite eats the staff through — and after him his kingdom splits into Judah and Israel. Then let your companion ask you one hard question about it — answer from the lesson.

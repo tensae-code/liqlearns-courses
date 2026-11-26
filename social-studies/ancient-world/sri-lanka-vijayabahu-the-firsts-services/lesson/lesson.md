@@ -10,6 +10,8 @@ The liberator rebuilds ruined tanks like Maha Kalugalla, restores viharas, bring
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61603 — the liberator rebuilds]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Vijayabahu I's political, economic and religious services — the liberator rebuilds ruined tanks like Maha Kalugalla, restores viharas, brings monks from Burma to restart ordination, and marries into Kalinga and Pandya. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Bhuvanekabahu I builds a rock fortress at Yapahuwa and trades with Egypt, Parakr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61604 — rock fortress and learning]
+
 ## Sub lesson 2 — The south-western kingdoms and their culture
 
 After Magha, capitals hop south-west — Dambadeniya's Parakramabahu II makes a golden age of literature, Yapahuwa guards the Tooth Relic, and Gampola's Bhuvanaikabahu IV rules a shrinking but cultured kingdom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61605 — capitals hop south-west]
 
 ## Say it to your companion
 

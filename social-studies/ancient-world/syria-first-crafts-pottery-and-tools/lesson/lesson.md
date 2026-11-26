@@ -10,6 +10,8 @@ Stone, bone, wood and clay are shaped into the first tools and pots, and raw nat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61620 — nature becomes craft]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Syria — first crafts: pottery and tools. Then let your companion ask you one hard question about it — answer from the lesson.

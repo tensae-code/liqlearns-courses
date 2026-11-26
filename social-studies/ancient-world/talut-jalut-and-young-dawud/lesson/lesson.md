@@ -10,6 +10,8 @@ humbled in the Levant and robbed of the Ark, the Israelites beg their prophet fo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61625 — dawud turns the day]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Talut and Jalut — humbled in the Levant and robbed of the Ark, the Israelites beg their prophet for a king, then recoil when fighting is actually decreed and again when the chosen king, Talut, is a nobody without wealth; his sign is the Ark returning on angels' wings, his test is the river — drink more than a handful and fall away — and the little band that is left faces Jalut's giant army, prays, and watches the youth Dawud kill Jalut and turn the day. Then let your companion ask you one hard question about it — answer from the lesson.

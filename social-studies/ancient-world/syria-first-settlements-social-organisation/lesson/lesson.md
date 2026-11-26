@@ -10,6 +10,8 @@ Humans in Syria move from the Yabroud caves to the first villages like Abu Hurey
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61621 — from caves to villages]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Syria — first settlements and social organisation. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Hittites with iron, Assyria's military machine, Urartu, Phoenicia's sailors and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61607 — the crossroads states]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §15 The states of the Near East and their neighbours — Hittites with iron, Assyria's military machine, Urartu, Phoenicia's sailors and ancient Israel share the crossroads of the ancient world. Then let your companion ask you one hard question about it — answer from the lesson.
