@@ -10,6 +10,8 @@ elites imitate Europe and autonomous science struggles, yet Ameghino's palaeonto
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40568 — fossilsandvoice]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Avances científicos y tecnológicos en América Latina en el siglo XIX — elites imitate Europe and autonomous science struggles, yet Ameghino's palaeontology and Landell de Moura's wireless voice transmission stand out as steamships, railways, telegraph and electric light spread. Then let your companion ask you one hard question about it — answer from the lesson.

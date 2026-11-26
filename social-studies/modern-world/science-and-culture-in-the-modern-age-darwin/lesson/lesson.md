@@ -10,6 +10,8 @@ classicism yields to the modern novel; Darwin founds a new biology, and the case
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40576 — classicismyields]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §47: Evoluţia culturii în epoca modernă — classicism yields to the modern novel; Darwin founds a new biology, and the case study asks who answers for human creation. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Darwin, Pasteur, Faraday and their peers rebuild the picture of nature and life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40562 — naturepicture]
+
 ## Sub lesson 2 — §12.1 Which scientific discovery of the 19th century had the greatest influence on people's lives?
 
 Nobel's dynamite fortune becomes peace prizes, Daguerre fixes the image, Darwin rewrites life's story — pupils argue for the most life-changing discovery
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40561 — whichdiscovery]
 
 ## Say it to your companion
 

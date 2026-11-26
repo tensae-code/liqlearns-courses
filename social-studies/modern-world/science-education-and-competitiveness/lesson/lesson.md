@@ -10,6 +10,8 @@ Baikonur's rockets and classroom investment are weighed as development strategie
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40563 — rocketsclassrooms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §28 Features of developing countries' cultural-technical development; the Baikonur cosmodrome; education's role in society's competitiveness — Baikonur's rockets and classroom investment are weighed as development strategies. Then let your companion ask you one hard question about it — answer from the lesson.

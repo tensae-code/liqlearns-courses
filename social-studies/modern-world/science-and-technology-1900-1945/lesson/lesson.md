@@ -10,17 +10,23 @@ relativity, quanta, aviation, antibiotics and mass production change what humans
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40571 — newpowers]
+
 ## Sub lesson 2 — §30 The most important discoveries and achievements of science, technology and production in the first half of the 20th century
 
 relativity, aviation, antibiotics and mass production change the possible
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40570 — massproduction]
+
 ## Sub lesson 3 — §9.2 What changes took place in the first half of the 20th century in the development of science and technology?
 
 from biplanes to the atomic bomb in one generation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40569 — biplanestobomb]
 
 ## Say it to your companion
 

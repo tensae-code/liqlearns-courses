@@ -10,11 +10,15 @@ Darwin, Pasteur, Marx and Freud remake how the world explains nature, society an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40575 — fourremakers]
+
 ## Sub lesson 2 — Science and thought in the 19th-century world
 
 Darwin rewrites man's place in nature, Marx rewrites society's, and laboratories change daily life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40574 — naturesocietylife]
 
 ## Sub lesson 3 — The 19th-century world scene: the triumph of science
 
@@ -22,11 +26,15 @@ steam gives way to electricity, germs are found, evolution is argued — science
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40573 — agesauthority]
+
 ## Sub lesson 4 — The movement of ideas: science and thought of the 19th century
 
 positivism, Darwin, Marx and the new social sciences remake how the century explains nature and society
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40572 — centuryexplains]
 
 ## Say it to your companion
 

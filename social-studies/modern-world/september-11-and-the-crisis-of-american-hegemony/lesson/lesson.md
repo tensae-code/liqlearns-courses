@@ -10,11 +10,15 @@ Before you read on, hold this lesson's one thing in mind: 11 September 2001 (the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40558 — towerswarscrash]
+
 ## Sub lesson 2 — Modulo 17 §§4–5 La crescita del fondamentalismo; L'attacco all'Occidente
 
 fundamentalism (the module's keyword) grows across decades until 11 September (Eventi) strikes New York and Washington; bin Laden's declaration (Fare storia Document) states the enemy's own case
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40557 — daycenturyturned]
 
 ## Say it to your companion
 

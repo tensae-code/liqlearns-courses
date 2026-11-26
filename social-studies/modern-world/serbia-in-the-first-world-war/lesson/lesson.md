@@ -10,6 +10,8 @@ The war begins as a great power's punishment expedition against a small exhauste
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40555 — ultimatumexhausted]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2.2 Serbia in the First World War: Austria-Hungary, accusing Serbia of complicity in the assassination, sends an ultimatum to a Serbia exhausted by the Balkan Wars. Then let your companion ask you one hard question about it — answer from the lesson.

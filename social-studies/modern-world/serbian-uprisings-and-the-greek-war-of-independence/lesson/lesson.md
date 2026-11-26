@@ -10,6 +10,8 @@ two Christian peoples shoot their way out of the empire, Serbia by bargaining an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40554 — bargainingfleets]
+
 ## Sub lesson 2 — Theme 2: autonomous Serbia builds its first state and educational institutions, Ilija Garašanin and Prince Mihailo Obrenović shape the principality (1830–1878)
 
 autonomy becomes a working state with schools, laws and a plan for all Serbs

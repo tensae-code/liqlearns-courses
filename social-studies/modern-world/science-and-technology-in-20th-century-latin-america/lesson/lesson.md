@@ -10,6 +10,8 @@ relativity, the diesel engine, Ford's assembly line and Marconi's wireless open 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40567 — linestophones]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Avances científicos y tecnológicos en América Latina en el siglo XX — relativity, the diesel engine, Ford's assembly line and Marconi's wireless open the century; it closes with internet, computers and mobile phones remaking daily life. Then let your companion ask you one hard question about it — answer from the lesson.

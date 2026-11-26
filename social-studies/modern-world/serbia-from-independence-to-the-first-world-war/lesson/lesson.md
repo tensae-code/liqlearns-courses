@@ -10,6 +10,8 @@ a small kingdom modernises, quarrels with its kings and doubles its land in two 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40556 — kingdomdoubled]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: Serbia from independence to the First World War — Milan's reforms provoke a crushed revolt (1883), a boy king seizes power (1893), and Serbia fights both Balkan Wars — a small kingdom modernises, quarrels with its kings and doubles its land in two wars. Then let your companion ask you one hard question about it — answer from the lesson.

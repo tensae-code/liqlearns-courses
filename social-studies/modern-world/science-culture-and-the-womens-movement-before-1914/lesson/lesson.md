@@ -10,11 +10,15 @@ laboratories and art studios change how people see disease, the world and the pi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40565 — labsandstudios]
+
 ## Sub lesson 2 — Theme 3: the struggle for women's rights becomes one of the era's great movements
 
 women organise to demand the education and the vote the new century promised everyone else
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40564 — educationandthevote]
 
 ## Say it to your companion
 

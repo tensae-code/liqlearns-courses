@@ -10,6 +10,8 @@ eastern scholars and reformers answer western science with translations, schools
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40577 — answersoftheirown]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §30 Science and culture in the countries of the East — eastern scholars and reformers answer western science with translations, schools and new learning of their own. Then let your companion ask you one hard question about it — answer from the lesson.

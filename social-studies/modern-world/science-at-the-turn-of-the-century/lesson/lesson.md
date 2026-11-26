@@ -10,6 +10,8 @@ Faraday and Maxwell build the theory of electromagnetism, the Curies, Becquerel 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40566 — universeredrawn]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VIII §41 The development of the exact and natural sciences — Faraday and Maxwell build the theory of electromagnetism, the Curies, Becquerel and Rutherford open the atom, Tsiolkovsky proves rockets can reach space — and Einstein's relativity (1905, 1916) redraws the universe the century thought it knew. Then let your companion ask you one hard question about it — answer from the lesson.
