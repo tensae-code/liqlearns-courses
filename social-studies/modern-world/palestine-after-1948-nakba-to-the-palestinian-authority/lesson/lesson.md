@@ -76,17 +76,23 @@ On 8 December 1987 an Israeli truck kills four workers from Jabalia; the funeral
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40793 — funeralsspark]
+
 ## Sub lesson 13 — Unit 6 Lesson 5: the peace process and the Palestinian Authority
 
 At Madrid (1991) Palestinians sit inside the Jordanian delegation; Oslo (1993) brings mutual recognition and an interim self-government of at most five years; the army withdraws from Gaza and Jericho in 1994, Arafat enters Gaza on 1 July 1994 as president of the new Authority, Oslo II is signed at Taba (28 September 1995), and a Legislative Council is elected in 1996 (Unit 6 Lesson 5: the peace process and the Palestinian Authority)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40792 — madridoslo]
+
 ## Sub lesson 14 — Unit 6 Lesson 6: the al-Aqsa Intifada (2000) and after
 
 Sharon's entry into the al-Aqsa courtyards sparks the second intifada, more militarised than the first, answered with bulldozed farmland and olive trees, closures and the annexation wall; after Arafat's death come the 2005 presidential elections, the unilateral Gaza disengagement evacuating the settlements (2005), full UNESCO membership (31 October 2011) and UN observer-state status (Unit 6 Lesson 6: the al-Aqsa Intifada (2000) and after)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40791 — seconduprising]
 
 ## Say it to your companion
 

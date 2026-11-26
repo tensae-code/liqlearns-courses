@@ -10,6 +10,8 @@ Revolt followed revolt — Jaffa 1921, al-Buraq 1929 — until the Great Palesti
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40782 — strikerefused]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Palestine — the 1936 revolt and the road to partition. Then let your companion ask you one hard question about it — answer from the lesson.

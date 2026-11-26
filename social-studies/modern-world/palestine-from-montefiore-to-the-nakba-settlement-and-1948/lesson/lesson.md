@@ -10,11 +10,15 @@ The Zionist movement plants its first settlement, Montefiore, south-west of Jeru
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40789 — firstplanted1856]
+
 ## Sub lesson 2 — Unit 6 Lesson 2: racial discrimination — the 1948 catastrophe
 
 The lesson names 1948 the great racist catastrophe: armed Zionist gangs occupy 77% of Palestine, commit massacres, destroy 531 Palestinian villages and drive about a million Palestinians into refuge in what remains of Palestine and in Jordan, Syria, Lebanon and the wider diaspora; the rest of Palestine is occupied in June 1967 (Unit 6 Lesson 2: racial discrimination — the 1948 catastrophe)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40788 — villagesexiled]
 
 ## Sub lesson 3 — Unit 2 Lesson 3: colonialism and Zionism
 
@@ -22,11 +26,15 @@ The Zionist idea crystallises in Europe (Shaftesbury's "a land without a people"
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40787 — baselandsultan]
+
 ## Sub lesson 4 — Unit 2 Lesson 4: Zionist immigration and settlement colonisation in the late Ottoman era
 
 The machinery is built — Jewish Colonial Trust (1899), Histadrut, the kibbutz — and the first settlements rise: a Jewish quarter outside Jerusalem's walls (1857), Petah Tikva on the lands of Mlabbis (1882), Zikhron Ya'akov on Zamarin; land is got by purchase and forged deeds through corrupt officials and consulates, the empire answers with the 1883 waqf law and the 1887 "red passport" three-month rule, and Palestinians answer in print — Ruhi al-Khalidi's History of Zionism and the papers al-Karmil and al-Manar (Unit 2 Lesson 4: Zionist immigration and settlement colonisation in the late Ottoman era)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40786 — machinerybuilt]
 
 ## Sub lesson 5 — Unit 2 Lesson 5: the international conspiracies of the First World War
 
@@ -34,17 +42,23 @@ Britain promises Sharif Hussein (first letter 14 July 1915, on the Damascus Prot
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40785 — threepromises]
+
 ## Sub lesson 6 — Unit 3 Lesson 2: mandate immigration and land takeover
 
 Immigration waves climb steeply across the mandate years (one period alone bringing some 215,000), the mandate's own text lets the administration work public projects with the Jewish Agency, and land passes steadily to the settlers (Unit 3 Lesson 2: mandate immigration and land takeover)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40784 — wavesclimb]
+
 ## Sub lesson 7 — Unit 4 Lesson 1: the 1948 War (the Nakba)
 
 Towns fall before any Arab army enters — Britain bars Arab intervention before 15 May 1948 and Abd al-Qadir al-Husseini is martyred at al-Qastal; some 15,000 Arab fighters (Egypt, Jordan, Iraq, Lebanon, Syria) then enter, the first truce (11 June 1948) is used by the Zionists to rearm with American and British help, and the war ends with about a million Palestinians displaced, over 60 massacres and 531 villages destroyed (al-Mansura, Saffuriyya, Deir Yassin, al-Faluja among them), Israel recognised and seated at the UN, and Resolution 194 affirming the refugees' right of return (Unit 4 Lesson 1: the 1948 War (the Nakba))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40783 — townsfallfirst]
 
 ## Say it to your companion
 

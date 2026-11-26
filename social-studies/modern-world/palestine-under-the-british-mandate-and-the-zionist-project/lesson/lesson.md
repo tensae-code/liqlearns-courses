@@ -10,11 +10,15 @@ Britain's Balfour promise of 1917 — "a promise from one who does not own, to o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40776 — promise1917]
+
 ## Sub lesson 2 — Chapter 7: Egypt and the issues of the contemporary Arab world — the Palestine conferences
 
 The Arab states learn to act together first over Palestine — the Bludan conference of 1937 gathers delegates from every Arab land against the Zionist project, and London's Round Table of 1939 seats the independent Arab states as parties to the question.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40775 — actingtogether]
 
 ## Say it to your companion
 

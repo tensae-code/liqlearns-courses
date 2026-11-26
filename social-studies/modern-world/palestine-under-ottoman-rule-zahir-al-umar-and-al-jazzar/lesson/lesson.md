@@ -10,11 +10,15 @@ Palestine is governed as sanjaks (Jerusalem's first among them), but local power
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40780 — localpowerbreaks]
+
 ## Sub lesson 2 — Unit 2 Lesson 4: Ottoman building works in Palestine
 
 Suleiman the Magnificent rebuilds Jerusalem's wall, restores the al-Qibli mosque and its sanctuary gates and the Church of the Holy Sepulchre and monasteries, and the era leaves mosques and clock towers across Palestine (Unit 2 Lesson 4: Ottoman building works in Palestine)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40779 — wallsandsanctuaries]
 
 ## Sub lesson 3 — Unit 2 Lesson 1: Palestine under the late Ottoman administration
 
@@ -22,11 +26,15 @@ The Tanzimat reach Palestine — the Humayun edict of 1856 grants the sects equa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40778 — rightsgranted]
+
 ## Sub lesson 4 — Unit 2 Lesson 2: foreign influence in nineteenth-century Palestine
 
 A weakening empire lets the powers in — capitulations, consulates (Britain's foreign minister instructs his Jerusalem consul in 1858 to protect incoming Jews), Protestant then Catholic and Orthodox missions, the Russian Compound and Haifa's German colony, mission schools and hospitals doubling as cultural invasion (Unit 2 Lesson 2: foreign influence in nineteenth-century Palestine)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40777 — powerscomein]
 
 ## Say it to your companion
 

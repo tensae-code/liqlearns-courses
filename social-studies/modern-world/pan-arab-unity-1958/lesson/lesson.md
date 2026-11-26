@@ -10,6 +10,8 @@ After the coups of 1949 and the Cold War pull of the two camps, Syria united wit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40772 — onerepublic]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Pan-Arab unity, 1958 — the United Arab Republic. Then let your companion ask you one hard question about it — answer from the lesson.

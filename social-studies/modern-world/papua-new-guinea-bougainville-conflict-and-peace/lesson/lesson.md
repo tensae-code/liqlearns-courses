@@ -10,6 +10,8 @@ Oceania's biggest conflict — ten years of civil war between the PNG Government
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40770 — wovenreconciliation]
+
 ## Sub lesson 2 — Impact of historical events on societies in PNG
 
 1988–1998, government against the BRA; 15,000–20,000 Bougainvillean lives; the 1998 Peace Agreement trades the guns for an Autonomous Bougainville Government — students analyse causes, effects and the conflict's mark on community and nation
