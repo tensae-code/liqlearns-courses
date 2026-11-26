@@ -10,11 +10,15 @@ The scenario's extension (prolongements) grows a ScratchJr project from one scen
 
 In your mind's eye: several scenes, one project.
 
+[Picture 46638 — several scenes, one project]
+
 ## Sub lesson 2 — Planning the world before building it
 
 A multi-scene project is planned on paper first: the **plan** — a drawn school map where each room is ticked with its scene, cast and micro-story. Builders then work scene by scene against the map, and the finished project is ‘walked’ by visitors who should never get lost: if a visitor cannot say where they are in the school, the plan or the scene has failed, and the repair is located — not guessed. Scale teaches planning; planning makes scale survivable.
 
 In your mind's eye: planning the world before building it.
+
+[Picture 46639 — planning the world before building it]
 
 ## Say it to your companion
 

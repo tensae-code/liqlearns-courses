@@ -10,11 +10,15 @@ A **cahier des charges** is the brief a project is built against: the **product*
 
 In your mind's eye: what a cahier des charges says.
 
+[Picture 46642 — what a cahier des charges says]
+
 ## Sub lesson 2 — Working to the brief
 
 During the build, the brief is the studio's court: scope questions (‘shall we add a second level?’) are answered by reading it, not by enthusiasm; playtest findings are sorted into ‘brief broken’ (must fix) and ‘brief silent’ (studio's choice, or a brief amendment, written and agreed). The delivered game is judged against the delivered brief — a professional mirror the scenario holds up so pupils feel the difference between ‘I like it’ and ‘it meets its charges’.
 
 In your mind's eye: working to the brief.
+
+[Picture 46643 — working to the brief]
 
 ## Say it to your companion
 

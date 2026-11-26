@@ -10,11 +10,15 @@ Four variables run the account: **amount, deposit, balance, choice**. The deposi
 
 In your mind's eye: amount, deposit, balance, choice — and the balance check.
 
+[Picture 46630 — amount, deposit, balance, choice — and the balance check]
+
 ## Sub lesson 2 — The statement list
 
 **Every operation is recorded in a statement list**, **withdrawals as negative amounts**, deposits as positive — so the list reads as the account’s history in order. On request the program shows **an account statement**: the recorded operations, presented to the account holder.
 
 In your mind's eye: the statement list.
+
+[Picture 46631 — the statement list]
 
 ## Say it to your companion
 

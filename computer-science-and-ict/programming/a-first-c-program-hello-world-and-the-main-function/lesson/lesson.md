@@ -10,11 +10,15 @@ A C program begins with **header lines** — `#include <stdio.h>` borrows the st
 
 In your mind's eye: the skeleton — headers and main.
 
+[Picture 46636 — the skeleton — headers and main]
+
 ## Sub lesson 2 — Hello World — and running it in Code::Blocks
 
 The first program's whole work is one statement: `printf("Hello World");` — print the words between the quotes to the screen. The book writes and runs it in **Code::Blocks**, the free development environment of the HSC course: create the project, type the program exactly, **build** (the compiler translates it — the translator lesson at work), **run**, and read the greeting in the console window. When the greeting fails to appear, the compiler's error list is the first debugging text a C programmer learns to read: it names the line, and the fault is almost always a missing semicolon or brace — the skeleton's small bones, already teaching their importance.
 
 In your mind's eye: hello World — and running it in Code::Blocks.
+
+[Picture 46637 — hello World — and running it in Code::Blocks]
 
 ## Say it to your companion
 

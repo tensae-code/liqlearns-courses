@@ -10,11 +10,15 @@ The ticker’s moving part is a **headline sprite**: an **Arabic headline writte
 
 In your mind's eye: the headline sprite scrolls.
 
+[Picture 46646 — the headline sprite scrolls]
+
 ## Sub lesson 2 — The example bulletin — and the presenter project
 
 The book’s **example breaking news** is the Ministry’s own decision: **programming taught from Grade 5 to Grade 9** — the very course the pupil is holding. The project completes the studio: **add a presenter sprite and a recorded voice** reading the bulletin.
 
 In your mind's eye: the example bulletin — and the presenter project.
+
+[Picture 46647 — the example bulletin — and the presenter project]
 
 ## Say it to your companion
 

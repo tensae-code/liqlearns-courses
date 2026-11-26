@@ -10,11 +10,15 @@ A recipe as written is a **story** — “Grandmother mixes the flour while the 
 
 In your mind's eye: from story sentences to instructions.
 
+[Picture 46644 — from story sentences to instructions]
+
 ## Sub lesson 2 — The loop inside the recipe
 
 Recipes hide **loops**: “stir until smooth”, “make twelve crêpes” — do it again, and again, until a condition ends it. The 3e–4e version introduces the loop (la boucle) right here, inside the cake: repeat the action, check the condition, stop. A recipe thus carries all three flow shapes on one card — sequence in its steps, choice in its “if it sticks…”, loop in its repetitions.
 
 In your mind's eye: the loop inside the recipe.
+
+[Picture 46645 — the loop inside the recipe]
 
 ## Say it to your companion
 

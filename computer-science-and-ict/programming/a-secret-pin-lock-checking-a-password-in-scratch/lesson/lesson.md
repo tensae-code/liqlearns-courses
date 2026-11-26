@@ -10,11 +10,15 @@ The lesson opens with the reason: phones use PINs and passwords for **privacy an
 
 In your mind's eye: the keypad — ten buttons by duplicating.
 
+[Picture 46648 — the keypad — ten buttons by duplicating]
+
 ## Sub lesson 2 — Building the entered number — and the length check
 
 Each press adds its digit: the **entered number is built digit by digit with join**. A **hidden variable keeps the saved PIN**, and the program’s care is in its timing — **the check runs only when the entered length equals the PIN length**, so half-typed numbers are never judged.
 
 In your mind's eye: building the entered number — and the length check.
+
+[Picture 46649 — building the entered number — and the length check]
 
 ## Say it to your companion
 

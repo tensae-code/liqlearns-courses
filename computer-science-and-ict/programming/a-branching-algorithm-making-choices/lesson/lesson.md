@@ -10,6 +10,8 @@ Grade 4's Scratch work began with the branching block; this lesson teaches the *
 
 In your mind's eye: a picture of a journey road splitting at a signpost question — "Is it raining?". One way with a bus in the rain, the other a walker in the sun, the two ways joining again below.
 
+[Picture 46634 — a picture of a journey road splitting at a signpost question — "Is it raining?". One way with a bus in the rain, the other a walker in the sun, the two ways joining again below]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A branching algorithm does not march straight: at a question it splits — one way if the answer is yes, the other way if no — like choosing a journey by the weather. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

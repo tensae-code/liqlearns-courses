@@ -10,6 +10,8 @@ Two sprites that each have a say script are not yet a conversation — run toget
 
 In your mind's eye: a picture of two dolphin sprites facing each other, speech bubbles alternating between them in a numbered order, with wait blocks shown as small clocks between the lines.
 
+[Picture 46635 — a picture of two dolphin sprites facing each other, speech bubbles alternating between them in a numbered order, with wait blocks shown as small clocks between the lines]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A dialogue is sprites speaking in turn: one says its line, waits, the other answers — timed say blocks and waits make a conversation, like the dolphins' talk. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

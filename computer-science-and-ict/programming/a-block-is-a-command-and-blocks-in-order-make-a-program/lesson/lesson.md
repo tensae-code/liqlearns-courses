@@ -10,11 +10,15 @@ In the first puzzle, **Reaching the sheep**, each block “brick” is **one com
 
 In your mind's eye: one block, one command — reaching the sheep.
 
+[Picture 46632 — one block, one command — reaching the sheep]
+
 ## Sub lesson 2 — Blocks in order — breaking the wood
 
 The second puzzle, **Breaking the wood**, strings commands into a **sequence**: move, turn and destroy blocks in an order that reaches the wood and breaks it. Change the order and the program does a different thing — the order of the blocks IS the plan. A program is blocks in the right order, run from the first to the last.
 
 In your mind's eye: blocks in order — breaking the wood.
+
+[Picture 46633 — blocks in order — breaking the wood]
 
 ## Say it to your companion
 
