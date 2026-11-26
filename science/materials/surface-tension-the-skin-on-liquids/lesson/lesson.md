@@ -9,7 +9,11 @@ Yemen's Grade 9 Science book teaches the surface of a liquid as a stretched skin
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37086 — a needle and a razor blade floating in dips on the water surface]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37087 — a needle floats on the water skin — pushed through, it sinks]
 
 ## Sub lesson 2 — Walking on the film — and breaking it
 

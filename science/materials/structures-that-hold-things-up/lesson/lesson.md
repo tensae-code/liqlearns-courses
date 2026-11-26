@@ -9,6 +9,8 @@ Structures: building a rigid structure of one's own and recording the maximum re
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37084 — a rigid structure of triangle-braced sticks with books stacked on top]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas

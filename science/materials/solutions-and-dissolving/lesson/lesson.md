@@ -8,6 +8,8 @@ South Sudan's Primary 3 Science pupil's book gives dissolving a whole run of Uni
 
 In your mind's eye: when a solid dissolves in water it spreads through the water as particles too small to see, making a solution — the solid has not vanished, it is still there; substances that will not dissolve are insoluble, and warming and stirring make dissolving faster and greater. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 37077 — dissolving step by step — the solid goes in, spreads evenly, warming and stirring speed it]
+
 ## The key facts
 **Dissolving makes a solution.** Stir salt or sugar into water and the grains disappear — but taste the water and the solid is still there, spread evenly through every drop. That even mixture is a solution: the dissolved solid is the solute, the water is the solvent.
 

@@ -9,7 +9,11 @@ When a soluble substance dissolves in a liquid, the result is a **solution**: on
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37078 — the parts of a solution — the salt (solute), the water (solvent), the glass]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37079 — salt water dissolved evenly — a drop from the top and a drop from the bottom are the same]
 
 ## Sub lesson 2 — The two names — solute and solvent
 

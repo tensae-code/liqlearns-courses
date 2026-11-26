@@ -11,7 +11,11 @@ China's Grade 3 book tests the two frames against each other — triangle agains
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37082 — a triangle frame and a square frame side by side]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37083 — pushed — the square frame racks into a lean, the triangle holds its shape]
 
 ## Sub lesson 2 — Wide bases, columns and the arch
 

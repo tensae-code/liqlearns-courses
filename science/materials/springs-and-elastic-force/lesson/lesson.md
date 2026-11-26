@@ -11,7 +11,11 @@ That return is the spring's nature: a spring pushed or pulled out of shape **pul
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37080 — a ballpoint pen taken apart — its body, refill and the spring inside]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37081 — a spring at its own length, pulled longer and squeezed shorter — it springs back]
 
 ## Sub lesson 2 — Hanging weights — the spring lengthens
 
