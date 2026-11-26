@@ -9,7 +9,11 @@ El Salvador's own mineral wealth: the fingerite of Izalco volcano (Sonsonate), a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37537 — El Salvador's mineral wealth]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37538 — from vein to ore]
 
 ## The key ideas
 

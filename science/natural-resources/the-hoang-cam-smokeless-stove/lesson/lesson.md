@@ -9,7 +9,11 @@ In the Hòa Bình campaign (1951–1952), Vietnam's soldiers cooked in the field
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37557 — the stove hides its smoke]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37558 — the planes see nothing]
 
 ## Sub lesson 2 — Vietnam's fuel-saving heritage
 

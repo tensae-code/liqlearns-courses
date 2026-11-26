@@ -9,7 +9,11 @@ Biogas experiment: wet organic matter sealed airless in a bottle in the Sun 5–
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37535 — the digester, part by part]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37536 — gas from rotting waste]
 
 ## The key ideas
 

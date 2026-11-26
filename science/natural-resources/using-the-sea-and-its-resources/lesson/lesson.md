@@ -9,7 +9,11 @@ Papua New Guinea's Standards Based Grade 3 guide teaches natural resources throu
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37559 — the sea as a resource]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37560 — take some, leave plenty]
 
 ## Sub lesson 2 — Papua New Guinea's own coastal way
 

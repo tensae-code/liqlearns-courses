@@ -9,7 +9,11 @@ The journey starts with a **search**: oil is looked for underground, where it li
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37547 — the rig drills to the oil]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37548 — from the ground to our home]
 
 ## Sub lesson 2 — Transporting oil — from the ground to our home
 

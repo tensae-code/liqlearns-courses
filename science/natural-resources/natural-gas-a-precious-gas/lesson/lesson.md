@@ -9,7 +9,11 @@ Natural gas lies hidden underground, like oil — so its story also begins with 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37539 — drilling for gas]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37540 — the test proves it]
 
 ## Sub lesson 2 — Pumping natural gas
 

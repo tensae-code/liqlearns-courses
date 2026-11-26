@@ -9,7 +9,11 @@ Photovoltaic cells of silicon joined in series; the solar lamp and street light 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37553 — tools that harvest the Sun]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37554 — the Sun does the cooking]
 
 ## Sub lesson 2 — Photovoltaic cells of silicon joined in series
 

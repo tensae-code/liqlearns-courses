@@ -11,7 +11,11 @@ That slowness is the fact the whole subject stands on, and the book teaches it n
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37533 — a swamp full of plants]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37534 — ages pass, fuel forms]
 
 ## Sub lesson 2 — Sources and forms — the activity book's work
 

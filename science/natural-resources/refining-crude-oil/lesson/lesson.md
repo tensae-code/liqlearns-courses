@@ -9,7 +9,11 @@ Oil from the ground is **crude oil** — raw, unprocessed, not yet usable as it 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37549 — crude oil, before processing]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37550 — the refinery separates it]
 
 ## Sub lesson 2 — Processing crude oil — the refinery at work
 

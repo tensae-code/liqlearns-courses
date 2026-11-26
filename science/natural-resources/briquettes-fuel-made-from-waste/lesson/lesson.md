@@ -9,7 +9,11 @@ Briquettes: carbonised briquettes (material charred in low oxygen, powdered, bou
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37525 — dust, pressed hard]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37526 — waste becomes fuel]
 
 ## The key ideas
 

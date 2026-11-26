@@ -9,7 +9,11 @@ Seychelles' Unit 11 Topic 4, "Storing energy", looks at where Seychelles keeps c
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37555 — stored three ways]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37556 — using it frees it again]
 
 ## Sub lesson 2 — Food — the body's stored energy
 

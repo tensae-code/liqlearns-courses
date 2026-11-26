@@ -9,7 +9,11 @@ Oil has two lives. The first is the fuel life of the earlier chapters. The secon
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37545 — more than fuel]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37546 — one oil, many products]
 
 ## Sub lesson 2 — Detergents — the feature example
 

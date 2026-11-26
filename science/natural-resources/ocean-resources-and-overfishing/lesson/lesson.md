@@ -9,7 +9,11 @@ Malaysia's Additional Science Form 5 book catalogues the **resources of the sea*
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37543 — food, salt and more]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37544 — overfishing empties the sea]
 
 ## Sub lesson 2 — Overfishing — the economics and the issue
 

@@ -9,7 +9,11 @@ science, technology and society: environment-friendly tools and the product life
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37527 — a product's whole life]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37528 — the end of its life matters]
 
 ## The key ideas
 

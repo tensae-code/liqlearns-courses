@@ -9,7 +9,11 @@ Zimbabwe's Grade 1 guide teaches **types of fuel**, and the Grade 2 guide teache
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37531 — fuels we use]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37532 — burning frees the energy]
 
 ## Sub lesson 2 — Why fuels matter
 

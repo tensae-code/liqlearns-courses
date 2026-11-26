@@ -9,7 +9,11 @@ A house can fight its climate — burning fuel to heat what the Sun would warm, 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37520 — a house designed around the Sun]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37521 — hot outside, cool inside]
 
 ## Sub lesson 2 — Houses designed around water — technology meets the Sun and the water
 

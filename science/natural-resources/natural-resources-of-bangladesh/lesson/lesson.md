@@ -9,7 +9,11 @@ Class 8's Investigative Study closes with the natural resources of Bangladesh it
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37541 — Bangladesh's minerals]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37542 — two families of minerals]
 
 ## Sub lesson 2 — Ore minerals and energy minerals
 
