@@ -10,6 +10,8 @@ Constant's two liberties and Mill's praise of freedom (Fare storia) against the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40192 — citizenargued]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 4, Cap. 10 §§1, 4–5 The completion of the modern state; The great ideologies of the '800: liberalism and democracy; Liberal Catholicism and social Catholicism — Constant's two liberties and Mill's praise of freedom (Fare storia) against the Church's counter-proposals — the century argues over what a citizen is. Then let your companion ask you one hard question about it — answer from the lesson.

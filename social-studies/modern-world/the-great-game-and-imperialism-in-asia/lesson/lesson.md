@@ -10,6 +10,8 @@ Russia and Britain spy and scheme across Central Asia in the Great Game (Storiog
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40193 — greatgame]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 5, Cap. 17 §2 The designs on Asia — Russia and Britain spy and scheme across Central Asia in the Great Game (Storiografia: Hopkirk), France invents Indochina and the US takes the Philippines — Asia is partitioned without a single Berlin. Then let your companion ask you one hard question about it — answer from the lesson.
