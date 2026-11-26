@@ -10,6 +10,8 @@ Python programmers share code in bundles of three sizes. A **module** is a singl
 
 In your mind's eye: the three bundles nested. One module file, a package folder holding several module files, and a library shelf holding several packages.
 
+[Picture 47234 — the three bundles nested. One module file, a package folder holding several module files, and a library shelf holding several packages]
+
 ## Sub lesson 2 — Bringing code in with `import`
 
 Bundled code does nothing for your program until you bring it in, and the bringing word is **`import`**:
@@ -31,6 +33,8 @@ print(sqrt(16))
 Both programs print 4.0; only the *call* differs — dotted through the module, or bare after a `from ... import`. Either way, the square-root code itself was written once, by the library's makers, and is shared by every program that imports it: that sharing is the whole point of libraries.
 
 In your mind's eye: a program with an arrow marked `import math` bringing a toolbox labelled math into it, and the call `math.sqrt(16)` reaching into the toolbox.
+
+[Picture 47235 — a program with an arrow marked `import math` bringing a toolbox labelled math into it, and the call `math.sqrt(16)` reaching into the toolbox]
 
 ## Say it to your companion
 

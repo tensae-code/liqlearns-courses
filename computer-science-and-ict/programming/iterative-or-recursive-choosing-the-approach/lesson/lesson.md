@@ -10,11 +10,15 @@ An **iterative** solution drives its work with a **loop and explicit variables**
 
 In your mind's eye: the two engines — state kept by hand, or by the call stack.
 
+[Picture 47218 — the two engines — state kept by hand, or by the call stack]
+
 ## Sub lesson 2 — Costs and the choice — stack depth against clarity
 
 Recursion pays in **memory**: every pending call holds a stack frame, so a recursion as deep as its input (a million-deep factorial) can **overflow the stack**, while iteration's variables are a fixed few. Recursion often pays also in repeated work when subcalls overlap (the naive Fibonacci computes the same values exponentially often) — unless its structure is a true division with no overlap. The chapter's rule: **recurse where the problem is self-similar and division is clean and depth is modest; iterate where depth is huge, overlap would repeat work, or the loop is simply plain**. Judge by the structure, not by fashion.
 
 In your mind's eye: costs and the choice — stack depth against clarity.
+
+[Picture 47219 — costs and the choice — stack depth against clarity]
 
 ## Say it to your companion
 

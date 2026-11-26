@@ -10,11 +10,15 @@ A **label** is a **mark attached to an instruction**, written before it and sepa
 
 In your mind's eye: a label — a name stuck on an instruction.
 
+[Picture 47230 — a label — a name stuck on an instruction]
+
 ## Sub lesson 2 — Why labels are taught — and rarely used
 
 Labels belong to the vocabulary because the grammar includes them, but the course's posture is the profession's: **structured instructions (if, while, for, repeat) have made labels nearly unnecessary** — every honest loop and branch has its structured form, which reads in order. The labelled jump survives at the edges (leaving deep nests at once, machine-generated code). Learning labels is learning to *recognise* them — and to know why the programs in this course almost never wear one.
 
 In your mind's eye: why labels are taught — and rarely used.
+
+[Picture 47231 — why labels are taught — and rarely used]
 
 ## Say it to your companion
 

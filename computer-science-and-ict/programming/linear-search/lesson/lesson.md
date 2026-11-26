@@ -10,11 +10,15 @@ The simplest honest search: start at the first item, check it, move to the next.
 
 In your mind's eye: one by one, from the start.
 
+[Picture 47236 — one by one, from the start]
+
 ## Sub lesson 2 — Linear search in pseudocode and flowchart
 
 Malaysia's pseudocode runs: set position to 1 and found to false; **repeat** — if the item at position equals the target, set found to true, else move position on by 1 — **until** found is true or position passes the list's end; then report the position or 'not found'. The flowchart draws the same shape: a loop with the comparison as its decision diamond, one exit on a match, one exit at the list's end. The two exits are the lesson's mark: every correct linear search has **both** — a search that can only exit on success is a trap, not an algorithm.
 
 In your mind's eye: linear search in pseudocode and flowchart.
+
+[Picture 47237 — linear search in pseudocode and flowchart]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **–19: The labyrinth and the virtual la
 
 In your mind's eye: –19. The labyrinth and the virtual labyrinth.
 
+[Picture 47232 — –19. The labyrinth and the virtual labyrinth]
+
 ## Sub lesson 2 — Exiting the labyrinth
 
 This part of Kazakhstan's book teaches **Exiting the labyrinth** — covering: §13: Exiting the labyrinth. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: exiting the labyrinth.
+
+[Picture 47233 — exiting the labyrinth]
 
 ## Say it to your companion
 

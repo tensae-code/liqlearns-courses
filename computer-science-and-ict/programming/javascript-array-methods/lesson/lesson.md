@@ -10,11 +10,15 @@ JavaScript arrays carry built-in **methods**. The end-and-start family changes t
 
 In your mind's eye: changing the array — push, pop, shift, unshift, splice.
 
+[Picture 47220 — changing the array — push, pop, shift, unshift, splice]
+
 ## Sub lesson 2 — Working over the array — join, slice, map, filter, forEach
 
 The second family works *over* the array without necessarily changing it: **join** builds a string from the elements, **slice** copies a chosen stretch, **forEach** runs a function on every element, **map** builds a new array of transformed elements, and **filter** builds a new array of only the elements that pass a test. The modern style prefers map/filter over hand-written loops: the code says *what* (double them; keep the passing ones) and the method does the walking. Searching joins the family too — **indexOf** finds a value's place, and **includes** answers yes or no.
 
 In your mind's eye: working over the array — join, slice, map, filter, forEach.
+
+[Picture 47221 — working over the array — join, slice, map, filter, forEach]
 
 ## Say it to your companion
 

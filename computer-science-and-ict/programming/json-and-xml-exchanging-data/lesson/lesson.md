@@ -10,11 +10,15 @@ Somewhere above you, the International Space Station is circling the Earth with 
 
 In your mind's eye: a satellite beaming a block of JSON text down to a laptop, where the text unfolds into a dictionary and a list.
 
+[Picture 47224 — a satellite beaming a block of JSON text down to a laptop, where the text unfolds into a dictionary and a list]
+
 ## Sub lesson 2 — XML — data as a tree of elements
 
 **XML** is the older, stricter cousin: the same information written as a **tree of elements**, each value wrapped in a named tag — the book’s file is `films.xml`, a catalogue of films with title, director and year elements. Python’s **ElementTree** parses the file into that tree in memory: a **root** element, its **children**, and theirs below. Each element carries its **tag**, its **text** (what sits between the tags) and possibly **attributes**. The program then walks: find every `film` element, loop over them, print each one’s title and year. The family resemblance to the DOM lesson is real — a page and an XML file are both trees of named nodes — and the choice between the formats is practical: JSON for most program-to-program exchange today, XML where documents and strict catalogues rule. Both, notice, are plain text you can open and read — that openness is why they won.
 
 In your mind's eye: a films.xml file on the left becoming a tree of element boxes on the right, one film branch unfolded to its title, director and year.
+
+[Picture 47225 — a films.xml file on the left becoming a tree of element boxes on the right, one film branch unfolded to its title, director and year]
 
 ## Say it to your companion
 
