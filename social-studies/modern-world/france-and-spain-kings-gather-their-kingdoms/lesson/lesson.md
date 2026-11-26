@@ -10,6 +10,8 @@ French kings, once little more than lords of Paris, use the Hundred Years' War t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63304 — two kingdoms gathered]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: France and Spain centralise — French kings, once little more than lords of Paris, use the Hundred Years' War to gather their kingdom, and Louis XI finishes the nobles; in Spain the marriage of Ferdinand and Isabella in 1469 joins Aragon and Castile into one crown. Then let your companion ask you one hard question about it — answer from the lesson.

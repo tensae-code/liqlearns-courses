@@ -10,11 +10,15 @@ The Federal Constitution, grown from the Malay states' own laws, is amended in 1
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63297 — the constitution bends]
+
 ## Sub lesson 2 — Forming Malaysia
 
 Tunku Abdul Rahman announces the Malaysia idea on 27 May 1961; Singapore votes to join in its referendum of early September 1962, the Inter-Governmental Committee (August 1962) writes the safeguards for Sarawak and Sabah into the constitutional frame, Indonesia protests at the United Nations and U Thant's UN Malaysia Mission under Laurence Michelmore (12 August 1963) verifies the Borneo peoples' wishes; the July 1963 Agreement is signed and Malaysia is proclaimed — then Indonesia's Konfrontasi is fought off diplomatically, the counter-campaign run by the Foreign Ministry under Muhammad Ghazali Shafie (Bab 5: forming Malaysia)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 63298 — proclaimed 1963]
 
 ## Say it to your companion
 

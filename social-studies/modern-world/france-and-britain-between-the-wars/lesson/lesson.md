@@ -10,6 +10,8 @@ France clings to its recovered provinces and reparations while the franc slides 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63303 — one clings one drains]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 Lesson 14, France and Britain (1919–1939) — France clings to its recovered provinces and reparations while the franc slides (1923–1926 crisis); Britain's world lead quietly drains away. Then let your companion ask you one hard question about it — answer from the lesson.

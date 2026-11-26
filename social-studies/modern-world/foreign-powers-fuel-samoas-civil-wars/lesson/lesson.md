@@ -10,6 +10,8 @@ the book's verdict in table form — the three powers fuelled the wars with arms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63296 — fuelled by three powers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 3, Unit 2 — the book's verdict in table form — the three powers fuelled the wars with arms, naval backing and chiefs of their own, each putting its interests (plantations, Pago Pago harbour) before Sāmoans, and only partly eased them with treaties and the central government they wanted for their land claims. Then let your companion ask you one hard question about it — answer from the lesson.

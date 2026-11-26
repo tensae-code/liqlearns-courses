@@ -42,6 +42,8 @@ California gold makes a canal urgent; the Monroe Doctrine warns Europe off while
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63294 — sovereignty ignored]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Intereses ingleses y norteamericanos en Centroamérica — Britain and the United States circle the isthmus for trade routes and a canal, treating its republics as a corridor, Intervenciones militares de Estados Unidos en América Latina, siglos XIX y XX — US military interventions repeat across Latin America for two centuries, a pattern each republic meets in turn, Tratado Clayton-Bulwer — in 1850 the US and Britain sign over Central America's head, agreeing neither will exclusively control an isthmian canal, Pretensiones extranjeras en Nicaragua — coveted since colonial times for its lake-and-river canal route, Nicaragua becomes urgent after California gold in 1848, with Tehuantepec, Nicaragua and Panama competing as transit routes, Pretensiones extranjeras en Nicaragua — California gold makes a canal urgent; the Monroe Doctrine warns Europe off while the US and Britain sign the Clayton-Bulwer Treaty of 1850 over Nicaragua's head, ignoring its sovereignty. Then let your companion ask you one hard question about it — answer from the lesson.

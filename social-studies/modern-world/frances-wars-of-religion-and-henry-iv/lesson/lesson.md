@@ -10,6 +10,8 @@ Catholics and Huguenots massacre each other from St Bartholomew's Day (1572) unt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63317 — nantes 1598]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 5, Cap. 17 §3 The wars of religion and the consolidation of the monarchy in France — Catholics and Huguenots massacre each other from St Bartholomew's Day (1572) until Henry IV converts, issues the Edict of Nantes (1598, Document) and rebuilds the crown. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ after MacMahon's monarchist bid fails, the republicans win for good; the 1875 Co
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63315 — built in 1875]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II §5 The economic and political life of France at the end of the 19th – beginning of the 20th century — after MacMahon's monarchist bid fails, the republicans win for good; the 1875 Constitution builds the Third Republic — a seven-year president, two chambers, the Marseillaise as anthem and 14 July as the national day, but still no vote for women. Then let your companion ask you one hard question about it — answer from the lesson.

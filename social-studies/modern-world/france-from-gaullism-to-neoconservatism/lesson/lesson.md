@@ -10,6 +10,8 @@ France swings from Gaullist statism toward market liberalism
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63313 — from statism to market]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §18 The replacement of conservatism by neoconservatism in France — France swings from Gaullist statism toward market liberalism. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Arab migrations settle the whole coast, and founding leaders in each land raise 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63299 — birth of the gulf states]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: birth of the other arab gulf states. Then let your companion ask you one hard question about it — answer from the lesson.

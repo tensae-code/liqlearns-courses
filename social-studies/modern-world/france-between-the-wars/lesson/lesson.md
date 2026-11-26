@@ -10,17 +10,23 @@ victorious but bled white, France rebuilds, hosts governments that rise and fall
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63306 — bled white rebuilding]
+
 ## Sub lesson 2 — §20 France's development after the First World War
 
 victorious but bled white, France rebuilds through unstable governments to the Popular Front
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63307 — governments rise and fall]
+
 ## Sub lesson 3 — §7.4 (France part) How did the "Popular Front" resist in France?
 
 left parties unite, win in 1936 and legislate holidays and the 40-hour week
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63308 — holidays and the 40-hour week]
 
 ## Say it to your companion
 

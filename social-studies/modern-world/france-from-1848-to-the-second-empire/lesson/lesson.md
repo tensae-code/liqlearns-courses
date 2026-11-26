@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: 1848's republic votes 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63312 — a second empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §26 The establishment of the Second Empire in France — 1848's republic votes Louis-Napoleon president; his coup makes a second empire on the first's memory. Then let your companion ask you one hard question about it — answer from the lesson.

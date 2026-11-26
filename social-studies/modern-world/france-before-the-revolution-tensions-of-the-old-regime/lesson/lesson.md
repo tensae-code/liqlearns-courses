@@ -10,6 +10,8 @@ Tax revolts and Parisian poverty show an old regime cracking under its own weigh
 
 In your mind's eye: a tax revolt and poor and rich Parisians on one side and an eighteenth-century salon in debate on the other. Say what each scene shows about the old regime.
 
+[Picture 63305 — cracking under its weight]
+
 ## Sub lesson 2 — A salon argues about everything
 
 In the salons a new public argues about everything the old order forbids — the changes and tensions of the Ancien Régime meet in one room.

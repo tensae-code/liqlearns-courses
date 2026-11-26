@@ -10,6 +10,8 @@ the Third Republic survives its shaky birth and builds the second colonial empir
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63316 — the second colonial empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 Lesson 5, The French Republic (1871–1914) — the Third Republic survives its shaky birth and builds the second colonial empire — into Indochina by the Tientsin treaty of 1885 and the union of 1887, the empire that also held Cambodia. Then let your companion ask you one hard question about it — answer from the lesson.
