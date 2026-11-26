@@ -10,6 +10,8 @@ A law-by-law table runs the agrarian reforms — Ley 200 meant to give land to t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62721 — land to those who work it]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Guía 15: What about the rights of the countryside? / Agrarian reform in Colombia — a law-by-law table runs the agrarian reforms — Ley 200 meant to give land to those who work it — down to articles 64, 65 and 311 of the Political Constitution, and learners compare what was proposed with what was executed. Then let your companion ask you one hard question about it — answer from the lesson.

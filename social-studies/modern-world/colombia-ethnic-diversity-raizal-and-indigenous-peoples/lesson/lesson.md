@@ -10,6 +10,8 @@ Colombia's diversity is the result of the whole preceding history; the Raizal pe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62734 — the same rights]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Guía 6: All ethnic groups have the same rights — Colombia's diversity is the result of the whole preceding history; the Raizal people of the Caribbean islands descend from Indigenous, Spanish, French, English, Dutch and African mixing, and learners research one Indigenous people's history and culture. Then let your companion ask you one hard question about it — answer from the lesson.

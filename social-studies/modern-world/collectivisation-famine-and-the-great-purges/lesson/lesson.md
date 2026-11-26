@@ -10,11 +10,15 @@ a testimony on the great famine (Document) speaks for collectivisation's victims
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62718 — the purges devour the party]
+
 ## Sub lesson 2 — Modulo 5 §§6–7 L'Urss: collettivizzazione e industrializzazione; L'Urss: le "grandi purghe" e i processi
 
 the Ukrainian famine (Focus) prices collectivisation; the show trials and Zaslavsky's piece on Stalinist terror, Solzhenitsyn's Article 58 (Fare storia) and the Gulag–Auschwitz debate (Nolte–Kocka) close the account — Stalin is the module's Personaggi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62719 — terror priced]
 
 ## Say it to your companion
 

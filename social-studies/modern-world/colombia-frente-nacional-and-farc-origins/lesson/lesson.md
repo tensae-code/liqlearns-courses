@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: liberals and conservat
 Two central agreements set the rules — liberals and conservatives alternate and share power, political culture fails to democratise, and in 1964, with the 14 June operation, the FARC are born
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62735 — alternating power]
 ## Sub lesson 2 — Temas 21–23: Latin America and the Cold War / The Cold War in Colombia / The Frente Nacional
 
 Fear of a US invasion drives the missile crisis; the Cuban revolution's influence breeds new armed groups in Colombia, and the Frente Nacional's own problems — corruption among the gravest — are named
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62736 — new armed groups]
 
 ## Say it to your companion
 

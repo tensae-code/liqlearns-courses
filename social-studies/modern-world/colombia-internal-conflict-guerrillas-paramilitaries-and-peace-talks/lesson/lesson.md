@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: from Marquetalia and t
 The army attacks Marquetalia, the "independent republic"; the FARC expand on a war economy, paramilitary units spread in the late 1980s and grow from guerrilla ally-enemy into a power of their own, and the M-19's successful negotiation — demobilisation, reduced sentences, a political party — is the model peace case, with the AUC talks and their law beside it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62740 — the model peace case]
 ## Sub lesson 2 — Guía 6: Why is there violence, unemployment and poverty in a resource-rich Colombia?
 
 Forced displacement is named as the conflict's rural face, and learners must propose definitions and solutions of their own
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62741 — displacement the rural face]
 ## Sub lesson 3 — Capítulo 9 / Temas 28–29: Colombia from the nineties
 
 The violence wave does not stop; violence-generating agents are catalogued as the government opens peace offensives and the economy transforms
