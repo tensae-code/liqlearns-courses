@@ -10,11 +10,15 @@ A **macro** is a saved list of **actions** that runs as one: open a form, run a 
 
 In your mind's eye: macros — actions at a click.
 
+[Picture 46552 — macros — actions at a click]
+
 ## Sub lesson 2 — The switchboard — the system's menu
 
 A **switchboard** is a special form that works as the system's **main menu**: it opens when the database opens, and its buttons — each running a macro — offer the system's whole work in the user's own words: Enter Data, Run Reports, Print Lists. The switchboard hides the workshop (tables, design views) behind one calm page. Malaysia's completed database project is judged by this face: if a teacher who has never seen Access can do the system's jobs from the switchboard alone, the system is finished; if not, it is still a workshop.
 
 In your mind's eye: the switchboard — the system's menu.
+
+[Picture 46553 — the switchboard — the system's menu]
 
 ## Say it to your companion
 

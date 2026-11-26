@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Database Design** — covering: 
 
 In your mind's eye: database Design.
 
+[Picture 46550 — database Design]
+
 ## Sub lesson 2 — Doing it — Logical Design Turning an ERD into Relations in practice
 
 **Doing it — Logical Design Turning an ERD into Relations in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Logical Design Turning an ERD into Relations in practice.
+
+[Picture 46551 — doing it — Logical Design Turning an ERD into Relations in practice]
 
 ## Say it to your companion
 

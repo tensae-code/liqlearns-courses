@@ -10,11 +10,15 @@ Deleting records and objects in Access **does not shrink the file**: the space s
 
 In your mind's eye: compact and repair — the file healed and shrunk.
 
+[Picture 46554 — compact and repair — the file healed and shrunk]
+
 ## Sub lesson 2 — Backup, splitting and protection — the standing care
 
 The rest of maintenance is standing defence. **Backups**: dated copies of the file, kept apart from the working machine, on a rhythm the data's value sets — the only true repair for corruption, theft or fire. **Splitting**: a working database is divided into a **back-end** (tables only, on the shared place) and **front-ends** (queries, forms, reports on each user's machine), so many users share data without sharing damage. **Protection**: passwords and permissions keep the merely curious and the careless from the tables. Maintenance is unglamorous and decisive: databases rarely die of hard questions — they die **unkept**.
 
 In your mind's eye: backup, splitting and protection — the standing care.
+
+[Picture 46555 — backup, splitting and protection — the standing care]
 
 ## Say it to your companion
 

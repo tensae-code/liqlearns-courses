@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Basic Statistical Concepts: §5.
 
 In your mind's eye: basic Statistical Concepts. §5.1.1 Measures of Central Tendency.
 
+[Picture 46558 — basic Statistical Concepts. §5.1.1 Measures of Central Tendency]
+
 ## Sub lesson 2 — Doing it — Measures of Central Tendency Mean Median Mode in practice
 
 **Doing it — Measures of Central Tendency Mean Median Mode in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Measures of Central Tendency Mean Median Mode in practice.
+
+[Picture 46559 — doing it — Measures of Central Tendency Mean Median Mode in practice]
 
 ## Say it to your companion
 

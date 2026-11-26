@@ -10,11 +10,15 @@ Data in **0NF** (unnormalised) may hold **repeating groups**: a pupil record lis
 
 In your mind's eye: 0NF to 1NF — atomic values, one fact per cell.
 
+[Picture 46564 — 0NF to 1NF — atomic values, one fact per cell]
+
 ## Sub lesson 2 — 2NF and 3NF — dependencies put in their own tables
 
 **Second normal form (2NF)** acts when the key is **composite**: every non-key attribute must depend on the **whole key**, not on **part** of it (a pupil's name depends only on PupilID, not on the PupilID+Subject pair — so names leave the enrolment table for the pupil table). **Third normal form (3NF)** removes **transitive dependency**: a non-key attribute must not depend on **another non-key attribute** (a teacher's room depends on the teacher, not on the pupil — so it leaves for the teacher table). At 3NF each fact lives in exactly one table, updates touch one place, and the design is what Malaysia calls ternormal — normalised.
 
 In your mind's eye: 2NF and 3NF — dependencies put in their own tables.
+
+[Picture 46565 — 2NF and 3NF — dependencies put in their own tables]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A form has a blank: the student has no phone. The database must store that blank
 
 In your mind's eye: null — missing, not zero.
 
+[Picture 46566 — null — missing, not zero]
+
 ## Sub lesson 2 — The primary key is never null
 
 One field may never hold the blank: the **primary key**. The key's whole job is to identify the record — the National ID of the companion lesson — and a record whose identifier is missing cannot be found, joined or told apart from another blank. So the DBMS enforces **entity integrity**: every primary key value exists and is unique. When you design a table, you decide field by field which may be null — a phone may be missing; an identity may not — and that decision is part of the table's honesty about the world.
 
 In your mind's eye: the primary key is never null.
+
+[Picture 46567 — the primary key is never null]
 
 ## Say it to your companion
 

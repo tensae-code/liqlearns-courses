@@ -12,6 +12,8 @@ Metadata has two kinds of authors. People write some of it — the librarian cat
 
 In your mind's eye: one book drawn with two layers. The thick content, and a card riding on top of it carrying title, author, date, format, size.
 
+[Picture 46562 — one book drawn with two layers. The thick content, and a card riding on top of it carrying title, author, date, format, size]
+
 ## Sub lesson 2 — Metadata at work — finding and sorting data
 
 Metadata earns its keep when you must **find** something among millions. A catalogue search never opens the books: it reads their metadata records and **filters** — keep only items where the language descriptor says French and the year says 2020 — then **sorts** what remains, by date or by author. Your music app does the same with artist, album and duration; a file manager with name, type and size; a photo app with date and place — which is EXIF, metadata again.
@@ -19,6 +21,8 @@ Metadata earns its keep when you must **find** something among millions. A catal
 The other side of the coin: an item with **missing or wrong metadata is lost in plain sight**. The photo is on the disk, but with no date and a name like IMG_0001 it will never be found by searching; the dataset without a description of its columns cannot be used by anyone else. Keeping data usable means keeping its metadata true — a lesson every later database topic leans on, because a database is, in large part, a machine for keeping content and metadata together and searchable.
 
 In your mind's eye: a million books fading into darkness except the few whose catalogue cards glow under the words "French, 2020".
+
+[Picture 46563 — a million books fading into darkness except the few whose catalogue cards glow under the words "French, 2020"]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Deleting a parent is the dangerous mirror of updating one: the children still po
 
 In your mind's eye: sET NULL — the child stays, the pointing ends.
 
+[Picture 46568 — sET NULL — the child stays, the pointing ends]
+
 ## Sub lesson 2 — CASCADE and the other alternatives — choosing the fate in advance
 
 **ON DELETE CASCADE** answers with the opposite mercy: the children are **deleted with the parent** — right where a child is meaningless alone (an order's lines without the order). The remaining alternatives refuse or restrict the deletion while children exist. The lesson's discipline is that the fate is **chosen when the table is created**, written into its FOREIGN KEY declaration — not improvised on the day a parent must go.
 
 In your mind's eye: cASCADE and the other alternatives — choosing the fate in advance.
+
+[Picture 46569 — cASCADE and the other alternatives — choosing the fate in advance]
 
 ## Say it to your companion
 
