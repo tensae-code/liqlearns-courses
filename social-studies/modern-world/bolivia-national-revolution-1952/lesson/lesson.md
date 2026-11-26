@@ -10,11 +10,15 @@ On 9–10 April 1952 an armed mobilisation of soldiers and worker leaders defeat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62409 — 9 10 april 1952]
+
 ## Sub lesson 2 — El Voto Universal y el MNR
 
 The revolution's deepest change is universal suffrage, first exercised in the 1956 elections, while the MNR's two wings pull the National Revolution into internal conflict (El Voto Universal y el MNR)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62410 — universal suffrage]
 
 ## Sub lesson 3 — Año 6: La Revolución Nacional
 
@@ -22,11 +26,15 @@ Teacher-compendium unit, same arc as the student text (Año 6: La Revolución Na
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62411 — the national revolution]
+
 ## Sub lesson 4 — Año 6: Reorientación de la Revolución Nacional
 
 The National Revolution is reoriented — stabilisation, the eastern development turn and the road to 1964 (Año 6: Reorientación de la Revolución Nacional)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62412 — reoriented]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The Bourbon reforms restructure the colonial system — new captaincies such as 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62425 — restructuring the colony]
+
 ## Sub lesson 2 — Año 2: Reformas borbónicas
 
 Teacher-compendium unit, same arc as the student text (Año 2: Reformas borbónicas)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62426 — the bourbon reforms]
 
 ## Say it to your companion
 

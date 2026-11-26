@@ -10,11 +10,15 @@ Santa Cruz lays the legal bases of the state and builds the Peru-Bolivian Confed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62419 — ingavi secures independence]
+
 ## Sub lesson 2 — Año 4: La Confederación Perú Boliviana
 
 Teacher-compendium unit, same arc as the student text (Año 4: La Confederación Perú Boliviana)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62420 — the confederation]
 
 ## Say it to your companion
 

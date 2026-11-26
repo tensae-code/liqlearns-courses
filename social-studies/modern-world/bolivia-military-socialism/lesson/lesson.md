@@ -10,6 +10,8 @@ After the Chaco defeat, military socialism (Toro, Busch) turns the army toward n
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62407 — after the chaco defeat]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Año 5: El socialismo militar — After the Chaco defeat, military socialism (Toro, Busch) turns the army toward nationalism and labour rights. Then let your companion ask you one hard question about it — answer from the lesson.

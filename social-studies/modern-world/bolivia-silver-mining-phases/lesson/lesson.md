@@ -10,6 +10,8 @@ Silver mining runs in phases — colonial labour regimes, decline, and the great
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62421 — silver in phases]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: La minería de la plata — Silver mining runs in phases — colonial labour regimes, decline, and the great boom from 1873 that reshapes the republic's economy and oligarchy. Then let your companion ask you one hard question about it — answer from the lesson.

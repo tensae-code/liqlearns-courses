@@ -10,11 +10,15 @@ The oligarchic republic consolidates on tribute, land and mining wealth (Año 4:
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62415 — built on tribute and mines]
+
 ## Sub lesson 2 — Año 4: La república oligárquica y el caudillismo militar
 
 Military caudillismo rotates power inside the oligarchic republic (Año 4: La república oligárquica y el caudillismo militar)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62416 — caudillos rotate power]
 
 ## Say it to your companion
 

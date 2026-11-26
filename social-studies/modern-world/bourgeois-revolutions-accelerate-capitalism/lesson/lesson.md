@@ -10,6 +10,8 @@ pupils compare the revolutions and name their common turn: feudal barriers fall,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62427 — barriers fall capital advances]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.4 Bourgeois revolutions as accelerator of capitalist development (synthesis) — pupils compare the revolutions and name their common turn: feudal barriers fall, capital advances. Then let your companion ask you one hard question about it — answer from the lesson.

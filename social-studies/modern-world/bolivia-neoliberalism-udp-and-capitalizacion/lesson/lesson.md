@@ -10,11 +10,15 @@ Neoliberal doctrine — individualism, private property — arrives through the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62413 — capitalizacion]
+
 ## Sub lesson 2 — Año 6: El neoliberalismo
 
 Teacher-compendium unit, same arc as the student text (Año 6: El neoliberalismo)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62414 — neoliberalism]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The women of the libertarian deed are named and their part in building gender eq
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62424 — women of the deed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Año 3: Mujeres en la gesta libertaria de Bolivia — The women of the libertarian deed are named and their part in building gender equity traced. Then let your companion ask you one hard question about it — answer from the lesson.

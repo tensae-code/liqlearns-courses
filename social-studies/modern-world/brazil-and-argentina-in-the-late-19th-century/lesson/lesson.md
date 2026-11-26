@@ -10,6 +10,8 @@ Brazil's soldiers proclaim a republic (1889) whose 1891 constitution promises eq
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62429 — two republics two paths]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. III §18 The other states of Latin America — Brazil's soldiers proclaim a republic (1889) whose 1891 constitution promises equality while 90% cannot read and foreign capital takes the commanding heights; Argentina under Sarmiento fills its emptied pampas with European immigrants, secular schools and land laws that hand the Indians' land to officers and the rich. Then let your companion ask you one hard question about it — answer from the lesson.
