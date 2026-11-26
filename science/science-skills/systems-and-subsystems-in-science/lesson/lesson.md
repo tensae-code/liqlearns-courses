@@ -9,7 +9,11 @@ A **system** is a **set of structures, cycles and processes bound together and a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38229 — systems are everywhere parts working together]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38230 — systems inside systems pupil school town]
 
 ## Sub lesson 2 — Parts interact — and systems sit inside systems
 

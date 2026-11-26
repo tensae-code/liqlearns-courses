@@ -9,7 +9,11 @@ scientific writing, "I describe matter": describe a slice of pizza to someone wh
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38104 — describing a material appearance smell and]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38105 — good description builds a clear picture]
 
 ## The key ideas
 

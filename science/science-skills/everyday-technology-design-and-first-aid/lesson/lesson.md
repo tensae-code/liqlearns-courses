@@ -9,7 +9,11 @@ Pakistan (Punjab)'s Grade 4 book gives Technology in Everyday Life a whole closi
 
 In your mind's eye: the lesson's central object or set-up. Name its parts before reading on.
 
+[Picture 38128 — design and make paper clay and]
+
 In your mind's eye: the lesson's central change or test result,. Say what changed and what it proves.
+
+[Picture 38129 — technology for health the first-aid box]
 
 ## Sub lesson 2 — Technology for health — the first-aid box and health checks
 

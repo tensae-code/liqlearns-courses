@@ -11,7 +11,11 @@ Tiny living things are easy to pass by, yet the sea's life hangs on them. Studyi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38206 — the marine biologist studies life in]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 38207 — plankton the sea's tiny life drifting]
 
 ## The key ideas
 

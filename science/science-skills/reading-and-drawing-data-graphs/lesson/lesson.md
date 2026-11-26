@@ -13,7 +13,11 @@ Then **look for patterns** in the sorted data: What is most common? What is rare
 
 In your mind's eye: thirty answer scraps being sorted into three labelled piles with counts written beside each pile. Say which pile the pattern points to first.
 
+[Picture 38190 — data work collect sort tabulate then]
+
 In your mind's eye: unsorted scraps becoming a counted table, the biggest count lighting up. Say what changed and what the pattern is.
+
+[Picture 38191 — presenting data bars for amounts lines]
 
 ## Sub lesson 2 — Presenting results as graphs
 

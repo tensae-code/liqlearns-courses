@@ -9,7 +9,11 @@ A **model** is a stand-in for something real, built to be studied in its place. 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38174 — similarity a model keeps what matters]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38175 — modelling a way of knowing not]
 
 ## Sub lesson 2 — Modelling — a method of cognition
 
@@ -17,7 +21,11 @@ In your mind's eye: the lesson's central change or test result from this part. S
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38176 — test ideas on the model before]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38177 — modelling stands among the ways science]
 
 ## The key ideas
 

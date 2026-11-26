@@ -11,7 +11,11 @@ That difference is what makes DNA useful as evidence. A pattern that differs bet
 
 In your mind's eye: two DNA code strips side by side with their patterns differing in a few marked places, and a third strip matching one of them. Say which two match before reading on.
 
+[Picture 38112 — dna the code whose pattern differs]
+
 In your mind's eye: a pattern strip sliding along another until every mark lines up. Say what a full match means.
+
+[Picture 38113 — forensics matching a trace's dna to]
 
 ## Sub lesson 2 — Matching DNA to identify — the forensic use
 

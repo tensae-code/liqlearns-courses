@@ -9,7 +9,11 @@ Technology has a negative side, and Bangladesh's Class 5 book names it plainly: 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38142 — pollution the helpful tools can harm]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38143 — weapon technology technology turned against life]
 
 ## Sub lesson 2 — Weapon technology
 

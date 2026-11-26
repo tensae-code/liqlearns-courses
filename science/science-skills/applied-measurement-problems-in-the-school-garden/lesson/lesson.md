@@ -9,7 +9,11 @@ Seychelles' Unit 1 Project 1, "Using what we have learnt", sends pupils back int
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38088 — real problems from the garden solved]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38089 — say it guess measure then check]
 
 ## Sub lesson 2 — Solving them with what you have learnt
 

@@ -9,7 +9,11 @@ Picking the instrument for the job: floor scale, food scale, two-pan balance; th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38170 — pick the instrument that fits the]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38171 — quantities at home every one is]
 
 ## Sub lesson 2 — Quantities on the labels at home (beans 908 g, sugar 500 g, oil 750 mL, a drink 2.5 L)
 

@@ -9,7 +9,11 @@ Learners do not arrive empty. They arrive with **first ideas** — early concept
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38102 — learners arrive with first ideas some]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38103 — surface the wrong idea and work]
 
 ## Sub lesson 2 — Surface the idea and work on it — not just correct it
 

@@ -9,7 +9,11 @@ Robots as hardware plus software; virtual reality and its applications; artifici
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38090 — a robot is hardware plus software]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38091 — virtual reality ai and the cloud]
 
 ## The key ideas
 

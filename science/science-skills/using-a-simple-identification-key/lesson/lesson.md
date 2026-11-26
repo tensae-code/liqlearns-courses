@@ -9,7 +9,11 @@ Seychelles' Unit 5 Summary, "Using a key", teaches the identification key: a set
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38235 — an identification key yes-or-no questions to]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38236 — making a key every question must]
 
 ## Sub lesson 2 — Making your own key
 

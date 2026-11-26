@@ -9,7 +9,11 @@ Ice melts at 0 °C / 32 °F / 273 K and water boils at 100 °C / 212 °F / 373 K
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38231 — three scales one temperature ice and]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38232 — converting the same warmth two numbers]
 
 ## Sub lesson 2 — Ice melts at 0 °C / 32 °F / 273 K and water boils at 100 °C / 212 °F / 373 K
 

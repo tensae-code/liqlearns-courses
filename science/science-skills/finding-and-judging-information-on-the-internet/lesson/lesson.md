@@ -9,7 +9,11 @@ The Google search operators (site:, inurl:, exact-phrase quotes, OR, AND, the mi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38140 — search operators aim the search like]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38141 — judge the source who published it]
 
 ## Sub lesson 2 — The Google search operators
 

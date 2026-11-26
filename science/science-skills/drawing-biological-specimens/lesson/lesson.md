@@ -11,7 +11,11 @@ Barbados's syllabus keeps the two apart on purpose (Appendix B). The drawing's j
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38114 — a drawing is evidence a diagram]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38115 — proportion parts drawn in their true]
 
 ## Sub lesson 2 — Proportion, magnification and ruled label lines
 
@@ -21,7 +25,11 @@ A drawing that keeps all three rules can be trusted and studied; a drawing that 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38116 — magnification the drawing states its true]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38117 — label lines are ruled straight to]
 
 ## The key ideas
 

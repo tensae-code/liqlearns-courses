@@ -9,7 +9,11 @@ Egypt's Primary 4 book sets the problem as a project: **design a bridge to get t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38122 — design first how will the load]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38123 — test the bridge under load and]
 
 ## Sub lesson 2 — Test the bridge under load
 

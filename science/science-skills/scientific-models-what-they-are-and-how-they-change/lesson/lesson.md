@@ -9,7 +9,11 @@ A **scientific model** is a **representation of a thing or event that helps us u
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38214 — three kinds of model held computed]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38215 — describing to a sketch artist words]
 
 ## Sub lesson 2 — Making models — more information, more accuracy
 

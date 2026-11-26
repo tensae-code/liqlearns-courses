@@ -11,7 +11,11 @@ The Grade 3 book widens the word: ordering and sequencing is deciding **how thin
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38188 — ordering what comes first second and]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 38189 — first second third putting things in]
 
 ## Sub lesson 2 — Ordering by size
 

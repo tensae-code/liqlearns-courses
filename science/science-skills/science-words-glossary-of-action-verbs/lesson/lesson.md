@@ -11,7 +11,11 @@ That placement is the lesson. The guide treats the instruction words as part of 
 
 In your mind's eye: an open glossary page with the verb list down one side and short definitions beside each verb. The student points to the verb in a sample question, then to its definition.
 
+[Picture 38212 — the glossary of action words science]
+
 In your mind's eye: a question's verb being underlined, then matched to its glossary definition. Say the job the verb sets.
+
+[Picture 38213 — seven verbs carry the whole of]
 
 ## Sub lesson 2 — The seven verbs at work
 

@@ -9,7 +9,11 @@ A number written as a coefficient times a power of ten, worked with the size of 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38216 — scientific notation shorthand for the huge]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38217 — notation cards big and small both]
 
 ## Sub lesson 2 — A number written as a coefficient times a power of ten
 

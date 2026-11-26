@@ -1685,6 +1685,163 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 38085 | pictures/38085.webp | The waterborne diseases arrive by the same road — drawn render, Photos+GIFs front 2026-11-26 | Science — Keeping Healthy, Waterborne diseases and oral saline |
 | 38086 | pictures/38086.webp | Making oral saline at home: salt, sugar, safe water — drawn render, Photos+GIFs front 2026-11-26 | Science — Keeping Healthy, Waterborne diseases and oral saline |
 | 38087 | pictures/38087.webp | Every worker and learner has a right to safety information — drawn render, Photos+GIFs front 2026-11-26 | Science — Keeping Healthy, Your right to safety information at work and school |
+| 38088 | pictures/38088.webp | Real problems from the garden, solved by measuring — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Applied measurement problems in the school garden |
+| 38089 | pictures/38089.webp | Say it, guess, measure — then check the answer — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Applied measurement problems in the school garden |
+| 38090 | pictures/38090.webp | A robot is hardware plus software — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Artificial intelligence, virtual reality and robots |
+| 38091 | pictures/38091.webp | Virtual reality, AI and the cloud: worlds made of data — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Artificial intelligence, virtual reality and robots |
+| 38092 | pictures/38092.webp | A good netizen: legal, safe, ethical, responsible — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Being a good netizen and your online reputation |
+| 38093 | pictures/38093.webp | Online reputation: cared for by answering and correcting — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Being a good netizen and your online reputation |
+| 38094 | pictures/38094.webp | Bioassays: products tested on animals before market — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Bioassays and testing on animals |
+| 38095 | pictures/38095.webp | Testing on animals: the argument on both sides — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Bioassays and testing on animals |
+| 38096 | pictures/38096.webp | One bit, four make a nibble, eight make a byte — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Bits, bytes and how computers store |
+| 38097 | pictures/38097.webp | Kilobyte to petabyte: storage grows by 1024s — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Bits, bytes and how computers store |
+| 38098 | pictures/38098.webp | Cause and effect in non-living nature: heat, crack, fall — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Cause and effect in nature |
+| 38099 | pictures/38099.webp | Chains in the world around us: rain, river, growth — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Cause and effect in nature |
+| 38100 | pictures/38100.webp | Working with information: four steps, in order — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Collecting, storing and sharing information |
+| 38101 | pictures/38101.webp | Searching online: keywords typed, results scanned, refined — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Collecting, storing and sharing information |
+| 38102 | pictures/38102.webp | Learners arrive with first ideas — some of them mistaken — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Dealing with learners' misconceptions in science |
+| 38103 | pictures/38103.webp | Surface the wrong idea and work on it together — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Dealing with learners' misconceptions in science |
+| 38104 | pictures/38104.webp | Describing a material: appearance, smell and sound — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Descriptive writing — describing a material |
+| 38105 | pictures/38105.webp | Good description builds a clear picture, detail by detail — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Descriptive writing — describing a material |
+| 38106 | pictures/38106.webp | Analogue flows; digital steps — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Digital and analogue signals |
+| 38107 | pictures/38107.webp | Converters: analogue to digital, and back — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Digital and analogue signals |
+| 38108 | pictures/38108.webp | Digital wellbeing: online and offline time in balance — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Digital wellbeing — balancing screen time |
+| 38109 | pictures/38109.webp | The digital footprint: a record that lasts — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Digital wellbeing — balancing screen time |
+| 38110 | pictures/38110.webp | A dimension is the kind of quantity, under any unit — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Dimensions of quantities |
+| 38111 | pictures/38111.webp | Work the dimension out from the unit's own parts — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Dimensions of quantities |
+| 38112 | pictures/38112.webp | DNA: the code whose pattern differs between people — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, DNA as evidence — forensic identification |
+| 38113 | pictures/38113.webp | Forensics: matching a trace's DNA to a person — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, DNA as evidence — forensic identification |
+| 38114 | pictures/38114.webp | A drawing is evidence; a diagram is a plan — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Drawing biological specimens |
+| 38115 | pictures/38115.webp | Proportion: parts drawn in their true sizes — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Drawing biological specimens |
+| 38116 | pictures/38116.webp | Magnification: the drawing states its true size — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Drawing biological specimens |
+| 38117 | pictures/38117.webp | Label lines are ruled straight to the part they name — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Drawing biological specimens |
+| 38118 | pictures/38118.webp | Inferring: follow the relations to a judgement — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Drawing conclusions from evidence |
+| 38119 | pictures/38119.webp | Analyse the data first — only then conclude — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Drawing conclusions from evidence |
+| 38120 | pictures/38120.webp | Editing a photo: crop, light, colour and size — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Editing photos — crop, light, colour and size |
+| 38121 | pictures/38121.webp | Moving photos from phone or camera to computer — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Editing photos — crop, light, colour and size |
+| 38122 | pictures/38122.webp | Design first: how will the load travel to the ground? — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Engineering design — bridges and loads |
+| 38123 | pictures/38123.webp | Test the bridge under load — and let the test teach — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Engineering design — bridges and loads |
+| 38124 | pictures/38124.webp | Define the problem: criteria and constraints first — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Engineering design process |
+| 38125 | pictures/38125.webp | Generate ideas: sketch them, model them, judge them — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Engineering design process |
+| 38126 | pictures/38126.webp | Everyday technology: the tools of daily life, named — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Everyday technology around us |
+| 38127 | pictures/38127.webp | Each technology is learned with the job it does — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Everyday technology around us |
+| 38128 | pictures/38128.webp | Design and make: paper, clay and models — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Everyday technology — design and first aid |
+| 38129 | pictures/38129.webp | Technology for health: the first-aid box and checks — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Everyday technology — design and first aid |
+| 38130 | pictures/38130.webp | A book of sessions: things done, not pages read — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Exercise-book sessions — learning by doing |
+| 38131 | pictures/38131.webp | Done, written, checked — that is how it stays — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Exercise-book sessions — learning by doing |
+| 38132 | pictures/38132.webp | Explaining: take a position and give its reasons — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Explaining and arguing in science |
+| 38133 | pictures/38133.webp | Odd one out: say which, and defend the choice — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Explaining and arguing in science |
+| 38134 | pictures/38134.webp | Explorers: expeditions that make the unknown known — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Explorers and inventors — how people discover and create |
+| 38135 | pictures/38135.webp | Inventors create; explorers discover; both build our world — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Explorers and inventors — how people discover and create |
+| 38136 | pictures/38136.webp | Preparing the field study: questions, notebook, magnifier — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Fieldwork — observing a community in nature |
+| 38137 | pictures/38137.webp | On the ground: observe closely and record it all — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Fieldwork — observing a community in nature |
+| 38138 | pictures/38138.webp | The notebook holds what the community showed — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Fieldwork — observing a community in nature |
+| 38139 | pictures/38139.webp | Sharing the findings: the excursion's second half — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Fieldwork — observing a community in nature |
+| 38140 | pictures/38140.webp | Search operators aim the search like a tool — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Finding and judging information on the internet |
+| 38141 | pictures/38141.webp | Judge the source: who published it, and when — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Finding and judging information on the internet |
+| 38142 | pictures/38142.webp | Pollution: the helpful tools can harm air, soil and water — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Harms of technology |
+| 38143 | pictures/38143.webp | Weapon technology: technology turned against life — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Harms of technology |
+| 38144 | pictures/38144.webp | A message travels: phone, towers, phone — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, How a digital message travels |
+| 38145 | pictures/38145.webp | Why digital wins: less disturbance, fewer errors — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, How a digital message travels |
+| 38146 | pictures/38146.webp | The long road of messages: faster and further each step — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, How communication technology grew |
+| 38147 | pictures/38147.webp | The long road of recording: more kept, smaller, longer — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, How communication technology grew |
+| 38148 | pictures/38148.webp | A hypothesis is the sentence the experiment judges — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Hypothesis — and misconceptions in science |
+| 38149 | pictures/38149.webp | A misconception: a wrong idea that feels true — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Hypothesis — and misconceptions in science |
+| 38150 | pictures/38150.webp | The oldest technologies are still technologies — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Indigenous technologies — living technologies |
+| 38151 | pictures/38151.webp | Preserving food is technology too — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Indigenous technologies — living technologies |
+| 38152 | pictures/38152.webp | ICT: the tools we use to work with information — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Information and communication technology — the basics |
+| 38153 | pictures/38153.webp | Two halves: carrying information, and keeping it — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Information and communication technology — the basics |
+| 38154 | pictures/38154.webp | Everything follows instructions — people and machines — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Instructions and code — how machines work |
+| 38155 | pictures/38155.webp | Code: a machine's instructions, followed exactly — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Instructions and code — how machines work |
+| 38156 | pictures/38156.webp | A table of the year: what does it tell us? — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Interpreting data — finding what a table tells us |
+| 38157 | pictures/38157.webp | Interpreting: the pattern is what the table is saying — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Interpreting data — finding what a table tells us |
+| 38158 | pictures/38158.webp | Jabir ibn Hayyan: chemistry's named scholar — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Jabir ibn Hayyan and chemistry |
+| 38159 | pictures/38159.webp | The chemist's bench: separating by heating and cooling — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Jabir ibn Hayyan and chemistry |
+| 38160 | pictures/38160.webp | Kazakhstan in the stream of modern discoveries — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Kazakhstan's scientists and discoveries |
+| 38161 | pictures/38161.webp | Kazakhstani scientists built the natural sciences too — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Kazakhstan's scientists and discoveries |
+| 38162 | pictures/38162.webp | Research of Kazakhstan's scientists: looking closely — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Kazakhstan's scientists and discoveries |
+| 38163 | pictures/38163.webp | A discovery's road: from one bench to the world — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Kazakhstan's scientists and discoveries |
+| 38164 | pictures/38164.webp | The science journal: a scientific tool, like an instrument — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Keeping a science journal |
+| 38165 | pictures/38165.webp | Entries are made during the work — dated and in order — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Keeping a science journal |
+| 38166 | pictures/38166.webp | An analogy teaches the new thing through the known one — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Learning with analogies and models |
+| 38167 | pictures/38167.webp | Role play: the class becomes the model — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Learning with analogies and models |
+| 38168 | pictures/38168.webp | Models show what cannot be seen directly — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Making models to show how things work |
+| 38169 | pictures/38169.webp | An ecosystem in a vessel: water, sand, plants, life — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Making models to show how things work |
+| 38170 | pictures/38170.webp | Pick the instrument that fits the job — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Measuring instruments — choosing the right one |
+| 38171 | pictures/38171.webp | Quantities at home: every one is a value plus a unit — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Measuring instruments — choosing the right one |
+| 38172 | pictures/38172.webp | Measuring matter: length, volume, and the rising water — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Measuring length, volume and mass |
+| 38173 | pictures/38173.webp | The metre and the litre: the measures and their parts — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Measuring length, volume and mass |
+| 38174 | pictures/38174.webp | Similarity: a model keeps what matters for the question — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Modelling in science |
+| 38175 | pictures/38175.webp | Modelling: a way of knowing, not a drawing exercise — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Modelling in science |
+| 38176 | pictures/38176.webp | Test ideas on the model before trusting them — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Modelling in science |
+| 38177 | pictures/38177.webp | Modelling stands among the ways science knows — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Modelling in science |
+| 38178 | pictures/38178.webp | NCSE: coursework counts in every form — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, NCSE assessment — how final marks are built |
+| 38179 | pictures/38179.webp | Final marks are built, share by share — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, NCSE assessment — how final marks are built |
+| 38180 | pictures/38180.webp | Some processes run back; most in nature cannot — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Order and chaos — entropy and self-organisation |
+| 38181 | pictures/38181.webp | Entropy: the measure of a system's disorder — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Order and chaos — entropy and self-organisation |
+| 38182 | pictures/38182.webp | Self-organisation: order that builds itself — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Order and chaos — entropy and self-organisation |
+| 38183 | pictures/38183.webp | Left alone, order spreads into disorder — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Order and chaos — entropy and self-organisation |
+| 38184 | pictures/38184.webp | Melting is one-way: entropy at work in a warm room — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Order and chaos — entropy and self-organisation |
+| 38185 | pictures/38185.webp | Order can grow where energy flows through — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Order and chaos — entropy and self-organisation |
+| 38186 | pictures/38186.webp | First steps: slides in PowerPoint, sheets in Excel — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Presentations and spreadsheets — first steps |
+| 38187 | pictures/38187.webp | Spreadsheets at work: formulas, sums and charts — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Presentations and spreadsheets — first steps |
+| 38188 | pictures/38188.webp | Ordering: what comes first, second and last — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Putting things in order — sequence |
+| 38189 | pictures/38189.gif | First, second, third: putting things in order — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Science Skills, Putting things in order — sequence |
+| 38190 | pictures/38190.webp | Data work: collect, sort, tabulate — then see the pattern — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Reading and drawing data graphs |
+| 38191 | pictures/38191.webp | Presenting data: bars for amounts, lines for change — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Reading and drawing data graphs |
+| 38192 | pictures/38192.webp | Recording sound: the microphone catches the wave — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Recording and editing audio and video |
+| 38193 | pictures/38193.webp | Editing: cut, join, and save the sound — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Recording and editing audio and video |
+| 38194 | pictures/38194.webp | A chart with a title: the reader knows at a glance — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Recording results — tables, graphs and charts |
+| 38195 | pictures/38195.webp | Building a chart: axes first, then the bars — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Recording results — tables, graphs and charts |
+| 38196 | pictures/38196.webp | Researching: the question first, the notes after — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Research and innovation |
+| 38197 | pictures/38197.webp | Innovation: knowledge put together in a new way — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Research and innovation |
+| 38198 | pictures/38198.webp | Designing a homework robot: what must it sense and do? — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Robots and artificial intelligence — an introduction |
+| 38199 | pictures/38199.webp | The robot debate: strong at tasks, blind to meaning — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Robots and artificial intelligence — an introduction |
+| 38200 | pictures/38200.webp | Products and their uses: each made for a job — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science and industry — technology in daily life |
+| 38201 | pictures/38201.webp | Industry: knowledge turned into making, at scale — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science and industry — technology in daily life |
+| 38202 | pictures/38202.webp | Careers in science: many doors from one subject — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science and technology careers |
+| 38203 | pictures/38203.webp | Every school year opens more science doors — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science and technology careers |
+| 38204 | pictures/38204.webp | Each system has its own doctor — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science jobs — doctors of nerves and bones |
+| 38205 | pictures/38205.webp | Matching the trouble to the specialist — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science jobs — doctors of nerves and bones |
+| 38206 | pictures/38206.webp | The marine biologist studies life in the sea — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science jobs — the marine biologist |
+| 38207 | pictures/38207.gif | Plankton: the sea's tiny life, drifting — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science jobs — the marine biologist |
+| 38208 | pictures/38208.webp | Jobs with minerals: dug, sorted, and set — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science jobs — working with minerals |
+| 38209 | pictures/38209.webp | A mineral's properties decide the work it does — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science jobs — working with minerals |
+| 38210 | pictures/38210.webp | Memory games: matching pairs and question cards — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science learning games |
+| 38211 | pictures/38211.webp | Dominoes of ideas: each card knocks the next along — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science learning games |
+| 38212 | pictures/38212.webp | The glossary of action words: science is done in verbs — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science words — glossary of action verbs |
+| 38213 | pictures/38213.webp | Seven verbs carry the whole of practical science — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Science words — glossary of action verbs |
+| 38214 | pictures/38214.webp | Three kinds of model: held, computed, imagined — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Scientific models — what they are and how they change |
+| 38215 | pictures/38215.webp | Describing to a sketch artist: words become a picture — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Scientific models — what they are and how they change |
+| 38216 | pictures/38216.webp | Scientific notation: shorthand for the huge and the tiny — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Scientific notation for very large and small numbers |
+| 38217 | pictures/38217.webp | Notation cards: big and small, both tamed — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Scientific notation for very large and small numbers |
+| 38218 | pictures/38218.webp | A theory: a pattern seen again and again, explained — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Scientific theories and laws — how explanations differ from descriptions |
+| 38219 | pictures/38219.webp | Laws describe; theories explain — both are science — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Scientific theories and laws — how explanations differ from descriptions |
+| 38220 | pictures/38220.webp | Inside Scratch: blocks, script area, stage and sprite — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Scratch — first steps |
+| 38221 | pictures/38221.webp | Click the flag: the joined blocks run — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Scratch — first steps |
+| 38222 | pictures/38222.webp | Sorting: likeness decides the group — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Sorting and classifying things |
+| 38223 | pictures/38223.gif | Sorting by a test: the magnet picks out the iron — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Science Skills, Sorting and classifying things |
+| 38224 | pictures/38224.webp | Sources for young researchers: each has its strength — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Sources of information for young researchers |
+| 38225 | pictures/38225.webp | Standards: a product measured against set criteria — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Standards and quality marks |
+| 38226 | pictures/38226.webp | Quality marks: the sign the standard was met — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Standards and quality marks |
+| 38227 | pictures/38227.webp | Cybercrime and its defences: hook, bug and shield — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Staying safe online — cybercrime and computer conduct |
+| 38228 | pictures/38228.webp | Staying safe online is a code, kept by everyone — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Staying safe online — cybercrime and computer conduct |
+| 38229 | pictures/38229.webp | Systems are everywhere: parts working together — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Systems and subsystems in science |
+| 38230 | pictures/38230.webp | Systems inside systems: pupil, school, town — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Systems and subsystems in science |
+| 38231 | pictures/38231.webp | Three scales, one temperature: ice and steam agree — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Temperature scales and converting between them |
+| 38232 | pictures/38232.webp | Converting: the same warmth, two numbers — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Temperature scales and converting between them |
+| 38233 | pictures/38233.webp | The camera as a tool: growth caught frame by frame — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, The camera and the computer as science tools |
+| 38234 | pictures/38234.webp | The computer as a tool — powerful, and to be guarded — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, The camera and the computer as science tools |
+| 38235 | pictures/38235.webp | An identification key: yes-or-no questions to a name — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Using a simple identification key |
+| 38236 | pictures/38236.webp | Making a key: every question must divide, not muddle — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Using a simple identification key |
+| 38237 | pictures/38237.webp | The gas burner, set safely before any heating — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Using the gas burner safely |
+| 38238 | pictures/38238.webp | Heating safely: the tube held, aimed away from everyone — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Using the gas burner safely |
+| 38239 | pictures/38239.webp | Popular inventors: Venezuela's makers and fixers — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Venezuelan popular inventors |
+| 38240 | pictures/38240.webp | Technology the community builds for itself — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Venezuelan popular inventors |
+| 38241 | pictures/38241.webp | Francisco Tamayo: a life given to Venezuela's plants — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Venezuelan scientists — love of nature |
+| 38242 | pictures/38242.webp | Classifying plants — and seeking medicines among them — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Venezuelan scientists — love of nature |
+| 38243 | pictures/38243.webp | Word processing: the document, shaped as you write — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Word processing — first steps |
+| 38244 | pictures/38244.webp | The full how-to: shortcuts and tables together — drawn render, Photos+GIFs front 2026-11-26 | Science — Science Skills, Word processing — first steps |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |

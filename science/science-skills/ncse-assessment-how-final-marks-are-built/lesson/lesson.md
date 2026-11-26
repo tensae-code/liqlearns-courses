@@ -15,7 +15,11 @@ Form 2 carries the biggest coursework share — twice either of the others. Adde
 
 In your mind's eye: a 100-square bar with 15 squares coloured for Form 1, 30 for Form 2 and 15 for Form 3. The student reads each share off the bar.
 
+[Picture 38178 — ncse coursework counts in every form]
+
 In your mind's eye: the bar filling in form by form, 15 then 30 then 15 squares colouring. Say the running total after each form.
+
+[Picture 38179 — final marks are built share by]
 
 ## Sub lesson 2 — Examinations and NCSE certification
 

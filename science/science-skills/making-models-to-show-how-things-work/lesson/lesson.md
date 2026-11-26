@@ -9,7 +9,11 @@ Making models to show what cannot be seen directly: collage models of photosynth
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38168 — models show what cannot be seen]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38169 — an ecosystem in a vessel water]
 
 ## Sub lesson 2 — The guide's recipe for an ecosystem model
 

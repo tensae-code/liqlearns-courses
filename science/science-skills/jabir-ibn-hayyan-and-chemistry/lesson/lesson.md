@@ -11,7 +11,11 @@ The placing is the teaching. Chemistry is not only elements, compounds and their
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38158 — jabir ibn hayyan chemistry's named scholar]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38159 — the chemist's bench separating by heating]
 
 ## The key ideas
 

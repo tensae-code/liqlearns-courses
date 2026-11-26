@@ -9,7 +9,11 @@ the reference's other two tools: the camera helps watch and record the changes t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38233 — the camera as a tool growth]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38234 — the computer as a tool powerful]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ Netizenship (guide evidence): a netizen is a person who actively uses the intern
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38092 — a good netizen legal safe ethical]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38093 — online reputation cared for by answering]
 
 ## Sub lesson 2 — Online reputation and how it is managed (guide evidence)
 

@@ -9,7 +9,11 @@ The computer code of conduct; cybercrime and Nepal's Electronic Transactions Act
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38227 — cybercrime and its defences hook bug]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38228 — staying safe online is a code]
 
 ## Sub lesson 2 — The code of conduct for computers and the internet
 

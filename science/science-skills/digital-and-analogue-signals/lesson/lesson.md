@@ -9,7 +9,11 @@ A physical quantity that changes with time; an analogue signal changes continuou
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38106 — analogue flows digital steps]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38107 — converters analogue to digital and back]
 
 ## Sub lesson 2 — A physical quantity that changes with time
 

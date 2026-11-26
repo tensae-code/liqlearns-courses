@@ -9,7 +9,11 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38172 — measuring matter length volume and the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38173 — the metre and the litre the]
 
 ## The key ideas
 

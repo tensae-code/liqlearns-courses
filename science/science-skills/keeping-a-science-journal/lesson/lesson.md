@@ -9,7 +9,11 @@ Papua New Guinea's Standards Based Grade 9 guide opens its Science as Inquiry st
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38164 — the science journal a scientific tool]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38165 — entries are made during the work]
 
 ## Sub lesson 2 — How to use a science journal
 

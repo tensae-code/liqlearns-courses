@@ -9,7 +9,11 @@ Moving photos from a phone or camera to the computer; editing a photo — croppi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38120 — editing a photo crop light colour]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38121 — moving photos from phone or camera]
 
 ## Sub lesson 2 — Moving photos from a phone or camera to the computer
 

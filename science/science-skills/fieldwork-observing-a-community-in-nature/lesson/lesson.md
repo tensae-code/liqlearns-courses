@@ -11,7 +11,11 @@ The kit is named: a **notebook** for recording and a **magnifier** for the small
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38136 — preparing the field study questions notebook]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38137 — on the ground observe closely and]
 
 ## Sub lesson 2 — Carrying it out — observing and recording
 
@@ -21,7 +25,11 @@ And the recording has one more named object: **the traces of human activity** in
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38138 — the notebook holds what the community]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38139 — sharing the findings the excursion's second]
 
 ## The key ideas
 

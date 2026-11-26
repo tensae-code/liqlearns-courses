@@ -9,7 +9,11 @@ skills focus "Interpreting Data": data gathered in an experiment is easier to re
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38156 — a table of the year what]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38157 — interpreting the pattern is what the]
 
 ## The key ideas
 

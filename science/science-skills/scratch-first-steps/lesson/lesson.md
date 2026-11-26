@@ -9,7 +9,11 @@ Scratch is a place for building programs from blocks. Its figures are sprites, i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38220 — inside scratch blocks script area stage]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38221 — click the flag the joined blocks]
 
 ## Sub lesson 2 — A first program — the green flag
 

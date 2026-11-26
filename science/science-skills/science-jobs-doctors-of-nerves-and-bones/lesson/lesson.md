@@ -11,7 +11,11 @@ Each system has its own doctor. The doctor of the nerves answers for the nervous
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38204 — each system has its own doctor]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38205 — matching the trouble to the specialist]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ An **analogy** teaches a new thing by setting it beside a known one: this is lik
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38166 — an analogy teaches the new thing]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38167 — role play the class becomes the]
 
 ## Sub lesson 2 — Models — stand-ins that can be handled
 

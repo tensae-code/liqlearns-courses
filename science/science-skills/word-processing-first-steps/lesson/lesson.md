@@ -9,7 +9,11 @@ First word processing: opening Word, typing and saving a document, choosing font
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38243 — word processing the document shaped as]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38244 — the full how-to shortcuts and tables]
 
 ## Sub lesson 2 — The guide's complete word-processing how-to
 

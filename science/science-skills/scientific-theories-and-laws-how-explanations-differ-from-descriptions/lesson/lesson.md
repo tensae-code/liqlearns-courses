@@ -9,7 +9,11 @@ A **scientific theory** is a **tried explanation of a pattern noticed again and 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38218 — a theory a pattern seen again]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38219 — laws describe theories explain both are]
 
 ## Sub lesson 2 — Scientific laws — set against theories
 

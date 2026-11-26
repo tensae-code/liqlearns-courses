@@ -9,7 +9,11 @@ Recording with Voice Recorder on computer and phone; cutting and joining audio w
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38192 — recording sound the microphone catches the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38193 — editing cut join and save the]
 
 ## Sub lesson 2 — Recording with Voice Recorder on computer and phone
 

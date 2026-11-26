@@ -9,11 +9,15 @@ Before you read: think about this lesson's subject — cause and effect in natur
 
 In your mind's eye: causes and consequences of processes in non-living nature as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38098 — cause and effect in non-living nature]
+
 ## Sub lesson 2 — Cause-and-effect connections in the world around us
 
 Kazakhstan's books teach this as their own lesson — "Cause-and-effect connections in the world around us". The learner works through the books' own presentation of cause-and-effect connections in the world around us — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: cause-and-effect connections in the world around us as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38099 — chains in the world around us]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ Bangladesh's Science Exercise Books are built differently from their Investigati
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38130 — a book of sessions things done]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38131 — done written checked that is how]
 
 ## Sub lesson 2 — Done, written, checked
 

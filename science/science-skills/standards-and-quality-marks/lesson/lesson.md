@@ -9,7 +9,11 @@ A **standard** is an agreed set of **criteria** a product must meet — what it 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38225 — standards a product measured against set]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38226 — quality marks the sign the standard]
 
 ## Sub lesson 2 — Quality marks — SLS and ISO
 

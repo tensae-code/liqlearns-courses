@@ -9,7 +9,11 @@ Staying mentally, physically, socially and emotionally healthy by balancing onli
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38108 — digital wellbeing online and offline time]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38109 — the digital footprint a record that]
 
 ## Sub lesson 2 — Staying mentally
 

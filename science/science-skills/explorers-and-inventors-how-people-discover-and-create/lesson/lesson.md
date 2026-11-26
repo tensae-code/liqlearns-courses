@@ -11,7 +11,11 @@ The lesson follows the named explorers: people whose expeditions added whole pla
 
 In your mind's eye: the lesson's central set-up for sub lesson 1. Name its parts before reading on.
 
+[Picture 38134 — explorers expeditions that make the unknown]
+
 In your mind's eye: the lesson's central change for sub lesson 1. Say what changed and what it proves.
+
+[Picture 38135 — inventors create explorers discover both build]
 
 ## Sub lesson 2 — Inventors and scientists — and modern technologies
 

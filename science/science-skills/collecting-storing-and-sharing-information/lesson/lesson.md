@@ -9,7 +9,11 @@ Class 4's Information Collection Sheet activity teaches four steps: decide what 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38100 — working with information four steps in]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38101 — searching online keywords typed results scanned]
 
 ## Sub lesson 2 — Collecting through the internet
 

@@ -9,7 +9,11 @@ Information and communication technology — ICT — is the set of tools we use 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38152 — ict the tools we use to]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38153 — two halves carrying information and keeping]
 
 ## Sub lesson 2 — Two halves — communication and recording
 

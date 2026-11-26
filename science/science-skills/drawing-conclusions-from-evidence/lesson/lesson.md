@@ -11,7 +11,11 @@ That is what makes a conclusion different from an opinion. An opinion can start 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38118 — inferring follow the relations to a]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38119 — analyse the data first only then]
 
 ## Sub lesson 2 — Analysing data and drawing conclusions
 

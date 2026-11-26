@@ -9,7 +9,11 @@ Zimbabwe's ECD A and ECD B guides teach **everyday technology** as a named topic
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38126 — everyday technology the tools of daily]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 38127 — each technology is learned with the]
 
 ## Sub lesson 2 — What everyday technology is used for
 

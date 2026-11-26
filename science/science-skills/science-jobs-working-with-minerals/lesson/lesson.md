@@ -11,7 +11,11 @@ A mineral's properties and its uses decide the work around it: where minerals ar
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38208 — jobs with minerals dug sorted and]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38209 — a mineral's properties decide the work]
 
 ## The key ideas
 

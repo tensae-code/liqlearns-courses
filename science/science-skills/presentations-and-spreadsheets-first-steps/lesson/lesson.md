@@ -9,7 +9,11 @@ Multimedia and making slides in PowerPoint (printed pp. 44–47), and first spre
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38186 — first steps slides in powerpoint sheets]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38187 — spreadsheets at work formulas sums and]
 
 ## Sub lesson 2 — Spreadsheets at work
 

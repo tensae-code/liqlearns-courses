@@ -9,7 +9,11 @@ The reading tells of **Francisco Tamayo**, a Venezuelan **botanist** — a scien
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38241 — francisco tamayo a life given to]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38242 — classifying plants and seeking medicines among]
 
 ## Sub lesson 2 — Classifying plants, seeking medicines
 

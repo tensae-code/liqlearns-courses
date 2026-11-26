@@ -9,7 +9,11 @@ Seychelles' Unit 1 Topic 8 teaches the gas (Bunsen) burner as a set of safe step
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38237 — the gas burner set safely before]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38238 — heating safely the tube held aimed]
 
 ## Sub lesson 2 — Heating safely with the flame
 

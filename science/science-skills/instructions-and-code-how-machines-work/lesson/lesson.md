@@ -9,7 +9,11 @@ Humans follow instructions, and so do computers. An instruction tells the follow
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38154 — everything follows instructions people and machines]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38155 — code a machine's instructions followed exactly]
 
 ## Sub lesson 2 — Code — a machine's instructions
 

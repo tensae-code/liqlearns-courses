@@ -9,7 +9,11 @@ Papua New Guinea's Standards Based Grade 9 guide defines the **hypothesis** insi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38148 — a hypothesis is the sentence the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38149 — a misconception a wrong idea that]
 
 ## Sub lesson 2 — What a misconception is
 

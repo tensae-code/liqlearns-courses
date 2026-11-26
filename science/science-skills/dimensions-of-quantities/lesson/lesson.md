@@ -10,7 +10,11 @@ Every measured quantity — length, mass, time, and everything built from them �
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38110 — a dimension is the kind of]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38111 — work the dimension out from the]
 
 ## Sub lesson 2 — Working the dimension out from the unit
 

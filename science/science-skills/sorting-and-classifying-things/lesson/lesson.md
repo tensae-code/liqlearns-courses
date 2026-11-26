@@ -11,7 +11,11 @@ A group is made by likeness: the things in it share something — a shape, a mat
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38222 — sorting likeness decides the group]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 38223 — sorting by a test the magnet]
 
 ## Sub lesson 2 — Classifying materials — by magnet and by state
 

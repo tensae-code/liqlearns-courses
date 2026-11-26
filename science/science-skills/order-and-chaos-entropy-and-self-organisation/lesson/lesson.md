@@ -9,7 +9,11 @@ Armenia's section opens by sorting processes. A **reversible** process can run b
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38180 — some processes run back most in]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38181 — entropy the measure of a system's]
 
 ## Sub lesson 2 — Entropy — the measure of disorder
 
@@ -17,7 +21,11 @@ That measure is **entropy**: the measure of a system's disorder — its chaos ag
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38182 — self-organisation order that builds itself]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38183 — left alone order spreads into disorder]
 
 ## Sub lesson 3 — Self-organisation — order that builds itself
 
@@ -25,7 +33,11 @@ Yet §7.3 turns the picture: in **open systems** — systems with matter and ene
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38184 — melting is one-way entropy at work]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38185 — order can grow where energy flows]
 
 ## The key ideas
 

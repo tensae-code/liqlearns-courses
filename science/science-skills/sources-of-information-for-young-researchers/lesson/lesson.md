@@ -9,6 +9,8 @@ The books teach this part as kinds of information sources and their strengths an
 
 In your mind's eye: sources of information as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38224 — sources for young researchers each has]
+
 ## The key ideas
 
 - The books teach this part as kinds of information sources and their strengths and weaknesses — worked through in the books' own presentation, at the printed pages named in Sources.

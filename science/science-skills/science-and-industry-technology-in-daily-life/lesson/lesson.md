@@ -11,7 +11,11 @@ Ghana's Basic 2 curriculum files this sub-strand as **technological products and
 
 In your mind's eye: a market stall of made things: bicycle, lamp, bucket, phone, tins of food. Name each product and says its use.
 
+[Picture 38200 — products and their uses each made]
+
 In your mind's eye: one product after another being picked up and used for its job. Say the use as each one appears.
+
+[Picture 38201 — industry knowledge turned into making at]
 
 ## Sub lesson 2 — Science and industry — making and keeping things
 

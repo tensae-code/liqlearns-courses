@@ -9,7 +9,11 @@ One binary digit is a bit, four bits a nibble, eight bits a byte, and 1024 bytes
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38096 — one bit four make a nibble]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38097 — kilobyte to petabyte storage grows by]
 
 ## Sub lesson 2 — One binary digit is a bit
 

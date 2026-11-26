@@ -9,7 +9,11 @@ Bioassays: many people oppose animal research; cosmetics are tested on animals b
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38094 — bioassays products tested on animals before]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38095 — testing on animals the argument on]
 
 ## The key ideas
 

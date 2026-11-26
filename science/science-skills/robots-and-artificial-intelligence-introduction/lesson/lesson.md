@@ -9,7 +9,11 @@ Egypt's Primary 6 book introduces robots through a story-project: **children des
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38198 — designing a homework robot what must]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38199 — the robot debate strong at tasks]
 
 ## Sub lesson 2 — What computers and AI can and cannot do — the debate
 

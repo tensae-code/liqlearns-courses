@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "Kazakhstan in the stream 
 
 In your mind's eye: kazakhstan in the stream of modern discoveries as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38160 — kazakhstan in the stream of modern]
+
 ## Sub lesson 2 — The contribution of Kazakhstani scientists to the development of the natural sciences
 
 Kazakhstan's books teach this as their own lesson — "The contribution of Kazakhstani scientists to the development of the natural sciences". The learner works through the books' own presentation of the contribution of Kazakhstani scientists to the development of the natural sciences — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: the contribution of Kazakhstani scientists to the development of the natural sciences as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38161 — kazakhstani scientists built the natural sciences]
 
 ## Sub lesson 3 — Research of the scientists of Kazakhstan
 
@@ -21,11 +25,15 @@ Kazakhstan's books teach this as their own lesson — "Research of the scientist
 
 In your mind's eye: research of the scientists of Kazakhstan as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38162 — research of kazakhstan's scientists looking closely]
+
 ## Sub lesson 4 — The development of science in Kazakhstan. The scientist Kanysh Satpayev
 
 Kazakhstan's books teach this as their own lesson — "The development of science in Kazakhstan. The scientist Kanysh Satpayev". The learner works through the books' own presentation of the development of science in Kazakhstan. The scientist Kanysh Satpayev — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: the development of science in Kazakhstan. The scientist Kanysh Satpayev as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38163 — a discovery's road from one bench]
 
 ## The key ideas
 

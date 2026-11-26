@@ -9,7 +9,11 @@ Communication travelled a long road: smoke signals and drums, then letters, then
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38146 — the long road of messages faster]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38147 — the long road of recording more]
 
 ## Sub lesson 2 — The long road of recording
 

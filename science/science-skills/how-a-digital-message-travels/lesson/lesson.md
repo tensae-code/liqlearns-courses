@@ -9,7 +9,11 @@ The parts of a digital communication system in order (guide evidence): source, i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38144 — a message travels phone towers phone]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38145 — why digital wins less disturbance fewer]
 
 ## Sub lesson 2 — Baseband and broadband transmission, and why digital wins (guide evidence)
 

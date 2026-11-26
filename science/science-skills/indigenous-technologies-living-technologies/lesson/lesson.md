@@ -13,7 +13,11 @@ Each craft is a worked science of its material. The maker has to know what the m
 
 In your mind's eye: hands working a natural fibre into cord, with woven textile and a shaped wooden vessel beside. Name each technology before reading on.
 
+[Picture 38150 — the oldest technologies are still technologies]
+
 In your mind's eye: a woven textile growing row by row on a small frame. Say what knowledge each row needs.
+
+[Picture 38151 — preserving food is technology too]
 
 ## Sub lesson 2 — Food preparation and preservation as technology
 

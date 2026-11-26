@@ -9,7 +9,11 @@ Part 3 of Cambodia's manual closes with **learning games** (Ch. 6). Its first ga
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38210 — memory games matching pairs and question]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38211 — dominoes of ideas each card knocks]
 
 ## Sub lesson 2 — Loop and domino games — chaining the ideas
 
