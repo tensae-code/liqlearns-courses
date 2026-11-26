@@ -10,11 +10,15 @@ the Nguyễn lords sent a flotilla of local sailors to the Hoàng Sa islands in 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39593 — for those who might not return]
+
 ## Sub lesson 2 — Bài 3, the Hoàng Sa flotilla story
 
 Lord Nguyễn Phúc Nguyên raises a 70-man flotilla from Lý Sơn island; each year they sail three days and nights to the Hoàng Sa islands for six months in tiny boats, and many never come home, so the island holds the Khao lề farewell rite for them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39592 — seventy men in tiny boats]
 
 ## Sub lesson 3 — Bài 3, asserting sovereignty over the sea and islands through the dynasties
 
@@ -22,11 +26,15 @@ Nguyễn kings plant flags and markers, Minh Mạng orders the Đại Nam unifie
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39591 — markers for the king]
+
 ## Sub lesson 4 — Bài 6, ruling the new land and asserting sovereignty over the sea islands
 
 the Nguyễn lords register people and land, open tax stations, hand settlers tools and tax relief and let them own the fields they reclaim, dig canals and open trading ports (Đại Phố, Gia Định, Bến Nghé, Hà Tiên) — and at sea they keep the Hoàng Sa and Bắc Hải flotillas sailing to the Paracel and Spratly islands; Lê Quý Đôn's Phủ biên tạp lục, quoted here, records that Bắc Hải volunteers receive certificates and exemption from taxes and patrol dues to sail their small boats to the northern sea grounds, Côn Lôn and the Hà Tiên islands
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39590 — ruling the land, sailing the sea]
 
 ## Sub lesson 5 — Bài 16, the Nguyễn exercise sovereignty over Hoàng Sa and Trường Sa
 
@@ -34,11 +42,15 @@ under Gia Long both archipelagos belong to Quảng Nghĩa prefecture, and the co
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39589 — surveys, temples and markers]
+
 ## Sub lesson 6 — Shared Theme 2 (in the Geography part), the historical establishment of Vietnam's sea-and-island sovereignty
 
 the theme's long historical sweep runs from the coastal cave-dwellers of prehistory and the sea-going first states — Văn Lang–Âu Lạc, Chăm-pa, Phù Nam with its port of Óc Eo, the boat-carved Đông Sơn drums and the legends of Mai An Tiêm's island and the Golden Turtle — through Vân Đồn's centuries as an international port guarded by Trần generals, to the port towns of both regions trading with Europe; the Nguyễn lords plant settlers on Côn Lôn and Phú Quốc, raise the Hoàng Sa and Bắc Hải teams, and in August 1702 Lord Nguyễn Phúc Chu drives the English off Côn Lôn island; a Tây Sơn admiral's dispatch of 1786, quoted here, sends the Hoàng Sa team out in four boats to gather the islands' gold, bronze, weapons and tortoiseshell for the capital; the Nguyễn kings then survey, map and plant flags and markers (1802–1884), and France, as protector, continues the exercise to 1945
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39588 — from cave-dwellers to port towns]
 
 ## Sub lesson 7 — Shared Theme 3, Protecting Vietnam's sovereignty in the East Sea (2) — the historical evidence and legal basis
 
@@ -46,17 +58,23 @@ the lesson opens on the Nine Dynastic Urns, on which the East Sea, Hoàng Sa and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39587 — the evidence in bronze and paper]
+
 ## Sub lesson 8 — Chuyên đề 3.V Lê Quý Đôn (1726–1784): the encyclopaedist who tops all three examinations, reads over 500 books including European works in Chinese translation, writes in the Vân đài loại ngữ of a round Earth with five continents, and records in the Phủ biên tạp lục how Vietnam's feudal states established and exercised sovereignty over the Hoàng Sa and Trường Sa islands
 
 an 18th-century mandarin's notebook becomes a sovereignty archive for islands his country still defends
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39586 — the notebook becomes an archive]
+
 ## Sub lesson 9 — Bài 13 Vietnam, first sovereign of the two archipelagos: archaeology and the map record (Thiên Nam tứ chí lộ đồ thư 1686; Đại Nam nhất thống toàn đồ 1838) plus Lê Quý Đôn's account of the Nguyễn lords' Hoàng Sa flotilla — seventy men of An Vĩnh sailing each second lunar month for six months' provisions, returning in the eighth with wreck-salvage and sea treasures — and the Bắc Hải team; Gia Long's naval squads and Minh Mạng's annual missions, markers, rescue duty and a temple planted in 1835; the Khao lề thế lính festival still honours the flotilla's men
 
 for two centuries village sailors on five small boats are the state's signature on two empty archipelagos
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39585 — seventy men, five small boats]
 
 ## Say it to your companion
 

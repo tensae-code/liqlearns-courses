@@ -10,6 +10,8 @@ the Nguyễn dynasty builds a three-ringed citadel on the Perfume River, with Th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39577 — the three-ringed capital]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 19, the old capital of Huế — the Nguyễn dynasty builds a three-ringed citadel on the Perfume River, with Thiên Mụ pagoda and the royal tombs — Vietnam's first UNESCO World Heritage site. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Vietnam's first written code is issued under the Lý in 1042; the Quốc triều
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39581 — two great codes]
+
 ## Sub lesson 2 — Bài 10.3a, Đại Việt's political institutions, reforms and law
 
 the Đinh–Tiền Lê dynasties build the centralised monarchy, the institution is perfected through the Lý–Trần and reaches its peak under the early Lê, whose state organisation the lesson details — the emperor at the head deciding all work; the central organs organised in three parts, civil administration, military and supervision, the court comprising the Six Ministries and Six Courts with the Six Offices and the Censorate supervising them; and local government in four levels, from the đạo/thừa tuyên with its three offices (Thừa ty for administration, Đô ty for the military, Hiến ty for justice) down through the phủ and the huyện/châu to the xã headed by the xã trưởng — though each dynasty keeps its own character, the Lý–Trần institutions still close to the people (thân dân), those from the early Lê onward bureaucratic and autocratic; the monarchies also carry out reforms, typically Hồ Quý Ly's and the Hồ dynasty's (late 14th–early 15th century), Lê Thánh Tông's (later 15th century) and Minh Mạng's (early 19th century); and the dynasties attend to building law, issuing the codes Hình thư (Lý), Hình luật (Trần), Quốc triều hình luật (early Lê) and Hoàng Việt luật lệ (Nguyễn) — the box repeats the Hồng Đức code's distinction: its 722 articles are the most complete code applied from the early Lê to the Lê restoration, containing progressive provisions rarely seen in the codes of contemporary Eastern countries, especially protecting women's rights — daughters receive a share of property like sons (Article 388), a daughter inherits if there is no son (Article 391), and property is divided between wife and husband (Articles 374 and 375)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39580 — the state in tiers]
 
 ## Say it to your companion
 

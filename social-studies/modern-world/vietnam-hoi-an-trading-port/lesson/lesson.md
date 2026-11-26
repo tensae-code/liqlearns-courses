@@ -10,11 +10,15 @@ Before you read on, hold this lesson's one thing in mind: 17th–19th-century me
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39583 — the bridge that keeps the peace]
+
 ## Sub lesson 2 — Bài 9, commerce and the great trading towns
 
 market networks spread across deltas and coasts; in the North, Thăng Long — Kẻ Chợ with its 36 guild streets — and Phố Hiến, with its twenty wards and its many resident foreigners, become great centres; in the South, Thanh Hà, Gia Định and above all Hội An, "the largest port town of Đàng Trong", where Japanese, Chinese, Portuguese, Dutch, English and French merchants sell weapons, fine crafts, zinc and silver and buy silk, forest treasures, bird's nests and farm produce past the Japanese-built Covered Bridge — until, in the later 18th century, both governments restrict foreign trade and the towns fade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39582 — the largest port of Dang Trong]
 
 ## Say it to your companion
 

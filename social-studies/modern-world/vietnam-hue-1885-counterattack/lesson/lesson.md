@@ -10,6 +10,8 @@ the minister feigns illness to dodge a French summons, then strikes the French p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39579 — the night strike and the flight]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 19, Tôn Thất Thuyết's counterattack at the Huế citadel, 1885 — the minister feigns illness to dodge a French summons, then strikes the French posts by night on 5 July 1885 and carries young King Hàm Nghi to the mountains to keep resisting. Then let your companion ask you one hard question about it — answer from the lesson.

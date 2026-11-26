@@ -10,6 +10,8 @@ a protectorate's lawyers and lighthouse-keepers keep a claim alive that armies l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39584 — a claim kept alive]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 13 Sovereignty under protectorate and republic: France, speaking for the Nguyễn court, protests China's 1909 surveys, answers a British insurer that the Qing cannot pay for the wrecked Bellona because the islands are not China's, mounts the first scientific expeditions (1925, 1927), builds the 1937 lighthouse and 1938 sovereignty stele; at San Francisco in 1951 no state objects to Vietnam's claim; after Geneva 1954 the southern governments garrison and administer both archipelagos until the Liberation Army takes over Trường Sa in April 1975 — a protectorate's lawyers and lighthouse-keepers keep a claim alive that armies later inherit. Then let your companion ask you one hard question about it — answer from the lesson.

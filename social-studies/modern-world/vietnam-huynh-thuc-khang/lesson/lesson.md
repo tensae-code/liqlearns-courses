@@ -10,6 +10,8 @@ he tops the royal exams in 1904 but refuses office to lead the Duy Tân movement
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39576 — exams topped, office refused]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 18, story of the patriot Huỳnh Thúc Kháng — he tops the royal exams in 1904 but refuses office to lead the Duy Tân movement, spends 13 years exiled on Côn Đảo, and in 1946 serves as acting head of state. Then let your companion ask you one hard question about it — answer from the lesson.
