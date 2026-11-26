@@ -10,11 +10,15 @@ Faisal's Arab government in Damascus (1918–1920) spread schools, founded the A
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40371 — statebegins]
+
 ## Sub lesson 2 — The political struggle to independence, 1928–1946
 
 The 1928 constitution and the 1932 parliament elected Muhammad Ali al-Abid first president; the sixty-day strike forced the 1936 treaty project; in the Second World War the nationalists won the 1943 elections under Shukri al-Quwatli; France bombarded the parliament on 29 May 1945 and Arab and world opinion turned, and the French forces evacuated on 17 April 1946.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40370 — evacuationday]
 
 ## Say it to your companion
 

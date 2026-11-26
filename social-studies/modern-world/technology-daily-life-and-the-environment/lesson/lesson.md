@@ -10,6 +10,8 @@ transistor, integrated circuit and computer remake society and push rural people
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40363 — newmachines]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 56: Impactul tehnologiilor asupra vieții cotidiene și asupra mediului — transistor, integrated circuit and computer remake society and push rural people to the cities, while the same technology pollutes air, water and soil. Then let your companion ask you one hard question about it — answer from the lesson.

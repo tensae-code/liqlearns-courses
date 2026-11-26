@@ -10,6 +10,8 @@ flag, emblem and anthem are read as a history lesson in themselves — Amir Temu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40374 — humo]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 52. The symbols of our state — flag, emblem and anthem are read as a history lesson in themselves — Amir Temur's blue, cotton and wheat, the Humo bird of happiness. Then let your companion ask you one hard question about it — answer from the lesson.

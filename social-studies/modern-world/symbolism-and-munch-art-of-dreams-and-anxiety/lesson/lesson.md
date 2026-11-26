@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: in the spirit of Munch's Scream — a figure holding modern anxiety in one image. The student points to feeling replacing the visible world.
 
+[Picture 40375 — visibleworld]
+
 ## Sub lesson 3 — Munch's Scream
 
 Munch's Scream turns modern anxiety into an icon — before expressionism has a name.

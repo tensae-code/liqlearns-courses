@@ -10,11 +10,15 @@ Falcone's book on Cosa Nostra (the unit's book study) and the mafia's war on the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40367 — cleanhands]
+
 ## Sub lesson 2 — Modulo 13 §§10–11 Gli anni '80; La crisi del sistema politico
 
 qualunquismo and mafia are the module's keywords; the eighties' shine ends in the political system's crisis — the First Republic dies of the corruption its parties normalised
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40366 — shineends]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Damascus is bombarded by its "protectors", and the mandate never recovers its le
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40373 — protectors]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Syria and Lebanon under the French Mandate — Damascus is bombarded by its "protectors", and the mandate never recovers its legitimacy. Then let your companion ask you one hard question about it — answer from the lesson.

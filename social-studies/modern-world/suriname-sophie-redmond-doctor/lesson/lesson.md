@@ -10,6 +10,8 @@ Sophie Redmond defies convention, chooses violin over piano and medicine as a ca
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40378 — goldenheart]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Een mevrouw met een gouden hart — Sophie Redmond defies convention, chooses violin over piano and medicine as a career, qualifies in 1935 and treats poor patients free, cycling to home visits until her death in 1955. Then let your companion ask you one hard question about it — answer from the lesson.

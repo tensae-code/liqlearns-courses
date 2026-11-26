@@ -10,6 +10,8 @@ Hassan asks why the population keeps growing and the teacher tells the story: un
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40372 — threeto23]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Syria — independence 1946 and the growing nation. Then let your companion ask you one hard question about it — answer from the lesson.

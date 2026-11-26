@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: 9/11 and al-Qaeda open
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40362 — fightsalone]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4 §§16–17: terrorism, drug addiction, trafficking and cybercrime — 9/11 and al-Qaeda open the chapter; drug cartels, human traffickers and hackers follow — the crimes no single state can fight alone. Then let your companion ask you one hard question about it — answer from the lesson.

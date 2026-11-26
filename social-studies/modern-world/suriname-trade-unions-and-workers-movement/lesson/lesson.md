@@ -10,6 +10,8 @@ With no legal right to organise and leaders jailed or exiled (Doedel in an asylu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40377 — againstodds]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Vakbonden en vakcentrales — With no legal right to organise and leaders jailed or exiled (Doedel in an asylum for life, De Kom banished), workers still build unions and union federations to win better hours and conditions, striking when needed. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ With no road to Coronie, the three-sailed cutter Alfons carries coconuts, pigs a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40376 — under sail]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Met de kotter naar Paramaribo — With no road to Coronie, the three-sailed cutter Alfons carries coconuts, pigs and passengers; ten-year-old Simon's prize trip to Paramaribo takes two days under sail. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ pupils document one technology that changed their own family's daily life and pr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40364 — familystory]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Technological progress and changes in social life — pupils document one technology that changed their own family's daily life and present it as social history. Then let your companion ask you one hard question about it — answer from the lesson.
