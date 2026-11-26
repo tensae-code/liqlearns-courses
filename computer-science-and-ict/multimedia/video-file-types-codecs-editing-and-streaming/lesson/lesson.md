@@ -10,11 +10,15 @@ A video **file type** is a container; its **codec** is the method that **codes a
 
 In your mind's eye: file types, codecs and compression.
 
+[Picture 46433 — file types, codecs and compression]
+
 ## Sub lesson 2 — Editing, encoding and streaming
 
 **Video editing** assembles the film: **cut and order clips** on the timeline, join them with **transitions**, lay **sound** under them, add **titles**, and **encode (export)** the finished piece in the type and codec its audience needs — encoding, distribution and sending being one road with three names for its stages. Sent over the internet, video is **streamed**: played as it arrives, the network's speed setting the quality the player can honestly show — the chapter's closing link between the codec's arithmetic and the watcher's experience.
 
 In your mind's eye: editing, encoding and streaming.
+
+[Picture 46434 — editing, encoding and streaming]
 
 ## Say it to your companion
 

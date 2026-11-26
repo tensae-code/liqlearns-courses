@@ -10,11 +10,15 @@ A **bitmap** picture is a grid of coloured dots (pixels): enlarge it and it tear
 
 In your mind's eye: bitmap against vector — two ways to hold a picture.
 
+[Picture 46423 — bitmap against vector — two ways to hold a picture]
+
 ## Sub lesson 2 — Objects — the designer's building blocks
 
 In the vector editor, everything is an **object**: a shape, a path, a piece of text. Each object can be **selected, moved, resized, rotated, recoloured and layered** over others, and it stays **editable** — a circle is still a circle, with a fill and an outline you can change tomorrow. Designing is arranging these objects into the finished product — in the specialist book, a decorative postcard for a national tourism-design contest; in Grade 10, the objects a poster or logo is built from.
 
 In your mind's eye: objects — the designer's building blocks.
+
+[Picture 46424 — objects — the designer's building blocks]
 
 ## Say it to your companion
 

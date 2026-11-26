@@ -10,11 +10,15 @@ A vector path is held by **nodes (anchor points)** joined by segments. Each node
 
 In your mind's eye: nodes and control points — the handles of a vector shape.
 
+[Picture 46425 — nodes and control points — the handles of a vector shape]
+
 ## Sub lesson 2 — Effects, fills and text in shapes
 
 On the reshaped paths, Illustrator builds the finished graphic: a **fill** colours the inside of a closed shape — flat colour, gradient or pattern; **effects** bend and shadow the whole object; and **text can be set inside a shape**, flowing to its boundary, or along a path. Rwanda's S3 practical order is the professional one: **shape first with nodes, then fill, then effects, then words** — decoration never rescues a wrong shape.
 
 In your mind's eye: effects, fills and text in shapes.
+
+[Picture 46426 — effects, fills and text in shapes]
 
 ## Say it to your companion
 

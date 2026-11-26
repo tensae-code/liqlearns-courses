@@ -10,11 +10,15 @@ A **video** is a row of still frames shown fast enough to move. Two numbers rule
 
 In your mind's eye: frames — size and rate.
 
+[Picture 46435 — frames — size and rate]
+
 ## Sub lesson 2 — Working out the file size — and the formats
 
 The **file size is calculated** before it is suffered: frames' pixel count, times the bytes each pixel takes, times the rate, times the seconds — the book works the arithmetic, and its answer explains why raw video is enormous and **compression** is not a luxury but the condition of video's existence. The compressed results travel in the book's **formats**: **AVI, MOV, WMV, RM and MPEG** — each a container and coding family with its own home ground. Mongolia's lesson is a maker's warning: the format is chosen at the start, because size, quality and company are all decided there.
 
 In your mind's eye: working out the file size — and the formats.
+
+[Picture 46436 — working out the file size — and the formats]
 
 ## Say it to your companion
 

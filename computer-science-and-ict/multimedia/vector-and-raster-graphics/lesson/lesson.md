@@ -10,11 +10,15 @@ A **raster (bitmap)** image stores a **colour for every pixel** in a grid; its d
 
 In your mind's eye: raster — a grid of pixels.
 
+[Picture 46421 — raster — a grid of pixels]
+
 ## Sub lesson 2 — Vector — shapes by rules
 
 A **vector** image stores **instructions**: a circle is a centre, a radius and a fill, not thousands of pixels. Redrawing at any size recomputes the shapes, so edges stay **sharp at every scale** — the right form for logos, diagrams and type. The trade: vectors draw clean shapes poorly suited to photographic subtlety, so real work converts and combines the two kinds knowingly.
 
 In your mind's eye: vector — shapes by rules.
+
+[Picture 46422 — vector — shapes by rules]
 
 ## Say it to your companion
 

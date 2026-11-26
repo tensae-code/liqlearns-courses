@@ -10,6 +10,8 @@ This lesson meets the **stage** properly for the first time: the stage is the fi
 
 In your mind's eye: a picture of a Scratch stage wearing a forest backdrop, with two more backdrop thumbnails waiting beside it — a beach and a room. And one sprite standing still while the places change.
 
+[Picture 46420 — a picture of a Scratch stage wearing a forest backdrop, with two more backdrop thumbnails waiting beside it — a beach and a room. And one sprite standing still while the places change]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: The stage is the place where a Scratch project happens, and a backdrop is the picture it wears: choose and change backdrops, and the same sprites stand in a new place. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

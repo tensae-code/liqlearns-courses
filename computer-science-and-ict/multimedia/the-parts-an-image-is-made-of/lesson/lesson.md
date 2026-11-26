@@ -10,11 +10,15 @@ An image is made of **parts**: single **points** (pixels), **lines** joining poi
 
 In your mind's eye: points, lines and areas.
 
+[Picture 46418 — points, lines and areas]
+
 ## Sub lesson 2 — Foreground, background and colour
 
 An image also divides into **foreground** — the thing shown — and **background** — what stands behind it — and every part carries a **colour**. Editors keep these divisions real: select the foreground, change the background, recolour one area. The parts named in this lesson are the handles every later editing lesson grabs.
 
 In your mind's eye: foreground, background and colour.
+
+[Picture 46419 — foreground, background and colour]
 
 ## Say it to your companion
 
