@@ -9,7 +9,11 @@ Cement: limestone and a special clay ground to powder, mixed about 3:1 as printe
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36981 — how cement is made — limestone and clay, ground to powder, burned in the kiln, cement]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36982 — what cement is used for — mortar joins the bricks; reinforced concrete makes pillars and bridges]
 
 ## The key ideas
 

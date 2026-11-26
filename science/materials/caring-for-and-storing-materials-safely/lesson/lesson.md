@@ -9,7 +9,11 @@ Rwanda's Primary 2 book teaches **keeping and maintaining home materials properl
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 36979 — kept properly — ready for work and lasting; left carelessly — lost, broken or spoiled]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 36980 — putting materials away properly — everything in its place]
 
 ## Sub lesson 2 — Maintaining and storing agricultural tools
 

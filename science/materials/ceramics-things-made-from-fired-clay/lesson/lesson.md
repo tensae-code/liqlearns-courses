@@ -9,7 +9,11 @@ Ceramics: shapes moulded from a special clay (kaolin for pure white ware), sun-d
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36983 — how ceramics are made — kaolin clay, moulded, sun-dried, kiln-fired, glazed]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36984 — fired clay is porous — water soaks in; glazed ware is non-porous — water runs off]
 
 ## The key ideas
 

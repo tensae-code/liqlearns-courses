@@ -9,7 +9,11 @@ Yemen's Grade 9 Science book shows water climbing inside narrow tubes against gr
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36977 — water climbs in narrow tubes — the narrower the tube, the higher it climbs]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36978 — the water in the tube stands higher than the water outside — it climbs against gravity]
 
 ## Sub lesson 2 — The same climb in the plant
 

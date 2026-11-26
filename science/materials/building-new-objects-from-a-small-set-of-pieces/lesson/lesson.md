@@ -9,7 +9,11 @@ Start by seeing the **pieces**: many objects are **made of a small set of pieces
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36975 — a bicycle — and the same bicycle as its pieces, laid out]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 36976 — one set of pieces, two arrangements — a cart, and a stool]
 
 ## Sub lesson 2 — Disassemble and reshape — a new object, a new function
 
