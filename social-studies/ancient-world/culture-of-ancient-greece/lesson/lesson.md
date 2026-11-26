@@ -10,6 +10,8 @@ temples, theatre, the Olympic games and Homer's epics — the culture every late
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60558 — Greece, Europe's childhood]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§31–32 The culture of Ancient Greece — temples, theatre, the Olympic games and Homer's epics — the culture every later Europe claims as its childhood. Then let your companion ask you one hard question about it — answer from the lesson.

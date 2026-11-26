@@ -10,6 +10,8 @@ on the ancestors' own land, the Cucuteni-Tripolie farmers raise one of Europe's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60556 — Cucuteni painted pots and goddesses]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea I, Lecția 5: Urme ale omului preistoric în spațiul românesc. Civilizația Cucuteni-Tripolie — on the ancestors' own land, the Cucuteni-Tripolie farmers raise one of Europe's earliest civilisations, with painted pottery and goddess figurines from the Carpathians to the Dnieper. Then let your companion ask you one hard question about it — answer from the lesson.

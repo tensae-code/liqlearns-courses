@@ -10,6 +10,8 @@ law, concrete, aqueducts, Latin letters and the calendar we still use — Rome's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60559 — Rome's gifts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§55–56 The culture of Ancient Rome — law, concrete, aqueducts, Latin letters and the calendar we still use — Rome's gifts outlive Rome. Then let your companion ask you one hard question about it — answer from the lesson.

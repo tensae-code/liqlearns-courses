@@ -10,6 +10,8 @@ After collapse and migration, settlers found Cyprus's city-kingdoms, and myth an
 
 In your mind's eye: the key place or moment of Cyprus Geometric Age — the city-kingdoms are founded as the book shows it: point to it and say what it shows.
 
+[Picture 60569 — the city-kingdoms founded]
+
 ## Sub lesson 2 — The life of the people
 
 Farmers, herders, smiths and potters fill the new kingdoms, iron arrives, and geometric-patterned pots mark the age.

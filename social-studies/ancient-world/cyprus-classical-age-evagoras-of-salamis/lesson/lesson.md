@@ -10,6 +10,8 @@ Sea power decides Cyprus's fate, and the trireme, rowed by free crews, becomes t
 
 In your mind's eye: the key place or moment of Cyprus Classical Age — Evagoras of Salamis as the book shows it: point to it and say what it shows.
 
+[Picture 60568 — the trireme decides]
+
 ## Sub lesson 2 — Evagoras and his plans for Cyprus; Evagoras's war against the Persians
 
 Evagoras of Salamis rebuilds his city, courts Athens, then fights the Great King for a decade before a negotiated peace leaves him king.

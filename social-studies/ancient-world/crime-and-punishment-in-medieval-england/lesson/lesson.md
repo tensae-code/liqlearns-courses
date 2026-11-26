@@ -18,17 +18,23 @@ William, who took the throne by force at Hastings, tightens royal grip on the la
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60547 — Norman justice]
+
 ## Sub lesson 3 — 1.3 Crime, punishment and law enforcement in the later Middle Ages
 
 Henry II centralises justice with Justices in Eyre, coroners and Justices of the Peace, heresy becomes a crime, yet old manor courts and local punishments carry on below.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60548 — Henry II centralises justice]
+
 ## Sub lesson 4 — 1.4 Case study: the influence of the Church on crime and punishment
 
 The Church, owning a fifth of the country's wealth, offers sanctuary and Benefit of Clergy to escape punishment; Henry II tries and fails to cut that power back.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60549 — sanctuary and Benefit of Clergy]
 
 ## Say it to your companion
 

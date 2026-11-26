@@ -10,11 +10,15 @@ five thousand years ago islanders of the Cyclades sail, fish and trade obsidian 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60561 — Cycladic life]
+
 ## Sub lesson 2 — Unit 8, ch. 2 The art of the Cycladians
 
 Cycladic craftsmen carve the famous marble figurines and paint frescoes like the Thera fishermen and boxing boys
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60562 — Cycladic art]
 
 ## Sub lesson 3 — Unit 8, ch. 1 Life of the Cycladians exercises
 
@@ -22,17 +26,23 @@ exercises open the Bronze Age part of the book with the islanders' sea life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60563 — the life exercises]
+
 ## Sub lesson 4 — Unit 8, ch. 2 Art of the Cycladians exercises
 
 close picture-reading of Cycladic figurines and frescoes as evidence of island life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60564 — reading art as evidence]
+
 ## Sub lesson 5 — Ch. B2 The Cycladic Civilisation
 
 Bronze Age islanders carve marble figures and sail obsidian across the Aegean centuries before the palaces
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60565 — centuries before the palaces]
 
 ## Say it to your companion
 

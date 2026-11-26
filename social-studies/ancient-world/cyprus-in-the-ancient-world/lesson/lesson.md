@@ -10,6 +10,8 @@ copper-rich Cyprus passes between Egypt, Persia and the Greek kings, its city-ki
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60570 — masters change, speech stays]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. G5 The fortunes of Cyprus — copper-rich Cyprus passes between Egypt, Persia and the Greek kings, its city-kingdoms keeping Greek speech through every master. Then let your companion ask you one hard question about it — answer from the lesson.

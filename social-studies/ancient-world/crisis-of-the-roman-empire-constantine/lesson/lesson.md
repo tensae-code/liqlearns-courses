@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: 235–284, soldiers pr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60551 — soldier emperors, then Constantine]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea VII, Lecția 1: Criza Imperiului Roman — 235–284, soldiers proclaim their own emperors and the empire nearly dies; Constantine ends the persecutions with the Edict of Milan in 313 and Christianity becomes official. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ plague, revolts and money eat the feudal order from inside; in its cracks mercha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60550 — feudalism cracks, a new society grows]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.1 Start of feudalism's crisis and gestation of capitalist society — plague, revolts and money eat the feudal order from inside; in its cracks merchants and workshops grow a new society. Then let your companion ask you one hard question about it — answer from the lesson.

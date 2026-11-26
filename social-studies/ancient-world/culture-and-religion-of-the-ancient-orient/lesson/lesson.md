@@ -10,6 +10,8 @@ Marduk, Inanna and Heaven itself rule men's explanations; the Orient gives zodia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60557 — the Orient's gifts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea II, Lecția 5: Cultura și civilizația Orientului Antic — Marduk, Inanna and Heaven itself rule men's explanations; the Orient gives zodiac, star maps of 2,500 stars, calligraphy and the statues of Gudea. Then let your companion ask you one hard question about it — answer from the lesson.

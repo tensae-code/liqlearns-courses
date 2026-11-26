@@ -10,6 +10,8 @@ Copper and bronze reach Cyprus, and the island's copper becomes the treasure out
 
 In your mind's eye: the key place or moment of Cyprus Bronze Age — copper and the first cities as the book shows it: point to it and say what it shows.
 
+[Picture 60567 — copper makes Cyprus wanted]
+
 ## Sub lesson 2 — Daily life, food and dress in the Bronze Age
 
 Richer houses, new foods and finer clothes mark a world of farmers, smiths and traders.

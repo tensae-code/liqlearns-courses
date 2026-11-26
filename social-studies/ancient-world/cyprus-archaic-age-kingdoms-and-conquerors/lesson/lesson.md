@@ -10,6 +10,8 @@ Cyprus is split into kingdoms, each with its walled city, king, farmers and craf
 
 In your mind's eye: the key place or moment of Cyprus Archaic Age — kingdoms and conquerors as the book shows it: point to it and say what it shows.
 
+[Picture 60566 — kingdoms in empires' shadow]
+
 ## Sub lesson 2 — Conquerors in Cyprus
 
 Assyrians, Egyptians and Persians take the island in turn, and Cypriot kings pay tribute to survive each new master.
