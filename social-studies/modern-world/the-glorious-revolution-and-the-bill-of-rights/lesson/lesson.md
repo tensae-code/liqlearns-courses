@@ -10,11 +10,15 @@ in 1688 Parliament invites William of Orange, James II flees, and the Bill of Ri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40204 — rulesbyleave]
+
 ## Sub lesson 2 — Modulo 1, Cap. 1 §§3–4 The revolution of 1688–89 in England; Toward parliamentary government in Great Britain
 
 England's second revolution settles the crown under Parliament (Document: the English constitutional monarchy) while France keeps the opposite model — the module's 'two models of government' dossier
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40203 — twomodels]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ the "mutilated victory" myth arms the nationalists; D'Annunzio's Fiume occupatio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40214 — fiume1919]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 2, Cap. 7 §3 The nationalist protest — the "mutilated victory" myth arms the nationalists; D'Annunzio's Fiume occupation (Storia culturale: patriotism as social experiment) rehearses the rituals fascism will steal. Then let your companion ask you one hard question about it — answer from the lesson.

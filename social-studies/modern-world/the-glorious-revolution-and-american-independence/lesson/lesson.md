@@ -10,6 +10,8 @@ Magna Carta in 1215 first binds a king, Charles I's tyranny ends in the Glorious
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40205 — magnacarta1776]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Stages of human history: England and America — Magna Carta in 1215 first binds a king, Charles I's tyranny ends in the Glorious Revolution of 1688, and in 1776 America declares that governments rule by consent. Then let your companion ask you one hard question about it — answer from the lesson.

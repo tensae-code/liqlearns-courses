@@ -10,6 +10,8 @@ the book closes by asking what responsibility the maker of public images carries
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40202 — publicimages]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 24 & Epilogue: The graphic designer and his role in today's society — the book closes by asking what responsibility the maker of public images carries. Then let your companion ask you one hard question about it — answer from the lesson.

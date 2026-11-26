@@ -10,17 +10,23 @@ Giolitti (Personaggi) opens to unions and suffrage (1912), industry booms in the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40208 — southleaves]
+
 ## Sub lesson 2 — Unità 1, Cap. 3 §3 Giolitti's domestic policy
 
 Giolitti's pragmatism (the chapter's document) opens the state to unions and strikes, widens the suffrage (1912) and tries to govern the mass age instead of repressing it — Marrocu's Storiografia weighs the electoral reform
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40207 — massage]
+
 ## Sub lesson 3 — Unità 1, Cap. 3 §4 The take-off of industry and the Southern question
 
 steel (the ILVA story from Elba's iron), electricity and the railway network industrialise the North while Salvemini's Document indicts the South's abandonment, and Pascoli's Italy sings the emigrants leaving it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40206 — steelnorth]
 
 ## Say it to your companion
 

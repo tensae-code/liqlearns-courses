@@ -10,6 +10,8 @@ after Khudoyar's fall and Pulat Khan's rising, Kokand is simply abolished (1876)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40217 — kokand1876]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 2 §§12–13 The conquest of the Kokand Khanate and its inclusion in the Turkestan Governor-Generalship — after Khudoyar's fall and Pulat Khan's rising, Kokand is simply abolished (1876) and Fergana becomes a Russian province. Then let your companion ask you one hard question about it — answer from the lesson.

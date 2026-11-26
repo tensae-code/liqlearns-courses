@@ -10,6 +10,8 @@ Marx and Bakunin split the workers' International while the Syllabus-era Church 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40215 — twoclaims]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 5, Cap. 15 §§7–8 Marx, Bakunin and the First International; The Catholic Church against bourgeois modernity — Marx and Bakunin split the workers' International while the Syllabus-era Church refuses the modern world outright — two universal claims collide. Then let your companion ask you one hard question about it — answer from the lesson.

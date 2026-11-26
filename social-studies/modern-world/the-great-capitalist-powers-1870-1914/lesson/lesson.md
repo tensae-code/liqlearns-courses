@@ -10,6 +10,8 @@ The great capitalist powers race ahead unevenly at the turn of the century, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40194 — unevenrace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The great capitalist powers — the great capitalist powers race ahead unevenly at the turn of the century, and their contradictions sharpen toward confrontation. Then let your companion ask you one hard question about it — answer from the lesson.

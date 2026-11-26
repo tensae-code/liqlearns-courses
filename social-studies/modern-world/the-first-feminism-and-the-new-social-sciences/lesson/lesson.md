@@ -10,6 +10,8 @@ Mozzoni (Personaggi) and the suffragettes (Fare storia: Rowbotham; Rossi Doria o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40216 — voteclaimed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 5, Cap. 16 §§9–12 The first feminism; The Church and mass society; Nationalism, racism and antisemitism; The critique of positivism and the new social sciences — Mozzoni (Personaggi) and the suffragettes (Fare storia: Rowbotham; Rossi Doria on Italy) claim the vote as nationalism curdles into racism and Freud and Weber unsettle positivist certainty. Then let your companion ask you one hard question about it — answer from the lesson.

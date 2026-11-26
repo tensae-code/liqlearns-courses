@@ -10,11 +10,15 @@ in the municipal library a child finds the Hashemite medal of the Great Battle o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40201 — librarymedal]
+
 ## Sub lesson 2 — Unit 3 Lesson 2: journey in Ma'an Governorate
 
 a grandfather recalls Ma'an's part in the Great Arab Revolt and its great battle against the Turks; Emir Abdullah took the Ma'an palace as his residence in 1920, and it is now a national museum
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40200 — maanpalace]
 
 ## Sub lesson 3 — Unit 5 Lesson 1: the Great Arab Revolt
 
@@ -22,11 +26,15 @@ a school trip to the Aqaba museum opens the story: Sharif Hussein bin Ali declar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40199 — mecca1916]
+
 ## Sub lesson 4 — Lesson 3: the Great Arab Revolt (the Arab Nahda)
 
 the Arabs do not dream of separation until the Ottoman state joins the Central Powers and Jamal Pasha "the Butcher" hangs Arab patriots in Beirut (1915) and Damascus (1916); the secret societies al-Fatat and al-Ahd choose Sharif Hussein in the Damascus Protocol (1915), thirty-five Arab deputies authorise him to lead, and his five letters trade promises with McMahon's five (July 1915–March 1916); on 10 June 1916 the revolt is proclaimed in Mecca, his sons Ali, Abdullah, Faysal and Zayd free the Hijaz except Medina's garrison, and at Ma'an in 1918 the Turkish garrisons fall — 343 heroes receive the Medal of Ma'an; meanwhile Britain signs Sykes-Picot with France and, as the Zionist movement (born at Basel, 1897) wins the Balfour Declaration, the promises collapse
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40198 — letterspromises]
 
 ## Sub lesson 5 — Lesson 4: Jordan under the Syrian Arab Kingdom and the local governments
 
@@ -34,17 +42,23 @@ Faysal enters Damascus in 1918 and builds the kingdom later called the Syrian Ar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40197 — mandatesdivide]
+
 ## Sub lesson 6 — Lesson 3: the Great Arab Revolt (the Arab Nahda)
 
 Jamal Pasha's gallows take thirty-seven Arab figures in Beirut and Damascus; Sharif Hussein — Abdul Hamid II's own appointee as Amir of Mecca in 1908, loyal to the Caliphate until the war — is chosen by the movement; the Damascus Protocol's map is spelled out (from the Mersin–Adana line at latitude 37 to the Indian Ocean, Aden excepted, and from Iran's borders to the Red Sea, with all foreign capitulations abolished and a defensive treaty with Britain); al-Fatat is founded in Paris in 1911 with Faysal among its members
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40196 — protocolmap]
+
 ## Sub lesson 7 — Lesson 4: Jordan under the Syrian Arab Kingdom and the local governments
 
 as the vocational telling — Faysal's Damascus government, the King-Crane tour of Jordan (10 June–21 July 1919), the Syrian General Congress with its Karak, Ajloun and Ramtha members, San Remo's mandates, Jordanian volunteers at Maysalun, and the three local governments (Ajloun at Irbid, Salt, Moab at Karak) under Herbert Samuel's summons, August 1920–April 1921
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40195 — threegovernments]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ two paintings of one murdered revolutionary show history's contested images
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40209 — twopaintings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.1 Why did David and Baudry judge Marat differently? — two paintings of one murdered revolutionary show history's contested images. Then let your companion ask you one hard question about it — answer from the lesson.

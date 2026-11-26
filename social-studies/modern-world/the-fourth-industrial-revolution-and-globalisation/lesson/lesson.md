@@ -10,17 +10,23 @@ Industry 4.0 — the term first used in Germany in the early 2010s for the union
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40212 — industry40]
+
 ## Sub lesson 2 — Bài 7.2–3, the Fourth Industrial Revolution and the meaning of the modern revolutions
 
 the fourth industrial revolution (Industry 4.0) begins in the first years of the 21st century and is still unfolding, bound up with breakthroughs in artificial intelligence (AI), the Internet of Things (IoT), cloud computing, Big Data, 3D printing, automation, new materials, gene technology and nanotechnology — 3D printing builds a house with under 50% of the labour, 60% less waste and about 60% lower cost than traditional building (part of a Dubai building printed in 3D is pictured), and nanotechnology works at the scale where 1 nanometre is a billionth of a metre, applied in medicine, biology, energy, electronics, mechanics, garments, food and environmental protection; the opener is a person — the robot Sophia, granted citizenship by the Saudi Arabian government on 25 October 2017, the first robot citizen in the world, able to communicate, show emotion and lecture, interviewed in Vietnam in 2018; the meaning sections follow: economically, smart factories applying automation and AI multiply productivity many times over, e-commerce lets consumers approach global trade, and the modern revolutions push regionalisation and globalisation of the world economy; socially, automation frees human labour especially in dangerous and toxic work, the workforce polarises toward high skills, remote work spreads — but the warning box counts the costs: AI makes many workers jobless and widens the rich–poor gap, personal-information security is threatened, false information spreads, and over-reliance on AI in education can weaken independent thinking; culturally, searching and sharing information becomes easy and cultural exchange between countries and regions quick and convenient
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40211 — printedhouse]
+
 ## Sub lesson 3 — Chuyên đề 3 Globalisation as a system: some 77,000 transnational corporations and the UN–WTO–IMF web bind states together; the World Bank credits openness with growth and poverty cuts while Stiglitz warns it can shut the developing world out of knowledge; its dark side runs from the 2008 crisis contagion to terrorism and cultural flattening
 
 one world market means one country's bank crash becomes every country's winter
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40210 — crashwinter]
 
 ## Say it to your companion
 
