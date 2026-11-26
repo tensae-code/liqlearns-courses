@@ -10,6 +10,8 @@ song, epic, applied art and the first printed books carry Kazakh culture through
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64081 — through the colonial century]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§43–44 The development of culture in the 19th century — song, epic, applied art and the first printed books carry Kazakh culture through the colonial century. Then let your companion ask you one hard question about it — answer from the lesson.

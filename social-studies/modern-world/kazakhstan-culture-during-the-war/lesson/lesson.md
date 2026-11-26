@@ -10,11 +10,15 @@ evacuated film studios and theatres in Alma-Ata make the city a wartime cultural
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64077 — a wartime cultural capital]
+
 ## Sub lesson 2 — §59 The development of science, literature and art in Kazakhstan in the war years
 
 evacuated Lenfilm crews and Kazakh writers keep culture working for victory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64078 — culture working for victory]
 
 ## Sub lesson 3 — §§33–34 The Kazakh SSR's culture in the war period
 
@@ -22,11 +26,15 @@ Alma-Ata becomes a wartime cultural capital
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64079 — alma-ata cultural capital]
+
 ## Sub lesson 4 — §6.7 How did culture and art develop in wartime Kazakhstan?
 
 Alma-Ata becomes a wartime cultural capital
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64080 — culture in wartime]
 
 ## Say it to your companion
 

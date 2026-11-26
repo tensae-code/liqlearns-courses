@@ -50,11 +50,15 @@ kui compositions turn history into instrumental story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64062 — history as instrumental story]
+
 ## Sub lesson 7 — §51 Kazakhstan's song art in the 19th century
 
 singers carry news, praise and satire across the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64063 — news praise and satire carried]
 
 ## Sub lesson 8 — §52 The Kazakh people's national musical instruments
 
@@ -62,11 +66,15 @@ dombra and kobyz anchor the steppe's sound world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64064 — dombra and kobyz]
+
 ## Sub lesson 9 — §§53–54 Enlightenment and education develop in Kazakhstan in the 19th century
 
 Russian-Kazakh schools open a new road to learning
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64065 — a new road to learning]
 
 ## Sub lesson 10 — §55 Research on Kazakhstan in the 19th century
 
@@ -74,11 +82,15 @@ expeditions and scholars map and describe the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64066 — the steppe mapped and described]
+
 ## Sub lesson 11 — §56 Chokan Valikhanov — the great Kazakh scholar
 
 the officer-scholar's journeys open Central Asia to science
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64067 — journeys open central asia]
 
 ## Sub lesson 12 — §57 Ybyrai Altynsarin's innovations
 
@@ -86,11 +98,15 @@ Altynsarin builds Kazakh schools, textbooks and teacher training
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64068 — schools textbooks teachers]
+
 ## Sub lesson 13 — §§58–59 The greatness of Abai Kunanbaev
 
 Abai's poems and Words of Edification remake Kazakh thought
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64069 — thought remade]
 
 ## Sub lesson 14 — §60 The historical value of the works of Shakarim Kudaiberdiev, Mashkhur Zhusup Kopeev and Kurbangali Khalidi
 
@@ -98,11 +114,15 @@ the last chroniclers write the steppe's memory into history
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64070 — memory written into history]
+
 ## Sub lesson 15 — §§43–44 Culture develops in the 19th century
 
 oral tradition and new literacy run side by side
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64071 — oral and written side by side]
 
 ## Sub lesson 16 — §§45–46 The role of schooling and enlightenment grows
 
@@ -110,11 +130,15 @@ mektebs, madrasas and Russian-Kazakh schools spread
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64072 — schools spread]
+
 ## Sub lesson 17 — §§47–48 Shokan Ualikhanov — the Kazakh people's great scholar and traveller
 
 Valikhanov's Kashgar journey makes him Eurasia's famed explorer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64073 — the kashgar journey]
 
 ## Sub lesson 18 — §§49–50 Ybyrai Altynsarin — educator, innovative pedagogue, public figure
 
@@ -122,17 +146,23 @@ Altynsarin opens schools and writes the first Kazakh textbooks
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64074 — the first kazakh textbooks]
+
 ## Sub lesson 19 — §§51–52 Abai Kunanbaev — great scholar and thinker
 
 Abai calls his people to learning and honest labour
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64075 — called to learning and labour]
+
 ## Sub lesson 20 — §§53–54 The Kazakhs' oral historical tradition (late 19th–early 20th centuries)
 
 shezhire genealogies and historical songs carry the national memory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64076 — genealogies carry the memory]
 
 ## Say it to your companion
 

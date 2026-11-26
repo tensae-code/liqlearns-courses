@@ -10,11 +10,15 @@ the zhyrau poets chronicle the calamity and the heroes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64082 — poets chronicle calamity and heroes]
+
 ## Sub lesson 2 — §16 Traditional spiritual culture
 
 beliefs, rituals and oral law carry Kazakh identity
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64083 — identity carried in ritual and law]
 
 ## Sub lesson 3 — §17 Features of Kazakh national applied art
 
@@ -22,11 +26,15 @@ silverwork, weaving and felt show the nomad aesthetic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64084 — the nomad aesthetic]
+
 ## Sub lesson 4 — §18 The Kazakh people's national dress
 
 costume marks zhuz, age and status across the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64085 — costume marks zhuz age status]
 
 ## Sub lesson 5 — §§13–14 Kazakh oral literature of the 18th century
 
