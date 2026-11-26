@@ -10,17 +10,23 @@ long before Persia, Elam and the plateau's early cities farm, build and write �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60913 — irans dawn elam]
+
 ## Sub lesson 2 — The oldest settlements of Iran
 
 the first Iranian farmers settle, build and bury their dead in the plateau's oldest sites, thousands of years before any king (The oldest settlements of Iran)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60914 — the first farmers settle]
+
 ## Sub lesson 3 — How did the first cities come into being?
 
 villages grow walls, markets and rulers, and the city appears on the Iranian plateau (How did the first cities come into being?)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60915 — how a city appears]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Aryan tribes enter the plateau, the Medes unite them and help destroy Assyria at
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60923 — from tribes to darius]
+
 ## Sub lesson 2 — The Aryans and the formation of powerful governments in Iran
 
 Aryan tribes arrive, Medes and Persians build the first powerful Iranian states, and empire becomes possible (The Aryans and the formation of powerful governments in Iran)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60924 — the aryans arrive]
 
 ## Sub lesson 3 — A trip to the ancient city of Hamadan
 
@@ -22,11 +26,15 @@ the class visits Ecbatana, the Medes' golden capital, and walks where the first 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60925 — ecbatana the golden capital]
+
 ## Sub lesson 4 — A trip to the ancient city of Kermanshah
 
 at Bisotun, Darius's carved cliff inscription tells how he seized and held the empire — the king's own words in stone (A trip to the ancient city of Kermanshah)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60926 — the kings words in stone]
 
 ## Say it to your companion
 

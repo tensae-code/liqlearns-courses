@@ -10,11 +10,15 @@ Turkish soldier-dynasties take the plateau in turn — Mahmud's raids, Tughril's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60916 — three turkish dynasties]
+
 ## Sub lesson 2 — Ghaznavids, Seljuks and Khwarazmshahs
 
 three Turkish dynasties in sequence — slave-soldiers become sultans, the Seljuks unite the east, and the Khwarazmshahs inherit the storm's eve (Ghaznavids, Seljuks and Khwarazmshahs)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60917 — slave soldiers become sultans]
 
 ## Say it to your companion
 

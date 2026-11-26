@@ -10,6 +10,8 @@ the vizier becomes the hero — great ministers like the Seljuk Nizam al-Mulk bu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60912 — the vizier who built]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Capable ministers, prosperous cities — the vizier becomes the hero — great ministers like the Seljuk Nizam al-Mulk build schools, roads and thriving cities. Then let your companion ask you one hard question about it — answer from the lesson.

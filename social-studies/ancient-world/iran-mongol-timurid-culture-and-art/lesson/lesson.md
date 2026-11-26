@@ -10,11 +10,15 @@ out of catastrophe, a golden age — miniature painting, astronomy and Timurid a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60927 — a golden age from catastrophe]
+
 ## Sub lesson 2 — Victory of culture over the sword
 
 the chapter's title is the verdict — Persian culture, language and art absorb the conquerors until the conquerors' courts speak Persian (Victory of culture over the sword)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60928 — culture defeats the sword]
 
 ## Say it to your companion
 

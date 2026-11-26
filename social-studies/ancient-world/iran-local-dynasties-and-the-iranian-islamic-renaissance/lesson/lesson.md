@@ -10,17 +10,23 @@ Tahirids, Saffarids, Samanids, Buyids and the Alavids of Tabaristan rule Iran in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60920 — iran rules itself again]
+
 ## Sub lesson 2 — The golden age of Iranian-Islamic culture and civilisation
 
 conquered Iran conquers back with culture — Persian administrators, scientists and poets make the Islamic golden age substantially Iranian (The golden age of Iranian-Islamic culture and civilisation)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60921 — the golden age is iranian]
+
 ## Sub lesson 3 — Muslim Iranians form governments
 
 within two centuries of the conquest, Iranians are ruling Iran again under Islam — Tahirid, Saffarid and Samanid governments rise (Muslim Iranians form governments)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60922 — iranians ruling iran again]
 
 ## Say it to your companion
 

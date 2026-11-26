@@ -10,6 +10,8 @@ Surena's horse-archers destroy Crassus at Carrhae; Ardashir overthrows the Parth
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60929 — horse archers and emperors]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Parthians and Sasanians — Surena's horse-archers destroy Crassus at Carrhae; Ardashir overthrows the Parthians in 224 and founds the Sasanians; Shapur captures the Roman emperor Valerian — then, after Khosrow Parviz's fall and court chaos, the empire dies at Nahavand and Yazdgerd III is killed in 651. Then let your companion ask you one hard question about it — answer from the lesson.

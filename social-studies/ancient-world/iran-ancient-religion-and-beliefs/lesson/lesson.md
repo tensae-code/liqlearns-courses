@@ -18,6 +18,8 @@ Zoroastrian faith and daily custom together — what ancient Iranians believed s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60907 — faith in everyday life]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Religion and beliefs — Zoroaster's choice between truth and the lie shapes an empire's faith, with Mazdak's later movement shaking the Sasanian order from within; Beliefs and lifestyle of the people of ancient Iran — Zoroastrian faith and daily custom together — what ancient Iranians believed shaped how they lived. Then let your companion ask you one hard question about it — answer from the lesson.

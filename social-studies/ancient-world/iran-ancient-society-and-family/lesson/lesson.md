@@ -10,11 +10,15 @@ beneath the throne, classes, households and women and children live the empire �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60908 — from palace to home]
+
 ## Sub lesson 2 — The social conditions of ancient Iran
 
 classes and households of the ancient world — who worked, who ruled, who prayed (The social conditions of ancient Iran)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60909 — who ruled who prayed who worked]
 
 ## Say it to your companion
 

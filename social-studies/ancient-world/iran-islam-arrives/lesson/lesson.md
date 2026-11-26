@@ -10,11 +10,15 @@ Arab armies end Sasanian rule, but Iran converts gradually and on its own terms,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60918 — islamic and iranian]
+
 ## Sub lesson 2 — The entry of Islam into Iran
 
 Sasanian Iran, exhausted and divided, falls to Arab armies battle by battle, and a new era opens (The entry of Islam into Iran)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60919 — the empire falls battle by battle]
 
 ## Say it to your companion
 

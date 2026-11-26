@@ -10,11 +10,15 @@ how did kings hold so vast a land? Satraps, inspectors, roads and the king's jus
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60910 — the machinery of ruling]
+
 ## Sub lesson 2 — How did the empires of ancient Iran administer the country?
 
 the child's first statecraft question — satrapies, roads, taxes and the king's law as the answer to governing a continent (How did the empires of ancient Iran administer the country?)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60911 — how to govern a continent]
 
 ## Say it to your companion
 

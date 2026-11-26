@@ -10,6 +10,8 @@ madrasas, caravanserais, Omar Khayyam and the Nizamiyya — the Seljuk peace is 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60930 — what the seljuk peace built]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The cultural heritage of Iran in the Seljuk era — madrasas, caravanserais, Omar Khayyam and the Nizamiyya — the Seljuk peace is measured by what it built and wrote. Then let your companion ask you one hard question about it — answer from the lesson.
