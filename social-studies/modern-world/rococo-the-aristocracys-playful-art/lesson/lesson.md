@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Rococo salon with shell and scroll curves and a garden party in silk. The student points to the pleasure replacing glory.
 
+[Picture 40642 — pleasurereplacesglory]
+
 ## Sub lesson 3 — A party on the eve of revolution
 
 Painting fills with silk, flirtation and garden parties — on the eve of a revolution nobody at the party expects.

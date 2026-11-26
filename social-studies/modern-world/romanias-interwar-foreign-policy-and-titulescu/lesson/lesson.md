@@ -10,6 +10,8 @@ Romania is a founding member of the League; Titulescu builds Balkan security pac
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40626 — pactsforpeace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 13: Politica externă a României în perioada interbelică. Nicolae Titulescu – diplomat al păcii — Romania is a founding member of the League; Titulescu builds Balkan security pacts and reciprocal frontier guarantees while Europe's relations sour in 1936–38. Then let your companion ask you one hard question about it — answer from the lesson.

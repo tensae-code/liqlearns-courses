@@ -10,6 +10,8 @@ Pupils flag the October and December all-Russian political strikes, the towns wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40648 — strikescongress]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The revolution of 1905–1907 in Belarus. Then let your companion ask you one hard question about it — answer from the lesson.

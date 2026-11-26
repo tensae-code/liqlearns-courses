@@ -10,6 +10,8 @@ the great powers inform the small allies of the Austrian treaty's terms rather t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40640 — termshandeddown]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 11: România și Sistemul de la Versailles — the great powers inform the small allies of the Austrian treaty's terms rather than negotiate them; Article 59 disposes of Bukovina, and the Bessarabian question poisons Romanian-Soviet relations until 28 June 1940. Then let your companion ask you one hard question about it — answer from the lesson.

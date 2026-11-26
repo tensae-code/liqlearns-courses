@@ -10,6 +10,8 @@ independent Romania becomes an international actor; the road to Berlin runs thro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40627 — tripleallianceroad]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §45: Politica externă a României (1878–1914) — independent Romania becomes an international actor; the road to Berlin runs through Vienna into the Triple Alliance, and the Balkan Wars and the 1913 Bucharest Peace are the alliance's severest test. Then let your companion ask you one hard question about it — answer from the lesson.

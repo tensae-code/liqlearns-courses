@@ -10,6 +10,8 @@ Rigas of Velestino drafts a revolutionary constitution for a Balkan republic and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40645 — constitutionclassics]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit B, ch. 8 Rigas Velestinlis and Adamantios Korais — Rigas of Velestino drafts a revolutionary constitution for a Balkan republic and is strangled by the Austrians' handover; Korais in Paris edits the classics to teach Greeks who they were. Then let your companion ask you one hard question about it — answer from the lesson.

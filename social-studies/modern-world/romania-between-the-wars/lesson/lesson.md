@@ -10,11 +10,15 @@ Greater Romania unifies its currency in 1920, electrifies (electric industry up 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40636 — currencylightking]
+
 ## Sub lesson 2 — Tema 17: România de la democrație la autoritarism
 
 the 1923 Constitution takes the 1866 text and separates the powers; in January 1926 the Crown Council accepts Prince Carol's renunciation and proclaims the child Mihai heir — the road to authoritarianism opens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40635 — powersseparated]
 
 ## Say it to your companion
 

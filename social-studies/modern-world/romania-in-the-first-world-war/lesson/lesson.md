@@ -10,11 +10,15 @@ bound by a secret 1883 alliance to the Central Powers, Romania waits neutral unt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40634 — neutralcrushed]
+
 ## Sub lesson 2 — Tema 5: România în Primul Război Mondial
 
 Romania argues its 1883 treaty was defensive only, hesitates, enters, is encircled, and signs the separate peace of 7 May 1918
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40633 — encircledpeace]
 
 ## Say it to your companion
 

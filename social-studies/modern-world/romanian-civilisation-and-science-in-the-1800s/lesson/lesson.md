@@ -10,6 +10,8 @@ Hasdeu writes history and drama, Cantacuzino founds Romanian immunology and the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40632 — vaccinegliderpress]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §51: Civilizaţie şi cultură românească (sec. XIX – începutul sec. XX) — Hasdeu writes history and drama, Cantacuzino founds Romanian immunology and the anti-cholera vaccine, Aurel Vlaicu builds his glider in 1909, and the Romanian press multiplies. Then let your companion ask you one hard question about it — answer from the lesson.

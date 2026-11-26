@@ -10,6 +10,8 @@ a state of 3.8 million in 1861 grows slowly; the 1864 rural law and the 1887 law
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40628 — landthenindustry]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §42: Modernizarea economică a României (1859–1914) — a state of 3.8 million in 1861 grows slowly; the 1864 rural law and the 1887 law encouraging national industry try to break the impasse. Then let your companion ask you one hard question about it — answer from the lesson.

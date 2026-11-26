@@ -10,6 +10,8 @@ pastel silk, panniers and towering hair carry aristocratic elegance to its extre
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40644 — beforethestorm]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 3: Rococo dress — pastel silk, panniers and towering hair carry aristocratic elegance to its extreme just before the Revolution sweeps it away. Then let your companion ask you one hard question about it — answer from the lesson.

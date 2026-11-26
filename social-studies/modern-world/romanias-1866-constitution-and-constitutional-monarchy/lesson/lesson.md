@@ -10,6 +10,8 @@ a foreign prince of Hohenzollern-Sigmaringen swears to rule constitutionally, an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40629 — princeswears]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §34: Instituirea monarhiei constituţionale. Constituţia de la 1866 — a foreign prince of Hohenzollern-Sigmaringen swears to rule constitutionally, and on 29 June 1866 the Elective Assembly unanimously approves Romania's first constitution. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Iliescu's gradual "small steps" reform, the Snagov strategy, and Romania's path 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40641 — smallstepswest]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 39: România în perioada postcomunistă — Iliescu's gradual "small steps" reform, the Snagov strategy, and Romania's path to become the first ex-Warsaw-Pact state to sign partnership documents with the West. Then let your companion ask you one hard question about it — answer from the lesson.

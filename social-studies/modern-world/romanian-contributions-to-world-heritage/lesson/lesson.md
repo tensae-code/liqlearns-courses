@@ -10,6 +10,8 @@ Rădulescu-Motru philosophises the Romanian people's psychology, Pârvan, Arghez
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40631 — mindsbuildings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 54: Contribuţia poporului român la dezvoltarea patrimoniului universal — Rădulescu-Motru philosophises the Romanian people's psychology, Pârvan, Arghezi and Stănescu write, and Ion Mincu's neo-Romanian style and Horia Creangă's modernism build. Then let your companion ask you one hard question about it — answer from the lesson.

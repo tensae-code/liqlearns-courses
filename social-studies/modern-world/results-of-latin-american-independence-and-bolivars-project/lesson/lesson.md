@@ -10,6 +10,8 @@ political independence won, social order untouched; Bolívar's dream of a united
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40649 — dreamunfinished]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.7 Significance and results of the independence processes; Bolívar's social project and its present-day meaning — political independence won, social order untouched; Bolívar's dream of a united Patria Grande is presented as unfinished business. Then let your companion ask you one hard question about it — answer from the lesson.

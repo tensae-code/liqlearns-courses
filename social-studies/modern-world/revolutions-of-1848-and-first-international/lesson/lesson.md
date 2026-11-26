@@ -10,6 +10,8 @@ revolution sweeps Europe's capitals in 1848, the bourgeoisie betrays it, and wor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40647 — betrayedinternational]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.3 Revolutionary waves of the 1830s–40s; revolutions of 1848–49; First International — revolution sweeps Europe's capitals in 1848, the bourgeoisie betrays it, and workers answer by founding their own International in 1864. Then let your companion ask you one hard question about it — answer from the lesson.

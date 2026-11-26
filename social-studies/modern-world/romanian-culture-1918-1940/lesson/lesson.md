@@ -10,6 +10,8 @@ Blaga and Noica philosophise, Brâncuși sculpts, Băncilă paints the 1907 revo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40630 — culturefour]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 16: Cultura românească în 1918–1940 — Blaga and Noica philosophise, Brâncuși sculpts, Băncilă paints the 1907 revolt, and the first Romanian animation, Haplea, reaches the screen. Then let your companion ask you one hard question about it — answer from the lesson.

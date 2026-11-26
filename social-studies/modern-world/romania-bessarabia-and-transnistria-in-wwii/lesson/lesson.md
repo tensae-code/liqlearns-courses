@@ -10,17 +10,23 @@ Carol II falls, the National-Legionary state is proclaimed in September 1940, Ro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40639 — frontsmeet]
+
 ## Sub lesson 2 — Tema 25: Participarea României în cel de-Al Doilea Război Mondial
 
 democratic Romania of 1918–38 is drawn into war; American B-24s raid Ploiești on 1 August 1943, Soviet troops enter Bucharest on 31 August 1944, and Romania joins the United Nations coalition
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40638 — ploiestibucharest]
+
 ## Sub lesson 3 — Tema 26: Basarabia și Transnistria în perioada celui de-Al Doilea Război Mondial
 
 the Romanian administration organises the Transnistria Governorate between the rivers while whole urban quarters of Bessarabia's towns are destroyed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40637 — betweentherivers]
 
 ## Say it to your companion
 
