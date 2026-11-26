@@ -26,11 +26,15 @@ shock, tenge, privatisation — the economy bottoms out
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64110 — shock tenge privatisation]
+
 ## Sub lesson 4 — §23 Economic development of Kazakhstan from 1997
 
 oil growth returns; the National Fund is created
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64111 — oil growth the national fund]
 
 ## Say it to your companion
 

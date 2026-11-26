@@ -10,6 +10,8 @@ Goloshchekin's campaign against the bais opens the road to forced collectivisati
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64126 — the road to collectivisation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §31 The "Little October" in Kazakhstan — Goloshchekin's campaign against the bais opens the road to forced collectivisation. Then let your companion ask you one hard question about it — answer from the lesson.

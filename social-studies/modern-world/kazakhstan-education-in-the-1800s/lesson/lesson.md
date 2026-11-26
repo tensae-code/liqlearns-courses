@@ -10,17 +10,23 @@ mektebs and medreses, then Russian-Kazakh schools, spread literacy — and paren
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64116 — literacy spreads fears grow]
+
 ## Sub lesson 2 — §§53–54 The development of enlightenment and education in Kazakhstan in the 19th century
 
 from mekteb to Russian-Kazakh schools, schooling spreads slowly
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64117 — schooling spreads slowly]
+
 ## Sub lesson 3 — Lesson plans §§54–55: enlightenment and science in 19th-century Kazakhstan; scholarly institutions
 
 schools, the Semipalatinsk statistical committee and learned societies enter the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64118 — learned societies enter]
 
 ## Say it to your companion
 

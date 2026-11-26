@@ -10,11 +10,15 @@ universal schooling arrives — in Russian more than in Kazakh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64112 — universal schooling arrives]
+
 ## Sub lesson 2 — §10 The development of the education system in the second half of the 20th century
 
 universal schooling arrives — increasingly in Russian
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64113 — schooling for all]
 
 ## Say it to your companion
 

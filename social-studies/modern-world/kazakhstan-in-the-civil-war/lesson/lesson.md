@@ -10,11 +10,15 @@ Reds, Whites, Alash Orda troops and peasant revolts fight over the steppe as fro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64130 — fronts roll through the towns]
+
 ## Sub lesson 2 — §15 The process of establishing Soviet power in Kazakhstan
 
 soviets seize the towns while the steppe waits and watches
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64131 — soviets seize the towns]
 
 ## Sub lesson 3 — §§17–18 Military actions in Kazakhstan during the Civil War and foreign intervention (1918–1920)
 
@@ -22,11 +26,15 @@ Kolchak's and Dutov's fronts, the Cherkassk defence and the Aktobe front decide 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64132 — fronts decide the steppes fate]
+
 ## Sub lesson 4 — §§10–11 Kazakhstan in the years of civil confrontation, 1918–1920
 
 Reds, Whites and Alash troops fight over the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64133 — reds whites and alash fight]
 
 ## Sub lesson 5 — Section 2 "The establishment of Soviet power in Kazakhstan" (its civil-war inquiries)
 
