@@ -10,6 +10,8 @@ from Jefferson's ripe-fruit hopes to the Ostend Manifesto, Washington waits and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62944 — the ripe fruit]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.3 US expansionist aspirations toward Cuba in the 19th c. — from Jefferson's ripe-fruit hopes to the Ostend Manifesto, Washington waits and schemes for the island a century before 1898. Then let your companion ask you one hard question about it — answer from the lesson.

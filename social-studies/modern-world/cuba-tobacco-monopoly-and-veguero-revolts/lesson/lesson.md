@@ -10,6 +10,8 @@ the Crown imposes a tobacco monopoly (estanco); Havana vegueros who grew the lea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62943 — the estanco]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.3 How Spaniards controlled the tobacco trade — the Crown imposes a tobacco monopoly (estanco); Havana vegueros who grew the leaf rise repeatedly against officials who fix its price. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ foreign volunteers and Cuban women — nurses, couriers, fighters — again hold
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62956 — half the war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 7.4 Internationalist and women's presence in the War of 95 — foreign volunteers and Cuban women — nurses, couriers, fighters — again hold up half the war the history books once credited to men alone. Then let your companion ask you one hard question about it — answer from the lesson.

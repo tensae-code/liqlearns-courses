@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: on 24 Feb 1895 risings
 on 24 Feb 1895 risings across Cuba restart the war Martí organised; he lands to fight and falls at Dos Ríos on 19 May
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62950 — 24 february 1895]
 ## Sub lesson 2 — Ch.7 activities + closing list of outstanding dates: War of 95, incl. Weyler's reconcentration order and the Manifiesto de Montecristi fragment
 
 pupils read the enemy's order and Martí–Gómez's manifesto side by side and pick out each side's purpose
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62951 — side by side]
 ## Sub lesson 3 — 5.1–5.2 Start of the War of 1895; course of the war to October 1895
 
 simultaneous risings, Martí's death at Dos Ríos, Gómez and Maceo reunited — grief and organisation in the same months
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62952 — grief and organisation]
 ## Sub lesson 4 — 2.3 The Revolution of 1895
 
 the 1895 war whole: invasion, reconcentration, US intervention and the frustrated republic — pre-university depth on the primary book's story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62953 — the 1895 war whole]
 
 ## Say it to your companion
 

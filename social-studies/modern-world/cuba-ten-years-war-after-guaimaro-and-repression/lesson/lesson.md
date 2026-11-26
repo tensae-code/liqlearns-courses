@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Spain answers with vol
 Spain answers with volunteer corps, executions and terror while mambí columns fight on short of arms and unity
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62935 — terror answers]
 ## Sub lesson 2 — 3.5 Spanish repression and growth of the revolutionary struggle
 
 Spain's terror — volunteers, executions of students in 1871 — feeds rather than frightens the insurgency
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62936 — terror feeds it]
 
 ## Say it to your companion
 

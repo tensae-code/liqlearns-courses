@@ -9,31 +9,43 @@ Before you read on, hold this lesson's one thing in mind: Carlos Manuel de Césp
 Carlos Manuel de Céspedes frees his slaves at La Demajagua on 10 Oct 1868 and calls them to fight for a free Cuba; the Grito de Yara opens the independence war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62937 — 10 october 1868]
 ## Sub lesson 2 — Ch.5 activities: great men and facts of the Ten Years' War, with document fragments
 
 pupils read a hero's own words, then answer what Céspedes, Bayamo and Guáimaro meant
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62938 — in their own words]
 ## Sub lesson 3 — Unit guidance, Part II Colonial exploitation (Units 2–7, conquest to the War of 1895)
 
 unit-by-unit guidance follows the textbook's arc from Velázquez to Weyler, stressing personalities and notable facts as the teaching vehicle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62939 — from velazquez to weyler]
 ## Sub lesson 4 — 3.1–3.2 Situation of Cuba in 1868; start of the national liberation movement
 
 taxes, crisis and humiliation converge in 1868; Céspedes's Demajagua rising turns grievance into war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62940 — grievance into war]
 ## Sub lesson 5 — 2.1 The Revolution of 1868
 
 the Ten Years' War treated whole — Yara, Guáimaro, the invasion attempts, Zanjón and Baraguá in one analytical chapter
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62941 — the war whole]
 ## Sub lesson 6 — Unit 2 suggestions: independence struggles against Spanish colonial rule 1868–1898, incl. the Revolution of 1895
 
 two wars are taught as one independence process with a pause, not two separate wars
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62942 — one process a pause]
 
 ## Say it to your companion
 
