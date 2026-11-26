@@ -13,6 +13,8 @@ In your mind's eye: the lesson's central object or set-up from this part. Name i
 
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
+[GIF 37085 — the load test: books land one by one on a braced structure and it holds]
+
 ## The key ideas
 
 - **Structures** — structures.
