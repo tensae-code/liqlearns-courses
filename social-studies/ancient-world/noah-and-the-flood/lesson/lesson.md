@@ -10,11 +10,15 @@ Noah preaches to his people for 950 years and only a few believe, so he builds t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61447 — the ark and the flood]
+
 ## Sub lesson 2 — People of the prophet Noah
 
 generations after Adam, and after Idris who first wrote with the pen and taught sewing, people slide back to worshipping statues and planets, Noah preaches 950 years against chiefs who lead the rejection, drought and barrenness strike first, then he builds the ark to heaven's own measurements — a leap in shipbuilding — loads pairs of every animal, watches his own son choose a mountain and drown, and lands on al-Judi to start mankind again
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61448 — 950 years of preaching]
 
 ## Say it to your companion
 

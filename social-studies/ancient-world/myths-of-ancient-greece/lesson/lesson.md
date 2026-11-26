@@ -10,6 +10,8 @@ gods on Olympus, Prometheus' fire and the heroes' labours — the stories Greeks
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61435 — stories that explain the world]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§35–36 The myths of Ancient Greece — gods on Olympus, Prometheus' fire and the heroes' labours — the stories Greeks told to explain their world. Then let your companion ask you one hard question about it — answer from the lesson.

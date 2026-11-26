@@ -10,6 +10,8 @@ while river peoples farm, Mongolia's ancestors choose the horse and the herd, mo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61449 — a different answer]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3.3 Our ancestors the nomads — while river peoples farm, Mongolia's ancestors choose the horse and the herd, moving with the seasons — a different answer to the same ancient question of how to live. Then let your companion ask you one hard question about it — answer from the lesson.

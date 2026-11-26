@@ -20,6 +20,8 @@ Regularly matters. This was not one brave trip, long ago. Voyaging was the ordin
 
 In your mind's eye: the named islands on a Pacific map joined by voyaging lines. Follow the lines with a finger and name the islands in the exchange community.
 
+[Picture 61458 — the sea joins them]
+
 ## Sub lesson 3 — What travelled
 
 The boats did not travel empty. On those voyages, wealth, skills and goods circulated between the islands.

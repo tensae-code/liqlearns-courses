@@ -10,6 +10,8 @@ Figurines, burials under house floors and decorated pots hint at beliefs the mak
 
 In your mind's eye: the key place or moment of Neolithic beliefs and symbols as the book shows it. Point to it and say what it shows.
 
+[Picture 61437 — beliefs never explained]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: what Neolithic people thought and how they expressed it. Then let your companion ask you one hard question about it — answer from the lesson.

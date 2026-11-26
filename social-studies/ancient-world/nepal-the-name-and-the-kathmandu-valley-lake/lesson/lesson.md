@@ -10,11 +10,15 @@ rival stories compete — Krishna or the sage Manjushree drains the valley lake,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61443 — how it was named nepal]
+
 ## Sub lesson 2 — The Origin of the Word Nepal
 
 the guide scripts the lake story — in ancient times the Kathmandu Valley was a great lake, the monk Manjushree from China cut the gorge at Chobhar and drained it, settlement followed — then sets pupils to weigh the rival religious, historical and linguistic bases for the name "Nepal"
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61444 — the lake drained]
 
 ## Sub lesson 3 — The Meaning and Origin of the Word Nepal
 
@@ -22,11 +26,15 @@ the guide sets pupils to weigh every basis for the name — the sage "Ne", Kiran
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61445 — weighing the name]
+
 ## Sub lesson 4 — The Ancient History of Nepal
 
 history is divided into ancient, medieval and modern; the land itself is explained first — thirteen crore years ago a sea (Tethys) covered it, the Himalaya rose, and the Kathmandu valley lay under a great lake whose waters drained away; then the name's rival proofs are weighed (geographical, mythological, historical — Nepal first written about 500–600 CE, the Tistung inscription of 569 BS the first use of the word) and the Gopal age begins
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61446 — sea mountains lake]
 
 ## Say it to your companion
 

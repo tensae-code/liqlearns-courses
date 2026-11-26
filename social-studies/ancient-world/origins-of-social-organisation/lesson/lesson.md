@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: clans, tribes and the 
 clans, tribes and the first rules of living together grow out of the work of surviving
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61454 — learning to live together]
 ## Sub lesson 2 — Part I, Lesson 2: Society and the birth of classes
 
 kin groups become classes; the state is born from their conflict
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61455 — the birth of classes]
 
 ## Say it to your companion
 

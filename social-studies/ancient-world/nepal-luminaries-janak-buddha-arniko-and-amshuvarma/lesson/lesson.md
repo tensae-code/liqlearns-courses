@@ -10,11 +10,15 @@ King Janak makes Mithila flourish and his daughter Sita marries Ram; Buddha born
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61438 — nepals luminaries]
+
 ## Sub lesson 2 — National Luminary Gautam Buddha
 
 born at Lumbini on Vaishakh Purnima in 563 BCE to Suddhodana and Mayadevi, the prince sees an old man, a sick man, a corpse and an ascetic, leaves the palace, and wins enlightenment under the Bodhi tree at Bodh Gaya; his teaching of truth, non-violence and the middle way spreads worldwide, Lumbini becomes a World Heritage site, and UNESCO marks his birthday as International Day of Peace
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61439 — the light of asia]
 
 ## Sub lesson 3 — National Luminary Arniko
 
@@ -22,11 +26,15 @@ born in Nepal in 1245 CE, the boy sculptor Balbahu is chosen by the king for his
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61440 — arniko carries the pagoda]
+
 ## Sub lesson 4 — Our National Luminaries (ancient and medieval figures)
 
 the gallery opens with King Janak of Mithila and his daughter Sita, then Gautam Buddha, Light of Asia, born at Lumbini; Amshuvarma, the Licchavi minister who balanced Tibet and India and raised the Kailashkut palace; and Arniko of Patan, the boy-genius artist who led 80 craftsmen to Tibet and China and carried Nepali art to the world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61441 — the gallery of luminaries]
 
 ## Say it to your companion
 

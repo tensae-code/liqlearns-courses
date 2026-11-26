@@ -10,6 +10,8 @@ Original peoples raise great constructions, farm with their own tools and techni
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61453 — technologies that changed life]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Módulo 2 / Guía 5: Technologies that changed life — original peoples raise great constructions, farm with their own tools and techniques, and the Inca keep accounts on the knotted cords of the quipu. Then let your companion ask you one hard question about it — answer from the lesson.

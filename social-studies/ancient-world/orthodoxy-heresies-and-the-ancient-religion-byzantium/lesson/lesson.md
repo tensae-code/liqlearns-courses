@@ -10,6 +10,8 @@ councils argue the nature of Christ street by street while emperors close temple
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61456 — the struggle of orthodoxy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1.I.3 The struggle of Orthodoxy with the heresies and the ancient religion — councils argue the nature of Christ street by street while emperors close temples and the Academy. Then let your companion ask you one hard question about it — answer from the lesson.
