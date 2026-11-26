@@ -9,7 +9,11 @@ Seychelles' Unit 7 Topic 1, "Growing up", measures growth directly: the heights 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36936 — measuring heights against the height chart]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36937 — heights as a bar chart against age, with the average line across]
 
 ## Sub lesson 2 — Reading a height-against-age chart
 

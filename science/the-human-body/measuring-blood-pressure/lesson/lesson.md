@@ -9,7 +9,11 @@ The circulation moves blood around the body, and the moving blood **presses** on
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 36934 — blood pressure — the push of the blood: the cuff on the arm, the gauge that reads it]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 36935 — the cuff squeezes, and the needle climbs]
 
 ## Sub lesson 2 — Measuring blood pressure
 

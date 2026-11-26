@@ -9,7 +9,11 @@ Zimbabwe's Grade 3 guide opens its whole book with **internal body parts**: the 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36928 — the internal body parts, named — brain, lungs, heart, stomach, intestines]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 36929 — the heart beats, and the blood flows round the body]
 
 ## Sub lesson 2 — Parts you cannot see
 

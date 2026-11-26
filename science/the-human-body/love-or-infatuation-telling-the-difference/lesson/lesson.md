@@ -9,7 +9,11 @@ The book names the pair: **love** and **infatuation** — two feelings a young p
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 36932 — love and infatuation — two feelings that can look alike]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 36933 — time tells them apart — infatuation fades; love stays]
 
 ## Sub lesson 2 — Telling the difference
 
