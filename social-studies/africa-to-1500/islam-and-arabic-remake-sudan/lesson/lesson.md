@@ -10,8 +10,6 @@ faith, language and blood mix until "Sudanese" itself is a new thing made by the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60081 — faith, language and blood make a new people]
-
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Results of the Muslim Arabs' Entry into Sudan — faith, language and blood mix until "Sudanese" itself is a new thing made by the meeting. Then let your companion ask you one hard question about it — answer from the lesson.

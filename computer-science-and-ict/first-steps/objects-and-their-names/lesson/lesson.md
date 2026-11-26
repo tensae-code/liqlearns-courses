@@ -14,6 +14,8 @@ Objects are everywhere: at home, at school and outside. A cup at home is an obje
 
 In your mind's eye: a classroom with a book, a chair, a pencil, a bag and a window, each with its name written under it.
 
+[Picture 45093 — a classroom — every object with its name]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Everything around us that we can point to and name is an object — a book, a chair, a tree, a dog — and every object has its own name. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

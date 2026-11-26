@@ -10,8 +10,6 @@ Highland and lowland peoples fill Ethiopia's lands. Aksum's Christianity and the
 
 In your mind's eye: ethiopia's highlands with an old stone church and a mosque in a lowland town. Name Aksum's Christianity, Islam's arrival and the Gondar emperors.
 
-[Picture 60072 — Aksum's faith and Islam shape Ethiopia]
-
 ## Sub lesson 2 — The Gondar emperors — a country never colonised
 
 The Gondar emperors rule in the highlands. The Nigerian book surveys all this as the background to a country never colonised.

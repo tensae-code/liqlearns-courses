@@ -10,8 +10,6 @@ five quiet instruments do what armies did elsewhere
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60077 — five quiet ways, not armies]
-
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Means by which Islam Spread in Africa — five quiet instruments do what armies did elsewhere. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ In a **positional number system**, a digit's value depends on its **position**: 
 
 In your mind's eye: positional systems — the place gives the value.
 
+[Picture 45089 — positional systems — the place gives the value]
+
 ## Sub lesson 2 — The binary system — base 2, the computer's own
 
 The **binary system** is positional with base **2**: only two digits, **0 and 1**, and places worth 1, 2, 4, 8, 16 — doubling each step. So 101 in binary is 4 + 0 + 1 = **5** in decimal. The computer uses binary because its parts have two stable states — current or none, charged or not — and one digit matches one such state: a **bit**. Grade 11 returns to the system to build conversions and binary arithmetic on this Grade 7 foundation.
 
 In your mind's eye: the binary system — base 2, the computer's own.
+
+[Picture 45090 — the binary system — base 2, the computer's own]
 
 ## Say it to your companion
 

@@ -10,8 +10,6 @@ Gabon has been inhabited for thousands of years; first peoples settle, then othe
 
 In your mind's eye: gabon's first peoples settling in the forest, and later arrivals meeting and mixing with them. Say who was in Gabon first.
 
-[Picture 60075 — first peoples, then newcomers, mix in Gabon]
-
 ## Sub lesson 2 — How Gabon got its name
 
 Portuguese sailors see a river mouth shaped like a hooded cloak — gabão — and a country gets its name (Leçon 26 L'origine du nom « Gabon »)

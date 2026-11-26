@@ -10,23 +10,17 @@ Abu Bakr holds Arabia together through the Ridda wars and sends the armies out; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60082 — Abu Bakr holds Arabia; Umar builds the state]
-
 ## Sub lesson 2 — Uthman and Ali
 
 Uthman unifies the Quran's text and the fleets take to the sea; Ali's caliphate is torn by the first civil wars that split the community
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60083 — Uthman gathers the Quran; Ali faces civil war]
-
 ## Sub lesson 3 — The Rashidun Caliphs
 
 Abu Bakr crushes the apostasy wars, kills the false prophet Musaylima and orders the Quran gathered into one book; Umar wins at Yarmouk, receives Jerusalem, breaks Persia at al-Qadisiyya in 635 and sends Amr ibn al-As to take Egypt and found Fustat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
-
-[Picture 60084 — the four Rashidun caliphs]
 
 ## Say it to your companion
 

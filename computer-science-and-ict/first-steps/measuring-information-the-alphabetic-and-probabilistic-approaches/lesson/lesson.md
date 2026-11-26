@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Technical characteristics of the comput
 
 In your mind's eye: technical characteristics of the computer and networks, 1.1. Measuring information.
 
+[Picture 45083 — measuring a machine — how much it holds and how fast it works]
+
 ## Sub lesson 2 — Measuring information
 
 This part of Kazakhstan's book teaches **Measuring information** — covering: 1.2: Measuring information — the alphabetic approach. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: measuring information.
+
+[Picture 45084 — measuring information — bits grouped into bytes]
 
 ## Say it to your companion
 

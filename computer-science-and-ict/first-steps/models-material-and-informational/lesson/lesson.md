@@ -10,11 +10,15 @@ A **model** is a stand-in made to study an object instead of the object itself: 
 
 In your mind's eye: the model — a stand-in for an object.
 
+[Picture 45085 — the model — a stand-in for an object]
+
 ## Sub lesson 2 — Two kinds — material and informational
 
 Models come in two kinds. A **material model** is a physical stand-in: the origami ger, a globe, a toy car — it copies the object's shape and size in another material. An **informational model** is made of information: a description in words, a table of properties, a drawing, a formula — it copies what is known about the object, not its body. The computer works only with informational models: every file in the later lessons is one — information standing in for a thing in the world.
 
 In your mind's eye: two kinds — material and informational.
+
+[Picture 45086 — two kinds of model — material and informational]
 
 ## Say it to your companion
 

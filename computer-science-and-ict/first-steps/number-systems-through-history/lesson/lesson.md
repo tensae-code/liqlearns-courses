@@ -10,11 +10,15 @@ Every ancient nation built its own way of **counting and writing numbers**: tall
 
 In your mind's eye: counting among the ancient nations.
 
+[Picture 45091 — counting among the ancient nations]
+
 ## Sub lesson 2 — The discovery of zero
 
 The turning point is **zero**. As a sign for **nothing**, zero lets a counting system say 'none of these'; as a **place holder**, it lets the same digit stand for different values by its place — the difference between 5, 50 and 500 is zero at work. With zero, a positional system needs only a few digits to write any number, however large, and arithmetic by written rules becomes possible — the road that leads, in the end, to the binary system of the computer.
 
 In your mind's eye: the discovery of zero.
+
+[Picture 45092 — the discovery of zero]
 
 ## Say it to your companion
 

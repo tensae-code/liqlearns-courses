@@ -10,8 +10,6 @@ a faith arrives by refuge, by caravan and by sea, and finds a continent ready to
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60085 — by refuge, by caravan and by sea]
-
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Spread of Islam in Africa — a faith arrives by refuge, by caravan and by sea, and finds a continent ready to argue with it on its own terms. Then let your companion ask you one hard question about it — answer from the lesson.

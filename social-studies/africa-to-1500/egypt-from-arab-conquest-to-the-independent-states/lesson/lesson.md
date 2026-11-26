@@ -10,8 +10,6 @@ For two centuries Egypt is a province governed from abroad — under the Umayyad
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60066 — Egypt a province: the Nilometer on the Nile]
-
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Egypt from the Islamic conquest until the rise of the independent states. Then let your companion ask you one hard question about it — answer from the lesson.

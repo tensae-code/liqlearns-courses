@@ -10,8 +10,6 @@ In the medieval highlands the Bahri Negassi rules Medri Bahri from Debarwa while
 
 In your mind's eye: the key place or moment of Eritrea — the Bahri Negestat as the book shows it: point to it and say what it shows.
 
-[Picture 60071 — the Bahri Negassi rules Medri Bahri]
-
 ## Sub lesson 2 — Rise of the Bahri Negestat
 
 From the 1300s a 'Lord of the Sea' rises over the separate highland communities, ruling from Debarwa with a Council of Elders' approval while Abyssinian kings try to pull him under their control.

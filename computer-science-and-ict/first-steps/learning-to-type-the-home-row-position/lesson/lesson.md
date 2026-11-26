@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Using Rapid Typing Tutor; §3.8.
 
 In your mind's eye: using Rapid Typing Tutor; §3.8.2 Home Row position and finger placement.
 
+[Picture 45079 — the home row position and finger placement]
+
 ## Sub lesson 2 — Doing it — Learning to Type the Home Row Position in practice
 
 **Doing it — Learning to Type the Home Row Position in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Learning to Type the Home Row Position in practice.
+
+[Picture 45080 — the home row in practice — fingers resting on the keys]
 
 ## Say it to your companion
 

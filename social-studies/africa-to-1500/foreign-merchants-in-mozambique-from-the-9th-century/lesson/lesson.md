@@ -10,8 +10,6 @@ From the 9th century, for almost ten centuries, Asian then European merchants pe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60074 — merchants come to trade, not to rule]
-
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Foreign merchants penetrate Mozambique — from the 9th century, for almost ten centuries, Asian then European merchants penetrate Mozambique — a long, strictly commercial link to the world, with no political domination intended. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,15 +10,11 @@ Iron smelting begins with the Cushites at Meroe and is brought to Uganda by the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
-[Picture 60079 — iron smelting: the furnace remakes farming and war]
-
 ## Sub lesson 2 — The Iron Age
 
 Iron smelting, begun (the book says) by the Cushites at Meroe, is brought into East Africa by the Bachwezi, and the blacksmith becomes the maker and repairer of the new tools
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
-
-[Picture 60080 — the blacksmith: maker of the new tools]
 
 ## Say it to your companion
 

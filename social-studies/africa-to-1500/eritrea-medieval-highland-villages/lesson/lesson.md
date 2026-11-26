@@ -10,8 +10,6 @@ Self-sufficient medieval highland villages grow wheat, barley, teff and sorghum 
 
 In your mind's eye: the key place or moment of Eritrea — medieval highland villages as the book shows it: point to it and say what it shows.
 
-[Picture 60069 — highland villages around Debarwa]
-
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: highland Society. Then let your companion ask you one hard question about it — answer from the lesson.

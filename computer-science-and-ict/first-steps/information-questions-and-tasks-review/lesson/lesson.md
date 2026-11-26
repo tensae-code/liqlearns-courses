@@ -16,6 +16,8 @@ This is the **review lesson** for the Information unit — the book's own 'quest
 
 In your mind's eye: a review path with five stops. Seeing and hearing, the five senses, forms, memory and a book, and a message travelling from one child to another.
 
+[Picture 45076 — a review path with five stops]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This review checks the whole Information unit: types of information, receiving it through the senses, presenting it in different forms, storing it, and transmitting it. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

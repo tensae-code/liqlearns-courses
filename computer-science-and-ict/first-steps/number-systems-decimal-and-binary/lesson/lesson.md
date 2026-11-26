@@ -10,11 +10,15 @@ The **decimal system** writes every number with ten digits, **0 to 9**. Its secr
 
 In your mind's eye: the number 347 broken open — 3 hundreds, 4 tens, 7 ones.
 
+[Picture 45087 — the number 347 broken open — hundreds, tens and ones]
+
 ## Sub lesson 2 — Binary — counting in twos
 
 The **binary system** follows the same rule with base **two**: only two digits, **0 and 1**, and places worth 1, 2, 4, 8 — each place double the one before, the **powers of two**. So binary 1011 = 1×8 + 0×4 + 1×2 + 1×1 = 11 in decimal. The computer uses binary because its circuits have two easy states — on and off — which 1 and 0 match exactly. Same place-value idea, smaller base: that is the whole difference.
 
 In your mind's eye: binary 1011 over its places — 8, 4, 2, 1. Adding up to 11.
+
+[Picture 45088 — binary 1011 over its places — 8, 4, 2, 1]
 
 ## Say it to your companion
 

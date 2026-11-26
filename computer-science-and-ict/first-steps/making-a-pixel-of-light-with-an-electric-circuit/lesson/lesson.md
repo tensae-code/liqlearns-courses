@@ -10,11 +10,15 @@ A **circuit** is a closed loop the current can travel: from the **battery (pile)
 
 In your mind's eye: the circuit — battery, wires, lamp.
 
+[GIF 45081 — the circuit — battery, wires, lamp]
+
 ## Sub lesson 2 — One lamp, one pixel
 
 Light the lamp and you hold a **pixel**: one point of light that can be on or off — the two states all screens are built from. A screen is this build multiplied: millions of such points, each switchable, each small enough that together they draw pictures. The scenario climbs from your single lamp to that idea: an image is a crowd of lights, and every light obeys the same simple loop you just closed.
 
 In your mind's eye: one lamp, one pixel.
+
+[Picture 45082 — one lamp, one pixel]
 
 ## Say it to your companion
 

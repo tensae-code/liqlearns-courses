@@ -10,8 +10,6 @@ The Nara and the Kunama of the Gash-Setit lowlands order life by kinship and anc
 
 In your mind's eye: the key place or moment of Eritrea — Nara and Kunama societies as the book shows it: point to it and say what it shows.
 
-[Picture 60070 — the Nara and Kunama: life by the mother line]
-
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the south-western lowland peoples. Then let your companion ask you one hard question about it — answer from the lesson.

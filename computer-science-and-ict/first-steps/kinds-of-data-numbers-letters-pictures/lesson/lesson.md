@@ -10,11 +10,15 @@ A mark in a register is a number. A name is letters. A photo on a phone is a pic
 
 In your mind's eye: a student record — the name in letters beside the mark in numbers.
 
+[Picture 45077 — a student record — the name in letters beside the mark in numbers]
+
 ## Sub lesson 2 — Pictures — data you see
 
 **Picture data** — photographs, drawings, scanned pages — is a third kind: data you take in by seeing, not by reading symbols. The computer stores a picture as its own kind of data, in far more storage than a name or a number takes, and shows it back on the screen or in print. Sound and moving pictures stand beside still pictures as further kinds, but the book's first classification is these three: numbers, letters, pictures.
 
 In your mind's eye: three kinds of data side by side — a number, a word, a picture.
+
+[Picture 45078 — three kinds of data side by side — a number, a word, a picture]
 
 ## Say it to your companion
 
