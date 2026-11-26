@@ -10,6 +10,8 @@ In 1215 England's barons corner King John and make him sign the Great Charter �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61339 — the king under law 1215]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Magna Carta, 1215 — the king under law. Then let your companion ask you one hard question about it — answer from the lesson.

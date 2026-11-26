@@ -10,11 +10,15 @@ cathedrals rise over guild towns as faith and craft compete in stone
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61352 — cathedrals over guild towns]
+
 ## Sub lesson 2 — §7 Medieval cities develop
 
 walls, guilds and markets revive town life across Europe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61353 — walls guilds and markets]
 
 ## Sub lesson 3 — 2.2 How do medieval art and city architecture show medieval society?
 
@@ -22,17 +26,23 @@ cathedrals and guildhalls are read as society's self-portrait
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61354 — societys self portrait]
+
 ## Sub lesson 4 — §7 Medieval cities develop; medieval art
 
 guild towns and Gothic cathedrals crown the high Middle Ages
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61355 — the high middle ages crowned]
+
 ## Sub lesson 5 — §7 Medieval cities and art: features of their development
 
 communes, guilds and cathedrals remake the European landscape
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61356 — remaking the landscape]
 
 ## Say it to your companion
 

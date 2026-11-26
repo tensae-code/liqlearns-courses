@@ -10,11 +10,15 @@ even without a highland kingdom, scholars write histories, Mkhitar Gosh writes a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61347 — culture without a kingdom]
+
 ## Sub lesson 2 — §3.3 Armenian literature and art, 1000s–1300s
 
 poets like Frik voice the people's suffering while khachkars and miniature painting reach their peak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61348 — khachkars and miniatures]
 
 ## Say it to your companion
 

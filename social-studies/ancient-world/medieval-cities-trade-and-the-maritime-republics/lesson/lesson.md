@@ -10,11 +10,15 @@ towns wake up, merchants and artisans become new powers, trade routes reopen acr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61358 — the maritime republics]
+
 ## Sub lesson 2 — Uomini e spazi; Innovazioni tecniche; Le grandi macchine; La viabilità; Splendori e miserie delle città; Il nuovo mondo dei mercanti; Le città marinare italiane
 
 mills, roads and ships remake the landscape; merchants invent a new culture of credit and companies while Venice and Genoa rule the Mediterranean routes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61359 — credit companies sea rule]
 
 ## Say it to your companion
 

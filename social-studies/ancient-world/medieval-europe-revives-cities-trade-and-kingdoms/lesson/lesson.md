@@ -10,11 +10,15 @@ towns, guilds, universities and stronger kings revive a Europe of trade after th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61361 — europe revives]
+
 ## Sub lesson 2 — Economic changes in Western Europe
 
 fairs, banks and reviving towns crack the closed manor economy open
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61362 — the manor cracks open]
 
 ## Say it to your companion
 

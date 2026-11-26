@@ -10,11 +10,15 @@ Boyars and peasants, villages and fortresses — how medieval Bulgarians lived (
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61350 — boyars and peasants]
+
 ## Sub lesson 2 — Lesson 19: The everyday life of the Bulgarians in the Middle Ages
 
 Homes, food, dress and feast days in medieval Bulgaria (Lesson 19: The everyday life of the Bulgarians in the Middle Ages)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61351 — everyday life]
 
 ## Say it to your companion
 

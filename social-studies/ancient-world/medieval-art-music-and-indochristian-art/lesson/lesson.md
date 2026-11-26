@@ -10,6 +10,8 @@ Gregorian chant such as Puer natus est survives as an early carol, Islamic art d
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61349 — three arts of the past]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Guía 3: Artistic expressions of the past — Gregorian chant such as Puer natus est survives as an early carol, Islamic art decorates without images, and Indigenous artists of the 1500s create what is named Indo-Christian art. Then let your companion ask you one hard question about it — answer from the lesson.

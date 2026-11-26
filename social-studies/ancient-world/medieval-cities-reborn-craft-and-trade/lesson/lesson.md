@@ -10,6 +10,8 @@ merchants and artisans win charters from lords; inside feudal walls a burgher cl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61357 — a new class is born]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.6 Rebirth of cities as centres of craft and trade — merchants and artisans win charters from lords; inside feudal walls a burgher class that does not fit the order is born. Then let your companion ask you one hard question about it — answer from the lesson.
