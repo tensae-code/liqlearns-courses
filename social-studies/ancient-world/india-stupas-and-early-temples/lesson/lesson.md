@@ -10,11 +10,15 @@ A stupa grows around a relic casket — earth, brick, carved stone slabs, a rail
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60877 — stupas and the first temples]
+
 ## Sub lesson 2 — How were stupas and temples built?
 
 Find and quarry good stone, haul it, shape pillars and panels, set them exactly — paid for by kings and queens, and decorated by gifts from devotees: an association of ivory workers pays for a whole Sanchi gateway, and hundreds of donors survive only as names carved on railings.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60878 — how the stupas were built]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ In Kalidasa's play a poor fisherman who returns the king's ring found in a fish 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60870 — ordinary people under the kings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ordinary people in the kingdoms. Then let your companion ask you one hard question about it — answer from the lesson.

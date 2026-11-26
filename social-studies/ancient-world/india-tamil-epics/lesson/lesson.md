@@ -10,6 +10,8 @@ Merchant Kovalan abandons his wife Kannagi for the courtesan Madhavi, is falsely
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60879 — kannagis rage burns madurai]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The world of books: Silappadikaram and Manimekalai. Then let your companion ask you one hard question about it — answer from the lesson.

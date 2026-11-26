@@ -10,6 +10,8 @@ At the crossroads of the north-west–east and north–south routes, walled Math
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60866 — mathura a city of many functions]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Cities with many functions: Mathura. Then let your companion ask you one hard question about it — answer from the lesson.

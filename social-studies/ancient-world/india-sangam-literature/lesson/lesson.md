@@ -10,6 +10,8 @@ Poems composed around 2300 years ago are gathered in assemblies — sangams — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60875 — the poets assembly at madurai]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The earliest Tamil compositions. Then let your companion ask you one hard question about it — answer from the lesson.

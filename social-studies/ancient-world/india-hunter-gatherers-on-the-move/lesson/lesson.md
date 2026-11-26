@@ -10,11 +10,15 @@ People who eat up one place's plants, follow migrating herds, chase seasonal fru
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60860 — always moving food herds water]
+
 ## Sub lesson 2 — Choosing a place to live in; rock paintings; finding out about fire
 
 Bands shelter in Bhimbetka's caves near the Narmada and paint wild animals on the walls with skill; ash in the Kurnool caves proves they had tamed fire for light, roasting and scaring beasts.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60861 — bhimbetka paintings and fire]
 
 ## Say it to your companion
 

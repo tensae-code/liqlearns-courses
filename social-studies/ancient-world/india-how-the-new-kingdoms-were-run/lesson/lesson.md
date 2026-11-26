@@ -10,6 +10,8 @@ Offices turn hereditary and pile up in one man (Harishena is judge, minister and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60859 — offices land-lords assemblies]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: How were these kingdoms administered?; a new kind of army; assemblies in the south. Then let your companion ask you one hard question about it — answer from the lesson.

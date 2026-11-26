@@ -10,11 +10,15 @@ Rajas of peoples become rajas of lands where "the jana set its foot"; excavated 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60862 — kings of lands walled capitals]
+
 ## Sub lesson 2 — Armies, taxes and changes in agriculture
 
 Kings who build forts and keep salaried, year-round armies must tax — bhaga, a sixth of the crop, labour from craftsmen, animals from herders; iron ploughshares bite heavy clay and transplanted paddy multiplies the harvest, on the bent backs of dasas and landless kammakaras.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60863 — armies taxes and the iron plough]
 
 ## Say it to your companion
 

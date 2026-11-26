@@ -10,11 +10,15 @@ From about 3000 years ago, big-stone burials spread across the Deccan, the south
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60867 — silent sentinels of stone]
+
 ## Sub lesson 2 — A special burial at Inamgaon; occupations at Inamgaon
 
 A man is buried cross-legged in a huge four-legged clay jar in the courtyard of the settlement's largest, five-roomed house with its own granary — likely a chief; seeds and cut-marked bones reconstruct the whole village's work, from farming and herding to hunting and fishing.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60868 — the chief in the great jar]
 
 ## Say it to your companion
 

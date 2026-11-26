@@ -10,6 +10,8 @@ Brahmins answer the new religions with a life-map in four stages — student, ho
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60881 — the four stages of life]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The system of ashramas. Then let your companion ask you one hard question about it — answer from the lesson.

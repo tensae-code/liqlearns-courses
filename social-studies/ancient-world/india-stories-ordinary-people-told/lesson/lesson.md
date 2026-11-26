@@ -10,6 +10,8 @@ Jataka and Panchatantra tales are written down and carved on stupa railings — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60876 — the monkey kings bridge]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Stories told by ordinary people; the monkey king. Then let your companion ask you one hard question about it — answer from the lesson.

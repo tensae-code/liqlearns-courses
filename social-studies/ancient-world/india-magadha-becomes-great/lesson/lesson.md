@@ -10,6 +10,8 @@ Rivers for transport and fertility, forests full of war-elephants and timber, ir
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60865 — why magadha grew great]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: A closer look — Magadha. Then let your companion ask you one hard question about it — answer from the lesson.
