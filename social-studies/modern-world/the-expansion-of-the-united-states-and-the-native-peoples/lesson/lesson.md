@@ -10,6 +10,8 @@ the Monroe Doctrine warns Europe off the Americas while settlers push west; the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40218 — westward]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 3, Cap. 8 §4 The expansion of the United States — the Monroe Doctrine warns Europe off the Americas while settlers push west; the cultural-history pages face the clash over Native peoples' territorial rights head-on. Then let your companion ask you one hard question about it — answer from the lesson.

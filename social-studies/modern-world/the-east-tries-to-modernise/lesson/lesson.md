@@ -10,6 +10,8 @@ Ottoman sultans, Egyptian pashas and Qing officials copy Western armies and scho
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40241 — copiedtools]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §18 Modernisation attempts of Eastern countries in the 1800s — Ottoman sultans, Egyptian pashas and Qing officials copy Western armies and schools, trying to save their states with their rivals' tools. Then let your companion ask you one hard question about it — answer from the lesson.

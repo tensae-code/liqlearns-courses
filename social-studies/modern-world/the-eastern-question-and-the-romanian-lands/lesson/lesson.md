@@ -10,11 +10,15 @@ Vienna's relief in 1683 tips the balance; war after war crosses the Principaliti
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40237 — vienna1683]
+
 ## Sub lesson 2 — §23: Principatele Române în contextul Chestiunii Orientale
 
 Ottoman expansion halts and decline begins; Cantemir signs the Lutsk treaty with Peter the Great on 13 April 1711 against Poland's designs, Brâncoveanu balances between Turks and Russians, and Rumyantsev wins at the Larga lakes in 1770
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40236 — lutsk1711]
 
 ## Say it to your companion
 

@@ -10,17 +10,23 @@ free European nations pool their future in the EU — parliament at Strasbourg, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40221 — unitydiversity]
+
 ## Sub lesson 2 — Tema 40: Integrarea Europeană. Uniunea Europeană la începutul mileniului III
 
 integration begins in 1951 as the answer to war's crisis; Nice (2001) brings majority voting, and on 1 June 2023 Europe's leaders summit at Bulboaca in Moldova itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40220 — bulboaca]
+
 ## Sub lesson 3 — Tema 40: Integrarea economică europeană. Crearea și evoluția Uniunii Europene
 
 Schuman's 9 May 1950 declaration makes war between France and Germany "materially impossible" through shared coal and steel; the 1985 Single European Act promises a space without internal frontiers
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40219 — coalsteelshared]
 
 ## Say it to your companion
 

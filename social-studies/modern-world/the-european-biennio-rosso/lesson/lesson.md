@@ -10,6 +10,8 @@ soviets and strikes from Budapest to Berlin meet Freikorps and reaction; Europe'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40225 — biennio]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 1, Cap. 2 §4 Il "biennio rosso": rivoluzione e controrivoluzione in Europa — soviets and strikes from Budapest to Berlin meet Freikorps and reaction; Europe's two postwar years decide where revolution stops. Then let your companion ask you one hard question about it — answer from the lesson.

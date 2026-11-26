@@ -10,6 +10,8 @@ After the Restoration the colonies multiplied, and the Glorious Revolution reach
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40228 — coloniesmultiply]
+
 ## Sub lesson 2 — Slavery and consumer goods bind the colonies to Britain
 
 Two bindings tightened. Slavery bound colonial labour and wealth ever tighter to Britain's Atlantic system, and consumer goods bound colonial households to British shops and tastes. The colonies were more British than ever — and more dependent.

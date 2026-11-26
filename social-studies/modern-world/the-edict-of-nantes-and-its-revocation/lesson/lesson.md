@@ -10,6 +10,8 @@ Henri IV grants Protestants peace in 1598 — the Edict of Nantes ends the wars 
 
 In your mind's eye: henri IV signing the Edict of Nantes in 1598 on one side and Louis XIV revoking it in 1685 on the other. Say what was granted and what was taken back.
 
+[Picture 40231 — grantedrevoked]
+
 ## Sub lesson 2 — 1685 — Louis XIV tears it up
 
 Louis XIV tears it up in 1685 — the revocation takes back in one reign what 1598 had granted.

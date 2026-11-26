@@ -10,6 +10,8 @@ one superpower remains; the bill and the lessons are counted
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40229 — thebill]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §14 The consequences of the Cold War — one superpower remains; the bill and the lessons are counted. Then let your companion ask you one hard question about it — answer from the lesson.

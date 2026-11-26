@@ -10,17 +10,23 @@ the USSR bears the main land war from invasion to Berlin, and the book closes th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40240 — roadtoberlin]
+
 ## Sub lesson 2 — §28 The Great Patriotic War of the Soviet people against fascist Germany; the results and consequences of the Second World War
 
 the USSR bears the main land war to Berlin; the reckoning follows
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40239 — reckoning]
+
 ## Sub lesson 3 — §8.5 Why is the USSR's war against fascist Germany called the Great Patriotic War?
 
 a war for the homeland's survival earns its name
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40238 — homeland]
 
 ## Say it to your companion
 

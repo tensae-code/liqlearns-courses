@@ -10,6 +10,8 @@ Charles I's wars with Parliament end on the scaffold (1649); Cromwell's Commonwe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40227 — kingless]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§11–12 The beginning of the English bourgeois revolution; The Civil War and its consequences — Charles I's wars with Parliament end on the scaffold (1649); Cromwell's Commonwealth and Protectorate test a kingless England. Then let your companion ask you one hard question about it — answer from the lesson.

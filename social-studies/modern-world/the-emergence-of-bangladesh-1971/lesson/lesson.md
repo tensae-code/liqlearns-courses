@@ -10,6 +10,8 @@ Bangladesh's Grade 6 book closes with the whole arc in one sweep. From the ancie
 
 In your mind's eye: a long timeline ribbon unrolling from ancient Bengal janapadas through sultans and Mughals to a green-and-red flag rising in 1971. The student traces the ribbon and names three stops on the way.
 
+[Picture 40230 — ribbon1971]
+
 ## Sub lesson 2 — The long arc — janapada to 1971, told through economics
 
 The Grade 7 book tells the same arc through its economic lens — and through the land's changing name: the Banga janapada becomes Bangal, Bangala, Bengal. The rulers pass: Deva, Chandra, Pala and Sena dynasties; Mauryas and Guptas; the Sultanate and the Mughals. Then come the Europeans — Portuguese, Dutch, French and English — and finally Pakistani exploitation from 1947. Every stage, in this telling, is also a story of who took Bengal's wealth — until 1971 ends the taking.

@@ -10,11 +10,15 @@ debt crisis, migration and Brexit (the volume's CLIL closing) test the Union bui
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40223 — uniontested]
+
 ## Sub lesson 2 — Modulo 19 §4 L'Europa e la crisi del debito
 
 the debt crisis pits North against South inside the euro; the Union built to end crises becomes one
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40222 — eurocrack]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Churchill's 1946 call for a United States of Europe becomes the Coal and Steel C
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40224 — sixto27]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The European Union (Unit 3 Lesson 3) — churchill's 1946 call for a United States of Europe becomes the Coal and Steel Community of 1951 and the Rome Treaty of 1957; enlargement wave follows wave — Britain in 1973, Greece, Spain and Portugal, a reunified Germany, ten states in 2004, Bulgaria and Romania in 2007 — until the EU stands as the world's biggest economic force of 27 members. Then let your companion ask you one hard question about it — answer from the lesson.
