@@ -10,11 +10,15 @@ a quarter of the population arrives with nothing; refugee quarters from Kokkinia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63504 — a quarter arrives]
+
 ## Sub lesson 2 — The refugee question in interwar Greece
 
 one and a half million refugees are housed, fed and settled — and remake Greece's cities, farming and politics
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63505 — housed fed settled]
 
 ## Sub lesson 3 — Economy and society; the refugee problem
 
@@ -22,11 +26,15 @@ a state of five million absorbs over a million refugees and is transformed by th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63506 — absorbed and transformed]
+
 ## Sub lesson 4 — Internal developments in Greece (1923–1930)
 
 a republic is proclaimed, a million and a half refugees are settled in Macedonia and the cities, and Venizelos's 1928 return brings a last reforming burst
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63507 — a last reforming burst]
 
 ## Sub lesson 5 — Theme 3 B: The Lausanne Convention and the exchange of populations
 
@@ -34,11 +42,15 @@ the 1923 convention makes the flight compulsory and mutual — about 1.2 million
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63508 — compulsory and mutual]
+
 ## Sub lesson 6 — Theme 3 C: The rehabilitation of the refugees
 
 the League of Nations' Refugee Settlement Commission houses the newcomers in Macedonian villages and new urban quarters
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63509 — housed by the league]
 
 ## Sub lesson 7 — Theme 3 E: The integration of the refugees into Greece
 

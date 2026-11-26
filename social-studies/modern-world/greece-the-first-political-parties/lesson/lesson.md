@@ -10,6 +10,8 @@ Ottoman-era patronage networks survive into the Revolution and harden into the E
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63495 — three foreign parties]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2 A: Foreign orientation and clientelist relations (1821–1843) — Ottoman-era patronage networks survive into the Revolution and harden into the English, French and Russian parties of the first kingdom. Then let your companion ask you one hard question about it — answer from the lesson.

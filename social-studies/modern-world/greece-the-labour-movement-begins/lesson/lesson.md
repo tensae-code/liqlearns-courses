@@ -10,11 +10,15 @@ miners, tobacco workers and seamen organise the first unions and strikes and dem
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63499 — first unions]
+
 ## Sub lesson 2 — Theme 2 D: The left and socialist parties
 
 wartime hardship births the Socialist Labour Party (SEKE) in 1918 and a left enters Greek politics for good
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63500 — a left enters 1918]
 
 ## Say it to your companion
 

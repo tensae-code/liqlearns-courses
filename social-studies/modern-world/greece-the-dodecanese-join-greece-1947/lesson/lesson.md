@@ -10,6 +10,8 @@ the 1947 Paris treaty hands the Italian-held Dodecanese to Greece — the last p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63494 — the last piece 1947]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The peace treaties and the incorporation of the Dodecanese into Greece — the 1947 Paris treaty hands the Italian-held Dodecanese to Greece — the last piece of the national map. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ royalist and old-party politicians gather against Venizelos and become a camp of
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63502 — a camp of their own]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2 D: The anti-Venizelist parties — royalist and old-party politicians gather against Venizelos and become a camp of their own. Then let your companion ask you one hard question about it — answer from the lesson.

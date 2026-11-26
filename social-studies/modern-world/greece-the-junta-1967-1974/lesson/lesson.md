@@ -10,17 +10,23 @@ unstable governments, a murdered deputy, then colonels' tanks at dawn; seven yea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63496 — tanks at dawn]
+
 ## Sub lesson 2 — Postwar Greece: hopes, disappointment and the military dictatorship (1945–1974)
 
 reconstruction and growth under a guarded democracy, then the colonels' coup of 1967
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63497 — a guarded democracy]
+
 ## Sub lesson 3 — Greece up to 1974
 
 post-civil-war growth under a watched democracy, the Cyprus crisis of 1963–64, and the colonels' junta of 1967–1974
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63498 — watched then seized]
 
 ## Say it to your companion
 
