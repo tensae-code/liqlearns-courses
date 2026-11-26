@@ -40,11 +40,15 @@ under the peace accords, the US-backed UNO coalition of Violeta Barrios de Chamo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40913 — counted5474]
+
 ## Sub lesson 7 — Transformaciones del gobierno de la UNO
 
 Chamorro abolishes patriotic military service, demobilises both armies and burns the weapons, while agrarian-reform projects are dismantled and rearmed ex-combatants reappear
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40912 — bannerslowered]
 
 ## Sub lesson 8 — Los gobiernos neoliberales 1996-2006
 
@@ -52,11 +56,15 @@ Alemán (1997) and Bolaños (2002) continue structural adjustment under IMF cond
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40911 — adjustmenthipc]
+
 ## Sub lesson 9 — El Gobierno de Reconciliación y Unidad Nacional desde 2007
 
 the returning GRUN runs its social programmes through women — Bono Productivo, Usura Cero, Hambre Cero, Plan Techo — under a "Christian, socialist, solidary" banner
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40910 — pigscreditfoodroofs]
 
 ## Sub lesson 10 — La lucha armada y los acuerdos de paz
 
@@ -64,11 +72,15 @@ from 1981 the US funds the Contra army and imposes a trade embargo; the presiden
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40909 — embargopeacetalks]
+
 ## Sub lesson 11 — El Gobierno de la UNO y los gobiernos neoliberales
 
 the UNO's Violeta Chamorro wins 55 percent in 1990 on war-weariness; demobilisation, privatisation and structural adjustment follow, Alemán wins in 1996, and unemployment and emigration to Costa Rica and the US deepen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40908 — wearinesswins1990]
 
 ## Sub lesson 12 — El Gobierno de Reconciliación y Unidad Nacional desde 2007
 
@@ -76,11 +88,15 @@ the returning GRUN builds a "Christian, socialist, solidary" model of direct cit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40907 — programmesthroughwomen]
+
 ## Sub lesson 13 — Los nuevos problemas y el modelo de poder ciudadano
 
 the book closes the century by turning to the GRUN's Christian, Socialist and Solidary citizen-power model, women's advance into political power after the 1920 US suffrage amendment, and the region's new problems of irregular migration and child poverty
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40906 — womenrisewantremains]
 
 ## Say it to your companion
 

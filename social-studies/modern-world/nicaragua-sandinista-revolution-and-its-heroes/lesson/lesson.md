@@ -10,11 +10,15 @@ pupils explain the Revolution's importance and name its heroes and martyrs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40904 — heroesnamed19july]
+
 ## Sub lesson 2 — Efemérides: birth of Comandante Carlos Fonseca Amador
 
 Fonseca, a teacher born 23 June, becomes founder and commander-in-chief of the Sandinista Revolution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40903 — teacherborn23june]
 
 ## Sub lesson 3 — Héroes de la Patria: Carlos Fonseca Amador
 
@@ -22,11 +26,15 @@ Fonseca founds the Frente Sandinista and is named Father of the Sandinista Popul
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40902 — ordinarymanfounds]
+
 ## Sub lesson 4 — Héroes de la Patria: Julio Buitrago Urroz
 
 Buitrago, a hardworking boy who loved work from childhood, becomes Father of the Urban Resistance, with a house-museum keeping his story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40901 — workershousemuseum]
 
 ## Sub lesson 5 — Héroes de la Patria: Arlen Siu
 
@@ -34,11 +42,15 @@ four years before the Revolution triumphs, young Arlen Siu gives her life; a son
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40900 — songbirdasks]
+
 ## Sub lesson 6 — Héroes de la Patria: Bertha Calderón
 
 Calderón, a reader inspired by Fidel's books, is killed a month before the Revolution's triumph and is remembered as a heroine of that final push
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40899 — readerfalls]
 
 ## Sub lesson 7 — Efemérides: anniversary of Comandante Carlos Fonseca Amador's passing
 
@@ -46,11 +58,15 @@ the year closes by returning to Fonseca's mausoleum and death anniversary, the f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40898 — mausoleumremembered]
+
 ## Sub lesson 8 — Aniversario de la Revolución Popular Sandinista
 
 the Revolution's anniversary is celebrated as the department's living historical feast, linking 1856's defence of sovereignty to 1979
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40897 — feastlinksdays]
 
 ## Sub lesson 9 — La acción heroica de Rigoberto López Pérez
 
@@ -58,11 +74,15 @@ poet Rigoberto López Pérez decides to end the Somoza dictatorship at its root 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40896 — poetstrikes]
+
 ## Sub lesson 10 — Legado histórico de Carlos Fonseca Amador
 
 Fonseca's legacy is founding the FSLN and giving the later Revolution its ideas and organisation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40895 — ideasorganise]
 
 ## Sub lesson 11 — Personajes históricos: Arlen Siu
 
@@ -70,11 +90,15 @@ Arlen Siu, "la chinita de Jinotepe", joins the guerrilla and dies young; her sto
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40894 — gallerylast]
+
 ## Sub lesson 12 — Surgimiento y desarrollo del FSLN; participación de las mujeres
 
 Fonseca and others found the FSLN; its combats grow over two decades and women fight throughout, not at the margins
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40893 — womenfightthroughout]
 
 ## Sub lesson 13 — Insurrección popular de 1978-1979 y ofensiva final
 
@@ -82,17 +106,23 @@ whole towns rise in 1978-79; the people's participation in the final offensive b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40892 — townsrisedynastyfalls]
+
 ## Sub lesson 14 — La Revolución Popular Sandinista: gobierno, logros y dificultades; la mujer en la Revolución
 
 the Junta and Council of State replace Somoza's institutions, the Guardia becomes the Ejército Popular Sandinista, gains come in health, education and land — alongside real difficulties and women's central role
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40891 — womencentral]
+
 ## Sub lesson 15 — Triunfo de la Revolución Popular Sandinista
 
 on 19 July 1979 the Revolution overthrows the Somoza dictatorship after an insurrection that costs some 50,000 lives, most of them young
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40890 — fiftythousandlives]
 
 ## Sub lesson 16 — El gobierno sandinista: características
 

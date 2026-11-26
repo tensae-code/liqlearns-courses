@@ -10,6 +10,8 @@ child poet from Metapa who starts writing young and becomes Nicaragua's national
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40905 — childpoetnational]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Efemérides: anniversary of Rubén Darío's death — child poet from Metapa who starts writing young and becomes Nicaragua's national poet, remembered every year. Then let your companion ask you one hard question about it — answer from the lesson.
