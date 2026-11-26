@@ -10,11 +10,15 @@ A **network application** is a program whose work needs a **network**: it sends,
 
 In your mind's eye: applications that reach across the network.
 
+[Picture 45362 — applications that reach across the network]
+
 ## Sub lesson 2 — Client and server — the two halves
 
 Network applications work in **pairs of roles**. The **client** is the program on your machine that asks; the **server** is the program (on another machine) that answers and serves — the page, the letter, the file. Your browser is a client; the site's machine runs the server half. Both halves are applications, and the network between them is only the road: confusing the road with the workers is the beginner's error this section exists to prevent.
 
 In your mind's eye: client and server — the two halves.
+
+[Picture 45363 — client and server — the two halves]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **mind map** (sơ đồ tư duy) organises ideas **visually**: the main topic 
 
 In your mind's eye: centre, branches, twigs — the shape of a mind map.
 
+[Picture 45358 — centre, branches, twigs — the shape of a mind map]
+
 ## Sub lesson 2 — Using a mind map — planning, learning, presenting together
 
 The map earns its place three ways: **planning** (a project's parts seen whole before work starts), **learning** (a lesson's structure held in one picture, easier to remember than a page of lines), and **presenting together** — Grade 9's practical uses visual tools, mind maps among them, to present information in **exchange and collaboration**, where the map on the screen gives a group one shared picture to point at, question and improve.
 
 In your mind's eye: using a mind map — planning, learning, presenting together.
+
+[Picture 45359 — using a mind map — planning, learning, presenting together]
 
 ## Say it to your companion
 

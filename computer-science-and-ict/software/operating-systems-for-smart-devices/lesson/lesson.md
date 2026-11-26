@@ -10,11 +10,15 @@ Like a computer, a smart device runs on an **operating system**: the system soft
 
 In your mind's eye: smart devices have operating systems.
 
+[Picture 45366 — smart devices have operating systems]
+
 ## Sub lesson 2 — The operating system at work on a small device
 
 On a smart device the operating system also handles what small, carried devices demand: the **touch screen** as the main way in, **connecting** to networks, and looking after the device's **memory and battery** while applications come and go. Change the operating system and the same device feels like a different machine — the applications of the next lesson all stand on it.
 
 In your mind's eye: the operating system at work on a small device.
+
+[Picture 45367 — the operating system at work on a small device]
 
 ## Say it to your companion
 

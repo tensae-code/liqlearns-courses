@@ -10,11 +10,15 @@ A **multitasking operating system** runs **several programs at once**: each keep
 
 In your mind's eye: multitasking — many programs, one machine.
 
+[Picture 45360 — multitasking — many programs, one machine]
+
 ## Sub lesson 2 — Switching and carrying — Alt+Tab, and Paint into Word
 
 The traffic between programs has its instruments. **Alt+Tab** is the switch: hold, tap, choose — the windows cycle until the wanted one takes the front. Work itself travels by **copying between programs**: the book's own journey is a **picture drawn in Paint, copied, and pasted into a Word document** — one program's product becoming another's citizen, the clipboard the ferry. Mongolia's closing rule for the multi-program worker: name your active window before you type, and know which program owns the work in your hands — most multi-program accidents are one program receiving another's commands.
 
 In your mind's eye: switching and carrying — Alt+Tab, and Paint into Word.
+
+[Picture 45361 — switching and carrying — Alt+Tab, and Paint into Word]
 
 ## Say it to your companion
 

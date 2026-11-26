@@ -10,11 +10,15 @@ The keyboard has **settings** of its own, reached through the Control Panel. The
 
 In your mind's eye: the Keyboard settings window — repeat delay and repeat rate sliders and the cursor blink rate.
 
+[Picture 45354 — the Keyboard settings window — repeat delay and repeat rate sliders and the cursor blink rate]
+
 ## Sub lesson 2 — Keyboard layouts — which letters the keys give
 
 The **layout** decides which character each key gives. A layout is the map of a language's letters onto the keys: the English layout puts the letters where the key tops show them, while the Dari layout the book added earlier puts Dari letters on the same keys in Dari's own arrangement. That is why adding a language changed what the keys type without changing any hardware — only the map changed. The lesson's rule: when the wrong letters appear, nothing is broken — check which layout is active on the language bar, and switch the map, not the keyboard.
 
 In your mind's eye: two keyboard layout maps side by side — English letters and Dari letters on the same keys.
+
+[Picture 45355 — two keyboard layout maps side by side — English letters and Dari letters on the same keys]
 
 ## Say it to your companion
 

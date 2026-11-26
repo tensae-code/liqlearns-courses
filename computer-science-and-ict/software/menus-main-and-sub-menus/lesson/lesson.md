@@ -10,11 +10,15 @@ A **menu** is a list of choices the program offers, so you pick a command instea
 
 In your mind's eye: a window's menu bar with the File main menu opened — a list of commands.
 
+[Picture 45356 — a window's menu bar with the File main menu opened — a list of commands]
+
 ## Sub lesson 2 — The sub-menu — a menu inside a menu
 
 Some items in a main menu carry a small **arrow** at their right edge. Pointing at such an item — without clicking — opens a **sub-menu**: a second, smaller list that opens out sideways, offering the choices inside that one item. So a command can be two steps deep: main menu first, then across to the sub-menu, then click the exact command. If you slide off the path, the sub-menu closes and you simply point again.
 
 In your mind's eye: a main menu item with an arrow, its sub-menu opened out sideways.
+
+[Picture 45357 — a main menu item with an arrow, its sub-menu opened out sideways]
 
 ## Say it to your companion
 

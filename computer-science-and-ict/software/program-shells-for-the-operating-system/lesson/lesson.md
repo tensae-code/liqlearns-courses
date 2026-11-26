@@ -10,11 +10,15 @@ A **program shell** (программная оболочка) is a program that 
 
 In your mind's eye: what a program shell is.
 
+[Picture 45368 — what a program shell is]
+
 ## Sub lesson 2 — What shells add
 
 Shells add **speed and sight**: two panels show source and destination together for copying, viewers open a file without its program, and searches and comparisons are one key away. Grade 8 teaches shells at the end of its operating-system chapter — after files and directories — because a shell is only useful to a pupil who already knows what a file operation is.
 
 In your mind's eye: what shells add.
+
+[Picture 45369 — what shells add]
 
 ## Say it to your companion
 

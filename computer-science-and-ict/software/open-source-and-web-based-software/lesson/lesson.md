@@ -10,11 +10,15 @@ open-source software and software that runs on the Internet — code anyone may 
 
 In your mind's eye: open source — the recipe is published.
 
+[Picture 45364 — open source — the recipe is published]
+
 ## Sub lesson 2 — Web-based software — the program lives on the Internet
 
 **Web-based software** (phần mềm chạy trên Internet) is used **through the browser** and runs on a **server**: nothing is installed, the same program and your files meet you from **any machine you sign in on**, and the maker updates it once, for everyone at once. Its costs are the mirror: it needs a **connection**, and your data lives on **someone else's computer**, under their care and their terms. The Grade 11 judgement: installed, open, web-based — each way of reaching software trades control, convenience and trust differently, and the user should know which trade they are making.
 
 In your mind's eye: web-based software — the program lives on the Internet.
+
+[Picture 45365 — web-based software — the program lives on the Internet]
 
 ## Say it to your companion
 
