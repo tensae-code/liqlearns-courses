@@ -10,6 +10,8 @@ the book opens not with the past but with home — the land between the Syr Dary
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39853 — tworivers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1. Uzbekistan — my Homeland — the book opens not with the past but with home — the land between the Syr Darya and Amu Darya, its deserts, mountains and the ancestors who lived there, framed by Abdulla Aripov's poem for the Independence lesson. Then let your companion ask you one hard question about it — answer from the lesson.

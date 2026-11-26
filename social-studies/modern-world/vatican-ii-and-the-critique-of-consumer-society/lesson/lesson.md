@@ -10,11 +10,15 @@ Vatican II opens the Church's windows while youth counterculture (Storia cultura
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39848 — contestation]
+
 ## Sub lesson 2 — Modulo 11 §9 La Chiesa e il Concilio
 
 Vatican II and secularisation (Menozzi), Don Milani's duty not to obey, Populorum Progressio and Boff's liberation theology (Fare storia pieces) — the Church argues with modernity from inside it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39847 — modernity]
 
 ## Say it to your companion
 

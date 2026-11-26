@@ -10,11 +10,15 @@ Congress declares Independence and the national flag is introduced as the daught
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39838 — daughterflag]
+
 ## Sub lesson 2 — The Congress of 1811; a short-lived First Republic
 
 Congress declares independence in 1811, and the First Republic falls within a year to war and earthquake
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39837 — firstrepublic]
 
 ## Say it to your companion
 

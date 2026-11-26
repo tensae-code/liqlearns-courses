@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the northern neighbour
 the northern neighbour across the Amu is surveyed as land and history
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39855 — landhistory]
 ## Sub lesson 2 — Lesson 33: Uzbekistan
 
 the northern neighbour surveyed across the Amu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39854 — acrosstheamu]
 
 ## Say it to your companion
 

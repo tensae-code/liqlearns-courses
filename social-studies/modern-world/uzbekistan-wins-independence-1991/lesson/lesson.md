@@ -10,6 +10,8 @@ perestroika's storms, the Fergana and other tragedies, then on 31 August 1991 Uz
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39852 — independence91]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 50. The anxious years and 51. Winning the long-awaited independence — perestroika's storms, the Fergana and other tragedies, then on 31 August 1991 Uzbekistan declares the independence its heroes had been denied in 1917. Then let your companion ask you one hard question about it — answer from the lesson.

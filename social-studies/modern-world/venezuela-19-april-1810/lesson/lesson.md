@@ -10,11 +10,15 @@ Caracas's city council day becomes a classroom play children write, direct and s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39845 — childrensplay]
+
 ## Sub lesson 2 — When the people said: we do not want him!
 
 On 19 April 1810 Caracas's crowd rejects the captain general — the people, not only the council, open emancipation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39844 — wedontwant]
 
 ## Say it to your companion
 

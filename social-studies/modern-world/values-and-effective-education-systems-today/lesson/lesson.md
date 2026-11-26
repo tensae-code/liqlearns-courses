@@ -10,6 +10,8 @@ the Universal Declaration anchors coexistence; in Finland's schools pupils serve
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39851 — finland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 60: Virtuţi şi valori contemporane. Sisteme educaţionale eficiente — the Universal Declaration anchors coexistence; in Finland's schools pupils serve themselves, tidy their own classrooms and learn teamwork and discipline by self-management. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Venice walls and governs Candia for four centuries; the great Ottoman siege of 1
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39846 — fortress]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Worksheet 1: Heraklion in the Venetian years (sources 1–14) — Venice walls and governs Candia for four centuries; the great Ottoman siege of 1648–1669, the longest of its age, ends Venetian Crete. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ After Gómez dies, López Contreras promises calm, Alberto Adriani urges "sembra
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39843 — sowing]
+
 ## Sub lesson 2 — Children of the strike (complementary reading)
 
 The oil strike is retold through the children who lived it, waiting on fathers who had downed tools
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39842 — waiting]
 
 ## Sub lesson 3 — Between 1936 and 1945 democracy peeks out timidly
 
@@ -22,11 +26,15 @@ After Gómez dies, López Contreras acts as a bridge, parties and unions appear,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39841 — peeksout]
+
 ## Sub lesson 4 — Government of López Contreras
 
 After Gómez, López Contreras opens a cautious transition — February Programme, parties tolerated, oil strike faced
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39840 — transition36]
 
 ## Say it to your companion
 

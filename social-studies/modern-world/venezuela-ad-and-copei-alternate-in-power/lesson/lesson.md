@@ -10,11 +10,15 @@ Two parties alternate in power for decades while oil income rises and falls and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39835 — turns]
+
 ## Sub lesson 2 — First governments of Pérez and Caldera (1969–1979)
 
 Caldera pacifies the guerrillas, Pérez nationalises oil and iron amid the boom — the two-party alternation at its height
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39834 — pacification]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ two rival princes outdo each other in good works — Vasile Lupu's Pravila of 16
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39850 — pravila]
+
 ## Sub lesson 2 — Unitatea III, Lecția 5: Țările Române în prima jumătate a sec. al XVII-lea
 
 Matei Basarab allies with Transylvania's Rákóczi but clashes with Moldavia's Vasile Lupu; in Transylvania Gabriel Bethlen's harsh rule provokes general resistance
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39849 — alliesrivals]
 
 ## Say it to your companion
 

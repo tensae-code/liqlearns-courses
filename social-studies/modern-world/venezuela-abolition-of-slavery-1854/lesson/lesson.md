@@ -10,6 +10,8 @@ Children are asked to feel slavery from inside a family, then meet the Abolition
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39836 — abolition1854]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Stand in the place of the enslaved women's children: abolition — children are asked to feel slavery from inside a family, then meet the Abolition Law signed by José Gregorio Monagas that finally ends it. Then let your companion ask you one hard question about it — answer from the lesson.

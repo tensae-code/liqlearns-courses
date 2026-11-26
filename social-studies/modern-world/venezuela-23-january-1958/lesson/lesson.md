@@ -10,6 +10,8 @@ A civic-military rising ends the dictatorship on 23 January 1958 and a provision
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39839 — goodday]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: A good day: 23 January 1958; the provisional Junta — a civic-military rising ends the dictatorship on 23 January 1958 and a provisional junta steers the country to elections. Then let your companion ask you one hard question about it — answer from the lesson.

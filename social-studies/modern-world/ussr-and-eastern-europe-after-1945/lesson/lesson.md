@@ -15,6 +15,8 @@ the socialist bloc rebuilds from ruins
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39857 — rebuilds]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part II, Lesson 5: II — The USSR and Eastern Europe after WWII — the socialist bloc rebuilds from ruins and becomes one pole of the postwar world; Part II, Lesson 5: II — The USSR and Eastern Europe after WWII — the socialist bloc rebuilds from ruins. Then let your companion ask you one hard question about it — answer from the lesson.
