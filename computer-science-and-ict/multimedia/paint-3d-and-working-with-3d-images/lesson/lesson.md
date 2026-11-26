@@ -10,11 +10,15 @@ Grade 8's image chapter climbs from flat pictures to solid ones. Its tool is Pai
 
 In your mind's eye: paint 3D — objects with depth.
 
+[Picture 46370 — paint 3D — objects with depth]
+
 ## Sub lesson 2 — Practical work — processing 3D images
 
 The practical section turns knowledge into a product: **compose a scene** — choose a background, place objects, set their sizes and depths so nearer objects overlap farther ones, paint surfaces, add 2D stickers and text — then **save and export** the work, including as a flat image for documents. The working order the book drills: plan the scene on paper, place big before small, turn objects to check them from two angles, and keep the file saved as you go — 3D scenes are heavier, and lost work costs more.
 
 In your mind's eye: practical work — processing 3D images.
+
+[Picture 46371 — practical work — processing 3D images]
 
 ## Say it to your companion
 

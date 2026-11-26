@@ -10,11 +10,15 @@ In Audacity every sound sits on its own **track**, and the tracks play **togethe
 
 In your mind's eye: tracks together — each sound on its own line.
 
+[Picture 46366 — tracks together — each sound on its own line]
+
 ## Sub lesson 2 — Balancing the mix — volume, mute and solo
 
 Mixing is **balance**: each track's **volume** is set against the others — music low under speech, speech clear above it. **Mute** silences a track without deleting it; **solo** plays one track alone so it can be checked. The mixer listens to the whole, adjusts one track at a time, and listens again: the mix is finished when every part can be heard as intended, and nothing fights anything else.
 
 In your mind's eye: balancing the mix — volume, mute and solo.
+
+[Picture 46367 — balancing the mix — volume, mute and solo]
 
 ## Say it to your companion
 

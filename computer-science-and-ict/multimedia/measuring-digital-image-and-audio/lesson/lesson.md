@@ -10,11 +10,15 @@ A digital image is a grid of **pixels** — single-colour dots. It is measured b
 
 In your mind's eye: measuring an image — pixels and resolution.
 
+[Picture 46360 — measuring an image — pixels and resolution]
+
 ## Sub lesson 2 — Measuring audio — sample rate and bit depth
 
 Digital audio is measured by how often the sound is sampled and how exactly each sample is kept: the **sample rate** counts samples per second in **hertz (Hz)** — CD audio uses 44,100 Hz — and the **bit depth** counts the bits kept per sample. Duration is measured in seconds as usual. Together, sample rate × bit depth × seconds gives the audio's data size — the measuring units of this lesson are the factors of every audio file-size sum that follows.
 
 In your mind's eye: measuring audio — sample rate and bit depth.
+
+[Picture 46361 — measuring audio — sample rate and bit depth]
 
 ## Say it to your companion
 

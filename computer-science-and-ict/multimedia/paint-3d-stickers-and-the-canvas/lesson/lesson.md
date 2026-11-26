@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **§§3.10.6–3.10.7 Use image st
 
 In your mind's eye: §§3.10.6–3.10.7 Use image stickers; The canvas.
 
+[Picture 46376 — §§3.10.6–3.10.7 Use image stickers; The canvas]
+
 ## Sub lesson 2 — Doing it — Paint 3D Stickers and the Canvas in practice
 
 **Doing it — Paint 3D Stickers and the Canvas in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Paint 3D Stickers and the Canvas in practice.
+
+[Picture 46377 — doing it — Paint 3D Stickers and the Canvas in practice]
 
 ## Say it to your companion
 

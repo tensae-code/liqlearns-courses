@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **§§3.9.1–3.9.2 Brushes; Creat
 
 In your mind's eye: §§3.9.1–3.9.2 Brushes; Creating 2D shapes.
 
+[Picture 46372 — §§3.9.1–3.9.2 Brushes; Creating 2D shapes]
+
 ## Sub lesson 2 — Doing it — Paint 3D Brushes and Creating 2d Shapes in practice
 
 **Doing it — Paint 3D Brushes and Creating 2d Shapes in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Paint 3D Brushes and Creating 2d Shapes in practice.
+
+[Picture 46373 — doing it — Paint 3D Brushes and Creating 2d Shapes in practice]
 
 ## Say it to your companion
 

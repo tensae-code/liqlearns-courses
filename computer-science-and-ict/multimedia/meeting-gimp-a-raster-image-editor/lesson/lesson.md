@@ -10,11 +10,15 @@ Grade 8's image chapter ends with the professional's free tool. GIMP edits raste
 
 In your mind's eye: gIMP — the window and the toolbox.
 
+[Picture 46364 — gIMP — the window and the toolbox]
+
 ## Sub lesson 2 — Layers and practical raster work
 
 GIMP's central idea is the **layer**: the image is a stack of transparent sheets, each holding part of the picture, edited without touching the others — text on its own layer, a pasted photo on another. The practical section drills the raster crafts: **open and crop** a photo, **correct** its colours, **erase and retouch** a flaw, **compose** layers into one picture, and **save** in the working format (keeping layers) versus **export** flat (PNG, JPEG) for use. Layer discipline — name layers, edit the right one — is the practical's real syllabus.
 
 In your mind's eye: layers and practical raster work.
+
+[Picture 46365 — layers and practical raster work]
 
 ## Say it to your companion
 
