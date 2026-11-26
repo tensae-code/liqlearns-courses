@@ -10,6 +10,8 @@ from reason of state to the European balance; Talleyrand, the bishop turned dipl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63131 — no prince stronger]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §22: Diplomaţia europeană — from reason of state to the European balance; Talleyrand, the bishop turned diplomat, holds that no prince must be left stronger than the rest. Then let your companion ask you one hard question about it — answer from the lesson.

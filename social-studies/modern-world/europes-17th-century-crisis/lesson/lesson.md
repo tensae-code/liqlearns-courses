@@ -10,11 +10,15 @@ population dips, harvests shrink in a colder century and Mediterranean Europe st
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63143 — one declines one grows]
+
 ## Sub lesson 2 — L'Italia dopo Cateau-Cambrésis; Industria e commercio nel '600; Il settore agricolo; Le rivolte
 
 Spanish Italy stagnates, revolts shake Naples and the provinces, and the peninsula's primacy passes north
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63144 — primacy passes north]
 
 ## Say it to your companion
 

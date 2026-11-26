@@ -10,6 +10,8 @@ Dawes money, Locarno handshakes and a recovering economy paper over the cracks; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63147 — paper over the cracks]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 2, Cap. 6 §5 Political and economic stabilisation in Europe — Dawes money, Locarno handshakes and a recovering economy paper over the cracks; Lodge's isolationists (Document) keep America out of the League that was supposed to hold the peace. Then let your companion ask you one hard question about it — answer from the lesson.

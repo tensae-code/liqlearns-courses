@@ -10,6 +10,8 @@ colonialism is defined as a strong state draining weaker lands, and its goals ar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63126 — goals and results]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Goals of European colonialism and its results (Unit 1 Lesson 3) — colonialism is defined as a strong state draining weaker lands, and its goals are listed — markets, raw materials and oil, strategic coasts, missionaries; its results in the Arab homeland are aborted independence, aborted development and a dependence that becomes the new colonialism, while Africa gets geometric borders, client states and a debt trap. Then let your companion ask you one hard question about it — answer from the lesson.

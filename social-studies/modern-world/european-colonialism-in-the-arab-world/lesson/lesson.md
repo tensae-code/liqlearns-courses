@@ -10,11 +10,15 @@ Pope Alexander VI splits the world between Spain and Portugal in 1493; the Arab 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63127 — algiers falls 1830]
+
 ## Sub lesson 2 — Lesson 3: colonialism in the Arab homeland after the First World War
 
 France works to erase Arabic in the Maghreb, seizes the awqaf and fans Arab against Berber; Italy whispers "peaceful penetration" over Libya; in the East, Britain issues the Balfour Declaration on 2 November 1917 promising a Jewish national home in a Palestine it does not own; Damascus answers with the Syrian General Congress of March 1920 crowning Faysal king of a united Syria — and San Remo tears the country into mandates, France splitting Syria into statelets and handing Alexandretta to Turkey in 1939
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63128 — torn into mandates]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Keynes' Economic Consequences of the Peace (the unit's book study) warns that a 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63148 — keynes warns]
+
 ## Sub lesson 2 — Modulo 1, Cap. 2 §§1–3 Le conseguenze economiche della guerra; I mutamenti nella vita sociale; Stati nazionali e minoranze
 
 inflation (the module's keyword), broken finances and new nation-states whose minorities Mazower's Fare storia piece counts — the peace creates as many problems as it settles
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63149 — as many problems as it settles]
 
 ## Say it to your companion
 

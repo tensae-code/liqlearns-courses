@@ -10,6 +10,8 @@ former enemies pool coal, steel, then markets — Europe unites to make war impo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63137 — to make war impossible]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §8 European integration; the OSCE — former enemies pool coal, steel, then markets — Europe unites to make war impossible. Then let your companion ask you one hard question about it — answer from the lesson.

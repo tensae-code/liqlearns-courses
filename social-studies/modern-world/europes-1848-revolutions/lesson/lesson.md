@@ -10,11 +10,15 @@ revolution sweeps capital after capital in 1848 as liberalism, nationalism and s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63145 — capital after capital]
+
 ## Sub lesson 2 — §7.1 Which political ideas influenced the revolutions in Europe in 1848?
 
 liberal, national and socialist ideas each claim the barricades of 1848
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63146 — three ideas one barricade]
 
 ## Say it to your companion
 

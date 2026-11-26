@@ -14,6 +14,8 @@ No living whale in the open sea was hunted. That is the first half of the story:
 
 In your mind's eye: a whale swimming beside a Pacific island, with a chief's necklace of whale teeth beside it. Point to the necklace and say what part of the whale it came from and how that whale was obtained.
 
+[Picture 63142 — only what the sea stranded]
+
 ## Sub lesson 2 — The whaling fleets come
 
 Then the Europeans came — in the reader's telling, North American whaling fleets reached Tonga in the 1890s.

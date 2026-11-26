@@ -10,6 +10,8 @@ armed with Arab navigation science, the compass, the astrolabe and Islamic maps,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63133 — the circle of the earth]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The European geographical discoveries — armed with Arab navigation science, the compass, the astrolabe and Islamic maps, and hungry to reach India and China without Muslim middlemen and their prices, Portugal and Spain sail out — Henry the Navigator feeling down Africa's coast, Dias rounding the Cape of Storms, da Gama reaching Calicut, Columbus crossing to a world he dies believing is India, Vespucci's name given to the Americas, Magellan's men completing the circle of the earth the Muslims had already proved on paper — followed by Cabot, Cook and the French and Dutch, until discovery hardens into colonisation, the slave trade, and the wiping out of whole peoples. Then let your companion ask you one hard question about it — answer from the lesson.

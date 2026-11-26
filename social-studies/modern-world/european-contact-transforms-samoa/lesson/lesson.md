@@ -10,6 +10,8 @@ consuls arrive in the 1840s, settlers build their own courts and administrations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63130 — land sold for guns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 1, Unit 4, political and economic change — consuls arrive in the 1840s, settlers build their own courts and administrations, rival Malietoa governments fight for a kingship the foreigners feed with guns — and customary land is sold to pay for the weapons; Apia grows into a port town of hotels and shops while Godeffroy's plantations export copra to Europe. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,17 +10,23 @@ coal and steel first, then a common market, a single market and a single currenc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63134 — rivals grow together]
+
 ## Sub lesson 2 — Greece and Europe's unification; Greece as an EU member state
 
 Greece joins in 1981, struggles to keep up, adopts the euro and argues over what membership costs and gives
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63135 — greece and the euro]
+
 ## Sub lesson 3 — The road to European unification: realities and prospects
 
 from the Coal and Steel Community to the European Union — former enemies pool sovereignty piece by piece
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63136 — sovereignty piece by piece]
 
 ## Say it to your companion
 

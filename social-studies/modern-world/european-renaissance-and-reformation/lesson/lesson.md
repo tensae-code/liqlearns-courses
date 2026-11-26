@@ -10,11 +10,15 @@ Italy, living next door to the flourishing Arab civilisation of Spain, Sicily an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63139 — europe climbs out]
+
 ## Sub lesson 2 — Manifestations of the modern European renaissance (Unit 1 Lesson 1)
 
 Europe climbs out of its medieval darkness over three centuries, drawing on the Arab Islamic civilisation through al-Andalus, Sicily and Iraq; printing breaks the clergy's grip on knowledge, feudalism dissolves as cities and banks rise, national kingdoms form, Luther splits the Church, and gunpowder armies replace the feudal levy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63140 — printing breaks the grip]
 
 ## Say it to your companion
 
