@@ -26,11 +26,15 @@ Hera, Athena, Aphrodite and the other goddesses take their places and powers bes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60715 — goddesses places and powers]
+
 ## Sub lesson 4 — Unit 1, ch. 4 Prometheus, Pandora, Deucalion and Pyrrha
 
 Prometheus steals fire for humans and is chained, Pandora opens the jar of evils, and Deucalion and Pyrrha survive the flood to remake humankind from stones
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60716 — prometheus pandora flood]
 
 ## Sub lesson 5 — Unit 1, ch. 1 Titanomachy exercises
 
@@ -38,11 +42,15 @@ children trace everyday words back to Titan and god names, re-entering the war o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60717 — words from the war board]
+
 ## Sub lesson 6 — Unit 1, ch. 2 Gods of Olympus exercises
 
 pupils reconstruct a day of feasting and quarrelling on Olympus from the chapter's readings
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60718 — a day on Olympus]
 
 ## Sub lesson 7 — Unit 1, ch. 3 Goddesses of Olympus exercises
 
@@ -50,17 +58,23 @@ matching each god to symbols and realms drills how Greeks pictured divine power
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60719 — match goddess to sign]
+
 ## Sub lesson 8 — Unit 1, ch. 4 Prometheus/Pandora exercises
 
 reading Prometheus's defiance of Zeus, pupils judge whether stealing fire for humans was worth his punishment
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60720 — prometheus weighed]
+
 ## Sub lesson 9 — Unit 1 revision lesson
 
 matching and gap-fill revision binds the creation stories into one family tree of gods and humans
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60721 — one family tree]
 
 ## Say it to your companion
 
