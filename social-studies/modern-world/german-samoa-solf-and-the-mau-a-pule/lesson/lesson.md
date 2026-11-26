@@ -10,6 +10,8 @@ Governor Solf (1900) abolishes the Tupu, installs Mataafa as Ali'i Sili, rewrite
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63349 — a voice exiled]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 2, Unit 4, first half — Governor Solf (1900) abolishes the Tupu, installs Mataafa as Ali'i Sili, rewrites the fa'alupega to honour the Kaiser, and blocks the Sāmoan-owned Oloa copra company; orator Lauaki Mamoe petitions for a Sāmoan voice, and Solf exiles him and his supporters' families to Saipan — Lauaki dies at sea in 1915 on the ship finally bringing him home. Then let your companion ask you one hard question about it — answer from the lesson.

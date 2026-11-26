@@ -10,6 +10,8 @@ Germany's republican century — division and reunification
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63351 — division and reunification]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 41: The Republic of Germany — Germany's republican century — division and reunification. Then let your companion ask you one hard question about it — answer from the lesson.

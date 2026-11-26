@@ -10,11 +10,15 @@ the Young Turks' destruction of the Armenians in 1915 — the Mets Yeghern — b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63343 — the word and the failing]
+
 ## Sub lesson 2 — Programme Theme 4: Problems of all mankind
 
 genocide heads the theme's content list, ahead of terrorism, trafficking, cybercrime and environmental problems
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63344 — first on the list]
 
 ## Say it to your companion
 

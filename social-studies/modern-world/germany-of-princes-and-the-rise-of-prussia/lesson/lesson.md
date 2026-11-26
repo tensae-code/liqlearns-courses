@@ -10,6 +10,8 @@ hundreds of German states drift under Habsburg shadow while Prussia drills itsel
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63354 — prussia drills itself up]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §17 The German empire in the 16th–18th centuries — hundreds of German states drift under Habsburg shadow while Prussia drills itself into a great power — the unification question is set. Then let your companion ask you one hard question about it — answer from the lesson.

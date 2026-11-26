@@ -10,6 +10,8 @@ markets with a social cushion — the German model is dissected
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63355 — markets with a cushion]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §20 The features of the social-market economy in Germany — markets with a social cushion — the German model is dissected. Then let your companion ask you one hard question about it — answer from the lesson.

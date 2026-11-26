@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: "we do not inherit the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63363 — for future generations]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 58: Consecinţele problemelor globale şi modalităţi de supravieţuire a omenirii — "we do not inherit the Earth from our ancestors"; UNEP is founded to protect the environment for future generations, yet some 800 million people still suffer malnutrition. Then let your companion ask you one hard question about it — answer from the lesson.

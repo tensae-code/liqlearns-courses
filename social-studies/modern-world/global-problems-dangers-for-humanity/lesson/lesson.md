@@ -10,6 +10,8 @@ chemical and biological weapons threaten; radioactive waste costs $160 a tonne t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63362 — dangers priced]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 57: Problemele globale: pericole pentru omenire — chemical and biological weapons threaten; radioactive waste costs $160 a tonne to eliminate, and by 2050 over 2 billion people will be old. Then let your companion ask you one hard question about it — answer from the lesson.

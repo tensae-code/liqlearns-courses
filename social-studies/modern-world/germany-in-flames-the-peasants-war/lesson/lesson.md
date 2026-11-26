@@ -10,6 +10,8 @@ in 1524–25 Germany's peasants turn gospel freedom into twelve articles and rev
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63350 — twelve articles massacre]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §4 The Peasants' War in Germany (second part of the section) — in 1524–25 Germany's peasants turn gospel freedom into twelve articles and revolt; Müntzer leads and the princes' armies answer with massacre. Then let your companion ask you one hard question about it — answer from the lesson.

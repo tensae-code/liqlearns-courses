@@ -10,6 +10,8 @@ the survey closes in the child's own century — ecology, terror and war as prob
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63361 — no country solves alone]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 55. The global problems of humanity and 56. The struggle for peace is necessary — the survey closes in the child's own century — ecology, terror and war as problems no country solves alone, and peace as something that must be fought for. Then let your companion ask you one hard question about it — answer from the lesson.

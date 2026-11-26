@@ -10,11 +10,15 @@ Kohl unifies Germany — economic union on 1 July 1990, proclamation on 3 Octobe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63352 — three postwar paths]
+
 ## Sub lesson 2 — Tema 31: Fenomenul miracolului economic: Germania şi Japonia
 
 West Germany's "social market economy" refuses direct regulation; Japan's ruined cities rise on kaisha foundations until the Nissan Sunny becomes the 1960s middle-class symbol
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63353 — the economic miracle]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ supply chains planet-wide lift Asia's new protagonists and transform Latin Ameri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63365 — indicted from the south]
+
 ## Sub lesson 2 — Modulo 15 §§3–5 Economia globale e finanza internazionale; Il governo dell'economia mondiale e la tutela dell'ambiente; I nuovi lavori: flessibilità e delocalizzazione
 
 Seattle's battle (Eventi) names the opposition; multinationals (keyword), post-Fordism (Focus) and delocalised work remake the economy while its government lags

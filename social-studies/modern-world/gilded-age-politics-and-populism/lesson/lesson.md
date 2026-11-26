@@ -10,6 +10,8 @@ Corruption and patronage dominated postbellum politics: jobs and contracts hande
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 63357 — what the glitter covered]
+
 ## Sub lesson 2 — The tariff and gold questions divide the parties
 
 Two questions divided the parties for a generation: the tariff — taxing imports to protect industry — and gold: whether money should be gold alone or silver too. Behind both stood a real fight over who the economy was run for.

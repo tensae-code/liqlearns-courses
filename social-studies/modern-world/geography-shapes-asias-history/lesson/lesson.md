@@ -10,11 +10,15 @@ Himalaya, plateaus, steppes and seas set the stage — geographic determinism, f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63345 — the stage sets the story]
+
 ## Sub lesson 2 — Geographic systems of Asia and the Pacific / Role of geographical systems on development and relationships in Asia / Impact of industries in Asia
 
 Mountains raise cultures in heavy clothing at altitude while river valleys fill with people; Southeast Asia's volcanic soils feed millions as logging and colonisation projects clear the forests and turn shifting agriculture into farms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63346 — valleys fill forests fall]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Migration touches every state in a globalising world — people cross borders fo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63359 — weighed cost against benefit]
+
 ## Sub lesson 2 — Intercultural migration
 
 Migrants remake the developed world — east-to-west flows inside Europe, Middle East conflict and African poverty pushing outward, the US, Argentina and Brazil built on immigrants, and Germany asking how long before a newcomer belongs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63360 — how long before belonging]
 
 ## Say it to your companion
 
