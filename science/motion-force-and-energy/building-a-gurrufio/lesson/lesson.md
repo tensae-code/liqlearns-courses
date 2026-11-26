@@ -9,7 +9,11 @@ The **gurrufío** is a traditional Venezuelan toy: a disc threaded on a string. 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38795 — building a gurrufío the parts]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[GIF 38796 — pulling the string sets the disc]
 
 ## Sub lesson 2 — Who supplies its energy?
 

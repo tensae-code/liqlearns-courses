@@ -9,7 +9,11 @@ Syria's Grade 6 book opens with a question from the farm: the farmer's cart is l
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38830 — who does the moving]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38831 — what 'work' means in science]
 
 ## Sub lesson 2 — Work — a force that moves a thing
 

@@ -11,7 +11,11 @@ Meeting the unit inside the energy unit, as Costa Rica's book does, fixes it bef
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38806 — the joule the unit of energy]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38807 — energy amounts are counted in joules]
 
 ## Sub lesson 2 — Calories — the energy in food
 

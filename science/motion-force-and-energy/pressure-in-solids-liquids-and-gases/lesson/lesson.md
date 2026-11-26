@@ -9,7 +9,11 @@ Fiji's Year 7 Basic Science book teaches **pressure together with force**: a for
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38817 — pressure force on an area]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38818 — same weight different area different sinking]
 
 ## Sub lesson 2 — Pressure in solids, liquids and gases
 

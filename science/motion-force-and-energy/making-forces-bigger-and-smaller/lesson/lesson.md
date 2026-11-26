@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "How a force can be change
 
 In your mind's eye: how a force can be changed as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38810 — how a force can be changed]
+
 ## The key ideas
 
 - How a force can be changed — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

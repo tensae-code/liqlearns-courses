@@ -9,7 +9,11 @@ Every journey happens in one of three places: on the **land**, on or in the **wa
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38811 — three places to travel]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38812 — classifying the means of transport]
 
 ## Sub lesson 2 — Land, water and air
 

@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "How to determine the dire
 
 In your mind's eye: how to determine the direction in which a force acts as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38821 — determining a force's direction]
+
 ## The key ideas
 
 - How to determine the direction in which a force acts — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

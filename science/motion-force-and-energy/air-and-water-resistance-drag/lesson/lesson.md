@@ -9,7 +9,11 @@ Anything moving through air must push the air aside, and the air pushes back. Th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38786 — air resistance the air pushes back]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38787 — the drop test proves air resistance]
 
 ## Sub lesson 2 — Water resistance — the water pushes back harder
 

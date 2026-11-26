@@ -9,7 +9,11 @@ Papua New Guinea's Standards Based Grade 8 guide opens its Work and Power lesson
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38828 — what work is in physics]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38829 — pushing without moving does no work]
 
 ## Sub lesson 2 — Units of work — and calculating it
 

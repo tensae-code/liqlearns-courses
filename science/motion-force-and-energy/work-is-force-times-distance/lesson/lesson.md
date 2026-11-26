@@ -9,7 +9,11 @@ Ch.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38832 — work is force times distance]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38833 — more distance more work]
 
 ## Sub lesson 2 — Work
 

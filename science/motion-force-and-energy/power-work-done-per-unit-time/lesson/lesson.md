@@ -9,7 +9,11 @@ Eritrea's Grade 7 book closes its work-and-energy run with **power** (printed p.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38813 — power same work different time]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38814 — the faster worker is the more]
 
 ## Sub lesson 2 — Counting power — work divided by time
 

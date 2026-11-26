@@ -9,7 +9,11 @@ Malaysia's Form 4 book teaches that **more than 30 countries use nuclear energy,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38819 — fission and fusion]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38820 — nuclear energy at work]
 
 ## Sub lesson 2 — Malaysia's reactor, the impacts, and the debate
 

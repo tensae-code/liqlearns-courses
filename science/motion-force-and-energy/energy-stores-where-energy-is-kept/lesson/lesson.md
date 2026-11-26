@@ -9,7 +9,11 @@ Energy is not always on the move. Very often it is **kept** — held in a **stor
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38808 — where energy is kept the stores]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38809 — stores release their energy]
 
 ## Sub lesson 2 — Stored energy waiting to be released — the experiments
 

@@ -9,7 +9,11 @@ Fiji's Year 4 Teacher Resource opens the idea with a **balancing parrot**: a fig
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38799 — the balancing parrot]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38800 — the parrot rights itself]
 
 ## Sub lesson 2 — The balancing ruler — the centre of gravity
 

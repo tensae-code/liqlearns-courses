@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "How Archimedes' law was d
 
 In your mind's eye: how Archimedes' law was discovered as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38788 — how archimedes' law was discovered]
+
 ## Sub lesson 2 — What the buoyant force is
 
 Kazakhstan's books teach this as their own lesson — "What the buoyant force is". The learner works through the books' own presentation of what the buoyant force is — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: what the buoyant force is as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38789 — what the buoyant force is]
 
 ## Sub lesson 3 — How Archimedes' law acts in air
 
@@ -21,17 +25,23 @@ Kazakhstan's books teach this as their own lesson — "How Archimedes' law acts 
 
 In your mind's eye: how Archimedes' law acts in air as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38790 — archimedes' law acts in air]
+
 ## Sub lesson 4 — How Archimedes' law is applied
 
 Kazakhstan's books teach this as their own lesson — "How Archimedes' law is applied". The learner works through the books' own presentation of how Archimedes' law is applied — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: how Archimedes' law is applied as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38791 — how archimedes' law is applied]
+
 ## Sub lesson 5 — What is buoyant force
 
 Kazakhstan's books teach this as their own lesson — "What is buoyant force". The learner works through the books' own presentation of what is buoyant force — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: what is buoyant force as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38792 — buoyant force measured by weighing]
 
 ## The key ideas
 

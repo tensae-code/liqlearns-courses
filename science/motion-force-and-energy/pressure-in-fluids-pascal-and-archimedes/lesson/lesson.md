@@ -11,7 +11,11 @@ The deeper you go in a fluid, the greater the pressure, because the fluid above 
 
 In your mind's eye: a diver going deeper in a lake with pressure arrows growing longer with depth, beside a floating block pushing water aside. Say which picture shows which idea before reading on.
 
+[Picture 38815 — pressure with depth and water pushed]
+
 In your mind's eye: a closed tube of water being squeezed at one end and a bulb at the far end swelling. Say how the push travelled.
+
+[Picture 38816 — a squeeze travels through the water]
 
 ## Sub lesson 2 — Pascal's and Archimedes' principles
 

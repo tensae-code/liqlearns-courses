@@ -9,7 +9,11 @@ Keeping the balance: a wooden paddle balanced on a finger with clothespins at bo
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38793 — keeping the balance the paddle]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38794 — torque and the catapult contest]
 
 ## The key ideas
 

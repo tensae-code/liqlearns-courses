@@ -15,7 +15,11 @@ Energy is not a thing you can hold in your hand like a stone. You **notice it by
 
 In your mind's eye: a child standing outside at morning, sun on one side, a lamp, a drum and a rolling ball around. The student points to each one and says what it does.
 
+[Picture 38804 — noticing energy around us]
+
 In your mind's eye: a ball rolling, a lamp switching on, hands clapping. Name what changed in each one.
+
+[Picture 38805 — what changed in each one]
 
 ## Sub lesson 2 — Energy in the materials around us
 

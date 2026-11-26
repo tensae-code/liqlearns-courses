@@ -8,6 +8,8 @@ Kenya's Grade 8 Integrated Science book spends a whole strand turning one form o
 
 In your mind's eye: every energy transformation that serves us can also harm us — burns from heat, shock from electricity, damage from loud sound — and each danger has its own safety measures, which are part of using the energy at all. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38803 — dangers of energy and staying safe]
+
 ## The key facts
 **Heat transforms — and burns.** Appliances that turn electricity into heat — cookers, irons, heaters — can burn skin, scorch materials and start fires. The safety measures match the danger: keep flammables away, never leave heating appliances unwatched, switch off after use, and treat every hot surface as able to burn until it has cooled.
 

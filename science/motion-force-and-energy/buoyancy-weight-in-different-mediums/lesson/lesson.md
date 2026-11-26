@@ -9,7 +9,11 @@ Fiji's Year 8 Basic Science book weighs objects first in the medium we live in: 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38797 — weight in air the known weight]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38798 — weight changes with the medium]
 
 ## Sub lesson 2 — Weight in water and in oil
 

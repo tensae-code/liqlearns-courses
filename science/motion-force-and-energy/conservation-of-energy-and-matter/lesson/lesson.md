@@ -11,7 +11,11 @@ That is why a careful weighing before and after a change balances: what seems to
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38801 — conservation of matter the set-up]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38802 — weighing before and after it balances]
 
 ## Sub lesson 2 — The law for energy — nothing is lost
 

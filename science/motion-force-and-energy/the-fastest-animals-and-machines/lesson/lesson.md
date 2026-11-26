@@ -9,6 +9,8 @@ How people chased speed: legs, then the caught horse, then cars that at first ba
 
 In your mind's eye: the fastest animals and machines as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38822 — the fastest animals and machines]
+
 ## The key ideas
 
 - How people chased speed: legs, then the caught horse, then cars that at first barely outran horses; the animal speed table (cheetah, lion, antelope) with Kazakhstan's own champion, the saiga, covering 80 km in an hour, and the baiga horse races
