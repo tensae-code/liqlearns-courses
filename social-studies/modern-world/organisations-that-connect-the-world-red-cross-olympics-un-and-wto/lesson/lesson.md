@@ -10,6 +10,8 @@ a knitted world needs referees — the Red Cross (1863) for war's wounded, the r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40835 — worldreferees]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3: the organisations of a connected world — a knitted world needs referees — the Red Cross (1863) for war's wounded, the revived Olympics (1896) for peaceful rivalry, then the UN, UNESCO, UNICEF and the WTO for a planet that trades and argues in minutes. Then let your companion ask you one hard question about it — answer from the lesson.

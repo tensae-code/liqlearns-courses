@@ -10,6 +10,8 @@ State after state intervenes to escape the Depression, learning that producing w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40827 — withoutbuyers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Attempts to overcome the crisis — state after state intervenes to escape the Depression, learning that producing without buyers ends in ruin. Then let your companion ask you one hard question about it — answer from the lesson.

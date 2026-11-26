@@ -12,6 +12,8 @@ The Treaty of Lausanne, 24 July 1923, wins the peace and the world's recognition
 
 In your mind's eye: the Lausanne conference table in 1923 — the Turkish delegation facing the powers across the long table, the treaty document between them. The student points to the document and says what its signatures recognise.
 
+[Picture 40828 — twosignatures]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: The Mudanya Armistice and the Lausanne Peace Treaty. Then let your companion ask you one hard question about it — answer from the lesson.

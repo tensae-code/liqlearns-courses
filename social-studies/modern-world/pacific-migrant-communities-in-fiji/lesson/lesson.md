@@ -10,6 +10,8 @@ An extensive network of migrant communities scatters across the Pacific and land
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40818 — peopleslandfiji]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Pacific Islander migrant communities in Fiji. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ after 1538 the Porte rules indirectly — tribute (haraciu) and gifts rise year 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40829 — tributeclimbs]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea III, Lecția 2: Suzeranitatea otomană în Țările Române — after 1538 the Porte rules indirectly — tribute (haraciu) and gifts rise year by year, the prince must be "friend of the friends and enemy of the enemies" of the empire, and peasant households are ruined. Then let your companion ask you one hard question about it — answer from the lesson.

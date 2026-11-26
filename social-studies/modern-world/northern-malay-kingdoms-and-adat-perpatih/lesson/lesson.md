@@ -10,11 +10,15 @@ The northern kingdoms deal with their Malay neighbours and leave a living herita
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 40838 — kitesandshadows]
+
 ## Sub lesson 2 — Negeri Sembilan's Adat Perpatih
 
 Minangkabau migrants settle Rembau, Sungai Ujong, Johol and Naning bringing Adat Perpatih, the matrilineal custom: descent and inheritance run through the mother, a husband joins his wife's suku as orang semenda, and the people — Perut, Suku and Luak — appoint their adat chiefs (Ibu Soko, Buapak, Lembaga), whose four Undang elect the Yamtuan Besar (Bab 9.2: Negeri Sembilan's Adat Perpatih)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 40837 — mothersline]
 
 ## Say it to your companion
 

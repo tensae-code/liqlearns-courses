@@ -10,17 +10,23 @@ Britain settles Australia in 1788 and the invasion spreads — whalers, then com
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40825 — invasionspreads]
+
 ## Sub lesson 2 — Colonizers' cultures in the Pacific
 
 Colonisers bring a whole way of life — administration and mission stations, schools, new clothes for "naked" natives, ancestral worship branded pagan, and a new language, Tok Pisin, born from the contact itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40824 — newtongue]
+
 ## Sub lesson 3 — Economic factors and colonization
 
 The coloniser's shopping list — raw materials, gold, silver, land, spices, captive markets and cheap labour — and the bill: a widening economic gap between coloniser and colony that outlives the flags
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40823 — shoppinglistbill]
 
 ## Say it to your companion
 

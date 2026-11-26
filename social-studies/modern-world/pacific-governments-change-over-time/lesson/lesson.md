@@ -10,6 +10,8 @@ Governments mutate — traditional systems, colonial rule, then reorganised part
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40821 — chiefstoelections]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Change of governments over time in the Pacific Region / Election processes in the Pacific Region — governments mutate — traditional systems, colonial rule, then reorganised participation: Samoa's Legislative Council majority in 1947, French territories' autonomy in 1956, Western Samoa first to independence in 1962; elections every five years now make and unmake Pacific governments, with coups in Fiji and crises in Vanuatu and Solomon Islands as the exceptions that test the rule. Then let your companion ask you one hard question about it — answer from the lesson.

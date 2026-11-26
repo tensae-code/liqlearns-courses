@@ -10,11 +10,15 @@ Power also sits outside parliaments — Bainimarama returning Fiji to the Pacifi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40820 — poweroutside]
+
 ## Sub lesson 2 — Promoters and sustainers of change in the Pacific Region
 
 Queen Emma Forsyth's copra plantations reshape the New Guinea Islands under German rule and the plantation economy outlives her by a century; in Fiji, Sitiveni Rabuka becomes the Pacific's first coup leader
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40819 — plantationscentury]
 
 ## Say it to your companion
 

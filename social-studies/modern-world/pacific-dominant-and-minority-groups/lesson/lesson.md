@@ -10,6 +10,8 @@ In Australia, Guam, Hawaii, New Caledonia and New Zealand the indigenous islande
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40822 — minoritiesathome]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dominant and minority groups in the Pacific — in Australia, Guam, Hawaii, New Caledonia and New Zealand the indigenous islanders are minorities in their own homelands; US bases in the Marshalls, Guam and Hawaii stall Palau's decolonisation for nearly twenty years — while most Pacific islands remain indigenous-majority. Then let your companion ask you one hard question about it — answer from the lesson.
