@@ -2487,6 +2487,30 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 38887 | pictures/38887.webp | Uses of common elements and compounds — drawn render, Photos+GIFs front 2026-11-26 | Science — Chemistry, Uses of common elements and compounds |
 | 38888 | pictures/38888.webp | Oxygen and its sure test — drawn render, Photos+GIFs front 2026-11-26 | Science — Chemistry, Oxygen — its properties and tests |
 | 38889 | pictures/38889.webp | The volume of a gas — drawn render, Photos+GIFs front 2026-11-26 | Science — Physics, Measuring the volume of a gas |
+| 38914 | pictures/38914.webp | The gifts of the Bachwezi — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Bachwezi and the Chwezi empire |
+| 38915 | pictures/38915.webp | What the Bachwezi taught — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Bachwezi and the Chwezi empire |
+| 38916 | pictures/38916.webp | The Bachwezi dynasty at home — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Bachwezi and the Chwezi empire |
+| 38917 | pictures/38917.webp | Bantu newcomers meet Gabon's first peoples — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Bantu migrations |
+| 38918 | pictures/38918.webp | The Baqt treaty — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Baqt — the treaty between Nubia and the Muslims |
+| 38919 | pictures/38919.webp | Faiths reach Eritrea across the sea — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Beja kingdoms and Dahlak |
+| 38920 | pictures/38920.webp | Early humans tame fire — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The conquest of fire |
+| 38921 | pictures/38921.webp | How the Funj state worked — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Funj sultanate of Sennar |
+| 38922 | pictures/38922.webp | Luo speakers move to the lakes — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Luo migrations and the Biito dynasty |
+| 38923 | pictures/38923.webp | Settling by the lakes — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Luo migrations and the Biito dynasty |
+| 38924 | pictures/38924.webp | The Luo family of peoples — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Luo migrations and the Biito dynasty |
+| 38925 | pictures/38925.webp | The Mutapa empire rises — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Mutapa Empire |
+| 38926 | pictures/38926.webp | The Mwenemutapa state's reach — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Mutapa Empire |
+| 38927 | pictures/38927.webp | The Taqali kingdom of the hills — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Taqali kingdom of the Nuba hills |
+| 38928 | pictures/38928.webp | Wanga: Kenya's one kingdom — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Wanga kingdom of western Kenya |
+| 38929 | pictures/38929.webp | One organised state in Kenya — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Wanga kingdom of western Kenya |
+| 38930 | pictures/38930.webp | The Wolof empire unites five states — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, The Wolof and Fula states of Senegambia |
+| 38931 | pictures/38931.webp | Traditional justice: the Oput drink — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, Traditional justice and conflict resolution in East Africa |
+| 38932 | pictures/38932.webp | Uganda's origin legends — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, Uganda's origin legends — Kintu, Mundu and Gipir |
+| 38933 | pictures/38933.webp | From lineages to states — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, What a state is — from lineages to states |
+| 38934 | pictures/38934.webp | The Bantu migration into Zimbabwe — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, Zimbabwe's early people — the Khoisan and the Bantu migration |
+| 38935 | pictures/38935.webp | Motherhood and fatherhood, pre-colonial — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, Zimbabwe — family life before the colony |
+| 38936 | pictures/38936.webp | Mutapa, Rozvi and the Ndebele state — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, Zimbabwe's pre-colonial states — Mutapa, Rozvi and the Ndebele |
+| 38937 | pictures/38937.webp | Totems, clans and family names — drawn render, Photos+GIFs front 2026-11-26 | Social Studies — Africa to 1500, Zimbabwe — totems, clans and family names |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |
@@ -8859,3 +8883,14 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45127 | pictures/45127.webp | a drawn diagram — the five stages of data processing in order: collect, input, process, output, store | ICT — First Steps — Stages of Data Processing — Collection to Storage |
 | 45128 | pictures/45128.webp | a drawn diagram — the class register walked through five steps: collect the names, write them down, count them, report the total, keep the book safe | ICT — First Steps — Stages of Data Processing — Collection to Storage |
 | 45129 | pictures/45129.webp | a drawn diagram — a child remembering a friend's face in a thought bubble, beside a table holding a book, a sheet of paper and a photograph | ICT — First Steps — Storing Information — Memory and Carriers |
+| 45130 | pictures/45130.webp | a drawn diagram — a cat beside its property table: size, coat, voice, habits — the object as its model | ICT — First Steps — The Information Model of an Object |
+| 45131 | pictures/45131.webp | a drawn diagram — the five-snout livestock in five panels, horse, camel, cow, sheep and goat, each modelled in its own property table | ICT — First Steps — The Information Model of an Object |
+| 45132 | pictures/45132.webp | a drawn diagram — two panels: timely, a clock and the weather news arriving before the journey, and complete, a whole report page against a torn half page | ICT — First Steps — The Value of Information — Timely, Complete and True |
+| 45133 | pictures/45133.webp | a drawn diagram — a tall tree between two cards: the tree is tall, ticked as matching the world, and the tree is short, crossed as not matching | ICT — First Steps — The Value of Information — Timely, Complete and True |
+| 45134 | pictures/45134.webp | a drawn diagram — three panels: an eye looking at a drawing, an ear beside a ringing bell, and an open book with words | ICT — First Steps — Types of Information — We See, Hear and Read |
+| 45135 | pictures/45135.webp | a drawn diagram — the AZERTY keyboard with its top letter row lit up in gold | ICT — First Steps — Typing on the AZERTY Keyboard |
+| 45136 | pictures/45136.webp | a drawn diagram — eight fingers resting on the AZERTY home row, each finger matched to the keys it owns, F and J carrying their bumps | ICT — First Steps — Typing on the AZERTY Keyboard |
+| 45137 | pictures/45137.webp | a drawn diagram — a pupil beside a school board titled Informatics, a school subject all about information | ICT — First Steps — What Informatics Is and Studies |
+| 45138 | pictures/45138.webp | a drawn diagram — what informatics studies in four steps: collect, store, process and share information | ICT — First Steps — What Informatics Is and Studies |
+| 45139 | pictures/45139.webp | a drawn diagram — a child taking in information all around: the weather, a road sign, a speaking friend and a radio | ICT — First Steps — What Is Information |
+| 45140 | pictures/45140.webp | a drawn diagram — a program card of three instructions feeding into a computer that works by them | ICT — First Steps — What Is Information |

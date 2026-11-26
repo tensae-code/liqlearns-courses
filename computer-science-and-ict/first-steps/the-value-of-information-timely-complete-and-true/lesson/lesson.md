@@ -10,11 +10,15 @@ Information's value stands first on **timeliness**: information that arrives aft
 
 In your mind's eye: timely and complete — value in time and in wholeness.
 
+[Picture 45132 — timely and complete — value in time and in wholeness]
+
 ## Sub lesson 2 — True — value in matching the world
 
 The third quality is **truth**: valuable information **matches the world** — its numbers are the real numbers, its statements the real state. False information is worse than none, because none sends you to look while false sends you onward, wrongly armed. Mongolia's triad is taught as a working test, the citizen's three questions of any information before it is used or passed on: Is it in time? Is it whole? Is it true? — the same three the property tables of earlier grades quietly required, here named as the value of information itself.
 
 In your mind's eye: true — value in matching the world.
+
+[Picture 45133 — true — the words match the world]
 
 ## Say it to your companion
 

@@ -14,6 +14,8 @@ The same thing can give more than one type. A teacher speaking gives information
 
 In your mind's eye: three panels. An eye looking at a drawing, an ear beside a bell, and an open book with words.
 
+[Picture 45134 — types of information — we see, we hear, we read]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Information comes in types: some we see (pictures and shapes), some we hear (sounds and speech), and some we read (words and numbers). Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

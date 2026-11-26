@@ -10,11 +10,15 @@ Uzbekistan's Grade 8 book opens with two lessons before it touches a machine: fi
 
 In your mind's eye: introduction — a subject about information.
 
+[Picture 45137 — informatics — a subject about information]
+
 ## Sub lesson 2 — What informatics studies
 
 The second lesson names the field's parts: information and its kinds, the processes done with it, the computer and its devices, programs, and the rules of working safely and well. Every later chapter of the book — number systems, the computer, the operating system, documents — is one of these parts grown large, which is why the map is drawn first.
 
 In your mind's eye: what informatics studies.
+
+[Picture 45138 — what informatics studies — collect, store, process, share]
 
 ## Say it to your companion
 

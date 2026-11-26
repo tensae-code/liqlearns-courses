@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Information and its processing, §9: In
 
 In your mind's eye: information and its processing, §9. Information around us.
 
+[Picture 45139 — information around us — we take it in, then process it]
+
 ## Sub lesson 2 — Computer and programs, §1: Information around us
 
 This part of Kazakhstan's book teaches **Computer and programs, §1: Information around us** — covering: Chapter 1. Computer and programs, §1: Information around us. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: computer and programs, §1. Information around us.
+
+[Picture 45140 — the computer and its programs]
 
 ## Say it to your companion
 

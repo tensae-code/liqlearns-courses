@@ -10,11 +10,15 @@ An object's **information model** is the organised information that stands for i
 
 In your mind's eye: the property table — the object as its model.
 
+[Picture 45130 — the property table — the object as its model]
+
 ## Sub lesson 2 — Modelling the five-snout livestock
 
 The lesson's own modelling is Mongolia's wealth: the **five-snout livestock** (таван хошуу мал) — horse, camel, cow, sheep, goat — each modelled in its property table, so the five tables can be laid side by side and read against each other: which gives milk, which carries, which survives the dzud's cold. One form for every object makes unlike things comparable — that is the table's power, and the reason the whole modelling strand of the Mongolian books keeps returning to it.
 
 In your mind's eye: modelling the five-snout livestock.
+
+[Picture 45131 — modelling the five-snout livestock — one form for all five]
 
 ## Say it to your companion
 
