@@ -10,11 +10,15 @@ cooperatives, the first collectivisation drive and its collapse, then state farm
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41155 — drivecollapsesnegdels]
+
 ## Sub lesson 2 — Ch. 3.4 Changes in the MPR's economic policy
 
 war economy, post-war rebuilding and industrialisation — Ulaanbaatar's factories, Darkhan and Erdenet rise on Soviet-backed plans
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41154 — factoriesnewcities]
 
 ## Say it to your companion
 

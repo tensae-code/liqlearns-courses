@@ -10,11 +10,15 @@ free speech, free religion and free travel return; monasteries reopen and a new,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41168 — pluralagain]
+
 ## Sub lesson 2 — Ch. 4.7 The change in Mongolia's foreign policy
 
 the "third neighbour" policy reaches beyond Russia and China to the US, Japan, Korea and the EU
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41167 — beyondtwoneighbours]
 
 ## Sub lesson 3 — Ch. IV.4 Revolutionary change in the sphere of thought
 
@@ -22,11 +26,15 @@ free press and free faith return; Chinggis is honoured again, the Secret History
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41166 — pressfaithmemory]
+
 ## Sub lesson 4 — Ch. IV.5 Mongolia's foreign relations expand and develop
 
 the third-neighbour policy, nuclear-weapon-free status, peacekeepers abroad, the 2004 Russian debt settlement, and ties with 180 states
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41165 — thirdneighbours180]
 
 ## Say it to your companion
 

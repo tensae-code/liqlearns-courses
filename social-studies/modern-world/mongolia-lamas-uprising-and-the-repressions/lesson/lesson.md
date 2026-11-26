@@ -10,11 +10,15 @@ in 1932 monks and herders rise against collectivisation and monastery closures a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41161 — monksherdersrise]
+
 ## Sub lesson 2 — Ch. 3.10 The dark spot in Mongolian history
 
 the 1937–39 terror executes tens of thousands — lamas, nobles, Buryats, intellectuals — a wound the book names plainly as the black page of the national story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41160 — blackpage]
 
 ## Sub lesson 3 — Ch. III.3 The 1932 armed uprising and the exodus movement
 
@@ -22,11 +26,15 @@ Khövsgöl's Rashaant monastery rises; the revolt spreads across the west, tens 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41159 — monasteryrisesflee]
+
 ## Sub lesson 4 — Ch. III.5 Political repression: its course and consequences
 
 the 1937-39 terror — over 20,000 executed, some 17,000 lamas killed, 700+ monasteries destroyed, and the nation's leaders (Amar, Genden, Dogsom, Losol) shot after Soviet-run trials
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41158 — terrorcounted]
 
 ## Say it to your companion
 

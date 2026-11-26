@@ -10,11 +10,15 @@ the 1940 constitution, five-year plans from 1948, the railway, Darkhan and Erden
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41176 — plansflattens]
+
 ## Sub lesson 2 — Ch. III.8 Changes in the MPR's society and economy
 
 1956's reckoning with the personality cult, the Atar virgin-lands campaign, the Academy of Sciences (1961) and a cosmonaut in 1981 — a modern society inside an authoritarian frame
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41175 — wheatsciencecosmonaut]
 
 ## Say it to your companion
 

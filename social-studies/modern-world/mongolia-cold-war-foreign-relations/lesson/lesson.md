@@ -10,6 +10,8 @@ recognition by China (1949), the Sino-Soviet split weathered on Moscow's side, C
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41174 — insideonecamp]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. III.10 The MPR's foreign relations — recognition by China (1949), the Sino-Soviet split weathered on Moscow's side, CMEA membership (1962), the UN seat won in 1961, and US relations only in 1987 — diplomacy inside one camp. Then let your companion ask you one hard question about it — answer from the lesson.

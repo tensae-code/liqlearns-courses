@@ -10,11 +10,15 @@ Mongolia gives horses, meat, wool and a tank column to the Soviet war effort, th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41163 — horsesmeatwool]
+
 ## Sub lesson 2 — Ch. III.6 The MPR in the Second World War; the consolidation of independence
 
 Khalkhin Gol 1939, the total war economy, the "Revolutionary Mongolia" tank column, and the August 1945 campaign against Japan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41162 — borderwargift1945]
 
 ## Say it to your companion
 

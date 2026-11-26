@@ -10,11 +10,15 @@ price liberalisation, privatisation vouchers and the shock of the 1990s — herd
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41157 — herdsprivatisedstall]
+
 ## Sub lesson 2 — Ch. IV.3 The reform of the socio-economic system
 
 price liberalisation (Jan 1991), voucher privatisation (the pink and blue coupons), herds and flats into private hands, land law — and the pain: inflation, unemployment, poverty
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41156 — vouchersandpain]
 
 ## Say it to your companion
 

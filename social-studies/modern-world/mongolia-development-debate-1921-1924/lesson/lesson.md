@@ -10,6 +10,8 @@ Bodoo's, Danzan's and Sükhbaatar's rival roads — national-democratic renewal,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41164 — threeroadsargued]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II.6 Concepts of Mongolia's development — Bodoo's, Danzan's and Sükhbaatar's rival roads — national-democratic renewal, trade-led growth, or the Comintern's socialist line; the argument decides Mongolia's century. Then let your companion ask you one hard question about it — answer from the lesson.
