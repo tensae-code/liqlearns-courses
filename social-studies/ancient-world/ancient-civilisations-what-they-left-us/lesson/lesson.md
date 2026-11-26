@@ -10,11 +10,15 @@ writing, law, calendars and building pass from the first civilisations into toda
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60207 — four gifts of the first civilisations]
+
 ## Sub lesson 2 — Thematic plan, Theme 1: History and I
 
 the year's opening theme makes pupils place themselves inside history and trace what the first civilisations still give the modern world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60208 — History and I — stand in the story]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ the continent is mapped into cultural areas — North American, Caribbean, Mesoa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60189 — the Americas' cultural areas]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: cultural areas of pre-Hispanic America — the continent is mapped into cultural areas — North American, Caribbean, Mesoamerican, Intermediate (Chibcha, Chorotega), Amazonian, Andean and South-Andean — with two nuclear areas, Mesoamerica and the Andes, whose "mother cultures", Olmec and Chavín, modelled urban civilisations for the rest. Then let your companion ask you one hard question about it — answer from the lesson.

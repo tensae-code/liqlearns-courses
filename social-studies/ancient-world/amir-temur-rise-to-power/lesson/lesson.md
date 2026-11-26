@@ -10,6 +10,8 @@ a minor lord from Kesh fights his way up through Transoxiana's chaos, takes Sama
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60194 — from Kesh to the crown, 1370]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 24. Amir Temur on the political arena and 25. Amir Temur — the supreme ruler — a minor lord from Kesh fights his way up through Transoxiana's chaos, takes Samarkand and by 1370 wears the crown as Sahibkiran, lord of the fortunate conjunction. Then let your companion ask you one hard question about it — answer from the lesson.

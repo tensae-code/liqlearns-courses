@@ -10,6 +10,8 @@ from Delhi to Ankara his armies redraw Asia; Europe's kings write him letters, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60193 — kings write to Temur]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 28. Amir Temur in world history — from Delhi to Ankara his armies redraw Asia; Europe's kings write him letters, and the book weighs conqueror against state-builder. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ In the Llanos de Moxos a hydraulic culture of raised fields and lomas settles fr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60187 — raised fields over the flood water]
+
 ## Sub lesson 2 — Año 2: Culturas hidráulicas amazónicas
 
 Teacher-compendium unit on the Moxos hydraulic cultures, same arc as the student text (Año 2: Culturas hidráulicas amazónicas)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60188 — the compendium teaches Moxos]
 
 ## Say it to your companion
 

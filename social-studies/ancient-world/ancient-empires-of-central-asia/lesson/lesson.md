@@ -10,11 +10,15 @@ on Kazakhstan's own steppe frontier, Central Asian powers rise on horses and tra
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60209 — empires on horses and trade routes]
+
 ## Sub lesson 2 — §13 Ancient states of Central Asia
 
 Bactria, Sogdiana and Khwarezm flourish on Kazakhstan's southern doorstep
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60210 — Bactria, Sogdiana, Khwarezm flourish]
 
 ## Sub lesson 3 — §13 How mighty were Central Asia's empires (lesson plan)
 

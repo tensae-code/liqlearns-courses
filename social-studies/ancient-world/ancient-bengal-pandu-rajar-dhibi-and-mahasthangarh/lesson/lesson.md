@@ -10,6 +10,8 @@ Bangladesh's Grade 6 book proves Bengal's antiquity with two places. Pandu Rajar
 
 In your mind's eye: the walled ruins of Mahasthangarh on the Karatoya river — grass-covered ramparts and an inscribed stone. The student points to the wall and says why a wall makes a settlement a city.
 
+[Picture 60206 — Bengal — mound, then walled city]
+
 ## Sub lesson 2 — The agricultural economy — rice, inscriptions and copper-plate grants
 
 Bangladesh's Grade 7 book re-reads the same ground for its economy — and finds a rich farming Bengal. Near Pandu Rajar Dhibi, a granary held rice 3,500 years old. The Mahasthan Brahmi inscription lists crops. And copper-plate land grants name the produce of granted land: mango, betel, coconut and cotton. Three different kinds of evidence — a storehouse, a stone, and royal plates — all testify to the same thing: ancient Bengal farmed abundantly, and its farming was organised enough to be taxed, granted and recorded.
