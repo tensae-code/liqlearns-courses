@@ -10,11 +10,15 @@ Eris throws the apple "for the fairest", Paris judges for Aphrodite, and his pri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60756 — the apple of discord]
+
 ## Sub lesson 2 — Unit 5, ch. 2 The sacrifice of Iphigenia
 
 the Achaean fleet is wind-bound at Aulis, the seer Calchas demands Agamemnon's daughter Iphigenia, and the fleet finally sails for Troy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60757 — wind bound at aulis]
 
 ## Sub lesson 3 — Unit 5, ch. 3 The Achaeans reach Troy
 
@@ -22,11 +26,15 @@ the kings and heroes of all Greece land before Priam's walled city and settle in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60758 — greeks land before troy]
+
 ## Sub lesson 4 — Unit 5, ch. 4 The wrath of Achilles
 
 dishonoured by Agamemnon, Achilles withdraws from battle with his Myrmidons, and the Achaeans begin to lose
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60759 — the wrath of achilles]
 
 ## Sub lesson 5 — Unit 5, ch. 5 The death of Patroclus
 
@@ -34,17 +42,23 @@ Patroclus borrows Achilles's armour to save the ships, chases the Trojans too fa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60760 — patroclus borrowed armour]
+
 ## Sub lesson 6 — Unit 5, ch. 6 Achilles kills Hector
 
 grief turns Achilles's rage on Hector; he kills him, drags the body round Patroclus's tomb, and old Priam comes by night to ransom his son
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60761 — achilles and hector]
+
 ## Sub lesson 7 — Unit 5, ch. 7 The end of Achilles
 
 Achilles falls to Paris's arrow in his one vulnerable heel — the turn that leaves the Achaeans despairing of taking Troy by force
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60762 — the arrow finds the heel]
 
 ## Sub lesson 8 — Unit 5, ch. 8 The Wooden Horse and the destruction of Troy
 

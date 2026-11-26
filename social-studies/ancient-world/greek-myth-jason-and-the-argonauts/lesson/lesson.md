@@ -26,11 +26,15 @@ the Argo's crew of heroes squeezes through the clashing Symplegades rocks, Jason
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60739 — clashing rocks fire bulls]
+
 ## Sub lesson 4 — Unit 4, ch. 4 Talos, the first robot?
 
 on the wandering voyage home the Argonauts meet Talos, the bronze giant guarding Crete, whose single vein of ichor is his undoing
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60740 — talos bronze giant]
 
 ## Sub lesson 5 — Unit 4, ch. 1 Phrixos and Helle exercises
 
@@ -38,17 +42,23 @@ pupils connect the Hellespont's name to Helle's fall — myth as an explanation 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60741 — hellespont name board]
+
 ## Sub lesson 6 — Unit 4, ch. 2 Pelias and Jason exercises
 
 pupils build their own Argo in paper craft, entering the expedition through its ship
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60742 — build your own argo]
+
 ## Sub lesson 7 — Unit 4, ch. 3 Argonaut expedition exercises
 
 reading work follows the Argo through the clashing rocks to Colchis and back
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60743 — the argos route]
 
 ## Say it to your companion
 
