@@ -10,11 +10,15 @@ the UN flag rises in 1992; embassies open both ways
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41600 — embassiesopen1992]
+
 ## Sub lesson 2 — §§51–52. Kazakhstan's links with regional and international organisations
 
 CIS, SCO, OSCE chairmanship — the multi-vector web is woven
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41599 — webwoven]
 
 ## Sub lesson 3 — §53. The Republic of Kazakhstan's relations with the world's leading states; the multi-vector policy
 
@@ -22,17 +26,23 @@ Washington, Moscow, Beijing — Astana balances all three
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41598 — threecapitalsbalanced]
+
 ## Sub lesson 4 — §19 Kazakhstan — a subject of international law
 
 the UN flag rises in 1992; nuclear weapons are renounced
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41597 — unflagrenounced]
+
 ## Sub lesson 5 — §25 Kazakhstan in the system of international relations
 
 multi-vector diplomacy — CIS, SCO, OSCE
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41596 — cisscoosce]
 
 ## Say it to your companion
 

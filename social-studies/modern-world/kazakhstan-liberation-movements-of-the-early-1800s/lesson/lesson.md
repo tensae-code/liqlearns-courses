@@ -10,11 +10,15 @@ revolts flare across the steppe — Zhankozha, Eset and others — as colonisati
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41588 — revoltsflare]
+
 ## Sub lesson 2 — §4.6 What was the role of the batyrs Eset and Zhankozha in the national-liberation struggle?
 
 two regional heroes hold the Syr Darya and the Aral steppe against Khiva and Russia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41587 — twobatyrs]
 
 ## Say it to your companion
 

@@ -10,17 +10,23 @@ Kenesary, elected khan, fights a ten-year all-nation war to restore the khanate 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41591 — lastkhanstenyears]
+
 ## Sub lesson 2 — §§27–28 The national-liberation movement led by Kenesary Kasymov
 
 Kenesary restores the khan's court and taxes, and fights Russia for a decade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41590 — courtrestored]
+
 ## Sub lesson 3 — §4.5 Why did the national-liberation struggle led by Kenesary Khan take an all-national character?
 
 all three zhuzes answer Kenesary's call — the last khan's war becomes everyone's war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41589 — threezhuzesanswer]
 
 ## Say it to your companion
 

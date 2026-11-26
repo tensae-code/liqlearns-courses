@@ -10,6 +10,8 @@ Makhambet's battle verses and Dulat's laments turn poetry into protest
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41586 — poetryprotest]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§44–45 Kazakh literature and social thought in the first half of the 19th century — Makhambet's battle verses and Dulat's laments turn poetry into protest. Then let your companion ask you one hard question about it — answer from the lesson.

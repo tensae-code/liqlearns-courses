@@ -58,11 +58,15 @@ the Provisional Statute divides the steppe into oblasts and uezds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41609 — statutedivides]
+
 ## Sub lesson 10 — §§33–34 The liberation struggle in Kazakhstan in the 1860s–70s
 
 armed risings answer the new colonial administration
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41608 — risingsanswer]
 
 ## Sub lesson 11 — §§35–36 Tsarism's mass-colonisation resettlement policy in Kazakhstan
 
@@ -70,11 +74,15 @@ settler villages take the fertile northern pastures
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41607 — fertilenorthtaken]
+
 ## Sub lesson 12 — §§37–38 Capitalist relations develop in Kazakhstan
 
 money, fairs and wage labour reshape the aul
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41606 — moneyfairswages]
 
 ## Sub lesson 13 — §§39–40 Fair trade develops
 
@@ -82,11 +90,15 @@ the great steppe fairs link herders to world markets
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41605 — fairslinkworld]
+
 ## Sub lesson 14 — §§41–42 Kazakh society in the second half of the 19th century
 
 clan society stratifies under colonial pressure
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41604 — stratifiespressure]
 
 ## Say it to your companion
 
