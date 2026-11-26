@@ -10,6 +10,8 @@ embassies shuttle between Bukhara, Isfahan, Delhi and Moscow; the khanates play 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62595 — embassies shuttle]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VIII §39 The international relations of the Central Asian states in the 16th–18th centuries — embassies shuttle between Bukhara, Isfahan, Delhi and Moscow; the khanates play the great powers against each other while the sea routes steal their trade. Then let your companion ask you one hard question about it — answer from the lesson.

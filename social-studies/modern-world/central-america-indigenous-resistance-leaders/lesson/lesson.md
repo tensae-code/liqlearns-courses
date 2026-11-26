@@ -10,11 +10,15 @@ Tecún Umán in Guatemala, Atlacatl in El Salvador, Lempira, Copán Galel, Entep
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62582 — they resist to the death]
+
 ## Sub lesson 2 — Lempira and the Honduran resistance
 
 Lempira stands out with Copán Galel and Cicumba among the leaders who organised resistance; Honduras's peoples, hardened by their own wars, made the conquest long and cruel
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62583 — lempira]
 
 ## Say it to your companion
 

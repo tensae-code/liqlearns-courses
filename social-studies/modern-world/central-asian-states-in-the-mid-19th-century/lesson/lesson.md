@@ -10,6 +10,8 @@ three khanates, some five million people, sharia courts and bek-ruled provinces 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62596 — three khanates]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 §§1–2 Territory, population and administrative governance of the Central Asian states in the middle of the 19th century — three khanates, some five million people, sharia courts and bek-ruled provinces — the homeland's political map as the Russian columns form up on the steppe. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ cruelly subjugated, indigenous and Afro-descendant people never stop resisting �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62581 — never stop resisting]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Resistencia indígena y afrodescendiente en Centroamérica — cruelly subjugated, indigenous and Afro-descendant people never stop resisting — armed struggle, uprisings and refusal across the 16th-18th centuries. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ liberal reformers across the isthmus attack church and communal land to remake t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62584 — the liberal reform]
+
 ## Sub lesson 2 — La modernización económica de Centroamérica
 
 coffee, railways and ports modernise the isthmus's economies — and bind them to foreign markets
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62585 — coffee railways ports]
 
 ## Say it to your companion
 

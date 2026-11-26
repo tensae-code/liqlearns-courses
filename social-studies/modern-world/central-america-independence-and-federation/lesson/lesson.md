@@ -34,11 +34,15 @@ the próceres earn the title by ending colonial rule — among them priest Tomá
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62574 — the proceres]
+
 ## Sub lesson 5 — Centroamérica ante la anexión a México
 
 the new provinces are annexed to Mexico and must fight again, this time to be free of an American empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62575 — annexed to mexico]
 
 ## Sub lesson 6 — La Federación Centroamericana
 
@@ -46,11 +50,15 @@ the five provinces try to stay one country in a federation, the isthmus's great 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62576 — the great failed union]
+
 ## Sub lesson 7 — Independencia de México (Nueva España) y Centroamérica
 
 Hidalgo's Grito is crushed, but when the Cádiz Constitution threatens criollo interests, Iturbide and Guerrero join in the Plan de Iguala of 24 February 1821
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62577 — the plan de iguala 1821]
 
 ## Say it to your companion
 

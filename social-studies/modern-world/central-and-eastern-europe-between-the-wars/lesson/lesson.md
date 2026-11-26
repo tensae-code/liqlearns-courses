@@ -10,6 +10,8 @@ Piłsudski's Poland is reborn on 11 November 1918, Masaryk's Czechoslovakia is b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62594 — reborn and rebuilt]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 9: Statele Europei Centrale și de Est — Piłsudski's Poland is reborn on 11 November 1918, Masaryk's Czechoslovakia is built from Paris exile, Horthy's Hungary stays authoritarian behind a parliament, and land reform leaves half a million Yugoslav peasants landless. Then let your companion ask you one hard question about it — answer from the lesson.
