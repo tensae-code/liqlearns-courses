@@ -10,11 +10,15 @@ Temujin unites the Mongols in 1206 and turns them outward
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61071 — temujin unites the mongols]
+
 ## Sub lesson 2 — §31–32 Turko-Mongol campaigns into Central Asia and Kazakhstan; the defence of Otrar
 
 Otrar's governor resists, the city is destroyed, and the steppe is conquered
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61072 — the defence of otrar]
 
 ## Sub lesson 3 — §33 Chinggis Khan's empire: the uluses
 
@@ -22,11 +26,15 @@ the empire is divided among Chinggis's sons into ulus appanages
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61073 — the empire divided]
+
 ## Sub lesson 4 — §34 Creation of the Golden Horde (Ulus of Jochi)
 
 Batu builds the Jochid state that will rule the western steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61074 — batu builds the golden horde]
 
 ## Sub lesson 5 — §35 The Golden Horde in flower
 

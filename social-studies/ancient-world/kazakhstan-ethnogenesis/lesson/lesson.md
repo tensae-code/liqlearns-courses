@@ -34,6 +34,8 @@ tribes of the uluses merge into one people with one name
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61051 — one people one name]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §47 Completion of the Kazakh people's formation — tribes of the Horde age merge into one Kazakh people with one language, §48 Completion of the Kazakh people's formation (lesson plan) — tribes merging into one people is the ethnogenesis lesson's turn, §38–39 The Kazakh people's ethnogenesis — centuries of mixing tribes issue in one Kazakh people, 4.1 The Great Steppe's heritage — how did the Kazakh people form? — tribes of the uluses merge into one people with one name. Then let your companion ask you one hard question about it — answer from the lesson.
