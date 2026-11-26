@@ -10,11 +10,15 @@ Kerey and Janibek lead their people away from Abulkhair and found the Kazakh Kha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63934 — kerey and janibek found it]
+
 ## Sub lesson 2 — §50 Kasym Khan
 
 Kasym unites a million Kazakhs and his 'bright road' of laws orders the khanate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63935 — a million united]
 
 ## Sub lesson 3 — §51 Haknazar Khan and the khanate's revival
 
@@ -22,11 +26,15 @@ Haknazar rebuilds the broken khanate and recovers its cities
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63936 — the khanate rebuilt]
+
 ## Sub lesson 4 — §52 Tauekel Khan's policy of strengthening the Kazakh lands
 
 Tauekel takes Tashkent and Bukhara's suburbs at the khanate's widest reach
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63937 — the widest reach]
 
 ## Sub lesson 5 — §53 Esim Khan's struggle for the khanate's unity
 
@@ -34,11 +42,15 @@ Esim the Brave Giant holds the khanate together against rivals and Tashkent
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63938 — held together against rivals]
+
 ## Sub lesson 6 — §54 Jangir Khan and the Kazakh Khanate
 
 Jangir faces the rising Dzungar threat with a shrinking state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63939 — a shrinking state a rising threat]
 
 ## Sub lesson 7 — §55 The Battle of Orbulak
 
@@ -46,11 +58,15 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63940 — the orbulak ambush]
+
 ## Sub lesson 8 — §56 The Kazakh Khanate under Tauke Khan
 
 Tauke and the three biys give the khanate its Zheti Zhargy law code
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63941 — the zheti zhargy code]
 
 ## Sub lesson 9 — §57 The system of power in old Kazakh society
 
