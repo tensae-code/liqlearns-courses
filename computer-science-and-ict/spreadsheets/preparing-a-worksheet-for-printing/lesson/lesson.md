@@ -10,11 +10,15 @@ In **Page Setup** (on the Page Layout tab) you choose the paper size, the **orie
 
 In your mind's eye: setting the page for the worksheet.
 
+[Picture 45660 — setting the page for the worksheet]
+
 ## Sub lesson 2 — Print preview and the final check
 
 The **print preview** shows the worksheet exactly as paper will receive it: count the pages, check that no column is cut off at an edge, that the title and headings appear, and that the scaling has not shrunk the text past reading. Only when the preview is right do you print — and you print the **print area** you set if only part of the sheet is wanted, not the whole grid.
 
 In your mind's eye: print preview and the final check.
+
+[Picture 45661 — print preview and the final check]
 
 ## Say it to your companion
 

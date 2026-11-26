@@ -10,11 +10,15 @@ Every cell carries a **Locked** setting (on by default) — but it does nothing 
 
 In your mind's eye: locked is a setting, protection is the switch.
 
+[Picture 45672 — locked is a setting, protection is the switch]
+
 ## Sub lesson 2 — Passwords and what protection is for
 
 Protection can carry a **password** that must be given before unprotecting — guard it, because a forgotten protection password is a real problem. Protection guards against **accidents and casual edits**, keeping formulas and headings intact in a sheet other people fill in; it is not the same as encrypting a file, and this book treats it as the closing skill of the spreadsheet theme: data you built carefully stays built.
 
 In your mind's eye: passwords and what protection is for.
+
+[Picture 45673 — passwords and what protection is for]
 
 ## Say it to your companion
 

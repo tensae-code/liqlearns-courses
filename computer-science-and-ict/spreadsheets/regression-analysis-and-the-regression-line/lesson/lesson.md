@@ -10,11 +10,15 @@ The last step of Egypt's Grade 10 analysis run: when two measures move together,
 
 In your mind's eye: the regression line — the best summary of the climb.
 
+[Picture 45676 — the regression line — the best summary of the climb]
+
 ## Sub lesson 2 — Using the line — estimation inside, caution outside
 
 With the equation in hand, the line **estimates**: put in an x the table never measured and read off the y the relationship predicts — a mark for six hours of revision from a line fitted on two to five. Estimates **inside** the measured range rest on evidence all around them; estimates **beyond** it — extrapolation — assume the climb continues unchanged, which real relationships rarely promise. Egypt closes its analysis chapters here because regression gathers the whole run: organised data, centre, spread, relationship, and now a model — with the standing honesty that a model summarises the past it was fitted on, and the future is allowed to differ.
 
 In your mind's eye: using the line — estimation inside, caution outside.
+
+[Picture 45677 — using the line — estimation inside, caution outside]
 
 ## Say it to your companion
 

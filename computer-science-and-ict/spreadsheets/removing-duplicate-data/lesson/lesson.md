@@ -10,11 +10,15 @@ Removing duplicate data — finding rows that repeat the same record in a worksh
 
 In your mind's eye: duplicates — the same record twice.
 
+[Picture 45678 — duplicates — the same record twice]
+
 ## Sub lesson 2 — Remove safely — copy first, choose the columns, check the catch
 
 Safe removal has an order. **Copy the sheet first** — removal cannot be argued back. Then decide **which columns make a duplicate**: two rows are duplicates when the chosen columns all agree (same name alone is not proof — two pupils can share a name; name and birth date together are a record). Use the sheet's **Remove Duplicates** on the chosen columns, then **check the catch**: how many rows went, and do the totals now agree with a hand count of a sample? The removed rows are reported, not vanished — cleaning is an act the analyst can defend.
 
 In your mind's eye: remove safely — copy first, choose the columns, check the catch.
+
+[Picture 45679 — remove safely — copy first, choose the columns, check the catch]
 
 ## Say it to your companion
 

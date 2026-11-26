@@ -10,11 +10,15 @@ The group **chooses a topic** and gathers its **real data** into a **worksheet**
 
 In your mind's eye: building the group's worksheet.
 
+[Picture 45666 — building the group's worksheet]
+
 ## Sub lesson 2 — Presenting the data with charts
 
 From the worksheet, the group builds the **charts that present the data**: the right chart kind for each question the topic raises, formatted so an audience reads it at a glance. Presenting means the group can walk an audience from the data to the chart to the conclusion — and answer for all three.
 
 In your mind's eye: presenting the data with charts.
+
+[Picture 45667 — presenting the data with charts]
 
 ## Say it to your companion
 

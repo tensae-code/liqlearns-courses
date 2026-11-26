@@ -10,11 +10,15 @@ Select a block of data and the **Quick Analysis** tool appears: one button openi
 
 In your mind's eye: the quick analysis tool.
 
+[Picture 45674 — the quick analysis tool]
+
 ## Sub lesson 2 — Recommended charts
 
 Inside Quick Analysis (and the Insert ribbon), **recommended charts** are the chart kinds **Excel suggests for your data**: it reads the selection — categories with values, values over time — and proposes the chart types that would show it honestly. You still choose; but the recommendation is a strong first answer, and previewing each suggestion against the data teaches which chart suits which data.
 
 In your mind's eye: recommended charts.
+
+[Picture 45675 — recommended charts]
 
 ## Say it to your companion
 
