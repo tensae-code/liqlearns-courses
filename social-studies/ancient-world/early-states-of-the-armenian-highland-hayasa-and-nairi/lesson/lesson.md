@@ -10,6 +10,8 @@ Hayasa, Nairi and other tribal unions harden into the Highland's first states, k
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60597 — the first states of the Highland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.3 Early state formations in the Armenian Highland — Hayasa, Nairi and other tribal unions harden into the Highland's first states, known from Hittite and Assyrian records. Then let your companion ask you one hard question about it — answer from the lesson.

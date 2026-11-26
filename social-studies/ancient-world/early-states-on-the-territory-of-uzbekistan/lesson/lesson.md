@@ -10,6 +10,8 @@ Bactria, Sogdiana and Khorezm grow their own early states between Persia and the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60598 — Bactria, Sogdiana and Khorezm]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §21 Central Asia and the Ancient East and §22 The early states on the territory of Uzbekistan — Bactria, Sogdiana and Khorezm grow their own early states between Persia and the steppe — the homeland enters statehood in its own right. Then let your companion ask you one hard question about it — answer from the lesson.

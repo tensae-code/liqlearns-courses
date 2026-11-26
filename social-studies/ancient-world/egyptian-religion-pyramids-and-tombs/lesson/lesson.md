@@ -10,6 +10,8 @@ gods with animal heads, the judgement of the dead, and pyramids raised as eterna
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60608 — gods, judgement and pyramids]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §9 The religion of Ancient Egypt and §10 Pyramids and tombs — gods with animal heads, the judgement of the dead, and pyramids raised as eternal houses — belief built in stone at Giza. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ iron smelting, irrigation farming at steppe towns, craft quarters and Silk Road 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60599 — iron, irrigation and Silk Road trade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 2.3 The ancient states' economy and technological progress — iron smelting, irrigation farming at steppe towns, craft quarters and Silk Road trade — the material base under the khans' power. Then let your companion ask you one hard question about it — answer from the lesson.

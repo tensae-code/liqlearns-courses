@@ -10,11 +10,15 @@ survivors inherit land and demand wages; Florentine wool-workers rise in the Cio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60615 — survivors inherit, wages demanded]
+
 ## Sub lesson 2 — Le rivolte (with Eventi: La rivolta dei Ciompi)
 
 Florence's wool-workers seize the city in 1378; across Europe the poor, taxed for wars, turn revolt into the crisis century's second language
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60616 — the Ciompi seize Florence, 1378]
 
 ## Say it to your companion
 

@@ -12,6 +12,8 @@ But the book's real point is what travels. A migrating people does not move empt
 
 In your mind's eye: an early migrating people on the move — families with carts, herds and bundled goods crossing a dry plain toward greener land. The student points to the herds and bundles and says what is travelling with the people.
 
+[Picture 60596 — a people on the move]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Why early peoples move — and what moves with them. Then let your companion ask you one hard question about it — answer from the lesson.

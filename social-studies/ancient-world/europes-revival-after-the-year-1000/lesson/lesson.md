@@ -10,6 +10,8 @@ after the year 1000 a warmer climate, new ploughs and cleared land feed a growin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60618 — warmth, ploughs and cleared land]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 1 §§1–3 The climate improves and the population grows; The progress of agriculture; A society in movement: the countryside — after the year 1000 a warmer climate, new ploughs and cleared land feed a growing population, and the fear that the world would end in the Mille quietly gives way to expansion. Then let your companion ask you one hard question about it — answer from the lesson.

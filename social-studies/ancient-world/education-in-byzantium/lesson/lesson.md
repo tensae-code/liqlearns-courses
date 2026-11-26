@@ -10,11 +10,15 @@ Byzantine children learn letters from Homer and the Psalms, and the best go on t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60601 — letters from Homer and the Psalms]
+
 ## Sub lesson 2 — Unit 41 Education in Byzantium (topics)
 
 schools, the university of Constantinople and monastic copyists keep learning alive through the empire's darkest centuries
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60602 — schools, the university, copyists]
 
 ## Sub lesson 3 — Unit 12 Education exercises
 
@@ -22,11 +26,15 @@ pupils match Byzantine schooling with today's and comment on what changed and wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60603 — match Byzantine schooling with today]
+
 ## Sub lesson 4 — Unit 41 Education (topics) exercises
 
 a text on schools during Iconoclasm anchors the education topic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60604 — a text on schools in Iconoclasm]
 
 ## Say it to your companion
 

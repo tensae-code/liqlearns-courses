@@ -10,11 +10,15 @@ the Ottonian emperors rebuild imperial power in Germany while the weak Capetians
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60610 — Empire rebuilt, Normans carving]
+
 ## Sub lesson 2 — Il quadro europeo e l'universalismo cattolico; L'Impero; I regni; I normanni in Italia
 
 Ottonian emperors invest bishop-counts to hold Germany and Italy (the body text follows Otto I to Otto III's Roman dream), weak kings share Europe with new regna, and Normans take the South
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60611 — bishop-counts and new kingdoms]
 
 ## Say it to your companion
 

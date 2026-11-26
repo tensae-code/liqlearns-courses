@@ -10,6 +10,8 @@ hieroglyphs serve gods and kings for three thousand years; the Phoenician letter
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60609 — hieroglyphs to the alphabet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 4: Egyptian writing, the Greek alphabet and ancient inscriptions — hieroglyphs serve gods and kings for three thousand years; the Phoenician letters, given vowels by Greeks, become the alphabet of Europe. Then let your companion ask you one hard question about it — answer from the lesson.
