@@ -10,6 +10,8 @@ Akbar's Mughal empire orders India, then fragments as the East India Company tur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41115 — empirefragments]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §19 India in the 16th–18th centuries — Akbar's Mughal empire orders India, then fragments as the East India Company turns trade into territory after Plassey (1757). Then let your companion ask you one hard question about it — answer from the lesson.

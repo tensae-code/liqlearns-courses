@@ -10,6 +10,8 @@ The European powers settled their rivalry at Algeciras in 1906; France occupied 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41116 — mountainrepublicexile]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Morocco — Abd al-Krim and the road to independence. Then let your companion ask you one hard question about it — answer from the lesson.

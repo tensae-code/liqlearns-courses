@@ -10,6 +10,8 @@ A former kingdom survives as a province named for its old medieval self, Zeta.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41119 — zetaprovince]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2.6 Montenegro in the Yugoslav kingdom. Then let your companion ask you one hard question about it — answer from the lesson.

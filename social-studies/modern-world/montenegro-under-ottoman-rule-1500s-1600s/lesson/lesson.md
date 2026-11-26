@@ -10,6 +10,8 @@ A taxed, armed mountain society keeps itself half-free inside the sultan's empir
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41117 — freeinthehills]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.4.5 Montenegro in the 16th and 17th centuries. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Babur (1526–1530), Akbar (1556–1605) and Aurangzeb (1685–1707) (portraits 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41114 — builtbythree]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: History Ch. 3 Lesson 4, Mughal India — Babur (1526–1530), Akbar (1556–1605) and Aurangzeb (1685–1707) (portraits and empire map, p. 187) build and overstretch Muslim rule over Hindu India. Then let your companion ask you one hard question about it — answer from the lesson.

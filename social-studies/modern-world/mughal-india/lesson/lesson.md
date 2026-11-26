@@ -10,6 +10,8 @@ Babur's descendants rule most of India; Akbar holds Hindu and Muslim together an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41113 — twofaithsmarble]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5 §7: Indian society in the era of the Great Mughals — Babur's descendants rule most of India; Akbar holds Hindu and Muslim together and the Taj Mahal crowns the empire's wealth. Then let your companion ask you one hard question about it — answer from the lesson.

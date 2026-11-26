@@ -10,6 +10,8 @@ a Faleata matai's peninsula by Apia harbour becomes Samoa's gathering ground in 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41111 — peninsulaparliament]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 1, Topic 4 "Mulinu'u" — a Faleata matai's peninsula by Apia harbour becomes Samoa's gathering ground in the mid-1800s wars, hosts the first Parliament House of the 1873 attempt at a Samoan central government, and stays the seat of parliament through the 1981 independence celebrations pictured. Then let your companion ask you one hard question about it — answer from the lesson.

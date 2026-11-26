@@ -10,11 +10,15 @@ A bishop becomes a hereditary prince, a tiny mountain theocracy finds a Russian 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41129 — bishoppatronimpostor]
+
 ## Sub lesson 2 — Ch.2.1 (continued): Accepting Islam in the borderlands and the myth of the "istraga poturica"
 
 The book itself teaches pupils to test a famous national legend against the evidence.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41128 — legendvsevidence]
 
 ## Say it to your companion
 

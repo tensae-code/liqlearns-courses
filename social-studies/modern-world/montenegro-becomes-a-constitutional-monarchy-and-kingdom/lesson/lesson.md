@@ -10,6 +10,8 @@ The last absolute ruler in Europe gives his people a constitution because he ref
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41125 — absolutistgrants]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.4.3 Montenegro — a constitutional monarchy. Then let your companion ask you one hard question about it — answer from the lesson.

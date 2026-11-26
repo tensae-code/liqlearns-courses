@@ -10,11 +10,15 @@ An occupier tries to resurrect Montenegro as a puppet, and Montenegro rises inst
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41121 — puppetrefused]
+
 ## Sub lesson 2 — Ch.4.4 Montenegro after Italy's capitulation: Italian divisions join the Yugoslav People's Liberation Army
 
 Yesterday's occupiers become comrades-in-arms in Montenegro's mountains.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41120 — occupierscomrades]
 
 ## Say it to your companion
 

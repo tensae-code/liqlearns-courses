@@ -10,11 +10,15 @@ After the catastrophe of 1857, Sir Syed argues the Muslims of India must learn t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41110 — schoolsfirstnation]
+
 ## Sub lesson 2 — After 1857 — a community punished
 
 A defeated community is punished and shut out, and its leaders must decide whether to fight the British or learn from them.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41109 — fightorlearn]
 
 ## Sub lesson 3 — Sir Syed and the Two-Nation Theory
 
@@ -22,17 +26,23 @@ Sir Syed tells Muslims to stop mourning the Mughals, take English education, and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41108 — seetwonations]
+
 ## Sub lesson 4 — Aligarh builds schools and colleges
 
 Reform becomes bricks and classrooms, as community-funded colleges carry a generation of Muslims into modern professions.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41107 — moneybecomescolleges]
+
 ## Sub lesson 5 — Deoband and Nadva answer from the faith
 
 While Aligarh looks West, Deoband guards the faith, and the two answers to 1857 shape Muslim India together.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41106 — guardorlearn]
 
 ## Say it to your companion
 

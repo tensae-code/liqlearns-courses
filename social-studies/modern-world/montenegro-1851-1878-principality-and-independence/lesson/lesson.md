@@ -10,11 +10,15 @@ A secular prince replaces the prince-bishops, and a battlefield victory makes th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41127 — princecodevictory]
+
 ## Sub lesson 2 — Ch.4.2 Montenegro 1876–1905
 
 A murder in a border town lights the war that finally makes Montenegro an internationally recognised state.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41126 — sparkwarrecognised]
 
 ## Say it to your companion
 

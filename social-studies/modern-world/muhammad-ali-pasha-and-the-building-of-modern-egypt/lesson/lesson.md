@@ -10,6 +10,8 @@ an Albanian soldier from Macedonia rises in the Ottoman army, ends the Mamluks a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41112 — builtthenbounded]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 4 Lesson 1: Muhammad Ali Pasha (1769–1849) — an Albanian soldier from Macedonia rises in the Ottoman army, ends the Mamluks at the Cairo Citadel feast of 1811, and builds modern Egypt — self-sufficient economy, factories, schools, a European-style army and fleet, campaigns in Arabia, Greece and the Levant — until the London Treaty of 1840 and the firman of 1841 fix his house in Egypt and Sudan. Then let your companion ask you one hard question about it — answer from the lesson.
