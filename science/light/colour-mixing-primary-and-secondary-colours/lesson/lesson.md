@@ -17,7 +17,11 @@ That is the colour inventor's trick: three starting colours, and by mixing them 
 
 In your mind's eye: three balls of primary-colour plasticine, red, yellow and blue, with the three mixed secondary colours beside them — orange, green, purple. Name each primary and each colour it helped make before reading on.
 
+[Picture 37125 — three primary colours and the three secondary colours they make]
+
 In your mind's eye: two balls of plasticine, red and yellow, being kneaded together until the whole ball turns orange. Say which two primaries went in and which secondary colour came out.
+
+[GIF 37126 — red and yellow plasticine kneaded into orange]
 
 ## Sub lesson 2 — White lightens, black darkens — and no unmixing
 

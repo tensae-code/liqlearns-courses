@@ -9,7 +9,11 @@ Papua New Guinea's Grade 3 textbook asks what happens when light is **gathered**
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37141 — a lens gathering spread-out rays to one spot]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37142 — spread light is weak; gathered light falls bright]
 
 ## Sub lesson 2 — What gathered light does
 

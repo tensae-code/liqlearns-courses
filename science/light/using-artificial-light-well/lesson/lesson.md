@@ -9,11 +9,15 @@ Before you read: think about this lesson's subject — using artificial light we
 
 In your mind's eye: using artificial light well as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37147 — a desk lamp placed on the left, and a reflector on a school bag]
+
 ## Sub lesson 2 — Where light is needed
 
 The books teach this part as festive illuminations and sky lanterns; where light must be provided — worked through in the books' own presentation, at the printed pages named in Sources.
 
 In your mind's eye: where light is needed as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37148 — festive lights and sky lanterns — light where it is needed]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ A **wave** is a **regular pattern** that travels: ripples crossing water, a shak
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37121 — a wave pattern travelling — ripples on water and a shake down a rope]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37122 — amplitude and wavelength — how big, and how long]
 
 ## Sub lesson 2 — Amplitude — how big the wave is
 

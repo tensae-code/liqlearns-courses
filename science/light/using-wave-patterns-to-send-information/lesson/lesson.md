@@ -9,7 +9,11 @@ A wave on its own just repeats; a **patterned** wave — flashes long and short,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37123 — two sailors flashing light signals across the water]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37124 — a code card — long and short flashes stand for letters]
 
 ## Sub lesson 2 — Designing a solution to an information-transfer problem
 

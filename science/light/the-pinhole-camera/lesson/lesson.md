@@ -9,7 +9,11 @@ Eritrea's Grade 6 book (printed p. 68) teaches the **pin-hole camera** as its ow
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37131 — a pinhole camera — box, tiny hole and screen]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37132 — straight rays cross at the hole — the picture lands upside down]
 
 ## Sub lesson 2 — The upside-down picture
 

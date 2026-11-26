@@ -11,7 +11,11 @@ Kuwait's Grade 9 book teaches the defects right after its Eye and Vision lesson,
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37129 — short sight and long sight — where the image falls]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37130 — concave and convex lenses put the image back on the retina]
 
 ## Sub lesson 2 — Lenses put the image back
 

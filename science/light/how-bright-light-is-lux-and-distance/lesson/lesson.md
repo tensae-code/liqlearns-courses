@@ -9,7 +9,11 @@ Light can be brighter or dimmer, and North Macedonia's Grade 5 book gives that b
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37135 — a luxmeter reading a lamp brightness in lux]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37136 — the same lamp read near and far — brightness falls with distance]
 
 ## Sub lesson 2 — Further from the source, dimmer
 

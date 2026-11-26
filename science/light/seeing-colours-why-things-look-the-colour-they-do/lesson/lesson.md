@@ -9,7 +9,11 @@ Spin a disc painted with the **seven colours** and they **gather back into white
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37127 — a seven-colour disc, still and spinning back to white]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37128 — a red ball seen through red, green and blue glass]
 
 ## Sub lesson 2 — See-through bodies — the colour they let pass
 

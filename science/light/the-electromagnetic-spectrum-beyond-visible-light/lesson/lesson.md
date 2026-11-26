@@ -9,7 +9,11 @@ Ch.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37139 — the electromagnetic spectrum — visible light is one small part]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37140 — a star sending many kinds of rays to our telescopes]
 
 ## Sub lesson 2 — Space, the Stars and the Galaxies
 

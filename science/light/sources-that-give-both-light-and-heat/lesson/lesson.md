@@ -9,7 +9,11 @@ The unit's closing topic is **the relationship between sources of light and sour
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37133 — sources of light, sources of heat, and sources that give both]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37134 — a flame giving light and heat together]
 
 ## Sub lesson 2 — Sorting the sources
 

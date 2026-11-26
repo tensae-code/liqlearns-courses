@@ -9,7 +9,11 @@ Papua New Guinea's Standards Based Grade 7 guide teaches the **convex lens** fir
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37143 — a convex lens — thick in the middle, gathering rays]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37144 — two picture-makers — the lens gathers, the pinhole sips]
 
 ## Sub lesson 2 — The pinhole camera — a picture with no lens
 

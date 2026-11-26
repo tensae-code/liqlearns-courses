@@ -9,7 +9,11 @@ Yemen's Grade 8 Science book closes its refraction unit with the camera: the ins
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37137 — a camera — lenses catch the light and hold the picture]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37138 — optical instruments — telescope, microscope, binoculars, camera]
 
 ## Sub lesson 2 — Optical instruments
 

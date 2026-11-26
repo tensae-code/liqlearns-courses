@@ -11,7 +11,11 @@ So the families of light sources grow by one. There are the sources **people mak
 
 In your mind's eye: a dark scene lit only by a glowing living thing. Name the source of the light.
 
+[Picture 37145 — a firefly glowing in the dark — a living light-maker]
+
 In your mind's eye: the glow brightening and fading. Say what changed.
+
+[GIF 37146 — a firefly glow brightening and fading]
 
 ## The key ideas
 
