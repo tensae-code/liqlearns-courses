@@ -12,6 +12,8 @@ In practice Japan transformed them: towns, industries and a cash economy grew �
 
 In your mind's eye: a Japanese-era island town with a school, a phosphate pier and island children in kogakko uniform. The student points to the school and the pier and says how each tied the island to the empire.
 
+[Picture 41235 — builtoutnumbered]
+
 ## Sub lesson 2 — Schools, immigrants and island work
 
 Okinawan and Japanese immigrants poured in to work the new economy. Island children passed through kogakko schools, aimed at civil-service and trade jobs inside the Japanese system.

@@ -10,6 +10,8 @@ one neighbour modernises from the throne down and survives; the other cuts off t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41249 — thronereformsfalls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 2 Asia's two answers: Japan's Meiji Restoration from 1868 reforms politics, economy, army and schools, escapes colonisation — and becomes an empire itself in Northeast Asia; China's Xinhai Revolution of 1911 topples the Qing and ends two millennia of absolutist monarchy — one neighbour modernises from the throne down and survives; the other cuts off the throne itself. Then let your companion ask you one hard question about it — answer from the lesson.

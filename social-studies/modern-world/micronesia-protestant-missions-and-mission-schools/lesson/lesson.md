@@ -12,6 +12,8 @@ And islanders became the carriers: islander missionaries took the faith on to th
 
 In your mind's eye: a small mission school on Pohnpei, with islander children at wooden desks and an islander teacher at the front. The student points to the teacher and says who trained her and why that mattered.
 
+[Picture 41233 — chiefsweighit]
+
 ## Sub lesson 2 — Mission schools and the language of school
 
 The missions built schools. Mission schools trained islander teachers and pastors, and literacy spread with the faith: English church-and-school words entered the island languages, words still heard today.

@@ -10,6 +10,8 @@ The Great Powers carve up the post-Ottoman Middle East after 1918, fight over it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41226 — carvedfoughtover]
+
 ## Sub lesson 2 — Rise of Arab nationalism in the 20th century
 
 Arab nationalism rises against foreign tutelage and becomes the region's driving political force

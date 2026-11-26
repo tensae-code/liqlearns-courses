@@ -12,6 +12,8 @@ In 1947 the arrangement was given a legal name: the United Nations Trust Territo
 
 In your mind's eye: a small island council house in the 1950s, with a magistrate, chiefs and villagers meeting under an American flag and a UN notice on the wall. The student points to the chiefs and the council seats and says what double demand the meeting had to meet.
 
+[Picture 41229 — rebuiltandruled]
+
 ## Sub lesson 2 — From municipalities to the Congress of Micronesia
 
 The Grade 11 book follows the islanders' side of those years. In the 1940s–60s, islanders built municipalities and district congresses — new democratic forms that had to do two things at once: respect traditional leadership, and satisfy American demands for democracy.

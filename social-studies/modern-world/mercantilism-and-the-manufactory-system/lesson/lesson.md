@@ -10,6 +10,8 @@ a strong state is one that hoards precious metals at its rivals' expense; Colber
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41244 — hoardandgather]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §1: Economia occidentală în epoca preindustrială. Mercantilismul — a strong state is one that hoards precious metals at its rivals' expense; Colbert runs France's economy on that rule, and production gathers into centralised, dispersed and mixed manufactories. Then let your companion ask you one hard question about it — answer from the lesson.

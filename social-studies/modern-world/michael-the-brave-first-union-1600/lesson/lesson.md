@@ -10,17 +10,23 @@ Michael the Brave brings Wallachia, Transylvania and Moldavia under one rule in 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41242 — oneseal1600]
+
 ## Sub lesson 2 — Bucuria lecturii: Oastea Unirii
 
 orphan boy Patrașcu marches with Michael's army over the Carpathians and rests in a village on the Oituz, seeing the union as a soldier's road
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41241 — boysmarch]
+
 ## Sub lesson 3 — Unitatea III, Lecția 4: Războiul antiotoman sub conducerea lui Mihai Viteazul. Unirea Țărilor Române
 
 Michael buys his throne from the Turks, turns on them, and enters Alba Iulia on 1 November 1599 to hold Wallachia, Transylvania and Moldavia under one rule
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41240 — threelandsone]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The Grade 11 book's fifth chapter turns from the three leadership models to thei
 
 In your mind's eye: henry Nanpei standing between a chief's meetinghouse and a church, holding a land paper. The student points to the three things in the scene and says which gave him rank, and which gave him power.
 
+[Picture 41230 — seatsempty]
+
 ## Sub lesson 2 — Churches and German land reforms move authority
 
 Two new powers handed out authority of their own. The churches gave office — a man could rise as a church leader. And German land reforms re-granted land, the deepest source of standing in the islands. Authority now flowed from church and reform as well as from birth.

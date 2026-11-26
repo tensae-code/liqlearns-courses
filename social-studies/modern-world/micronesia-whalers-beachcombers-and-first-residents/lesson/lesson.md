@@ -10,6 +10,8 @@ The chapter is called Early Guests Who Stayed. Whaling ships and traders hunting
 
 In your mind's eye: a whaling ship anchored off an eastern Caroline island, with traders on the beach and a lone sailor walking inland toward a chief's house. The student points to the sailor and says who he is and under whose law he will live.
 
+[Picture 41228 — whalerscrowdin]
+
 ## Sub lesson 2 — Beachcombers: deserters living under chiefs
 
 Some guests never left. Deserting sailors became beachcombers: foreigners who lived on the islands under the chiefs, marrying in, translating, trading — and sometimes stirring trouble. They were the first resident foreigners, and they lived by island law because there was no other.

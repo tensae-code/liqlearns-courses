@@ -12,6 +12,8 @@ From district offices on Saipan, Yap and Pohnpei, Germany pushed development: ro
 
 In your mind's eye: a new German road being built on Pohnpei, with island workers, a district officer, and the Sokehs peninsula across the water. The student points to the road and the peninsula and says what each came to mean.
 
+[Picture 41236 — boughtmillionsrebellion]
+
 ## Sub lesson 2 — The Sokehs Rebellion and stormy weather
 
 In 1910 the people of Sokehs, on Pohnpei, rebelled against the strict new reforms and killed the German district officer. The Grade 11 book adds the other side of the same years: German rule worked through and against traditional leaders — roads built with Yapese chiefs on one island, soldiers sent against the Sokehs rebels on Pohnpei in 1911 on another.

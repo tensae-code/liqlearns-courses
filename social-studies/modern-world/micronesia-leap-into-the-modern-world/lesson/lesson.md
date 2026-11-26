@@ -10,6 +10,8 @@ Within one childhood, your island gains radios, an airfield, a hospital and mone
 
 In your mind's eye: a 1960s island village with a new radio mast, a school, a small hospital and a dirt airfield beyond the houses. The student points to two arrivals and says what each changed in daily life.
 
+[Picture 41234 — leapinyears]
+
 ## Sub lesson 2 — Roads, airfields, Peace Corps and Civic Action Teams
 
 The leap had builders: roads and airfields tied islands to each other and to the world, Peace Corps volunteers came to teach and work in the villages, and American Civic Action Teams arrived with machines and projects. The outside world was no longer a ship that visited — it lived on the island.

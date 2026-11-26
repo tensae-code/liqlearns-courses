@@ -10,6 +10,8 @@ The Portuguese take Melaka in 1511; Sultan Mahmud Shah retreats through his depe
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 41247 — sultanfightson]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: The end of Melaka-centred rule — the Portuguese take Melaka in 1511; Sultan Mahmud Shah retreats through his dependencies to Bentan, attacks three times between 1515 and 1519 to win Melaka back, loses Bentan to Portuguese destruction in 1526 and withdraws to Kampar — the sultanate ends in Melaka but not in exile. Then let your companion ask you one hard question about it — answer from the lesson.

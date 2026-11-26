@@ -12,6 +12,8 @@ And welcomes could turn hostile: in Chuuk Lagoon and Pulap, meetings soured as s
 
 In your mind's eye: a tall sailing ship anchored off a small atoll, with islanders paddling out in a canoe to meet it. The student points to the two sides and says what each side wanted from the meeting.
 
+[Picture 41237 — firstmeetingsislands]
+
 ## Sub lesson 2 — Kapingamarangi: the first outsiders, one by one
 
 The Kapingamarangi reader keeps the atoll's own record of the time before the foreigners settled in. The first outsiders arrive one by one: the man Tongohiti, the Wareai traders of the 1800s, castaways from Kiribati, and the Moduroo people in the 1870s.

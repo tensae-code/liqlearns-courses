@@ -10,6 +10,8 @@ For 150 years, almost no foreign ship comes. Then, suddenly, the sea roads fill 
 
 In your mind's eye: a sailing ship on a sea road with a chart of small islands unrolled beside it. The student points to the chart and says what the scientific voyages did to the islands on paper.
 
+[Picture 41239 — crossroadsagain]
+
 ## Sub lesson 2 — Scientific voyages: Lütke in Kosrae and the Mortlocks
 
 Not every returning ship came to trade. Russian and European scientific voyages — Lütke's among them — sailed to study the ocean and its peoples, and made first contacts in Kosrae and the Mortlocks, meeting islanders as objects of study as well as hosts.

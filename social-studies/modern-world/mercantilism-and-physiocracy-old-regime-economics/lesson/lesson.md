@@ -10,6 +10,8 @@ Two rival recipes for national wealth face off — mercantilism hoards bullion t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41245 — tradeorland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Mercantilism and physiocracy — two rival recipes for national wealth face off — mercantilism hoards bullion through trade, physiocracy bets on the land. Then let your companion ask you one hard question about it — answer from the lesson.

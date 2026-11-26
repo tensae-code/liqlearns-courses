@@ -10,6 +10,8 @@ The great battles are in other lessons. This one is smaller: a rusted cannon on 
 
 In your mind's eye: a rusted cannon on a green island hill, with an elder telling its story to two children. The student points to the cannon and the elder and names the two kinds of evidence in the scene.
 
+[Picture 41227 — eldersstories]
+
 ## Sub lesson 2 — Rusted cannons and mountain bunkers
 
 The war also survives in iron and concrete: rusted cannons and mountain bunkers still stand on the islands. They are evidence a learner can walk to and touch — the battlefield become part of the home landscape.

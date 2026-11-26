@@ -12,6 +12,8 @@ Real rule was resisted at once: Pohnpeians attacked only three months in, and Sp
 
 In your mind's eye: a Spanish administration building on Pohnpei with a flag above it, and far away a tiny atoll with a single distant flag. The student points to each and says how Spanish rule felt different in the two places.
 
+[Picture 41231 — resistedatonce]
+
 ## Sub lesson 2 — Quarrels with the missionaries: Reverend Doane
 
 Spain was Catholic; the missions already on Pohnpei were American and Protestant. The colonial government quarrelled with the missionaries — Reverend Doane among them — over whose authority the islanders should obey. Two foreign powers, church and state, fought their quarrel on island ground.

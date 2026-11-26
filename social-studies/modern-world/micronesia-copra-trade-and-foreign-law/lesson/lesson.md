@@ -10,6 +10,8 @@ Trades rise and fall. In this chapter of *Over Seas and Time*, whale oil and bec
 
 In your mind's eye: a trader's store on a Pohnpei beach with sacks of copra stacked outside and a foreign warship anchored beyond the reef. The student points to the store, then the warship, and says which arrived first and which followed.
 
+[Picture 41238 — copratakesover]
+
 ## Sub lesson 2 — Companies, resident traders and stores
 
 Behind the copra stood organisation: big trading companies and their resident traders opened stores on the islands. A store is a permanent foreign foothold — credit, goods and prices now set by companies far away, with a trader living on the island all year.
