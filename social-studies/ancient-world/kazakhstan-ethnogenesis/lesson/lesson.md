@@ -10,17 +10,23 @@ tribes of the Horde age merge into one Kazakh people with one language
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61048 — many tribes one people]
+
 ## Sub lesson 2 — §48 Completion of the Kazakh people's formation (lesson plan)
 
 tribes merging into one people is the ethnogenesis lesson's turn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61049 — the merging as a lesson]
+
 ## Sub lesson 3 — §38–39 The Kazakh people's ethnogenesis
 
 centuries of mixing tribes issue in one Kazakh people
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61050 — centuries of mixing one people]
 
 ## Sub lesson 4 — 4.1 The Great Steppe's heritage — how did the Kazakh people form?
 

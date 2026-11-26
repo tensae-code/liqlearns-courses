@@ -106,11 +106,15 @@ pupils pack for an imaginary journey through every age of ancient Kazakhstan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61027 — packing for the ancient world]
+
 ## Sub lesson 14 — §64 Culture of the early tribes
 
 the course closes by gathering the ancient tribes' art, faith and craft
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61028 — art faith and craft]
 
 ## Sub lesson 15 — 1.7 Ancient rock drawings of Kazakhstan (lesson plans)
 
@@ -118,11 +122,15 @@ petroglyph images become sources pupils read like texts
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61029 — reading the rocks]
+
 ## Sub lesson 16 — 1.8 A journey into ancient people's life (lesson plans)
 
 a review journey lesson gathers the whole first chapter
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61030 — the review journey]
 
 ## Sub lesson 17 — 7.1 Anthropological appearance of ancient Kazakhstan's people (lesson plans)
 
@@ -130,11 +138,15 @@ reconstructions give ancient faces back in the review lessons
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61031 — faces from the past]
+
 ## Sub lesson 18 — 7.2 A journey to ancient Kazakhstan (lesson plans)
 
 the final travel-quest lesson reviews the whole course
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61032 — the final quest]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ at Talas in 751 Arabs, Turks and Chinese collide and paper travels west
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61033 — the battle of the peoples 751]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.3 Why is the Battle of Atlakh called the 'battle of the peoples'? — at Talas in 751 Arabs, Turks and Chinese collide and paper travels west. Then let your companion ask you one hard question about it — answer from the lesson.

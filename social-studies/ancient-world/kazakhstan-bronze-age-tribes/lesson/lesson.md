@@ -10,11 +10,15 @@ bronze replaces stone and great tribal cultures spread across the Kazakh steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61037 — bronze replaces stone]
+
 ## Sub lesson 2 — §16–17 Economy of the early-metal-age tribes
 
 herders and metalworkers divide the work and the steppe economy takes shape
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61038 — herders and metalworkers]
 
 ## Sub lesson 3 — §18–19 Religious ideas of the early-metal-age tribes
 
@@ -22,11 +26,15 @@ sun, fire and ancestor cults give the bronze tribes a shared unseen world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61039 — sun fire and ancestors]
+
 ## Sub lesson 4 — 1.5 Metallurgy appears in Kazakhstan
 
 copper and bronze smelting arrives and metal begins to replace stone
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61040 — metal begins]
 
 ## Sub lesson 5 — 1.6 Andronovo and Begazy-Dandybai cultures
 
@@ -34,11 +42,15 @@ Andronovo herder-farmers and the later Begazy-Dandybai chiefs spread across the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61041 — two bronze cultures]
+
 ## Sub lesson 6 — §11 Periodising the Bronze Age and its cultures
 
 bronze cultures are sorted into early, middle and late stages across the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61042 — early middle late]
 
 ## Sub lesson 7 — §12 Ancient miners and production centres
 
@@ -46,11 +58,15 @@ ancient miners dig copper and tin and smelt bronze at steppe production centres
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61043 — miners and smelters]
+
 ## Sub lesson 8 — §13 The Andronovo culture
 
 Andronovo herder-farmers spread their pottery, bronze and sun cult over the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61044 — the andronovo world]
 
 ## Sub lesson 9 — §14 The Begazy-Dandybai culture
 
@@ -58,17 +74,23 @@ late-bronze chiefs raise great stone mausoleums in central Kazakhstan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61045 — the chiefs mausoleums]
+
 ## Sub lesson 10 — 1.5 Metallurgy begins in Kazakhstan (lesson plans)
 
 pupils follow copper and bronze from ore to tool in the lesson sequence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61046 — from ore to tool]
+
 ## Sub lesson 11 — 1.6 Andronovo and Begazy-Dandybai cultures (lesson plans)
 
 two bronze cultures are compared through their graves and settlements
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61047 — comparing the cultures]
 
 ## Say it to your companion
 
