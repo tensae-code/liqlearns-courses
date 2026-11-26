@@ -17,19 +17,18 @@ before it as a recommended-first path — never a forced gate.
 The school grades the books come from appear only in each
 lesson's `lesson/sources.md`, as provenance.
 
-The course as built has **three stocked levels**, with one
-level sketched before them and not stocked:
+The course as built has **four stocked levels**:
 
-1. **Level 1 — sketched, NOT stocked (0 lessons).** The primary
-   Ciencias Sociales y Formación Ciudadana student books for
-   Grades 5 and 6 (MINEDUC 2025). Both are UNREAD: the library's
-   secured copies are DAMAGED pushes (truncated uploads,
-   unopenable — the library does not actually hold either book).
-   They are filed in full under "Record-only — not yet in the
-   course" below, exactly as filed in
-   `guatemala-placements.md` (0 placements). The level stands in
-   the ladder as a sketch only, so the folder knows what is owed
-   once complete copies are secured.
+1. **Level 1 — the primary years (99 lessons, stocked
+   2026-11-25).** The primary Ciencias Sociales y Formación
+   Ciudadana student books for Grades 5 and 6 (MINEDUC 2025).
+   Both were REPAIRED: the library's secured copies were
+   DAMAGED pushes (truncated uploads, unopenable); both books
+   were re-downloaded byte-exact from MINEDUC, read in full
+   2026-11-25, and staged as good copies in phase3-staging.
+   All 171 placements are stocked — 99 lessons at this level,
+   plus growth parts into lessons of Levels 1–4. **Student
+   books.**
 2. **Level 2 — cultures, rights, and the violences a child
    meets (6 lessons, stocked).** From the Grade 7 (1ro. básico)
    teacher guide: Guatemala's cultures as the ground of
@@ -68,25 +67,53 @@ guides' own shape, walked in order):
 ## The books (Guatemala)
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set for this build — 2 census records
-(the Grade 5 and 6 primary student books, MINEDUC 2025 — both
-UNREAD, record-only below) and 8 link leads, of which three name
-the three básico teacher guides read in full for this course,
-three name the MINEDUC 2025 primary books for Grades 4, 5 and 6
-by their ministry URLs (the Grade 5 and 6 books are the census
-books — duplicate leads; the Grade 4 book is a census-family
-book outside this group's census extract, named here
-record-only), one names a distance-education guide for 5º
-bachillerato via Wayback and one is a ministry host survey page
-— both filed record-only in the group log. Placements at
+`lesson/sources.md`. The set for this course — the two primary
+student books (Grades 5–6, MINEDUC 2025; REPAIRED and read in
+full 2026-11-25, filed below) and the three básico teacher
+guides read in full (Grades 7–9, MINEDUC), plus record-only
+leads named at the end. Placements at
+`liqlearns-courses-work/expansion-phantom-repair-2026-11-25/guatemala-placements.md`
+(the primary student books, 171 placements, all stocked) and
 `liqlearns-courses-work/expansion-civics-folder-2026-11-17/guatemala-placements-b.md`
-(the stocked guides) and
-`liqlearns-courses-work/expansion-civics-folder-2026-11-17/guatemala-placements.md`
-(the record-only verdicts). Track: combined (Ciencias Sociales
-y Formación Ciudadana) — the guides' placed strand is the
-Formación Ciudadana teaching: rights, duties, cultures of
-Guatemala and the prevention of violence; their general
-methodology apparatus is named, not placed.
+(the stocked guides). Track: combined (Ciencias Sociales y
+Formación Ciudadana) — the primary books teach the whole
+combined subject, social-science strand in its own titles; the
+guides' placed strand is the Formación Ciudadana teaching.
+
+**Ciencias Sociales y Formación Ciudadana — primary student
+books (REPAIRED 2026-11-25; both STUDENT):**
+
+- *Ciencias Sociales y Formación Ciudadana — para quinto grado
+  del Nivel de Educación Primaria* (student book, Spanish) —
+  Ministerio de Educación de Guatemala (MINEDUC); ministerial
+  authorities named in the imprint (Anabella María Giracca
+  Méndez, Ministra de Educación); elaborated under MINEDUC
+  direction with USAID/Reforma Educativa en el Aula; imprint
+  tail reads "Impresión 2026"; PDF created 2025-10-09 — the
+  MINEDUC 2025 edition. **Grade: 5. STUDENT book. Language:
+  Spanish.** PDF 226 pages; 114,562,608 bytes downloaded
+  byte-exact from MINEDUC
+  (https://www.mineduc.edu.gt/tmp-libros/ciencias_sociales_5to_compressed.pdf);
+  SHA-256 0d4e665d61c646e02fd30740cf25f9f231ff08c386f8fd6e1c37b023d2fe4f15;
+  staged in phase3-staging/grade-05/gov/guatemala/. **Verdict:
+  COMPLETE (book read in full). REPAIR NOTE: the library's
+  previous GitHub copy of this book was a truncated upload
+  (~34% of the book, unopenable); this byte-exact MINEDUC copy
+  replaces it.** Tally: 86 placements, all stocked.
+- *Ciencias Sociales y Formación Ciudadana — para sexto grado
+  del Nivel de Educación Primaria* (student book, Spanish) —
+  Ministerio de Educación de Guatemala (MINEDUC); ministerial
+  authorities as Book 1 above; PDF created 2025-10-09 — the
+  MINEDUC 2025 edition. **Grade: 6. STUDENT book. Language:
+  Spanish.** PDF 226 pages; 130,541,356 bytes downloaded
+  byte-exact from MINEDUC
+  (https://www.mineduc.edu.gt/tmp-libros/ciencias_sociales_6to_compressed.pdf);
+  SHA-256 5ffd56c7e49d14e5a750daab348c567a0fa61e7c1ef97998c52ab13042c276be;
+  staged in phase3-staging/grade-06/gov/guatemala/. **Verdict:
+  COMPLETE (book read in full). REPAIR NOTE: the library's
+  previous GitHub copy of this book was a truncated upload
+  (~70% of the book, unopenable); this byte-exact MINEDUC copy
+  replaces it.** Tally: 85 placements, all stocked.
 
 **Ciencias Sociales y Formación Ciudadana — básico teacher
 guides (the course's source; all TEACHER):**
@@ -161,68 +188,10 @@ guides (the course's source; all TEACHER):**
 
 ## Record-only — not yet in the course
 
-Filed exactly as in `guatemala-placements.md` (reader group
-lat-b): 2 records / 2 distinct books, both marked in_pushed, no
-source URL on record (url: null) and no byte size on record
-(size_bytes: null). Neither book could be read: the GitHub tree
-route returned HTTP 404 for both paths, no file exists in
-staging, and the copies recovered from the
-full-quality-oversized-books release (where textbooks.tsv
-records both download URLs) are TRUNCATED uploads. Both are
-filed UNREAD and named as library debt in the group log: the
-pusher recorded them pushed, but the stored assets are
-incomplete files, so the library does not actually hold these
-books. **Guatemala's G5 and G6 secured assets are DAMAGED pushes
-(truncated uploads, unopenable — the library does not actually
-hold either book).**
-
-- *Ciencias Sociales y Formación Ciudadana, Quinto grado*
-  (student book, Spanish) — Title as printed: not verifiable —
-  the file cannot be opened (record title: Ciencias Sociales y
-  Formación Ciudadana — Quinto grado, MINEDUC 2025).
-  **Grade: Grade 5. STUDENT book. Language: Spanish.**
-  Publisher: Ministerio de Educación (MINEDUC), Guatemala; year
-  2025 (per record). PDF pages: 226 declared in the file's own
-  linearization header — the file itself is unreadable. Subject
-  as filed: Ciencias Sociales y Formación Ciudadana — track:
-  standalone. **Verdict: UNREAD** — routes tried: (1) GitHub
-  tree grab of grade-05/gov/guatemala/ciencias-sociales-y-formacion-ciudadana/student/full-year.pdf
-  — HTTP 404; (2) mid-size releases mid-size-books through
-  mid-size-books-9 under the path-based asset name — not
-  present; (3) full-quality-oversized-books release (the URL
-  recorded in textbooks.tsv) — downloaded 38,797,312 bytes, but
-  the file's own linearization dictionary declares a complete
-  length of 114,562,608 bytes and 226 pages: the stored asset
-  is a truncated upload (~34% of the book), its cross-reference
-  table is destroyed, and poppler, pypdf and a Ghostscript
-  repair pass all fail to open it. No source URL exists on the
-  record to try. **Tally: 0 placements.** Guatemala's own way:
-  cannot be stated — the book could not be opened.
-- *Ciencias Sociales y Formación Ciudadana, Sexto grado*
-  (student book, Spanish) — Title as printed: not verifiable —
-  the file cannot be opened (record title: Ciencias Sociales y
-  Formación Ciudadana — Sexto grado, MINEDUC 2025).
-  **Grade: Grade 6. STUDENT book. Language: Spanish.**
-  Publisher: Ministerio de Educación (MINEDUC), Guatemala; year
-  2025 (per record). PDF pages: 226 declared in the file's own
-  linearization header — the file itself is unreadable. Subject
-  as filed: Ciencias Sociales y Formación Ciudadana — track:
-  standalone. **Verdict: UNREAD** — routes tried: (1) GitHub
-  tree grab of grade-06/gov/guatemala/ciencias-sociales-y-formacion-ciudadana/student/full-year.pdf
-  — HTTP 404; (2) mid-size releases mid-size-books through
-  mid-size-books-9 under the path-based asset name — not
-  present; (3) full-quality-oversized-books release (the URL
-  recorded in textbooks.tsv) — downloaded 91,226,112 bytes, but
-  the file's own linearization dictionary declares a complete
-  length of 130,541,356 bytes and 226 pages: the stored asset
-  is a truncated upload (~70% of the book) with a destroyed
-  cross-reference table, unopenable by poppler, pypdf or
-  Ghostscript repair. No source URL exists on the record to
-  try. **Tally: 0 placements.** Guatemala's own way: cannot be
-  stated — the book could not be opened.
-
-**Further record-only leads (as filed in
-`guatemala-placements-b.md`'s head):**
+The two primary student books that once stood here as
+record-only (UNREAD, DAMAGED pushes) are REPAIRED and stocked —
+they are filed in full in the book list above, with the repair
+note on each. What remains record-only:
 
 - The MINEDUC 2025 primary book for **Grade 4**, named by its
   ministry URL among the link leads: a census-family book
@@ -272,15 +241,19 @@ guides' general methodology apparatus is named, not placed.
 
 ## Acceptance reckoning
 
-- **Pupil-taught from Guatemala's books:** none — no student
-  book stands stocked in this course. The two primary student
-  books on record (Grades 5–6, MINEDUC 2025) are UNREAD
-  (DAMAGED pushes — see Honesty notes) and stock nothing.
-- **Teacher-guide evidence only, counted nowhere:** all 15
-  lessons of Levels 2–4, stocked from the three básico teacher
-  guides (Grades 7–9) — taught in **0 countries**, every
-  placement marked TEACHER, named in every lesson's sources,
-  counted nowhere.
+- **Pupil-taught from Guatemala's books:** the 99 lessons of
+  Level 1, stocked from the two primary student books (Grades
+  5–6, MINEDUC 2025, repaired and read in full 2026-11-25) —
+  taught in **1 country (Guatemala)**; plus the student-book
+  growth parts stocked into 24 further lessons (16 of Level 1
+  and 8 of Levels 2–4), each named in its lesson's sources.
+- **Teacher-guide evidence only, counted nowhere:** the
+  original parts of the 15 lessons of Levels 2–4, stocked from
+  the three básico teacher guides (Grades 7–9) — taught in
+  **0 countries**, every placement marked TEACHER, named in
+  every lesson's sources, counted nowhere. (Eight of those
+  lessons now also carry student-book growth parts, counted
+  above for those parts only.)
 - Every lesson's `lesson/sources.md` carries its own acceptance
   line in exactly these terms.
 
@@ -290,18 +263,16 @@ guides' general methodology apparatus is named, not placed.
   teacher guides alone (the guides' pupil texts are not in
   hand), labelled TEACHER in every placement and every lesson's
   sources, and counted 0 in the acceptance reckoning above.
-- **DAMAGED pushes — the G5 and G6 label, carried exactly as
-  filed:** Guatemala's Grade 5 and Grade 6 secured assets are
-  DAMAGED pushes (truncated uploads, unopenable — the library
-  does not actually hold either book). The Grade 5 asset holds
-  ~34% of its book (38,797,312 of a declared 114,562,608 bytes)
-  and the Grade 6 asset ~70% (91,226,112 of a declared
-  130,541,356 bytes); both declare 226 pages in their own
-  linearization headers and both fail to open in poppler, pypdf
-  and Ghostscript repair. Both books are UNREAD, stock 0
-  placements, and stand above as record-only — not yet in the
-  course. Level 1 is sketched, not stocked, on their records
-  alone.
+- **DAMAGED pushes — REPAIRED 2026-11-25:** Guatemala's Grade
+  5 and Grade 6 secured assets WERE damaged pushes (truncated
+  uploads, unopenable — Grade 5 ~34% of its book, Grade 6
+  ~70%). On 2026-11-25 both books were re-downloaded byte-exact
+  from MINEDUC (Grade 5: 114,562,608 bytes; Grade 6:
+  130,541,356 bytes; 226 pages each), read in full, staged as
+  good copies in phase3-staging, and stocked into this course
+  (171 placements). The damaged-push label stands in this note
+  as the record of what was repaired; it no longer describes
+  the library's holding.
 - **Combined track:** the guides' subject is filed combined
   (Ciencias Sociales y Formación Ciudadana). The placed strand
   is the Formación Ciudadana teaching (rights, duties, cultures
@@ -318,9 +289,7 @@ guides' general methodology apparatus is named, not placed.
   without a printed page; the placement as filed cites
   printed p. 31, and this course's lesson cites p. 31 exactly
   as filed.
-- **UNREAD books:** the Grade 5 and Grade 6 primary student
-  books (MINEDUC 2025) — both UNREAD, both DAMAGED pushes, both
-  record-only above. No other Guatemala book stands in the
-  record as held-but-unread for this course; the guides' pupil
-  texts and the Grade 4 primary book are not-in-hand gaps,
-  stated as such.
+- **UNREAD books:** none for this course — every Guatemala
+  book in hand for this course has been read in full. The
+  guides' pupil texts and the Grade 4 primary book remain
+  not-in-hand gaps, stated as such.

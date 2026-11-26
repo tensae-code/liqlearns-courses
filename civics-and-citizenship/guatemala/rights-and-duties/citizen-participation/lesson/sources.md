@@ -14,3 +14,16 @@ countries: Guatemala
 This lesson is written in our own words from the placements' teaching summaries of those parts of the book. No book text is transcribed beyond very short fragments. No provenance talk appears in the lesson prose.
 
 Searchable tags: participation, community activity, responsibility, citizen-participation, civics and citizenship guatemala, ciencias sociales y formación ciudadana
+
+## Growth (Grade 6 book) — stocked 2026-11-25 from the primary student books (phantom/corrupted repair read)
+
+**Book:** Ciencias Sociales y Formación Ciudadana — para sexto grado del Nivel de Educación Primaria (student book, Spanish) — Ministerio de Educación de Guatemala (MINEDUC); ministerial authorities named in the imprint (Anabella María Giracca Méndez, Ministra de Educación); elaborated under MINEDUC direction with USAID/Reforma Educativa en el Aula; PDF created 2025-10-09 — the MINEDUC 2025 edition. Grade: 6 (student book, STUDENT). PDF 226 pages; 130,541,356 bytes, downloaded byte-exact from MINEDUC (https://www.mineduc.edu.gt/tmp-libros/ciencias_sociales_6to_compressed.pdf); SHA-256 5ffd56c7e49d14e5a750daab348c567a0fa61e7c1ef97998c52ab13042c276be. Subject as filed: ciencias-sociales-y-formacion-ciudadana — track: combined. Verdict: COMPLETE (book read in full). REPAIR NOTE: the library's previous secured copy of this book was a truncated upload (a DAMAGED push, unopenable); this is the byte-exact MINEDUC copy, re-downloaded and read in full 2026-11-25. Placements at `liqlearns-courses-work/expansion-phantom-repair-2026-11-25/guatemala-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Social participation | Guatemala Grade 6 student book, Participación social — printed p. 98 |
+| Social organisations | Guatemala Grade 6 student book, Las organizaciones sociales — printed p. 127 |
+| Participation deepened — beyond the vote | Guatemala Grade 6 student book, Participación ciudadana — printed p. 189 |
+| Community service activities | Guatemala Grade 6 student book, Actividades de servicio en la comunidad — printed p. 191 |
+
+**Growth acceptance: the growth parts above stand on a student book — taught in 1 country (Guatemala) for those parts. The lesson's earlier parts stand exactly as recorded above.**

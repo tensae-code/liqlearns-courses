@@ -26,3 +26,14 @@ Searchable tags: Maya, Xinka, Garífuna, Ladino, territory and nature, ancestral
 | The rights of Guatemala's peoples, pueblo by pueblo | Guatemala Grade 5 student book, Proyecto: Derechos de los pueblos — printed p. 198 |
 
 **Growth acceptance: the growth parts above stand on a student book — taught in 1 country (Guatemala) for those parts. The lesson's original parts stand on teacher-guide evidence only, exactly as recorded above.**
+
+## Growth (Grade 6 book) — stocked 2026-11-25 from the primary student books (phantom/corrupted repair read)
+
+**Book:** Ciencias Sociales y Formación Ciudadana — para sexto grado del Nivel de Educación Primaria (student book, Spanish) — Ministerio de Educación de Guatemala (MINEDUC); ministerial authorities named in the imprint (Anabella María Giracca Méndez, Ministra de Educación); elaborated under MINEDUC direction with USAID/Reforma Educativa en el Aula; PDF created 2025-10-09 — the MINEDUC 2025 edition. Grade: 6 (student book, STUDENT). PDF 226 pages; 130,541,356 bytes, downloaded byte-exact from MINEDUC (https://www.mineduc.edu.gt/tmp-libros/ciencias_sociales_6to_compressed.pdf); SHA-256 5ffd56c7e49d14e5a750daab348c567a0fa61e7c1ef97998c52ab13042c276be. Subject as filed: ciencias-sociales-y-formacion-ciudadana — track: combined. Verdict: COMPLETE (book read in full). REPAIR NOTE: the library's previous secured copy of this book was a truncated upload (a DAMAGED push, unopenable); this is the byte-exact MINEDUC copy, re-downloaded and read in full 2026-11-25. Placements at `liqlearns-courses-work/expansion-phantom-repair-2026-11-25/guatemala-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guatemala's peoples — the Peace Accords consensus | Guatemala Grade 6 student book, Los pueblos de Guatemala (El pueblo ladino; El pueblo garífuna o garinagu) — printed p. 26 |
+| What the world gave Guatemalan culture | Guatemala Grade 6 student book, Aportes del mundo a la cultura guatemalteca — printed p. 173 |
+
+**Growth acceptance: the growth parts above stand on a student book — taught in 1 country (Guatemala) for those parts. The lesson's earlier parts stand exactly as recorded above.**
