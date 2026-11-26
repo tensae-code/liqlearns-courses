@@ -10,11 +10,15 @@ A task list in Outlook is the program's to-do list: each task has a subject, a d
 
 In your mind's eye: creating a task list.
 
+[Picture 45854 — creating a task list]
+
 ## Sub lesson 2 — Doing it — Creating a task list in practice
 
 Creating a Task List in Outlook is learned by doing: the learner creates tasks, gives them dates, and works the list — marking tasks complete as they are done The learner creates tasks, gives them dates, and works the list — marking tasks complete as they are done Because unlisted jobs are forgotten jobs; the task list turns intentions into dated, checkable work.
 
 In your mind's eye: doing it — Creating a task list in practice.
+
+[Picture 45855 — doing it — Creating a task list in practice]
 
 ## Say it to your companion
 

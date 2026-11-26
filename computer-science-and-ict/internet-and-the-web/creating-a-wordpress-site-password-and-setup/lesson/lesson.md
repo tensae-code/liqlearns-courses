@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Steps 5–6 — package information, f
 
 In your mind's eye: steps 5–6 — package information, finish registration, create your password; Installing WordPress.
 
+[Picture 45856 — steps 5–6 — package information, finish registration, create your password; Installing WordPress]
+
 ## Sub lesson 2 — Doing it — Steps 5–6 — package information, finish registration, create your password; Installing WordPress in practice
 
 This part of South Sudan's book teaches **Doing it — Steps 5–6 — package information, finish registration, create your password; Installing WordPress in practice** — covering: Steps 5–6 — package information, finish registration, create your password; Installing WordPress. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Steps 5–6 — package information, finish registration, create your password; Installing WordPress. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Steps 5–6 — package information, finish registration, create your password; Installing WordPress in practice is part of that chain..
 
 In your mind's eye: doing it — Steps 5–6. Package information, finish registration, create your password; Installing WordPress in practice.
+
+[Picture 45857 — doing it — Steps 5–6. Package information, finish registration, create your password; Installing WordPress in practice]
 
 ## Say it to your companion
 

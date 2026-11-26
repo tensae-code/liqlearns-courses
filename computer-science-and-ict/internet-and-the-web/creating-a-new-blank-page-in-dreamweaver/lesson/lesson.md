@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Creating a New Document Using a Blank 
 
 In your mind's eye: creating a New Document Using a Blank Page.
 
+[Picture 45850 — creating a New Document Using a Blank Page]
+
 ## Sub lesson 2 — Choosing a Blank HTML Page
 
 This part of South Sudan's book teaches **Choosing a Blank HTML Page** — covering: Choosing a Blank HTML Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Choosing a Blank HTML Page. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — choosing a Blank HTML Page is part of that chain..
 
 In your mind's eye: choosing a Blank HTML Page.
+
+[Picture 45851 — choosing a Blank HTML Page]
 
 ## Say it to your companion
 

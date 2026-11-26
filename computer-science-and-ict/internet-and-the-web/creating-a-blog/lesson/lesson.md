@@ -10,11 +10,15 @@ A **blog** is a website of dated entries (**posts**) shown newest-first. Creatin
 
 In your mind's eye: setting up — home, name, theme and the first settings.
 
+[Picture 45848 — setting up — home, name, theme and the first settings]
+
 ## Sub lesson 2 — Posting and keeping it alive — writing, tags, rhythm
 
 A blog lives by its posts: each post gets a clear **title**, a first line that earns the next, **tags** (labels that group posts by topic), and pictures where they help. Keeping a blog alive is a **rhythm** — regular posts on a promise the writer can keep — plus care of readers: answer comments, fix errors openly, and never publish another person's work as your own. A blog with three kept promises beats a blog with thirty posts and silence.
 
 In your mind's eye: posting and keeping it alive — writing, tags, rhythm.
+
+[Picture 45849 — posting and keeping it alive — writing, tags, rhythm]
 
 ## Say it to your companion
 

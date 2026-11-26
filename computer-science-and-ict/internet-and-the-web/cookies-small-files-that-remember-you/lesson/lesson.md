@@ -12,6 +12,8 @@ Nothing about the cookie is a program; it cannot run, install anything, or read 
 
 In your mind's eye: cookies-cloakroom. A browser as a cloakroom, holding a row of small tickets, one for each site, and handing the right ticket back at each return.
 
+[Picture 45847 — cookies-cloakroom. A browser as a cloakroom, holding a row of small tickets, one for each site, and handing the right ticket back at each return]
+
 ## Two faces — first-party and third-party
 
 A **first-party cookie** is set by the site you are actually visiting, and it does the remembering you ask for: your basket, your sign-in session, your settings. Delete it and the site politely forgets you — you sign in again and refill the basket. Most first-party cookies either die when the browser closes (**session cookies**) or carry an expiry date (**persistent cookies**).

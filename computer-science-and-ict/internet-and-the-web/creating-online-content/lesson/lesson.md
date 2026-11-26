@@ -10,11 +10,15 @@ The web is not only for reading. This lesson learns to make for it — well.
 
 In your mind's eye: plan before making — audience, purpose, form.
 
+[Picture 45858 — plan before making — audience, purpose, form]
+
 ## Sub lesson 2 — Publish responsibly — honesty, credit, safety
 
 Publishing carries duties: **honesty** (publish what you know, mark what you guess), **credit** (name the makers of anything you reuse, and reuse only what you may), **safety** (no private data — yours or others' — no addresses, no school-and-home details of children), and **care after publishing**: read responses, correct mistakes visibly, and take down what proves harmful. The creator's name travels with the content — Armenia's guide treats creating online content as a standard theme of its own (8-5), not a free-time extra.
 
 In your mind's eye: publish responsibly — honesty, credit, safety.
+
+[Picture 45859 — publish responsibly — honesty, credit, safety]
 
 ## Say it to your companion
 

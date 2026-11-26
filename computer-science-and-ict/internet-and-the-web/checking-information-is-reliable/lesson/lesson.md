@@ -10,11 +10,15 @@ Information is **reliable** when a searcher can safely build on it: it is **true
 
 In your mind's eye: reliable — what the word promises.
 
+[Picture 45839 — reliable — what the word promises]
+
 ## Sub lesson 2 — The young searcher's checks — source, agreement, date
 
 Three checks carry the lesson. **Source**: who published this, and would they know — a ministry, a museum, a named expert outrank an unnamed page copying others. **Agreement**: does another, independent source say the same — one page is a claim, two independent pages are evidence. **Date**: when was it made or updated, and does the question need newer? A pupil who runs these three checks on everything they use has the whole skill in seed; every later research lesson in this course — reports from web research, bibliographic managers — is these three checks grown up. Egypt's own way is to make it a journey with a companionable tone, because the habit, not the warning, is the lesson.
 
 In your mind's eye: the young searcher's checks — source, agreement, date.
+
+[Picture 45840 — the young searcher's checks — source, agreement, date]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Some web pages sit still; others answer your clicks instantly, with no waiting f
 
 In your mind's eye: scripts that run in the browser.
 
+[Picture 45843 — scripts that run in the browser]
+
 ## Sub lesson 2 — What client-side scripts do
 
 Client-side scripts make pages **interactive**. Form checking by a script happens **before the form is sent to the server**. A page changed by a script changes **in the browser, without a reload**. If scripting is off, the page loses its interactive behaviour. The GUI unit pairs scripting with interactive menus and controls.
 
 In your mind's eye: what client-side scripts do.
+
+[Picture 45844 — what client-side scripts do]
 
 ## Say it to your companion
 

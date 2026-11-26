@@ -10,11 +10,15 @@ CSS colours text with the **color** property: `p { color: blue; }` recolours eve
 
 In your mind's eye: colour for text — the color property.
 
+[Picture 45845 — colour for text — the color property]
+
 ## Sub lesson 2 — Backgrounds — the ground the page stands on
 
 The **background-color** property colours the ground behind an element — a heading's band, a box, or the whole page through `body`. Text colour and background colour are chosen **together**: the pair must keep **contrast** high enough to read comfortably, for every visitor, including those who see colours weakly. The book's discipline is the designer's: few colours, used consistently, each earning its place — decoration that fights the reading loses.
 
 In your mind's eye: backgrounds — the ground the page stands on.
+
+[Picture 45846 — backgrounds — the ground the page stands on]
 
 ## Say it to your companion
 
