@@ -10,11 +10,15 @@ Programming a small robot — Ozobot: a pocket robot that follows lines and obey
 
 In your mind's eye: meet Ozobot — care and calibration first.
 
+[Picture 48835 — meet Ozobot — care and calibration first]
+
 ## Sub lesson 2 — Colour codes — direction and speed on the line
 
 Ozobot's first language is drawn: it follows a **line**, and **colour codes** — short sequences of coloured segments laid across the line — are its commands. One code tells it a **direction** at a crossing (turn, go straight, turn back); another sets its **speed** (faster, slower, and the show-off moves between). Programming, here, is drawing the right code at the right place on the track — the algorithm made visible on paper, debugged by watching exactly where the robot's reading and the draw-er's intention part.
 
 In your mind's eye: colour codes — direction and speed on the line.
+
+[Picture 48836 — colour codes — direction and speed on the line]
 
 ## Say it to your companion
 

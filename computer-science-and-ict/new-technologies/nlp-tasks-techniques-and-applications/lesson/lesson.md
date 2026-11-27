@@ -10,11 +10,15 @@ NLP's **basic tasks** stack from small to large: **tokenisation** (cutting text 
 
 In your mind's eye: the basic tasks.
 
+[Picture 48827 — the basic tasks]
+
 ## Sub lesson 2 — Techniques and applications
 
 The **techniques** grew in generations: **rules** written by hand, **statistics** counted from corpora, and **neural models** learning language's patterns from oceans of text — each generation less brittle, more hungry for data. The **applications**: machine **translation**, **chatbots and assistants**, **search** that understands questions, **spam and sentiment** filters, **text summarisation** and **speech** in both directions. Jordan's Arabic-speaking pupils meet the field's honest footnote here: NLP's riches are unevenly spread across languages, and Arabic's share is a research frontier, not a finished gift.
 
 In your mind's eye: techniques and applications.
+
+[Picture 48828 — techniques and applications]
 
 ## Say it to your companion
 

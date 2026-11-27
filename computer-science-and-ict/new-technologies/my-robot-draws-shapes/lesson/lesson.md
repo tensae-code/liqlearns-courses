@@ -10,6 +10,8 @@ Walk a square on the floor counting your steps: same steps each side, same corne
 
 In your mind's eye: a picture of the bee robot driving a square on a mat, the square's sides labelled with equal step counts and each corner marked with a quarter-turn arrow.
 
+[Picture 48822 — a picture of the bee robot driving a square on a mat, the square's sides labelled with equal step counts and each corner marked with a quarter-turn arrow]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A floor robot draws shapes by driving them: equal steps and equal quarter-turns make a square; change the steps and turns deliberately, and new shapes come — planned in robot language first. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

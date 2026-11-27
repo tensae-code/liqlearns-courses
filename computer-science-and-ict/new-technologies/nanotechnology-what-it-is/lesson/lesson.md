@@ -10,11 +10,15 @@ Every strand of Grade 12's technology survey changes one variable. Nanotechnolog
 
 In your mind's eye: the nanometre scale — small enough to be different.
 
+[Picture 48823 — the nanometre scale — small enough to be different]
+
 ## Sub lesson 2 — Mongolia's nano products — the steppe at the nanoscale
 
 The book's pride is local: Mongolian nano work turns the country's own materials. **Waterproof ger covers**, nano-treated, shed the rain the felt alone drinks. **Horse-bone calcium** is milled to nano fineness into a food of the bones Mongolia has in abundance. **Fireproof insulation is made from wool waste** — the steppe's surplus fibre, nano-worked into the building material a ger-and-apartment country needs against fire and winter. The lesson's claim generalises the whole Grade 12 survey: a new technology is not developed for a country when its flag is on the product, but when its products are made from the country's own ground — Mongolia's nano lesson can name three.
 
 In your mind's eye: mongolia's nano products — the steppe at the nanoscale.
+
+[Picture 48824 — mongolia's nano products — the steppe at the nanoscale]
 
 ## Say it to your companion
 

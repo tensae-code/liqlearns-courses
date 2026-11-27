@@ -10,11 +10,15 @@ Beside big data — the data too large to handle — Grade 9's society unit sets
 
 In your mind's eye: what open data is.
 
+[Picture 48829 — what open data is]
+
 ## Sub lesson 2 — What open data is for — and its care
 
 Open data's uses are the unit's civic list: **citizens checking** what is done in their name (the budget read by anyone), **services built** on public ground (the journey planner standing on the timetable), **research and journalism** standing on evidence all may inspect. Its care is the mirror: what is opened must be opened **without persons inside** — personal data is not opened, only **aggregated and anonymised** where people contributed — so openness and the unit's privacy teaching stand as one lesson's two hands.
 
 In your mind's eye: what open data is for — and its care.
+
+[Picture 48830 — what open data is for — and its care]
 
 ## Say it to your companion
 

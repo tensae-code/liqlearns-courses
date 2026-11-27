@@ -12,6 +12,8 @@ Trace one forward pass. The photograph's pixel numbers enter at the left. Every 
 
 In your mind's eye: network-layers. A three-layer network drawn fully connected, with one photograph's journey highlighted from pixels to the winning output neuron.
 
+[Picture 48825 — network-layers. A three-layer network drawn fully connected, with one photograph's journey highlighted from pixels to the winning output neuron]
+
 Count the knowledge: every connecting line carries a **weight**, so even a modest network holds thousands to millions of weights — and the whole set of them, together, is what the system knows.
 
 ## Sub lesson 2 — What the layers learn — features upon features, and image recognition
@@ -19,6 +21,8 @@ Count the knowledge: every connecting line carries a **weight**, so even a modes
 Nobody assigns the hidden neurons their jobs. **Training** — the loop from two lessons ago, now applied to every weight in every layer — discovers a division of labour on its own, and in image networks it is always recognisably the same shape. Neurons in the **first** hidden layer become detectors of the simplest features: an edge slanting this way, a short stroke, a dark patch. Neurons in **later** layers, fed by those, combine features into parts: a loop, a corner, a crossing. The output layer combines parts into **wholes**: this arrangement of loop-and-stroke is a 9; that one is a 4. **Features upon features** — that stacking is what 'deep' means in deep learning, and it is why the machine can do what no single neuron, and no hand-written rule list, could: the features themselves were learned from the examples, at every level.
 
 In your mind's eye: network-features: three panels — pixels, then edge detectors lighting up, then part detectors, then whole digits. For one handwritten 9.
+
+[Picture 48826 — network-features: three panels — pixels, then edge detectors lighting up, then part detectors, then whole digits. For one handwritten 9]
 
 The costs keep the earlier lessons' honesty. A network's millions of weights are millions of dials that only data can set, so image networks are trained on **millions of labelled photographs**; the computation is heavy enough to need specialised hardware; and when the trained system errs, its answer comes from the whole web of weights at once — no single rule to point at, the data-based weakness from §4.2 at full scale. Strong together, yes — and hungry, heavy and hard to interrogate, together. The strand's last lesson puts systems like this to work, and weighs what they change.
 

@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Lesson 12: A program for the robot** �
 
 In your mind's eye: lesson 12. A program for the robot.
 
+[Picture 48837 — lesson 12. A program for the robot]
+
 ## Sub lesson 2 — Lesson 13: A program for the robot
 
 This part of Kazakhstan's book teaches **Lesson 13: A program for the robot** — covering: Lesson 13: A program for the robot — practical work organising the mill's movement. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: lesson 13. A program for the robot.
+
+[Picture 48838 — lesson 13. A program for the robot]
 
 ## Say it to your companion
 

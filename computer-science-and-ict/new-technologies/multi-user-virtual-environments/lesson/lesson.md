@@ -10,11 +10,15 @@ A **multi-user virtual environment** is a simulated world **hosted once and ente
 
 In your mind's eye: connecting — entering a shared world.
 
+[Picture 48820 — connecting — entering a shared world]
+
 ## Sub lesson 2 — Navigating together — movement, presence, meeting
 
 **Navigating** the shared world means **moving the avatar** through its spaces, **seeing and being seen** — presence is the environment's social fact: others appear as figures whose movements and words arrive as they happen, so the world supports **meeting, talking and working together** inside it, not merely sightseeing side by side. The chapter places these environments beside VR/AR systems as their social form: reality simulated once, society included.
 
 In your mind's eye: navigating together — movement, presence, meeting.
+
+[Picture 48821 — navigating together — movement, presence, meeting]
 
 ## Say it to your companion
 
