@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Digital Media Bias** — coverin
 
 In your mind's eye: digital Media Bias.
 
+[Picture 48416 — digital Media Bias]
+
 ## Sub lesson 2 — Doing it — Media Bias Types and How to Avoid IT in practice
 
 **Doing it — Media Bias Types and How to Avoid IT in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Media Bias Types and How to Avoid IT in practice.
+
+[Picture 48417 — doing it — Media Bias Types and How to Avoid IT in practice]
 
 ## Say it to your companion
 

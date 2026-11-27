@@ -10,11 +10,15 @@ On the computer, Teams' **settings** are where the pupil makes the program behav
 
 In your mind's eye: settings on the computer program.
 
+[Picture 48422 — settings on the computer program]
+
 ## Sub lesson 2 — Settings on the smart-device app
 
 The **smart-device app** carries the same platform in a smaller window: its settings cover the account, notifications on the phone, and the device's own camera and microphone permissions. The lesson's point is sameness with difference — it is the **same account and the same teams** on both, while each device's settings are its own, so a change made on the phone does not silently rewrite the computer.
 
 In your mind's eye: settings on the smart-device app.
+
+[Picture 48423 — settings on the smart-device app]
 
 ## Say it to your companion
 

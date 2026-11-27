@@ -10,11 +10,15 @@ The **project** gathers the section's skills into one piece of work done **on th
 
 In your mind's eye: the project — the platform used whole.
 
+[Picture 48420 — the project — the platform used whole]
+
 ## Sub lesson 2 — Working the project — in the platform's own order
 
 The work follows the platform's own order: **enter** signed in as yourself; **find** your team and read its posts; **take** the assignment and its files; **do** the work and, where the project asks, meet and discuss; **submit** and leave the team's conversation with a closing post. Each stage is checked against the project brief before the next begins — the same discipline Kuwait's project lessons teach in every subject.
 
 In your mind's eye: working the project — in the platform's own order.
+
+[Picture 48421 — working the project — in the platform's own order]
 
 ## Say it to your companion
 

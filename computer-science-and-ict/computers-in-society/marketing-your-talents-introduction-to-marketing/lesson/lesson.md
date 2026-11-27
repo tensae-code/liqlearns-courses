@@ -10,11 +10,15 @@ Kuwait's Grade 7 design year ends its products unit with a turn outward: you hav
 
 In your mind's eye: market your talents — from skill to product.
 
+[Picture 48412 — market your talents — from skill to product]
+
 ## Sub lesson 2 — Advertising — telling the right people
 
 The second half is the **telling**: an advertisement carries the product to the **people it is for** — saying what it is, what it does for them, and why this maker's version — in the places those people actually look. The lesson keeps the telling honest as a matter of craft: an advertisement promises what the product keeps. The year's design skills close the loop — the poster and publication lessons are how this product gets its face.
 
 In your mind's eye: advertising — telling the right people.
+
+[Picture 48413 — advertising — telling the right people]
 
 ## Say it to your companion
 

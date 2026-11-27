@@ -10,11 +10,15 @@ A **team** is the platform's room for a class or group: its members are the pupi
 
 In your mind's eye: teams — the class's rooms on the platform.
 
+[Picture 48426 — teams — the class's rooms on the platform]
+
 ## Sub lesson 2 — Assignments — view, solve, submit
 
 An **assignment** arrives inside its team with the teacher's instructions and its due moment. The pupil's three moves are the lesson: **view** the assignment and read what is actually asked; **solve** it — do the work, in the file or form the assignment carries; and **submit** it, handing the finished work back through the platform before the due moment. Submitting is a real act, not a hope: until it is done, the teacher has nothing.
 
 In your mind's eye: assignments — view, solve, submit.
+
+[Picture 48427 — assignments — view, solve, submit]
 
 ## Say it to your companion
 

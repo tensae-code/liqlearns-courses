@@ -10,11 +10,15 @@ The **ICT Development Index (IDI)** is the **ITU's** measure of a country's info
 
 In your mind's eye: the IDI — access, use, skills.
 
+[Picture 48414 — the IDI — access, use, skills]
+
 ## Sub lesson 2 — The standings — and reading them like a citizen
 
 The book's snapshot is **2017**: **Iceland, South Korea and Switzerland** stand on top of the index, and the world's internet users number **4.156 billion** — passed at last beyond half of humanity. Mongolia teaches the table as a citizen reads it: the leaders show what the baskets reward (small rich states and one giant of broadband discipline alike), the world's user count marks the revolution's true scale, and every rank is a year-stamped photograph, not a destiny — the next lesson turns the same instrument on Mongolia itself, whose slipping rank is the book's spur to its pupils.
 
 In your mind's eye: the standings — and reading them like a citizen.
+
+[Picture 48415 — the standings — and reading them like a citizen]
 
 ## Say it to your companion
 

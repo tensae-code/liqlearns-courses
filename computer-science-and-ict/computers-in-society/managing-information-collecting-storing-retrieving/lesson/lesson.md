@@ -10,11 +10,15 @@ Information left unmanaged is information lost: collected and forgotten, stored 
 
 In your mind's eye: collecting and storing — getting it and keeping it.
 
+[Picture 48406 — collecting and storing — getting it and keeping it]
+
 ## Sub lesson 2 — Processing, presenting and retrieving — making it usable and finding it again
 
 Stored data becomes useful by **processing** — sorting, calculating, summarising — and by **presenting**: showing the result in the form its user needs. And the test of the whole cycle is **retrieving**: asking for a piece of stored information and getting it back, quickly and exactly. A store that cannot be searched has failed at its job even if nothing was ever lost from it. Laos teaches managing as one cycle because each act earns its meaning from the next: we collect in order to retrieve.
 
 In your mind's eye: processing, presenting and retrieving — making it usable and finding it again.
+
+[Picture 48407 — processing, presenting and retrieving — making it usable and finding it again]
 
 ## Say it to your companion
 

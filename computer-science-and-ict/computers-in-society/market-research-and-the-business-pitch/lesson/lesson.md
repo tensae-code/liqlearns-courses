@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Collecting Market Insights** —
 
 In your mind's eye: collecting Market Insights.
 
+[Picture 48408 — collecting Market Insights]
+
 ## Sub lesson 2 — Doing it — Market Research and the Business Pitch in practice
 
 **Doing it — Market Research and the Business Pitch in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Market Research and the Business Pitch in practice.
+
+[Picture 48409 — doing it — Market Research and the Business Pitch in practice]
 
 ## Say it to your companion
 

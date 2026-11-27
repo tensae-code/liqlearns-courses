@@ -10,11 +10,15 @@ A class talks, and a class keeps things. Kuwait's fifth Teams lesson teaches the
 
 In your mind's eye: posts — the team's written conversation.
 
+[Picture 48424 — posts — the team's written conversation]
+
 ## Sub lesson 2 — Files — what the teacher adds to the team
 
 The team's **files** are its shelves: documents, worksheets and materials the **teacher adds** for the class to open, read and use. The pupil's skills are finding a file by its name and place, opening the right one (not yesterday's version), and knowing that team files belong to the class — you take your copy or read them in place; you do not tidy the teacher's shelves away.
 
 In your mind's eye: files — what the teacher adds to the team.
+
+[Picture 48425 — files — what the teacher adds to the team]
 
 ## Say it to your companion
 
