@@ -10,11 +10,15 @@ ScratchJr programs are built by **snapping blocks**: yellow **trigger** blocks s
 
 In your mind's eye: blocks that act.
 
+[Picture 47635 — blocks that act]
+
 ## Sub lesson 2 — Scene by scene from the story
 
 The scenarios build **scene by scene**: each written scene becomes one ScratchJr page, its characters placed, its script staged from the storyboard — nothing in the program that the story did not ask for. Changing scene, changing background and characters, is the program growing the way the story grows: page by page. The discipline travels to all later programming: the plan decides, the blocks obey.
 
 In your mind's eye: scene by scene from the story.
+
+[Picture 47636 — scene by scene from the story]
 
 ## Say it to your companion
 

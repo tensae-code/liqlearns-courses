@@ -10,11 +10,15 @@ A **saynète** is a tiny scene with a point. The scenario's sketches — “Agir
 
 In your mind's eye: a sketch with a message.
 
+[Picture 47631 — a sketch with a message]
+
 ## Sub lesson 2 — Program the persuasion
 
 Programming a sketch spends blocks on **timing and emphasis**: characters enter when needed, speech appears line by line, a scene holds a beat longer on the message's key moment. Groups then perform-exchange: sketches are shown, and the audience must state each sketch's sentence-that-stays. If they cannot, the sketch — however charming — has not yet done its job, and its makers revise the staging, not the audience.
 
 In your mind's eye: program the persuasion.
+
+[Picture 47632 — program the persuasion]
 
 ## Say it to your companion
 

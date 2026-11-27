@@ -10,11 +10,15 @@ Two builds leave Earth. The **space robot on the moon** places a robot sprite in
 
 In your mind's eye: the space builds — a robot on the moon, and the exploring space robot.
 
+[Picture 47633 — the space builds — a robot on the moon, and the exploring space robot]
+
 ## Sub lesson 2 — The butterfly and a beautiful day
 
 The other two builds stay home and slow down. The **butterfly** is movement made graceful — a creature sprite crossing its scene as butterflies do, by wandering flight, not straight lines. **A beautiful day** is a scene built for its mood: background, weather-bright sprites, and small actions that make the day feel beautiful. Enrichment ends the unit by trusting the pupil's taste: the blocks are given; the beauty is theirs.
 
 In your mind's eye: the butterfly and a beautiful day.
+
+[Picture 47634 — the butterfly and a beautiful day]
 
 ## Say it to your companion
 

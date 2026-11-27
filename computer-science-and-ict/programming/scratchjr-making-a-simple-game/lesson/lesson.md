@@ -10,11 +10,15 @@ A **game** is a play-world with a **point**: something to aim at, something that
 
 In your mind's eye: what a game is.
 
+[Picture 47641 — what a game is]
+
 ## Sub lesson 2 — Planning a game — idea, backgrounds, sprites, blocks
 
 A simple game is planned in four parts before blocks are touched: the **idea** (what the player tries to do), the **backgrounds** (the pages the game moves through), the **sprites** (the player character, the goal, the dangers), and the **blocks** (how each part moves, reacts and scores the moment of winning or losing). Grade 4's games are simple on purpose — one clear aim, few sprites, blocks already learned — because a finished small game teaches more than an abandoned grand one.
 
 In your mind's eye: planning a game — idea, backgrounds, sprites, blocks.
+
+[Picture 47642 — planning a game — idea, backgrounds, sprites, blocks]
 
 ## Say it to your companion
 

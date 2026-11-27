@@ -10,11 +10,15 @@ The **maze game** sends a sprite through a maze's passages — movement steered 
 
 In your mind's eye: the maze game and the safe-traffic game.
 
+[Picture 47643 — the maze game and the safe-traffic game]
+
 ## Sub lesson 2 — The obstacle-jump game and the moon-orbit game
 
 The **obstacle-jump game** is timing: the sprite must jump what blocks its path, and the player's tap or the program's timing decides success. The **moon-orbit game** leaves the ground: a sprite circles the moon — movement bent into an orbit, the unit's blocks stretched to a space scene. Four games, four tempers: steer, judge, time, and circle.
 
 In your mind's eye: the obstacle-jump game and the moon-orbit game.
+
+[Picture 47644 — the obstacle-jump game and the moon-orbit game]
 
 ## Say it to your companion
 

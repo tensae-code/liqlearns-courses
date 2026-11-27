@@ -10,11 +10,15 @@ ScratchJr programs are built on a **stage** — the screen where the story happe
 
 In your mind's eye: the basics, reviewed — stage, sprite, blocks.
 
+[Picture 47637 — the basics, reviewed — stage, sprite, blocks]
+
 ## Sub lesson 2 — The Wait block — a pause inside the action
 
 The **Wait block** makes a sprite **pause** for the count written in it before its next block runs. Waiting is how ScratchJr stories gain timing: a sprite crosses, waits, then speaks; two sprites act in turn instead of in a tangle. Read a script with Wait in it by acting it out at the sprite's speed — the pause is part of the program, not an accident in it.
 
 In your mind's eye: the Wait block — a pause inside the action.
+
+[Picture 47638 — the Wait block — a pause inside the action]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ After the Scratch room itself, Cuba's first block family is movement: the blue b
 
 In your mind's eye: move and turn — steps and degrees.
 
+[Picture 47627 — move and turn — steps and degrees]
+
 ## Sub lesson 2 — Point and glide — facing first, then travelling
 
 **Point** sets the sprite's direction at once — right, up, left or down by its number — so the next move goes the chosen way. **Glide** moves the sprite **smoothly to a place over a number of seconds**, instead of jumping there: the sprite is seen travelling, and a longer time means a slower journey. Cuba's Grade 5 guide adds glide to the movement family inside the same unit as move and turn: face the right way first, then travel — by steps at once, or by gliding in time.
 
 In your mind's eye: point and glide — facing first, then travelling.
+
+[Picture 47628 — point and glide — facing first, then travelling]
 
 ## Say it to your companion
 

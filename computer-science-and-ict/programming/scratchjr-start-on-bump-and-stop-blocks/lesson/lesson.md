@@ -10,11 +10,15 @@ One sprite alone is a monologue. Kuwait's second ScratchJr lesson makes sprites 
 
 In your mind's eye: start on Bump — a script woken by a meeting.
 
+[Picture 47647 — start on Bump — a script woken by a meeting]
+
 ## Sub lesson 2 — The Stop block — ending on purpose
 
 The **Stop block** ends a sprite's running script at the point where it stands. Paired with Start on Bump it closes the interaction's shape: a meeting starts the reaction, the reaction plays, and Stop ends it cleanly instead of letting it wander. A program that can start on a meeting and stop on purpose is a program whose meetings mean something.
 
 In your mind's eye: the Stop block — ending on purpose.
+
+[Picture 47648 — the Stop block — ending on purpose]
 
 ## Say it to your companion
 

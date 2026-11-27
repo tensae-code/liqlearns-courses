@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Project work "Musical Instruments"** �
 
 In your mind's eye: project work "Musical Instruments".
 
+[Picture 47629 — project work "Musical Instruments"]
+
 ## Sub lesson 2 — Doing it — Scratch Project Musical Instruments in practice
 
 **Doing it — Scratch Project Musical Instruments in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Scratch Project Musical Instruments in practice.
+
+[Picture 47630 — doing it — Scratch Project Musical Instruments in practice]
 
 ## Say it to your companion
 
