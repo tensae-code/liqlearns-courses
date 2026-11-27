@@ -10,11 +10,15 @@ The **repeat** instruction reads `repeat <instructions> until <condition>`: the 
 
 In your mind's eye: body first, test after.
 
+[Picture 47872 — body first, test after]
+
 ## Sub lesson 2 — repeat against while — and do-while
 
 Set the loops side by side: **while** tests first and repeats while its condition is **true** — it may run zero times; **repeat** tests last and repeats until its condition is **true** — it runs at least once, and its ending condition is the while's negation (repeat until x = 0 is while x <> 0 continued). C++ writes the same loop **do…while**. Choosing is a question about the first run: must the body act before any test makes sense — reading a value, showing a menu? Then repeat; must the test guard even the first entry? Then while.
 
 In your mind's eye: repeat against while — and do-while.
+
+[Picture 47873 — repeat against while — and do-while]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **systems life cycle** is the ordered life of an information system from fir
 
 In your mind's eye: six phases, one journey.
 
+[Picture 47891 — six phases, one journey]
+
 ## Sub lesson 2 — A cycle, not a line — and the alternatives at its side
 
 It is called a **cycle** because maintenance does not end the story: the changes it brings, and the problems it cannot fix, start a **new investigation**, and the wheel turns again on a replacement system. Fiji also keeps the honest company of alternatives at the cycle's side — **prototyping and rapid application development**, taught in their own section (the lesson after Phase 6): quicker, looser ways to grow a system, chosen when the full cycle's care would cost more than its safety is worth. The map lesson ends with the choice every real project faces: which road, and why.
 
 In your mind's eye: a cycle, not a line — and the alternatives at its side.
+
+[Picture 47892 — a cycle, not a line — and the alternatives at its side]
 
 ## Say it to your companion
 

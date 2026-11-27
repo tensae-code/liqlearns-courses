@@ -10,11 +10,15 @@ A Pascal program stands in fixed order: the **heading** (`program Name;`), then 
 
 In your mind's eye: pascal's anatomy — front matter, then the body.
 
+[Picture 47889 — pascal's anatomy — front matter, then the body]
+
 ## Sub lesson 2 — C++'s anatomy — includes, functions, main
 
 A C++ program is a **set of functions** with no fixed gathering: **preprocessor directives** (#include for the libraries) come first; **global declarations** and **function definitions** follow in any order the compiler can resolve; and **main** is the function where execution begins — one function among the set, marked by its name. Where Pascal is one document in fixed order, C++ is a **workshop of named tools** with main as the door. Both anatomies serve the same law: **everything used is declared, and execution starts at a known place**.
 
 In your mind's eye: c++'s anatomy — includes, functions, main.
+
+[Picture 47890 — c++'s anatomy — includes, functions, main]
 
 ## Say it to your companion
 

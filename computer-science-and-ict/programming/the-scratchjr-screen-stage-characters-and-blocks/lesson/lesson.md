@@ -10,11 +10,15 @@ The screen's heart is the **stage**: where characters act, on the chosen backgro
 
 In your mind's eye: the stage and its furniture.
 
+[Picture 47876 — the stage and its furniture]
+
 ## Sub lesson 2 — Blocks and the script area
 
 Below the stage lie the **block trays**, sorted by colour and job, and the **script area**, where the selected character's blocks are snapped into scripts. The screen's logic is a sentence: choose **who** (character), choose **what** (blocks), build **where** (script area), watch **on the stage**. The séance's exit test is pure geography: given any element, point to it — a pupil who can find everything can be taught anything on this screen.
 
 In your mind's eye: blocks and the script area.
+
+[Picture 47877 — blocks and the script area]
 
 ## Say it to your companion
 

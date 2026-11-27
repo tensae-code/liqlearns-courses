@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Statement Terminator** — cover
 
 In your mind's eye: statement Terminator.
 
+[Picture 47880 — statement Terminator]
+
 ## Sub lesson 2 — Doing it — The Semicolon Statement Terminator in practice
 
 **Doing it — The Semicolon Statement Terminator in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The Semicolon Statement Terminator in practice.
+
+[Picture 47881 — doing it — The Semicolon Statement Terminator in practice]
 
 ## Say it to your companion
 

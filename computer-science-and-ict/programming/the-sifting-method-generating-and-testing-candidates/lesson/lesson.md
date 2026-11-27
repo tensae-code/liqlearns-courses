@@ -10,11 +10,15 @@ The **sifting method** solves a problem in two exhaustive halves: **generate** t
 
 In your mind's eye: generate and test — the method's two halves.
 
+[Picture 47883 — generate and test — the method's two halves]
+
 ## Sub lesson 2 — The cost — and making sifting less blind
 
 Sifting's price is the size of its candidate space: permutations and combinations grow **factorially/exponentially**, so the method that is instant for hundreds drowns at millions. The craft inside sifting is **pruning**: generate candidates **in parts** and test each partial candidate early, abandoning a whole family the moment a part already fails — the seed of backtracking. And the method's second office is as a **measure**: the clever method (greedy, dynamic) must beat sifting's time while matching its answers on small cases — sifting is the examiner that never lies.
 
 In your mind's eye: the cost — and making sifting less blind.
+
+[Picture 47884 — the cost — and making sifting less blind]
 
 ## Say it to your companion
 

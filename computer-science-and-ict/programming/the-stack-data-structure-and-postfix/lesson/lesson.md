@@ -10,11 +10,15 @@ A **stack** (tumpukan) is a data structure that keeps its values in a pile with 
 
 In your mind's eye: the stack — last in, first out.
 
+[Picture 47887 — the stack — last in, first out]
+
 ## Sub lesson 2 — Postfix — the stack computes
 
 Grade 8's jewel is **postfix** evaluation (the book's 'cara Koko' — Koko's way): in postfix notation the operator follows its values — `3 4 +` instead of `3 + 4` — and a stack evaluates it mechanically: read left to right, **push numbers**, and when an **operator** arrives, **pop two values, apply it, push the result**. At the end, the stack holds the single answer. No brackets, no precedence rules — the stack's order does the whole grammar. The same chapter's Grade 10 twin completes the picture: the **queue** beside the stack, first-in-first-out, and simulations that teach choosing between them by the problem's shape.
 
 In your mind's eye: postfix — the stack computes.
+
+[Picture 47888 — postfix — the stack computes]
 
 ## Say it to your companion
 

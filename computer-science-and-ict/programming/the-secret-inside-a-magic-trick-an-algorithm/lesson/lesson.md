@@ -10,11 +10,15 @@ The activity's first move is demystification: **understand the magicians' tricks
 
 In your mind's eye: understand the trickster's method.
 
+[Picture 47878 — understand the trickster's method]
+
 ## Sub lesson 2 — Writing the trick as a logigramme
 
 Temps 1.2 writes the trick's steps into a **logigramme** (flowchart): the choices the spectator ‘freely’ makes become branches that reconverge; the performer's questions become tests; the reveal sits at the chart's single exit. Drawn this way, the class sees the family resemblance in full: the magic trick, the Deviner la carte conditional, and every deterministic program share one skeleton — arrange the steps so the desired end cannot escape.
 
 In your mind's eye: writing the trick as a logigramme.
+
+[Picture 47879 — writing the trick as a logigramme]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **stage** (right) is where the project performs, with its backdrop; beneath 
 
 In your mind's eye: stage, sprites, and the project's cast.
 
+[Picture 47874 — stage, sprites, and the project's cast]
+
 ## Sub lesson 2 — Palette and script area
 
 The **block palette** (left/centre) sorts blocks by category and colour — motion, looks, sound, events, control, sensing, operators, variables — and the **script area** is the bench where blocks snap into scripts for the selected sprite. Discovery ends with the interface read as a workflow: pick the **who** (sprite), take the **what** (blocks), build on the **bench**, watch on the **stage**. Pupils who own the geography can spend every later séance on ideas instead of hunting.
 
 In your mind's eye: palette and script area.
+
+[Picture 47875 — palette and script area]
 
 ## Say it to your companion
 

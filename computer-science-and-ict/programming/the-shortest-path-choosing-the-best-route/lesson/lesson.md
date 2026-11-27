@@ -14,6 +14,8 @@ Shortest is a choosing problem, like the algorithm lessons before it: state the 
 
 In your mind's eye: a simple map with two routes from a house to a park. A long route around the block and a short route through a lane, with steps counted along each.
 
+[Picture 47882 — a simple map with two routes from a house to a park. A long route around the block and a short route through a lane, with steps counted along each]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: When several routes lead to the same place, the shortest path is the route with the least travelling — choosing it means comparing the routes and picking the best one. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.
