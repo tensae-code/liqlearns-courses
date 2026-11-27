@@ -1,0 +1,27 @@
+# Maddoota — Tapha Jechaa
+
+biyyoota: Itoophiyaa
+
+**Kitaaba 1:** *Afaan Oromoo Akka Afaan Lammaffaatti — Qajeelcha Barsiisotaa Kutaa 3ffaa* (qajeelcha barsiisotaa — Afaan Oromoo akka afaan lammaffaatti, Kutaa 3) — Itoophiyaa, Biiroo Barnootaa Bulchiinsa Magaalaa Finfinnee, Yunivarsiitii Barnootaa Kotabee waliin qophaa'e, Finfinnee, 2015 A.L.H. / 2023, fuula maxxanfame 68. Fuulli maxxanfame = fuula PDF − 4. Guutummaatti, fuula fuulaan, dubbifame. Bakka bu'iinsi: liqlearns-courses-work/ethiopia-2026-11-11/afan-oromo/g03-teacher-placements.md.
+
+**Kitaaba 2:** *Afaan Oromoo Akka Afaan Lammaffaatti — Qajeelcha Barsiisotaa Kutaa 4ffaa* (qajeelcha barsiisotaa — Afaan Oromoo akka afaan lammaffaatti, Kutaa 4) — Itoophiyaa, Biiroo Barnootaa Bulchiinsa Magaalaa Finfinnee, Yunivarsiitii Barnootaa Kotabee waliin qophaa'e, Finfinnee, 2015 A.L.H., fuula maxxanfame 89. Fuulli maxxanfame = fuula PDF − 3. Guutummaatti, fuula fuulaan, dubbifame. Bakka bu'iinsi: liqlearns-courses-work/ethiopia-2026-11-11/afan-oromo/g04-teacher-placements.md.
+
+**Kitaaba 3:** *Barnoota Afaan Oromoo — Qajeelcha Barsiisaa Kutaa 7ffaa* (qajeelcha barsiisaa — barnoota Afaan Oromoo, Kutaa 7) — Itoophiyaa, Biiroo Barnootaa Bulchiinsa Magaalaa Finfinnee, Finfinnee, 2014 A.L.H. / 2022, fuula maxxanfame 170. Fuulli maxxanfame = fuula PDF − 3. Guutummaatti, fuula fuulaan, dubbifame. Bakka bu'iinsi: liqlearns-courses-work/ethiopia-2026-11-11/afan-oromo/g07-teacher-placements.md.
+
+| Qaama barnootaa | Eessaa akka dhufe |
+|---|---|
+| Faallaawwan (qajeelcha barsiisotaa — ragaa) | Qajeelcha barsiisotaa Kutaa 3, Boqonnaa 6 — faallaawwan (*hiika faallaa*): furdaa ↔ qallaa, dheeraa ↔ gabaabaa, adii ↔ gurraacha (gabatee silabaasii; Boqonnaa 6 keessatti barsiifame), fuula maxxanfame 54, 23; Qajeelcha barsiisotaa Kutaa 4, Boqonnaa 8 — jechoonni hiika walfakkii fi faallaawwan dubbisa hojii keessatti walitti fudhataman, fuula maxxanfame 40, 42 |
+| Jechamootaa fi jechoota hiika walfakkii (qajeelcha barsiisotaa — ragaa) | Qajeelcha barsiisotaa Kutaa 7, Boqonnaa 7 — jechamoonni fayyadama keessatti (*ibsoota jechamoota*) dubbifamanii fayyadaman; jechoonni hiika walfakkii walitti fudhataman (*jechoota hiika walfakkii*) (qabiyyee/kaayyoowwan), fuula maxxanfame 87 |
+| Hiika galumsa keessatti (qajeelcha barsiisotaa — ragaa) | Qajeelcha barsiisotaa Kutaa 7, Boqonnaa 1 — jechoota galumsa keessatti: walitti fiduu hiika jechaa fi tuuta cimdii gochimaa dubbisa irraa (deebiiwwan), fuula maxxanfame 6–7 |
+| Jechoota guutuu ijaaruu (qajeelcha barsiisotaa — ragaa) | Qajeelcha barsiisotaa Kutaa 3, Boqonnaa 5 — deebiiwwan ijaarsa jechaa: bineensa, qalama, mallattoo, mammaaksa, alaabaa; gaara, naacha, raacha, saree (deebii gilgaalaa), fuula maxxanfame 20 |
+| Marsaa jechaa mana barumsaa fi gochoota guyyaa (qajeelcha barsiisotaa — ragaa) | Qajeelcha barsiisotaa Kutaa 4, Boqonnaa 10 — marsaa jechaa wantoota mana barumsaa (deebii gilgaalaa), fuula maxxanfame 59; Qajeelcha barsiisotaa Kutaa 3, Boqonnaa 8 — jechoota gocha qulqullinaa fakkii irraa (deebii gilgaalaa), fuula maxxanfame 36 |
+| Jechoota fayyadama keessatti (qajeelcha barsiisotaa — ragaa) — Picture 12502 barnoota kanaaf LiqLearns dhaan hojjetame | Qajeelcha barsiisotaa Kutaa 7, Boqonnaa 9 — deebiiwwan gilgaalaa boqonnaa hojiitti kaa'aman: xumura gaalee jechamaa, bifoota gochimaa yeroo ammaa fi tuuta jechoota hiika walfakkii (deebiiwwan, fuula maxxanfame 123–124), fi hiika galumsaa irra deebii boqonnaa (*hiika galumsaa*) himoota kudha ja'a keessatti (fuula maxxanfame 127) (dabalata Kutaa 7, 2026-11-12 ijaarame) |
+| Jechoota hiika tokkoo dabalataa (qajeelcha barsiisotaa — ragaa) — Picture 12503 barnoota kanaaf LiqLearns dhaan hojjetame | Qajeelcha barsiisotaa Kutaa 7, Boqonnaa 10 — jechoota hiika walfakkii Gilgaala 8 (weedduu, sakaaluu/takaaluu, gorora, gosa, danqaraa, gatii, kaarruu, gufuun, magaala, maraachaa), fuula maxxanfame 135–136 (dabalata Kutaa 7, 2026-11-12 ijaarame) |
+
+**Lakkoofsi fudhatamaa: biyyoota 0 keessatti barsiifama — barnoonni kun ragaa qajeelcha barsiisotaa qofa irratti dhaabbata (Itoophiyaa), asitti maqaa dhahame, eessattiyyuu hin lakkaa'amu.**
+
+Dhugaa isaa: kitaabni barataa Afaan Oromoo kam illee harka hin jiru — kitaabni barataa galmee mana kitaabaa keessa hin jiru. Barnoonni kun ragaa qajeelcha barsiisotaa qofa irraa ijaarame: kaayyoowwan qajeelchotaa, tarree qabiyyee, gabatee silabaasii, fi deebii gilgaalotaa guutuu isaanii, kanneen deebii gilgaala kitaaba barataa maxxansuun waan barattoonni hojjetan ragaa ta'an. Wanti asitti jiru kam illee akka qabiyyee kitaaba barataa hin dhiyaatu, jechi kitaaba barataa tokkollee hin uumamne; bakka qajeelchi dubbisa, faaruu yookiin dhaggeeffannaa hin maxxansiin eerutti, barnoonni kun tarree fi deebii qajeelchaa mataa isaa irraa barsiisa, akkasumas ni jedha.
+
+Haala: barnoonni kun haala makaa dha, maqaa dhaha: qaamni faallaawwan, jechoota guutuu, marsaa fi qulqullina qajeelchota **afaan lammaffaa** Kutaa 3–4 irratti dhaabbata; qaamni jechamootaa/jechoota hiika walfakkii fi hiika galumsaa qajeelcha **afaan dhalootaa** Kutaa 7 irratti dhaabbata (qabiyyee fi deebii gilgaalaa isaa). Tarreen tokkoon tokkoon madda isaa maqaa dhaha.
+
+Maqaa barbaachaa: tapha jechaa, faallaawwan, hiika faallaa, jechoota hiika walfakkii, hiika walfakkii, jechamoota, jechamoota, hiika galumsa keessatti, ijaarsa jechaa, mammaaksa, marsaa jechaa, meeshaalee barnootaa, gochoota qulqullinaa, jechoota fayyadama keessatti, hiika galumsaa, xumura jechamaa, sakaaluu, takaaluu
