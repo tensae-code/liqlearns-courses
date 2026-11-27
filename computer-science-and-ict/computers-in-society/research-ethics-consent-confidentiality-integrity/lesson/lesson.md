@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Research Ethics** — covering: 
 
 In your mind's eye: research Ethics.
 
+[Picture 48500 — research Ethics]
+
 ## Sub lesson 2 — Doing it — Research Ethics Consent Confidentiality Integrity in practice
 
 **Doing it — Research Ethics Consent Confidentiality Integrity in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Research Ethics Consent Confidentiality Integrity in practice.
+
+[Picture 48501 — doing it — Research Ethics Consent Confidentiality Integrity in practice]
 
 ## Say it to your companion
 

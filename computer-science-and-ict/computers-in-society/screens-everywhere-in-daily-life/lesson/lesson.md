@@ -10,11 +10,15 @@ Some screens announce themselves: television, tablet, phone, computer. Others hi
 
 In your mind's eye: the screens we notice — and the ones we don't.
 
+[Picture 48514 — the screens we notice — and the ones we don't]
+
 ## Sub lesson 2 — What each screen is for
 
 Each found screen gets one question: **what is it for?** Some show (a departure board), some let you choose (a ticket machine), some watch and measure (a thermostat display), some entertain. Sorting screens by their job turns a vague feeling — “screens everywhere” — into knowledge: this place has these screens, doing these jobs, and I use them in these ways.
 
 In your mind's eye: what each screen is for.
+
+[Picture 48515 — what each screen is for]
 
 ## Say it to your companion
 

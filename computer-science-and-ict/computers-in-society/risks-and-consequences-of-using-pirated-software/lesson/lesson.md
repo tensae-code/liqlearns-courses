@@ -10,11 +10,15 @@ A pirate source has no reputation to protect: its copies are a favourite carrier
 
 In your mind's eye: the risks inside the copy — malware and broken software.
 
+[Picture 48504 — the risks inside the copy — malware and broken software]
+
 ## Sub lesson 2 — The consequences — law and loss
 
 Using pirated software breaks **copyright law**, and the consequences reach the user: **fines and legal action** where the law is enforced, removal of the software, and — in a school or office — blame that falls on the whole institution. The lesson's sum is the unit's sum: piracy steals from the maker, endangers the user, and breaks the law — three costs for one copy that was never honestly free.
 
 In your mind's eye: the consequences — law and loss.
+
+[Picture 48505 — the consequences — law and loss]
 
 ## Say it to your companion
 

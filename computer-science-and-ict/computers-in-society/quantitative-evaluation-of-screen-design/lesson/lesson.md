@@ -10,11 +10,15 @@ A **quantitative evaluation** measures the interaction with **counts**: how many
 
 In your mind's eye: the numbers of a trial.
 
+[Picture 48494 — the numbers of a trial]
+
 ## Sub lesson 2 — Discussing the report — numbers into decisions
 
 The report is **discussed**, not merely read: each number is set against the design's **aim** (a checkout task aimed at under a minute that averages 2:40 has failed, however pleasant the screens felt), and the failures are **ranked** — the task with the lowest success is repaired first. Malaysia's discussion also honours the numbers' limits: a small trial's figures are **indications**, not proofs, and a satisfaction average can hide a furious minority the comments reveal. The evaluation ends in decisions: which screens change, in what order, and what will be measured again after the change.
 
 In your mind's eye: discussing the report — numbers into decisions.
+
+[Picture 48495 — discussing the report — numbers into decisions]
 
 ## Say it to your companion
 

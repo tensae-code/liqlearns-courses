@@ -10,11 +10,15 @@ A **scientific method of inquiry** is a disciplined way of asking: start from an
 
 In your mind's eye: the method — question, hypothesis, test.
 
+[Picture 48512 — the method — question, hypothesis, test]
+
 ## Sub lesson 2 — Checking and sharing — variables, repetition, peer review
 
 A test is fair when it changes **one variable at a time** and holds the rest still (controls), and when it can be **repeated** by others with the same result. Science then shares: methods and data are published so others can **review, repeat and challenge** — peer review is organised doubt. In computing the same method runs A/B tests, benchmarks and debugging itself: a bug report is a hypothesis ('it fails when…') waiting for its test.
 
 In your mind's eye: checking and sharing — variables, repetition, peer review.
+
+[Picture 48513 — checking and sharing — variables, repetition, peer review]
 
 ## Say it to your companion
 

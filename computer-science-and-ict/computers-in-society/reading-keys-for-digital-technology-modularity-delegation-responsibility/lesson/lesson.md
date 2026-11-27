@@ -10,11 +10,15 @@ Every digital technology is **modular**: it is built from smaller parts that can
 
 In your mind's eye: modularity and the socio-technical environment.
 
+[Picture 48496 — modularity and the socio-technical environment]
+
 ## Sub lesson 2 — Delegation, responsibility and pluralism
 
 **Delegation** is handing work to the machine: the alarm remembers, the map navigates, the spell-checker watches. But delegating does not erase **responsibility** — the person who delegates still answers for the result, so the guides ask who decided, who checked, who is accountable. **Pluralism** completes the keys: there is never only one tool, one answer or one way of living with technology — several ways exist, and they can be compared and chosen between.
 
 In your mind's eye: delegation, responsibility and pluralism.
+
+[Picture 48497 — delegation, responsibility and pluralism]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ For the **individual**, Jordan names: **addiction and stolen time** (designs tha
 
 In your mind's eye: risks to the individual.
 
+[Picture 48506 — risks to the individual]
+
 ## Sub lesson 2 — Risks to society
 
 For **society**: **misinformation at speed** (lies outpacing corrections), **division** (groups sealed in their own feeds), **job displacement** (means that do work people lived by), **dependence** (a society that cannot function when its systems stop — and stops often), and the **widening gap** (the connected gaining on the unconnected in every field at once). The lesson closes with the guarding principle the whole Grade 9 unit repeats: risks are answered by **knowledge, habits and laws together** — never by fear alone, and never by pretending the scale's other side is empty.
 
 In your mind's eye: risks to society.
+
+[Picture 48507 — risks to society]
 
 ## Say it to your companion
 
