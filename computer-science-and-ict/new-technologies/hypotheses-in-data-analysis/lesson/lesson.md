@@ -10,11 +10,15 @@ A **hypothesis** is a **clear, testable statement** about the data's world, made
 
 In your mind's eye: what a hypothesis is.
 
+[Picture 48780 — what a hypothesis is]
+
 ## Sub lesson 2 — Testing — data as judge
 
 Testing gathers the data the hypothesis names, computes the difference (or link), and asks the discipline's question: **could this difference be chance?** — the smaller the chance-explanation, the stronger the evidence against the null. The verdicts are stated honestly: the data **supports** the hypothesis or **fails to support** it — never 'proves' in one study, because samples vary and one test is one witness. Jordan closes the data unit here: question, hypothesis, test, honest verdict — the scientific shape every earlier stage was serving.
 
 In your mind's eye: testing — data as judge.
+
+[Picture 48781 — testing — data as judge]
 
 ## Say it to your companion
 

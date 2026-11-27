@@ -10,11 +10,15 @@ An IoT system's **communication scenario** is the pattern of its conversations. 
 
 In your mind's eye: communication scenarios — who talks to whom.
 
+[Picture 48794 — communication scenarios — who talks to whom]
+
 ## Sub lesson 2 — Designing and collecting — the data's journey planned
 
 **Network design** fixes the rest: which links (short or long range), where gateways stand, how addresses and security are handled, and what happens when a link fails. **Data collection** is designed with it: what is collected, at what rhythm, kept where, for how long. The book's rule: data collected without a designed journey becomes a swamp — expensive to keep, impossible to trust, dangerous to hold.
 
 In your mind's eye: designing and collecting — the data's journey planned.
+
+[Picture 48795 — designing and collecting — the data's journey planned]
 
 ## Say it to your companion
 

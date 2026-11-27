@@ -10,11 +10,15 @@ An **interactive visualisation** responds to its reader: **hovering** reveals ex
 
 In your mind's eye: what makes it interactive.
 
+[Picture 48788 — what makes it interactive]
+
 ## Sub lesson 2 — Its powers and its duties
 
 The powers: **exploration** (the reader finds the pattern that matters to them), **honesty by depth** (the aggregate can be opened to the cases inside it — the last lessons' declarations, made walkable), and **engagement** (people question what they can touch). The duties match: interactions must not **hide the whole** (a filter left on is a lie by omission), defaults must be **honest** (the opening view is the fair view), and the maker must remember that most readers never click — the static message must still stand. Jordan closes the visualisation strand with the reader promoted from audience to analyst — under the same honesty rules.
 
 In your mind's eye: its powers and its duties.
+
+[Picture 48789 — its powers and its duties]
 
 ## Say it to your companion
 

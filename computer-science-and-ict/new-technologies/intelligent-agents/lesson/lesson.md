@@ -10,11 +10,15 @@ An **intelligent agent** is a program that **perceives its environment through s
 
 In your mind's eye: what an agent is — sense, decide, act.
 
+[Picture 48786 — what an agent is — sense, decide, act]
+
 ## Sub lesson 2 — Agents at work — and their limits
 
 Intelligent agents already run errands everywhere: the **assistant** that answers and schedules, the **filter** that sorts mail from spam, the **recommender** that chooses what to offer next, the **robot** that navigates a floor, the **player** that opposes you in a game. Laos closes its AI branches with agents because they gather the others: an agent may carry a neural network as its eyes and fuzzy logic as its judgement, wrapped in the loop that makes it behave as a someone rather than a something. Its limits are the chapter's standing limits of AI: an agent does only the goal it was given, understands nothing beyond its sensors and model, and its acts are its makers' responsibility — the agent is a tool with initiative, not a mind with intentions.
 
 In your mind's eye: agents at work — and their limits.
+
+[Picture 48787 — agents at work — and their limits]
 
 ## Say it to your companion
 

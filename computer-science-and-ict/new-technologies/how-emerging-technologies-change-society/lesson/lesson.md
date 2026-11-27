@@ -10,11 +10,15 @@ An **emerging technology** is a **new technology still spreading into use**. It 
 
 In your mind's eye: how emerging technologies evolve.
 
+[Picture 48778 — how emerging technologies evolve]
+
 ## Sub lesson 2 — Impact on society and environment — a music case study
 
 The same technology can bring **changes in jobs and the skills needed** and **new waste and energy use from devices** — good and bad effects together. The guide's **case study is music**: recording and digital sharing changed how music is made and how it reaches listeners. A case study uses one real example, studied in detail, to show the whole pattern.
 
 In your mind's eye: impact on society and environment — a music case study.
+
+[Picture 48779 — impact on society and environment — a music case study]
 
 ## Say it to your companion
 

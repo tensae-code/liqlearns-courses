@@ -10,11 +10,15 @@ An AI decides in **steps**: it **takes in** information (what its senses or its 
 
 In your mind's eye: the steps AI follows to decide.
 
+[Picture 48776 — the steps AI follows to decide]
+
 ## Sub lesson 2 — AI around us — smart surveillance cameras
 
 Deciders are already at work around the pupils: Kuwait's named example is the **smart surveillance camera**, which does not merely record but **decides** — is that movement a person? a car? nothing? — and alerts or ignores accordingly. The lesson's closing habit is spotting the steps in the wild: for any AI around us, ask what it takes in, what it was trained on, and what it chooses — three questions that turn a marvel into a mechanism a Grade 4 pupil can reason about.
 
 In your mind's eye: aI around us — smart surveillance cameras.
+
+[Picture 48777 — aI around us — smart surveillance cameras]
 
 ## Say it to your companion
 

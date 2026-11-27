@@ -10,11 +10,15 @@ Image recognition enters the app as an **AI extension/component**: the app hands
 
 In your mind's eye: recognition as a component — the app asks an AI.
 
+[Picture 48782 — recognition as a component — the app asks an AI]
+
 ## Sub lesson 2 — Building the seeing app — and judging its answers
 
 The built app follows the unit's pattern: **camera → recognition → response** (speak the label, show it, act on it), tested against the class's own objects in the room's own light — where its **mistakes become the lesson**: the recogniser confuses the similar, fails in the strange light, and answers confidently where it should doubt, exactly the machine-learning limits the course has taught since Grade 8's neural network. The builder's closing craft is designing the app to **show its confidence and survive its errors** instead of hiding them.
 
 In your mind's eye: building the seeing app — and judging its answers.
+
+[Picture 48783 — building the seeing app — and judging its answers]
 
 ## Say it to your companion
 

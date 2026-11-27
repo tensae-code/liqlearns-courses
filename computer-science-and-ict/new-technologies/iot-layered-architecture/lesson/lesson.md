@@ -10,11 +10,15 @@ A **layered architecture** divides a system into stacked layers, each with its o
 
 In your mind's eye: why layers — dividing the work.
 
+[Picture 48790 — why layers — dividing the work]
+
 ## Sub lesson 2 — The functions of the layers
 
 Each layer has named **functions**: perception collects data from things; the network layer transmits it reliably and addresses its journey; processing stores, analyses and decides; the application layer presents services — the dashboard, the alert, the automatic action. Between the layers sit **interfaces** — agreed ways of handing work across — and beneath the whole stack run the cross-cutting concerns, above all **security and management**, which no single layer owns alone.
 
 In your mind's eye: the functions of the layers.
+
+[Picture 48791 — the functions of the layers]
 
 ## Say it to your companion
 

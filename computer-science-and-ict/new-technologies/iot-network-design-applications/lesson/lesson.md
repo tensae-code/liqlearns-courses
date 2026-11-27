@@ -10,11 +10,15 @@ A practical design proceeds in order: **name the problem and its measures** (wha
 
 In your mind's eye: the design act — from problem to plan.
 
+[Picture 48796 — the design act — from problem to plan]
+
 ## Sub lesson 2 — Worked applications — designs that differ
 
 Jordan's applications differ because their grounds differ: a **smart home** (short range, mains power, comfort and safety), a **greenhouse** (moisture rhythms, a gateway in a shed, alerts that must arrive), a **city service** (hundreds of points, public data, stubborn reliability). Comparing worked designs teaches the unit's deepest point: there is no standard IoT network, only standard questions — the design is the set of answers one ground demands.
 
 In your mind's eye: worked applications — designs that differ.
+
+[Picture 48797 — worked applications — designs that differ]
 
 ## Say it to your companion
 

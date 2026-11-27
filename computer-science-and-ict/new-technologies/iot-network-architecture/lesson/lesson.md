@@ -10,11 +10,15 @@ An IoT **network architecture** arranges: the **things** at the edge (sensors an
 
 In your mind's eye: the parts in their places.
 
+[Picture 48792 — the parts in their places]
+
 ## Sub lesson 2 — Arrangements — star, mesh and hybrid
 
 The edge can be arranged as a **star** (every thing talks to one hub — simple, and the hub is a single point of failure), a **mesh** (things relay for each other — far-reaching and stubborn, harder to manage), or a **hybrid** mixing both. The architecture decision weighs range, power, cost and reliability for the actual ground the network must cover — a flat, a farm and a factory floor answer differently, and the book's applications lesson tests exactly that weighing.
 
 In your mind's eye: arrangements — star, mesh and hybrid.
+
+[Picture 48793 — arrangements — star, mesh and hybrid]
 
 ## Say it to your companion
 
