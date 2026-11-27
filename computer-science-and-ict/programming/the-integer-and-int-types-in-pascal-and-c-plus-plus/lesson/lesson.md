@@ -10,11 +10,15 @@ Both languages offer whole numbers in **several sizes**: Pascal's family runs fr
 
 In your mind's eye: a family of sizes — and the sign choice.
 
+[Picture 47846 — a family of sizes — and the sign choice]
+
 ## Sub lesson 2 — Integer arithmetic in the pair — division's two answers
 
 The pair agrees on +, −, * and disagrees, instructively, on division. Pascal splits it: **/** gives a real, **div** the whole quotient, **mod** the remainder. C++'s **/** on two ints *is* Pascal's div — the whole quotient, fraction discarded — and **%** is its mod: 7 / 2 is 3 in C++ integers, 7 % 2 is 1. The same symbols, different contracts: the dual course's recurring lesson — **the type and the language together fix what an operator does**, never the symbol alone.
 
 In your mind's eye: integer arithmetic in the pair — division's two answers.
+
+[Picture 47847 — integer arithmetic in the pair — division's two answers]
 
 ## Say it to your companion
 

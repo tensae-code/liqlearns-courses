@@ -10,11 +10,15 @@ An **algorithm** is the plan: a finite, precise sequence of instructions that so
 
 In your mind's eye: algorithm and machine.
 
+[Picture 47832 — algorithm and machine]
+
 ## Sub lesson 2 — Language and data
 
 A **language** is how plan and machine meet: the agreed system of signs — blocks, cards, or text like Scratch and Python — in which algorithms are written so both human and machine can read them. **Data (les données)** is what algorithms work on: the information, represented in forms the machine can store and transform — numbers, letters, pixels, sounds. Four concepts, one scene: data is worked on, by an algorithm, written in a language, run by a machine.
 
 In your mind's eye: language and data.
+
+[Picture 47833 — language and data]
 
 ## Say it to your companion
 

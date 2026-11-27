@@ -10,11 +10,15 @@ Greece's national-exam programming course does not begin in Python or Java. It b
 
 In your mind's eye: the language and its alphabet.
 
+[Picture 47836 — the language and its alphabet]
+
 ## Sub lesson 2 — Data types, constants and variables
 
 ΓΛΩΣΣΑ holds four kinds of value: **ΑΚΕΡΑΙΕΣ** (integer), **ΠΡΑΓΜΑΤΙΚΕΣ** (real), **ΧΑΡΑΚΤΗΡΕΣ** (character/string) and **ΛΟΓΙΚΕΣ** (logical — ΑΛΗΘΗΣ/ΨΕΥΔΗΣ, true/false). A **constant (ΣΤΑΘΕΡΑ)** is a value named once in the declarations and never changed in the run; a **variable (ΜΕΤΑΒΛΗΤΗ)** is a named place whose value commands may change. Declaring each name with its type before use is the language's discipline: the reader — and the examiner — always knows what kind of thing every name holds.
 
 In your mind's eye: data types, constants and variables.
+
+[Picture 47837 — data types, constants and variables]
 
 ## Say it to your companion
 

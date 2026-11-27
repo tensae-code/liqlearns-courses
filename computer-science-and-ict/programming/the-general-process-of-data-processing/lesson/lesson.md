@@ -10,11 +10,15 @@ The process opens with **purpose**: a question someone needs answered decides wh
 
 In your mind's eye: a funnel. Scattered papers, forms and sensor readings pouring into the top, and a neat table of rows and columns flowing out of the bottom.
 
+[Picture 47834 — a funnel. Scattered papers, forms and sensor readings pouring into the top, and a neat table of rows and columns flowing out of the bottom]
+
 ## Sub lesson 2 — From ready data to an answer — analyse, present, apply
 
 With ready data, **analysis** asks the questions: totals, averages, groupings, comparisons, patterns over time — drawn out with tools, as the analysis lesson shows. Analysis kept as bare numbers persuades nobody, so the process **presents** the findings — charts and visual displays that let a reader see the pattern at a glance. Finally the results are **applied and reported**: a written report states the question, the data, the findings and what should be done, and the decision-makers act. The process is a chain of dependencies: dirty data poisons analysis, analysis without presentation persuades no one, and a report that nobody applies was effort wasted.
 
 In your mind's eye: the neat table from the first sub lesson travelling onward — into a magnifying glass (analysis), out as a rising bar chart (presentation), and landing as a signed decision on a head teacher's desk (application).
+
+[Picture 47835 — the neat table from the first sub lesson travelling onward — into a magnifying glass (analysis), out as a rising bar chart (presentation), and landing as a signed decision on a head teacher's desk (application)]
 
 ## Say it to your companion
 

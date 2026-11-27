@@ -10,11 +10,15 @@ The **goto** instruction is written `goto <label>;` and its execution is absolut
 
 In your mind's eye: goto — the unconditional jump.
 
+[Picture 47838 — goto — the unconditional jump]
+
 ## Sub lesson 2 — Why it is avoided — spaghetti and structure
 
 Programs woven from free jumps earned the profession's verdict name: **spaghetti code** — control flowing like tangled strands, unreadable because a reader cannot see a jump's whole story on one page. **Structured programming** answered with the governed instructions — sequence, if, while, for, repeat, case — each with **one entry and one exit**, each readable locally. Goto survives legitimately only at rare edges (escaping several nested loops at once, in some languages without better tools). The course's rule: **know goto, recognise it, and write without it**.
 
 In your mind's eye: why it is avoided — spaghetti and structure.
+
+[Picture 47839 — why it is avoided — spaghetti and structure]
 
 ## Say it to your companion
 

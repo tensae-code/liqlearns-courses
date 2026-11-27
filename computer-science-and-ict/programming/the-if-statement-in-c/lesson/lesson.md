@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Selection Statement: §3.2.1 If 
 
 In your mind's eye: selection Statement. §3.2.1 If statement.
 
+[Picture 47844 — selection Statement. §3.2.1 If statement]
+
 ## Sub lesson 2 — If Statement
 
 This part of Pakistan (Punjab)'s book teaches **If Statement** — covering: Chapter 11 §11.2 if Statement (a condition evaluates to 1 or 0; §11.2.1 simple if with its flowchart — the square-root program with sqrt from math.h; §11.2.2 if-else statement with its flowchart; the "illegal else without matching if" brace trap). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: if Statement.
+
+[Picture 47845 — if Statement]
 
 ## Say it to your companion
 

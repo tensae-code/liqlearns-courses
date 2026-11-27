@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **The History of C and What a Prog
 
 In your mind's eye: the History of C and What a Program Is.
 
+[Picture 47842 — the History of C and What a Program Is]
+
 ## Sub lesson 2 — Doing it — The History of C and What a Program Is in practice
 
 **Doing it — The History of C and What a Program Is in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The History of C and What a Program Is in practice.
+
+[Picture 47843 — doing it — The History of C and What a Program Is in practice]
 
 ## Say it to your companion
 

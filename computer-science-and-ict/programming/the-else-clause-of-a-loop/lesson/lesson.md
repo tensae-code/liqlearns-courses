@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Controlling a loop** — covering: 4.6:
 
 In your mind's eye: controlling a loop.
 
+[Picture 47826 — controlling a loop]
+
 ## Sub lesson 2 — Controlling a loop
 
 This part of Kazakhstan's book teaches **Controlling a loop** — covering: §23: Controlling a loop — else. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: controlling a loop.
+
+[Picture 47827 — controlling a loop]
 
 ## Say it to your companion
 

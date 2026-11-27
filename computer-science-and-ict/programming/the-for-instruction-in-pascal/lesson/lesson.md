@@ -10,11 +10,15 @@ The **for** instruction reads `for i := 1 to n do <instruction>`: the **control 
 
 In your mind's eye: for — the counted loop in one line.
 
+[Picture 47830 — for — the counted loop in one line]
+
 ## Sub lesson 2 — The rules of the control variable
 
 For protects its steering: the body must **not change the control variable** — assigning to i inside its own loop is forbidden, because the loop's counting would break. After the loop ends, the control variable's value is **undefined** (except when the loop was left by goto) — using it afterwards is an error of reasoning even when a machine tolerates it. And the body's one instruction becomes a **compound** begin…end when the repeated work is several instructions: for's single line, steering a block.
 
 In your mind's eye: the rules of the control variable.
+
+[Picture 47831 — the rules of the control variable]
 
 ## Say it to your companion
 

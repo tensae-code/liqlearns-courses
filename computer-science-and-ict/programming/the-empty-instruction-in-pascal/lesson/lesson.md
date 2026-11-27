@@ -10,11 +10,15 @@ The **empty instruction** is the **absence of an instruction where one is gramma
 
 In your mind's eye: nothing, in an instruction's place.
 
+[Picture 47828 — nothing, in an instruction's place]
+
 ## Sub lesson 2 — The classic trap — the stray semicolon
 
 The empty instruction's famous crime: `if x > 0 then ; writeln(x)` — the semicolon after then makes the if's body the **empty instruction**, so writeln runs **always**, not conditionally; and `while not eof do ;` hangs forever, its body empty, its condition never changed by nothing. The defence is reading: a semicolon before a body that matters should ring a bell. What the machine executes is what is written — an empty body is executed, obediently, a million times a second.
 
 In your mind's eye: the classic trap — the stray semicolon.
+
+[Picture 47829 — the classic trap — the stray semicolon]
 
 ## Say it to your companion
 
