@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Ethics in Digital Environment** 
 
 In your mind's eye: ethics in Digital Environment.
 
+[Picture 48311 — ethics in Digital Environment]
+
 ## Sub lesson 2 — Doing it — Ethical Issues in the Digital Environment in practice
 
 **Doing it — Ethical Issues in the Digital Environment in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Ethical Issues in the Digital Environment in practice.
+
+[Picture 48312 — doing it — Ethical Issues in the Digital Environment in practice]
 
 ## Say it to your companion
 

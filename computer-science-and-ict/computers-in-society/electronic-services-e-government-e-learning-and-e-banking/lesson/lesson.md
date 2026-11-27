@@ -10,11 +10,15 @@ An **electronic service** is a service delivered through ICT instead of a counte
 
 In your mind's eye: e-government and the ТҮЦ kiosk — the state as a service.
 
+[Picture 48305 — e-government and the ТҮЦ kiosk — the state as a service]
+
 ## Sub lesson 2 — E-learning, e-commerce and e-banking — the family's other houses
 
 **E-learning** delivers teaching through networks, and its pocket form, **m-learning**, through the phone. **E-commerce** buys and sells electronically, in kinds the book names by their parties: **B2C** (business to citizen — the online bookshop, bookstore.mn, is the book's own example), **B2B** (business to business), **G2B** (government to business) and **C2C** (citizen to citizen). **Internet banking** moves money through the bank's electronic doors. Grade 12 widens the same family to society itself: e-education, e-agriculture with IoT chips on livestock, e-health telemedicine, and GIS — one family, growing with the pupil, from the kiosk of Grade 9 to the systems of Grade 12.
 
 In your mind's eye: e-learning, e-commerce and e-banking — the family's other houses.
+
+[Picture 48306 — e-learning, e-commerce and e-banking — the family's other houses]
 
 ## Say it to your companion
 

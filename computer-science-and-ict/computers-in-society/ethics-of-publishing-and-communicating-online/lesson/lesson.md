@@ -10,11 +10,15 @@ What you **publish** online — a post, a photo, a comment — can be seen, copi
 
 In your mind's eye: ethical rules of publishing online.
 
+[Picture 48313 — ethical rules of publishing online]
+
 ## Sub lesson 2 — Communicating with respect
 
 Online **communication** — messages, comments, discussions — is owed the same respect as speech face to face: address people politely, disagree with ideas without attacking the person, and never forward a message that mocks, threatens or shames someone. Behind every account is a real person who can be hurt. When a conversation turns heated, the ethical move is to slow down, reread before sending, or leave the exchange rather than wound with words.
 
 In your mind's eye: communicating with respect.
+
+[Picture 48314 — communicating with respect]
 
 ## Say it to your companion
 

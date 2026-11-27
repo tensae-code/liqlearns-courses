@@ -10,11 +10,15 @@ Personal information is collected for a **purpose** — the school record for sc
 
 In your mind's eye: use — personal information serves the purpose it was given for.
 
+[Picture 48301 — use — personal information serves the purpose it was given for]
+
 ## Sub lesson 2 — Disclosure — passing information on, only with a basis
 
 **Disclosure** is letting personal information leave the holder — to another organisation, another person, or the public. Because the person loses control at that moment, disclosure needs a **basis**: the owner's **consent**, a **legal duty**, or a genuine emergency protecting life. Each disclosure should be as small as the basis allows — the needed facts, to the needed receiver, and no more — and the receiver inherits the duties: use it only for the disclosed purpose, protect it the same way. Egypt's own way is to teach disclosure beside the platforms of its own digital state, where citizens hand data to services like the Digital Egypt platform: the lesson's point is that a modern citizen both uses those services and knows the rules that bind them.
 
 In your mind's eye: disclosure — passing information on, only with a basis.
+
+[Picture 48302 — disclosure — passing information on, only with a basis]
 
 ## Say it to your companion
 

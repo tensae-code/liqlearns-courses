@@ -10,11 +10,15 @@ The office's computers belong to the office — so may the office read everythin
 
 In your mind's eye: what employee monitoring is.
 
+[Picture 48307 — what employee monitoring is]
+
 ## Sub lesson 2 — The line — notice, purpose and proportion
 
 Monitoring has a **privacy line**. The worker is a person, not only a resource: monitoring done **in secret, without a stated purpose, or beyond what the purpose needs** treats the person as a suspect by default and breaks the trust work runs on. The book's balance, taught beside privacy law, is the standard one: the organisation should **tell workers what is monitored and why**, monitor **only what its stated purpose requires**, and use what it gathers **only for that purpose**. Security that forgets the person it protects has failed at the other side of its job.
 
 In your mind's eye: the line — notice, purpose and proportion.
+
+[Picture 48308 — the line — notice, purpose and proportion]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The unit's first dilemma is the school's own: an AI that **does the learner's wo
 
 In your mind's eye: help against honesty — the learner's dilemma.
 
+[Picture 48309 — help against honesty — the learner's dilemma]
+
 ## Sub lesson 2 — Safety against privacy — and who answers
 
 The second family is society's: systems that **watch to protect** (the camera that finds the lost child also follows everyone), **decisions made by systems no one fully explains** (the loan refused by a score), and **bias learned from the world's data** (the machine repeating its teachers' unfairness at scale). Over them all stands the unit's closing question — **who answers** when an AI's act harms: the user, the maker, the owner, the machine? The book leaves the learner with the principle the AI-ethics lessons also teach: 'the AI did it' answers nothing — a person or an organisation always stands behind the deployment, and ethics is naming them before the harm, not after.
 
 In your mind's eye: safety against privacy — and who answers.
+
+[Picture 48310 — safety against privacy — and who answers]
 
 ## Say it to your companion
 

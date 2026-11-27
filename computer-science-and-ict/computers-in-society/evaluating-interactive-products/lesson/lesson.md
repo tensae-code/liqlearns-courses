@@ -10,11 +10,15 @@ To **evaluate** an interactive product is to judge **how well its meeting with u
 
 In your mind's eye: evaluation — judging the meeting.
 
+[Picture 48317 — evaluation — judging the meeting]
+
 ## Sub lesson 2 — The three measures
 
 Malaysia's evaluation weighs three measures. **Effectiveness**: can users complete the task, correctly? **Efficiency**: what does completing it cost — time, steps, effort? **Satisfaction**: how does using it feel — confidence or frustration, willingness to return? A product can pass one and fail the others: correct but exhausting (effectiveness without efficiency), pleasant but error-strewn (satisfaction without effectiveness). The evaluation's product is a **judgement with evidence**, naming the measure each finding belongs to — the form the chapter's own quantitative evaluation later numbers.
 
 In your mind's eye: the three measures.
+
+[Picture 48318 — the three measures]
 
 ## Say it to your companion
 

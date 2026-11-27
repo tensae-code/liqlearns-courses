@@ -10,11 +10,15 @@ System documentation **records the system's configuration — its settings and s
 
 In your mind's eye: configuration files and records.
 
+[Picture 48303 — configuration files and records]
+
 ## Sub lesson 2 — Documenting shares and permissions
 
 Documentation also records **shares**: a printer share is documented so others know **it is shared and how to reach it**. **Permissions** state **who may use or change something**. Passwords in the record must be **kept protected — never written openly for all** — and a missing record causes delays and mistakes when faults are fixed.
 
 In your mind's eye: documenting shares and permissions.
+
+[Picture 48304 — documenting shares and permissions]
 
 ## Say it to your companion
 

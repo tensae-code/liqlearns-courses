@@ -10,11 +10,15 @@ Some traces are **deliberate**: the photo you post, the comment you sign, the pr
 
 In your mind's eye: traces you leave on purpose — and traces you don't.
 
+[Picture 48299 — traces you leave on purpose — and traces you don't]
+
 ## Sub lesson 2 — Living with a footprint
 
 A footprint cannot be switched off — connected life leaves traces the way walking leaves prints — but it can be **walked carefully**: share less by default, check who a service shares with, keep private things off public ground, and remember that hyperconnected life multiplies traces across every device and account. The older pupils' scenario adds the mirror question: what does your footprint say about you to a stranger, an employer, a future self?
 
 In your mind's eye: living with a footprint.
+
+[Picture 48300 — living with a footprint]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Evaluating data and its sources — validation: testing whether data is accurate
 
 In your mind's eye: validation — is this data what it claims to be?.
 
+[Picture 48315 — validation — is this data what it claims to be?]
+
 ## Sub lesson 2 — Evaluating the source — where data comes from is part of the data
 
 Data arrives from a **source**, and the source is part of its meaning: who collected it, by what method, for what purpose, and with what care. A figure from a careful official count and the same-looking figure from an interested party's leaflet are not the same data. Indonesia's Grade 10 chapter pairs the two evaluations — data and source — inside its data chapter, before scraping and searching begin: the habit of asking 'where did this come from, and how was it made?' is what keeps a data worker from building confidently on sand.
 
 In your mind's eye: evaluating the source — where data comes from is part of the data.
+
+[Picture 48316 — evaluating the source — where data comes from is part of the data]
 
 ## Say it to your companion
 
