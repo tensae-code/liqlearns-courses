@@ -10,11 +10,15 @@ The **adjacency matrix** (ma trận kề) stores a graph of n vertices as an **n
 
 In your mind's eye: the matrix — the graph as a table.
 
+[Picture 47582 — the matrix — the graph as a table]
+
 ## Sub lesson 2 — The list — each vertex with its neighbours
 
 The **adjacency list** (danh sách kề) stores, for each vertex, a **list of its neighbours** — nothing more. Its cost follows the edges: memory about **n + 2E** entries for an undirected graph, so **sparse** graphs (few edges) are held cheaply, where the matrix would be mostly zeros. Its weakness is the matrix's strength: 'are u and v joined?' must **search u's list**, and listing all edges means walking every list. The practical's rule: many edges or edge-questions — matrix; few edges or neighbour-walks — list.
 
 In your mind's eye: the list — each vertex with its neighbours.
+
+[Picture 47583 — the list — each vertex with its neighbours]
 
 ## Say it to your companion
 

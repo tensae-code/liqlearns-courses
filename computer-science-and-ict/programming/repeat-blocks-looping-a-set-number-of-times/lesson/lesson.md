@@ -10,11 +10,15 @@ The book introduces the **loop** with a **repeat block**: the commands inside ru
 
 In your mind's eye: the repeat block — the idea of a loop.
 
+[Picture 47577 — the repeat block — the idea of a loop]
+
 ## Sub lesson 2 — Loops at work — farming and the railway
 
 The loop is then put to work. In **Farming on the river banks** the pupil counts repeats and plant commands and debugs a program that drops the character into the river. In **The railway**, repeat blocks take **entered values**, and three different correct solutions are compared side by side — a loop program, like any program, can be right in more than one way.
 
 In your mind's eye: loops at work — farming and the railway.
+
+[Picture 47578 — loops at work — farming and the railway]
 
 ## Say it to your companion
 

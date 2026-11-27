@@ -10,11 +10,15 @@ Scratch projects can be **shared** so other people can see, play and open them. 
 
 In your mind's eye: a shared Scratch project with a remix branch splitting from it — the original on one side, a changed, grown version on the other, joined by a credit line.
 
+[Picture 47575 — a shared Scratch project with a remix branch splitting from it — the original on one side, a changed, grown version on the other, joined by a credit line]
+
 ## Sub lesson 2 — The Backpack — carrying pieces between your projects
 
 Your own good pieces also travel. The **Backpack** is a carrying tray at the bottom of the Scratch editor: drag in a stack of blocks, a sound, a sprite or a costume, and it waits in the Backpack; open **another project**, and drag the piece out of the Backpack into it. A jump script written once can serve every platform game you ever make; a favourite sound can follow you from story to maze game. The Backpack turns one-off work into a personal toolbox you carry from project to project.
 
 In your mind's eye: the Scratch Backpack tray open at the editor's foot, holding a block stack, a sound and a sprite, with arrows carrying them into a second project.
+
+[Picture 47576 — the Scratch Backpack tray open at the editor's foot, holding a block stack, a sound and a sprite, with arrows carrying them into a second project]
 
 ## Say it to your companion
 

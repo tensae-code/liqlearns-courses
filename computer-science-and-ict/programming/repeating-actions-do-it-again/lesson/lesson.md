@@ -10,6 +10,8 @@ Paths grow longer, and inside the long paths the book points at something new: *
 
 In your mind's eye: a picture of a long row of action blocks with the repeating group circled twice in the same colour, and the hero walking the same corner twice.
 
+[Picture 47579 — a picture of a long row of action blocks with the repeating group circled twice in the same colour, and the hero walking the same corner twice]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Some actions in a path repeat: the same move comes again and again, and noticing the repeating part is the step before loops. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

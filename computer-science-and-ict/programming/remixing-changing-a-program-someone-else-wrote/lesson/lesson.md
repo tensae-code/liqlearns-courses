@@ -10,11 +10,15 @@ The séance's title is its ethic: **“Ce n'est pas moi qui l'ai fait, mais je p
 
 In your mind's eye: reading before changing.
 
+[Picture 47573 — reading before changing]
+
 ## Sub lesson 2 — Change one thing, keep the rest alive
 
 The remix discipline is surgical: choose **one behaviour** to change, find the **smallest set of blocks** that owns it, change, and **retest everything** — the new behaviour, and every old one you promised to keep. Credit travels with the work: a remix names its original (‘after X's program’), because programs, like stories, have authors — and the remix culture Scratch is built on runs on that honesty.
 
 In your mind's eye: change one thing, keep the rest alive.
+
+[Picture 47574 — change one thing, keep the rest alive]
 
 ## Say it to your companion
 

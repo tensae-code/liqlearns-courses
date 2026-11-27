@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, relational operators with work
 
 In your mind's eye: , relational operators with worked if-examples.
 
+[Picture 47571 — , relational operators with worked if-examples]
+
 ## Sub lesson 2 — Doing it — Relational Operators in Scratch Greater Than Less Than Equal to in practice
 
 **Doing it — Relational Operators in Scratch Greater Than Less Than Equal to in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Relational Operators in Scratch Greater Than Less Than Equal to in practice.
+
+[Picture 47572 — doing it — Relational Operators in Scratch Greater Than Less Than Equal to in practice]
 
 ## Say it to your companion
 

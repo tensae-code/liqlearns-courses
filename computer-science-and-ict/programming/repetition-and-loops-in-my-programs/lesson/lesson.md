@@ -10,11 +10,15 @@ A **repetition** is the same instruction carried out **again and again**: forwar
 
 In your mind's eye: repetition — the same instruction again and again.
 
+[Picture 47580 — repetition — the same instruction again and again]
+
 ## Sub lesson 2 — The loop — say it once, with its count
 
 A **loop** is the program's form for repetition: the instruction (or block of instructions) is written **once**, with the **number of times** it must repeat — 'forward, 6 times'. The executor runs the instruction, **counts**, and runs it again until the count is reached, then moves to what follows the loop. Inside the loop stands the **body** — what repeats; the count stands guard over it. Loops shorten programs and, more importantly, make the repetition **exact**: the executor never loses count.
 
 In your mind's eye: the loop. Say it once, with its count.
+
+[Picture 47581 — the loop. Say it once, with its count]
 
 ## Say it to your companion
 
