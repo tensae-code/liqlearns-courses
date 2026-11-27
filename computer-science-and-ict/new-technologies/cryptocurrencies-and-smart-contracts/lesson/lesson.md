@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Use Cases of Blockchain Technolo
 
 In your mind's eye: use Cases of Blockchain Technology.
 
+[Picture 48694 — use Cases of Blockchain Technology]
+
 ## Sub lesson 2 — Doing it — Cryptocurrencies and Smart Contracts in practice
 
 **Doing it — Cryptocurrencies and Smart Contracts in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Cryptocurrencies and Smart Contracts in practice.
+
+[Picture 48695 — doing it — Cryptocurrencies and Smart Contracts in practice]
 
 ## Say it to your companion
 

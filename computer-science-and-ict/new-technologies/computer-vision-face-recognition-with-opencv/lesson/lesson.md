@@ -10,11 +10,15 @@ The Grade 10 AI unit ends in a project that makes the computer see: a Python pro
 
 In your mind's eye: openCV — Python's eyes.
 
+[Picture 48688 — openCV — Python's eyes]
+
 ## Sub lesson 2 — Recognising a face — from pixels to a person
 
 The project's program runs the vision pipeline: **load** the image, **detect** the faces in it (the Haar-cascade craft the database project also uses — rectangles drawn where faces are), then **recognise** — compare a detected face against the faces the program knows, and name the match or honestly report a stranger. Kuwait teaches the honesty as part of the build: a recogniser that guesses a name for every face is worse than one that says 'unknown', because the project's output will be believed and acted on.
 
 In your mind's eye: recognising a face — from pixels to a person.
+
+[Picture 48689 — recognising a face — from pixels to a person]
 
 ## Say it to your companion
 

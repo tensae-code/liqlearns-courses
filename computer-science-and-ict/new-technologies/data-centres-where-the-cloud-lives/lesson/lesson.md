@@ -10,11 +10,15 @@ A **data centre** is a building whose only job is to keep computers running. Ins
 
 In your mind's eye: a data centre aisle. Racks of blinking servers stretching away, cold air arrows flowing in at the floor and warm air out at the top.
 
+[Picture 48704 — a data centre aisle. Racks of blinking servers stretching away, cold air arrows flowing in at the floor and warm air out at the top]
+
 ## Sub lesson 2 — The energy cost of data centres
 
 All this life-support runs on electricity, and the bill is the lesson’s second half. A server drawing a few hundred watts, multiplied by tens of thousands of servers, multiplied by every hour of the year, gives a consumption rivalling a town’s; and cooling can add a large fraction on top — energy spent to remove the heat of energy spent. The SNT book has students **calculate** it themselves: power × time = kilowatt-hours, then a carbon figure from the electricity’s source. Centres are getting more efficient, and some reuse their heat to warm buildings — but demand grows faster, which is why the same book teaches **digital sobriety** beside the centres: every stored photo, every streamed hour, every forgotten account is a small, real share of a building that never sleeps. Knowing the cloud is a place — with a meter spinning — changes how a citizen uses it.
 
 In your mind's eye: one server, then a rack, then a hall, then a town’s rooftops, each step multiplying the electricity meter beside it.
+
+[Picture 48705 — one server, then a rack, then a hall, then a town’s rooftops, each step multiplying the electricity meter beside it]
 
 ## Say it to your companion
 

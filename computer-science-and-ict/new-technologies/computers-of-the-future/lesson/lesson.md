@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Computers of the future** — covering:
 
 In your mind's eye: computers of the future.
 
+[Picture 48690 — computers of the future]
+
 ## Sub lesson 2 — Doing it — Computers of the Future in practice
 
 **Doing it — Computers of the Future in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Computers of the Future in practice.
+
+[Picture 48691 — doing it — Computers of the Future in practice]
 
 ## Say it to your companion
 

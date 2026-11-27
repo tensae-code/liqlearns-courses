@@ -10,11 +10,15 @@ Analysis is not a button. It is a road with stages, and skipping one poisons all
 
 In your mind's eye: what data analysis is.
 
+[Picture 48696 — what data analysis is]
+
 ## Sub lesson 2 — The stages of the process
 
 The stages in order: **define the question** (what decision, what answer is needed), **collect** the data the question needs, **clean and prepare** it (the faults lesson's whole craft), **explore and analyse** (summaries, comparisons, models — patterns found and tested), **present and interpret** (charts and words a decision-maker can use), and **decide and act**, whose results start the cycle again with a sharper question. The stages are a cycle, not a staircase: findings send you back to collect better data, and honest analysts say when they have gone back.
 
 In your mind's eye: the stages of the process.
+
+[Picture 48697 — the stages of the process]
 
 ## Say it to your companion
 

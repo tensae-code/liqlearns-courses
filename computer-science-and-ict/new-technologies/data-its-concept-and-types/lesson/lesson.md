@@ -10,11 +10,15 @@ The data-analysis unit opens by slowing down on the word everyone uses and few d
 
 In your mind's eye: the concept of data.
 
+[Picture 48708 — the concept of data]
+
 ## Sub lesson 2 — The types of data
 
 Data is typed on two great sorts. By **nature**: **quantitative** data (numbers — themselves split into discrete counts and continuous measures) and **qualitative** data (kinds and descriptions — names, colours, opinions). By **structure**: **structured** data (tables with fixed fields), **semi-structured** (tagged, loosely organised — web data), and **unstructured** (free text, images, sound). The type decides the tool: you cannot average a colour, and you cannot read a million free texts by eye — the sort comes before the method, every time.
 
 In your mind's eye: the types of data.
+
+[Picture 48709 — the types of data]
 
 ## Say it to your companion
 

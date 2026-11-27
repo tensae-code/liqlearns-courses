@@ -10,11 +10,15 @@ The first family **describes and compares**: **statistical summaries** (averages
 
 In your mind's eye: the describing techniques.
 
+[Picture 48700 — the describing techniques]
+
 ## Sub lesson 2 — The modelling techniques
 
 The second family **models**: **regression** (a line or rule relating measures — predicting one from others), **classification** (sorting cases into kinds by their measures — the ML unit's bridge), **clustering** (finding groups no one named in advance), and **time-series methods** (reading a measure's own history for trend and season). Jordan's techniques lesson is a shelf with labels: a technique is chosen by the question's type and the data's shape — and the analyst who knows only one technique sees every problem as its shape, which the book names as the beginner's trap.
 
 In your mind's eye: the modelling techniques.
+
+[Picture 48701 — the modelling techniques]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Used as the book directs, AI help in website building does three jobs: it **draf
 
 In your mind's eye: what the AI does — draft, suggest, generate.
 
+[Picture 48692 — what the AI does — draft, suggest, generate]
+
 ## Sub lesson 2 — What the pupil still owns — judgement and responsibility
 
 The unit's order is its argument: because the class has already designed a site, formatted pages and built the school project **unaided**, it can now tell a good AI suggestion from a glossy bad one. What AI help never takes is **responsibility**: the site's facts must be true (AI drafts invent confidently), its pages must work (AI code fails silently), and its design must serve its real audience — checks only the maker can run. Egypt pairs this lesson with its AI-and-intellectual-property teaching elsewhere in the course for the same reason: help is welcome, authorship is not transferable, and a website with your school's name on it is yours.
 
 In your mind's eye: what the pupil still owns — judgement and responsibility.
+
+[Picture 48693 — what the pupil still owns — judgement and responsibility]
 
 ## Say it to your companion
 
