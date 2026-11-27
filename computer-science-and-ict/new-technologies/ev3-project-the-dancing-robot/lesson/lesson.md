@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Lesson 31: Building the "Dancing Robot"
 
 In your mind's eye: lesson 31. Building the "Dancing Robot".
 
+[Picture 48740 — lesson 31. Building the "Dancing Robot"]
+
 ## Sub lesson 2 — Lesson 32: The "Dancing Robot" program
 
 This part of Kazakhstan's book teaches **Lesson 32: The "Dancing Robot" program** — covering: Lesson 32: The "Dancing Robot" program. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: lesson 32. The "Dancing Robot" program.
+
+[Picture 48741 — lesson 32. The "Dancing Robot" program]
 
 ## Say it to your companion
 

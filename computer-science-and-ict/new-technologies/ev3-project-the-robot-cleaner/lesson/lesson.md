@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Lesson 25: Creating the "Robot-Cleaner"
 
 In your mind's eye: lesson 25. Creating the "Robot-Cleaner".
 
+[Picture 48742 — lesson 25. Creating the "Robot-Cleaner"]
+
 ## Sub lesson 2 — Создание «Робота-уборщика»
 
 This part of Kazakhstan's book teaches **Создание «Робота-уборщика»** — covering: 25. Создание «Робота-уборщика». The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: создание «Робота-уборщика».
+
+[Picture 48743 — создание «Робота-уборщика»]
 
 ## Say it to your companion
 

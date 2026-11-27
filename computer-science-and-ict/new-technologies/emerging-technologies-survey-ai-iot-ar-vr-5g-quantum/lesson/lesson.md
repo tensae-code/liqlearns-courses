@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Definition and Overview of Emerg
 
 In your mind's eye: definition and Overview of Emerging Technologies.
 
+[Picture 48732 — definition and Overview of Emerging Technologies]
+
 ## Sub lesson 2 — Doing it — Emerging Technologies Survey AI IoT AR VR 5G Quantum in practice
 
 **Doing it — Emerging Technologies Survey AI IoT AR VR 5G Quantum in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Emerging Technologies Survey AI IoT AR VR 5G Quantum in practice.
+
+[Picture 48733 — doing it — Emerging Technologies Survey AI IoT AR VR 5G Quantum in practice]
 
 ## Say it to your companion
 

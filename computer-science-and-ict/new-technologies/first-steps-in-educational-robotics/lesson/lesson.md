@@ -10,6 +10,8 @@ A robot is a machine that works in the real world. It has three parts to its wor
 
 In your mind's eye: a small educational robot with its sensing, deciding and acting parts labelled.
 
+[Picture 48752 — a small educational robot with its sensing, deciding and acting parts labelled]
+
 Programming a robot means writing the instructions it will decide from: exact steps, in an exact order. A program on a screen draws or says something; a robot's program moves a real machine in a real room, so a wrong step shows at once — the robot turns too early, stops too short, or bumps the table. That is not a failure of the robot. The robot did exactly what it was told. The instructions are where the fix belongs.
 
 ## Sub lesson 2 — A first program for a robot — run, watch, fix
@@ -22,6 +24,8 @@ A first robot program is small. Choose a small job: move forward, turn, move for
 4. Stop.
 
 In your mind's eye: a short robot program written as steps in order, with the robot's path drawn under it.
+
+[Picture 48753 — a short robot program written as steps in order, with the robot's path drawn under it]
 
 Give the robot the steps and run the program. Now the important part: **watch what the robot really does**, not what you hoped it would do. Did it travel far enough? Did it turn the right amount? Where it went wrong, change **one thing** in the instructions — a distance, a turn, the order of two steps — and run it again. Plan, run, watch, fix: that circle, repeated, is how every robot program in the world is finished, from a classroom robot to a factory one. Your first initiation into robotics is learning to walk that circle calmly.
 

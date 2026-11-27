@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Robotics: labyrinth and kegeling, §9: 
 
 In your mind's eye: robotics. Labyrinth and kegeling, §9: The colour sensor.
 
+[Picture 48734 — robotics. Labyrinth and kegeling, §9: The colour sensor]
+
 ## Sub lesson 2 — The traffic-light robot
 
 This part of Kazakhstan's book teaches **The traffic-light robot** — covering: §10: The traffic-light robot. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: the traffic-light robot.
+
+[Picture 48735 — the traffic-light robot]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Lesson 24: The loop block in EV3 progra
 
 In your mind's eye: lesson 24. The loop block in EV3 programming.
 
+[Picture 48738 — lesson 24. The loop block in EV3 programming]
+
 ## Sub lesson 2 — Doing it — EV3 Loop Block in practice
 
 **Doing it — EV3 Loop Block in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — EV3 Loop Block in practice.
+
+[Picture 48739 — doing it — EV3 Loop Block in practice]
 
 ## Say it to your companion
 

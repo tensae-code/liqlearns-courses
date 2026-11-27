@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **EV3 Kegeling Competition** — covering
 
 In your mind's eye: eV3 Kegeling Competition.
 
+[Picture 48736 — eV3 Kegeling Competition]
+
 ## Sub lesson 2 — EV3 Kegeling Competition
 
 This part of Kazakhstan's book teaches **EV3 Kegeling Competition** — covering: §15: Kegeling — project work. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: eV3 Kegeling Competition.
+
+[Picture 48737 — eV3 Kegeling Competition]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The first application is the embedded world's 'hello': a lamp the program **swit
 
 In your mind's eye: my first application — chase lights with two lamps.
 
+[Picture 48750 — my first application — chase lights with two lamps]
+
 ## Sub lesson 2 — The Tinkercad simulator — the circuit before the circuit
 
 **Tinkercad's simulator** builds the same bench **on the screen**: a virtual Arduino, virtual components dragged and wired, the **code written and run** against the simulation, so the learner can **test, break and repair** the circuit with no burnt lamp and no lost lesson time. Greece's order is the workshop's wisdom: simulate first where the tool allows, then wire the real board with a proved design — the simulator does not replace the board; it makes the board's minutes count.
 
 In your mind's eye: the Tinkercad simulator — the circuit before the circuit.
+
+[Picture 48751 — the Tinkercad simulator — the circuit before the circuit]
 
 ## Say it to your companion
 

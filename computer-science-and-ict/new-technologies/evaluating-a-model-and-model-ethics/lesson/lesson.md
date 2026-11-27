@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Evaluating and Interpreting Mode
 
 In your mind's eye: evaluating and Interpreting Models.
 
+[Picture 48746 — evaluating and Interpreting Models]
+
 ## Sub lesson 2 — Doing it — Evaluating a Model and Model Ethics in practice
 
 **Doing it — Evaluating a Model and Model Ethics in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Evaluating a Model and Model Ethics in practice.
+
+[Picture 48747 — doing it — Evaluating a Model and Model Ethics in practice]
 
 ## Say it to your companion
 

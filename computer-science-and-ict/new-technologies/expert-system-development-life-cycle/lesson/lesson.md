@@ -10,11 +10,15 @@ Development begins with **problem identification** (a problem an expert solves r
 
 In your mind's eye: the early stages — problem, knowledge, design.
 
+[Picture 48748 — the early stages — problem, knowledge, design]
+
 ## Sub lesson 2 — The later stages — build, test, maintain
 
 Then **development** (the knowledge base and shell are built), **testing and evaluation** (the system's advice is tried against cases the expert judges — including the awkward cases where it must say it does not know), **deployment**, and **maintenance**: knowledge ages, rules are added and corrected, and the system is re-tested. Jordan gives expert systems a life cycle of their own because their hardest part is not the program — it is the knowledge, and knowledge has a life the cycle must serve.
 
 In your mind's eye: the later stages — build, test, maintain.
+
+[Picture 48749 — the later stages — build, test, maintain]
 
 ## Say it to your companion
 
