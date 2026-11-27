@@ -10,11 +10,15 @@ Digital copies are **perfect, instant and free to make** — the three facts tha
 
 In your mind's eye: the digital-age challenges.
 
+[Picture 48382 — the digital-age challenges]
+
 ## Sub lesson 2 — The ways of protection
 
 Protection answers in three families: **law** (copyright and its penalties, licences that state permitted uses — the earlier lesson's ground), **technology** (watermarks and fingerprints in the work, DRM and access controls around it, platforms that detect copies), and **practice** (creators registering and marking their work; users crediting, licensing and paying — the citizen's half). No family suffices alone: law without technology is unenforceable at scale, technology without law is a lock anyone may legally break, and both without practice are a fence around a field nobody respects.
 
 In your mind's eye: the ways of protection.
+
+[Picture 48383 — the ways of protection]
 
 ## Say it to your companion
 

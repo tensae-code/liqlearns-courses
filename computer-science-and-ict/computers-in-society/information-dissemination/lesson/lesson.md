@@ -16,6 +16,8 @@ People have always spread information: by word of mouth, by printed notices and 
 
 In your mind's eye: one source in the middle, with arrows carrying the same notice out to a poster, a radio, a television, a phone message and a website.
 
+[Picture 48369 — one source in the middle, with arrows carrying the same notice out to a poster, a radio, a television, a phone message and a website]
+
 **Radio and television** broadcast one message to a whole country at the same moment — no receiver needs to ask for it first. **Mobile phones** carry messages from person to person and group to group in seconds, and the receivers can answer back at once. **The internet** spreads information through websites, email and social media: a notice posted once can be read anywhere in the world, copied, and passed on again and again. **Email and messaging** carry the same notice straight to named people, wherever they are.
 
 So the modern channels are judged by three things: how **fast** the information arrives, how **far** it reaches, and whether the receivers can **answer back**. Choose the channel by the message: an urgent warning wants the fastest channel; a notice for one class wants the channel that reaches exactly that class.

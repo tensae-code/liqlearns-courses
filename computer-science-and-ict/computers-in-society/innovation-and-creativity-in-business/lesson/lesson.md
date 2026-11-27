@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Innovation and Creativity** — 
 
 In your mind's eye: innovation and Creativity.
 
+[Picture 48376 — innovation and Creativity]
+
 ## Sub lesson 2 — Doing it — Innovation and Creativity in Business in practice
 
 **Doing it — Innovation and Creativity in Business in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Innovation and Creativity in Business in practice.
+
+[Picture 48377 — doing it — Innovation and Creativity in Business in practice]
 
 ## Say it to your companion
 

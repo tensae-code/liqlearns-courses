@@ -10,11 +10,15 @@ An **institution** — a school, an office, a ministry — runs on official comm
 
 In your mind's eye: communication inside the institution.
 
+[Picture 48380 — communication inside the institution]
+
 ## Sub lesson 2 — Communication with the public
 
 Outward, the institution speaks to its citizens and customers: announcements, service information, answers to questions, warnings in emergencies. The Grade 8 experience places this in the Asia-Pacific region's shared life — institutions across countries communicating the same way, so a citizen moving between them already knows the roads. Good institutional communication is the transparency lesson practised daily: facts published before rumours, one official source to check, and a way for the public to answer back and be answered.
 
 In your mind's eye: communication with the public.
+
+[Picture 48381 — communication with the public]
 
 ## Say it to your companion
 

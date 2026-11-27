@@ -10,11 +10,15 @@ When a country's life moves online — its letters become messages, its money tr
 
 In your mind's eye: why a law for electronic information — the UU ITE.
 
+[Picture 48374 — why a law for electronic information — the UU ITE]
+
 ## Sub lesson 2 — The forbidden acts — Articles 27, 28 and 29
 
 Grade 12 names the articles pupils meet most. **Article 27** forbids distributing electronic content that violates decency, that gambles, that insults or defames, and that extorts or threatens in the taking. **Article 28** forbids spreading false news (berita bohong) that harms consumers, and content meant to raise hatred or hostility against groups. **Article 29** forbids sending threats of violence or menace aimed at a person. The pattern under the articles is the lesson: the law does not forbid the network; it forbids acts — the same acts the ethics lessons forbid — now with the state's penalties behind them.
 
 In your mind's eye: the forbidden acts — Articles 27, 28 and 29.
+
+[Picture 48375 — the forbidden acts — Articles 27, 28 and 29]
 
 ## Say it to your companion
 

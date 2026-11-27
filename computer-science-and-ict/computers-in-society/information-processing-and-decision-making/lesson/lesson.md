@@ -10,11 +10,15 @@ A **decision** is a choice between actions — admit this pupil or not, order mo
 
 In your mind's eye: decisions eat information.
 
+[Picture 48372 — decisions eat information]
+
 ## Sub lesson 2 — Processing shaped for the decider
 
 Processing serves the decision when it does three things. It **selects** — from all the data, the part this decision turns on. It **shapes** — totals, averages, comparisons and trends, the forms a decider can weigh at a glance. And it **arrives in time** — information after the decision is history, not help. Fiji's Year 11 reader meets this in offices they know: the principal deciding class sizes from enrolment summaries, the shopkeeper deciding orders from sales totals — processing exists because deciding does.
 
 In your mind's eye: processing shaped for the decider.
+
+[Picture 48373 — processing shaped for the decider]
 
 ## Say it to your companion
 

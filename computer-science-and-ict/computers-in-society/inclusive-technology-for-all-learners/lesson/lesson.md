@@ -10,11 +10,15 @@ A tool that only some can use is unfinished. This lesson learns what finishing i
 
 In your mind's eye: inclusion — who is shut out, and by what.
 
+[Picture 48365 — inclusion — who is shut out, and by what]
+
 ## Sub lesson 2 — Ensuring inclusion — the maker's toolkit
 
 Inclusion is ensured by building the second path in from the start: **captions and transcripts** for audio and video, **text-to-speech and screen readers** welcomed by clean structure, **keyboard-only operation**, **scalable text and high-contrast** display, **plain-language and multi-language** versions, and **low-end modes** that work on cheap devices. The test of inclusion is not a checklist but a person: can *this* learner, with *their* body, language and phone, finish the lesson? Design that passes that test is simply design finished.
 
 In your mind's eye: ensuring inclusion — the maker's toolkit.
+
+[Picture 48366 — ensuring inclusion — the maker's toolkit]
 
 ## Say it to your companion
 

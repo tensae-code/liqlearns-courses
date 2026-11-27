@@ -10,11 +10,15 @@ Grade 7's informatics ends not with a program but with a culture: the whole fina
 
 In your mind's eye: what information culture is.
 
+[Picture 48367 — what information culture is]
+
 ## Sub lesson 2 — Norms, rules and principles — the working list
 
 The section's norms are practical. **Judge before you trust**: a source is checked, not believed at sight. **Credit before you take**: another's text, picture or program is used with its author named and its licence kept. **Share responsibly**: what you pass on becomes partly yours — falsehood forwarded is falsehood spread. **Behave as in real space**: the politeness and law of the physical world do not dissolve online. And **guard your own and others' private information** as you would a house key. These five are the chapter's principles in working form.
 
 In your mind's eye: norms, rules and principles — the working list.
+
+[Picture 48368 — norms, rules and principles — the working list]
 
 ## Say it to your companion
 

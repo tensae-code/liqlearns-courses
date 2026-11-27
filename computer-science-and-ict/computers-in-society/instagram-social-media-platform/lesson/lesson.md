@@ -10,11 +10,15 @@ Instagram is the social media platform built around photographs and short videos
 
 In your mind's eye: instagram.
 
+[Picture 48378 — instagram]
+
 ## Sub lesson 2 — Doing it — Instagram in practice
 
 Instagram Social Media Platform is learned by doing: the learner meets Instagram as South Sudan's book presents it — what it is for, how its profiles and posts work, and where it stands among the common social media sites The learner meets Instagram as South Sudan's book presents it — what it is for, how its profiles and posts work, and where it stands among the common social media sites Because each platform has its own culture and risks; knowing Instagram as its own thing — not just 'social media' — is what the book teaches, platform by platform.
 
 In your mind's eye: doing it — Instagram in practice.
+
+[Picture 48379 — doing it — Instagram in practice]
 
 ## Say it to your companion
 

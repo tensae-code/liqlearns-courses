@@ -10,11 +10,15 @@ Rwanda's book grounds ICT in the learner's own country first. **ICT in Rwanda** 
 
 In your mind's eye: iCT in Rwandan daily life.
 
+[Picture 48363 — iCT in Rwandan daily life]
+
 ## Sub lesson 2 — ICT in services — money, health, farming and government
 
 The book's survey widens to **services**: **mobile money and banking** move funds without a branch visit; **health services** keep patient records and link clinics; **farmers** get prices and weather by phone; and **government services** reach citizens through computer systems instead of paper queues. Each field shows the same pattern — information that used to travel by foot and paper now travels **by signal**, faster and recorded as it goes.
 
 In your mind's eye: iCT in services — money, health, farming and government.
+
+[Picture 48364 — iCT in services — money, health, farming and government]
 
 ## Say it to your companion
 
