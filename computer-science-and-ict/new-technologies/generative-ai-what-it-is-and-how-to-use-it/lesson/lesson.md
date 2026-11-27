@@ -10,11 +10,15 @@ Egypt's Grade 10 book ends its final chapter where its pupils already live: gene
 
 In your mind's eye: generative AI — systems that make new content.
 
+[Picture 48756 — generative AI — systems that make new content]
+
 ## Sub lesson 2 — Using it well — prompt, check, own the result
 
 The book's working rules are a craftsman's, not a fan's. **Prompt clearly**: say what you want, for whom, in what form — vague prompts earn vague answers. **Check everything**: code must run, facts must verify, because the system's confidence is part of its pattern, not evidence. **Own the result**: what you submit with AI help is your work, to explain and defend — the Egypt course makes pupils present and review their AI-assisted projects for exactly this reason. Used this way, generative AI is a power tool in the workshop; used the other way — unexamined, unowned — it produces work its maker cannot stand behind.
 
 In your mind's eye: using it well — prompt, check, own the result.
+
+[Picture 48757 — using it well — prompt, check, own the result]
 
 ## Say it to your companion
 

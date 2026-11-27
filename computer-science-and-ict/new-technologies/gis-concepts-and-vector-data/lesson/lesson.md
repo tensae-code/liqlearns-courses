@@ -10,11 +10,15 @@ The S1 unit's key concepts: a **feature** is one real thing on the map — a sch
 
 In your mind's eye: gIS terms and concepts.
 
+[Picture 48762 — gIS terms and concepts]
+
 ## Sub lesson 2 — Kinds of vector data — points, lines, polygons
 
 **Vector data** draws the world with three shapes. A **point** marks a place with no size at map scale — a school, a borehole. A **line** follows a path — a road, a river. A **polygon** closes a boundary around an area — a district, a lake, a land parcel. Choosing the shape is choosing what the thing *is* on the map: the same village is a point on a national map and a polygon on a district map.
 
 In your mind's eye: kinds of vector data. Points, lines, polygons.
+
+[Picture 48763 — kinds of vector data. Points, lines, polygons]
 
 ## Say it to your companion
 

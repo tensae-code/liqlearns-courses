@@ -10,11 +10,15 @@ A robot takes in information through its **sensors** — input parts that detect
 
 In your mind's eye: sensors and controllers.
 
+[Picture 48774 — sensors and controllers]
+
 ## Sub lesson 2 — Actuators and the whole structure
 
 The controller's decisions are carried out by **actuators** — output parts like **motors** that turn decisions into movement and action. The parts are held together by the robot's **structure or frame** and powered by its **power source**, such as a battery. The robot works in a loop: **sense, decide, act**.
 
 In your mind's eye: actuators and the whole structure.
+
+[Picture 48775 — actuators and the whole structure]
 
 ## Say it to your companion
 

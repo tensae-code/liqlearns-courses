@@ -10,11 +10,15 @@ A **photograph** records **light intensity** from one viewpoint — a flat patte
 
 In your mind's eye: photograph against hologram.
 
+[Picture 48772 — photograph against hologram]
+
 ## Sub lesson 2 — Applications, and AI's part
 
 Holograms serve **security** (the dove on a bank card, hard to forge), **storage**, **medicine and engineering** (measuring strain and vibration invisibly small), **displays and education** (a heart turning in the air above a classroom table). AI enters as the hologram's new maker and reader: networks **compute** holograms for real-time 3D displays, clean damaged ones, and read holographic measurements — Jordan's pairing of the two in one lesson is the book's pattern: each new technology is asked, at the end, what it has to do with intelligence.
 
 In your mind's eye: applications, and AI's part.
+
+[Picture 48773 — applications, and AI's part]
 
 ## Say it to your companion
 

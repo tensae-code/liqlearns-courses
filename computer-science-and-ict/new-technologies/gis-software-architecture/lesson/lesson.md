@@ -10,11 +10,15 @@ The guide divides GIS software by **architecture**. A **project-oriented** syste
 
 In your mind's eye: two architectures — project and database.
 
+[Picture 48764 — two architectures — project and database]
+
 ## Sub lesson 2 — The RDBMS — the database under the map
 
 The shared store is usually an **RDBMS — a relational database management system**: the same table-based engine that holds ordinary records, extended to hold **geometry** beside attributes. Features become **rows**, their facts **columns**, and the map and the table stay one thing — query the table and the map answers. Architecture matters because it decides **who can use the data, and whether everyone sees the same truth** (teacher guide — evidence).
 
 In your mind's eye: the RDBMS — the database under the map.
+
+[Picture 48765 — the RDBMS — the database under the map]
 
 ## Say it to your companion
 

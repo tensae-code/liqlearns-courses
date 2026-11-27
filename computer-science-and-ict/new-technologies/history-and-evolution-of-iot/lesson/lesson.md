@@ -10,11 +10,15 @@ The story begins with **identification**: barcodes and **RFID** tags let objects
 
 In your mind's eye: the early stages — marking and connecting.
 
+[Picture 48770 — the early stages — marking and connecting]
+
 ## Sub lesson 2 — The later stages — sensing things everywhere
 
 With cheap **sensors**, small processors and cloud computing, things began to **sense and report** on their own — the smart meter, the tracked lorry, the wearable. The newest stage joins IoT to **artificial intelligence**: things do not only send data, their data is analysed for prediction and automatic response. Jordan's book reads the evolution as growth in three things together — the number of connected things, what each thing can do, and how independently it can act.
 
 In your mind's eye: the later stages — sensing things everywhere.
+
+[Picture 48771 — the later stages — sensing things everywhere]
 
 ## Say it to your companion
 

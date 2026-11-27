@@ -10,11 +10,15 @@ Farmers have reshaped crops for ten thousand years by keeping seed from the best
 
 In your mind's eye: recombinant DNA — cutting and joining the text.
 
+[Picture 48758 — recombinant DNA — cutting and joining the text]
+
 ## Sub lesson 2 — GMOs — and Bangladesh's genome work
 
 Organisms carrying such changes are **GMOs — genetically modified organisms** — and the book grounds them at home: the **Bangladesh Rice Research Institute (BRRI)** works on rice varieties for the country's real trials — flood, salt water, drought — and Bangladeshi scientists **decoded the jute genome**, reading the national fibre's whole text so its breeding can be designed instead of guessed. The lesson closes with the field's standing questions — safety testing, labelling, who owns a gene — which a citizen of a farming country will vote on, and should vote on understanding the craft first.
 
 In your mind's eye: gMOs — and Bangladesh's genome work.
+
+[Picture 48759 — gMOs — and Bangladesh's genome work]
 
 ## Say it to your companion
 

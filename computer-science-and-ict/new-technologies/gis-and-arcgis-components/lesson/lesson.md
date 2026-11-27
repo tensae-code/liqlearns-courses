@@ -10,11 +10,15 @@ A **GIS (geographic information system)** is a computer system for **capturing, 
 
 In your mind's eye: gIS — maps that answer questions.
 
+[Picture 48760 — gIS — maps that answer questions]
+
 ## Sub lesson 2 — The components of ArcGIS
 
 **ArcGIS** is the GIS software family Rwanda's books use. Its working parts: **ArcMap**, where maps are made and queried; **ArcCatalog**, the filing cabinet that organises the geographic data; and the **data itself** — layers of places with their **attribute tables** of facts. ArcMap draws and asks; ArcCatalog keeps and finds. Together with the data they are the components every later GIS lesson in this course uses.
 
 In your mind's eye: the components of ArcGIS.
+
+[Picture 48761 — the components of ArcGIS]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **heuristic function h(n)** estimates the cost from a node n to the goal: stra
 
 In your mind's eye: the heuristic function — an estimate with a name.
 
+[Picture 48768 — the heuristic function — an estimate with a name]
+
 ## Sub lesson 2 — Evaluation functions — judging a node whole
 
 An **evaluation function f(n)** scores a node for expanding: it may join the cost already spent, g(n), with the heuristic estimate, h(n) — f(n) = g(n) + h(n), the shape of the famous A* search — balancing 'how far I've come' against 'how far I seem to go'. Jordan's lesson closes with the craft's warning: a heuristic is a guess with consequences — a lying heuristic doesn't just slow the search, it can walk it confidently away from the goal.
 
 In your mind's eye: evaluation functions — judging a node whole.
+
+[Picture 48769 — evaluation functions — judging a node whole]
 
 ## Say it to your companion
 

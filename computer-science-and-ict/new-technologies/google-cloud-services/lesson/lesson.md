@@ -10,11 +10,15 @@ The second cloud Jordan's pupils open is Google's — the cloud that grew out of
 
 In your mind's eye: what Google Cloud is.
 
+[Picture 48766 — what Google Cloud is]
+
 ## Sub lesson 2 — Its services — the working set
 
 The working set mirrors Azure's with Google's names: **Compute Engine** (rented virtual machines — IaaS), **Cloud Storage** (files in the cloud), **Cloud SQL** (managed databases), **App Engine** (hosting apps without servers — PaaS), and the data/AI shelf — **BigQuery** (analysing huge tables with questions) and Google's machine-learning services. Jordan teaches the two clouds side by side so the pupil learns the pattern, not the brand: every cloud rents the same few ideas under its own names.
 
 In your mind's eye: its services — the working set.
+
+[Picture 48767 — its services — the working set]
 
 ## Say it to your companion
 
