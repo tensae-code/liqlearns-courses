@@ -10,11 +10,15 @@ The **stop all sounds** block **silences every sound playing in the project at t
 
 In your mind's eye: stop all sounds — silence at once.
 
+[Picture 47733 — stop all sounds — silence at once]
+
 ## Sub lesson 2 — Clear sound effects — back to the plain sound
 
 **Clear sound effects** removes the effects a sprite's sounds are carrying — the pitch and pan settings of the earlier séance — so its sounds **play plain again**, as recorded. Stopping and clearing are different resets: **stop** ends what is sounding now; **clear** changes how future sounds will play. A well-built scene change uses both in order: clear the old scene's effects, stop its sounds, and the new scene begins with a clean stage and natural voices.
 
 In your mind's eye: clear sound effects — back to the plain sound.
+
+[Picture 47734 — clear sound effects — back to the plain sound]
 
 ## Say it to your companion
 

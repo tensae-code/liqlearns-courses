@@ -10,11 +10,15 @@ Scratch's stop block has three choices, and the difference matters. **Stop all**
 
 In your mind's eye: three stopped signs over three scripts — all scripts stopped, only the middle script stopped, and the outer two stopped while the middle runs on.
 
+[Picture 47735 — three stopped signs over three scripts — all scripts stopped, only the middle script stopped, and the outer two stopped while the middle runs on]
+
 ## Sub lesson 2 — Moving a sprite by x and y
 
 Every place on the stage has two numbers: **x**, how far left or right the sprite is, and **y**, how far up or down. Changing x moves the sprite sideways — bigger x to the right, smaller x to the left. Changing y moves it up and down — bigger y up, smaller y down. Moving by coordinates is exact in a way dragging is not: a script can send a sprite to the very same start place every time, or step it across the stage by equal, counted amounts — which is how arrow-key movement and maze-game starts are built.
 
 In your mind's eye: a stage grid with x running left–right and y running up–down, and a sprite with arrows showing bigger x rightwards and bigger y upwards.
+
+[Picture 47736 — a stage grid with x running left–right and y running up–down, and a sprite with arrows showing bigger x rightwards and bigger y upwards]
 
 ## Say it to your companion
 

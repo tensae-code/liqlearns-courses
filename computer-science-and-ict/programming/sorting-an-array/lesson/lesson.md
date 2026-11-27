@@ -10,11 +10,15 @@ An array found is useful; an array in order is a tool. Mongolia's Grade 12 array
 
 In your mind's eye: bubble sort — pass by pass.
 
+[Picture 47717 — bubble sort — pass by pass]
+
 ## Sub lesson 2 — The full program — and selection sort as your task
 
 The book writes bubble sort as a **full program**: fill the array, sort it by the pass method, and **print it by a print subprogram** — the subprogram habit of the earlier chapter carrying the sorted result out. Then the book changes its voice: **selection sort** — repeatedly select the smallest remaining value and place it next — is **set as a task**, described by its idea and left to the pupil to build. Mongolia's two-step is the strand's teaching method in miniature: the first algorithm is given whole, traced and understood; the second is earned — the pupil who sorts by selection has stopped copying sorting and started knowing it.
 
 In your mind's eye: the full program — and selection sort as your task.
+
+[Picture 47718 — the full program — and selection sort as your task]
 
 ## Say it to your companion
 

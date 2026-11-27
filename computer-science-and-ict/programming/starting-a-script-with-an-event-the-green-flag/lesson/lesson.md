@@ -10,6 +10,8 @@ An **event** is something that happens — a click, a key press — and Scratch 
 
 In your mind's eye: a Scratch script topped by a when-green-flag-clicked block, with a second small script topped by a when-this-sprite-clicked block, and the green flag above the stage.
 
+[Picture 47729 — a Scratch script topped by a when-green-flag-clicked block, with a second small script topped by a when-this-sprite-clicked block, and the green flag above the stage]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: a script starts with an event block, the green flag starts all flag scripts together, and when-this-sprite-clicked runs only when that sprite is clicked. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

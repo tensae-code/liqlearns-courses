@@ -10,11 +10,15 @@ A JavaScript **sort** works on an **array** with nested loops. **Bubble sort** i
 
 In your mind's eye: sorting in JavaScript — bubble and selection.
 
+[Picture 47719 — sorting in JavaScript — bubble and selection]
+
 ## Sub lesson 2 — Searching in JavaScript — binary search coded
 
 **Binary search** in JavaScript tracks low, high and mid over the array's indexes, looping while low <= high, comparing array[mid] with the target and halving the field exactly as the pseudocode did. The code returns the **index** where the target was found, or −1 for not found — the convention JavaScript programs use. The lesson's point closes the strand: pseudocode, flowchart and JavaScript are three writings of one algorithm; Malaysia moves between them to prove the algorithm is the thinking, and the language only its clothing.
 
 In your mind's eye: searching in JavaScript — binary search coded.
+
+[Picture 47720 — searching in JavaScript — binary search coded]
 
 ## Say it to your companion
 

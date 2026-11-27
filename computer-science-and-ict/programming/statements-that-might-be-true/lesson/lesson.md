@@ -14,6 +14,8 @@ An uncertain statement is not a mistake. It becomes true or false when we **lear
 
 In your mind's eye: a closed box with a question mark, a child looking at clouds, and speech bubbles. True, false, might be true.
 
+[Picture 47730 — a closed box with a question mark, a child looking at clouds, and speech bubbles. True, false, might be true]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Some statements are neither surely true nor surely false: an uncertain statement might be true — it depends on what happens or on what we do not yet know. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

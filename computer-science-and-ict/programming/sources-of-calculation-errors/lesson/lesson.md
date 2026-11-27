@@ -10,11 +10,15 @@ The first source is the **model error**: the model simplifies the world (a frict
 
 In your mind's eye: born before the machine — model and data errors.
 
+[Picture 47725 — born before the machine — model and data errors]
+
 ## Sub lesson 2 — Born in the work — method and rounding errors
 
 The third source is the **method error**: numerical methods approximate by design — the bisection's half-interval, the rectangle sum's steps — shrinking as the method refines (more steps, narrower intervals), at the price of more work. The fourth is **rounding error**: the machine's finite mantissa rounds at every operation, and billions of operations accumulate the dust — reducible by wider types and by arranging operations kindly (adding smalls before larges). The chapter's bookkeeping rule: **name every answer's error sources before trusting its digits** — a result whose error budget is unknown is an opinion, not a computation.
 
 In your mind's eye: born in the work — method and rounding errors.
+
+[Picture 47726 — born in the work — method and rounding errors]
 
 ## Say it to your companion
 

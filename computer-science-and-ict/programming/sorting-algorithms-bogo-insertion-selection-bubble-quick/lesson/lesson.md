@@ -10,11 +10,15 @@ The annexes' scandal and gift is plurality: **there are several ways to sort (il
 
 In your mind's eye: many ways to sort.
 
+[Picture 47715 — many ways to sort]
+
 ## Sub lesson 2 — Networks and the question of ‘best’
 
 The annexes add **sorting networks (réseaux de tri)**: fixed rows of comparators that sort in parallel, whatever the input — a machine made of comparisons. With plurality comes the inquiry's question — **which way is best?** — whose honest answer is “it depends”: on the number of items, how scrambled they already are, and what a comparison costs. Meeting five sorts early vaccinates against the beginner's superstition that every problem has exactly one method with exactly one shape.
 
 In your mind's eye: networks and the question of ‘best’.
+
+[Picture 47716 — networks and the question of ‘best’]
 
 ## Say it to your companion
 

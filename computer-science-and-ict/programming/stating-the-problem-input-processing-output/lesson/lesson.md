@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Problem Solving and §4.1.1 Prob
 
 In your mind's eye: problem Solving and §4.1.1 Problem Statement.
 
+[Picture 47731 — problem Solving and §4.1.1 Problem Statement]
+
 ## Sub lesson 2 — Doing it — Stating the Problem Input Processing Output in practice
 
 **Doing it — Stating the Problem Input Processing Output in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Stating the Problem Input Processing Output in practice.
+
+[Picture 47732 — doing it — Stating the Problem Input Processing Output in practice]
 
 ## Say it to your companion
 

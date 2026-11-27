@@ -10,11 +10,15 @@ A **balance** comparison answers exactly one question about exactly two objects:
 
 In your mind's eye: the balance answers one question.
 
+[Picture 47721 — the balance answers one question]
+
 ## Sub lesson 2 — Spend comparisons like money
 
 Comparisons cost — time, effort, turns of the balance — so the activity quietly teaches **economy**: once A > B and B > C are known, weighing A against C buys nothing (transitivity already knows). Good sorters plan their comparisons: neighbours first, winners carried forward, knowledge reused. Counting comparisons per method — and crowning the cheapest correct one — is algorithm analysis with your hands, years before the word complexity arrives.
 
 In your mind's eye: spend comparisons like money.
+
+[Picture 47722 — spend comparisons like money]
 
 ## Say it to your companion
 
