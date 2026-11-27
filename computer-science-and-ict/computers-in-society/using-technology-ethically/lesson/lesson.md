@@ -10,11 +10,15 @@ Ethical use of **information** runs on three habits. **Respect ownership**: what
 
 In your mind's eye: the rules for information — respect, honesty, permission.
 
+[Picture 48596 — the rules for information — respect, honesty, permission]
+
 ## Sub lesson 2 — The rules for machines and people — care, fairness, repair
 
 Ethical use of the **technology** is manners with machines: **care** — leave shared computers, accounts and networks as you found them, or better; **fairness** — take your turn, do not lock others out of what the whole class shares, and do not use the machine to gain an unfair edge in work that must be your own; and **repair** — when your use harms someone, say so and put it right. Fiji's closing picture of the ethical user is a person whose information and machine habits others never have to guard against.
 
 In your mind's eye: the rules for machines and people — care, fairness, repair.
+
+[Picture 48597 — the rules for machines and people — care, fairness, repair]
 
 ## Say it to your companion
 

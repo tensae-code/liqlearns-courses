@@ -10,11 +10,15 @@ Inside a simulation, an **entity** is **a thing that moves through or sits in th
 
 In your mind's eye: models of entities and processes.
 
+[Picture 48582 — models of entities and processes]
+
 ## Sub lesson 2 — Different types of models
 
 Models are grouped by **how they represent the system**. A **physical model** is a real, scaled copy you can touch. A **computer model** is a program that imitates the system. Different systems need different kinds of models, so the type is chosen by **what must be tested**.
 
 In your mind's eye: different types of models.
+
+[Picture 48583 — different types of models]
 
 ## Say it to your companion
 

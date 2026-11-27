@@ -10,11 +10,15 @@ Unethical use begins with **information itself**: opening, reading or changing i
 
 In your mind's eye: misuse of information — taking, copying, changing.
 
+[Picture 48584 — misuse of information — taking, copying, changing]
+
 ## Sub lesson 2 — Misuse of the technology — breaking in and breaking things
 
 The second half of the catalogue is misuse of the **technology**: getting into accounts, files or systems **without permission**; planting or passing on **harmful programs**; using a computer to **steal, cheat or harass**; and using machines and networks in ways that **waste or damage** what a whole class or office shares. Fiji teaches the catalogue beside the ethics definition for a reason: a learner who can *name* a misuse when they see it — in a story, in a friend's plan, in their own temptation — has the first defence against doing it.
 
 In your mind's eye: misuse of the technology — breaking in and breaking things.
+
+[Picture 48585 — misuse of the technology — breaking in and breaking things]
 
 ## Say it to your companion
 

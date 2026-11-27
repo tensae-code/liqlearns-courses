@@ -10,11 +10,15 @@ An **interface** is how the user and the program meet, and the chapter sorts its
 
 In your mind's eye: kinds of interface — and visual design.
 
+[Picture 48586 — kinds of interface — and visual design]
+
 ## Sub lesson 2 — Sound design — the interface's second voice
 
 A program also **speaks in sound**, and the chapter designs that voice: **signals** that confirm (the soft click of a taken action), **warnings** that must cut through without wounding, **spoken and musical** elements where the design calls for them — each sound **earning its place**, because a program that sounds at everything teaches its user to hear nothing. Sound and picture obey one law between them: the interface's every signal, seen or heard, exists to tell the user **what is true now** — and the designer's whole craft is keeping that promise kindly.
 
 In your mind's eye: sound design — the interface's second voice.
+
+[Picture 48587 — sound design — the interface's second voice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Every problem, looked at honestly, is a **gap**: you know some things, you need 
 
 In your mind's eye: a problem is a gap in information.
 
+[Picture 48592 — a problem is a gap in information]
+
 ## Sub lesson 2 — Find it, judge it, use it — then solve
 
 With the gap named, the work runs in order: **find** the needed information (in books, on the Internet, by asking, by measuring), **judge** it (is it trustworthy, current, and really about this problem?), **use** it to close the gap, and only then **solve and check** — does the answer actually answer the problem that was stated? Vietnam teaches this inside its information theme because the computer is the solver's great information tool: it finds fast, but the judging and the using stay human work.
 
 In your mind's eye: find it, judge it, use it — then solve.
+
+[Picture 48593 — find it, judge it, use it — then solve]
 
 ## Say it to your companion
 

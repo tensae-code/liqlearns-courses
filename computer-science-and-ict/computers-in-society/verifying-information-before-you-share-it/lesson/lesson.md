@@ -10,11 +10,15 @@ Verification begins with three questions. **Source**: who first said this, and w
 
 In your mind's eye: the checks — source, sides, agreement.
 
+[Picture 48598 — the checks — source, sides, agreement]
+
 ## Sub lesson 2 — Technology that verifies — and the share decision
 
 The Grade 8 book adds the tools: **reverse image search** shows whether a photo is old or from another place; checking the **original date and context** kills most recycled scares; official websites and fact-checking services answer directly. Then comes the decision the whole lesson serves: **share, hold, or correct**. Sharing a verified thing is a service; holding an unchecked thing is a kindness; and sending a correction back along the chain you received from is citizenship — the chain that carried the falsehood can carry its cure.
 
 In your mind's eye: technology that verifies — and the share decision.
+
+[Picture 48599 — technology that verifies — and the share decision]
 
 ## Say it to your companion
 

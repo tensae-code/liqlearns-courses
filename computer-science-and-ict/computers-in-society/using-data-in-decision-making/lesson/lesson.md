@@ -10,11 +10,15 @@ Data serves a decision in four ways: it **describes the present** (how the libra
 
 In your mind's eye: what data does for a decision.
 
+[Picture 48588 — what data does for a decision]
+
 ## Sub lesson 2 — Data's limits — the honest half
 
 Jordan's lesson keeps the limits beside the praise: data is **about the past** (the future may differ), it measures **what is measurable** (a library's quiet value escapes the counter), it can be **wrong or gamed** (collected carelessly, or shaped to please), and it never **makes** the decision — values do: data says what each option costs and earns; people choose what matters. The mature user the book is building holds both halves: decide with data, and know exactly where the data stopped.
 
 In your mind's eye: data's limits — the honest half.
+
+[Picture 48589 — data's limits — the honest half]
 
 ## Say it to your companion
 
