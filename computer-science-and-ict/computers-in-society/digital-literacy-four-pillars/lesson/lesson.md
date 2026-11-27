@@ -10,11 +10,15 @@ Indonesia's national digital-literacy framework (Kominfo) stands on four pillars
 
 In your mind's eye: skills and culture — using, and belonging.
 
+[Picture 48291 — skills and culture — using, and belonging]
+
 ## Sub lesson 2 — Ethics and safety — judging, and staying whole
 
 **Digital Ethics** is judgement inside the digital world, and the book names its four habits: **awareness** (kesadaran — noticing what you do), **integrity** (integritas — being the same person online as off), **responsibility** (tanggung jawab — owning your acts' effects) and **virtue** (kebajikan — doing good, not only avoiding harm). **Digital Safety** is protection: guarding accounts, data and self against the digital world's harms. The four pillars hold one roof — a person who can use, belongs, judges and is safe is digitally literate; any pillar missing leaves the roof tilted.
 
 In your mind's eye: ethics and safety — judging, and staying whole.
+
+[Picture 48292 — ethics and safety — judging, and staying whole]
 
 ## Say it to your companion
 

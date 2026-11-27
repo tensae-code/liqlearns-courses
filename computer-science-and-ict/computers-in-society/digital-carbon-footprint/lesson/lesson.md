@@ -10,11 +10,15 @@ A **carbon footprint** is the total greenhouse-gas emissions a activity causes, 
 
 In your mind's eye: what the digital carbon footprint is.
 
+[Picture 48285 — what the digital carbon footprint is]
+
 ## Sub lesson 2 — Counting and shrinking it
 
 Counting follows the life: **making** (mining, manufacture, shipping), **using** (electricity × the grid's dirtiness × hours), **storing forever** (the photo never deleted, copied in three buildings, forever warm), and **throwing away** (the e-waste lesson's ground). Shrinking mirrors the counting: keep devices **longer**, delete and unsubscribe, stream at the size the screen needs, choose services on renewable power, and let old kit be recycled. Jordan places the footprint inside green computing because a footprint is a principle with a number on it — and numbers can be improved on purpose.
 
 In your mind's eye: counting and shrinking it.
+
+[Picture 48286 — counting and shrinking it]
 
 ## Say it to your companion
 

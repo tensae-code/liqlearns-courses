@@ -10,11 +10,15 @@ An **alarm** is a digital device that **watches and warns**. A car alarm feels a
 
 In your mind's eye: alarms — devices that watch and warn.
 
+[Picture 48287 — alarms — devices that watch and warn]
+
 ## Sub lesson 2 — Locks — devices that open only for their owner
 
 A **digital lock** keeps a thing closed until the right person comes. The car's lock opens for its own key or code and for no other; a bicycle lock with a code opens only for the one who knows the numbers; a home's digital lock may ask for a code, a card or a fingerprint. The lock's rule is the opposite of the alarm's: the alarm watches for the **wrong event**, the lock waits for the **right proof** — and together they guard the things a family owns.
 
 In your mind's eye: locks — devices that open only for their owner.
+
+[Picture 48288 — locks — devices that open only for their owner]
 
 ## Say it to your companion
 

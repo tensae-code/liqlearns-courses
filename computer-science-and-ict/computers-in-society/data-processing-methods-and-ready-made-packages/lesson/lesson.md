@@ -10,11 +10,15 @@ Sudan's Grade 11 book opens by naming the computer a **data-processing machine**
 
 In your mind's eye: the computer as a data-processing machine — and the methods of processing.
 
+[Picture 48275 — the computer as a data-processing machine — and the methods of processing]
+
 ## Sub lesson 2 — Ready-made packages
 
 Not every program is written for one user. A **ready-made package** is software written once and sold ready to many users — the word processors, spreadsheets and accounts programs any office can buy and use as they come. Against them stand **specially written programs**, built for one organisation's exact needs, like the spare-parts factory system later in this book. The package is cheaper and instant but fits its buyer only as well as it fits everyone; the written program fits exactly and costs exactly that. Naming which of the two a job should use is the lesson's judgement.
 
 In your mind's eye: ready-made packages.
+
+[Picture 48276 — ready-made packages]
 
 ## Say it to your companion
 

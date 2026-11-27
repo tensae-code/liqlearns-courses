@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Defamation; Privacy** — covering: De
 
 In your mind's eye: defamation; Privacy.
 
+[Picture 48279 — defamation; Privacy]
+
 ## Sub lesson 2 — Doing it — Defamation; Privacy in practice
 
 This part of South Sudan's book teaches **Doing it — Defamation; Privacy in practice** — covering: Defamation; Privacy. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Defamation; Privacy. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Defamation; Privacy in practice is part of that chain..
 
 In your mind's eye: doing it — Defamation; Privacy in practice.
+
+[Picture 48280 — doing it — Defamation; Privacy in practice]
 
 ## Say it to your companion
 

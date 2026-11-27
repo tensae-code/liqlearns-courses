@@ -10,11 +10,15 @@ News, clips, posts, streams: digital media is the water a Grade 9 pupil swims in
 
 In your mind's eye: the means of digital media.
 
+[Picture 48295 — the means of digital media]
+
 ## Sub lesson 2 — Dealing with it — the wise user's crafts
 
 Dealing wisely is the media unit's craft, in four habits: **check the source** (who made this, and what do they want?), **check the claim** (who else says it — the verification lessons' skill), **notice the shaping** (what the headline, the crop and the count are doing to your feeling), and **govern your own part** (what you spread, you endorse; what you watch by the hour, you chose by the minute). The book's closing line is the citizen's: digital media is not weather — it is made by people, and can be answered by people.
 
 In your mind's eye: dealing with it — the wise user's crafts.
+
+[Picture 48296 — dealing with it — the wise user's crafts]
 
 ## Say it to your companion
 

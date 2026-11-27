@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Tools and techniques used in dig
 
 In your mind's eye: tools and techniques used in digital marketing.
 
+[Picture 48293 — tools and techniques used in digital marketing]
+
 ## Sub lesson 2 — Doing it — Digital Marketing Nine Techniques in practice
 
 **Doing it — Digital Marketing Nine Techniques in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Digital Marketing Nine Techniques in practice.
+
+[Picture 48294 — doing it — Digital Marketing Nine Techniques in practice]
 
 ## Say it to your companion
 

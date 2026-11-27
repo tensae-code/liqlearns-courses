@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Digital Entrepreneurship** — c
 
 In your mind's eye: digital Entrepreneurship.
 
+[Picture 48289 — digital Entrepreneurship]
+
 ## Sub lesson 2 — Digital Entrepreneurship
 
 This part of Pakistan (Punjab)'s book teaches **Digital Entrepreneurship** — covering: Unit 6 (Entrepreneurship in Digital Age): the business plan, digital marketing, SEO and social media. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: digital Entrepreneurship.
+
+[Picture 48290 — digital Entrepreneurship]
 
 ## Say it to your companion
 

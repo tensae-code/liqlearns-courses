@@ -10,11 +10,15 @@ A digital country needs somewhere for its data to live: the **National Data Cent
 
 In your mind's eye: the foundations — data centre, parks, startups, laptops.
 
+[Picture 48283 — the foundations — data centre, parks, startups, laptops]
+
 ## Sub lesson 2 — Cashless Bangladesh — money by QR code
 
 The programme reaches the citizen's pocket as **Cashless Bangladesh**: Bangladesh Bank's **QR-based payments**, where a shopper scans a code and money moves account to account — no cash, no card machine, the same code working across banks and wallets. Cashless payment leaves a record (harder to steal, easier to account), costs less to handle than cash, and brings small sellers — the tea stall, the rickshaw — into the recorded economy. The book's closing picture is the programme whole: e-services, e-agriculture and e-governance riding on foundations the citizen rarely sees, into a wallet the citizen uses daily.
 
 In your mind's eye: cashless Bangladesh — money by QR code.
+
+[Picture 48284 — cashless Bangladesh — money by QR code]
 
 ## Say it to your companion
 
