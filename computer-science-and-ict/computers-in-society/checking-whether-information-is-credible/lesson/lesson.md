@@ -10,11 +10,15 @@ A **credible** source can be believed because it shows its grounds. Indonesia's 
 
 In your mind's eye: the marks of a credible source — trust, evidence, qualifications.
 
+[Picture 48223 — the marks of a credible source — trust, evidence, qualifications]
+
 ## Sub lesson 2 — Credibility by medium — text, image, video — and the fact-check
 
 Each medium has its own tricks, so the check changes shape: for **text**, who wrote it and what do they cite; for an **image**, is it the scene it claims — or an old, cropped or edited picture wearing a new caption; for **video**, is the clip whole, in its real order and place. The last resort is the **fact-check**: a claim important enough to act on is looked up in a source whose business is checking. Credibility is a judgement with reasons, not a feeling about a page's polish.
 
 In your mind's eye: credibility by medium — text, image, video. And the fact-check.
+
+[Picture 48224 — credibility by medium — text, image, video. And the fact-check]
 
 ## Say it to your companion
 

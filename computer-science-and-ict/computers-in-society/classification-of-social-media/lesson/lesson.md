@@ -10,11 +10,15 @@ Social media can be classified — sorted into kinds by what they mainly do: sha
 
 In your mind's eye: classification of social media.
 
+[Picture 48229 — classification of social media]
+
 ## Sub lesson 2 — Doing it — Classification of social media in practice
 
 Classification of Social Media is learned by doing: the learner takes the common platforms and sorts each into its kind, giving the reason — what the platform is mainly used for decides its class The learner takes the common platforms and sorts each into its kind, giving the reason — what the platform is mainly used for decides its class Because a classification turns a crowd of brand names into a small map a learner can reason about — new platforms can be placed on it as they appear.
 
 In your mind's eye: doing it — Classification of social media in practice.
+
+[Picture 48230 — doing it — Classification of social media in practice]
 
 ## Say it to your companion
 

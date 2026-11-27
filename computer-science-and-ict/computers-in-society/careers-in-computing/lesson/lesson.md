@@ -10,11 +10,15 @@ Computing work divides first into those who **build** systems and those who **ru
 
 In your mind's eye: the building and running professions.
 
+[Picture 48221 — the building and running professions]
+
 ## Sub lesson 2 — The helping and guiding professions — and the road in
 
 A second family keeps people and systems together: the **data entry operator**, who turns the world's paper into the system's records; the **IT teacher and trainer**, who make new users capable; and the **systems manager**, who plans and answers for the whole. Fiji's careers lesson ends where it should — with the road: each career is entered by the subjects and skills this very course teaches, deepened in the direction the career needs — code for the programmer, organisations for the analyst, machines for the technician.
 
 In your mind's eye: the helping and guiding professions — and the road in.
+
+[Picture 48222 — the helping and guiding professions — and the road in]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **citation** is a promise: this idea, figure or sentence came from a work the 
 
 In your mind's eye: why cite — the reader must be able to find it.
 
+[Picture 48225 — why cite — the reader must be able to find it]
+
 ## Sub lesson 2 — Citing with the tool — Google Docs' citation menu
 
 Word processors carry the standard inside them: Google Docs' **citation menu** (in the Tools menu) lets the writer add a source once — choosing its kind (book, website, journal) and filling its facts — and then insert the citation wherever the work is used, with the bibliography built in the chosen style. Indonesia's Grade 11 enrichment teaches exactly this menu. The tool keeps the form; the writer's duties stay human: cite everything borrowed, cite it where it is used, and never list a work that was not opened.
 
 In your mind's eye: citing with the tool — Google Docs' citation menu.
+
+[Picture 48226 — citing with the tool — Google Docs' citation menu]
 
 ## Say it to your companion
 

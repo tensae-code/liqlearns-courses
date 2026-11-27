@@ -10,11 +10,15 @@ Buying well starts with the **user**: what work must this computer do, and for w
 
 In your mind's eye: buying considerations — needs first, then the machine.
 
+[Picture 48219 — buying considerations — needs first, then the machine]
+
 ## Sub lesson 2 — After-sales service — the help that comes after the sale
 
 **After-sales service** is the help the seller gives **after** the purchase: the **warranty or guarantee** that faults within a set time will be repaired or put right, **repairs** when the machine breaks, and **service** that keeps it working. It counts inside the buying decision, not after it: a computer that cannot be repaired nearby, or whose seller gives no service, costs its owner time and money for years — so two computers at the same price are not the same buy when only one of them stands behind its sale.
 
 In your mind's eye: after-sales service — the help that comes after the sale.
+
+[Picture 48220 — after-sales service — the help that comes after the sale]
 
 ## Say it to your companion
 

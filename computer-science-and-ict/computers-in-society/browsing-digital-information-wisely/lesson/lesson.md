@@ -10,11 +10,15 @@ Wise browsing starts before the first click: name what you are looking for, then
 
 In your mind's eye: choosing where to look — purpose before pages.
 
+[Picture 48211 — choosing where to look — purpose before pages]
+
 ## Sub lesson 2 — Reading the page's intentions — and your own trail
 
 Every page wants something: your reading, your click, your money, your agreement. The wise browser asks who made the page and what they gain if it is believed or shared, checks the date and the evidence offered, and compares before settling. Browsing also leaves a trail and takes time — the two quiet costs — so wisdom includes closing what does not serve the purpose and keeping what does in a place it can be found again.
 
 In your mind's eye: reading the page's intentions — and your own trail.
+
+[Picture 48212 — reading the page's intentions — and your own trail]
 
 ## Say it to your companion
 
