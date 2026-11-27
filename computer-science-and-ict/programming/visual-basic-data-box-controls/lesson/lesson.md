@@ -10,11 +10,15 @@ The **data boxes** are the form's holding places. The **TextBox** holds the user
 
 In your mind's eye: the data boxes — TextBox, PictureBox, RichTextBox, ImageList.
 
+[Picture 47972 — the data boxes — TextBox, PictureBox, RichTextBox, ImageList]
+
 ## Sub lesson 2 — Loading and saving with Open and the Common Dialog
 
 Boxes are fed from files through the **Common Dialog**: its **Open** form lets the user **choose a file** in the familiar window — the picture for the PictureBox, the RTF for the RichTextBox — and its saving form writes the box's content **back to a file** the user names. Kuwait teaches the dialog beside the boxes because a data box without files is a bowl never filled: the program's data lives on disk, and the dialog is the door it passes through, chosen by the user's own hand.
 
 In your mind's eye: loading and saving with Open and the Common Dialog.
+
+[Picture 47973 — loading and saving with Open and the Common Dialog]
 
 ## Say it to your companion
 

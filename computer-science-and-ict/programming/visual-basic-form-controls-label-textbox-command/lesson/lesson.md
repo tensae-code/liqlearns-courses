@@ -10,17 +10,23 @@ The **standard tools** begin every form. The **Label** shows **text the user rea
 
 In your mind's eye: the standard tools — Label, TextBox, command buttons.
 
+[Picture 47978 — the standard tools — Label, TextBox, command buttons]
+
 ## Sub lesson 2 — Frames and choosing tools — check boxes and option buttons
 
 The **Frame** **groups** controls that belong together, drawing a border and a caption around a family. Inside such groups live the choosing tools: **check boxes**, each ticked or not **independently** — several may be on together; and **option buttons**, which choose **exactly one** from their group — picking one releases the others. The frame is what makes an option-button group a group: buttons in one frame choose against each other, and against no others.
 
 In your mind's eye: frames and choosing tools — check boxes and option buttons.
 
+[Picture 47979 — frames and choosing tools — check boxes and option buttons]
+
 ## Sub lesson 3 — Lists to pick from — list box and combo box
 
 The **list box** shows a **list of items to pick from**, all visible, one (or more) chosen by clicking. The **combined box (combo box)** folds the list into a **drop-down** and lets the user **pick from the list or type their own value** — a list box with a TextBox's freedom, in a fraction of the space. Libya closes the toolbox here: show with Label, ask with TextBox, trigger with buttons, group with Frame, choose with checks and options, and offer with lists — a form for any conversation a program must hold.
 
 In your mind's eye: lists to pick from — list box and combo box.
+
+[Picture 47980 — lists to pick from — list box and combo box]
 
 ## Say it to your companion
 

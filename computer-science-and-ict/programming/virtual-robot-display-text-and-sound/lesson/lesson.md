@@ -10,11 +10,15 @@ The robot controller carries a small **display**, and blocks write **text onto i
 
 In your mind's eye: showing text on the display.
 
+[Picture 47964 — showing text on the display]
+
 ## Sub lesson 2 — Giving the robot sound
 
 **Sound** blocks give the robot a voice of effects: tones and sounds played at the program's chosen moments — a beep at a mission's start, a signal at its finish, an alarm at an obstacle. Expression is engineered, not decorated: display for what must be **read**, sound for what must be **noticed** without looking. Movement, then expression — the unit's arc from a machine that goes to a machine that communicates.
 
 In your mind's eye: giving the robot sound.
+
+[Picture 47965 — giving the robot sound]
 
 ## Say it to your companion
 

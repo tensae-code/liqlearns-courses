@@ -10,11 +10,15 @@ Every craft begins by meeting its workbench. Kuwait's VB course gives the enviro
 
 In your mind's eye: visual Basic 2008 — what it is, and its advantages.
 
+[Picture 47968 — visual Basic 2008 — what it is, and its advantages]
+
 ## Sub lesson 2 — Starting, opening a project, and the windows
 
 The working acts are the chapter's craft: **start** Visual Basic; **open a project** — a new one begun or an existing one brought back, the project being the whole application's kept form; and read the screen's **windows**: the form designer where the program is drawn, the toolbox of controls, the solution's file list, and the **Properties window** — the panel that shows and edits the **selected object's properties**, the place the next chapter's property craft will live. A programmer who can name the windows can follow every instruction the book gives after this chapter.
 
 In your mind's eye: starting, opening a project, and the windows.
+
+[Picture 47969 — starting, opening a project, and the windows]
 
 ## Say it to your companion
 

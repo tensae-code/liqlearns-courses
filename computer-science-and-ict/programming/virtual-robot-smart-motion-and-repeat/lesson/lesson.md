@@ -10,11 +10,15 @@ The virtual robot steers by its **two drive motors**: driving both at the same s
 
 In your mind's eye: steering without a steering wheel — two motors, two speeds.
 
+[Picture 47966 — steering without a steering wheel — two motors, two speeds]
+
 ## Sub lesson 2 — Smart repetition — Repeat
 
 Missions repeat their shapes — four sides, six laps, ten passes — and the **Repeat** block writes the repetition **once**: the motion blocks inside it run the counted number of times. Smart repetition is the square drawn as one side plus Repeat 4 instead of four copied sides: shorter to write, safer to change — mend the side once and every side mends. The lesson pairs the two teachings because missions need both: true steering, written briefly.
 
 In your mind's eye: smart repetition — Repeat.
+
+[Picture 47967 — smart repetition — Repeat]
 
 ## Say it to your companion
 

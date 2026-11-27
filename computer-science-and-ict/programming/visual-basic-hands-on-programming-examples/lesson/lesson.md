@@ -10,11 +10,15 @@ The first hands-on example (printed p. 88) gathers everything before it — the 
 
 In your mind's eye: first build — a working window from the controls.
 
+[Picture 47981 — first build — a working window from the controls]
+
 ## Sub lesson 2 — Second build — variables and data types at work
 
 The second example (printed p. 99) follows the variables chapter for a reason: it builds a program that **takes in values, stores them in variables of chosen types, works on them and shows the result** — the input–process–output shape inside a real window. Fiji's two builds frame the whole chapter: controls without data make posters; data without controls has no face. A learner who has done both builds has not only read the course — they have its two hands.
 
 In your mind's eye: second build — variables and data types at work.
+
+[Picture 47982 — second build — variables and data types at work]
 
 ## Say it to your companion
 

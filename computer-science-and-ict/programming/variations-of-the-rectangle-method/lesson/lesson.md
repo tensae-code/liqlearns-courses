@@ -10,11 +10,15 @@ For a monotone stretch, the **left sum under- and the right sum over-estimates**
 
 In your mind's eye: averaging the pair — the bracket's midpoint.
 
+[Picture 47960 — averaging the pair — the bracket's midpoint]
+
 ## Sub lesson 2 — Refining and reading the pace — n doubled, error quartered
 
 The second variation is systematic: **compute the sum at n, then at 2n**, and watch the change: for the rectangle family the error shrinks roughly by a known factor (about **fourfold** for the midpoint/trapezoid averages when h halves, against twofold for one-sided sums) — so successive sums **estimate their own error**, and the refined pair (coarse, fine) can be **combined** to cancel the leading error term (the extrapolation step beyond this course). The chapter closes with its ethic complete: an approximate answer is honourable exactly when its **error is estimated, not ignored**.
 
 In your mind's eye: refining and reading the pace — n doubled, error quartered.
+
+[Picture 47961 — refining and reading the pace — n doubled, error quartered]
 
 ## Say it to your companion
 

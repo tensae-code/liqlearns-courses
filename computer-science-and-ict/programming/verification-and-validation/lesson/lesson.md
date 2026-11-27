@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Verification and Validation** �
 
 In your mind's eye: verification and Validation.
 
+[Picture 47962 — verification and Validation]
+
 ## Sub lesson 2 — Doing it — Verification and Validation in practice
 
 **Doing it — Verification and Validation in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Verification and Validation in practice.
+
+[Picture 47963 — doing it — Verification and Validation in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ An **event** is a **happening the program can respond to**: the user **clicks** 
 
 In your mind's eye: events — the happenings a program answers.
 
+[Picture 47974 — events — the happenings a program answers]
+
 ## Sub lesson 2 — Methods, and property against function
 
 A **method** is an **action an object can be told to perform** — told in code, with the object's name: the object does something. A **property**, by contrast, is a **characteristic** an object has — its text, colour, position — a value it holds, not an action it does. And the book draws the second line plainly: a **property holds**; a **function works out and returns a value**. Event (when), method (do), property (has), function (returns) — four words, four different kinds of thing, and confusion between them is the beginner's main fog in this course.
 
 In your mind's eye: methods, and property against function.
+
+[Picture 47975 — methods, and property against function]
 
 ## Say it to your companion
 
