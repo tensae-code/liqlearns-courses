@@ -10,11 +10,15 @@ A **search algorithm** takes a **list** and a **target value** and answers: **wh
 
 In your mind's eye: search — finding where a value is.
 
+[Picture 47653 — search — finding where a value is]
+
 ## Sub lesson 2 — Sort — putting values in order
 
 A **sort algorithm** rearranges a list into **order** — ascending or descending — moving nothing out and losing nothing: the sorted list holds exactly the values it started with, re-sequenced. Sorting is characterised by its **movement pattern**: which neighbours are compared, what is swapped, what is set aside and reinserted. Malaysia teaches search and sort together because they are partners: an ordered list is what the fastest searches require, so sorting once can pay for many searches.
 
 In your mind's eye: sort — putting values in order.
+
+[Picture 47654 — sort — putting values in order]
 
 ## Say it to your companion
 

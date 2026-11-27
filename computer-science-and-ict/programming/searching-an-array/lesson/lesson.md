@@ -10,11 +10,15 @@ The array is filled and sorted; now it must answer questions. Mongolia's search 
 
 In your mind's eye: linear search and the found-index.
 
+[Picture 47655 — linear search and the found-index]
+
 ## Sub lesson 2 — Stopping at the first match — the improvement
 
 The first version walks on even after success, finishing the array out of habit. The **improvement** is one decision: **stop at the first match** — the moment the found-index is set, the walk ends. The saving is real (on average half the array unwalked) and the lesson inside it is larger: an algorithm is **improvable** — the correct first version is a floor, not a ceiling, and the programmer's craft includes returning to working code with a colder eye. Mongolia pairs the two array lessons deliberately: sorting made the array orderly, searching makes it answerable — and both were taught as methods to be understood, traced and improved, not incantations to be memorised.
 
 In your mind's eye: stopping at the first match — the improvement.
+
+[Picture 47656 — stopping at the first match — the improvement]
 
 ## Say it to your companion
 

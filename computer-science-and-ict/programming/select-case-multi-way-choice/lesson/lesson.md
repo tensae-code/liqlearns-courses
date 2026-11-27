@@ -10,11 +10,15 @@ IF asks about one test. A menu, a grade band, a day number ask about one value w
 
 In your mind's eye: sELECT CASE — one value, many cases.
 
+[Picture 47657 — sELECT CASE — one value, many cases]
+
 ## Sub lesson 2 — CASE ELSE and choosing SELECT CASE over IF
 
 **Case Else** is the case for **every value no other case matched** — the safety net, as Else is for IF. Choose SELECT CASE when the choice turns on **one value with many named possibilities** — a menu number, a mark band, a day of the week; keep IF for tests that are **about conditions**, especially different conditions on different values, and for the two-way choice. Libya teaches SELECT CASE inside its conditional-control chapter, after IF and the AND/OR connectors, as the third shape of choosing.
 
 In your mind's eye: cASE ELSE and choosing SELECT CASE over IF.
+
+[Picture 47658 — cASE ELSE and choosing SELECT CASE over IF]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **mouse x** and **mouse y** reporters give the **pointer's position on the s
 
 In your mind's eye: mouse x and mouse y — the pointer's coordinates.
 
+[Picture 47659 — mouse x and mouse y — the pointer's coordinates]
+
 ## Sub lesson 2 — Using the pointer's position in a program
 
 With the two reporters a program can **answer the pointer**: a sprite can **go to the pointer's x while keeping its own height**, a game can test **whether the pointer is in a chosen region** — x greater than a number, y between two numbers — and a drawing can follow the pointer's numbers instead of the pointer itself. The sensing is the program's way of asking the user's hand where it is: conditions built on mouse x and mouse y turn the whole stage into a control the user already knows how to use.
 
 In your mind's eye: using the pointer's position in a program.
+
+[Picture 47660 — using the pointer's position in a program]
 
 ## Say it to your companion
 

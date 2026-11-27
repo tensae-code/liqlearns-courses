@@ -10,11 +10,15 @@ A continuous function that **changes sign** across an interval [a, b] — f(a) a
 
 In your mind's eye: the sign change — a root is in there.
 
+[Picture 47663 — the sign change — a root is in there]
+
 ## Sub lesson 2 — One root per interval — separation's discipline
 
 Separation is **complete** when each bracket holds **exactly one root** — tested by the function's behaviour inside (its monotonicity by graph or derivative sense) and by narrowing until brackets are small and clearly single. The discipline matters because the refining methods are **local**: bisection handed a two-root bracket converges to one of them and reports success while the other exists unreported. Separate first, refine second: the order is the chapter's whole ethics, here and in every measurement after — know how many answers exist before polishing any of them.
 
 In your mind's eye: one root per interval — separation's discipline.
+
+[Picture 47664 — one root per interval — separation's discipline]
 
 ## Say it to your companion
 

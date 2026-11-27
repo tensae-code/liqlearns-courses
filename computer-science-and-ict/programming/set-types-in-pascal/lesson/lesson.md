@@ -10,11 +10,15 @@ A **set** is a collection of values of one **ordinal base type**, in which each 
 
 In your mind's eye: a set — membership is the whole story.
 
+[Picture 47669 — a set — membership is the whole story]
+
 ## Sub lesson 2 — Working with sets — union, difference, in
 
 Sets combine by their mathematics: **+** is union (in either), **−** is difference (in the first, not the second), ∗ is intersection (in both), and comparisons test inclusion (<= means 'is a subset of'). The **in** operator asks the membership question: `if Wed in openDays then …`. Sets suit closed vocabularies — letters present, options chosen, days open — wherever a program asks 'which of these?' rather than 'how many, in what order?'. C++ has no built-in set type; the work is done by library classes — the concept again outliving its clothing.
 
 In your mind's eye: working with sets — union, difference, in.
+
+[Picture 47670 — working with sets — union, difference, in]
 
 ## Say it to your companion
 

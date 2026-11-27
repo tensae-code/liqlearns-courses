@@ -10,11 +10,15 @@ A program text is a stream of characters until separators cut it into pieces the
 
 In your mind's eye: cutting the text — what separators are.
 
+[Picture 47665 — cutting the text — what separators are]
+
 ## Sub lesson 2 — One sign, two grammars — the semicolon's two jobs
 
 The semicolon is the pair's emblematic difference. In **Pascal**, because it separates, the last instruction before **end** needs none — and an extra one only plants an empty instruction. In **C++**, because it terminates, a missing semicolon is an immediate error, and an extra one is an **empty statement** with the same traps (the stray `if (x>0);`). Reading separators is reading grammar: the same text, cut differently by the two languages, means differently — the vocabulary chapter's last proof that syntax is real.
 
 In your mind's eye: one sign, two grammars — the semicolon's two jobs.
+
+[Picture 47666 — one sign, two grammars — the semicolon's two jobs]
 
 ## Say it to your companion
 

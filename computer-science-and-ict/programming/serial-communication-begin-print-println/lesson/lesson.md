@@ -10,11 +10,15 @@ A board running alone is mute; **serial communication** is its voice — a strea
 
 In your mind's eye: opening the channel — Serial.begin.
 
+[Picture 47667 — opening the channel — Serial.begin]
+
 ## Sub lesson 2 — print and println — sending values out
 
 Two commands send. **`Serial.print(value)`** writes the value — a number as its digits, a text as itself — and stays on the same line; **`Serial.println(value)`** writes it and moves to a new line, so a stream of readings becomes a readable list. With them the board can report anything it knows: the sensor's number, the state of a pin, the name of the step it is on. The debugging habit the lesson builds is permanent: when a program misbehaves, make it *say* what it is doing — print the value, watch the truth, fix the line the truth accuses.
 
 In your mind's eye: print and println — sending values out.
+
+[Picture 47668 — print and println — sending values out]
 
 ## Say it to your companion
 

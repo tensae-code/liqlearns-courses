@@ -10,11 +10,15 @@ A **touching** test asks whether the sprite is touching the **mouse pointer**, *
 
 In your mind's eye: touching. Pointer, sprite, colour.
 
+[Picture 47661 — touching. Pointer, sprite, colour]
+
 ## Sub lesson 2 — Wait-until and layers
 
 **Wait-until** holds everything until its test comes true — the script’s way of standing at the meeting point. When sprites meet, **layers** decide the picture: **go to front** brings a sprite over the others, **go to back** sends it behind.
 
 In your mind's eye: wait-until and layers.
+
+[Picture 47662 — wait-until and layers]
 
 ## Say it to your companion
 

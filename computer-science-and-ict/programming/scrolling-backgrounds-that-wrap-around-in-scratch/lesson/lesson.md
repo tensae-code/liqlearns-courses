@@ -10,11 +10,15 @@ The trick is a cut: **a scene wider than the stage is split into two sprites**, 
 
 In your mind's eye: two sprites, one endless scene.
 
+[Picture 47649 — two sprites, one endless scene]
+
 ## Sub lesson 2 — Glide left, jump back right
 
 Both sprites **keep gliding left**; when a sprite’s **position passes a limit** — its whole width gone off the left — it **jumps back to the right**, behind its partner, ready to glide through again. The two leapfrog forever, and **the background never ends**.
 
 In your mind's eye: glide left, jump back right.
+
+[Picture 47650 — glide left, jump back right]
 
 ## Say it to your companion
 
