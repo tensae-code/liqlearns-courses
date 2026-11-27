@@ -10,11 +10,15 @@ A **traversal** visits every node of a tree in a fixed order, defined recursivel
 
 In your mind's eye: three walks — the visit comes before, between, or after.
 
+[Picture 47911 — three walks — the visit comes before, between, or after]
+
 ## Sub lesson 2 — Inorder reads sorted — the search tree pays its promise
 
 On a **binary search tree**, the inorder walk has a gift: because every left subtree holds smaller values and every right subtree larger ones, inorder visits the values **in sorted order** — the tree can be **read out sorted** without any sorting at all, which is why the book calls the BST a structure for 'sorting and searching' together. Preorder and postorder earn their keep elsewhere: preorder copies a tree's shape, postorder evaluates expressions and safely deletes — children before the parent that holds them.
 
 In your mind's eye: inorder reads sorted — the search tree pays its promise.
+
+[Picture 47912 — inorder reads sorted — the search tree pays its promise]
 
 ## Say it to your companion
 

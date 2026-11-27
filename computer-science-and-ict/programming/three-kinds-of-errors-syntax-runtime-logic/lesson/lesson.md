@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Common Programming Errors** — 
 
 In your mind's eye: common Programming Errors.
 
+[Picture 47903 — common Programming Errors]
+
 ## Sub lesson 2 — Doing it — Three Kinds of Errors Syntax Runtime Logic in practice
 
 **Doing it — Three Kinds of Errors Syntax Runtime Logic in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Three Kinds of Errors Syntax Runtime Logic in practice.
+
+[Picture 47904 — doing it — Three Kinds of Errors Syntax Runtime Logic in practice]
 
 ## Say it to your companion
 

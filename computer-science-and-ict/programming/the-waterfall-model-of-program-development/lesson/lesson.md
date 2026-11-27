@@ -10,11 +10,15 @@ The waterfall falls through stages. **Analysis**: what problem, exactly, must th
 
 In your mind's eye: the stages — analysis to implementation.
 
+[Picture 47899 — the stages — analysis to implementation]
+
 ## Sub lesson 2 — Maintenance — and the waterfall's character
 
 The last stage outlasts all others: **maintenance** — the program kept true as the world changes around it: new rules, new needs, faults that only real use reveals. Most of a program's life is maintenance, which is why the good-structure lesson's readability is an economic virtue, not a taste. The waterfall's character is its order: each stage **completed and checked before the next begins**, because a fault found one stage down costs ten times the same fault found in its home stage. Later models bend this order; the waterfall remains the map every developer must be able to draw first.
 
 In your mind's eye: maintenance — and the waterfall's character.
+
+[Picture 47900 — maintenance — and the waterfall's character]
 
 ## Say it to your companion
 

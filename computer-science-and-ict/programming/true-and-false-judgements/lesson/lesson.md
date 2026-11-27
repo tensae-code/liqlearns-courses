@@ -12,6 +12,8 @@ A sentence like these is called a **judgement**. A judgement says something abou
 
 In your mind's eye: a child saying three sentences in speech bubbles. About the sun, about a cat, about sugar.
 
+[Picture 47913 — a child saying three sentences in speech bubbles. About the sun, about a cat, about sugar]
+
 Not every sentence is a judgement. *Please sit down* is an order — it does not say something that can be checked. *What time is it?* is a question — it asks, it does not say. A judgement is the kind of sentence that **says**: this is so — or this is not so.
 
 ## Sub lesson 2 — True judgements and false judgements
@@ -23,6 +25,8 @@ A judgement is **true** when what it says matches the world. *The sun is shining
 A judgement is **false** when what it says does not match the world. *Sugar is salty* — taste it: sugar is sweet, so the judgement is false. *A fish can fly* — fish swim; the judgement is false.
 
 In your mind's eye: two judgements side by side, one with the world agreeing, one with the world disagreeing.
+
+[Picture 47914 — two judgements side by side, one with the world agreeing, one with the world disagreeing]
 
 The way to decide is always the same: **hold the judgement up against the world and look.** Do not guess. Do not say true because the sentence sounds nice. Look, count, taste, check — then say: true, or false.
 

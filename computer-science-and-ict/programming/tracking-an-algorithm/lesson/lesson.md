@@ -10,11 +10,15 @@ You cannot watch an algorithm run in your head all at once — but you can walk 
 
 In your mind's eye: what tracking is.
 
+[Picture 47907 — what tracking is]
+
 ## Sub lesson 2 — Tracking loops and conditions
 
 Loops are where tracking earns its keep: the table grows a row per **turn**, the counter and accumulator changing in writing, until the condition fails and the walk ends — the loop's whole story visible at a glance. Conditions are tracked by marking the **branch taken** at each meeting. Jordan's Grade 7 algorithms unit teaches tracking beside writing because the two are one craft seen from two sides: the writer composes steps the tracker can follow; the tracker reads steps the writer must answer for.
 
 In your mind's eye: tracking loops and conditions.
+
+[Picture 47908 — tracking loops and conditions]
 
 ## Say it to your companion
 

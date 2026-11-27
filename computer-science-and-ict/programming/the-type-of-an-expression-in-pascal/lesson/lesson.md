@@ -10,11 +10,15 @@ An expression's **type** is determined by its operands and operators together. A
 
 In your mind's eye: the type follows the operations.
 
+[Picture 47897 — the type follows the operations]
+
 ## Sub lesson 2 — Relations give booleans — and types guard assignments
 
 A **relation** (comparison) takes operands of a matching type and gives a **boolean**: `a + 1 > b` is boolean whatever a and b are. Logical operators (and, or, not) take booleans and give booleans. The type system then guards the exits: assigning a **real expression to an integer variable is an error**, because a fraction cannot honestly enter a whole-number box; assigning integer to real is allowed (whole numbers are reals with empty fractions). Know the type before you assign — that is this section's whole discipline.
 
 In your mind's eye: relations give booleans — and types guard assignments.
+
+[Picture 47898 — relations give booleans — and types guard assignments]
 
 ## Say it to your companion
 

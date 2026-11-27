@@ -10,11 +10,15 @@ The teacher guide's worked solutions do by hand what the computer does silently:
 
 In your mind's eye: tracing variables through iterations.
 
+[Picture 47905 — tracing variables through iterations]
+
 ## Sub lesson 2 — What tracing by hand is for
 
 Hand tracing is the programmer's X-ray: it **predicts** a program's output before running, **finds** the iteration where a value first goes wrong, and **teaches** what the machine actually does against what the writer imagined. Its discipline is the tracker's: no step skipped, no value guessed — the trace is evidence, and a guessed value in it is a forged witness. Jordan's guide builds the craft into its solutions so teachers can show, not merely state, why a program answers as it does.
 
 In your mind's eye: what tracing by hand is for.
+
+[Picture 47906 — what tracing by hand is for]
 
 ## Say it to your companion
 

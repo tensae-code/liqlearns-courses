@@ -10,11 +10,15 @@ A **tree** is a data structure shaped like its name turned upside down: one star
 
 In your mind's eye: the tree — one root, many branches.
 
+[Picture 47895 — the tree — one root, many branches]
+
 ## Sub lesson 2 — Working with trees — depth, subtrees and uses
 
 A tree is described by its measures: the **depth** of a node (edges down from the root), the **height** of the tree (its longest root-to-leaf road), and the **subtree** — any node taken with all its descendants, itself a complete tree, which is why tree programs are so often recursive. Its uses are the branching shapes of the world: file systems, organisation charts, family descent, the classification of living things, and decision trees whose leaves are verdicts. Choosing a tree is recognising that the data's truth is a hierarchy — one whole, branching into parts, branching into parts.
 
 In your mind's eye: working with trees — depth, subtrees and uses.
+
+[Picture 47896 — working with trees — depth, subtrees and uses]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **with** instruction names a record once and opens its fields for a block: `
 
 In your mind's eye: with — the record opened.
 
+[Picture 47901 — with — the record opened]
+
 ## Sub lesson 2 — The shadowing trap — when a bare name lies
 
 The danger: inside the block, a bare name is the **field if the record has such a field** — even when the programmer meant an outside variable of the same name. A global `mark` and p's field `mark` cannot both be seen inside `with p do` — the field **shadows** the variable, silently. The section's counsel is the profession's: use with for **short, single-record work**; in long blocks or with overlapping names, write the prefixes and keep every name honest. A shorthand that hides meaning has charged more than it saved.
 
 In your mind's eye: the shadowing trap — when a bare name lies.
+
+[Picture 47902 — the shadowing trap — when a bare name lies]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Translation works **structure by structure**, not line by wandering line: a pseu
 
 In your mind's eye: structure by structure.
 
+[Picture 47909 — structure by structure]
+
 ## Sub lesson 2 — What translation must never change
 
 Translation changes the **language**, never the **logic**: the translated program must do **exactly** what the algorithm does — same steps, same tests, same order. Malaysia's check is a **parallel trace**: run one set of test values through the algorithm by hand and through the program, and the two must agree at every step. A disagreement is a translation fault — a dropped branch, a swapped comparison, a loop test turned upside down — and it is repaired in the code, against the algorithm, which remains the authority. Code written without an algorithm to answer to cannot be checked this way, which is why this course never writes it.
 
 In your mind's eye: what translation must never change.
+
+[Picture 47910 — what translation must never change]
 
 ## Say it to your companion
 
