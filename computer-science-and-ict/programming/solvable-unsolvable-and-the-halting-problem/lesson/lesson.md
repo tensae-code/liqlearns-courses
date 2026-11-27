@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Problem Solvability and Complexi
 
 In your mind's eye: problem Solvability and Complexity. §3.3.1 Solvable vs Unsolvable Problems.
 
+[Picture 47699 — problem Solvability and Complexity. §3.3.1 Solvable vs Unsolvable Problems]
+
 ## Sub lesson 2 — Doing it — Solvable Unsolvable and the Halting Problem in practice
 
 **Doing it — Solvable Unsolvable and the Halting Problem in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Solvable Unsolvable and the Halting Problem in practice.
+
+[Picture 47700 — doing it — Solvable Unsolvable and the Halting Problem in practice]
 
 ## Say it to your companion
 

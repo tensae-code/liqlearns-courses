@@ -10,11 +10,15 @@ The PHP simulation rebuilds the VB.NET project's anatomy in web parts. The **inp
 
 In your mind's eye: the gate as a web page — form in, page out.
 
+[Picture 47695 — the gate as a web page — form in, page out]
+
 ## Sub lesson 2 — Same gates, second language — why build it twice
 
 Egypt's double build — every gate in VB.NET, then again in PHP — is a deliberate argument about what programming **is**. The truth tables do not change; the AND that demands both inputs in a desktop form demands both in a web page. What changes is everything around the logic: controls become form fields, instant reaction becomes request and response, the lamp becomes generated HTML. A pupil who has carried the same logic across that change has learned the transferable thing — the gate — separately from the perishable thing — this year's tool. The PHP subjects are marked **enrichment** because the argument is completed by the VB.NET builds; the PHP builds are for those ready to watch the logic survive a change of world.
 
 In your mind's eye: same gates, second language — why build it twice.
+
+[Picture 47696 — same gates, second language — why build it twice]
 
 ## Say it to your companion
 

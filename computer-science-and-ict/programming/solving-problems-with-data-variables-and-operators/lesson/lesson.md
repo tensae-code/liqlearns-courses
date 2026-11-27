@@ -10,11 +10,15 @@ A problem is first read for its **data**: what values arrive (inputs), what must
 
 In your mind's eye: choosing and naming — types, variables, constants.
 
+[Picture 47711 — choosing and naming — types, variables, constants]
+
 ## Sub lesson 2 — Operators do the work
 
 The solving itself is **operators at work**: arithmetic operators (+ − * /) work out the quantities, comparison operators compare them against constants and other values, and logical operators combine the comparisons into decisions. Malaysia's combined segment follows the shape input → process → output: read the values in, let the operators process them into results stored in variables, then print the results. A combined segment is judged as a whole: right types, honest constants, correct operators — a fault in any one shows up in the output.
 
 In your mind's eye: operators do the work.
+
+[Picture 47712 — operators do the work]
 
 ## Say it to your companion
 

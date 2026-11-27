@@ -10,11 +10,15 @@ You have forgotten the last digit of a friend's phone number. There is no formul
 
 In your mind's eye: a sieve over a bowl. A stream of numbered candidate cards pouring in the top, most falling away, two golden cards caught in the mesh.
 
+[Picture 47705 — a sieve over a bowl. A stream of numbered candidate cards pouring in the top, most falling away, two golden cards caught in the mesh]
+
 ## Sub lesson 2 — Doing it well — order, and the size of the list
 
 Good enumeration is **orderly**: generate candidates in a system (all two-digit combinations from 00 upward, all triples in counting order) so none is repeated and none skipped — disorder is how solutions get missed. And good enumeration watches the **size of the list**: ten forgotten digits finish in minutes; a forgotten six-digit code is a million candidates, and a long password is more candidates than a lifetime holds. That explosion is enumeration's limit — the method is certain, but certainty costs time, so the craft is to shrink the list first with anything the problem tells you (a digit known here, a condition that halves the list there) before the testing begins.
 
 In your mind's eye: a counter of candidates climbing — 10, then 1,000, then 1,000,000, then a number too long for the screen.
+
+[Picture 47706 — a counter of candidates climbing — 10, then 1,000, then 1,000,000, then a number too long for the screen]
 
 ## Say it to your companion
 

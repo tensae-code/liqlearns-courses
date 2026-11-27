@@ -10,11 +10,15 @@ A **gate simulation** is a small program that behaves as the gate behaves: the u
 
 In your mind's eye: the simulation idea — inputs in, lamp out.
 
+[Picture 47697 — the simulation idea — inputs in, lamp out]
+
 ## Sub lesson 2 — AND, then OR, then NOT — one project, three logics
 
 Egypt builds the project **three times**, once per gate, and the repetition is the method. For **AND**, the output code demands both inputs; for **OR**, either suffices; for **NOT**, the single input is inverted. Everything else — the form, the switches, the lamp, the event code that refreshes the output — stays the same, so the pupil sees the **one line that is the gate** standing out from the machinery around it. By the third build the pattern is owned: a new gate would need a new line and nothing else. The project then mirrors the whole thing in PHP — the same logic wearing a web page — and closes by spending the gates on life decisions.
 
 In your mind's eye: aND, then OR, then NOT — one project, three logics.
+
+[Picture 47698 — aND, then OR, then NOT — one project, three logics]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ An **informatics problem** is solved in order. **Understand the problem**: what 
 
 In your mind's eye: the steps — from problem to tested algorithm.
 
+[Picture 47703 — the steps — from problem to tested algorithm]
+
 ## Sub lesson 2 — Flowcharts and trace tables — drawing and proving the plan
 
 The algorithm is drawn as a **flowchart**: the book draws all three shapes of control — **sequence** (steps one after another), **branching** (a test choosing the road) and **loops** (steps repeated) — in the standard flowchart blocks. The test is recorded in a **trace table**: each step's effect on every quantity, row by row, so an error can be pointed at the exact row where the values went wrong. Mongolia's pairing is the lesson's heart: the flowchart is the plan made visible; the trace table is the plan made answerable.
 
 In your mind's eye: flowcharts and trace tables — drawing and proving the plan.
+
+[Picture 47704 — flowcharts and trace tables — drawing and proving the plan]
 
 ## Say it to your companion
 

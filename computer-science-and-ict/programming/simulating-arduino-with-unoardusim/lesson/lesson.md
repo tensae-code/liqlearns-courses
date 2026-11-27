@@ -10,11 +10,15 @@ A **simulator** is a program that behaves as the board behaves. **UnoArduSim** s
 
 In your mind's eye: a board inside the computer — why simulate.
 
+[Picture 47693 — a board inside the computer — why simulate]
+
 ## Sub lesson 2 — Working in the simulator — run, edit, choose devices
 
 The simulator's working acts mirror the bench's: **run** the program and watch it behave; **edit** the sketch and run it again — the repair loop at keyboard speed; and **choose the I/O devices** the simulated board is wired to — the LED to light, the button to press, the instruments to watch — from the simulator's device panels. The chapter's standing exercise is the first light: wire the simulated LED, write the sketch that lights it, and prove the whole road — code, compile, run, light — inside the computer before the same road is walked on the real board.
 
 In your mind's eye: working in the simulator — run, edit, choose devices.
+
+[Picture 47694 — working in the simulator — run, edit, choose devices]
 
 ## Say it to your companion
 

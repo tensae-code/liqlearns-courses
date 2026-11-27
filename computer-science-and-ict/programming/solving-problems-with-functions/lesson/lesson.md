@@ -10,11 +10,15 @@ Start from the **problem text**: underline what is **given** (the future argumen
 
 In your mind's eye: from word problem to function list.
 
+[Picture 47713 — from word problem to function list]
+
 ## Sub lesson 2 — Write, test, combine — and practise
 
 Each function is written and **tested alone** with values whose answers are known by hand; only then are they **combined**, with main calling them in the planned order. The book follows this with a dedicated **exercises** set (§ Theme 2, exercises on functions): the drill is always the same round — plan the split, test the parts, assemble, and check the whole against a hand-worked example.
 
 In your mind's eye: write, test, combine — and practise.
+
+[Picture 47714 — write, test, combine — and practise]
 
 ## Say it to your companion
 

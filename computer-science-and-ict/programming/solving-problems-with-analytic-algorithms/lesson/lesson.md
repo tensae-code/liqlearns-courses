@@ -10,11 +10,15 @@ Some problems carry their answer inside a **relationship**: the wanted quantity 
 
 In your mind's eye: the taxi meter problem drawn twice — on the left a long winding path of clicks and additions, on the right one straight arrow labelled with the fare formula.
 
+[Picture 47709 — the taxi meter problem drawn twice — on the left a long winding path of clicks and additions, on the right one straight arrow labelled with the fare formula]
+
 ## Sub lesson 2 — The analytic way, worked
 
 The method runs in four moves. **Model**: read the problem, name what is given and what is wanted, and state in words how they relate. **Derive**: turn the relation into a formula with letters. **Compute**: put the given values in and calculate, keeping units honest. **Check**: test the formula on an easy case you can verify by hand — if it fails there, the model, not the arithmetic, is wrong. Worked on the taxi: model — fare grows by the per-kilometre price with distance, on top of a fixed start; derive — F = S + P × D; compute — S = 10, P = 2, D = 7 gives F = 24; check — D = 0 must give exactly the starting price, and it does.
 
 In your mind's eye: the four moves as four stepping stones across a stream — Model, Derive, Compute, Check. With the taxi formula written on the Derive stone.
+
+[Picture 47710 — the four moves as four stepping stones across a stream — Model, Derive, Compute, Check. With the taxi formula written on the Derive stone]
 
 ## Say it to your companion
 
