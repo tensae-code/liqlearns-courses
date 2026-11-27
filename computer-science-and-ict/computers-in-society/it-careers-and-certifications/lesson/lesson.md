@@ -10,11 +10,15 @@ Informatics is not one job but a field of **professions**, each with its own wor
 
 In your mind's eye: the professions — who does what in informatics.
 
+[Picture 48392 — the professions — who does what in informatics]
+
 ## Sub lesson 2 — Certifications — proof a stranger can trust
 
 A **certification** is an examination by a recognised body that a person can do a stated skill to a stated standard — proof that travels: an employer who has never met you can trust the certificate the way a reader trusts a citation. The books set careers beside the **legal side** of informatics (copyright and the profession's rules) on purpose: a professional is skilled, certified where the field asks it, and bound by the field's law and ethics. Certification is not the skill — it is the skill's passport, and it expires, because the field it certifies keeps moving.
 
 In your mind's eye: certifications — proof a stranger can trust.
+
+[Picture 48393 — certifications — proof a stranger can trust]
 
 ## Say it to your companion
 

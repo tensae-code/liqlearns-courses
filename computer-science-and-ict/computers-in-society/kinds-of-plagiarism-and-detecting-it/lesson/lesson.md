@@ -10,11 +10,15 @@ The book counts **seven kinds of plagiarism**. At the brazen end: submitting ano
 
 In your mind's eye: seven kinds — from whole-copy to patchwork.
 
+[Picture 48394 — seven kinds — from whole-copy to patchwork]
+
 ## Sub lesson 2 — Detecting it — software, problems, prevention
 
 **Detection software** compares a text against vast libraries of books, journals and web pages and reports matching passages — the copied paragraph glows. The **problems** plagiarism brings reach beyond punishment: it steals the original maker's credit, it hollows the plagiarist's own learning (the work was the learning), and it poisons trust in every honest work beside it. **Prevention** is the writer's craft from the companion lessons: take notes in your own words, mark quotations as quotations, credit every source where it is used — and the detector becomes a checker you welcome, not a hunter you fear.
 
 In your mind's eye: detecting it — software, problems, prevention.
+
+[Picture 48395 — detecting it — software, problems, prevention]
 
 ## Say it to your companion
 

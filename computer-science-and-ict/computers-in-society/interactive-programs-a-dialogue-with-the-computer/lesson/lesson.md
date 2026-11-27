@@ -10,11 +10,15 @@ A program is **interactive** when the user and the program take turns: the progr
 
 In your mind's eye: a quiz program asking a question, a learner answering, and the program responding to that answer.
 
+[Picture 48386 — a quiz program asking a question, a learner answering, and the program responding to that answer]
+
 ## Sub lesson 2 — Dialogue everywhere — and its rules
 
 The **dialogue** shape is everywhere once you look: a quiz program asks a question and marks *your* answer; a form asks for your name and uses it; a menu offers choices and follows the one you pick; a game world reacts to your moves. Good interactive programs follow the dialogue's rules: ask clearly, so the user knows what answer is wanted; accept the answer kindly, checking it makes sense; and always show what happened because of it. An interactive program that ignores its user is a broken conversation — the book's lesson is that the response is the program's half of the talk, and it must be worthy of the answer it was given.
 
 In your mind's eye: a dialogue diagram — program asks, user answers, program acts on the answer, and asks again.
+
+[Picture 48387 — a dialogue diagram — program asks, user answers, program acts on the answer, and asks again]
 
 ## Say it to your companion
 

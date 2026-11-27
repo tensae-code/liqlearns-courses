@@ -10,11 +10,15 @@ Lateral reading — evaluating the truth of content by leaving the page to see w
 
 In your mind's eye: reading laterally — leave the page to judge the page.
 
+[Picture 48398 — reading laterally — leave the page to judge the page]
+
 ## Sub lesson 2 — Triangulation — three bearings on one claim
 
 Lateral reading completes itself as **triangulation**: a claim is fixed the way a position is fixed — by bearings from **more than one independent point**. Find the claim in sources that do not copy each other; where independent reports agree, confidence is earned; where they split, the split itself is the finding, and the honest reader reports a contested claim as contested. Grade 11 pairs lateral reading with the credibility characteristics of text, image and video: first leave the page, then weigh what you find by the credibility marks.
 
 In your mind's eye: triangulation — three bearings on one claim.
+
+[Picture 48399 — triangulation — three bearings on one claim]
 
 ## Say it to your companion
 

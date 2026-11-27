@@ -10,11 +10,15 @@ In a digital environment — a chat, an email, a class group, a page, a forum �
 
 In your mind's eye: one written message travelling — from a phone to a class group, then forwarded to a teacher and a public page. With the sender checking it carefully before pressing send.
 
+[Picture 48396 — one written message travelling — from a phone to a class group, then forwarded to a teacher and a public page. With the sender checking it carefully before pressing send]
+
 ## Sub lesson 2 — Netiquette — the good manners of the internet
 
 **Netiquette** is a word made from *net* (the network, the internet) and *etiquette* (good manners) — it is the good manners of digital environments. Its rules are the manners of face-to-face life, fitted to a place where words stay and travel. **Be polite and kind**: greet people, say please and thank you, and disagree with an idea without insulting the person. **Do not shout**: writing in ALL CAPITAL LETTERS reads as shouting, and flooding a group with message after message buries everyone else's words. **Respect privacy**: do not post another person's photo, number or private message without their permission, and do not read or share what was not sent to you. **Respect other people's work and time**: do not copy and pass off work as your own, do not send the same message again and again, and keep a group on its topic. **Think before you send**: once sent, a message cannot truly be taken back — if you are angry, wait, reread, and only then decide. **Put mistakes right**: if a message of yours hurt someone or was wrong, say so plainly and apologise — good manners online, as offline, include repairing what you broke. A learner who keeps netiquette is trusted in every digital place they enter.
 
 In your mind's eye: a class group chat on a screen — polite greetings, one message at a time, no capital-letter shouting, and a lock beside a private photo that is not shared.
+
+[Picture 48397 — a class group chat on a screen — polite greetings, one message at a time, no capital-letter shouting, and a lock beside a private photo that is not shared]
 
 ## Say it to your companion
 

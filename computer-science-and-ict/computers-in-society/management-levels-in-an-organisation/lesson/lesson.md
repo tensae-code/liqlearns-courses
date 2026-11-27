@@ -10,11 +10,15 @@ Management stands in **levels**. At the **operational (lower) level**, superviso
 
 In your mind's eye: three levels — doing, managing, directing.
 
+[Picture 48402 — three levels — doing, managing, directing]
+
 ## Sub lesson 2 — Each level, its own information
 
 The levels are taught because each **eats different information**. Operational decisions eat **detail, now** — every order, every absence. Tactical decisions eat **summaries over weeks and months** — totals, comparisons, trends. Strategic decisions eat **the widest summaries and the outside world** — years of results, competitors, the economy. This is why the senior book teaches levels before systems: an information system that feeds a director daily detail, or a supervisor yearly summaries, is failing both — the level decides the diet.
 
 In your mind's eye: each level, its own information.
+
+[Picture 48403 — each level, its own information]
 
 ## Say it to your companion
 

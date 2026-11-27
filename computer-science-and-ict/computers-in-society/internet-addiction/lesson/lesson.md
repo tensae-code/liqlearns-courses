@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Қоғамдағы интернетке
 
 In your mind's eye: қоғамдағы интернетке тәуелділік мәселелері.
 
+[Picture 48388 — қоғамдағы интернетке тәуелділік мәселелері]
+
 ## Sub lesson 2 — Обсуждение проблемы интернет-зависимости
 
 This part of Kazakhstan's book teaches **Обсуждение проблемы интернет-зависимости** — covering: §2 Обсуждение проблемы интернет-зависимости. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: обсуждение проблемы интернет-зависимости.
+
+[Picture 48389 — обсуждение проблемы интернет-зависимости]
 
 ## Say it to your companion
 

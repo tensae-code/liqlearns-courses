@@ -10,11 +10,15 @@ An informatics **project** is a bounded piece of computing work with a goal, and
 
 In your mind's eye: the plan — what, who, when, with what.
 
+[Picture 48404 — the plan — what, who, when, with what]
+
 ## Sub lesson 2 — Running the plan — risks, changes and the record
 
 Managing is what happens after planning: tracking the work against the schedule while the project is young enough to fix, naming **risks** early (the missing device, the one person who knows a part, the data that has not arrived) with a response for each, and handling **change** honestly — a change to scope is a change to time or resources, recorded and agreed, never silently absorbed. The project's documents are its memory and its proof. The chapter closes the SMK course because it is the skill that turns all the course's other skills into delivered work.
 
 In your mind's eye: running the plan — risks, changes and the record.
+
+[Picture 48405 — running the plan — risks, changes and the record]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Uses of Internet in Entertainmen
 
 In your mind's eye: uses of Internet in Entertainment.
 
+[Picture 48390 — uses of Internet in Entertainment]
+
 ## Sub lesson 2 — Doing it — Internet Entertainment Streaming Music News and Games in practice
 
 **Doing it — Internet Entertainment Streaming Music News and Games in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Internet Entertainment Streaming Music News and Games in practice.
+
+[Picture 48391 — doing it — Internet Entertainment Streaming Music News and Games in practice]
 
 ## Say it to your companion
 
