@@ -10,6 +10,8 @@ Scratch sprites live on a screen. This lesson leaves the screen: a **programmabl
 
 In your mind's eye: a picture of a small programmable floor robot on a classroom mat with command buttons on its back, and a child reading back a row of entered commands before pressing go.
 
+[Picture 48916 — a picture of a small programmable floor robot on a classroom mat with command buttons on its back, and a child reading back a row of entered commands before pressing go]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A programmable device is a real machine that does what a program tells it: give it commands in order, and it acts in the real world — not on a screen. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

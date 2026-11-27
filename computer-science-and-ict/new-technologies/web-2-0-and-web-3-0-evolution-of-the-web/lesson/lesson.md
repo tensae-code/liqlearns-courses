@@ -10,11 +10,15 @@ The first web was read-only: pages published by the few, read by the many. **Web
 
 In your mind's eye: web 2.0 — the web everyone writes.
 
+[Picture 48914 — web 2.0 — the web everyone writes]
+
 ## Sub lesson 2 — Web 3.0 — the web that understands
 
 **Web 3.0** names the next turn: pages and data **linked by meaning** — the **semantic** web — so programs can **understand what data says** and work with it: answering questions instead of listing links, joining data from many places into one answer, and acting as agents for their users. Where Web 2.0 connected **people**, Web 3.0 connects **meanings**. Cuba places both generations inside the Grade 12 Internet chapter, next to the social networks that are Web 2.0's own proof.
 
 In your mind's eye: web 3.0 — the web that understands.
+
+[Picture 48915 — web 3.0 — the web that understands]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Papua New Guinea's Grade 10 guide introduces artificial intelligence and immedia
 
 In your mind's eye: weak AI and strong AI.
 
+[Picture 48912 — weak AI and strong AI]
+
 ## Sub lesson 2 — How AI systems are put together — and the risks discussed
 
 An AI system is put together from **data, a model (program), and training** — training being the improvement of the system using examples and data. Because strong AI does not exist yet, its **risks — such as systems acting beyond human control and intentions — are studied now**, so rules can be set while it is being built. Responsibility for an AI system stays with the people who build and use it.
 
 In your mind's eye: how AI systems are put together — and the risks discussed.
+
+[Picture 48913 — how AI systems are put together — and the risks discussed]
 
 ## Say it to your companion
 

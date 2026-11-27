@@ -10,11 +10,15 @@ Every society lesson so far described the present. Mongolia's Grade 9 book ends 
 
 In your mind's eye: computing that disappears into the world.
 
+[Picture 48908 — computing that disappears into the world]
+
 ## Sub lesson 2 — The future it makes — promise and question
 
 Mongolia places the vision inside its information-society unit as the society's **future**: services that arrive before they are asked for, environments that adapt to their people. The lesson is filed as foresight, not fact — the same book teaches the society's protections (the CIA triad follows in its own pages) because a world of everywhere-computing is also a world of everywhere-watching, and the future citizen of the earlier lesson will need both the vision and the guard. The book holds the two in one unit deliberately: tomorrow's technology and tomorrow's caution, taught together.
 
 In your mind's eye: the future it makes — promise and question.
+
+[Picture 48909 — the future it makes — promise and question]
 
 ## Say it to your companion
 

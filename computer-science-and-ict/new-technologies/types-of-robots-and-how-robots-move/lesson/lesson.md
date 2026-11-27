@@ -10,11 +10,15 @@ Robots move as their ground demands: **wheeled** robots roll (fast on floors, st
 
 In your mind's eye: how robots move.
 
+[Picture 48906 — how robots move]
+
 ## Sub lesson 2 — Types and fields of use
 
 By their work, Jordan sorts robots into fields: **industrial** (welding, assembling, painting — tireless and exact), **medical** (surgery's steady hand, hospital couriers), **exploration** (space, deep sea, disaster ruins — where people cannot or must not go), **service and home** (cleaning, guidance, company), **agricultural** and **military** robots. Their **importance** repeats a pattern: robots take work that is **dull, dirty or dangerous**, and do precise work beyond a hand's steadiness — which is why each field adopts them at its own painful places first.
 
 In your mind's eye: types and fields of use.
+
+[Picture 48907 — types and fields of use]
 
 ## Say it to your companion
 
