@@ -10,11 +10,15 @@ Declaring an array is the alphabet; this chapter is the literature. Four working
 
 In your mind's eye: sorting, searching, merging.
 
+[Picture 47932 — sorting, searching, merging]
+
 ## Sub lesson 2 — Parallel arrays — companions in step
 
 **Parallel arrays (παράλληλοι πίνακες)** are two or more arrays whose **same index describes one thing**: names in one, marks in the other, so Π[ i ]'s mark stands in the second array at the same i. Every operation must move the companions **together** — sort the marks and the names must be swapped in the same exchanges, or the array pair starts lying about who earned what. The guide works parallel arrays through solved and unsolved exercises because the exam's favourite array fault is exactly that broken companionship.
 
 In your mind's eye: parallel arrays — companions in step.
+
+[Picture 47933 — parallel arrays — companions in step]
 
 ## Say it to your companion
 

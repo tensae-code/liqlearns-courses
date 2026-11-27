@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Tuples and §2.6.3 Indexing and 
 
 In your mind's eye: tuples and §2.6.3 Indexing and Slicing.
 
+[Picture 47915 — tuples and §2.6.3 Indexing and Slicing]
+
 ## Sub lesson 2 — Doing it — Tuples and Indexing and Slicing with Negative Indices in practice
 
 **Doing it — Tuples and Indexing and Slicing with Negative Indices in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Tuples and Indexing and Slicing with Negative Indices in practice.
+
+[Picture 47916 — doing it — Tuples and Indexing and Slicing with Negative Indices in practice]
 
 ## Say it to your companion
 

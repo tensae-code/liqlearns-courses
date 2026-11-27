@@ -10,11 +10,15 @@ A **two-dimensional array** holds values in **rows and columns**, like a table. 
 
 In your mind's eye: representing two-dimensional arrays.
 
+[Picture 47922 — representing two-dimensional arrays]
+
 ## Sub lesson 2 — Worked examples on two-dimensional arrays
 
 The book closes the arrays unit with **solved examples on two-dimensional arrays**: filling a table of values, reading the value at a given row and column, and working through the whole table — which needs a **loop inside a loop**, the nested loops of the lesson before this one, one loop for the rows and one for the columns.
 
 In your mind's eye: worked examples on two-dimensional arrays.
+
+[Picture 47923 — worked examples on two-dimensional arrays]
 
 ## Say it to your companion
 

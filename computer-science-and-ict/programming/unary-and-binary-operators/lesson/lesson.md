@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Unary vs Binary Operators** — 
 
 In your mind's eye: unary vs Binary Operators.
 
+[Picture 47936 — unary vs Binary Operators]
+
 ## Sub lesson 2 — Doing it — Unary and Binary Operators in practice
 
 **Doing it — Unary and Binary Operators in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Unary and Binary Operators in practice.
+
+[Picture 47937 — doing it — Unary and Binary Operators in practice]
 
 ## Say it to your companion
 

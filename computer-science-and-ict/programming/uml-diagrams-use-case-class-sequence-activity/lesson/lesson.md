@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Graphical Representation of Soft
 
 In your mind's eye: graphical Representation of Software Systems.
 
+[Picture 47934 — graphical Representation of Software Systems]
+
 ## Sub lesson 2 — Doing it — UML Diagrams Use Case Class Sequence Activity in practice
 
 **Doing it — UML Diagrams Use Case Class Sequence Activity in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — UML Diagrams Use Case Class Sequence Activity in practice.
+
+[Picture 47935 — doing it — UML Diagrams Use Case Class Sequence Activity in practice]
 
 ## Say it to your companion
 

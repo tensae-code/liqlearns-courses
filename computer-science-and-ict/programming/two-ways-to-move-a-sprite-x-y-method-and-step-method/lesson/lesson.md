@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Allow the user to move a sprit
 
 In your mind's eye: , Allow the user to move a sprite using arrow keys. X–Y Method and Step Method.
 
+[Picture 47924 — , Allow the user to move a sprite using arrow keys. X–Y Method and Step Method]
+
 ## Sub lesson 2 — Doing it — Two Ways to Move a Sprite X Y Method and Step Method in practice
 
 **Doing it — Two Ways to Move a Sprite X Y Method and Step Method in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Two Ways to Move a Sprite X Y Method and Step Method in practice.
+
+[Picture 47925 — doing it — Two Ways to Move a Sprite X Y Method and Step Method in practice]
 
 ## Say it to your companion
 

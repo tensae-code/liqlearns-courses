@@ -10,11 +10,15 @@ Turns are measured in **degrees**, from **0 to 360°** for the full circle. The 
 
 In your mind's eye: degrees — the measure of a turn.
 
+[Picture 47917 — degrees — the measure of a turn]
+
 ## Sub lesson 2 — Turning exactly — the cat's 40°
 
 The **turn block** takes the **number of degrees** you type: turn **clockwise** (to the right) or the other way, by exactly that amount. The guide's cat **turns 40° clockwise and says "I am turning"** — a Move-and-Looks pair: the degree number makes the turn precise where "turn a little" could never be repeated.
 
 In your mind's eye: turning exactly — the cat's 40°.
+
+[Picture 47918 — turning exactly — the cat's 40°]
 
 ## Say it to your companion
 

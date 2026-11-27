@@ -10,6 +10,8 @@ Scratch begins, and its first drawing skill joins two ideas. **Turning**: a spri
 
 In your mind's eye: a picture of a Scratch sprite with its pen down drawing a square on the stage, with a curved arrow showing a 90-degree turn at one corner.
 
+[Picture 47919 — a picture of a Scratch sprite with its pen down drawing a square on the stage, with a curved arrow showing a 90-degree turn at one corner]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: In Scratch, a sprite turns by degrees and draws with the pen: put the pen down, move and turn, and the sprite's path becomes a drawing. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

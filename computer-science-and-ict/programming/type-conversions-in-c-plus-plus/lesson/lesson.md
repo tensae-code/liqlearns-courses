@@ -10,11 +10,15 @@ In a mixed expression, C++ **converts implicitly**: an int beside a double is **
 
 In your mind's eye: implicit conversion — the compiler's quiet road.
 
+[Picture 47926 — implicit conversion — the compiler's quiet road]
+
 ## Sub lesson 2 — Explicit conversion — the cast, the programmer's signature
 
 A conversion the programmer orders is written as a **cast**: `(double) n` or `double(n)` — making n be read as a double for this operation, so n / 2 with n = 7 gives 3.5 instead of 3. The cast's virtue is **visibility**: it signs the conversion in the text, telling every reader (and the examiner) that the type change is intended, and where. The section's rule gathers both roads: let widening happen; **cast every narrowing you mean; never let a narrowing happen unmeant**.
 
 In your mind's eye: explicit conversion — the cast, the programmer's signature.
+
+[Picture 47927 — explicit conversion — the cast, the programmer's signature]
 
 ## Say it to your companion
 
