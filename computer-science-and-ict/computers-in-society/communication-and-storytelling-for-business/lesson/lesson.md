@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Communication and Storytelling S
 
 In your mind's eye: communication and Storytelling Skills.
 
+[Picture 48235 — communication and Storytelling Skills]
+
 ## Sub lesson 2 — Doing it — Communication and Storytelling for Business in practice
 
 **Doing it — Communication and Storytelling for Business in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Communication and Storytelling for Business in practice.
+
+[Picture 48236 — doing it — Communication and Storytelling for Business in practice]
 
 ## Say it to your companion
 

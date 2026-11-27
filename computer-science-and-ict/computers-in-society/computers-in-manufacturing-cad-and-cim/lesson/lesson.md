@@ -10,11 +10,15 @@ A chair used to be drawn on paper, modelled in wood, then made. Rwanda's S1 teac
 
 In your mind's eye: cAD — designing on the computer.
 
+[Picture 48243 — cAD — designing on the computer]
+
 ## Sub lesson 2 — CIM — the computer runs the factory
 
 **CIM — computer-integrated manufacturing** — goes one step further: the **whole factory is linked by computer**, from the CAD design to the **machines that cut, weld and assemble**, to the **stock counts** of parts and finished goods. The design file itself can drive the machine, so what is made matches what was drawn. CAD designs the thing; CIM organises **making it, start to finish**.
 
 In your mind's eye: cIM — the computer runs the factory.
+
+[Picture 48244 — cIM — the computer runs the factory]
 
 ## Say it to your companion
 

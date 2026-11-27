@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Collaboration and Iteration** �
 
 In your mind's eye: collaboration and Iteration.
 
+[Picture 48231 — collaboration and Iteration]
+
 ## Sub lesson 2 — Doing it — Collaboration and Iteration Improving by Working Together in practice
 
 **Doing it — Collaboration and Iteration Improving by Working Together in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Collaboration and Iteration Improving by Working Together in practice.
+
+[Picture 48232 — doing it — Collaboration and Iteration Improving by Working Together in practice]
 
 ## Say it to your companion
 

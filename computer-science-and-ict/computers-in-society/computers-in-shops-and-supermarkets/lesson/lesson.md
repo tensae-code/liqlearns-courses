@@ -10,11 +10,15 @@ In a shop the computer sits at the **point of sale (POS)** — the place where g
 
 In your mind's eye: a shop till with a barcode scanner, a screen showing prices and total, and a printed receipt.
 
+[Picture 48249 — a shop till with a barcode scanner, a screen showing prices and total, and a printed receipt]
+
 ## Sub lesson 2 — The database behind the counter
 
 Every sale also changes the shop's **stock**: the database count of that item goes down by the number sold. Because the database holds every product, its price and how many are left, the shopkeeper can ask it questions — what is running low, what sold today, what to **reorder**. In a supermarket the same system runs on many tills at once, all sharing one database, which is why a price changed once in the office is right at every till. The computer has joined the till, the shelves and the storeroom into one information system.
 
 In your mind's eye: a supermarket stock database — shelves counted on a screen, with one item marked low and ready to reorder.
+
+[Picture 48250 — a supermarket stock database — shelves counted on a screen, with one item marked low and ready to reorder]
 
 ## Say it to your companion
 

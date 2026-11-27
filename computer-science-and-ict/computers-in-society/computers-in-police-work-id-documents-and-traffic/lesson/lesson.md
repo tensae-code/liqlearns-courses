@@ -10,11 +10,15 @@ Sudan's Grade 6 book ends its tour of computers at work with the **police**. Pol
 
 In your mind's eye: computers in police institutions.
 
+[Picture 48247 — computers in police institutions]
+
 ## Sub lesson 2 — ID documents and traffic control
 
 The book names the work: issuing the **national number** that identifies every citizen, the **passport** for travel, and the **national card** a person carries — each printed from the computer's records, each checked against them. And on the roads, computers serve **traffic control**: vehicle and licence records, and the watching of traffic the book describes. The pattern is the unit's pattern — banks, schools, now police: the computer keeps the nation's records, and the document in your hand is its printout.
 
 In your mind's eye: iD documents and traffic control.
+
+[Picture 48248 — iD documents and traffic control]
 
 ## Say it to your companion
 

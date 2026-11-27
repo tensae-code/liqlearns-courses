@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Examples of Computational Thin
 
 In your mind's eye: , Examples of Computational Thinking in Real Life.
 
+[Picture 48237 — , Examples of Computational Thinking in Real Life]
+
 ## Sub lesson 2 — Doing it — Computational Thinking in Real Life Routes Recipes Budgets in practice
 
 **Doing it — Computational Thinking in Real Life Routes Recipes Budgets in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Computational Thinking in Real Life Routes Recipes Budgets in practice.
+
+[Picture 48238 — doing it — Computational Thinking in Real Life Routes Recipes Budgets in practice]
 
 ## Say it to your companion
 

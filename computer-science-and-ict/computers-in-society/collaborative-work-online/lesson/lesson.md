@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Collaborative work** — covering: 1.3:
 
 In your mind's eye: collaborative work.
 
+[Picture 48233 — collaborative work]
+
 ## Sub lesson 2 — –3: Working jointly with documents
 
 This part of Kazakhstan's book teaches **–3: Working jointly with documents** — covering: §2–3: Working jointly with documents (Google cloud services, shared access). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: –3. Working jointly with documents.
+
+[Picture 48234 — –3. Working jointly with documents]
 
 ## Say it to your companion
 

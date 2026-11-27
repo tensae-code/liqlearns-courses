@@ -10,11 +10,15 @@ Before a thing is designed in detail or built, it exists as an idea. Papua New G
 
 In your mind's eye: thinking in concepts before building.
 
+[Picture 48251 — thinking in concepts before building]
+
 ## Sub lesson 2 — Concepts become designs
 
 The concept stage comes **before making and building**. Designers and technologists test a concept by **thinking and modelling it against the brief**; if the concept fails, the idea is changed — cheaply, before building. The concept is the link between the problem and the design that follows.
 
 In your mind's eye: concepts become designs.
+
+[Picture 48252 — concepts become designs]
 
 ## Say it to your companion
 

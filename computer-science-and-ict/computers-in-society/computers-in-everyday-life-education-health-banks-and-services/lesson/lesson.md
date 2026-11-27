@@ -10,11 +10,15 @@ In **education**, the computer teaches: lessons, pictures and exercises reach th
 
 In your mind's eye: the computer in learning and health.
 
+[Picture 48241 — the computer in learning and health]
+
 ## Sub lesson 2 — The computer in money, services and leisure
 
 In **banks**, the computer keeps accounts and moves money safely and quickly. **Government services** run on computers, so a citizen's request is recorded and answered in order. **Aviation** uses computers to book seats and guide flights; **communications** — calls and messages — travel through them; and **entertainment** — games, films and music — is made and played on them. Everyday life without the computer would be slower in every one of these places.
 
 In your mind's eye: the computer in money, services and leisure.
+
+[Picture 48242 — the computer in money, services and leisure]
 
 ## Say it to your companion
 
