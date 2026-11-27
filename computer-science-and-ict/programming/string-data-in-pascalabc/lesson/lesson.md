@@ -10,11 +10,15 @@ Where **char** holds one character, the **string** type holds a **sequence of ch
 
 In your mind's eye: a name written as a row of letter boxes held inside one big box labelled string, with the length counted underneath.
 
+[Picture 47737 — a name written as a row of letter boxes held inside one big box labelled string, with the length counted underneath]
+
 ## Sub lesson 2 — Reaching inside a string
 
 A string is a whole, but it is built from numbered parts: the characters sit in **positions**, counted from the first character. Writing the position after the string reaches that one character, so a program can pick out the first letter of a name or the last mark of a sentence. Comparing two strings uses the characters' codes position by position — the same code order that ordered single characters — which is how programs sort names into alphabetical order. Length, positions and comparison are the three handles this section gives for every later string task.
 
 In your mind's eye: a string with position numbers over each character, and one character lifted out by its position.
+
+[Picture 47738 — a string with position numbers over each character, and one character lifted out by its position]
 
 ## Say it to your companion
 

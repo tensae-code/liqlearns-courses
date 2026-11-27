@@ -10,11 +10,15 @@ A **string** is a piece of text — letters, spaces and marks held as one value.
 
 In your mind's eye: joining and building strings.
 
+[Picture 47739 — joining and building strings]
+
 ## Sub lesson 2 — Letter of and length of — taking strings apart
 
 The same family takes strings apart. **Letter (n) of** a string reports its nth character — letter 1 of 'Bhutan' is 'B' — and **length of** reports how many characters the string holds, spaces counted. With variables and ask blocks these two build real tools: counting the letters in a typed name, checking an answer letter by letter, or reading an initial from a full name.
 
 In your mind's eye: letter of and length of — taking strings apart.
+
+[Picture 47740 — letter of and length of — taking strings apart]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Information thrown together in a heap cannot be searched or checked. **Structuri
 
 In your mind's eye: the same pile of items arranged three ways — as a list, as a table, and as a tree.
 
+[Picture 47747 — the same pile of items arranged three ways — as a list, as a table, and as a tree]
+
 ## Sub lesson 2 — Networks of connections
 
 Some information is not a line or a level but a web: towns joined by roads, people joined by friendships, pages joined by links. Its structure is a **graph** — points joined by lines — and a graph model answers connection questions a table cannot: is there a path, which point connects to most others, what is the shortest route. Structuring is finished by checking the structure against its job: can you find, compare, add and follow what the purpose needs? The structure that answers the purpose's questions with least hunting is the right one.
 
 In your mind's eye: a graph of towns as dots joined by road lines, with the shortest route between two towns highlighted.
+
+[Picture 47748 — a graph of towns as dots joined by road lines, with the shortest route between two towns highlighted]
 
 ## Say it to your companion
 

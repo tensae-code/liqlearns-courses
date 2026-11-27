@@ -10,11 +10,15 @@ A **string** is a row of characters, and the Text object works it as one. **GetS
 
 In your mind's eye: cutting and joining — the string as a row.
 
+[Picture 47745 — cutting and joining — the string as a row]
+
 ## Sub lesson 2 — Case, length and finding — knowing the row
 
 The toolbox's second shelf knows the string. **ConvertToUpperCase** and **ConvertToLowerCase** fold the whole row's case — the great levellers that make 'Mongolia' and 'MONGOLIA' comparable. **GetLength** measures the row in characters. **GetIndexOf** finds where a part stands inside the row; **IsSubText** asks only whether it stands there at all; **StartsWith** and **EndsWith** test the row's two doors. Mongolia's set is complete for its purpose: with cut, join, fold, measure and find, the pupil holds every act the book's text programs — palindromes among them — are built from.
 
 In your mind's eye: case, length and finding — knowing the row.
+
+[Picture 47746 — case, length and finding — knowing the row]
 
 ## Say it to your companion
 

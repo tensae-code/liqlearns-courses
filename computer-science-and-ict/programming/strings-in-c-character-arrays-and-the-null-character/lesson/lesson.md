@@ -10,11 +10,15 @@ In C, a **string** is an **array of char**: `char word[10];` holds a row of char
 
 In your mind's eye: a string is a char array — the 'Bangla' table.
 
+[Picture 47743 — a string is a char array — the 'Bangla' table]
+
 ## Sub lesson 2 — The null character — where the string ends
 
 Every C string ends with the **null character, '\0'** — a character whose code is **zero**, invisible, unprintable, and load-bearing: it is how every C string function knows **where the text stops**. 'Bangla' occupies **seven rooms, not six** — six letters and the terminator. An array sized exactly for its letters has **no room for '\0'** and is not yet a string — functions reading it march past its end into foreign memory, the array lesson's edge fault in its most famous form. Size for the terminator, always: letters + 1.
 
 In your mind's eye: the null character — where the string ends.
+
+[Picture 47744 — the null character — where the string ends]
 
 ## Say it to your companion
 

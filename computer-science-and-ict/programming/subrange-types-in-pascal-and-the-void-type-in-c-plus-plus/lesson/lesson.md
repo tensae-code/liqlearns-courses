@@ -10,11 +10,15 @@ The **subrange** (met in Grade 7) is a slice of an ordinal host: `1..31`, `'A'..
 
 In your mind's eye: the subrange — Pascal's guarded slice.
 
+[Picture 47753 — the subrange — Pascal's guarded slice]
+
 ## Sub lesson 2 — void — the type of no value
 
 C++'s **void** names the **absence of a value**: a function declared void **returns nothing** — it is C++'s spelling of Pascal's **procedure**, against value-returning functions. No variable can be of type void; nothing is stored, compared or printed. Its lesson is symmetry's: a type system needs a word not only for every kind of value but for **no value**, so that 'this subprogram only acts' is said in the type itself. Pascal says it with a keyword (procedure), C++ with a type (void) — the pair's neat parting difference.
 
 In your mind's eye: void — the type of no value.
+
+[Picture 47754 — void — the type of no value]
 
 ## Say it to your companion
 

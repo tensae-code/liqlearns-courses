@@ -10,11 +10,15 @@ A **subrange type** is defined by its **first and last** values: `type TDayNum =
 
 In your mind's eye: a slice of a type — first..last.
 
+[Picture 47751 — a slice of a type — first..last]
+
 ## Sub lesson 2 — The guard at the border — range checking
 
 A subrange's protection is **range checking**: assign a value outside the slice — `dn := 32;` — and with range checks on, the program **stops with an error at that line** instead of carrying a poisoned value onward. Without the subrange, 32 would sit in an ordinary integer silently and corrupt a calendar three procedures later, unfindable. That is the type's whole argument: **errors are cheapest where they are made**, and a subrange makes the type system stand guard exactly there.
 
 In your mind's eye: the guard at the border — range checking.
+
+[Picture 47752 — the guard at the border — range checking]
 
 ## Say it to your companion
 

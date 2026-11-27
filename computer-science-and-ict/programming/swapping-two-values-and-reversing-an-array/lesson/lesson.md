@@ -10,11 +10,15 @@ To **swap** the values of a and b, a third variable holds one of them safe: `tem
 
 In your mind's eye: the swap — three moves with a temporary.
 
+[Picture 47757 — the swap — three moves with a temporary]
+
 ## Sub lesson 2 — Reversing an array — swaps walking to the middle
 
 To **reverse an array** in place: swap the **first with the last**, the **second with the second-last**, walking inward until the two walkers **meet in the middle** — for an odd length, the middle element stays, already home. Five elements take two swaps; a hundred take fifty — always **half the size**, rounded down. The loop's indices are the craft: i climbs from the start while j descends from the end, and the loop stops when i is no longer less than j. Reverse is the swap's portrait as the calculator was assembly's: a tiny algorithm whose correctness can be seen whole, and whose off-by-one faults teach the array lesson's edge discipline better than any warning.
 
 In your mind's eye: reversing an array — swaps walking to the middle.
+
+[Picture 47758 — reversing an array — swaps walking to the middle]
 
 ## Say it to your companion
 
