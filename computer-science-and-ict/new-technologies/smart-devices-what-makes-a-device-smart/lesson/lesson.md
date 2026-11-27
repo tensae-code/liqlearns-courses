@@ -10,11 +10,15 @@ A **smart device** is a device that does more than its plain job: it **senses, p
 
 In your mind's eye: the concept of smart devices.
 
+[Picture 48866 — the concept of smart devices]
+
 ## Sub lesson 2 — Smart devices around us
 
 Smart devices run on their own **operating systems** and **applications** — the next lessons' topics — and they **connect**: to the internet and to each other, which is what leads the book straight into the **Internet of Things**. A device earns “smart” not by having a screen, but by processing, responding and connecting.
 
 In your mind's eye: smart devices around us.
+
+[Picture 48867 — smart devices around us]
 
 ## Say it to your companion
 

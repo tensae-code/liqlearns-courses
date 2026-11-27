@@ -10,11 +10,15 @@ Disaster technology works **before** the event wherever it can. **Sensors and mo
 
 In your mind's eye: warning before harm — sensing, forecasting, alerting.
 
+[Picture 48874 — warning before harm — sensing, forecasting, alerting]
+
 ## Sub lesson 2 — Limiting harm when the event comes — systems that keep working
 
 When prevention fails, technology's second job is **limiting harm**: emergency communication that survives the disaster itself, maps and records that tell responders where people and hazards are, and coordination systems that put help where it is needed first. The design rule running through all of it is **graceful failure**: a safety system must be built expecting the worst day, not the average one — backup power, backup links, and information copied somewhere the event cannot reach. The book pairs this with its safety-signs lesson deliberately: the sign on the wall and the national warning system are the same idea at two scales — information, placed where the decision is made, before the decision is urgent.
 
 In your mind's eye: limiting harm when the event comes — systems that keep working.
+
+[Picture 48875 — limiting harm when the event comes — systems that keep working]
 
 ## Say it to your companion
 

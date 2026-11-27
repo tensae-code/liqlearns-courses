@@ -10,11 +10,15 @@ The seven-layer model runs: **1 perception** (sensors and things), **2 network**
 
 In your mind's eye: the seven layers — from things to business.
 
+[Picture 48864 — the seven layers — from things to business]
+
 ## Sub lesson 2 — The five-layer model — the middle map
 
 The **five-layer model** splits the three-layer skeleton once: perception, **transport**, **processing**, application, **business**. It is the map many textbooks and vendors actually use — fine enough to assign responsibilities, coarse enough to hold in the head. Jordan's lesson closes with the choice itself: the model is chosen to fit the audience and the argument, and fluency is moving between the three maps without losing the system.
 
 In your mind's eye: the five-layer model — the middle map.
+
+[Picture 48865 — the five-layer model — the middle map]
 
 ## Say it to your companion
 

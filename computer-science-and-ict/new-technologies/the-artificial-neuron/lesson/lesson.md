@@ -14,6 +14,8 @@ The neuron's arithmetic is one line. It multiplies each input by its weight, add
 
 In your mind's eye: artificial-neuron-anatomy. Three input lines with weight labels running into one circle, the weighted sum forming inside, bias entering from above.
 
+[Picture 48878 — artificial-neuron-anatomy. Three input lines with weight labels running into one circle, the weighted sum forming inside, bias entering from above]
+
 Work it. A neuron judges 'go out without a jacket?' from two inputs: sunshine x₁ = 1 (yes) and wind x₂ = 0.6. Its weights: sunshine speaks for going out, w₁ = 2; wind speaks against, w₂ = −3; its bias b = 0.5. Then z = 2·1 + (−3)·0.6 + 0.5 = 2 − 1.8 + 0.5 = **0.7**. The sum is the neuron's weighed-up opinion — but an opinion is not yet a decision. That takes one more part.
 
 ## Sub lesson 2 — From sum to output — activation, and what learning adjusts
@@ -21,6 +23,8 @@ Work it. A neuron judges 'go out without a jacket?' from two inputs: sunshine x�
 The **activation function** turns the net input z into the neuron's **output** — its answer to the next layer, or to the world. The simplest activation is the **step**: if z reaches a threshold (say 0), output **1** — the neuron 'fires'; below it, output **0**. Our jacket neuron's z = 0.7 ≥ 0, so it fires: go out. Change only the wind to x₂ = 1 and z = 2 − 3 + 0.5 = −0.5: no fire — stay in. The same neuron, the same weights, a different world, a different answer. (Smoother activations exist — functions that output a graded number between 0 and 1 instead of a hard step — and real networks prefer them because small weight changes then change the output a little, which makes learning steadier; the step is the honest first form.)
 
 In your mind's eye: activation-step: a graph of the step function — flat at 0, jumping to 1 at the threshold. With the two worked z values marked on it.
+
+[Picture 48879 — activation-step: a graph of the step function — flat at 0, jumping to 1 at the threshold. With the two worked z values marked on it]
 
 Now the sentence that connects this lesson to the whole strand: **learning is the adjusting of the weights and the bias.** The inputs are the world's; the activation is fixed by design; what training (last lesson's loop) tunes, example after example, is exactly the w's and the b — nudging each weight in the direction that would have made the last answer less wrong. A neuron with well-set weights is a small expert on one tiny judgement. A network, next, is what happens when small experts are wired so their answers become each other's inputs.
 

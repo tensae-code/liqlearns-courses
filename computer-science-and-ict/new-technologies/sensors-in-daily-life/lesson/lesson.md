@@ -10,11 +10,15 @@ A **sensor** detects a change and reports it. The automatic tap in a public wash
 
 In your mind's eye: sensors all around us — taps, lights, smoke, heat.
 
+[Picture 48862 — sensors all around us — taps, lights, smoke, heat]
+
 ## Sub lesson 2 — From noticing to acting — the sensor's place in a system
 
 A sensor alone does nothing useful; it is the **input** of a small system. The signal it sends goes to a **control unit**, which decides, and an **actuator** acts — the tap's valve opens, the lamp lights, the alarm sounds. Egypt's robot lesson uses exactly this chain — sensors, control unit, actuators — because a robot is this same pattern with wheels. Reading a sensor's world this way also shows its limits: a sensor notices only what it was built to notice, at the place where it sits, and a dirty, blocked or badly placed sensor reports a wrong world, so the system acts wrongly with complete confidence. Placing sensors well, and keeping them clean, is part of using them.
 
 In your mind's eye: from noticing to acting — the sensor's place in a system.
+
+[Picture 48863 — from noticing to acting — the sensor's place in a system]
 
 ## Say it to your companion
 

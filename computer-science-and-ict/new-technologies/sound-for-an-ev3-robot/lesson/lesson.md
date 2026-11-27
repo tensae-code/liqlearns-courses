@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Lesson 25: Sound for the robot** — co
 
 In your mind's eye: lesson 25. Sound for the robot.
 
+[Picture 48870 — lesson 25. Sound for the robot]
+
 ## Sub lesson 2 — Sound for the robot
 
 This part of Kazakhstan's book teaches **Sound for the robot** — covering: §25: Sound for the robot — the EV3 sound block and sound editor ("Dog bark 1", recording your own voice). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: sound for the robot.
+
+[Picture 48871 — sound for the robot]
 
 ## Say it to your companion
 

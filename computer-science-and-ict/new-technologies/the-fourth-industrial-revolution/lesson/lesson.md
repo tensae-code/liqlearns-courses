@@ -10,11 +10,15 @@ Industry has been revolutionised in waves. The **first** revolution mechanised p
 
 In your mind's eye: four revolutions — steam, electricity, computers, fusion.
 
+[Picture 48882 — four revolutions — steam, electricity, computers, fusion]
+
 ## Sub lesson 2 — The 47% forecast — and Mongolia's Three Pillars
 
 The book states the fourth wave's famous warning plainly: a forecast that **47% of jobs** stand at risk of automation — a photograph of exposure, not a sentence, since every past wave destroyed trades and raised new ones no forecaster had named. Mongolia's answer is policy: the **Three Pillars** development policy, by which the state intends to **start Industry 4.0 in Mongolia** rather than import its results. The Grade 12 pupil is addressed as the wave's worker either way: the lesson's question is not whether the fourth revolution comes to Mongolia, but whether Mongolians arrive in it as its operators or its audience.
 
 In your mind's eye: the 47% forecast — and Mongolia's Three Pillars.
+
+[Picture 48883 — the 47% forecast — and Mongolia's Three Pillars]
 
 ## Say it to your companion
 

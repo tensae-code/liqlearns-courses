@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **A program for the robot** — covering:
 
 In your mind's eye: a program for the robot.
 
+[Picture 48880 — a program for the robot]
+
 ## Sub lesson 2 — Doing it — The EV3 Programming Environment in practice
 
 **Doing it — The EV3 Programming Environment in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The EV3 Programming Environment in practice.
+
+[Picture 48881 — doing it — The EV3 Programming Environment in practice]
 
 ## Say it to your companion
 

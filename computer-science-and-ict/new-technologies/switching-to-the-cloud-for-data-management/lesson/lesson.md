@@ -10,11 +10,15 @@ Switching to the cloud for **data management** means an organisation's stored fi
 
 In your mind's eye: what moves — from our disks to their service.
 
+[Picture 48872 — what moves — from our disks to their service]
+
 ## Sub lesson 2 — What changes — access anywhere, care of a new kind
 
 The gains are the chapter's own: data **reached from anywhere**, sharing by link instead of by carrying copies, and storage that **grows without buying disks**. The new cares are the switch's price: the data now depends on the **connection** and on the **provider** — their keeping of it, their charges, their rules — and the organisation must manage **accounts and permissions** as carefully as it once managed keys to the filing room. Fiji's verdict shape is balanced: switch for the reach, with eyes open about whose hands the data now rests in.
 
 In your mind's eye: what changes — access anywhere, care of a new kind.
+
+[Picture 48873 — what changes — access anywhere, care of a new kind]
 
 ## Say it to your companion
 

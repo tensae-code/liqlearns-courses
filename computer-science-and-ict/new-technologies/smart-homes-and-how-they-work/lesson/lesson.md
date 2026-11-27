@@ -10,11 +10,15 @@ A **smart home** is a home whose devices — lighting, heating, locks, cameras, 
 
 In your mind's eye: what a smart home is.
 
+[Picture 48868 — what a smart home is]
+
 ## Sub lesson 2 — How it works — notice, decide, act
 
 The working is a loop. A **sensor notices** — movement at the door. The system **decides** by its rules — after dark, a movement means turn the path light on and send the owner a picture. An **actuator acts**. Jordan's Grade 10 book teaches the smart home as IoT's home ground: the same loop, with the family's comfort, safety and energy bills as its measures — and its failures (a flat network, a wrong rule) felt immediately.
 
 In your mind's eye: how it works — notice, decide, act.
+
+[Picture 48869 — how it works — notice, decide, act]
 
 ## Say it to your companion
 
