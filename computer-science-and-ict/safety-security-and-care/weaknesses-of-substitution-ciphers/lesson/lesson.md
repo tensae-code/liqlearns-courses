@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Weaknesses and Security Flaws of
 
 In your mind's eye: weaknesses and Security Flaws of Substitution Ciphers.
 
+[Picture 48179 — weaknesses and Security Flaws of Substitution Ciphers]
+
 ## Sub lesson 2 — Doing it — Weaknesses of Substitution Ciphers in practice
 
 **Doing it — Weaknesses of Substitution Ciphers in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Weaknesses of Substitution Ciphers in practice.
+
+[Picture 48180 — doing it — Weaknesses of Substitution Ciphers in practice]
 
 ## Say it to your companion
 

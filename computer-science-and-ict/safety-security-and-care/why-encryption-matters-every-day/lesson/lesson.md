@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Importance of Encryption for Eve
 
 In your mind's eye: importance of Encryption for Everyday Life on the Internet.
 
+[Picture 48183 — importance of Encryption for Everyday Life on the Internet]
+
 ## Sub lesson 2 — Doing it — Why Encryption Matters Every Day in practice
 
 **Doing it — Why Encryption Matters Every Day in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Why Encryption Matters Every Day in practice.
+
+[Picture 48184 — doing it — Why Encryption Matters Every Day in practice]
 
 ## Say it to your companion
 

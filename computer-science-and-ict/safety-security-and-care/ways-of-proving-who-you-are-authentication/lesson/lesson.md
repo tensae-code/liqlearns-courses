@@ -10,11 +10,15 @@ A website asks: prove it is you. You type a password — one kind of proof. Befo
 
 In your mind's eye: three families of proof.
 
+[Picture 48177 — three families of proof]
+
 ## Sub lesson 2 — Logging in, judged
 
 A login page is authentication at work: type the password (know), perhaps confirm on the phone (have), perhaps touch the sensor (are). Judging a method means asking the fiche's questions: How secret is it really? Who else could present it? What happens when it is lost — can it be changed like a password, or is it yours for life like a fingerprint? Strong access is not the fanciest method; it is the combination whose failures you have thought through.
 
 In your mind's eye: logging in, judged.
+
+[Picture 48178 — logging in, judged]
 
 ## Say it to your companion
 

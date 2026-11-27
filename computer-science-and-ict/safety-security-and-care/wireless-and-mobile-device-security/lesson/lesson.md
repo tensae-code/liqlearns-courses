@@ -10,11 +10,15 @@ A **wireless network** sends its traffic through the air, **beyond the room it s
 
 In your mind's eye: wireless security — the network with no walls.
 
+[Picture 48185 — wireless security — the network with no walls]
+
 ## Sub lesson 2 — Mobile device security — the computer in the pocket
 
 The **mobile phone** is a full computer carrying mail, accounts, money and photographs, and its security is the computer's security shrunk to a pocket: a **lock (PIN, pattern or fingerprint)** on the device itself, because a lost unlocked phone is every account lost at once; **care with apps** — taken from the proper store, their permissions read; the **wireless and Bluetooth radios off or guarded** in strange places; and **backups and a find/wipe service** ready before the loss, so a stolen phone is a lost object, not a lost life. Laos ends the sequence here because this is the device its graduates will actually defend.
 
 In your mind's eye: mobile device security — the computer in the pocket.
+
+[Picture 48186 — mobile device security — the computer in the pocket]
 
 ## Say it to your companion
 

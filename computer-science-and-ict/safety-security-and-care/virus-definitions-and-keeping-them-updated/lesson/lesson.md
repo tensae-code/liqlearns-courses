@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Virus Definitions / Updates** �
 
 In your mind's eye: virus Definitions / Updates.
 
+[Picture 48175 — virus Definitions / Updates]
+
 ## Sub lesson 2 — Doing it — Virus Definitions and Keeping Them Updated in practice
 
 **Doing it — Virus Definitions and Keeping Them Updated in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Virus Definitions and Keeping Them Updated in practice.
+
+[Picture 48176 — doing it — Virus Definitions and Keeping Them Updated in practice]
 
 ## Say it to your companion
 
