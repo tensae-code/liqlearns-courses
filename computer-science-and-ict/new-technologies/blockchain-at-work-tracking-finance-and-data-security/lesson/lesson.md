@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Applications and Implications of
 
 In your mind's eye: applications and Implications of Blockchain.
 
+[Picture 48652 — applications and Implications of Blockchain]
+
 ## Sub lesson 2 — Doing it — Blockchain at Work Tracking Finance and Data Security in practice
 
 **Doing it — Blockchain at Work Tracking Finance and Data Security in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Blockchain at Work Tracking Finance and Data Security in practice.
+
+[Picture 48653 — doing it — Blockchain at Work Tracking Finance and Data Security in practice]
 
 ## Say it to your companion
 

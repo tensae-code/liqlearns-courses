@@ -10,11 +10,15 @@ Building needs its **requirements** first: a **problem stated as a prediction**,
 
 In your mind's eye: requirements and the early steps.
 
+[Picture 48658 — requirements and the early steps]
+
 ## Sub lesson 2 — Testing, tuning, tools
 
 The trained model meets the **test data** it never saw: its score there — not on the training data — is the honest one. Then **tuning**: adjust, retrain, retest, watching for **overfitting** (a model that memorised its training data and fails strangers). The **tools** are the environments where this is done — Python with its libraries (the course's own road), or visual tools that build models by dragging. The steps do not change with the tool; that is why the book teaches steps first.
 
 In your mind's eye: testing, tuning, tools.
+
+[Picture 48659 — testing, tuning, tools]
 
 ## Say it to your companion
 

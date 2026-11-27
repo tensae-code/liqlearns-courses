@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Building Statistical Models: §5
 
 In your mind's eye: building Statistical Models. §5.3.1 Introduction to Statistical Modeling.
 
+[Picture 48662 — building Statistical Models. §5.3.1 Introduction to Statistical Modeling]
+
 ## Sub lesson 2 — Doing it — Building a Statistical Model Linear Regression in practice
 
 **Doing it — Building a Statistical Model Linear Regression in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Building a Statistical Model Linear Regression in practice.
+
+[Picture 48663 — doing it — Building a Statistical Model Linear Regression in practice]
 
 ## Say it to your companion
 

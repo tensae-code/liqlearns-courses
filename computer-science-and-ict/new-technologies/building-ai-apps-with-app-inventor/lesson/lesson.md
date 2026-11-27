@@ -10,11 +10,15 @@ An **AI app** is an application whose behaviour includes a model's judgement —
 
 In your mind's eye: aI as components — the app asks, the model answers.
 
+[Picture 48664 — aI as components — the app asks, the model answers]
+
 ## Sub lesson 2 — Building honestly — training, limits and the builder's judgement
 
 The builder does not train the model inside the app — it was trained elsewhere, on examples the builder never saw — so the app's quality is bounded by questions the builder must ask: what was it trained on, where does it fail, and what should the app do when the answer is unsure? The chapter's apps are school-sized (classifiers and recognisers a pupil can test in a day), and their lesson is the standing one of applied AI: the component's answer is advice with a confidence, and the app's design — what it shows, asks and does with doubt — is the builder's own work.
 
 In your mind's eye: building honestly — training, limits and the builder's judgement.
+
+[Picture 48665 — building honestly — training, limits and the builder's judgement]
 
 ## Say it to your companion
 

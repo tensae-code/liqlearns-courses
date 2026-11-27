@@ -10,11 +10,15 @@ App Inventor's **Designer** is where the app's **screen is built from components
 
 In your mind's eye: the Designer — the app's face from components.
 
+[Picture 48660 — the Designer — the app's face from components]
+
 ## Sub lesson 2 — The Blocks Editor — behaviour as events
 
 The **Blocks Editor** programs what the components **do**: blocks snapped into **event handlers** — *when* this button is clicked, *when* this sensor shakes — holding the actions that answer, with the Scratch habits of the earlier years (sequence, selection, variables) spent on a phone's real powers. The app is then **run on a real device** or its emulator, so the builder's loop closes in the hand: design, program, hold it, judge it.
 
 In your mind's eye: the Blocks Editor — behaviour as events.
+
+[Picture 48661 — the Blocks Editor — behaviour as events]
 
 ## Say it to your companion
 

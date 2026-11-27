@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Lesson 11: The windmill model** — cov
 
 In your mind's eye: lesson 11. The windmill model.
 
+[Picture 48656 — lesson 11. The windmill model]
+
 ## Sub lesson 2 — Модель мельницы
 
 This part of Kazakhstan's book teaches **Модель мельницы** — covering: 11. Модель мельницы. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: модель мельницы.
+
+[Picture 48657 — модель мельницы]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Records are packed into **blocks**. Each block carries a **hash** — a short fi
 
 In your mind's eye: blocks, hashes and the chain.
 
+[Picture 48654 — blocks, hashes and the chain]
+
 ## Sub lesson 2 — Many copies, no single keeper
 
 The chain is **distributed**: many computers hold a full copy and compare notes, so there is no single keeper to bribe, hack or lose the book. That is the trust idea in the book's title — **trusted digital records**: trust comes from the structure, not from trusting a person. The famous use is cryptocurrency, but the same structure serves land records, certificates and supply chains.
 
 In your mind's eye: many copies, no single keeper.
+
+[Picture 48655 — many copies, no single keeper]
 
 ## Say it to your companion
 

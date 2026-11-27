@@ -10,11 +10,15 @@ A genome is a text of three billion letters. No human can read it, compare it, o
 
 In your mind's eye: biological data — sequences as text.
 
+[Picture 48646 — biological data — sequences as text]
+
 ## Sub lesson 2 — What it finds — medicine, crops, kinship
 
 The findings repay the computing: **disease genes** located by comparing the sequences of the sick and the well; **medicines** designed against a protein's known shape; **crop varieties** — the book's own country improved its rice and read the jute genome, in the genetic-engineering lesson — chosen by their sequences before a seed is sown; and the **kinship of species** measured exactly, letter by letter, instead of guessed from bones. Bioinformatics is the new-technologies chapter in miniature: a field that did not exist before the computer, because its material could not be handled without one.
 
 In your mind's eye: what it finds — medicine, crops, kinship.
+
+[Picture 48647 — what it finds — medicine, crops, kinship]
 
 ## Say it to your companion
 

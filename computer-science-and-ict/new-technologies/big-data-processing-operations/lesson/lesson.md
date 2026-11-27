@@ -10,11 +10,15 @@ Big data cannot be read; it must be reduced — carefully, so the reduction keep
 
 In your mind's eye: transformation and generalisation.
 
+[Picture 48644 — transformation and generalisation]
+
 ## Sub lesson 2 — Simplification and visual representation
 
 **Simplification** reduces the data itself: sampling (a fair part for the whole), aggregating (sums and averages standing for multitudes), selecting the fields that matter. **Visual representation** turns the reduced data into charts and maps the eye can judge. Jordan's four operations are a pipeline with an ethic: each operation must be **declared** — a chart that hides its generalisations is a claim hiding its evidence, and the analyst's duty is to keep the road from raw to shown walkable by a checker.
 
 In your mind's eye: simplification and visual representation.
+
+[Picture 48645 — simplification and visual representation]
 
 ## Say it to your companion
 
