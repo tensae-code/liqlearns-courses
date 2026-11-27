@@ -10,11 +10,15 @@ The **modulus operator %** gives the **remainder** of an integer division: 17 % 
 
 In your mind's eye: modulus — the remainder operator.
 
+[Picture 47854 — modulus — the remainder operator]
+
 ## Sub lesson 2 — FizzBuzz — the portrait program
 
 **FizzBuzz** counts from 1 upward, replacing: multiples of **3** with **Fizz**, multiples of **5** with **Buzz**, multiples of **both** (of 15) with **FizzBuzz**, and leaving the rest as numbers. Its craft is the order of tests: the both-case must be tested **first** (or as % 3 and % 5 combined), for a multiple of 15 passes the 3-test and would be stolen by Fizz before Buzz is ever asked. Small as it is, FizzBuzz holds modulus, selection order, and loops in one page — which is why interviewers and the HSC book alike keep it: a programmer's whole honesty, in miniature.
 
 In your mind's eye: fizzBuzz — the portrait program.
+
+[Picture 47855 — fizzBuzz — the portrait program]
 
 ## Say it to your companion
 

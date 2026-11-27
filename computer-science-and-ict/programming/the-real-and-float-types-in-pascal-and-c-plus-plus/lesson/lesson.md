@@ -10,11 +10,15 @@ A real value is stored in two parts: the **mantissa** — the value's significan
 
 In your mind's eye: mantissa and exponent — how a real is stored.
 
+[Picture 47866 — mantissa and exponent — how a real is stored]
+
 ## Sub lesson 2 — Approximation in practice — the pair's shared rules
 
 Because storage is approximate, the pair shares its commandments. **Never test reals for exact equality** — test that their difference is small. **Expect accumulation**: many small additions drift. **Format your output**: digits beyond the type's precision are noise the type never stored. And choose float against double by the data: measurements with five honest digits gain nothing from double's fifteen, while money and long computations argue for the wider mantissa. Grade 12's error chapters are this section, grown up.
 
 In your mind's eye: approximation in practice — the pair's shared rules.
+
+[Picture 47867 — approximation in practice — the pair's shared rules]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **real** type holds numbers **with fractional parts**: 3.14, −0.5, the ave
 
 In your mind's eye: real — numbers with a fractional part.
 
+[Picture 47868 — real — numbers with a fractional part]
+
 ## Sub lesson 2 — Operations on reals — smooth arithmetic, careful equality
 
 Reals take the full arithmetic: +, −, *, and **/** — division that keeps the fraction (7 / 2 = 3.5, where integer div gave 3). The standard functions serve them: **abs**, **sqr**, **sqrt**, **sin**, **cos** and their kin take reals and answer reals. One warning travels with the type: because reals are approximate, **testing two reals for exact equality is unsafe** — 0.1 + 0.2 may not sit exactly on 0.3. Compare reals by closeness, not by identity: the professional's habit, taught from the first real lesson.
 
 In your mind's eye: operations on reals — smooth arithmetic, careful equality.
+
+[Picture 47869 — operations on reals — smooth arithmetic, careful equality]
 
 ## Say it to your companion
 

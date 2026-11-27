@@ -10,11 +10,15 @@ One language in the guide's tour was made to travel: write it once, and it runs 
 
 In your mind's eye: what Java is.
 
+[Picture 47850 — what Java is]
+
 ## Sub lesson 2 — Write once, run anywhere — the virtual machine
 
 Bytecode runs on the **Java Virtual Machine (JVM)** — a program that pretends to be a standard computer, installed on real computers of every kind. The same Java program therefore runs **unchanged on any machine that carries a JVM**: written once, run anywhere. The price is a step of translation at run time; the prize is freedom from the machine. Laos teaches Java in the guide's language tour because it completes the tour's lesson: languages differ not only in their words, but in where their programs can live.
 
 In your mind's eye: write once, run anywhere — the virtual machine.
+
+[Picture 47851 — write once, run anywhere — the virtual machine]
 
 ## Say it to your companion
 

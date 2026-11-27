@@ -10,11 +10,15 @@ The **queens problem** (bài toán xếp Hậu): place **N queens on an N×N che
 
 In your mind's eye: the problem — queens that must not meet.
 
+[Picture 47856 — the problem — queens that must not meet]
+
 ## Sub lesson 2 — The solution — one queen per row, checked at once
 
 Backtracking simplifies the problem with one decision: place queens **row by row** — one queen in each row — so rows can never clash, and only **columns and diagonals** need checking. Place the row's queen in the first free column that passes the checks, move to the next row; if a row has **no safe column**, backtrack — move the previous row's queen to her next column and descend again. A full board is a solution; exhausting row one's columns proves none exists.
 
 In your mind's eye: the solution — one queen per row, checked at once.
+
+[Picture 47857 — the solution — one queen per row, checked at once]
 
 ## Say it to your companion
 

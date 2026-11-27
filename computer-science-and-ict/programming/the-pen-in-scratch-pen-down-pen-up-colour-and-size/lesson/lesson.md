@@ -10,11 +10,15 @@ The pen’s first blocks are three: **pen down** puts the pen on the stage so mo
 
 In your mind's eye: pen down, pen up, clear — and the pen’s colour and size.
 
+[Picture 47860 — pen down, pen up, clear — and the pen’s colour and size]
+
 ## Sub lesson 2 — The pen at work — ornaments, stairs, and free writing
 
 The books put the pen to four kinds of work: Grade 7 draws **lines and ornaments** (opening with the question of ornaments like Al-Aqsa Mosque’s), Grade 6 combines the pen with **movement, costumes and resizing**, Grade 8 draws **stairs and a house**, and Grade 9 writes **freehand on the stage** — a pencil sprite whose costume centre is its tip follows the mouse, pen down while the mouse is pressed, with a clear sprite as the board wiper and an eraser sprite in the poetry project.
 
 In your mind's eye: the pen at work — ornaments, stairs, and free writing.
+
+[Picture 47861 — the pen at work — ornaments, stairs, and free writing]
 
 ## Say it to your companion
 

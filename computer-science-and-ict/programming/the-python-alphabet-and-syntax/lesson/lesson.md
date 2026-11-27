@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Тіл алфавиті. Синтакс
 
 In your mind's eye: тіл алфавиті. Синтаксис.
 
+[Picture 47864 — тіл алфавиті. Синтаксис]
+
 ## Sub lesson 2 — Алфавит языка. Синтаксис
 
 This part of Kazakhstan's book teaches **Алфавит языка. Синтаксис** — covering: §16 Алфавит языка. Синтаксис. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: алфавит языка. Синтаксис.
+
+[Picture 47865 — алфавит языка. Синтаксис]
 
 ## Say it to your companion
 

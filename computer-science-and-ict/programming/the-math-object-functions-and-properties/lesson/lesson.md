@@ -10,11 +10,15 @@ The **Math object** supplies the functions expressions cannot write alone. **Abs
 
 In your mind's eye: the functions — rounding, powers, roots and chance.
 
+[Picture 47852 — the functions — rounding, powers, roots and chance]
+
 ## Sub lesson 2 — The jobs — a cosine graph and palindrome hunting
 
 The book spends the toolbox on two worked jobs. First, **plotting a cosine graph**: loop over x, take Cos of each, and plot the points in the GraphicsWindow — a curve computed point by point, mathematics made visible. Second, **finding palindromes** — numbers that read the same both ways — by pulling digits apart with Floor and remainder arithmetic and rebuilding them reversed. Mongolia's choice of jobs is the point: the Math object is not a list to memorise but a kit to spend, and every function in it is bought back by a program that needed it.
 
 In your mind's eye: the jobs — a cosine graph and palindrome hunting.
+
+[Picture 47853 — the jobs — a cosine graph and palindrome hunting]
 
 ## Say it to your companion
 

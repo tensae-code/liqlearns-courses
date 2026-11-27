@@ -14,6 +14,8 @@ Programs that fail usually fail before any code exists: they solve the wrong pro
 
 In your mind's eye: three panels: a teacher staring at a pile of fee receipts (recognition), a written card listing Inputs and Outputs (definition), and a flowchart of boxes and arrows (design).
 
+[Picture 47862 — three panels: a teacher staring at a pile of fee receipts (recognition), a written card listing Inputs and Outputs (definition), and a flowchart of boxes and arrows (design)]
+
 ## Sub lesson 2 — Code, test, implement, maintain
 
 **Coding** translates the design into a real programming language. Because the design already decided the logic, coding is translation, not invention — a well-designed program can even be coded by a different person, or in a different language, from the same flowchart.
@@ -23,6 +25,8 @@ In your mind's eye: three panels: a teacher staring at a pile of fee receipts (r
 **Implementation** puts the finished program into real use: installing it, converting old data into its forms, and training the users. And the cycle does not end there — **maintenance** corrects faults found in use, improves the program, and adapts it when rules change (a new fee structure, a new tax). Maintenance is normally the longest and most expensive stage, which is why the cycle is drawn as a loop back to problem definition, not a line that ends. Kenya's Form 3 programming chapter teaches the cycle as the frame that holds its algorithm and flowchart work together.
 
 In your mind's eye: a circular arrow diagram with seven stage labels around the ring, the maintenance label drawn widest.
+
+[Picture 47863 — a circular arrow diagram with seven stage labels around the ring, the maintenance label drawn widest]
 
 ## Say it to your companion
 

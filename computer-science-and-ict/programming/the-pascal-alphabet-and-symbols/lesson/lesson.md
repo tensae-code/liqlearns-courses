@@ -10,11 +10,15 @@ Pascal's **alphabet** is the Latin letters A–Z and a–z, the digits 0–9, an
 
 In your mind's eye: letters, digits and symbols.
 
+[Picture 47858 — letters, digits and symbols]
+
 ## Sub lesson 2 — Identifiers — names built by rule
 
 Names the programmer invents — **identifiers** — are built from letters and digits, must **begin with a letter**, and may not be a service word: `sum1` is allowed, `1sum` and `begin` are not. Good names say what the thing is. The alphabet lesson stands first in the course because every later rule — variables, operators, procedures — is written in these letters and names.
 
 In your mind's eye: identifiers. Names built by rule.
+
+[Picture 47859 — identifiers. Names built by rule]
 
 ## Say it to your companion
 
