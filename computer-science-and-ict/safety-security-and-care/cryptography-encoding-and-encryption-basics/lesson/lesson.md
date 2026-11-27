@@ -10,11 +10,15 @@ A postcard can be read by everyone who handles it. This lesson is about the seal
 
 In your mind's eye: coding. Saying it another way.
 
+[Picture 48079 — coding. Saying it another way]
+
 ## Sub lesson 2 — Encryption — scrambling with a key
 
 **Encryption** scrambles a readable message (**plaintext**) into unreadable **ciphertext** using a rule and a **key**; **decryption** with the right key turns it back. The Year 2 book returns to the topic as full **cryptography** (Theme 1): modern systems rely on keys long enough that guessing them is hopeless, and encryption protects banking, messaging and personal data as they cross networks anyone could listen to. Encoding anyone can undo; encryption only the key-holder can.
 
 In your mind's eye: encryption — scrambling with a key.
+
+[Picture 48080 — encryption — scrambling with a key]
 
 ## Say it to your companion
 

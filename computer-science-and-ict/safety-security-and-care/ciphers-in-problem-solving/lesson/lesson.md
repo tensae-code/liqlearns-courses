@@ -10,11 +10,15 @@ A cipher problem states a **situation with a secrecy need**: a message must trav
 
 In your mind's eye: the problem shape — need, choice, application.
 
+[Picture 48065 — the problem shape — need, choice, application]
+
 ## Sub lesson 2 — Checking the solution — decrypt and judge
 
 The solution is **checked from the reader's end**: the intended reader decrypts with the key and must recover the plaintext **exactly** — one wrong letter means the application, not the idea, failed, and the encryption is reworked. Then the solver judges the holding: could an unintended hand, with the time the secret must last, break this method? If yes, the choice was wrong for the need and the problem is solved again with a stronger method. Malaysia's problems end with that judgement written down — a cipher solution is a claim, and the claim must be examined.
 
 In your mind's eye: checking the solution — decrypt and judge.
+
+[Picture 48066 — checking the solution — decrypt and judge]
 
 ## Say it to your companion
 

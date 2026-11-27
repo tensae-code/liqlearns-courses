@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Encrypted with Random Substituti
 
 In your mind's eye: encrypted with Random Substitution using Frequency Analysis.
 
+[Picture 48075 — encrypted with Random Substitution using Frequency Analysis]
+
 ## Sub lesson 2 — Doing it — Cracking Ciphers with Frequency Analysis in practice
 
 **Doing it — Cracking Ciphers with Frequency Analysis in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Cracking Ciphers with Frequency Analysis in practice.
+
+[Picture 48076 — doing it — Cracking Ciphers with Frequency Analysis in practice]
 
 ## Say it to your companion
 

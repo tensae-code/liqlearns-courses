@@ -10,11 +10,15 @@ The unit's methods share one shape — a rule that turns plaintext into cipherte
 
 In your mind's eye: the methods on the table.
 
+[Picture 48067 — the methods on the table]
+
 ## Sub lesson 2 — The grounds of comparison
 
 Methods are compared on stated grounds: **strength** — how much work breaking the method takes (a shift has only 25 keys to try; a full substitution table has vastly more); **what it hides** — substitution hides letter identities but leaves word lengths and letter frequencies as clues, transposition hides the reading order but leaves the letters themselves; **ease** — how simply it can be used correctly by hand. Malaysia's comparison is a table with reasons in every cell: a method is never just 'better' — it is stronger here, weaker there, easier for this user.
 
 In your mind's eye: the grounds of comparison.
+
+[Picture 48068 — the grounds of comparison]
 
 ## Say it to your companion
 

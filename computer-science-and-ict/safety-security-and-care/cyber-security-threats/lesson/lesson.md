@@ -10,11 +10,15 @@ Cyber threats arrive in families: **malware** (viruses, worms, ransomware — co
 
 In your mind's eye: the threats — a sorted field.
 
+[Picture 48081 — the threats — a sorted field]
+
 ## Sub lesson 2 — Attack against assault — the book's distinction
 
 Jordan distinguishes: an **electronic attack** is an attempt or act that **targets systems or data through electronic means** — probing, intruding, infecting; an **assault (اعتداء)** in its usage is the broader aggression — which may combine electronic with physical or human means, and carries the sense of a violation committed against a party. The distinction matters for response and for law: what was attempted, what was done, by what means, against whom — the four questions every incident report in the unit's later lessons must answer in this vocabulary.
 
 In your mind's eye: attack against assault — the book's distinction.
+
+[Picture 48082 — attack against assault — the book's distinction]
 
 ## Say it to your companion
 

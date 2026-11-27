@@ -10,11 +10,15 @@ Government systems differ from a firm's in what they hold and whom they answer t
 
 In your mind's eye: why public-sector security is its own subject.
 
+[Picture 48069 — why public-sector security is its own subject]
+
 ## Sub lesson 2 — The measures — policy, people and systems together
 
 The public sector's measures run on three legs. **Policy**: written security rules for every office — who may access which records, how media and passwords are handled, what happens when rules break — the same in every office, because the citizen's record travels between all of them. **People**: staff **trained** to the rules and **accountable** under them, with access given by duty, not by rank or favour. **Systems**: the chapter's own defences at public scale — **access control, backups, firewalls, antivirus, and logs that are actually reviewed**. Laos closes the chapter here deliberately: the learner who will staff these offices meets their duty before they meet their desk.
 
 In your mind's eye: the measures — policy, people and systems together.
+
+[Picture 48070 — the measures — policy, people and systems together]
 
 ## Say it to your companion
 

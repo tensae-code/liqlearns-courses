@@ -10,11 +10,15 @@ A network's security is not one tool but a set of **factors** working together: 
 
 In your mind's eye: the factors first — what network security stands on.
 
+[Picture 48071 — the factors first — what network security stands on]
+
 ## Sub lesson 2 — The settings — authentication, firewall, encryption
 
 Three settings carry most of a small network's safety. **Password authentication**: every entry demands a named user and a strong password — no open doors, no shared secrets. The **firewall**: its rules decide which traffic may pass and which is turned away, set deliberately and reviewed, not left at the installer's defaults. **Encryption**: the method by which traffic and stored data are scrambled for anyone without the key, chosen and applied so the network's own conversation is private. Grade 12 practises the whole as a role-play — configuring a simple network's security end to end — because these settings are learned by setting them.
 
 In your mind's eye: the settings — authentication, firewall, encryption.
+
+[Picture 48072 — the settings — authentication, firewall, encryption]
 
 ## Say it to your companion
 
