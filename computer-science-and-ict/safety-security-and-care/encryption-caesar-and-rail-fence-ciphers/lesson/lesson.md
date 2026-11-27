@@ -10,11 +10,15 @@ Two thousand years separate these two ciphers, and both fit on one page. Work th
 
 In your mind's eye: the concept and the methods.
 
+[Picture 48099 — the concept and the methods]
+
 ## Sub lesson 2 — Caesar and Rail Fence — worked
 
 The **Caesar cipher** shifts every letter by a fixed number (the key): with key 3, A→D, B→E — HELLO becomes KHOOR; decrypting shifts back. Its weakness is its tiny key space: 25 shifts to try. The **Rail Fence** writes the message in a zigzag across rails (rows) and reads it off row by row: the letters are all present, their order scrambled — a transposition. Worked together they teach the field's eternal pair: hide the letters' identities, or hide their order — and why real systems must hide both, against enemies who count letter frequencies and try every key by breakfast.
 
 In your mind's eye: caesar and Rail Fence — worked.
+
+[Picture 48100 — caesar and Rail Fence — worked]
 
 ## Say it to your companion
 

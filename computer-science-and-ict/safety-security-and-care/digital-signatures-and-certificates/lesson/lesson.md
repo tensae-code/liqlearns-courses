@@ -12,6 +12,8 @@ Checking runs the pair in reverse. The receiver computes the fingerprint of the 
 
 In your mind's eye: signature-check. A message, its fingerprint, the fingerprint locked by a private key, and the receiver comparing two fingerprints side by side.
 
+[Picture 48089 — signature-check. A message, its fingerprint, the fingerprint locked by a private key, and the receiver comparing two fingerprints side by side]
+
 Notice what a signature does **not** do: it hides nothing. The message itself travels readable (unless it is also encrypted, which is a separate step with the keys in the other direction). Secrecy and proof are different jobs; this strand now holds the tool for each.
 
 ## Sub lesson 2 — Certificates — whose key is this, really?
@@ -21,6 +23,8 @@ Every check in the last part leaned on one quiet assumption: that the public key
 A **certificate** is the fix: a small document holding a name and that name's public key, **signed by a certificate authority (CA)** — an organisation whose own job is checking, before signing, that the key truly belongs to that name (that the applicant controls the shop's domain, is the bank it claims, and so on). Your browser and phone carry the public keys of the established CAs built in. When a website presents its certificate, the device checks the CA's signature on it — the same fingerprint-and-key check as before, one level up — and only then trusts the key inside for the connection.
 
 In your mind's eye: certificate-chain. A shop's certificate signed by a CA, and the browser checking the CA's signature before trusting the key.
+
+[Picture 48090 — certificate-chain. A shop's certificate signed by a CA, and the browser checking the CA's signature before trusting the key]
 
 So the strand's ideas stack: fingerprints and private keys make signatures; signatures by authorities make certificates; certificates make the public keys of strangers trustworthy — and trustworthy public keys are what the last lesson's secret-writing to strangers stood on all along.
 

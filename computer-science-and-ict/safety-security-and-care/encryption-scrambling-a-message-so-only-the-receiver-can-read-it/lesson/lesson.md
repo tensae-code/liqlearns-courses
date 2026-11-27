@@ -10,11 +10,15 @@ A message crossing the internet passes many hands. Kuwait's Grade 10 protections
 
 In your mind's eye: encryption — scrambled for everyone but the receiver.
 
+[Picture 48103 — encryption — scrambled for everyone but the receiver]
+
 ## Sub lesson 2 — Private browsing — the small print beside the scramble
 
 The same theme teaches **private (incognito) browsing** with a warning built in: a private window keeps the browsing **off the device's own history** — the next user of the machine sees nothing — but it does **not** encrypt the journey or hide it from the network. Kuwait places the two together so they are never confused: encryption protects the message's **contents on its journey**; private mode protects only the **traces on your own machine**. Different shields, different attacks.
 
 In your mind's eye: private browsing — the small print beside the scramble.
+
+[Picture 48104 — private browsing — the small print beside the scramble]
 
 ## Say it to your companion
 

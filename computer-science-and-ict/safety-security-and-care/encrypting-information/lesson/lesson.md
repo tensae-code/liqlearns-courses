@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Encrypting information** — covering: 
 
 In your mind's eye: encrypting information.
 
+[Picture 48093 — encrypting information]
+
 ## Sub lesson 2 — Encrypting information
 
 This part of Kazakhstan's book teaches **Encrypting information** — covering: §4: Encrypting information. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: encrypting information.
+
+[Picture 48094 — encrypting information]
 
 ## Say it to your companion
 

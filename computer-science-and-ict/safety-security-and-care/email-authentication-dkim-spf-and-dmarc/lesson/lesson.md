@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Use email as a means of Authenti
 
 In your mind's eye: use email as a means of Authentication for Another Website Login Password.
 
+[Picture 48091 — use email as a means of Authentication for Another Website Login Password]
+
 ## Sub lesson 2 — Doing it — Email Authentication DKIM SPF and DMARC in practice
 
 **Doing it — Email Authentication DKIM SPF and DMARC in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Email Authentication DKIM SPF and DMARC in practice.
+
+[Picture 48092 — doing it — Email Authentication DKIM SPF and DMARC in practice]
 
 ## Say it to your companion
 

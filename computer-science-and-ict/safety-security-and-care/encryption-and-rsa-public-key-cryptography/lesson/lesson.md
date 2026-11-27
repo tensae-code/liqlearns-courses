@@ -10,11 +10,15 @@ Write a secret on paper and pass it across the classroom: everyone in between ca
 
 In your mind's eye: two keys on a table — one labelled PUBLIC being handed out to a crowd, one labelled PRIVATE going into its owner's pocket. With a padlock snapping shut under the public key and opening only under the private one.
 
+[Picture 48097 — two keys on a table — one labelled PUBLIC being handed out to a crowd, one labelled PRIVATE going into its owner's pocket. With a padlock snapping shut under the public key and opening only under the private one]
+
 ## Sub lesson 2 — RSA — how the two keys work
 
 RSA builds the key pair from two large **prime numbers**, multiplied together. The public key carries the product; the private key is worked out from the primes themselves. Locking a message means doing arithmetic with the product; unlocking needs the primes — and finding them again from the product alone means factoring an enormous number, which no known method can do in useful time. That one-way street is the whole secret: easy to multiply, practically impossible to un-multiply. The book's practical implements RSA in Python with small primes, so the student watches a message become numbers, get locked with a public key, and open again only with the private one.
 
 In your mind's eye: two small primes, 5 and 11, multiplying into 55 with a padlock closing — then a crowd of guesses failing to split 55 back apart before the owner's private key opens it.
+
+[Picture 48098 — two small primes, 5 and 11, multiplying into 55 with a padlock closing — then a crowd of guesses failing to split 55 back apart before the owner's private key opens it]
 
 ## Say it to your companion
 

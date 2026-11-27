@@ -10,11 +10,15 @@ A **deepfake** is media **generated or altered by AI** so that a real, recognisa
 
 In your mind's eye: what a deepfake is — a manufactured performance.
 
+[Picture 48087 — what a deepfake is — a manufactured performance]
+
 ## Sub lesson 2 — The defence — slow down, check sideways, never forward the harm
 
 No single tell is reliable, so the defence is a **routine**, not a spot-the-error game. **Slow down**: the fake wants your first emotion — outrage, delight, shame — because emotion forwards. **Check sideways**: does any independent, trustworthy source carry the same event; what does the shown person's own channel say? **Look at the source, not just the clip**: who posted it, when, and what else do they post? And the citizen's rule that Egypt's digital-responsibility lessons build toward: **never forward** a damaging clip of a real person you have not verified — forwarding is publishing, and the harm is done by the forwarders, not only by the maker.
 
 In your mind's eye: the defence — slow down, check sideways, never forward the harm.
+
+[Picture 48088 — the defence — slow down, check sideways, never forward the harm]
 
 ## Say it to your companion
 

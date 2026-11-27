@@ -10,11 +10,15 @@ Data is safest at home and in danger on the road. Libya's Grade 12 security chap
 
 In your mind's eye: encryption — scrambling the data itself.
 
+[Picture 48095 — encryption — scrambling the data itself]
+
 ## Sub lesson 2 — The firewall — guarding the gate
 
 The **firewall** guards the **gate** between a network and the outside: it **examines traffic passing in and out** and **allows or blocks it by its rules**, so unwanted connections are turned away before they reach the machines inside. The two defences are partners, not alternatives: the firewall decides **what may pass**, encryption decides **what passing data reveals**. Libya teaches them in one section because a network needs both answers at once.
 
 In your mind's eye: the firewall — guarding the gate.
+
+[Picture 48096 — the firewall — guarding the gate]
 
 ## Say it to your companion
 

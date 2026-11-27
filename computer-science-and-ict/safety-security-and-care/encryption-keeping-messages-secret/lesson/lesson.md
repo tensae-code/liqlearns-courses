@@ -10,11 +10,15 @@ Egypt's Grade 8 Term 2 brings its pupils to encryption through the door they hav
 
 In your mind's eye: encryption — scrambling with a rule and a key.
 
+[Picture 48101 — encryption — scrambling with a rule and a key]
+
 ## Sub lesson 2 — Why it matters — and its limits
 
 Encryption is what lets messages cross **untrusted ground** — networks anyone can listen to — and stay private: the listener collects ciphertext and learns nothing. Egypt's pupils meet it as makers, writing a first encryption program in Python next lesson, because making a cipher teaches its limits honestly: a weak method or a short, guessable key falls to patient trying; the key must reach the receiver by some safe road of its own (the problem the course's later key lessons take up); and encryption protects the message's **content**, not its existence — watchers may still see who wrote to whom, and when. Taught this way — idea, making, limits — encryption stops being a spy word and becomes what it is: a tool with a shape, a strength and an edge.
 
 In your mind's eye: why it matters — and its limits.
+
+[Picture 48102 — why it matters — and its limits]
 
 ## Say it to your companion
 
