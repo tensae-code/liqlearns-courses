@@ -14,6 +14,8 @@ Now look the other way, at what the other subjects **take from** ICS. Mathematic
 
 In your mind's eye: a wheel with ICS in the middle and the school subjects around it, with arrows pointing both ways.
 
+[Picture 48346 — a wheel with ICS in the middle and the school subjects around it, with arrows pointing both ways]
+
 So the relationship runs both ways. ICS borrows numbers, testing and words from the older subjects — and lends them a tool that calculates, stores, draws, records and shares. That is why the book teaches this lesson first, before any machine: when you know where ICS sits among your subjects, every lesson after it has somewhere to stand.
 
 ## Say it to your companion

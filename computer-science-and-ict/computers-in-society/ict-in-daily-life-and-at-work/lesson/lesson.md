@@ -10,11 +10,15 @@ The information society **performs its roles** through ICT placed inside life's 
 
 In your mind's eye: iCT in daily life and at work.
 
+[Picture 48354 — iCT in daily life and at work]
+
 ## Sub lesson 2 — The information-society citizen
 
 A society built on information asks **qualities** of its citizens beyond using devices: to **find** information and judge its truth, to **guard** their own and others' data, to **communicate** within the ethics of the network, and to **keep learning** as the tools change under them. Mongolia's measure is civic, not technical: the device skills are taught across the whole book, but this lesson names the citizen those skills are for — the roles are performed by institutions, and answered by people.
 
 In your mind's eye: the information-society citizen.
+
+[Picture 48355 — the information-society citizen]
 
 ## Say it to your companion
 

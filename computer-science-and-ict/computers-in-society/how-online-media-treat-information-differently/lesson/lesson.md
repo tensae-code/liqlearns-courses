@@ -10,11 +10,15 @@ Online media publish **at once** and **correct in place**: a story appears as a 
 
 In your mind's eye: speed, updating and the unfinished story.
 
+[Picture 48342 — speed, updating and the unfinished story]
+
 ## Sub lesson 2 — The reader steers — and is steered
 
 Online, the reader chooses paths through links and search — but the medium also chooses for the reader: rankings, recommendations and feeds order what is seen first, shaped by what the reader clicked before. Comments and shares make readers into distributors. The scenario's lesson is double vision: read the story, and read the machinery that brought this story, in this order, to you.
 
 In your mind's eye: the reader steers — and is steered.
+
+[Picture 48343 — the reader steers — and is steered]
 
 ## Say it to your companion
 

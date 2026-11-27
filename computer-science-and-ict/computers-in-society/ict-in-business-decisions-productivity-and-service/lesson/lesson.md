@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **ICT Application in Business** �
 
 In your mind's eye: iCT Application in Business.
 
+[Picture 48352 — iCT Application in Business]
+
 ## Sub lesson 2 — Doing it — ICT in Business Decisions Productivity and Service in practice
 
 **Doing it — ICT in Business Decisions Productivity and Service in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — ICT in Business Decisions Productivity and Service in practice.
+
+[Picture 48353 — doing it — ICT in Business Decisions Productivity and Service in practice]
 
 ## Say it to your companion
 

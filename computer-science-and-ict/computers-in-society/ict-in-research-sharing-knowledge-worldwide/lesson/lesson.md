@@ -10,11 +10,15 @@ Research begins with **data** — measurements and records too many for any note
 
 In your mind's eye: data and simulation — the laboratory inside the computer.
 
+[Picture 48358 — data and simulation — the laboratory inside the computer]
+
 ## Sub lesson 2 — E-journals and open records — the world's library open
 
 Research is shared, and ICT shares it at village speed: **e-journals** put new findings on every connected desk at once; shared databases let teams on different continents work on the same data; and **open patent databases** let an inventor check whether an idea is already claimed before spending a year on it. The researcher's skill grows with the flood: not finding *a* source, but judging which sources deserve trust — the verification skill this course teaches in its own lessons.
 
 In your mind's eye: e-journals and open records — the world's library open.
+
+[Picture 48359 — e-journals and open records — the world's library open]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Information in an organisation moves like water in a building — up, down and a
 
 In your mind's eye: up and down — the vertical flow.
 
+[Picture 48340 — up and down — the vertical flow]
+
 ## Sub lesson 2 — Across — the horizontal flow, and the informal channels
 
 Between functions at the same level runs the **horizontal** flow: production tells marketing what can be promised; accounting tells both what the numbers allow. Without it, each function would decide from its own picture alone. Beside the formal flows runs the **informal** one — talk, messages, what people hear — faster than every pipe and not always true, which Fiji does not dismiss: a wise manager knows the informal flow exists, listens to it, and never mistakes it for the record.
 
 In your mind's eye: across — the horizontal flow, and the informal channels.
+
+[Picture 48341 — across — the horizontal flow, and the informal channels]
 
 ## Say it to your companion
 

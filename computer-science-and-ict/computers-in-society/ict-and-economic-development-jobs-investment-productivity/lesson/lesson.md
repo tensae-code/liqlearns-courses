@@ -10,11 +10,15 @@ ICT grows economies first through **jobs**: whole occupations exist only because
 
 In your mind's eye: jobs and investment — work appears, capital follows.
 
+[Picture 48347 — jobs and investment — work appears, capital follows]
+
 ## Sub lesson 2 — Productivity and communication — more from the same day
 
 **Productivity** is output per worker, and ICT raises it everywhere at once: a farmer with a price before selling, a clerk whose files search themselves, a factory whose machines report their own faults. Underneath all of it is **communication** — cheaper and faster every year — shrinking the cost of every agreement, order and delivery. The book adds the **environment** to the ledger: paperless work and travel replaced by meetings save real resources, while the village's devices and data centres spend energy that must be counted honestly on the other side.
 
 In your mind's eye: productivity and communication — more from the same day.
+
+[Picture 48348 — productivity and communication — more from the same day]
 
 ## Say it to your companion
 

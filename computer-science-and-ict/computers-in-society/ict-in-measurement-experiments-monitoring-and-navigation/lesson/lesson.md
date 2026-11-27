@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **ICT Application in Measurement**
 
 In your mind's eye: iCT Application in Measurement.
 
+[Picture 48356 — iCT Application in Measurement]
+
 ## Sub lesson 2 — Doing it — ICT in Measurement Experiments Monitoring and Navigation in practice
 
 **Doing it — ICT in Measurement Experiments Monitoring and Navigation in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — ICT in Measurement Experiments Monitoring and Navigation in practice.
+
+[Picture 48357 — doing it — ICT in Measurement Experiments Monitoring and Navigation in practice]
 
 ## Say it to your companion
 
