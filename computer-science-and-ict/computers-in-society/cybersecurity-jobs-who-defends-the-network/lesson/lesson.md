@@ -10,11 +10,15 @@ Cyber security is worked by a **team of named jobs**: analysts who watch the net
 
 In your mind's eye: the defending jobs — a team, not a hero.
 
+[Picture 48273 — the defending jobs — a team, not a hero]
+
 ## Sub lesson 2 — The incident responder — the job when the alarm is real
 
 The **incident responder** is the job for the worst day: when an attack is real and running, the responder leads the answer — confirming what is happening, containing the damage, driving the attacker out, and restoring the systems, then writing what happened so it cannot happen the same way twice. The responder works under pressure with the whole organisation waiting, which is why the job asks for both technical depth and calm — the unit's ethics theme in human form.
 
 In your mind's eye: the incident responder — the job when the alarm is real.
+
+[Picture 48274 — the incident responder — the job when the alarm is real]
 
 ## Say it to your companion
 

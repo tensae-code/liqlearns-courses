@@ -10,11 +10,15 @@ Social media content is made, not spilled. Indonesia's Grade 12 book teaches cre
 
 In your mind's eye: the maker's forms — video, photo, writing.
 
+[Picture 48259 — the maker's forms — video, photo, writing]
+
 ## Sub lesson 2 — Copywriting — words that earn their place
 
 **Copywriting** is the writing that makes a post work: a first line that stops the thumb honestly, a body that gives the value it promised, and a close that tells the reader what to do next. Creative use, in the book's sense, is the opposite of noise: content made for a known audience, true to what it shows, and posted where its form belongs. The maker also owns the duties of the platform — credit for others' work, care with other people's images, and honesty about what is advertisement and what is not.
 
 In your mind's eye: copywriting — words that earn their place.
+
+[Picture 48260 — copywriting — words that earn their place]
 
 ## Say it to your companion
 

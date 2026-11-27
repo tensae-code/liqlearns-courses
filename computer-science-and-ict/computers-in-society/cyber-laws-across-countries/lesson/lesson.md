@@ -10,11 +10,15 @@ A **cyber law** is a country's law for acts done with computers and networks —
 
 In your mind's eye: each country, its own Acts.
 
+[Picture 48269 — each country, its own Acts]
+
 ## Sub lesson 2 — The same act, different judgements
 
 Because the laws differ, the **same online act** can be **lawful in one country and an offence in another** — and a network act often touches several countries at once (the writer in one, the server in a second, the reader in a third). Malaysia's lesson for the user is practical caution: find out **whose law** you stand under before acting, obey the **stricter** where laws conflict, and remember that 'everyone does it' and 'it was only online' are defences in no country's Act. The chapter closes the ethics strand of the course: law is ethics with a border and a penalty.
 
 In your mind's eye: the same act, different judgements.
+
+[Picture 48270 — the same act, different judgements]
 
 ## Say it to your companion
 

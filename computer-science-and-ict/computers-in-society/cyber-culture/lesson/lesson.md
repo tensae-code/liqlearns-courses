@@ -10,11 +10,15 @@ Every place grows a culture — ways people speak, greet, joke and offend. The i
 
 In your mind's eye: the customs of online life.
 
+[Picture 48267 — the customs of online life]
+
 ## Sub lesson 2 — What the culture does to people
 
 Cyber culture **changes the people in it**. It widens the world — a pupil in Fiji talks daily with people their grandparents could never have reached — and it thins some things: talk without faces loses patience and care, and the crowd's habits can pull a person's manners toward the loudest voices. Fiji's Year 12 reader is asked to see both: to join the culture **knowingly** — using its reach, keeping their own standards — rather than being quietly reshaped by it.
 
 In your mind's eye: what the culture does to people.
+
+[Picture 48268 — what the culture does to people]
 
 ## Say it to your companion
 

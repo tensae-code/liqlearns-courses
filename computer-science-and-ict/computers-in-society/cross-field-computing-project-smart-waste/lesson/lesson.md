@@ -10,11 +10,15 @@ A **cross-field project** (praktik lintas bidang) takes a problem that belongs t
 
 In your mind's eye: one project, many fields — the waste theme.
 
+[Picture 48263 — one project, many fields — the waste theme]
+
 ## Sub lesson 2 — Working as a group — journal, report, presentation, assessment
 
 The project is run the way real projects are: a **group journal** records the work as it happens — decisions, faults, fixes — a **report** presents the finished system and what it does, a **presentation** shows it to others, and **peer assessment** lets the group judge its own members' contributions. The journal is the project's memory: without it the report is written from forgetting. The lesson the project teaches beyond any device is that a computing system is finished only when other people can understand it, use it, and judge whether it works.
 
 In your mind's eye: working as a group — journal, report, presentation, assessment.
+
+[Picture 48264 — working as a group — journal, report, presentation, assessment]
 
 ## Say it to your companion
 

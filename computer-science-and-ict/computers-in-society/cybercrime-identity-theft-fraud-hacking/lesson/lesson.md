@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Cybercrime Identity Theft Fraud 
 
 In your mind's eye: cybercrime Identity Theft Fraud Hacking.
 
+[Picture 48271 — cybercrime Identity Theft Fraud Hacking]
+
 ## Sub lesson 2 — Doing it — Cybercrime Identity Theft Fraud Hacking in practice
 
 **Doing it — Cybercrime Identity Theft Fraud Hacking in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Cybercrime Identity Theft Fraud Hacking in practice.
+
+[Picture 48272 — doing it — Cybercrime Identity Theft Fraud Hacking in practice]
 
 ## Say it to your companion
 

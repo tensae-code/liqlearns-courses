@@ -10,11 +10,15 @@ Copyright was built for **human creators**, so AI-made works strain its first qu
 
 In your mind's eye: who owns what an AI makes?.
 
+[Picture 48253 — who owns what an AI makes?]
+
 ## Sub lesson 2 — Training on others' works — the input side
 
 The second question faces the other way: AI systems are **trained on enormous collections of existing works** — the protected pictures and texts of millions of creators, taken without asking each. Is training **fair use** (learning, as a student learns by looking) or **copying at scale** (the works were taken, and their makers unconsented and unpaid)? The section closes the unit's arc with the citizen's equipment: meet an AI work and ask **both** questions — whose is the output, and what was taken for the input — because digital citizenship in an AI age is exactly the habit of asking them.
 
 In your mind's eye: training on others' works — the input side.
+
+[Picture 48254 — training on others' works — the input side]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Through ICT, **cultural exchange** runs constantly: music, film, food, dress, fe
 
 In your mind's eye: exchange — cultures meeting and borrowing.
 
+[Picture 48265 — exchange — cultures meeting and borrowing]
+
 ## Sub lesson 2 — Protecting your own — staying yourself while open
 
 The book names the risk plainly: when foreign content floods in and local content is scarce, young people can come to know another culture better than their own — its songs by heart, their own grandmother's songs forgotten. **Protecting a culture** is not closing the gate; it is filling your own stall: making, uploading and celebrating your own language, music, stories and crafts so the exchange runs both ways. A culture survives online the way it survived everywhere — by being practised, recorded and passed on.
 
 In your mind's eye: protecting your own — staying yourself while open.
+
+[Picture 48266 — protecting your own — staying yourself while open]
 
 ## Say it to your companion
 

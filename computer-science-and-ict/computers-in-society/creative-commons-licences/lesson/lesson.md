@@ -10,11 +10,15 @@ A **Creative Commons (CC) licence** is a standard permission a creator attaches 
 
 In your mind's eye: the licences — permission granted in advance.
 
+[Picture 48261 — the licences — permission granted in advance]
+
 ## Sub lesson 2 — Using CC work — credit and obey the terms
 
 To use a CC work lawfully, the user **reads its licence, follows its conditions, and gives the credit it asks** — the maker's name and the licence named with the work. CC is how the internet's honest sharing works: Bhutan's pupils, who learn citation and copyright in the same unit, meet CC as the bridge — work shared on purpose, used with gratitude, never mistaken for ownerless.
 
 In your mind's eye: using CC work — credit and obey the terms.
+
+[Picture 48262 — using CC work — credit and obey the terms]
 
 ## Say it to your companion
 
