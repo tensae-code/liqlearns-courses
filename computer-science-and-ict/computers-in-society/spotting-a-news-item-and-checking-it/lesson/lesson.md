@@ -10,11 +10,15 @@ A **news item (une information d'actualité)** reports something that happened, 
 
 In your mind's eye: what makes a thing news.
 
+[Picture 48532 — what makes a thing news]
+
 ## Sub lesson 2 — The first checks
 
 A spotted news item gets first checks, fast: Is the source a real newsroom or a copy of one? Is there a date — and is it today's story or an old one recirculating? Do other sources report the same event, in their own words? Does the headline promise more than the text delivers? An item that passes is worth reading closely; one that fails has told you what it is.
 
 In your mind's eye: the first checks.
+
+[Picture 48533 — the first checks]
 
 ## Say it to your companion
 

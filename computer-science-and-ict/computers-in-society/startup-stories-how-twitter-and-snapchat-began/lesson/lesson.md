@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Twitter and §6.9.2 Snapchat** �
 
 In your mind's eye: twitter and §6.9.2 Snapchat.
 
+[Picture 48534 — twitter and §6.9.2 Snapchat]
+
 ## Sub lesson 2 — Doing it — Startup Stories How Twitter and Snapchat Began in practice
 
 **Doing it — Startup Stories How Twitter and Snapchat Began in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Startup Stories How Twitter and Snapchat Began in practice.
+
+[Picture 48535 — doing it — Startup Stories How Twitter and Snapchat Began in practice]
 
 ## Say it to your companion
 

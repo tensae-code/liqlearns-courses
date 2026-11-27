@@ -10,11 +10,15 @@ An **app** — an application — is a program made for one kind of job, carried
 
 In your mind's eye: what a smartphone app is.
 
+[Picture 48524 — what a smartphone app is]
+
 ## Sub lesson 2 — Apps in daily life
 
 The book walks the day through apps: apps for **talking and messaging** family, for **learning** and reading, for **banking and paying**, for **maps and travel**, for photographs, music and play. Each app does one institution's or one tool's work in the pocket — the bank branch, the map, the library and the post office all shrunk into programs on one device. Naming the app behind each job of the day is the lesson's habit: behind every tap there is a program somebody wrote.
 
 In your mind's eye: apps in daily life.
+
+[Picture 48525 — apps in daily life]
 
 ## Say it to your companion
 

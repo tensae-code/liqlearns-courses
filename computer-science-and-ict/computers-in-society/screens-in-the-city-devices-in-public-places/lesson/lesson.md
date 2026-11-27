@@ -10,11 +10,15 @@ A city runs on public screens: departure and arrival boards, ticket and parking 
 
 In your mind's eye: the city's screens.
 
+[Picture 48516 — the city's screens]
+
 ## Sub lesson 2 — Using a public device well
 
 Using a city device well is a small craft: read the whole screen before touching; choose deliberately (the mouse or finger selects — a choice made is an action done); shield private entries like codes from other eyes; take your ticket, card and change; and leave the device ready for the next person. The same care the course teaches for classroom machines applies doubled in public, where the machine serves a queue.
 
 In your mind's eye: using a public device well.
+
+[Picture 48517 — using a public device well]
 
 ## Say it to your companion
 

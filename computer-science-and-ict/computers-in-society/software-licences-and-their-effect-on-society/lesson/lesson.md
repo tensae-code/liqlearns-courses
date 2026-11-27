@@ -10,11 +10,15 @@ A **software licence** is the maker's permission, written in advance: who may us
 
 In your mind's eye: the licence — permission that shapes use.
 
+[Picture 48528 — the licence — permission that shapes use]
+
 ## Sub lesson 2 — The effects — learning, building, dependence and price
 
 Licence terms ripple outward. **Learning**: open code is a library anyone may study; closed code teaches use without understanding. **Building**: open licences let small makers stand on giants' code; strict terms can lock a country's schools and offices into one vendor's prices and formats (**dependence**). **Price and access**: free licences put real tools in poor schools; per-seat pricing can fence them out. Armenia's Grade 11 guide even sets the question as a project: the impact of software licences on technological development — evidence that the choice of licence is a choice about a society's future, made one program at a time.
 
 In your mind's eye: the effects — learning, building, dependence and price.
+
+[Picture 48529 — the effects — learning, building, dependence and price]
 
 ## Say it to your companion
 

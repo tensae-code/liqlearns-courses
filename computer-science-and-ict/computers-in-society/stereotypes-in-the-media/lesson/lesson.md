@@ -10,11 +10,15 @@ A **stereotype** is a ready-made picture of a group: “all X are like this” �
 
 In your mind's eye: stereotype and prejudice — telling them apart.
 
+[Picture 48536 — stereotype and prejudice — telling them apart]
+
 ## Sub lesson 2 — Gender stereotypes in the media
 
 Media repeat stereotypes because they are shortcuts: the advertisement's mother always cooking, the game's hero always a boy, the news expert always a man. **Gender stereotypes** in media quietly teach who may do what — until a viewer starts counting. The scenario's craft is counting: watch, tally who does what, and the pattern that felt like “just how things are” becomes a choice someone made — and choices can be made differently.
 
 In your mind's eye: gender stereotypes in the media.
+
+[Picture 48537 — gender stereotypes in the media]
 
 ## Say it to your companion
 

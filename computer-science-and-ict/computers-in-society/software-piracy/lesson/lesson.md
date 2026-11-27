@@ -10,11 +10,15 @@ A program is work, and work is owned. Class VIII names the theft of it plainly: 
 
 In your mind's eye: what piracy is — using software without its licence.
 
+[Picture 48530 — what piracy is — using software without its licence]
+
 ## Sub lesson 2 — Why it is wrong — the maker's right and the law
 
 Software is protected by **copyright**: its maker holds the right to be paid for copies, and the **law** treats pirated software as stolen property. Bhutan's unit places piracy between copyright and Creative Commons for a reason: the honest roads stand on both sides of it — pay for the licence, use free software, or use work shared under an open licence. Piracy is choosing none of them.
 
 In your mind's eye: why it is wrong — the maker's right and the law.
+
+[Picture 48531 — why it is wrong — the maker's right and the law]
 
 ## Say it to your companion
 

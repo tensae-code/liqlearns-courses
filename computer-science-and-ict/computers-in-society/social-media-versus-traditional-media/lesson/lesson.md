@@ -10,11 +10,15 @@ Social media and traditional media — newspapers, radio, television — differ 
 
 In your mind's eye: social media and traditional media.
 
+[Picture 48526 — social media and traditional media]
+
 ## Sub lesson 2 — Doing it — Social media and traditional media in practice
 
 Social Media versus Traditional Media is learned by doing: the learner compares the two on the book's points — the speaker, the audience, the speed, the cost, the answer-back — and judges real examples against them The learner compares the two on the book's points — the speaker, the audience, the speed, the cost, the answer-back — and judges real examples against them Because learners live in both media worlds at once, and the difference explains both the power and the dangers of the newer one.
 
 In your mind's eye: doing it — Social media and traditional media in practice.
+
+[Picture 48527 — doing it — Social media and traditional media in practice]
 
 ## Say it to your companion
 
