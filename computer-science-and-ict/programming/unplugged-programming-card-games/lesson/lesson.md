@@ -10,11 +10,15 @@ Unplugged programming card games — learning programming away from the computer
 
 In your mind's eye: programming without a computer — the unplugged idea.
 
+[Picture 47942 — programming without a computer — the unplugged idea]
+
 ## Sub lesson 2 — What the game teaches — exactness you can feel
 
 The game makes programming's first truths physical. A command that can be read two ways **will** be — by your friend's honest literalness, in front of everyone, to laughter that teaches faster than a red error message. A missing step cannot be patched by intention. And a program that works is a small triumph the whole table can see. The book places the game inside its first programming chapter, beside Scratch, on purpose: the pupil who has *been* the computer — executing, faulting, being debugged by friends — meets the real machine already knowing what it will ask of them.
 
 In your mind's eye: what the game teaches — exactness you can feel.
+
+[Picture 47943 — what the game teaches — exactness you can feel]
 
 ## Say it to your companion
 

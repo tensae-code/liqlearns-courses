@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Understanding a Problem** — co
 
 In your mind's eye: understanding a Problem.
 
+[Picture 47938 — understanding a Problem]
+
 ## Sub lesson 2 — Doing it — Understanding a Problem the Five Ws in practice
 
 **Doing it — Understanding a Problem the Five Ws in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Understanding a Problem the Five Ws in practice.
+
+[Picture 47939 — doing it — Understanding a Problem the Five Ws in practice]
 
 ## Say it to your companion
 

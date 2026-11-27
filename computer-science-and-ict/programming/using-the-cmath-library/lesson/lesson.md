@@ -10,11 +10,15 @@ Library functions arrive through a **header**: `#include <cmath>` at the top mak
 
 In your mind's eye: including and calling.
 
+[Picture 47950 — including and calling]
+
 ## Sub lesson 2 — The working set
 
 The book's working set: **sqrt(x)** square root; **pow(x, y)** x raised to the power y; **abs / fabs** absolute value; **floor** and **ceil** rounding down and up; **round** to nearest; and the trigonometric family (sin, cos, tan — in **radians**). Using the library instead of hand-writing these is the modular habit applied: tested once by the library's makers, reused by everyone.
 
 In your mind's eye: the working set.
+
+[Picture 47951 — the working set]
 
 ## Say it to your companion
 

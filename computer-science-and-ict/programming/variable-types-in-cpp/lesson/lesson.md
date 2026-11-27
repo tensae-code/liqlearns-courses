@@ -10,11 +10,15 @@ A variable is not just a name — it is a name with a kind. This lesson is about
 
 In your mind's eye: the four starter types.
 
+[Picture 47954 — the four starter types]
+
 ## Sub lesson 2 — Type decides behaviour
 
 The type steers the operations: int division **drops fractions**, double division keeps them; adding to a char moves its **code** ('A' + 1 is 'B'); a bool is what conditions test. Giving a value to the wrong type converts or refuses it — 3.9 poured into an int becomes **3** — so choosing the type is the first design decision for every value in the program.
 
 In your mind's eye: type decides behaviour.
+
+[Picture 47955 — type decides behaviour]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **standard library** is the collection of **ready-made** functions and objects
 
 In your mind's eye: the library — the language's ready-made shelves.
 
+[Picture 47946 — the library — the language's ready-made shelves]
+
 ## Sub lesson 2 — Calling the library — trust, but verify the label
 
 Using the library is a **call**: name the member, hand it its values, take its return — let root = Math.sqrt(81); gives 9 without one line of root-finding written. Malaysia's disciplines of use are two: call the library **instead of hand-writing** what it already does correctly (a hand-written random or date routine is a fault waiting), and **check the label** before calling — Math.floor(3.9) gives 3, not 4, because floor promises the whole number **below**; most library 'faults' are labels misread. The standard library is the language's gift of other programmers' tested work; using it well is a form of reading.
 
 In your mind's eye: calling the library — trust, but verify the label.
+
+[Picture 47947 — calling the library — trust, but verify the label]
 
 ## Say it to your companion
 

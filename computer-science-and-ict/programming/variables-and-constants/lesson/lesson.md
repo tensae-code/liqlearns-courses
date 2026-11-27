@@ -10,11 +10,15 @@ A **variable** is a named store whose value **can change** while the program run
 
 In your mind's eye: variables — values that change.
 
+[Picture 47956 — variables — values that change]
+
 ## Sub lesson 2 — Constants — values that are fixed
 
 A **constant** (pemalar) is a named store whose value is **fixed when it is set and must not change** during the run: pi, the passing mark, the number of days in a week. Languages guard them differently — Python uses the capital-name convention (PI = 3.14159, a promise by the programmer), Java uses the keyword **final** (final int PASS_MARK = 50;), which the compiler enforces. Constants exist so fixed values have **one home**: change the rule once, in one place, and every use follows; a constant that could change silently would be a variable wearing a false name.
 
 In your mind's eye: constants — values that are fixed.
+
+[Picture 47957 — constants — values that are fixed]
 
 ## Say it to your companion
 

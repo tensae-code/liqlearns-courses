@@ -10,11 +10,15 @@ The variable blocks are five in Grade 9’s count: **create** a named variable, 
 
 In your mind's eye: creating, setting, changing — and asking the user.
 
+[Picture 47958 — creating, setting, changing — and asking the user]
+
 ## Sub lesson 2 — Variables at work — the fruit shop’s arithmetic
 
 Grade 9’s fruit seller runs its shop on variables: **a variable for each price per kilo and each quantity**, totals **multiplied out and added into one grand total**. The discipline is in the names: variables are given **meaningful names**, so the program can be read like the shop’s own notebook. Seller and buyer sprites greet each other by broadcast while the arithmetic runs.
 
 In your mind's eye: variables at work — the fruit shop’s arithmetic.
+
+[Picture 47959 — variables at work — the fruit shop’s arithmetic]
 
 ## Say it to your companion
 

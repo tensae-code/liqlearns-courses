@@ -10,11 +10,15 @@ A variable **assigned inside a function** is **local** to it: born when the func
 
 In your mind's eye: local scope. Names born inside a function.
 
+[Picture 47952 — local scope. Names born inside a function]
+
 ## Sub lesson 2 — Global scope — and reaching it honestly
 
 Names assigned at the program's top level are **global**: visible everywhere, writable from inside a function only by declaring **`global`** — a declaration Jordan's book teaches with its warning attached: globals make programs hard to follow, because any function may change what every function sees. The craft's preference is scope's whole point: pass values **in** as parameters and **out** as returns, keep names as local as the job allows, and let the walls do their work — scope is not a nuisance but the function's privacy, and the program's sanity.
 
 In your mind's eye: global scope — and reaching it honestly.
+
+[Picture 47953 — global scope — and reaching it honestly]
 
 ## Say it to your companion
 
