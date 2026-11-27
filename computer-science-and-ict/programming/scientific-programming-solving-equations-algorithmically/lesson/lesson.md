@@ -10,11 +10,15 @@ To solve an equation **algorithmically** is to write **exact, repeatable steps**
 
 In your mind's eye: solving by algorithm — steps a machine can repeat.
 
+[Picture 47611 — solving by algorithm — steps a machine can repeat]
+
 ## Sub lesson 2 — Iteration and approximation — answers good enough, proved
 
 Not every equation surrenders to a formula: the unit's second craft is **iteration** — start from a **guess**, improve it by a rule, and stop when the improvement is **smaller than the tolerance the job sets**, so the answer is an **approximation with a known honesty**, not a pretended exactness. Scientific programming is named for this union: mathematics supplies the methods, programming supplies the tireless repetition, and the learner supplies the judgement of when 'close enough, proved' beats 'exact, never'.
 
 In your mind's eye: iteration and approximation — answers good enough, proved.
+
+[Picture 47612 — iteration and approximation — answers good enough, proved]
 
 ## Say it to your companion
 

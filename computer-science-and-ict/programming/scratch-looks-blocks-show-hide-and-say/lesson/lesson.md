@@ -10,11 +10,15 @@ The **say** block puts the words written in it into a **speech bubble** over the
 
 In your mind's eye: say and think — the sprite speaks.
 
+[Picture 47625 — say and think — the sprite speaks]
+
 ## Sub lesson 2 — Show, hide and change the look
 
 **Show** puts the sprite on the stage; **hide** takes it off — still in the project, with its scripts, only unseen, waiting for its entrance. The look itself changes too: **switch costume** gives the sprite another of its looks, **switch backdrop** changes the stage behind it, and **change size** grows or shrinks it. Cuba's Grade 5 guide lists the full family in one line — decir, pensar, mostrar, esconder, disfraz, fondo, tamaño: say, think, show, hide, costume, backdrop, size.
 
 In your mind's eye: show, hide and change the look.
+
+[Picture 47626 — show, hide and change the look]
 
 ## Say it to your companion
 

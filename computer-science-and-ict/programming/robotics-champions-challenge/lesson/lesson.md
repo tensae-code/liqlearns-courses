@@ -10,11 +10,15 @@ The **Champions Challenge** is the unit's **final free-space project**: a set ar
 
 In your mind's eye: what a Champions Challenge is.
 
+[Picture 47608 — what a Champions Challenge is]
+
 ## Sub lesson 2 — The four arenas — Grades 6 to 9
 
 Grade 6 closes in free space: a robot project using the whole virtual-robot unit. Grade 7's challenge is a **maze**, run on the Ultrasonic sensor with a barrier variable. Grade 8's is **line-following** — a program that follows the white path. Grade 9's is the **Sumo Battle Arena**, a wrestling robot fighting with its Colour and Ultrasonic sensors. The arenas grow as the sensors grow: each year's Challenge is passable only with that year's new senses — the series' way of making revision unavoidable and victory honest.
 
 In your mind's eye: the four arenas — Grades 6 to 9.
+
+[Picture 47609 — the four arenas — Grades 6 to 9]
 
 ## Say it to your companion
 

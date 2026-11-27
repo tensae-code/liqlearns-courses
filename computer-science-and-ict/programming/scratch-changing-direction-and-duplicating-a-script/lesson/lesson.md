@@ -10,11 +10,15 @@ A sprite moves **the way it faces**, so direction is set before movement: the **
 
 In your mind's eye: changing direction — facing where the next move goes.
 
+[Picture 47619 — changing direction — facing where the next move goes]
+
 ## Sub lesson 2 — Duplicating a script — copy the whole stack
 
 **Duplicating** copies a whole script at once — the stack and every block in it — so it can be placed again, on this sprite or another, and then adjusted. It is the maker's answer to building the same behaviour twice: build once, duplicate, change what differs. The discipline travels with the shortcut: a duplicated script duplicates its mistakes too, so the original is tested before it is copied.
 
 In your mind's eye: duplicating a script — copy the whole stack.
+
+[Picture 47620 — duplicating a script — copy the whole stack]
 
 ## Say it to your companion
 

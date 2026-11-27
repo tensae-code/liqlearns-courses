@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, the block category tables** �
 
 In your mind's eye: , the block category tables.
 
+[Picture 47615 — , the block category tables]
+
 ## Sub lesson 2 — Doing it — Scratch Block Categories Block by Block in practice
 
 **Doing it — Scratch Block Categories Block by Block in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Scratch Block Categories Block by Block in practice.
+
+[Picture 47616 — doing it — Scratch Block Categories Block by Block in practice]
 
 ## Say it to your companion
 

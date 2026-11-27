@@ -10,11 +10,15 @@ An **extension** adds a new family of blocks to Scratch for a special power. The
 
 In your mind's eye: extensions — and Text to Speech.
 
+[Picture 47613 — extensions — and Text to Speech]
+
 ## Sub lesson 2 — Translate — and the finishing skills
 
 The **Translate** extension turns text from one **language** into another inside the program — a sprite that greets in Arabic and answers in English is translating as it runs. Around these powers stand the unit's finishing skills: **joining the Scratch platform** — the pupil's own account on the Scratch site, where projects live and are shared — and **packaging a project as an executable**, a file that runs outside Scratch, as a finished product is handed over.
 
 In your mind's eye: translate — and the finishing skills.
+
+[Picture 47614 — translate — and the finishing skills]
 
 ## Say it to your companion
 

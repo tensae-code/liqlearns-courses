@@ -10,6 +10,8 @@ A sprite that only moves is half a character. The book now gives it a voice and 
 
 In your mind's eye: a picture of two Scratch sprites. One with a speech bubble saying a typed sentence, one with a cloud thought bubble, and the say and think blocks beside them.
 
+[Picture 47610 — a picture of two Scratch sprites. One with a speech bubble saying a typed sentence, one with a cloud thought bubble, and the say and think blocks beside them]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Say blocks give a sprite words in a speech bubble, think blocks give it silent thoughts, and typed text goes inside the block: the hero speaks, thinks, and takes in text you type. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

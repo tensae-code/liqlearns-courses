@@ -10,11 +10,15 @@ A **digital story** in Scratch is told as **scenes**: backdrops that change plac
 
 In your mind's eye: digital storytelling — scenes on the Stage.
 
+[Picture 47621 — digital storytelling — scenes on the Stage]
+
 ## Sub lesson 2 — Designing a chatbot — a sprite that answers
 
 A **chatbot** in Scratch is a sprite that **asks, listens and answers by rule**: it uses **ask-and-wait** for the visitor's words, **sensing** of the answer, and **selection** to answer differently by what was said — greeting by name, answering the questions it knows, and replying honestly to the ones it does not. Designing it is the unit's small lesson in all conversational machines: the bot knows only the answers its maker wrote, which is why its honesty about the rest must also be written by its maker.
 
 In your mind's eye: designing a chatbot — a sprite that answers.
+
+[Picture 47622 — designing a chatbot — a sprite that answers]
 
 ## Say it to your companion
 

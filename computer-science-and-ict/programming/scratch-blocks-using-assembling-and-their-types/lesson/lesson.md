@@ -10,11 +10,15 @@ Blocks are **dragged** from the palette to the script area and **assembled** by 
 
 In your mind's eye: using and assembling blocks.
 
+[Picture 47617 — using and assembling blocks]
+
 ## Sub lesson 2 — The types of blocks
 
 Blocks sort by shape and job: **event (hat) blocks** start scripts; **command (stack) blocks** do acts; **reporter blocks** (rounded) hand back values and fit inside others; **boolean reporters** (pointed) answer true/false for conditions; **C blocks** wrap other blocks inside them (loops and conditions — the wrap is the meaning); and **cap blocks** end a script. Jordan's types lesson is the Scratch unit's grammar chapter: a pupil who can name a block's type can predict a strange script's reading before running it — the beginning of reading code, in any language.
 
 In your mind's eye: the types of blocks.
+
+[Picture 47618 — the types of blocks]
 
 ## Say it to your companion
 

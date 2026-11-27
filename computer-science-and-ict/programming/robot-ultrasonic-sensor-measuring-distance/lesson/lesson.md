@@ -10,11 +10,15 @@ The **Ultrasonic sensor** sends out a pulse of sound too high to hear and **time
 
 In your mind's eye: sound and time — the echo that measures.
 
+[Picture 47606 — sound and time — the echo that measures]
+
 ## Sub lesson 2 — A tour of Kuwait's landmarks, by distance
 
 The book spends the new sense on home ground: a **robot tour of Kuwait landmarks** — the virtual robot travelling between the country's famous places in the simulation, its distances to each landmark's walls and gates measured ultrasonically as it goes. The lesson's pattern is the series' pattern: a real physical principle (echo timing), a sensor that embodies it, and a mission set in Kuwait itself.
 
 In your mind's eye: a tour of Kuwait's landmarks, by distance.
+
+[Picture 47607 — a tour of Kuwait's landmarks, by distance]
 
 ## Say it to your companion
 
