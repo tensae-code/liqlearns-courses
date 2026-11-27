@@ -10,11 +10,15 @@ A learning system is built from its **training data**: it finds the patterns the
 
 In your mind's eye: bias comes from the data.
 
+[Picture 48630 — bias comes from the data]
+
 ## Sub lesson 2 — Correlation is not causation
 
 The introductions pair bias with its twin trap: **correlation is not causation (corrélation n'est pas causalité)**. A system may learn that two things rise together and treat one as the other's cause — ice-cream sales and drowning both rise in summer, caused by a third thing neither system nor child should miss: the heat. A correlation is a hint to investigate, never a proof; acting on it as a cause builds unfair and foolish systems.
 
 In your mind's eye: correlation is not causation.
+
+[Picture 48631 — correlation is not causation]
 
 ## Say it to your companion
 

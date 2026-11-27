@@ -10,11 +10,15 @@ Imagine searching a dark library with no catalogue, by a fixed walking rule. Tha
 
 In your mind's eye: what blind search is.
 
+[Picture 48636 — what blind search is]
+
 ## Sub lesson 2 — Costs and uses — when blindness is honest
 
 Breadth-first guarantees the **shallowest** goal but must **remember the whole frontier** — its space cost explodes. Depth-first remembers only its path — cheap in space, but it may dive past the goal's level forever on an infinite branch. Jordan teaches blind search first because it is the baseline every smarter strategy must beat, and because some problems genuinely offer no guidance to be smart with.
 
 In your mind's eye: costs and uses — when blindness is honest.
+
+[Picture 48637 — costs and uses — when blindness is honest]
 
 ## Say it to your companion
 

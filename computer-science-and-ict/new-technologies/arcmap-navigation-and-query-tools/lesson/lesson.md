@@ -10,11 +10,15 @@ The **navigation tools** move the view without moving the data: **zoom in and ou
 
 In your mind's eye: navigation tools — moving on the map.
 
+[Picture 48640 — navigation tools — moving on the map]
+
 ## Sub lesson 2 — Query tools — asking the map questions
 
 A **query** picks features by rule. **Select by attribute** uses the attribute table — Rwanda's S3 practical asks which parcels of Cyiri Cell belong to Birambo Village. **Select by location** uses place — features inside, touching or within a distance of another feature. A **buffer** draws a zone at a set distance around a feature, and **overlay** tools combine layers — **union** keeps everything, **intersect** keeps only what overlaps. The finished work is presented as a **map layout**: legend, north arrow (orientation), scale, title and text, set up on the page and printed or exported.
 
 In your mind's eye: query tools — asking the map questions.
+
+[Picture 48641 — query tools — asking the map questions]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The EPAL technology chapter pairs the two directions of the 3D road: a printer t
 
 In your mind's eye: 3D printing — a thing built in layers.
 
+[Picture 48624 — 3D printing — a thing built in layers]
+
 ## Sub lesson 2 — 3D scanning — a thing read into a model
 
 **3D scanning** runs the road backwards: the scanner **measures a real object's surface** — sweeping light or lasers over it, or photographing it from many angles — and builds the **digital model** of its shape, which can then be **studied, corrected, shared — and printed**, closing the chapter's loop (scan the broken part, repair the model, print the replacement). Scanning's care is its surfaces: shiny, dark and hollow places read badly, and the model's honesty must be checked against the thing itself before the loop is trusted.
 
 In your mind's eye: 3D scanning — a thing read into a model.
+
+[Picture 48625 — 3D scanning — a thing read into a model]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **3D printer** builds an object **layer by layer**: it reads the design as a s
 
 In your mind's eye: how 3D printing works — building in layers.
 
+[Picture 48626 — how 3D printing works — building in layers]
+
 ## Sub lesson 2 — Exporting in a printable format
 
 Between Blender and the printer stands the **export**: the design saved in a **printable format** — the exchange format printers and their slicing programs read (the file-formats lesson's third destination, after keeping and sharing). Exporting is the designer's final check: the model whole and packed, its size confirmed, its shape one the printer can build — overhangs and floating parts judged before material is spent, not after.
 
 In your mind's eye: exporting in a printable format.
+
+[Picture 48627 — exporting in a printable format]
 
 ## Say it to your companion
 

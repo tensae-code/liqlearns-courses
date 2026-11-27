@@ -10,11 +10,15 @@ Last lesson drew the tree. This one walks it — and asks first how the problem 
 
 In your mind's eye: representation — the problem in the machine's language.
 
+[Picture 48634 — representation — the problem in the machine's language]
+
 ## Sub lesson 2 — Search algorithms — strategies for walking
 
 A **search algorithm** is a strategy for exploring the tree: which node to expand next, what to remember, when to stop. Algorithms are judged by four measures the book names: **completeness** (does it find a solution if one exists?), **optimality** (is the found solution the best?), **time** and **space** (what do they cost?). The next lessons meet the families — blind search, which walks without guidance, and heuristic search, which walks toward a guess of the goal.
 
 In your mind's eye: search algorithms — strategies for walking.
+
+[Picture 48635 — search algorithms — strategies for walking]
 
 ## Say it to your companion
 

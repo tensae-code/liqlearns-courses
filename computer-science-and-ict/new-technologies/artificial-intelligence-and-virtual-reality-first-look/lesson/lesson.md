@@ -10,11 +10,15 @@ Two names end Fiji's Year 11 advanced applications — the two that point past t
 
 In your mind's eye: artificial intelligence — machines that imitate understanding.
 
+[Picture 48642 — artificial intelligence — machines that imitate understanding]
+
 ## Sub lesson 2 — Virtual reality — a world made of software
 
 **Virtual reality (VR)** is a **computer-made world** a person steps into — usually through a headset that fills the eyes and ears — and can **look around and act in**, as if it were a place. Its school uses are practice without danger: flying a plane that cannot crash, walking a building not yet built, visiting a reef from a classroom in Suva. Fiji pairs AI and VR as the advanced horizon of Year 11 for one reason: both stretch what 'application software' means — one stretches what the program can *do*, the other stretches where the user can *be*.
 
 In your mind's eye: virtual reality — a world made of software.
+
+[Picture 48643 — virtual reality — a world made of software]
 
 ## Say it to your companion
 

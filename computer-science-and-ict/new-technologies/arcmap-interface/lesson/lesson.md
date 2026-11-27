@@ -10,11 +10,15 @@ The **ArcMap window** divides into named parts. The **map display** in the centr
 
 In your mind's eye: the parts of the ArcMap window.
 
+[Picture 48638 — the parts of the ArcMap window]
+
 ## Sub lesson 2 — Table of contents — the map's control list
 
 The **table of contents** is more than a list: the **top layer draws last and sits on top**, so order is meaning — labels and towns above the land they name. Dragging a layer changes the drawing order; the tick box **switches a layer without removing it**; clicking a layer's name **selects** it so tools act on it. Rwanda's S1 walkthrough starts here because a learner who controls the table of contents controls the map.
 
 In your mind's eye: table of contents — the map's control list.
+
+[Picture 48639 — table of contents — the map's control list]
 
 ## Say it to your companion
 

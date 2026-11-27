@@ -10,11 +10,15 @@ Every search so far had a passive world. In a game, the world moves back — and
 
 In your mind's eye: adversarial search — two wills in one tree.
 
+[Picture 48628 — adversarial search — two wills in one tree]
+
 ## Sub lesson 2 — Minimax — assuming the worst, playing the best
 
 The **minimax algorithm** values a position by supposing both play perfectly: at MAX's nodes take the **maximum** of the children's values, at MIN's nodes the **minimum**, working up from the leaves — and MAX then chooses the move whose minimax value is highest. Jordan's Grade 12 lesson programs it in Python for tic-tac-toe (the next programming lesson): a game small enough to search whole, teaching the shape every game AI — chess engines included — still stands on, pruned and heuristically trimmed.
 
 In your mind's eye: minimax — assuming the worst, playing the best.
+
+[Picture 48629 — minimax — assuming the worst, playing the best]
 
 ## Say it to your companion
 

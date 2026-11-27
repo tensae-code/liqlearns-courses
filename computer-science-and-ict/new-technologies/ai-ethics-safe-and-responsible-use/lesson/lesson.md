@@ -10,11 +10,15 @@ Kuwait's AI unit teaches powers first — learning, generating, seeing — and e
 
 In your mind's eye: safe use — do no harm with a powerful tool.
 
+[Picture 48632 — safe use — do no harm with a powerful tool]
+
 ## Sub lesson 2 — Responsible use — honesty, credit and other people's rights
 
 **Responsible** use adds the duties: **honesty** — work helped by AI is declared as helped, not presented as unaided; **credit and rights** — AI's outputs may carry other people's material and ideas, which are not made yours by being generated; **privacy** — real people's data is not fed to a system without right. And beneath them all, the unit's framing principle: the human who uses the tool **answers for what it does** — 'the AI did it' is not an excuse any of Kuwait's principles accepts.
 
 In your mind's eye: responsible use — honesty, credit and other people's rights.
+
+[Picture 48633 — responsible use — honesty, credit and other people's rights]
 
 ## Say it to your companion
 

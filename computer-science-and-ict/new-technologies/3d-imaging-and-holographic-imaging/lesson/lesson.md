@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **3D Imaging and §1.9 Holographic
 
 In your mind's eye: 3D Imaging and §1.9 Holographic imaging.
 
+[Picture 48622 — 3D Imaging and §1.9 Holographic imaging]
+
 ## Sub lesson 2 — Doing it — 3D Imaging and Holographic Imaging in practice
 
 **Doing it — 3D Imaging and Holographic Imaging in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — 3D Imaging and Holographic Imaging in practice.
+
+[Picture 48623 — doing it — 3D Imaging and Holographic Imaging in practice]
 
 ## Say it to your companion
 
