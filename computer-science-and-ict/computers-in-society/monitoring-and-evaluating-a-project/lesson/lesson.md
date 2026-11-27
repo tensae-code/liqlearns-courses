@@ -10,11 +10,15 @@ Monitoring and evaluating a project — watching a running project against its p
 
 In your mind's eye: monitoring — the plan, watched while there is time.
 
+[Picture 48448 — monitoring — the plan, watched while there is time]
+
 ## Sub lesson 2 — Evaluation — the finished project, judged whole
 
 **Evaluation** judges the finished project: did it deliver the scope, at the planned time and cost, and does the delivered thing actually work for its users? Its second half looks backward for the future's sake — what the team did well, where the plan was wrong, and what the next project's plan must change. Monitoring and evaluation are one habit at two moments: attention during, judgement after — and the project's documents, kept from the first day, are what make both possible instead of argued from memory.
 
 In your mind's eye: evaluation — the finished project, judged whole.
+
+[Picture 48449 — evaluation — the finished project, judged whole]
 
 ## Say it to your companion
 

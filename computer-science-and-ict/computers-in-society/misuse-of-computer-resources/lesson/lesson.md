@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Misuse of Computer Resources** �
 
 In your mind's eye: misuse of Computer Resources.
 
+[Picture 48436 — misuse of Computer Resources]
+
 ## Sub lesson 2 — Doing it — Misuse of Computer Resources in practice
 
 **Doing it — Misuse of Computer Resources in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Misuse of Computer Resources in practice.
+
+[Picture 48437 — doing it — Misuse of Computer Resources in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A bank branch keeps hours and has a queue. A phone is in your pocket now. Rwanda
 
 In your mind's eye: what mobile banking is.
 
+[Picture 48438 — what mobile banking is]
+
 ## Sub lesson 2 — What you can do — and what to guard
 
 The everyday jobs: **check a balance**, **send money** to another account or phone, **pay bills and fees**, and **receive a record** of every movement as a message. The same phone that carries the money carries the risk: guard the **PIN** as the account's key, because whoever holds the phone and knows the PIN holds the account. Rwanda's guide names the shadow side plainly — mobile banking's disadvantages and smishing (fraud by text message) are taught beside the services (teacher guide — evidence, stocked in the phishing lesson).
 
 In your mind's eye: what you can do — and what to guard.
+
+[Picture 48439 — what you can do — and what to guard]
 
 ## Say it to your companion
 

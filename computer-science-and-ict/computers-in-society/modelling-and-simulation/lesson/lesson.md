@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Modelling the world, 6.1: Modelling and
 
 In your mind's eye: modelling the world, 6.1. Modelling and safety.
 
+[Picture 48442 — modelling the world, 6.1. Modelling and safety]
+
 ## Sub lesson 2 — Modelling and Simulation
 
 This part of Kazakhstan's book teaches **Modelling and Simulation** — covering: 6.2: Modelling — getting ready for the school year. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: modelling and Simulation.
+
+[Picture 48443 — modelling and Simulation]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Mindfulness in the digital world — attending on purpose to your own digital ac
 
 In your mind's eye: attention is the battleground — noticing first.
 
+[Picture 48430 — attention is the battleground — noticing first]
+
 ## Sub lesson 2 — Presence — one thing, one person, one moment
 
 Mindfulness practised becomes **presence**: one task while the task lasts, one person while the person is speaking, and rest that is actually rest. Its tools are humble — notifications silenced by decision, the phone in another room for the meal and the conversation, a pause before posting in which the future reader is imagined. Grade 9 teaches it as a skill of the digital citizen, not a mood: attention is the one resource every platform competes for, and the mindful user is the one who spends it as their own.
 
 In your mind's eye: presence — one thing, one person, one moment.
+
+[Picture 48431 — presence — one thing, one person, one moment]
 
 ## Say it to your companion
 

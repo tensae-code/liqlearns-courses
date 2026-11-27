@@ -10,11 +10,15 @@ In Kuwait, the classroom has an address on the internet. The Grade 4 Digital Exp
 
 In your mind's eye: installing Teams — from the app store to the device.
 
+[Picture 48428 — installing Teams — from the app store to the device]
+
 ## Sub lesson 2 — Launching Teams and signing in with the school account
 
 Teams is launched and the pupil **signs in with the school account** — the moe.edu.kw account the Ministry gives every learner. Signing in is what makes the platform personal: your teams, your classes and your assignments are the ones your account belongs to, and no one else's. The **digital learning platform** is the whole idea in one phrase: lessons, meetings, files and homework gathered in one signed-in place, reachable from school and from home.
 
 In your mind's eye: launching Teams and signing in with the school account.
+
+[Picture 48429 — launching Teams and signing in with the school account]
 
 ## Say it to your companion
 

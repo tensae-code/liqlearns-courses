@@ -10,11 +10,15 @@ Mongolia's development is steered by the **State ICT Policy 2017–2025**. Its g
 
 In your mind's eye: the build — policy, fibre, satellite.
 
+[Picture 48446 — the build — policy, fibre, satellite]
+
 ## Sub lesson 2 — The divide — the lesson inside the account
 
 The same account names its wound: the **digital divide** — the gap between the connected city and the far soum, between those the fibre reached and those it has not. Mongolia's falling place in the world's index (the previous lesson's table) is taught as the divide's shadow in statistics. The book's purpose is plain and is the course's last civic lesson in this strand: the account is given to the pupils because the account is unfinished — the fibre's next kilometres, the divide's closing, are quite literally the homework of the generation reading the book.
 
 In your mind's eye: the divide — the lesson inside the account.
+
+[Picture 48447 — the divide — the lesson inside the account]
 
 ## Say it to your companion
 

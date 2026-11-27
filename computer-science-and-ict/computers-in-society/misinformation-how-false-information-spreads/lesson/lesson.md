@@ -10,11 +10,15 @@ Wrong information wears several coats. An honest **mistake** is wrong but meant 
 
 In your mind's eye: the varieties of wrong information.
 
+[Picture 48434 — the varieties of wrong information]
+
 ## Sub lesson 2 — How falsehood spreads — and why it outruns truth
 
 Digital media give falsehood three engines: **speed** (a forward costs nothing and reaches hundreds), **trust** (we believe what arrives from our own people), and **feeling** (anger and fear are shared faster than calm facts). The truth travels slower because it must be checked first — which is why the book's answer is not censorship but a population of checkers: every receiver who pauses, verifies, and refuses to forward is a wall the falsehood cannot pass. The companion lessons teach the checking itself and the campaign that spreads it.
 
 In your mind's eye: how falsehood spreads — and why it outruns truth.
+
+[Picture 48435 — how falsehood spreads — and why it outruns truth]
 
 ## Say it to your companion
 

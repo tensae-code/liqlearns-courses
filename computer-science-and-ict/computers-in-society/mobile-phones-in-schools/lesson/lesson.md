@@ -10,11 +10,15 @@ The guide's additional content names the phone as a **learning tool**: a learner
 
 In your mind's eye: the phone as a learning tool.
 
+[Picture 48440 — the phone as a learning tool]
+
 ## Sub lesson 2 — Communication and reach
 
 The guide's second advantage is **reach**: a phone keeps **learners, teachers and parents in contact** — a timetable change, a homework question, a parent reached the same day instead of at term's end. Phones also carry learning **home**: the lesson's material, recorded or photographed, travels with the learner after the school day closes. The advantage is not the phone itself; it is the **connection** the phone keeps open.
 
 In your mind's eye: communication and reach.
+
+[Picture 48441 — communication and reach]
 
 ## Say it to your companion
 
