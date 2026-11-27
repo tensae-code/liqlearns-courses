@@ -10,11 +10,15 @@ An **embedded system** is a computer — processor, memory, inputs and outputs �
 
 In your mind's eye: what embedded computing is.
 
+[Picture 48730 — what embedded computing is]
+
 ## Sub lesson 2 — Applications — the hidden majority
 
 Embedded computing is the **majority of all computing**: washing machines, microwaves, cars (with dozens of embedded controllers), medical devices, industrial robots, smart cards, lifts, printers and the IoT things of this whole unit. Jordan's lesson closes the IoT unit here on purpose: an IoT thing is usually an embedded system that gained sensors and a network — embedded computing is IoT's body, connectivity its voice.
 
 In your mind's eye: applications — the hidden majority.
+
+[Picture 48731 — applications — the hidden majority]
 
 ## Say it to your companion
 

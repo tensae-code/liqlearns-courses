@@ -10,11 +10,15 @@ The Grade 12 survey ends at the foundation under all the others: electronics, th
 
 In your mind's eye: edison's lamp to the signal divide.
 
+[Picture 48728 — edison's lamp to the signal divide]
+
 ## Sub lesson 2 — The electronics engineer — and the robots on the line
 
 The field's human face is the **electronics engineer**: designing circuits, choosing components, testing signals — the profession that stands behind every device the course has touched. Its modern face is stranger: **robots assembling motherboards**, machines placing the components of new machines at speeds and accuracies no hand holds — electronics manufacturing electronics. Mongolia closes the survey with the loop made visible: the course began with information in the abstract and ends with the physical line where information's machines are born, built by their own kind.
 
 In your mind's eye: the electronics engineer — and the robots on the line.
+
+[Picture 48729 — the electronics engineer — and the robots on the line]
 
 ## Say it to your companion
 

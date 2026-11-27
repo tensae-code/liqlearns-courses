@@ -10,11 +10,15 @@ Papua New Guinea's Grade 12 biotechnology unit ends, in the guide's favourite wa
 
 In your mind's eye: dNA — instructions in living things.
 
+[Picture 48724 — dNA — instructions in living things]
+
 ## Sub lesson 2 — DNA technology as a case study
 
 A case study studies **one real use in detail**. DNA testing can **identify individuals and relations**; medicine uses DNA technology for **finding and treating inherited diseases**; farming uses it for **selecting and improving plants and animals**. The case sits in the guide's Bio-Technology topic — and new DNA work raises questions of ethics and safety alongside its powers.
 
 In your mind's eye: dNA technology as a case study.
+
+[Picture 48725 — dNA technology as a case study]
 
 ## Say it to your companion
 

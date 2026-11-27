@@ -10,11 +10,15 @@ The cycle begins with **creation** (data made or collected, and classified — p
 
 In your mind's eye: the early stages — create, store, use, share.
 
+[Picture 48710 — the early stages — create, store, use, share]
+
 ## Sub lesson 2 — The late stages — archive and destroy
 
 When data's working life ends it is **archived** — kept cold for the years law or history demands — and finally **destroyed**: truly erased, from live copies and backups alike, with the erasure provable. In the cloud, destruction is a duty the customer must demand and the provider must perform, because copies live in places the customer never sees. Jordan's lesson closes the security unit's frame: protecting data means guarding a whole life, not a moment.
 
 In your mind's eye: the late stages — archive and destroy.
+
+[Picture 48711 — the late stages — archive and destroy]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ AI begins as a named field in the **1950s** (the Dartmouth workshop, 1956), with
 
 In your mind's eye: the early stages — birth and first winter.
 
+[Picture 48722 — the early stages — birth and first winter]
+
 ## Sub lesson 2 — The modern stages — data, learning, everywhere
 
 The return came on three legs: **data** (the internet's oceans of it), **computing power** (chips that could train large models), and **machine learning** methods that improved with both. Landmarks followed — a chess champion beaten (1997), speech and images recognised reliably (2010s), language models conversing (2020s). Jordan's Grade 9 history ends with the pupil inside the story: the current stage is theirs to judge, with the winters as the standing warning against both despair and hype.
 
 In your mind's eye: the modern stages — data, learning, everywhere.
+
+[Picture 48723 — the modern stages — data, learning, everywhere]
 
 ## Say it to your companion
 

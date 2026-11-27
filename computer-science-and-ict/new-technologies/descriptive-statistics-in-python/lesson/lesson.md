@@ -10,11 +10,15 @@ Python's data library computes the centre in a line each: the **mean** (the tota
 
 In your mind's eye: centre — mean, median, mode.
 
+[Picture 48720 — centre — mean, median, mode]
+
 ## Sub lesson 2 — Spread and shape — range, deviation, the summary
 
 Centre without spread lies politely: two classes can share a mean and differ in everything else. The spread measures: **range** (max − min), **standard deviation** (the typical distance from the mean — the spread with a unit and a meaning), and the quartiles. Python's `describe()` gathers the family into one summary table — count, mean, deviation, min, quartiles, max — which Jordan teaches as the analyst's first page on any new column: read it whole before quoting any one number from it.
 
 In your mind's eye: spread and shape — range, deviation, the summary.
+
+[Picture 48721 — spread and shape — range, deviation, the summary]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Future Trends and Innovations** 
 
 In your mind's eye: future Trends and Innovations.
 
+[Picture 48726 — future Trends and Innovations]
+
 ## Sub lesson 2 — Doing it — Edge Computing and Serverless What Comes Next in practice
 
 **Doing it — Edge Computing and Serverless What Comes Next in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Edge Computing and Serverless What Comes Next in practice.
+
+[Picture 48727 — doing it — Edge Computing and Serverless What Comes Next in practice]
 
 ## Say it to your companion
 

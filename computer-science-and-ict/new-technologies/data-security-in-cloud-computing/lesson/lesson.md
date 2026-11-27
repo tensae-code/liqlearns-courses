@@ -10,11 +10,15 @@ Cloud data is protected by the course's standing crafts, arranged for a rented h
 
 In your mind's eye: the protections — encryption, access, copies.
 
+[Picture 48712 — the protections — encryption, access, copies]
+
 ## Sub lesson 2 — Shared responsibility — whose job is what
 
 Cloud security is a **shared responsibility**: the provider secures the cloud itself — buildings, machines, the platform's soundness; the customer secures what they put **in** the cloud — their accounts, their permissions, their data's classification, their people's habits. Most cloud breaches walk through the customer's half: a public bucket, a phished password, a permission given to everyone. Jordan's lesson ends with the division memorised, because blaming the provider for the customer's half is the field's most expensive misunderstanding.
 
 In your mind's eye: shared responsibility — whose job is what.
+
+[Picture 48713 — shared responsibility — whose job is what]
 
 ## Say it to your companion
 

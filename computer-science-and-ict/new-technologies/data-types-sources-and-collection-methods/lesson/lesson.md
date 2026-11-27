@@ -10,11 +10,15 @@ The types repeat the analysis sort at collection time: **quantitative** (numbers
 
 In your mind's eye: types and sources.
 
+[Picture 48714 — types and sources]
+
 ## Sub lesson 2 — Collection methods
 
 The primary methods: **observation** (watching and recording — honest about behaviour, silent about reasons), **questionnaires and surveys** (many people, the same questions — breadth, at the mercy of honest answers), **interviews** (depth and reasons, few people), and **experiments / measurements** (instruments and controlled changes — the strongest for causes). Jordan's Grade 10 lesson weighs each method against the question, the time and the truth it can carry: a method is not good or bad, only fitted or unfitted — and the collection plan is written before the collecting, or the data arrives answering a question nobody asked.
 
 In your mind's eye: collection methods.
+
+[Picture 48715 — collection methods]
 
 ## Say it to your companion
 

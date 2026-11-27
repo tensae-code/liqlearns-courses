@@ -10,11 +10,15 @@ The eye is the fastest analyst ever built — if the data is drawn honestly. Thi
 
 In your mind's eye: what visualisation does.
 
+[Picture 48718 — what visualisation does]
+
 ## Sub lesson 2 — Honest pictures — the craft's rules
 
 The craft's rules guard the eye's trust: **scales start honestly** (a bar's axis from zero), **labels and units** say what is drawn, **one picture, one message** (a chart arguing three things argues none), and **nothing drawn that the data does not hold** — no 3D tilts fattening one slice, no smoothed line through wild data. Jordan's Grade 10 visualisation lesson is the big-data unit's conscience: data too big to read is data too easy to draw falsely, so the rules are taught with the tools, in the same lesson.
 
 In your mind's eye: honest pictures — the craft's rules.
+
+[Picture 48719 — honest pictures — the craft's rules]
 
 ## Say it to your companion
 

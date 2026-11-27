@@ -10,11 +10,15 @@ Jordan's shelf: **spreadsheet charts** (Excel's — instant, familiar, limited i
 
 In your mind's eye: the tool shelf.
 
+[Picture 48716 — the tool shelf]
+
 ## Sub lesson 2 — Choosing the drawing tool
 
 Choosing weighs: **the data's size and liveness** (a dashboard fed hourly expels the hand-made chart), **the chart's rarity** (an unusual form needs the library's freedom), **repeatability** (monthly pictures want code), **the audience** (a minister's dashboard against an analyst's figure), and **honesty controls** (can this tool be made to start the axis at zero and label honestly — the last lesson's rules, enforced or fought by the tool itself). The tool is chosen last in the design and first in the timetable's complaints; Jordan teaches the choosing so the complaints have somewhere better to go.
 
 In your mind's eye: choosing the drawing tool.
+
+[Picture 48717 — choosing the drawing tool]
 
 ## Say it to your companion
 
