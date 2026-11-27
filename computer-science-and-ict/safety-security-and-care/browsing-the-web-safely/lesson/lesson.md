@@ -10,11 +10,15 @@ Safe browsing begins before the page loads: **read the address**. The name you m
 
 In your mind's eye: know where you are — address and padlock.
 
+[Picture 48061 — know where you are — address and padlock]
+
 ## Sub lesson 2 — Browse as a guest who can leave — downloads, pop-ups and traces
 
 On the page itself, the safe browser behaves as a **guest who can leave**: **pop-ups** that announce prizes, infections or urgent updates are **closed, never obeyed** — a real warning never arrives as a web page shouting. **Downloads** are taken only from the maker's own site, and a file the page pushes unasked is refused. What is typed into a strange page is typed as if it will be kept — because it may be: forms on unknown sites are given the **least information the errand truly needs**, and accounts are not made where a guest visit would do. The sequence's rule under all of it: browsing is safe when every step is a choice, and unsafe the moment the page starts making the choices.
 
 In your mind's eye: browse as a guest who can leave — downloads, pop-ups and traces.
+
+[Picture 48062 — browse as a guest who can leave — downloads, pop-ups and traces]
 
 ## Say it to your companion
 

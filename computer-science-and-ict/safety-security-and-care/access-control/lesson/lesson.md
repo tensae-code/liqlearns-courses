@@ -10,11 +10,15 @@ Security begins at the door. Laos's Grade 10 security chapter, after naming its 
 
 In your mind's eye: what access control is.
 
+[Picture 48047 — what access control is]
+
 ## Sub lesson 2 — Access control at work — least power, kept records
 
 Working access control follows the rule of **least power**: every account gets the smallest set of permissions its job requires — the clerk who enters marks is not given the power to delete pupils — because every extra power is an extra loss waiting for a stolen password. Beside the door stands its memory: the system **logs who entered and what they did**, so misuse can be traced to an account and a moment. Laos teaches access control first among its security measures because the chapter's other defences — antivirus, firewall, backup — all assume this one: they protect a system whose door is already guarded.
 
 In your mind's eye: access control at work — least power, kept records.
+
+[Picture 48048 — access control at work — least power, kept records]
 
 ## Say it to your companion
 

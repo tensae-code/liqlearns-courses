@@ -10,11 +10,15 @@ The body's measures: **fingerprint** — the fingertip's ridges, unique even bet
 
 In your mind's eye: by body — fingerprint, hand, iris, face, DNA.
 
+[Picture 48057 — by body — fingerprint, hand, iris, face, DNA]
+
 ## Sub lesson 2 — By behaviour — keystroke, signature, voice; and where biometrics serve
 
 Behaviour identifies too: **keystroke rhythm** — your typing's timing, as personal as a gait; **signature dynamics** — not the signature's shape but its speed and pressure in the making; and **voice** — the print a phone bank checks when you speak. **Where biometrics are used**: attendance that cannot be signed by a friend, borders and national ID, phones and banking, examinations and elections. The closing caution belongs with the power: a stolen password can be changed; a stolen fingerprint cannot — so biometric data demands the strongest keeping of all the data in this course.
 
 In your mind's eye: by behaviour — keystroke, signature, voice; and where biometrics serve.
+
+[Picture 48058 — by behaviour — keystroke, signature, voice; and where biometrics serve]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Before a system defends its pillars, it must know who is knocking. Kuwait's Grad
 
 In your mind's eye: authentication — and its three factors.
 
+[Picture 48055 — authentication — and its three factors]
+
 ## Sub lesson 2 — Two-factor authentication — practised, not described
 
 **Two-factor authentication (2FA)** asks for proofs from **two different factors** — most often the password you know **plus** a short-lived code on the phone you have. Kuwait teaches it as worksheets, hands on: setting up **Google Authenticator**, which generates the changing codes, and the two-factor protection in the **Ministry of Education app** the pupils themselves use. A code that changes every few seconds cannot be replayed tomorrow — that expiry is what the second factor buys.
 
 In your mind's eye: two-factor authentication — practised, not described.
+
+[Picture 48056 — two-factor authentication — practised, not described]
 
 ## Say it to your companion
 

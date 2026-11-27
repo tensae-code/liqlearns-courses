@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Adware Adverts That Arrive Uninv
 
 In your mind's eye: adware Adverts That Arrive Uninvited.
 
+[Picture 48049 — adware Adverts That Arrive Uninvited]
+
 ## Sub lesson 2 — Doing it — Adware Adverts That Arrive Uninvited in practice
 
 **Doing it — Adware Adverts That Arrive Uninvited in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Adware Adverts That Arrive Uninvited in practice.
+
+[Picture 48050 — doing it — Adware Adverts That Arrive Uninvited in practice]
 
 ## Say it to your companion
 

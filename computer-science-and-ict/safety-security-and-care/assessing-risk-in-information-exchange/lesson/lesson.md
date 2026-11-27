@@ -10,11 +10,15 @@ Information **exchanges** through **media** — spoken, written, printed, digita
 
 In your mind's eye: surveying the exchange — media, paths, risks.
 
+[Picture 48051 — surveying the exchange — media, paths, risks]
+
 ## Sub lesson 2 — The expert interview — and classifying information
 
 The class then **interviews an ICT expert** — preparing questions in advance (the survey's gaps become the questions), listening for the risks the class had not imagined, and bringing the answers home as evidence. Last, the findings harden into a tool: information **classified** by the care it demands — public, private, secret — so that every future exchange can ask the classification first and choose its medium by the answer. Assessment ends in classification, and classification becomes the habit the human-chain lesson then defends in public.
 
 In your mind's eye: the expert interview — and classifying information.
+
+[Picture 48052 — the expert interview — and classifying information]
 
 ## Say it to your companion
 

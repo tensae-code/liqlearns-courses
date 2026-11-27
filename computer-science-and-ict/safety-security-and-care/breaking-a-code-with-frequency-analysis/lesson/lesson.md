@@ -10,11 +10,15 @@ Every language uses its letters **unequally**: in French, E towers over the rest
 
 In your mind's eye: languages have habits.
 
+[Picture 48059 — languages have habits]
+
 ## Sub lesson 2 — From first letter to open text
 
 One identified letter unlocks patterns: a one-letter word must be A or I (in English); a doubled symbol inside a word narrows its owner; common pairs and endings confirm or correct the guesses. Each new letter makes the next easier — the text opens like ice cracking — until the whole message reads plain. The inquiry's lesson for cipher-makers is the mirror: a cipher that preserves the language's habits carries its own key in its statistics.
 
 In your mind's eye: from first letter to open text.
+
+[Picture 48060 — from first letter to open text]
 
 ## Say it to your companion
 

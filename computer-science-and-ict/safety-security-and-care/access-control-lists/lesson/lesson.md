@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Access control list** — covering: Ac
 
 In your mind's eye: access control list.
 
+[Picture 48045 — access control list]
+
 ## Sub lesson 2 — Doing it — Access control list in practice
 
 This part of South Sudan's book teaches **Doing it — Access control list in practice** — covering: Access control list. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Access control list. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Access control list in practice is part of that chain..
 
 In your mind's eye: doing it — Access control list in practice.
+
+[Picture 48046 — doing it — Access control list in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The fiche's history opens with the ancient tricks: messages hidden (a shaved hea
 
 In your mind's eye: ciphers of the ancient and paper ages.
 
+[Picture 48043 — ciphers of the ancient and paper ages]
+
 ## Sub lesson 2 — Machines, computers and keys
 
 The modern ages mechanised the contest: rotor machines like Enigma multiplied the shifts beyond hand-breaking, and computers broke machine ciphers — then became the cipher-makers themselves, with mathematical locks whose keys are numbers too long to guess. The history's pattern never changes: a stronger cipher, a cleverer break, a stronger cipher again. Today's encryption is that race, run at electronic speed, guarding everything from messages to money.
 
 In your mind's eye: machines, computers and keys.
+
+[Picture 48044 — machines, computers and keys]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Choosing begins with the **message's needs**: how secret must it stay, and **for
 
 In your mind's eye: the choice starts from the message.
 
+[Picture 48063 — the choice starts from the message]
+
 ## Sub lesson 2 — Matching method to need — and defending it
 
 The choice is then a **match**: read the comparison table against the written needs and pick the method whose strengths cover the needs and whose weaknesses the purpose can bear. Malaysia's form for the answer is a **defence**: the chosen method, the need it answers, and the rejected methods with the reason each was rejected. A choice that cannot be defended in that form has not been made — it has been guessed. The unit's deepest point is that security is this judgement, repeated for every message.
 
 In your mind's eye: matching method to need — and defending it.
+
+[Picture 48064 — matching method to need — and defending it]
 
 ## Say it to your companion
 
