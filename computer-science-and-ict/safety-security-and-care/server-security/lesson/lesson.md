@@ -10,11 +10,15 @@ The **server** is the network's serving machine, and its security is different i
 
 In your mind's eye: why the server is the prize and the risk.
 
+[Picture 48161 — why the server is the prize and the risk]
+
 ## Sub lesson 2 — How a server is secured
 
 Server security layers the chapter's defences at their strictest. **Access is minimal and named**: only the administrators hold administrative accounts, each under their own name, with strong passwords — no shared master key. **Services are minimal too**: a server runs only the services it exists to give, because every extra service is an extra door. Its **software is kept patched**, its **files backed up apart**, its **room and console physically secured** (a locked door is a security control), and its **logs watched** — a server nobody reads the logs of is a building whose alarm rings to an empty street.
 
 In your mind's eye: how a server is secured.
+
+[Picture 48162 — how a server is secured]
 
 ## Say it to your companion
 

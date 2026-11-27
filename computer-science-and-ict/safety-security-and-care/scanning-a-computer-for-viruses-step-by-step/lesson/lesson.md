@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Scanning a Computer for Viruses*
 
 In your mind's eye: scanning a Computer for Viruses.
 
+[Picture 48153 — scanning a Computer for Viruses]
+
 ## Sub lesson 2 — Doing it — Scanning a Computer for Viruses Step by Step in practice
 
 **Doing it — Scanning a Computer for Viruses Step by Step in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Scanning a Computer for Viruses Step by Step in practice.
+
+[Picture 48154 — doing it — Scanning a Computer for Viruses Step by Step in practice]
 
 ## Say it to your companion
 

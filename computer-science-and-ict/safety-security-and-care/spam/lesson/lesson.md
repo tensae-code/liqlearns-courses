@@ -10,11 +10,15 @@ It arrives unasked, by the hundred, selling, begging and lying. Laos's Grade 10 
 
 In your mind's eye: what spam is.
 
+[Picture 48167 — what spam is]
+
 ## Sub lesson 2 — What spam carries, and the defences
 
 Spam is also a **delivery vehicle**: its attachments and links carry **malware and phishing** — the fake bank page of the chapter's scam section often arrives as spam. The defences are the user's and the system's together: the mail service's **spam filter**, which learns the flood's shapes and files it apart; the user's discipline — **never reply, never buy, never click or open attachments, never give the address carelessly**, and mark spam as spam so the filter learns. Replying is the one unforgivable act: it proves a person reads that address, and the address is then sold on as live. Laos teaches spam inside its privacy chapter because the flood begins where addresses are given away.
 
 In your mind's eye: what spam carries, and the defences.
+
+[Picture 48168 — what spam carries, and the defences]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ In **transfer**, data leaves its guarded home and crosses **networks it does not
 
 In your mind's eye: why transfer is the exposed moment.
 
+[Picture 48155 — why transfer is the exposed moment]
+
 ## Sub lesson 2 — Securing the journey — the standing means
 
 The means answer the road's dangers one by one: **encryption in transit** (the sealed envelope — HTTPS, VPNs, encrypted channels: watchers copy noise), **integrity checks** (hashes and signatures: a changed message is detected), **verified endpoints** (certificates: the receiver is truly the receiver), **authorised channels** (approved services, not a stranger's free tool), and **minimal sending** (only the data the journey needs travels). The lesson closes the transfer trilogy the unit builds: protect data stored, protect data used, protect data moving — the same data, three postures, one duty.
 
 In your mind's eye: securing the journey — the standing means.
+
+[Picture 48156 — securing the journey — the standing means]
 
 ## Say it to your companion
 

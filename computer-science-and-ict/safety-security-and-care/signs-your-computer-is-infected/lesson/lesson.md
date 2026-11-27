@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Indicators of Security Threats
 
 In your mind's eye: , Indicators of Security Threats.
 
+[Picture 48163 — , Indicators of Security Threats]
+
 ## Sub lesson 2 — Doing it — Signs Your Computer Is Infected in practice
 
 **Doing it — Signs Your Computer Is Infected in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Signs Your Computer Is Infected in practice.
+
+[Picture 48164 — doing it — Signs Your Computer Is Infected in practice]
 
 ## Say it to your companion
 

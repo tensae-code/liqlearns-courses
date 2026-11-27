@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Tips: use a VPN; avoid clicking 
 
 In your mind's eye: tips. Use a VPN; avoid clicking links and attachments in emails; log out of any website properly; use your brow.
 
+[Picture 48169 — tips. Use a VPN; avoid clicking links and attachments in emails; log out of any website properly; use your brow]
+
 ## Sub lesson 2 — Doing it — Staying Private Online VPN Incognito Logging Out and Updates in practice
 
 **Doing it — Staying Private Online VPN Incognito Logging Out and Updates in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Staying Private Online VPN Incognito Logging Out and Updates in practice.
+
+[Picture 48170 — doing it — Staying Private Online VPN Incognito Logging Out and Updates in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **system failure** is the machine or its software **stopping, breaking or work
 
 In your mind's eye: what system failure threatens.
 
+[Picture 48159 — what system failure threatens]
+
 ## Sub lesson 2 — The defences — copies, power and recovery
 
 Security against failure is built before it happens. **Backups** — copies of the data kept apart and kept current — are the first defence, and they count only if **restoring from them has been practised**. **Uninterruptible power (a UPS)** carries the machine through a cut long enough to close its work cleanly. **Keeping the system maintained** — space free, parts sound, software in order — lowers the failure's chances; and a written **recovery order** (what is restarted, in what order, by whom) turns the bad day from panic into procedure. Laos places the section among its security measures because failure is a security event: the data does not care whether a thief or a dead disk took it.
 
 In your mind's eye: the defences — copies, power and recovery.
+
+[Picture 48160 — the defences — copies, power and recovery]
 
 ## Say it to your companion
 

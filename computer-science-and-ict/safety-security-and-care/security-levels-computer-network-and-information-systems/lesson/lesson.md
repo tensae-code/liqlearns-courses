@@ -10,11 +10,15 @@ At the **computer level**, security guards **one machine**: its accounts and pas
 
 In your mind's eye: the computer level and the network level.
 
+[Picture 48157 — the computer level and the network level]
+
 ## Sub lesson 2 — The information-systems level — people, data and rules
 
 At the **information-system level**, security guards the **whole working system** — its **data** (who may read, change and delete what, with backups when the worst happens), its **people** (their training, their duties, the rules they sign), and its **procedures** (what happens on the bad day, decided before it comes). The unit's application rule closes the levels: real security is **all three rings at once**, because attackers choose the weakest ring, and the levels are a checklist for finding it before they do.
 
 In your mind's eye: the information-systems level — people, data and rules.
+
+[Picture 48158 — the information-systems level — people, data and rules]
 
 ## Say it to your companion
 

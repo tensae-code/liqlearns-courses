@@ -10,11 +10,15 @@ The **software methods**: **anti-malware programs** (detecting and removing harm
 
 In your mind's eye: the guarding programs.
 
+[Picture 48165 — the guarding programs]
+
 ## Sub lesson 2 — Limits — software is necessary, not sufficient
 
 Every method has its **limits**: anti-malware knows yesterday's weapons best; encryption guards the file and not the password taped to the screen; backups faithfully copy corrupted data too. Software also **ages** — an unupdated protector becomes a museum of old dangers. Jordan's lesson closes with the unit's standing refrain: software methods protect data only inside the weave — physical means, legal means and human habits around them — and the pupil who can state each tool's limit is the one who will not be betrayed by trusting it wholly.
 
 In your mind's eye: limits — software is necessary, not sufficient.
+
+[Picture 48166 — limits — software is necessary, not sufficient]
 
 ## Say it to your companion
 
