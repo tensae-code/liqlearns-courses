@@ -10,11 +10,15 @@ A **set** (himpunan) is a collection of distinct things, called its **members** 
 
 In your mind's eye: the set — a collection with no duplicates.
 
+[Picture 47671 — the set — a collection with no duplicates]
+
 ## Sub lesson 2 — Venn diagrams — sets you can see
 
 A **Venn diagram** draws sets as **overlapping circles**, so their relations are visible at a glance: the overlap of two circles is the **intersection** (members in both), the whole coloured region is the **union** (members in either), and the part of one circle outside the other is the **difference**. With three circles the diagram sorts a class into eight regions without a word of algebra. The diagram is the lesson's gift to every later topic: conditions combined with AND and OR are intersections and unions wearing program clothes, and the pupil who has drawn them has already understood both.
 
 In your mind's eye: venn diagrams — sets you can see.
+
+[Picture 47672 — venn diagrams — sets you can see]
 
 ## Say it to your companion
 

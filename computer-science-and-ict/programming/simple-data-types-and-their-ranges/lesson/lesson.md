@@ -10,11 +10,15 @@ A **simple (scalar) type** holds one value of one kind. The working family: **in
 
 In your mind's eye: the simple types — one value, one kind.
 
+[Picture 47687 — the simple types — one value, one kind]
+
 ## Sub lesson 2 — Ranges — the edges of a type, and overflow
 
 A type stored in a fixed number of bits has a **range**: the smallest and largest values it can hold. An 8-bit signed integer holds −128…127; add 1 to 127 and it **overflows** — wrapping to −128 or behaving wrongly, silently. Reals trade differently: a huge range, but **limited precision** — digits beyond the type's count are rounded away. Choosing a type is therefore an engineering decision: big enough for the honest largest value (with room to spare), small enough not to waste memory, and its edges written into the program's tests.
 
 In your mind's eye: ranges — the edges of a type, and overflow.
+
+[Picture 47688 — ranges — the edges of a type, and overflow]
 
 ## Say it to your companion
 

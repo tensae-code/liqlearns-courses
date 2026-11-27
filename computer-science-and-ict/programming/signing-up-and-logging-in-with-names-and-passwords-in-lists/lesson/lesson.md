@@ -10,11 +10,15 @@ Sign-up keeps **subscriber names in one list, their passwords in a second list a
 
 In your mind's eye: two lists, same positions — sign-up.
 
+[Picture 47683 — two lists, same positions — sign-up]
+
 ## Sub lesson 2 — Login — find the position, check the password
 
 Login reverses the route: it **finds the name’s position** in the names list and **checks the password stored at that position** in the passwords list. The **background changes by condition** — in or out. The project hardens it: **three failed attempts delete the name** and force a new registration.
 
 In your mind's eye: login — find the position, check the password.
+
+[Picture 47684 — login — find the position, check the password]
 
 ## Say it to your companion
 

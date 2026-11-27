@@ -10,11 +10,15 @@ A **side effect** is any change a subprogram makes **outside its contract**: alt
 
 In your mind's eye: what a side effect is — the uncontracted change.
 
+[Picture 47679 — what a side effect is — the uncontracted change]
+
 ## Sub lesson 2 — The discipline — declare, isolate, or refuse
 
 The chapter's discipline has three moves. **Name it**: a subprogram whose job *is* an effect (printing, saving) should be a **procedure** with the effect in its understood purpose, not a function moonlighting. **Isolate it**: pass what is needed as parameters instead of reaching for globals, so the whole influence crosses the visible border. **Refuse it** in functions: a function should compute its value from its parameters alone, so it can be used inside any expression safely — called twice, called never, without the world changing. Programs stay readable exactly as far as their effects stay visible.
 
 In your mind's eye: the discipline — declare, isolate, or refuse.
+
+[Picture 47680 — the discipline — declare, isolate, or refuse]
 
 ## Say it to your companion
 

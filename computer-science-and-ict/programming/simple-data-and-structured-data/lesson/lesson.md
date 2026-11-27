@@ -10,11 +10,15 @@ Grade 11 opens by redrawing the data map. Everything met so far was a single val
 
 In your mind's eye: simple data — one value, one name.
 
+[Picture 47685 — simple data — one value, one name]
+
 ## Sub lesson 2 — Structured data — many values, one name, inner order
 
 **Structured data** gathers **many values under one name**, organised by an inner order the type fixes: an **array** by index, a **string** by position, a **record** by named fields, a **set** by membership, a **file** by sequence. A structured variable is therefore worked **whole or by parts** — the whole array assigned, or its third element singled out. Grade 11's first chapter is the tour of these structures; this section is their map: whenever one name must hold a classful, a text or a table, a structure, not a simple type, is the tool.
 
 In your mind's eye: structured data — many values, one name, inner order.
+
+[Picture 47686 — structured data — many values, one name, inner order]
 
 ## Say it to your companion
 

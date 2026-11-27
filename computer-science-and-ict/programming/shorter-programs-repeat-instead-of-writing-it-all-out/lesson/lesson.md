@@ -10,11 +10,15 @@ A passage that **repeats the same blocks** is a pattern, and a pattern can **fol
 
 In your mind's eye: repetition is a pattern begging to fold.
 
+[Picture 47675 — repetition is a pattern begging to fold]
+
 ## Sub lesson 2 — Why shorter is better — and when it isn't
 
 Shorter programs are **read at a glance**, **repaired in one place** (fix the group once, not twelve times), and **extended by changing a number**. The séances keep the honesty clause: folding pays only when the repetition is real — different blocks wearing similar shapes must not be forced into one repeat with patches. The programmer's eye trained here — spot repetition, verify sameness, fold — is the same eye that later finds loops, sub-programs and patterns everywhere.
 
 In your mind's eye: why shorter is better — and when it isn't.
+
+[Picture 47676 — why shorter is better — and when it isn't]
 
 ## Say it to your companion
 

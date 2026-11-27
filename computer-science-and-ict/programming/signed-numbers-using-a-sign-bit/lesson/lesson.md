@@ -10,11 +10,15 @@ In **sign-and-magnitude** writing, the **first bit is the sign**: **0 means posi
 
 In your mind's eye: the sign bit — one bit for the sign.
 
+[Picture 47681 — the sign bit — one bit for the sign]
+
 ## Sub lesson 2 — The trouble — two zeros and hard arithmetic
 
 The scheme's flaw shows at zero: **00000000 is +0 and 10000000 is −0** — two writings of nothing, wasting a pattern and confusing every comparison (are they equal?). Worse, arithmetic breaks its school rules: adding a positive and a negative with the ordinary adder gives wrong answers, because the sign bit is being added as if it were size. The machine needs a writing where one adder serves everything — and that need, named here, is answered by two's complement in the next placement's lesson.
 
 In your mind's eye: the trouble — two zeros and hard arithmetic.
+
+[Picture 47682 — the trouble — two zeros and hard arithmetic]
 
 ## Say it to your companion
 

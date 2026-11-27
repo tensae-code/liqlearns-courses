@@ -10,11 +10,15 @@ The lift’s pieces are sprites with jobs: **floor-number sprites with several c
 
 In your mind's eye: floors, doors, buttons, arrows.
 
+[Picture 47691 — floors, doors, buttons, arrows]
+
 ## Sub lesson 2 — Current floor, new floor, direction — moving floor by floor
 
 Three variables steer: **current floor, new floor and direction**. The movement logic is careful logic — **repeat-until and wait-until with AND/OR** move the lift **floor by floor** towards the new floor, stop it on arrival, and only then glide the doors. A simulation must obey the real machine’s order: arrive first, doors after.
 
 In your mind's eye: current floor, new floor, direction — moving floor by floor.
+
+[Picture 47692 — current floor, new floor, direction — moving floor by floor]
 
 ## Say it to your companion
 

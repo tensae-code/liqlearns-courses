@@ -10,11 +10,15 @@ Where is the sprite? What is the answer? How loud is it? Scratch knows all of it
 
 In your mind's eye: reporter blocks — blocks that carry values.
 
+[Picture 47677 — reporter blocks — blocks that carry values]
+
 ## Sub lesson 2 — Monitors — ticked to show on the stage
 
 A reporter is **ticked to show or hide as a stage monitor** — a small window on the stage that keeps showing the value as it changes, like the timer counting or the answer appearing. **Some monitors are shown as sliders**, joining this lesson to the photo editor’s: a value you can watch, and sometimes pull.
 
 In your mind's eye: monitors — ticked to show on the stage.
+
+[Picture 47678 — monitors — ticked to show on the stage]
 
 ## Say it to your companion
 

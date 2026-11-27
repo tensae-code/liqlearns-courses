@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **§§4.2–4.3 Simple problems; C
 
 In your mind's eye: §§4.2–4.3 Simple problems; Complex problems.
 
+[Picture 47689 — §§4.2–4.3 Simple problems; Complex problems]
+
 ## Sub lesson 2 — Doing it — Simple Problems and Complex Problems in practice
 
 **Doing it — Simple Problems and Complex Problems in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Simple Problems and Complex Problems in practice.
+
+[Picture 47690 — doing it — Simple Problems and Complex Problems in practice]
 
 ## Say it to your companion
 
