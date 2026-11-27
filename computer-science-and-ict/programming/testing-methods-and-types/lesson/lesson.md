@@ -10,11 +10,15 @@ Testing is not one activity. This lesson separates its methods and its types.
 
 In your mind's eye: two methods — black-box and white-box.
 
+[Picture 47790 — two methods — black-box and white-box]
+
 ## Sub lesson 2 — Types of testing — by aim and by moment
 
 Testing also divides by **aim**: **functional** testing checks the program does its jobs; **performance** testing checks speed and load; **usability** testing checks people can use it; **security** testing probes defences; **regression** testing re-runs old tests after a change, to catch what the change broke. By **moment**, tests run during building (unit), at joining (integration), before release (system/acceptance) and after every repair (regression again) — testing is a rhythm, not a final event.
 
 In your mind's eye: types of testing — by aim and by moment.
+
+[Picture 47791 — types of testing — by aim and by moment]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Using Invalid Data for Testing a
 
 In your mind's eye: using Invalid Data for Testing and Activity 1.11.
 
+[Picture 47792 — using Invalid Data for Testing and Activity 1.11]
+
 ## Sub lesson 2 — Doing it — Testing with Invalid Data in practice
 
 **Doing it — Testing with Invalid Data in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Testing with Invalid Data in practice.
+
+[Picture 47793 — doing it — Testing with Invalid Data in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The séance is named **writing (écriture)** — of the story, before the progra
 
 In your mind's eye: write the story first.
 
+[Picture 47782 — write the story first]
+
 ## Sub lesson 2 — Feelings as program material
 
 Emotions are this story's events: a feeling **arrives** (something happens), **shows** (face, words, movement), and **passes or changes** (the next scene). Staging them teaches sequence with meaning — the order of scenes is the order of the heart — and prepares the next séance, where the written scenes become ScratchJr programs scene by scene, nothing invented at the tablet that the page has not already earned.
 
 In your mind's eye: feelings as program material.
+
+[Picture 47783 — feelings as program material]
 
 ## Say it to your companion
 

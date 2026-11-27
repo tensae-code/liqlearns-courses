@@ -10,11 +10,15 @@ The inquiry asks how to perform an addition **by means of an algorithm** — and
 
 In your mind's eye: addition, written as an algorithm.
 
+[Picture 47796 — addition, written as an algorithm]
+
 ## Sub lesson 2 — Drawn as a logigramme
 
 The inquiry's second step gives the algorithm its **logigramme** (flowchart): start, read the numbers, the column loop with its carry decision (“is the column sum ten or more?”), write, move left, and the stop when columns run out. Drawing it exposes what chanting the method hides: addition **loops**, addition **branches**, and the carry is a **variable** the algorithm carries through its iterations — school arithmetic revealed as the first program most humans ever run.
 
 In your mind's eye: drawn as a logigramme.
+
+[Picture 47797 — drawn as a logigramme]
 
 ## Say it to your companion
 

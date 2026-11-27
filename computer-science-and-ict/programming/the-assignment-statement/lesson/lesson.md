@@ -10,11 +10,15 @@ The **assignment statement** is the statement that **puts a value into a variabl
 
 In your mind's eye: assignment puts a value into a variable.
 
+[Picture 47802 — assignment puts a value into a variable]
+
 ## Sub lesson 2 — Assignment is not equality
 
 Assignment is an **action, not an equality**: the computer works out the value on the right side and stores it in the variable on the left, replacing what was there before. Writing x = x + 1 is nonsense as maths equality but a normal assignment — it takes x's old value, adds 1, and stores the result back into x.
 
 In your mind's eye: assignment is not equality.
+
+[Picture 47803 — assignment is not equality]
 
 ## Say it to your companion
 

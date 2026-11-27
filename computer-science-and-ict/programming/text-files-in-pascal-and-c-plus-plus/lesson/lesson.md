@@ -10,11 +10,15 @@ A **text file** is a file whose data are **characters**, organised into **lines*
 
 In your mind's eye: a file of characters and lines.
 
+[Picture 47794 — a file of characters and lines]
+
 ## Sub lesson 2 — Ends of things — eof and eoln
 
 Two tests guard text work. **eof(f)** is true when the file's reading has reached the **end of the file**; **eoln(f)** is true at the **end of the current line**. The canonical reading loop — `while not eof(f) do begin readln(f, line); process(line); end` — trusts eof to stop exactly after the last line. Writing mirrors reading: writeln lays lines, and close seals the file. The standing errors are the chapter's warnings: reading past the end, and numbers read as characters when the spaces between them are skipped wrongly.
 
 In your mind's eye: ends of things — eof and eoln.
+
+[Picture 47795 — ends of things — eof and eoln]
 
 ## Say it to your companion
 

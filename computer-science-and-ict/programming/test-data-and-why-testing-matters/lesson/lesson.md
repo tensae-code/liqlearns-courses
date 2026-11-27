@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Test Data and §1.4.1 Importance
 
 In your mind's eye: test Data and §1.4.1 Importance of Testing.
 
+[Picture 47784 — test Data and §1.4.1 Importance of Testing]
+
 ## Sub lesson 2 — Doing it — Test Data and Why Testing Matters in practice
 
 **Doing it — Test Data and Why Testing Matters in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Test Data and Why Testing Matters in practice.
+
+[Picture 47785 — doing it — Test Data and Why Testing Matters in practice]
 
 ## Say it to your companion
 

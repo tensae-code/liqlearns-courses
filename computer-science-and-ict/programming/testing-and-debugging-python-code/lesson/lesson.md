@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Testing and Debugging in Python*
 
 In your mind's eye: testing and Debugging in Python.
 
+[Picture 47788 — testing and Debugging in Python]
+
 ## Sub lesson 2 — Doing it — Testing and Debugging Python Code in practice
 
 **Doing it — Testing and Debugging Python Code in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Testing and Debugging Python Code in practice.
+
+[Picture 47789 — doing it — Testing and Debugging Python Code in practice]
 
 ## Say it to your companion
 

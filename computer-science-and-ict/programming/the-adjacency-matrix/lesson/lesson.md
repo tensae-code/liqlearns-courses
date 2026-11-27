@@ -21,6 +21,8 @@ Read row B: 1, 0, 1, 1 — Ben is joined to Ana, Cy and Di, and not to himself. 
 
 In your mind's eye: the-adjacency-matrix. A small graph beside its adjacency matrix, with one edge and its two matching cells highlighted in the same colour.
 
+[Picture 47798 — the-adjacency-matrix. A small graph beside its adjacency matrix, with one edge and its two matching cells highlighted in the same colour]
+
 ## Sub lesson 2 — Reading the matrix — neighbours, degrees, symmetry
 
 The matrix pays you back the moment you read it. The neighbours of a node are exactly the 1s in its **row**. The **sum of a row is the node's degree**: row B above sums to 3, and Ben's degree is 3. The whole graph's edge count hides here too — add up every entry in an undirected graph's matrix and divide by 2, because every edge was written twice, once at each end.
@@ -28,6 +30,8 @@ The matrix pays you back the moment you read it. The neighbours of a node are ex
 Look at the table once more: the entry at row A, column B equals the entry at row B, column A — 1 = 1. That is no accident. In an **undirected** graph every edge runs both ways, so the matrix is **symmetric**: it mirrors exactly across the diagonal. A program can check a matrix for symmetry to check that a graph really is undirected.
 
 In your mind's eye: adjacency-matrix-symmetry. The matrix folded along its diagonal, the two halves matching cell for cell.
+
+[Picture 47799 — adjacency-matrix-symmetry. The matrix folded along its diagonal, the two halves matching cell for cell]
 
 A **directed** graph breaks the mirror. If the only edge runs A → B, the matrix holds a 1 at row A, column B but a 0 at row B, column A — the arrow lives in that difference. So the same one table serves both kinds of graph, and its symmetry — or its absence — tells you which kind you hold.
 

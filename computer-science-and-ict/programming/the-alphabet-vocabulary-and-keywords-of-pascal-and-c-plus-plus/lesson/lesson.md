@@ -10,11 +10,15 @@ A language's **alphabet** is the set of characters its texts may use: the Latin 
 
 In your mind's eye: alphabet and special symbols — the raw material.
 
+[Picture 47800 — alphabet and special symbols — the raw material]
+
 ## Sub lesson 2 — Keywords — the reserved treasury
 
 A language's **vocabulary** is built from its alphabet, and at its centre stand the **keywords (reserved words)**: words with a fixed meaning in the language — Pascal's program, begin, end, var, if, while; C++'s int, return, if, while, class — which the programmer **may not use as identifiers**. Keywords are few (dozens, not thousands) and are the language's skeleton: every program text is keywords, identifiers and symbols woven together. Pascal is case-insensitive for them (BEGIN = begin); C++ is case-sensitive (Main is not main) — the pair's first practical difference.
 
 In your mind's eye: keywords — the reserved treasury.
+
+[Picture 47801 — keywords — the reserved treasury]
 
 ## Say it to your companion
 
