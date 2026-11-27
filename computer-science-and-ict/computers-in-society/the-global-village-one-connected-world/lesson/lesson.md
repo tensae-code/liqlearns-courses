@@ -10,11 +10,15 @@ Marshall McLuhan called the connected world a **global village**: when communica
 
 In your mind's eye: the village idea — distance collapses.
 
+[Picture 48568 — the village idea — distance collapses]
+
 ## Sub lesson 2 — Life inside the village
 
 In the village, **communication** is instant and cheap; **employment** crosses borders without the worker moving; **education** arrives through screens; **medicine** consults at a distance; **business** sells to the world from one shop; and **news and culture** flow everywhere at once. The village also has a village's problems: rumours outrun corrections, a failure far away can close a service at home, and cultures meet so fast that each must decide what of itself to keep. Bangladesh's book teaches the village first because every later chapter — networks, databases, programming — is one of its streets.
 
 In your mind's eye: life inside the village.
+
+[Picture 48569 — life inside the village]
 
 ## Say it to your companion
 

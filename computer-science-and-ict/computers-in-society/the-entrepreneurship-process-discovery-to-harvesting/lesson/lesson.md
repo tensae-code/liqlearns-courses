@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Entrepreneurship Process** —
 
 In your mind's eye: , Entrepreneurship Process.
 
+[Picture 48562 — , Entrepreneurship Process]
+
 ## Sub lesson 2 — Doing it — The Entrepreneurship Process Discovery to Harvesting in practice
 
 **Doing it — The Entrepreneurship Process Discovery to Harvesting in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The Entrepreneurship Process Discovery to Harvesting in practice.
+
+[Picture 48563 — doing it — The Entrepreneurship Process Discovery to Harvesting in practice]
 
 ## Say it to your companion
 

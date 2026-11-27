@@ -10,11 +10,15 @@ No single reader can check everything; societies grow an **ecosystem** (ekosiste
 
 In your mind's eye: who checks — an ecosystem, not a hero.
 
+[Picture 48564 — who checks — an ecosystem, not a hero]
+
 ## Sub lesson 2 — How a check works — claim, evidence, verdict
 
 A professional check runs in order: fix the **claim** exactly (who said what, where), gather the **evidence** (the original source, the data, the maker asked to answer), and publish a **verdict** with the evidence shown — true, false, misleading, unproven — so the reader can re-walk the road. The reader's skill is using the ecosystem well: search the claim before sharing it, prefer checks that show their evidence, and notice when no check exists yet — 'not yet checked' is itself a reason to wait.
 
 In your mind's eye: how a check works — claim, evidence, verdict.
+
+[Picture 48565 — how a check works — claim, evidence, verdict]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Three functions face outward and inward at once. **Production** makes the thing 
 
 In your mind's eye: making, selling, counting — production, marketing, accounting.
 
+[Picture 48566 — making, selling, counting — production, marketing, accounting]
+
 ## Sub lesson 2 — People and tomorrow — human resources and research
 
 The other two functions serve the organisation itself. **Human resources** cares for the people — hiring, training, paying, keeping them safe and able. **Research and development** looks at tomorrow — better designs, better materials, better ways of making — so the organisation is not standing still while the world moves. Fiji's five together are the map on which the rest of the senior book is drawn: information systems are built *for these functions*, and each function asks the system for different information.
 
 In your mind's eye: people and tomorrow — human resources and research.
+
+[Picture 48567 — people and tomorrow — human resources and research]
 
 ## Say it to your companion
 

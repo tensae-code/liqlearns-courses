@@ -10,6 +10,8 @@ Human societies have changed their centre before. In an **agricultural society**
 
 In your mind's eye: three scenes side by side — fields and farmers, a factory with chimneys, and a city of screens and networks.
 
+[Picture 48572 — three scenes side by side — fields and farmers, a factory with chimneys, and a city of screens and networks]
+
 As computers and networks spread in the second half of the twentieth century, more and more people stopped making things with their hands and started working with information itself — collecting it, processing it, storing it and passing it on. Scholars began to speak of a new kind of society growing out of the industrial one, and the name they gave it is the **information society**.
 
 ## Sub lesson 2 — What an information society is, and its basic features
@@ -17,6 +19,8 @@ As computers and networks spread in the second half of the twentieth century, mo
 An **information society** is a society in which the creation, processing, storage and sharing of information is a central activity — information is treated as a key resource, the way land was in the agricultural age and energy in the industrial age.
 
 In your mind's eye: a town webbed with glowing network lines joining a school, a hospital, a farm, a shop and homes.
+
+[Picture 48573 — a town webbed with glowing network lines joining a school, a hospital, a farm, a shop and homes]
 
 Its basic features, as the book gives them, are these. **Information is a core resource** — organisations rise or fall by how well they use it. **Information technology runs through everything** — production, services, government, school and home all work through networks and information systems. **Information work grows** — more jobs are about data and knowledge than about making physical goods. And **information flows fast and far** — a message, a price or a lesson can cross the world in seconds, so distance matters less than it ever did.
 

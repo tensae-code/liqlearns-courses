@@ -10,11 +10,15 @@ A service hides its fee, and the citizen pays whatever is asked. A service publi
 
 In your mind's eye: transparency — the service in the open.
 
+[Picture 48580 — transparency — the service in the open]
+
 ## Sub lesson 2 — Accountability — and the guidelines that bind them
 
 **Accountability** is transparency with a name attached: every decision has a decider, every complaint a road and a deadline, every taka a record. The Grade 9 session has teams **write the guidelines** for a real service: publish the charter of fees and times; record each application and its decider; give the citizen a receipt and a complaint number; review the records in the open. Guidelines are promises written before they are tested — the service binds itself in advance, which is the only binding a citizen can rely on.
 
 In your mind's eye: accountability — and the guidelines that bind them.
+
+[Picture 48581 — accountability — and the guidelines that bind them]
 
 ## Say it to your companion
 
