@@ -1,0 +1,19 @@
+# Maddoota — Seenaafi Gootota Dhaggeeffachuu
+
+biyyoota: Itoophiyaa
+
+**Kitaaba 1:** *Barnoota Afaan Oromoo, Qajeelcha Barsiisaa Kutaa 7ffaa* (qajeelcha barsiisaa — ragaa; Afaan Oromoo akka afaan dhalootaa barattootaa ti) — Itoophiyaa, Biiroo Barnootaa Bulchiinsa Magaalaa Finfinnee, 2014 A.L.H. / 2022, fuula maxxanfame 1–170. Seera fuulaa: fuulli maxxanfame = fuula PDF − 3. Guutummaatti, fuula fuulaan, dubbifame. Bakka bu'iinsi: liqlearns-courses-work/ethiopia-2026-11-11/afan-oromo/g07-teacher-placements.md.
+
+| Qaama barnootaa | Eessa irraa dhufa |
+|---|---|
+| Barnoota xiqqaa 1 (qajeelcha barsiisotaa — ragaa) — barreeffama dhaggeeffachuu Injifannoo Adwaa, barreeffama guutuun qajeelcha keessatti maxxanfame, cuunfaa qofa; maddi qajeelcha keessatti maqaa dhahame: Gaazexaa Bariisaa, Amajjii 22, 2013; deebiiwwan dhaggeeffachuu booda gootota Oromoo maqaa dhahu — Koloneel Abdiisaa Aagaa, Jeneraal Taaddasaa Birruu, Jeneraal Waaqoo Guutuu, Koloneel Aliyyii Cirrii, Gabayyoo Gurmuu — fi galma aadaa Oromoo | Itoophiyaa, *Barnoota Afaan Oromoo, Qajeelcha Barsiisaa Kutaa 7ffaa* (qajeelcha barsiisaa afaan dhalootaa), fuula maxxanfame 118–119 |
+| Barnoota xiqqaa 2 (qajeelcha barsiisotaa — ragaa) — seenaa jireenyaa dhaggeeffachuu Atileetii Daraartuu Tulluu, barreeffama guutuun qajeelcha keessatti maxxanfame, cuunfaa qofa; maddi qajeelcha keessatti maqaa dhahame: Gaazexaa Bariisaa, 2013 | Itoophiyaa, *Barnoota Afaan Oromoo, Qajeelcha Barsiisaa Kutaa 7ffaa* (qajeelcha barsiisaa afaan dhalootaa), fuula maxxanfame 46–47 |
+| Barnoota xiqqaa 3 (qajeelcha barsiisotaa — ragaa) — seenaa jireenyaa dhaggeeffachuu Abbabach Goobanaa, barreeffama guutuun qajeelcha keessatti maxxanfame, cuunfaa qofa; maddi qajeelcha keessatti maqaa dhahame: Gaazexaa Bariisaa, 2013 | Itoophiyaa, *Barnoota Afaan Oromoo, Qajeelcha Barsiisaa Kutaa 7ffaa* (qajeelcha barsiisaa afaan dhalootaa), fuula maxxanfame 32–33 |
+| Picture 9951 — seenaa fi gootota (barnoota kanaaf hojjetame) | Barreeffama sadan armaan olii irraa ijaarame: Itoophiyaa, *Barnoota Afaan Oromoo, Qajeelcha Barsiisaa Kutaa 7ffaa* (qajeelcha barsiisaa afaan dhalootaa), fuula maxxanfame 32–33, 46–47, 118–119 |
+| GIF 9946 — fiigduun teeppii xumuraa cabsitu (barnoota kanaaf hojjetame) | Sochii xumuraa barreeffama Daraartuu: Itoophiyaa, *Barnoota Afaan Oromoo, Qajeelcha Barsiisaa Kutaa 7ffaa* (qajeelcha barsiisaa afaan dhalootaa), fuula maxxanfame 46–47 |
+
+**Lakkoofsi fudhatamaa: biyyoota 0 keessatti barsiifama — barnoonni kun ragaa qajeelcha barsiisotaa qofa irratti dhaabbata (Itoophiyaa), asitti maqaa dhahame, eessattiyyuu hin lakkaa'amu.**
+
+Dhugaa: kitaabni barataa Afaan Oromoo sadarkaa kamiiyyuu harka hin jiru — kitaabni barataa galmee mana kitaabaa keessa hin jiru. Barnoonni kun ragaa qajeelcha barsiisotaa qofa irraa ijaarame: qabiyyee qajeelchotaa, galma isaanii, gabateewwan silabasii fi furtuu deebii isaanii guutuu (qajeelchoonni deebii gilgaalota kitaaba barataa maxxansu, kun ragaa waan barattoonni godhani ti). Wanti tokkollee asitti akka qabiyyee kitaaba barataa hin dhiyaatu, jechi kitaaba barataa tokkollee hin uumamne. Caasaa: barnoonni kun ragaa qajeelcha afaan dhalootaa Kutaa 7 qofa ti. Barreeffamoonni sadan guutummaatti qajeelcha keessatti maxxanfaman sababni isaas barsiisaan isaan olkaasee dubbisa; isaan asitti akka cuunfaa qofa ti barsiifamu, gonkumaa hin garagalfaman. Waggaan Adwaa akkuma qajeelchi isa maxxansu kenname (1896, A.L.H. akkuma bakka bu'iinsa keessatti maxxanfame). Waggaan dhaloota Daraartuu Tulluu kan qajeelchaa akkuma maxxanfame (Bitootessa 21, 1972, A.L.H.). Gurmaa'inni barreeffama sadanii gara barnoota tokkootti STRUCTURE barnootaa hordofa.
+
+Maqaa barbaachaa: dhaggeeffachuu, seenaa, gootota, Injifannoo Adwaa, Adwaa, Daraartuu Tulluu, Daraartuu Tulluu, Abbabach Goobanaa, seenaa jireenyaa, seenaa jireenyaa, Bariisaa, warqee Olompikii, Haadha Teeresaa Afrikaa
