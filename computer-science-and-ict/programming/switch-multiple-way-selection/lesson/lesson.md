@@ -10,11 +10,15 @@ A chain of ifs asking 'is it 1? is it 2? is it 3?' deserves a cleaner tool. swit
 
 In your mind's eye: cases that match a value.
 
+[Picture 47759 — cases that match a value]
+
 ## Sub lesson 2 — break and default — the two guards
 
 Without **break**, execution **falls through**: the matched case runs, then the **next** case runs too, and so on — occasionally wanted, usually a bug. **default** is the case for **everything else**, the switch's else, catching values the writer did not name. The book adds a full **exercises** section (§3.26) after the structure (§3.25): trace each exercise by naming the matched case and every statement that runs before a break stops it.
 
 In your mind's eye: break and default — the two guards.
+
+[Picture 47760 — break and default — the two guards]
 
 ## Say it to your companion
 

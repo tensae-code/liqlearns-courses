@@ -10,11 +10,15 @@ A working system in a back room helps nobody. Fiji's Phase 5 puts the new system
 
 In your mind's eye: changeover — the old way hands over to the new.
 
+[Picture 47776 — changeover — the old way hands over to the new]
+
 ## Sub lesson 2 — People are implemented too — training and the first days
 
 A system is not implemented until its **people can work it**: users are **trained** before the switch, helped through the first days, and given documents that say how the new way runs. Fiji counts training inside the phase, not as an afterthought, because most 'system failures' at changeover are people meeting an unpractised way of working on a busy morning. The phase ends when the new way is simply *the way* — the old system retired, its data safe in the new, its users at home.
 
 In your mind's eye: people are implemented too — training and the first days.
+
+[Picture 47777 — people are implemented too — training and the first days]
 
 ## Say it to your companion
 

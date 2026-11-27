@@ -10,11 +10,15 @@ In a **syntax diagram**, each construction has its own named chart. **Terminal s
 
 In your mind's eye: reading a diagram — boxes, ovals and the path.
 
+[Picture 47764 — reading a diagram — boxes, ovals and the path]
+
 ## Sub lesson 2 — Diagrams and BNF — the same grammar twice
 
 Diagrams and BNF describe **the same grammar** in two media: every production becomes a chart, every chart reads back into productions. Diagrams show **flow** better (a loop is seen at a glance); BNF is **shorter to write** and easier to print and search. The languages' manuals use both, so the course teaches both: the pupil who can translate a rule between the two truly owns it — as with Pascal and C++, the concept survives its clothing.
 
 In your mind's eye: diagrams and BNF — the same grammar twice.
+
+[Picture 47765 — diagrams and BNF — the same grammar twice]
 
 ## Say it to your companion
 

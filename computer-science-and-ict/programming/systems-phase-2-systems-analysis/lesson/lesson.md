@@ -10,11 +10,15 @@ The decision was go. Now the real study begins: Fiji's Phase 2, systems analysis
 
 In your mind's eye: study the present — fact-finding.
 
+[Picture 47770 — study the present — fact-finding]
+
 ## Sub lesson 2 — Fix the requirements — what the new system must do
 
 Analysis ends by writing the **requirements**: the exact statement of what the new system **must do** — the data it must keep, the processes it must carry, the outputs it must produce, and the limits it must respect. Requirements answer *what*, never *how*: 'any clerk must find a stock figure in under a minute' is a requirement; which program or screen achieves it belongs to design. Fiji's discipline is the phase's gift to every later phase — a wrong requirement fixed here costs a sentence; fixed in development, it costs the build.
 
 In your mind's eye: fix the requirements — what the new system must do.
+
+[Picture 47771 — fix the requirements — what the new system must do]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Graphics work begins with the **Graph unit** named in **uses**, and the call **I
 
 In your mind's eye: initGraph — entering graphics mode.
 
+[Picture 47761 — initGraph — entering graphics mode]
+
 ## Sub lesson 2 — Coordinates and CloseGraph
 
 In graphics mode every point has **coordinates**: x grows to the right, y grows **downward** from the top-left corner — the opposite of the maths graph, and the cause of most first mistakes. Work ends with **CloseGraph**, which returns the screen to text mode. Open the mode once, draw everything, close it once: that frame holds every graphics program in the course.
 
 In your mind's eye: coordinates and CloseGraph.
+
+[Picture 47762 — coordinates and CloseGraph]
 
 ## Say it to your companion
 

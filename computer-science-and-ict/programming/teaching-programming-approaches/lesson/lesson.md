@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Teaching programming — methodical/al
 
 In your mind's eye: teaching programming — methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches.
 
+[Picture 47780 — teaching programming — methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches]
+
 ## Sub lesson 2 — Doing it — Teaching programming — methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches in practice
 
 This part of South Sudan's book teaches **Doing it — Teaching programming — methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches in practice** — covering: Teaching programming — methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Teaching programming — methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Teaching programming — methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches in practice is part of that chain..
 
 In your mind's eye: doing it — Teaching programming. Methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches in practice.
+
+[Picture 47781 — doing it — Teaching programming. Methodical/algorithmic-oriented, data-oriented, specification-oriented, problem type-oriented, language-oriented, instruction-oriented, mathematics-oriented and hardware-oriented approaches in practice]
 
 ## Say it to your companion
 

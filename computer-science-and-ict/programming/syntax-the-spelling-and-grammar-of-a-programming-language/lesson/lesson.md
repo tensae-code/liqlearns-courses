@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Syntax the Spelling and Grammar 
 
 In your mind's eye: syntax the Spelling and Grammar of a Programming Language.
 
+[Picture 47766 — syntax the Spelling and Grammar of a Programming Language]
+
 ## Sub lesson 2 — Doing it — Syntax the Spelling and Grammar of a Programming Language in practice
 
 **Doing it — Syntax the Spelling and Grammar of a Programming Language in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Syntax the Spelling and Grammar of a Programming Language in practice.
+
+[Picture 47767 — doing it — Syntax the Spelling and Grammar of a Programming Language in practice]
 
 ## Say it to your companion
 

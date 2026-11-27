@@ -10,11 +10,15 @@ The system is live — and the world immediately starts changing around it. Fiji
 
 In your mind's eye: three kinds of keeping — fix, adapt, improve.
 
+[Picture 47778 — three kinds of keeping — fix, adapt, improve]
+
 ## Sub lesson 2 — The longest phase — and the wheel turning
 
 Maintenance is **the longest phase** of the cycle: a system may be investigated for weeks and maintained for **years**, and most of a system's whole cost is spent here, not in its building. It is also where the cycle earns its name: maintenance keeps a log of what it cannot fix and what the organisation newly needs, until the day that log becomes the complaint that opens a **new preliminary investigation** — and the wheel turns on the system's replacement. Fiji's maintenance lesson is the senior course's humility: building is an event; keeping is the life.
 
 In your mind's eye: the longest phase — and the wheel turning.
+
+[Picture 47779 — the longest phase — and the wheel turning]
 
 ## Say it to your companion
 

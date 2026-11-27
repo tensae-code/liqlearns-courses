@@ -10,6 +10,8 @@ Sprites that each run their own script live in their own time. **Synchronising t
 
 In your mind's eye: a picture of two sprites on a timeline. The first sprite's action ending, a message arrow flying to the second sprite, whose action begins at the exact moment the first ends.
 
+[Picture 47763 — a picture of two sprites on a timeline. The first sprite's action ending, a message arrow flying to the second sprite, whose action begins at the exact moment the first ends]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Synchronising means sprites act together in time: messages and waits line their actions up, so one sprite starts exactly when another finishes — no gaps, no pile-ups. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

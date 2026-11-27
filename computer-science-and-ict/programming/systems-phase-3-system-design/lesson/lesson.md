@@ -10,11 +10,15 @@ Analysis said what; design now says how. Fiji's Phase 3 draws the new system com
 
 In your mind's eye: design the inside — data and processes.
 
+[Picture 47772 — design the inside — data and processes]
+
 ## Sub lesson 2 — Design the outside — inputs, outputs, and the whole checked
 
 The outside work designs what people meet: the **inputs** — the forms and screens data enters by, laid out so entry is hard to get wrong — and the **outputs** — the screens and printed reports each user receives, carrying exactly their level's information. The phase ends with the whole design **checked against the requirements**, one by one: every 'must' of analysis either designed for, or openly missing. Fiji's design lesson is the blueprint discipline: builders who follow it in Phase 4 never have to guess what they are building.
 
 In your mind's eye: design the outside — inputs, outputs, and the whole checked.
+
+[Picture 47773 — design the outside — inputs, outputs, and the whole checked]
 
 ## Say it to your companion
 

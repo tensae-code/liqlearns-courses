@@ -10,11 +10,15 @@ The **preliminary investigation** is a **short, first look** at the present syst
 
 In your mind's eye: look first — the problem, stated plainly.
 
+[Picture 47768 — look first — the problem, stated plainly]
+
 ## Sub lesson 2 — The decision Phase 1 hands on
 
 The phase ends in a **decision and a report**: go ahead to full analysis, change the idea, or **stop** — stopping is a success of this phase, not a failure, when it saves an organisation from building the wrong system. If the answer is go, the investigation hands analysis its starting gift: the problem stated, the present system sketched, and the limits — money, time, people — written down. At Viti, Phase 1 is where 'the stock cards are always wrong' becomes a bounded question the rest of the cycle can work on.
 
 In your mind's eye: the decision Phase 1 hands on.
+
+[Picture 47769 — the decision Phase 1 hands on]
 
 ## Say it to your companion
 
