@@ -10,6 +10,8 @@ The Finnish form is used after the group projects, and it has three moves, done 
 
 In your mind's eye: the one-page peer feedback form with its three spaces for one group member — two things done well, two things less well and differently next time, and that member's coding strengths.
 
+[Picture 48327 — the one-page peer feedback form with its three spaces for one group member — two things done well, two things less well and differently next time, and that member's coding strengths]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: for each member — two things done well, two things less well with a different way for next time, and that member's coding strengths — all specific, all about the work. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

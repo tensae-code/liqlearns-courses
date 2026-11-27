@@ -10,11 +10,15 @@ A **human-sciences experiment** still follows the classic design: an **independe
 
 In your mind's eye: the experiment on people — variables and control.
 
+[Picture 48319 — variables and control — the shape of an experiment]
+
 ## Sub lesson 2 — Ethics and the computer — the human material
 
 People are not pendulums: the elective's second half is **limits**. Participants must **consent** and may **withdraw**; deception and harm are bounded by ethics rules stricter than any in the physics lab; results about persons are **private data**, protected in storage and publication. The computer serves as the processor: coding the questionnaires, computing the tables and averages, drawing the comparisons — **the same database and list crafts of this course**, now under an ethical discipline that is the real syllabus: in the human sciences, method includes how people may be treated.
 
 In your mind's eye: ethics and the computer — the human material.
+
+[Picture 48320 — ethics and the human material — people are not test tubes]
 
 ## Say it to your companion
 

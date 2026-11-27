@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, ten ways technology improves o
 
 In your mind's eye: , ten ways technology improves or scales a traditional business.
 
+[Picture 48336 — , ten ways technology improves or scales a traditional business]
+
 ## Sub lesson 2 — Doing it — How a Traditional Business Uses Technology to Improve and Scale in practice
 
 **Doing it — How a Traditional Business Uses Technology to Improve and Scale in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — How a Traditional Business Uses Technology to Improve and Scale in practice.
+
+[Picture 48337 — doing it — How a Traditional Business Uses Technology to Improve and Scale in practice]
 
 ## Say it to your companion
 

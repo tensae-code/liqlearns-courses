@@ -10,11 +10,15 @@ Jordan's ground gives green computing a particular shape: **sun in abundance** (
 
 In your mind's eye: why Jordan's case is its own.
 
+[Picture 48332 — why Jordan's case is its own]
+
 ## Sub lesson 2 — Green computing practised in Jordan
 
 The practices the book gathers: **solar power** for schools, companies and data work; **energy-efficient devices and settings** in government and education; **e-services replacing paper and journeys** (Jordan's e-government is a green policy as much as a service one); **recycling and responsible disposal** efforts for electronic waste; and **awareness** — the curriculum itself, this very lesson, as a national instrument. Jordan's closing point: a country's green computing is its principles **translated into its own ground** — and the pupil who can do the translating for Jordan can do it anywhere.
 
 In your mind's eye: green computing practised in Jordan.
+
+[Picture 48333 — green computing practised in Jordan]
 
 ## Say it to your companion
 

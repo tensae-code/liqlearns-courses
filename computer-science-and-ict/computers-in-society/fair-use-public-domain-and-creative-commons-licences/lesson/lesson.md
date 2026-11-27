@@ -10,11 +10,15 @@ The copyright lesson taught the wall: a work is protected, ask its owner. Grade 
 
 In your mind's eye: fair use and the public domain.
 
+[Picture 48323 — fair use and the public domain]
+
 ## Sub lesson 2 — Creative Commons — the creator opens the door
 
 A **Creative Commons licence** is a creator's **standing permission, written in advance**: the work stays the creator's, but the licence states what all may do with it — the family of conditions the licences lessons teach (credit the creator — BY; no commercial use — NC; no changed versions — ND; share under the same licence — SA) combined into the licence the work carries. Greece's unit teaches all three doors in one section because a citizen meets them in one act: meeting a work online and asking, rightly, 'what may I do with this?' — and the answer is one of wall, door one, door two, or door three.
 
 In your mind's eye: creative Commons — the creator opens the door.
+
+[Picture 48324 — creative Commons — the creator opens the door]
 
 ## Say it to your companion
 

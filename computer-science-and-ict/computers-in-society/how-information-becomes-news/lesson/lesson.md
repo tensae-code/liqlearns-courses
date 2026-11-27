@@ -10,11 +10,15 @@ News begins as **information**: an event someone witnessed. **Reporters** gather
 
 In your mind's eye: gathering — agencies and reporters.
 
+[Picture 48338 — gathering — agencies and reporters]
+
 ## Sub lesson 2 — Publishing — print, broadcast and online journalism
 
 The chosen report is written, checked against sources, and published — in print, on air, and now instantly by **online journalism**, where a story can be updated as facts arrive and readers can answer back. Speed is online news's gift and its danger: a story published before its **fact-checking** is done carries errors to millions before the correction wakes. The reader's defence is the course's own skill — verify before you share — applied hardest to the newest news.
 
 In your mind's eye: publishing — print, broadcast and online journalism.
+
+[Picture 48339 — publishing — print, broadcast and online journalism]
 
 ## Say it to your companion
 

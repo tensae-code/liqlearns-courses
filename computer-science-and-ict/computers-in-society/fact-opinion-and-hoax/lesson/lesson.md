@@ -10,11 +10,15 @@ A **fact** is a statement that can be **checked** against the world: it happened
 
 In your mind's eye: fact and opinion — the checkable and the judged.
 
+[Picture 48321 — fact and opinion — the checkable and the judged]
+
 ## Sub lesson 2 — Hoax — the lie built to travel
 
 A **hoax** (hoaks) is neither: a statement **made to deceive**, built to be believed and forwarded — dressed as fact, sweetened with emotion, and aimed at a crowd. Its marks are the opposite of a credible source's: no accountable maker, no inspectable evidence, and pressure to share before thinking. The defence is the course's whole literacy kit used at the moment of arrival: pause, name what kind of statement it is, check it against a source whose business is truth, and let a hoax die unforwarded — a chain broken by one careful reader.
 
 In your mind's eye: hoax — the lie built to travel.
+
+[Picture 48322 — hoax — the lie built to travel]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Every digital project begins as an **idea** — something to show, teach, celebr
 
 In your mind's eye: the idea becomes a plan — what, for whom, in what parts.
 
+[Picture 48325 — the idea becomes a plan — what, for whom, in what parts]
+
 ## Sub lesson 2 — Parts become a project — build, join, show
 
 Building follows the plan part by part, and the project's craft is in the **joining**: the collected data appears in the presentation; the presentation's best page becomes the website's front; names, colours and words agree across the parts so the audience meets **one thing**, not three exercises. The road ends in **showing**: the project is presented to its real audience, whose questions reveal what the maker could not see. Egypt ends primary ICT's project unit here — idea, plan, parts, joining, showing — because that five-step road is the one every bigger project in this course, up to the secondary programming projects, will walk again at greater length.
 
 In your mind's eye: parts become a project — build, join, show.
+
+[Picture 48326 — parts become a project — build, join, show]
 
 ## Say it to your companion
 

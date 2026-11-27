@@ -10,11 +10,15 @@ Google+ was Google's social network: profiles and pages published posts to strea
 
 In your mind's eye: google+.
 
+[Picture 48330 — google+]
+
 ## Sub lesson 2 — Doing it — Google+ in practice
 
 Google+ — the Social Network is learned by doing: the learner meets Google+ as the book presents it — its profiles and pages, its streams, and how it stood among the social networks of the book's time The learner meets Google+ as the book presents it — its profiles and pages, its streams, and how it stood among the social networks of the book's time Because the book teaches social networks platform by platform, and Google+ shows a network organised around groups of people rather than one public list.
 
 In your mind's eye: doing it — Google+ in practice.
+
+[Picture 48331 — doing it — Google+ in practice]
 
 ## Say it to your companion
 
