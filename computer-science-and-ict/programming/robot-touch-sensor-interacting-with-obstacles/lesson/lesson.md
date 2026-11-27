@@ -10,11 +10,15 @@ The **Touch sensor** is a button on the robot's front that is **pressed when the
 
 In your mind's eye: the Touch sensor — the robot feels what it meets.
 
+[Picture 47604 — the Touch sensor — the robot feels what it meets]
+
 ## Sub lesson 2 — Missions — parking, and the robot returns home
 
 The book's missions spend the new sense at once. In **parking**, the robot drives into its bay until touch says the bay's end is reached — stopping by evidence, not by a guessed distance. In **robot returns home**, touch marks the journey's landmarks: each meeting with an obstacle is information the program uses to find its way back. Both missions run in the **RCJ Rescue simulation** in Open Roberta Lab, on the SPIKE robot — competition ground, in the classroom.
 
 In your mind's eye: missions — parking, and the robot returns home.
+
+[Picture 47605 — missions — parking, and the robot returns home]
 
 ## Say it to your companion
 

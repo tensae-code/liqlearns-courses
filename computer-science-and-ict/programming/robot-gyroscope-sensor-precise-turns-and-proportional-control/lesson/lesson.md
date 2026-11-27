@@ -10,11 +10,15 @@ The **gyroscope sensor** measures the robot's **rotation**: how many degrees it 
 
 In your mind's eye: the gyroscope — knowing the robot's angle.
 
+[Picture 47596 — the gyroscope — knowing the robot's angle]
+
 ## Sub lesson 2 — Proportional control — correcting by the error, with Kp
 
 Driving straight is a fight against drift, and **proportional control** is the fair way to fight it: measure the **error** — how far the heading is from the target — and correct **in proportion** to it: a big error, a strong correction; a small error, a gentle one. The proportion is set by the constant **Kp**: too small and the robot wanders; too large and it twitches. Tuning Kp — trying, watching, adjusting — is the engineer's real work, and Kuwait teaches it by name in Grade 8.
 
 In your mind's eye: proportional control — correcting by the error, with Kp.
+
+[Picture 47597 — proportional control — correcting by the error, with Kp]
 
 ## Say it to your companion
 

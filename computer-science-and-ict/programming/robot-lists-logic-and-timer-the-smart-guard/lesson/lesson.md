@@ -10,11 +10,15 @@ Open Roberta Lab programs can keep **lists**: a **number list** (distances measu
 
 In your mind's eye: lists and logic — the guard's memory and judgement.
 
+[Picture 47598 — lists and logic — the guard's memory and judgement]
+
 ## Sub lesson 2 — The Timer — and the Smart Guard
 
 The **Timer** gives the program the time: how long since the patrol began, whether a pause has lasted its seconds — a guard's rounds are timed work. The **Smart Guard Robot** is the build that spends all three: it patrols with its lists recording the route, its logic deciding what counts as wrong, and its timer pacing the rounds and the alarms. Memory, judgement and time — the series' robot graduates from following lines to keeping watch.
 
 In your mind's eye: the Timer — and the Smart Guard.
+
+[Picture 47599 — the Timer — and the Smart Guard]
 
 ## Say it to your companion
 

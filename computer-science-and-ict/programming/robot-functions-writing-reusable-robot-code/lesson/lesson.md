@@ -10,11 +10,15 @@ A **function** in the robot program is a **named block of robot code** that does
 
 In your mind's eye: functions — a named manoeuvre, defined once and called.
 
+[Picture 47594 — functions — a named manoeuvre, defined once and called]
+
 ## Sub lesson 2 — The Smart Explorer — functions at work
 
 The unit's **Smart Explorer project** is where functions earn their place: an exploring robot repeats its manoeuvres — advance, sense, turn, mark — at every new place it reaches, and a program built from named functions can be **repaired in one place** (mend corner_detection and every corner is mended) and **grown** by adding calls, not copies. Kuwait ends the unit here because this is where robot scripts become robot programs.
 
 In your mind's eye: the Smart Explorer — functions at work.
+
+[Picture 47595 — the Smart Explorer — functions at work]
 
 ## Say it to your companion
 

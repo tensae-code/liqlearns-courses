@@ -10,11 +10,15 @@ Grade 8 corrected drift in proportion to the error. Grade 9 completes the contro
 
 In your mind's eye: three corrections — P, I and D.
 
+[Picture 47600 — three corrections — P, I and D]
+
 ## Sub lesson 2 — PID on the line
 
 On the line, the error is the reflected-light reading's distance from the line's edge value, read many times a second. P alone wanders around the edge; I removes the stubborn offset of a curved or tilted run; D damps the zigzag that eager correction causes. Tuning three constants instead of one is harder and is the point: the Grade 9 robot is kept on its line by the same controller family that keeps real machines on theirs — Kuwait's robotics strand arriving at genuine control theory.
 
 In your mind's eye: pID on the line.
+
+[Picture 47601 — pID on the line]
 
 ## Say it to your companion
 

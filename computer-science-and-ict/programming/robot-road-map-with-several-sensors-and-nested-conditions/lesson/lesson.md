@@ -10,11 +10,15 @@ The road-map robot reads its **sensors together**: touch for contact, ultrasonic
 
 In your mind's eye: several sensors together — and variables for distances.
 
+[Picture 47602 — several sensors together — and variables for distances]
+
 ## Sub lesson 2 — Nested conditions — decisions inside decisions
 
 Road decisions are **nested**: **if** the way is clear, **then if** the distance is shrinking, slow — otherwise hold speed; **else** turn. A condition inside a condition is how a program answers a world that asks two questions at once. Kuwait places nesting here, in the robot, because the road makes its need visible: single conditions drive into walls that two questions would have avoided.
 
 In your mind's eye: nested conditions — decisions inside decisions.
+
+[Picture 47603 — nested conditions — decisions inside decisions]
 
 ## Say it to your companion
 

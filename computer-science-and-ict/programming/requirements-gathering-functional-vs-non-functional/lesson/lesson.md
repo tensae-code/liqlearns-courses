@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Stages in SDLC: §1.2.2.1 Requir
 
 In your mind's eye: stages in SDLC. §1.2.2.1 Requirement Gathering.
 
+[Picture 47586 — stages in SDLC. §1.2.2.1 Requirement Gathering]
+
 ## Sub lesson 2 — Doing it — Requirements Gathering Functional vs Non Functional in practice
 
 **Doing it — Requirements Gathering Functional vs Non Functional in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Requirements Gathering Functional vs Non Functional in practice.
+
+[Picture 47587 — doing it — Requirements Gathering Functional vs Non Functional in practice]
 
 ## Say it to your companion
 

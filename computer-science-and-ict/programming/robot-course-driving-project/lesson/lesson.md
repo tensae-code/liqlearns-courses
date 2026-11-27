@@ -10,11 +10,15 @@ The project drives the class's educational robot around a **test course (sa bàn
 
 In your mind's eye: the course and the plan — read the sa bàn first.
 
+[Picture 47592 — the course and the plan — read the sa bàn first]
+
 ## Sub lesson 2 — Run, watch, tune — the refining loop
 
 No first run survives the real course: wheels slip, light changes, distances drift. The project's method is the **refining loop** — run the course, **watch where the robot fails**, change **one thing** (a speed, a turn time, a sensor threshold), and run again. The final project run is judged whole: the robot completes the course **by its program alone**, and the group's report names what each tuning changed. The loop, not the lucky run, is the skill being certified.
 
 In your mind's eye: run, watch, tune — the refining loop.
+
+[Picture 47593 — run, watch, tune — the refining loop]
 
 ## Say it to your companion
 

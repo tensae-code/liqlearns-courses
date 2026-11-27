@@ -12,6 +12,8 @@ Codes are chosen for their **channel**. Morse code (dots, dashes, gaps) fits a c
 
 In your mind's eye: coding-representations: one letter and one price shown four ways — as a letter, in Morse, as a barcode, and as a QR square.
 
+[Picture 47584 — coding-representations: one letter and one price shown four ways — as a letter, in Morse, as a barcode, and as a QR square]
+
 A code also lives or dies by being shared. The sign means nothing without the rule: ·− is just beeps to someone who has never seen the Morse table. Every code in this strand — and every cipher in the lessons after it — is a rule that sender and receiver hold in common, or agree before the message travels.
 
 ## Sub lesson 2 — What a good code must do
@@ -21,6 +23,8 @@ Three demands decide whether a code works. First, **unambiguous**: one sign must
 Third, a code should **fit the traffic**: frequent items deserve short signs. Morse knew this in the 1830s — E, the commonest letter in English, is a single dot; rare Q is dash-dash-dot-dash. Short-for-frequent keeps messages quick and small, and the same pressure shapes how computers pack data.
 
 In your mind's eye: coding-uniqueness. A stream of dots and dashes splitting two ways under a bad code, and only one way under a good code.
+
+[Picture 47585 — coding-uniqueness. A stream of dots and dashes splitting two ways under a bad code, and only one way under a good code]
 
 Some codes even build in a tripwire for damage: an extra sign computed from the others (a **check digit**, like the last digit of a barcode) lets the reader notice a misread or a smudge — the code then not only represents the information, it guards it. Hold the three demands — unambiguous, uniquely decodable, fitted to its traffic — and you can judge any code, including the ones the computer itself uses in the next lesson.
 
