@@ -10,11 +10,15 @@ Students Circle Network is a social network built for education — an OpenCours
 
 In your mind's eye: students circle network — an OpenCourseWare social network.
 
+[Picture 48538 — students circle network — an OpenCourseWare social network]
+
 ## Sub lesson 2 — Features — profiles, private messages, chat, aggregated courses, study groups and social games
 
 Students Circle Network is learned by doing: the learner meets the network and its features: profiles, private messages, chat, aggregated courses, study groups and social games, and says what each feature is for The learner meets the network and its features: profiles, private messages, chat, aggregated courses, study groups and social games, and says what each feature is for Because it shows social networking turned to study: the same tools as the big platforms, pointed at courses and learning.
 
 In your mind's eye: features — profiles, private messages, chat, aggregated courses, study groups and social games.
+
+[Picture 48539 — features — profiles, private messages, chat, aggregated courses, study groups and social games]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Understanding Terms of Use** —
 
 In your mind's eye: understanding Terms of Use.
 
+[Picture 48552 — understanding Terms of Use]
+
 ## Sub lesson 2 — Doing it — Terms of Use the Contract You Click Agree to in practice
 
 **Doing it — Terms of Use the Contract You Click Agree to in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Terms of Use the Contract You Click Agree to in practice.
+
+[Picture 48553 — doing it — Terms of Use the Contract You Click Agree to in practice]
 
 ## Say it to your companion
 

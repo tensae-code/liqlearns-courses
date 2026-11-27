@@ -10,11 +10,15 @@ Digital life raises questions no exercise can settle alone: May I share this pho
 
 In your mind's eye: why the class talks about digital life.
 
+[Picture 48542 — why the class talks about digital life]
+
 ## Sub lesson 2 — How a good dialogue runs
 
 A good dialogue has a shape: one question at a time; speak from your own experience; listen fully before answering; disagree with the idea, never attack the person; and let the question grow — a good talk ends with better questions than it started with. Image rights and shocking content return often in these talks, because they are the moments young pupils actually meet: a photo of someone else, a picture that frightens, a share that cannot be taken back.
 
 In your mind's eye: how a good dialogue runs.
+
+[Picture 48543 — how a good dialogue runs]
 
 ## Say it to your companion
 

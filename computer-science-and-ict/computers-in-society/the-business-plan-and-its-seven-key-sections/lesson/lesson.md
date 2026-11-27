@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Business plan and §6.1.1 Define
 
 In your mind's eye: business plan and §6.1.1 Define business plan and its components.
 
+[Picture 48554 — business plan and §6.1.1 Define business plan and its components]
+
 ## Sub lesson 2 — Doing it — The Business Plan and Its Seven Key Sections in practice
 
 **Doing it — The Business Plan and Its Seven Key Sections in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The Business Plan and Its Seven Key Sections in practice.
+
+[Picture 48555 — doing it — The Business Plan and Its Seven Key Sections in practice]
 
 ## Say it to your companion
 

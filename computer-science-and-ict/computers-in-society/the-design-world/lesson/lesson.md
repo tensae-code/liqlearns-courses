@@ -10,11 +10,15 @@ The **design world** includes **all the designed things around us**. It is the w
 
 In your mind's eye: design is everywhere.
 
+[Picture 48558 — design is everywhere]
+
 ## Sub lesson 2 — Roles of design technology
 
 **Design technology** studies **how design changes and serves society**. Design affects how we **live, work and travel**, and good design considers **users, materials and the environment** together. Poor design leads to products that fail their users. The design-world lesson opens the guide's Design Technology topic.
 
 In your mind's eye: roles of design technology.
+
+[Picture 48559 — roles of design technology]
 
 ## Say it to your companion
 

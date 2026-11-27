@@ -10,11 +10,15 @@ When an organisation replaces a hand system with a computerised one, the work fo
 
 In your mind's eye: building a computerised system in eight steps.
 
+[Picture 48540 — building a computerised system in eight steps]
+
 ## Sub lesson 2 — Systems analysis, then systems design
 
 The road's first half is **systems analysis**: studying the present system — its data, its people, its faults — and fixing exactly what the new system must do. The second half begins with **systems design**: drawing the new system before it is built — its files, its inputs, its processing and its outputs — so the builders work from a plan, not from guesses. Analysis asks *what*; design answers *how*; the book's worked example after this lesson, a complete system for a spare-parts factory, is analysed and designed exactly this way.
 
 In your mind's eye: systems analysis, then systems design.
+
+[Picture 48541 — systems analysis, then systems design]
 
 ## Say it to your companion
 

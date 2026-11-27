@@ -10,11 +10,15 @@ A **design brief** is a written statement of a **problem to be solved by designi
 
 In your mind's eye: what a design brief is.
 
+[Picture 48556 — what a design brief is]
+
 ## Sub lesson 2 — The stages of a design brief, worked on a case
 
 The stages carry the brief forward in order: **research** the problem and the needs, state the **requirements**, **sketch ideas**, **choose** the best idea against the brief, **make** a first version, **test** it, and **improve** it. A **case study** of a design brief shows one real brief carried through every stage to a finished product, so each stage can be seen at work.
 
 In your mind's eye: the stages of a design brief, worked on a case.
+
+[Picture 48557 — the stages of a design brief, worked on a case]
 
 ## Say it to your companion
 

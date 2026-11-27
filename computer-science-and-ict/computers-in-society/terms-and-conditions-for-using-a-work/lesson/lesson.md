@@ -10,11 +10,15 @@ Every app you install asks you to agree to pages you never read. Those pages are
 
 In your mind's eye: what terms and conditions are.
 
+[Picture 48550 — what terms and conditions are]
+
 ## Sub lesson 2 — Making the sheet — the class project
 
 The Grade 7 session has each team **make a terms and conditions sheet** for a work of theirs: name the work and its owner; state what use is **allowed** (see, copy for study, perform, build on); state what is **forbidden** (selling it, claiming it, changing it without credit); state the **price or freedom** and the **time** it lasts; and end with what happens when the terms are broken. Writing both columns — allowed and forbidden — is the whole craft: a sheet that only forbids teaches nothing about the use it exists to grant.
 
 In your mind's eye: making the sheet — the class project.
+
+[Picture 48551 — making the sheet — the class project]
 
 ## Say it to your companion
 

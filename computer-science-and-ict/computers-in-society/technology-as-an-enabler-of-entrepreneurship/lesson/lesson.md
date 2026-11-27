@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Technology as an enabler in entr
 
 In your mind's eye: technology as an enabler in entrepreneurship.
 
+[Picture 48546 — technology as an enabler in entrepreneurship]
+
 ## Sub lesson 2 — Doing it — Technology as an Enabler of Entrepreneurship in practice
 
 **Doing it — Technology as an Enabler of Entrepreneurship in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Technology as an Enabler of Entrepreneurship in practice.
+
+[Picture 48547 — doing it — Technology as an Enabler of Entrepreneurship in practice]
 
 ## Say it to your companion
 
