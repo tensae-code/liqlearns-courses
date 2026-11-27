@@ -10,11 +10,15 @@ Python analysis begins by **loading a data file** — a CSV or similar — into 
 
 In your mind's eye: loading — the file becomes a table.
 
+[Picture 48678 — loading — the file becomes a table]
+
 ## Sub lesson 2 — Displaying in full — meeting the whole data
 
 Jordan insists on **displaying the data in full** at the start: the whole table printed or scrolled, not a sample — so the analyst's eye meets the missing values, the strange entry, the column that is all one value, before any statistic hides them inside an average. Only after the full look do the unit's later tools (statistics, charts) earn their turn. The habit is the lesson: in Python the commands are short, so the discipline must be deliberate — load, look at everything, then analyse.
 
 In your mind's eye: displaying in full — meeting the whole data.
+
+[Picture 48679 — displaying in full — meeting the whole data]
 
 ## Say it to your companion
 

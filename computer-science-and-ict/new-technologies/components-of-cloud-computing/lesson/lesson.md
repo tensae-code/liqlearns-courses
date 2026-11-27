@@ -10,11 +10,15 @@ A cloud system stands on **data centres** — buildings of servers, storage and 
 
 In your mind's eye: the physical and virtual parts.
 
+[Picture 48684 — the physical and virtual parts]
+
 ## Sub lesson 2 — The reaching parts — clients, networks, services
 
 On the user's side: the **client devices** (anything with a browser or app), the **internet connection** that is the cloud's road, and the **services** themselves, offered in the models the next lesson names (IaaS, PaaS, SaaS). Jordan's components lesson insists on the whole chain because every link can fail or be attacked: a cloud is exactly as strong, and exactly as private, as its weakest component.
 
 In your mind's eye: the reaching parts — clients, networks, services.
+
+[Picture 48685 — the reaching parts — clients, networks, services]
 
 ## Say it to your companion
 

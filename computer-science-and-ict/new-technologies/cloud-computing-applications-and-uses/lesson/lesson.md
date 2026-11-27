@@ -10,11 +10,15 @@ The cloud's common applications: **storage and backup** (files safe beyond one d
 
 In your mind's eye: the everyday uses.
 
+[Picture 48674 — the everyday uses]
+
 ## Sub lesson 2 — Uses in the fields
 
 Field by field: **education** (classes, files and learning platforms reaching any home), **health** (records shared between clinics, with the strictest privacy duties), **business** (shops and banks scaling at their busy seasons), **government** (services online for every citizen), and **science** (renting a thousand computers for a week's calculation). Jordan's closing point: the fields differ in their duties — health's privacy is not a shop's — but the cloud's shape serves them all, which is why it became the default ground of new systems.
 
 In your mind's eye: uses in the fields.
+
+[Picture 48675 — uses in the fields]
 
 ## Say it to your companion
 

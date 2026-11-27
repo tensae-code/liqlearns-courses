@@ -10,11 +10,15 @@ Your phone dies in a river. Your photos survive. That small miracle has a machin
 
 In your mind's eye: what cloud storage is.
 
+[Picture 48676 — what cloud storage is]
+
 ## Sub lesson 2 — Its terms — sync, sharing and trust
 
 Cloud storage brings working habits with names: **synchronisation** keeps the same file current on every device; **sharing** sends a link instead of a copy; **versioning** keeps earlier shapes of a file. Its price is **trust**: your data sits under another company's roof, under its security and its country's laws — so what may live there is a decision, and the course's security lessons (encryption, strong accounts) travel with every upload.
 
 In your mind's eye: its terms — sync, sharing and trust.
+
+[Picture 48677 — its terms — sync, sharing and trust]
 
 ## Say it to your companion
 

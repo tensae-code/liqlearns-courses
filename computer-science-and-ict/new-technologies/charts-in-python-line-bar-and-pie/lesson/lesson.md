@@ -10,11 +10,15 @@ Each chart has its job. The **line chart** shows a measure **over time** — its
 
 In your mind's eye: the three charts and their jobs.
 
+[Picture 48672 — the three charts and their jobs]
+
 ## Sub lesson 2 — Identifying patterns in charts
 
 Reading a chart means naming its **pattern**: a **trend** (steady rise or fall), a **season** (a rhythm that repeats), a **peak or dip** (and the event that explains it), a **gap** between groups, an **outlier** standing apart. Jordan's second placement under this slug is the reading, taught as a skill with a discipline: state the pattern in words, check it against the numbers, and ask what else could draw the same shape — a chart's pattern is a claim, and claims are checked.
 
 In your mind's eye: identifying patterns in charts.
+
+[Picture 48673 — identifying patterns in charts]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ An IoT system is first defined by **connectivity**: its things are linked — to
 
 In your mind's eye: connectivity and heterogeneity.
 
+[Picture 48670 — connectivity and heterogeneity]
+
 ## Sub lesson 2 — Scalability and security
 
 **Scalability** means the system can grow — from ten sensors to ten thousand — without being rebuilt: addresses, networks and data handling must stretch. **Security** is a characteristic, not an afterthought: every connected thing is a door, so identity, encryption and updates are designed in from the start. Jordan's list closes the definition of IoT itself: a system that cannot connect, mix, grow and protect is not yet an IoT system, however smart its parts.
 
 In your mind's eye: scalability and security.
+
+[Picture 48671 — scalability and security]
 
 ## Say it to your companion
 

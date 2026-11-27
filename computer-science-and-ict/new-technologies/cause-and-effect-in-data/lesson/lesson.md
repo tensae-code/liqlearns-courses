@@ -10,11 +10,15 @@ Two measures that move together are **correlated**; one **causes** the other onl
 
 In your mind's eye: correlation is not cause.
 
+[Picture 48668 — correlation is not cause]
+
 ## Sub lesson 2 — Establishing cause — the honest roads
 
 Cause is earned, not spotted: by **experiment** (change only X, hold the rest, watch Y — the gold road, not always open), by **mechanism** (a believable chain from X to Y, link by link), by **order and dose** (the cause comes first; more cause, more effect), and by **ruling out** the third factors one by one. The lesson's closing discipline: in data work, say 'is linked to' until the roads are walked — the words 'causes' are spent only when earned, because decisions built on false causes waste the money the analysis was hired to save.
 
 In your mind's eye: establishing cause — the honest roads.
+
+[Picture 48669 — establishing cause — the honest roads]
 
 ## Say it to your companion
 

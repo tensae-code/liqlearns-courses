@@ -10,11 +10,15 @@ IoT **data collection** is sensing done **continuously and automatically**: sens
 
 In your mind's eye: how IoT collects — continuous, automatic, at scale.
 
+[Picture 48680 — how IoT collects — continuous, automatic, at scale]
+
 ## Sub lesson 2 — Trust — what can poison a collection
 
 Continuous data is not automatically true data. A **misplaced or fouled sensor** lies steadily; a **gap** in transmission hides exactly the storm you needed; **duplicated or mis-timed** readings bend the averages. The collector's crafts are calibration, checking a sensor's stream against a neighbour's, and recording the collection's own story (where, how often, what failed) beside the data — the story that lets a later analyst judge what the numbers may claim.
 
 In your mind's eye: trust — what can poison a collection.
+
+[Picture 48681 — trust — what can poison a collection]
 
 ## Say it to your companion
 

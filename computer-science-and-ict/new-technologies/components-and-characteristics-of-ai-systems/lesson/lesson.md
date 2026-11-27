@@ -10,11 +10,15 @@ An AI system's standing **components**: the **data** it learns or reasons from, 
 
 In your mind's eye: components and preparation.
 
+[Picture 48682 — components and preparation]
+
 ## Sub lesson 2 — Characteristics — what marks AI off
 
 AI systems are marked by: **learning** (improving from data or experience), **reasoning** (drawing conclusions), **perception** (taking in speech, images, signals), **language** (understanding or producing words), and **adaptation** (holding their performance as the world shifts). Jordan's Grade 9 list is a measuring stick: hold any claimed 'AI' against the five marks, and the honest ones — a thermostat has none but reaction; a recogniser has several — sort themselves.
 
 In your mind's eye: characteristics — what marks AI off.
+
+[Picture 48683 — characteristics — what marks AI off]
 
 ## Say it to your companion
 
