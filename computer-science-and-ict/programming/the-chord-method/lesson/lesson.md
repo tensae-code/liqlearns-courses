@@ -10,11 +10,15 @@ Draw the **chord** — the straight segment joining the points (a, f(a)) and (b,
 
 In your mind's eye: the chord's crossing — values, not only signs.
 
+[Picture 47816 — the chord's crossing — values, not only signs]
+
 ## Sub lesson 2 — Speed and its condition — the honest slope
 
 When the function is **nearly straight** across the bracket, the chord's crossing lands almost on the root: convergence in a few steps where bisection needed dozens. The method's assumption is exactly that honesty: a **strongly curving** function can make one bracket end **stick** (its f always losing the comparison), narrowing from one side only — slower, but still bracketed, still certain, because the sign discipline is never surrendered. The stopping rule serves both methods: when the bracket (or the step |c_new − c_old|) is under the demanded precision, report c with its bound.
 
 In your mind's eye: speed and its condition — the honest slope.
+
+[Picture 47817 — speed and its condition — the honest slope]
 
 ## Say it to your companion
 

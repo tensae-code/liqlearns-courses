@@ -10,11 +10,15 @@ The **boolean** type, named for George Boole, holds exactly two values: **true**
 
 In your mind's eye: boolean — two values only.
 
+[Picture 47810 — boolean — two values only]
+
 ## Sub lesson 2 — Combining booleans — and, or, not
 
 Booleans combine with three operations. **and** gives true only when **both** sides are true; **or** gives true when **at least one** side is true; **not** flips the value — not true is false. With them, compound questions become single expressions: `age >= 18 and hasTicket` asks both admission questions at once. The order of working follows brackets first, then not, and, or — and a table of the few cases (there are only four for two inputs) proves any combination before a program trusts it.
 
 In your mind's eye: combining booleans — and, or, not.
+
+[Picture 47811 — combining booleans — and, or, not]
 
 ## Say it to your companion
 

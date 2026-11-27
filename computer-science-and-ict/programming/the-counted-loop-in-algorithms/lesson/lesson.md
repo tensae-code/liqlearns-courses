@@ -10,11 +10,15 @@ A **counted loop** repeats its body a **known number of times**. Its steersman i
 
 In your mind's eye: the counter — a variable that climbs.
 
+[Picture 47820 — the counter — a variable that climbs]
+
 ## Sub lesson 2 — Working counted loops — fences and sums
 
 The counted loop's classic work: anything with a **fixed count of like steps** — drawing a fence of n posts, reading n marks, summing the first n numbers. Tracing is its proof: for the sum 1+2+3, the counter walks 1, 2, 3 while the sum grows 1, 3, 6 — a table of counter, body action and accumulator shows the loop **must** end (the counter climbs to its limit without fail) and **must** be right (each value enters exactly once). An **accumulator** — a variable gathering the running total — is the counted loop's usual partner.
 
 In your mind's eye: working counted loops — fences and sums.
+
+[Picture 47821 — working counted loops — fences and sums]
 
 ## Say it to your companion
 

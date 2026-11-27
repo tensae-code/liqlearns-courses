@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Benefits of Algorithmic Thinking
 
 In your mind's eye: benefits of Algorithmic Thinking.
 
+[Picture 47804 — benefits of Algorithmic Thinking]
+
 ## Sub lesson 2 — Doing it — The Benefits of Algorithmic Thinking in practice
 
 **Doing it — The Benefits of Algorithmic Thinking in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The Benefits of Algorithmic Thinking in practice.
+
+[Picture 47805 — doing it — The Benefits of Algorithmic Thinking in practice]
 
 ## Say it to your companion
 

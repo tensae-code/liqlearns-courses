@@ -10,11 +10,15 @@ The **char** type holds **exactly one character** — a letter, a digit-characte
 
 In your mind's eye: one character, written and stored.
 
+[Picture 47814 — one character, written and stored]
+
 ## Sub lesson 2 — Chars are ordinal — order and arithmetic by code
 
 Because a char is a code number, char is an **ordinal type**: characters **compare** by code ('A' < 'B'), **succ and pred** step along the table (succ('A') = 'B'), **ord** gives the code, **chr** turns a code back into its character. Digits are characters too — '7' is the character with code 55, **not** the number 7 — and turning a digit-character into its numeric value is a small computation (ord('7') − ord('0')) every text-processing program performs. Case lives in the table as well: capitals and smalls stand a fixed distance apart.
 
 In your mind's eye: chars are ordinal — order and arithmetic by code.
+
+[Picture 47815 — chars are ordinal — order and arithmetic by code]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ An **action** is one **elementary operation performed by the executor** while a 
 
 In your mind's eye: an action — the program's smallest deed.
 
+[Picture 47818 — an action — the program's smallest deed]
+
 ## Sub lesson 2 — Elementary and composed actions
 
 Some actions are **elementary** for their executor — one command, done at once, like adding two numbers in a register. Others are **composed**: named blocks (an instruction, a procedure) that unfold into many elementary actions when executed. The same deed can be elementary on one level and composed on another: 'print the table' is one action to the caller, a hundred to the machine. Programming is largely the art of **composing**: building big actions from small ones until the program reads as a few clear deeds.
 
 In your mind's eye: elementary and composed actions.
+
+[Picture 47819 — elementary and composed actions]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ In C++ the loop is written **do { … } while (condition);** — note the semico
 
 In your mind's eye: body first, test after.
 
+[Picture 47824 — body first, test after]
+
 ## Sub lesson 2 — Choosing do-while — and its practice tasks
 
 Use do-while when the first run must happen before a sensible test exists — the classic case is **asking for input and validating it**: show the prompt, read the answer, repeat while the answer is invalid. The book follows the structure with **practice tasks** (and a further set of exercises in the links-pass reading, §3.30): trace each task by writing the body's runs in a row and marking the test result after each run, so the stopping run is visible.
 
 In your mind's eye: choosing do-while — and its practice tasks.
+
+[Picture 47825 — choosing do-while — and its practice tasks]
 
 ## Say it to your companion
 

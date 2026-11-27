@@ -10,11 +10,15 @@ The **case** instruction begins with a **selector** — an expression of ordinal
 
 In your mind's eye: selector and labels — one value, one branch.
 
+[Picture 47812 — selector and labels — one value, one branch]
+
 ## Sub lesson 2 — case against if-chains — choosing the chooser
 
 A chain of if…else if tests **conditions** one by one, each possibly different; case tests **one value** against a set — clearer when the choice is truly by value, and the compiler can even check the labels for duplicates. C++ spells the same idea **switch**, with break ending each branch — forgetting break lets execution **fall through** into the next branch, switch's classic trap, which Pascal's case does not have. Rule: one value choosing among labelled roads — case; unrelated conditions — the if-chain.
 
 In your mind's eye: case against if-chains — choosing the chooser.
+
+[Picture 47813 — case against if-chains — choosing the chooser]
 
 ## Say it to your companion
 

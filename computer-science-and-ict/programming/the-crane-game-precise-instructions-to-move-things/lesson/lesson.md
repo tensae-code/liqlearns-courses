@@ -10,11 +10,15 @@ In the **crane game (jeu de la grue)**, one pupil is the crane: eyes perhaps clo
 
 In your mind's eye: the crane obeys literally.
 
+[Picture 47822 — the crane obeys literally]
+
 ## Sub lesson 2 — Precision is a learnable craft
 
 Failed pickups are the curriculum: “go down” fails where “down ten centimetres” lands; “turn” fails where “turn left” lands. The class repairs each failure by naming its vagueness and rewriting the instruction — direction, amount, order — until the crane succeeds. That repair loop, played at age six, is debugging before the word: the program was wrong, never the crane.
 
 In your mind's eye: precision is a learnable craft.
+
+[Picture 47823 — precision is a learnable craft]
 
 ## Say it to your companion
 
