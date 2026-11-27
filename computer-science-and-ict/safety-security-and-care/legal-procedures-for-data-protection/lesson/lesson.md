@@ -10,11 +10,15 @@ Data-protection **law** sets the duties around personal data: who may **collect*
 
 In your mind's eye: what the law does for data.
 
+[Picture 48131 — what the law does for data]
+
 ## Sub lesson 2 — Procedures in practice
 
 In practice the procedures touch everyone: an organisation **registers and documents** what personal data it holds and why; a **breach** must be reported to the authority and the affected people within the law's terms; a citizen **requests** to see or correct their data by a stated route; and **violations** meet stated consequences — fines and liability — decided by stated bodies. Jordan's Grade 7 lesson teaches procedures, not slogans, because protection a citizen cannot operate is protection on paper only: the pupil learns the route as well as the right.
 
 In your mind's eye: procedures in practice.
+
+[Picture 48132 — procedures in practice]
 
 ## Say it to your companion
 

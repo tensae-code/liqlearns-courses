@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Using Vigenere Cipher Widget** �
 
 In your mind's eye: using Vigenere Cipher Widget.
 
+[Picture 48137 — using Vigenere Cipher Widget]
+
 ## Sub lesson 2 — Doing it — Practical Encrypt and Decrypt with the Vigenere Widget in practice
 
 **Doing it — Practical Encrypt and Decrypt with the Vigenere Widget in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Practical Encrypt and Decrypt with the Vigenere Widget in practice.
+
+[Picture 48138 — doing it — Practical Encrypt and Decrypt with the Vigenere Widget in practice]
 
 ## Say it to your companion
 

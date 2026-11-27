@@ -10,11 +10,15 @@ A **reliable source** can answer four questions: **Who** wrote this — a named 
 
 In your mind's eye: checking whether a source is reliable.
 
+[Picture 48149 — checking whether a source is reliable]
+
 ## Sub lesson 2 — Dangers of the web
 
 The web's **dangers** include false information dressed as news, pages that imitate trusted ones to steal details, downloads carrying harmful programs, and strangers whose friendly contact aims at harm. The defences are habits: check the source before believing or sharing, keep private information private, download only from rightful sources, and tell a trusted adult when anything online frightens, pressures or confuses you. Sharing an unchecked claim spreads the danger — checking first stops it with you.
 
 In your mind's eye: dangers of the web.
+
+[Picture 48150 — dangers of the web]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A worker's or small business's online **affairs** stand on three assets. Its **a
 
 In your mind's eye: what is at stake — accounts, money, name.
 
+[Picture 48145 — what is at stake — accounts, money, name]
+
 ## Sub lesson 2 — The defences — strong doors, separate keys, watchful eyes
 
 The section's protection is the course's security craft aimed at one's own affairs: **strong, separate passwords** for each important account (the mail account strongest of all, since it resets the rest), **two-step proof** wherever it is offered, **payment only through traced channels** with records kept, **backups of the business's own records and pages** kept apart, and a **watching habit** — checking account activity and the business's public face regularly, so a clone page or a strange transaction is found in hours, not months. Under them all, the sequence's standing rule: what your livelihood stands on gets the strongest door you have.
 
 In your mind's eye: the defences — strong doors, separate keys, watchful eyes.
+
+[Picture 48146 — the defences — strong doors, separate keys, watchful eyes]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **safety rules** (правила техники безопасности) be
 
 In your mind's eye: rules before switching on.
 
+[Picture 48151 — rules before switching on]
+
 ## Sub lesson 2 — Rules while working and after
 
 While working: sit straight at the set distance, report any smell, spark, strange sound or damage **at once** and stop, and never open the system unit. After work: close your programs, leave the place tidy, and push the chair in. Grade 8 prints the same rules again as an appendix — a pupil who met them at ten meets them again at fourteen, because the machines grew but the rules did not change.
 
 In your mind's eye: rules while working and after.
+
+[Picture 48152 — rules while working and after]
 
 ## Say it to your companion
 

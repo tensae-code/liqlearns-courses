@@ -10,11 +10,15 @@ The threats lesson named the enemies. This one hands out the shields — in two 
 
 In your mind's eye: physical means — guarding the thing itself.
 
+[Picture 48141 — physical means — guarding the thing itself]
+
 ## Sub lesson 2 — Digital means — guarding the data itself
 
 **Digital protection** guards the data in its own realm: **passwords and access control** (only the authorised reach it), **encryption** (reached data reads as noise), **anti-malware and updates** (the known weapons blunted), **firewalls** (the network's gate), **backups** (the data survives its own destruction), and **monitoring** (the watch kept). Jordan teaches the two materials as one lesson because real protection is their weave: the encrypted disk in the locked room, the backed-up file behind the guarded account — a threat stopped by whichever material it meets first.
 
 In your mind's eye: digital means — guarding the data itself.
+
+[Picture 48142 — digital means — guarding the data itself]
 
 ## Say it to your companion
 

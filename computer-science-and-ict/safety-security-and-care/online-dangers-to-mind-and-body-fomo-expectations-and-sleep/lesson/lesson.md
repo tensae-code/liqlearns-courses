@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Depression and anxiety, FOMO** �
 
 In your mind's eye: depression and anxiety, FOMO.
 
+[Picture 48135 — depression and anxiety, FOMO]
+
 ## Sub lesson 2 — Doing it — Online Dangers to Mind and Body FOMO Expectations and Sleep in practice
 
 **Doing it — Online Dangers to Mind and Body FOMO Expectations and Sleep in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Online Dangers to Mind and Body FOMO Expectations and Sleep in practice.
+
+[Picture 48136 — doing it — Online Dangers to Mind and Body FOMO Expectations and Sleep in practice]
 
 ## Say it to your companion
 

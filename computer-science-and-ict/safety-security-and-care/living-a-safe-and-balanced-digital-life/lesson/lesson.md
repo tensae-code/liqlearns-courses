@@ -10,11 +10,15 @@ The security lessons guard the machine and the data. The last session guards the
 
 In your mind's eye: balance — time and body.
 
+[Picture 48133 — balance — time and body]
+
 ## Sub lesson 2 — Balance — mind and friendship; the safe life whole
 
 The **mind**'s balance is the feed's diet: what angers and frightens is served most because it holds us longest, so the balanced citizen curates — follows what nourishes, mutes what poisons, and remembers the misinformation lessons when the feed performs its certainties. **Friendship**'s balance keeps the digital in its place: present with the people present, the phone face-down in company, online kindness held to the standard of the room. Safe *and* balanced — the experience's two words are the whole curriculum of the digital citizen in miniature: protected from the world's harms, and master of the tool that could otherwise master them.
 
 In your mind's eye: balance — mind and friendship; the safe life whole.
+
+[Picture 48134 — balance — mind and friendship; the safe life whole]
 
 ## Say it to your companion
 
