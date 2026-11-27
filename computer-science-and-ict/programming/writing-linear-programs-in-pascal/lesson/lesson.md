@@ -10,11 +10,15 @@ A **linear program** runs its statements in order, once each: input with readln,
 
 In your mind's eye: the shape of a linear program.
 
+[Picture 48039 — the shape of a linear program]
+
 ## Sub lesson 2 — Composing one alone
 
 Composing means choosing: which variables, which formulas, which prompts, which order of output. The book's method is the problem-solving road shrunk to one page — say the task, name the data, write the steps, then the code. A linear program is small, but it is complete: everything in it was taught, and nothing in it is decoration.
 
 In your mind's eye: composing one alone.
+
+[Picture 48040 — composing one alone]
 
 ## Say it to your companion
 

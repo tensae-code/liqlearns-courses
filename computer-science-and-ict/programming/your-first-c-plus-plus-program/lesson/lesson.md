@@ -10,11 +10,15 @@ A first C++ program has a shape every later program will repeat. It opens with *
 
 In your mind's eye: the shape of a C++ program — include, main, cout.
 
+[Picture 48041 — the shape of a C++ program — include, main, cout]
+
 ## Sub lesson 2 — Write, compile, run — the three-step making
 
 The making has three steps, and Fiji's chapter order is those steps. **Write**: the program is typed in the C++ IDE the chapter installs first. **Compile**: the compiler translates the whole program into machine code — and reports **errors** here, at exact lines, which the learner fixes and compiles again. **Run**: the compiled program executes, and cout's line appears. A learner who has done the three steps once owns the cycle every C++ program in the senior course — pay calculations, grade-from-mark, areas — will travel for the rest of the year.
 
 In your mind's eye: write, compile, run — the three-step making.
+
+[Picture 48042 — write, compile, run — the three-step making]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The Crt unit's **ClrScr** clears the text screen; **GotoXY(x, y)** puts the curs
 
 In your mind's eye: clrScr and GotoXY — clearing and placing.
 
+[Picture 48027 — clrScr and GotoXY — clearing and placing]
+
 ## Sub lesson 2 — Text colours and the arranged screen
 
 **TextColor** and **TextBackground** set the colours of letters and the screen behind them. Restraint is the lesson's taste rule: one colour for headings, one for results, the rest plain — a screen is read, not decorated. The book repeats this lesson before linear programs, because every program after it is expected to present its work arranged, not spilled.
 
 In your mind's eye: text colours and the arranged screen.
+
+[Picture 48028 — text colours and the arranged screen]
 
 ## Say it to your companion
 

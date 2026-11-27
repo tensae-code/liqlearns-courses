@@ -10,11 +10,15 @@ A good application is first judged at its **surface**: its windows are **clear**
 
 In your mind's eye: good for the user — clear, kind, predictable.
 
+[Picture 48037 — good for the user — clear, kind, predictable]
+
 ## Sub lesson 2 — Good for the next programmer — named, noted, ordered
 
 The second judge is **the next reader of the code** — often the same programmer, a year older. Good code carries **meaningful names** for its controls and variables, so the program reads like its job; **comments** where a choice needs explaining; and an **orderly layout**, one job per procedure, so a fault can be found in the part that does that job. Fiji teaches goodness as a habit of the course, not a finish applied at the end: an application written well from the first form costs less every day of its life.
 
 In your mind's eye: good for the next programmer. Named, noted, ordered.
+
+[Picture 48038 — good for the next programmer. Named, noted, ordered]
 
 ## Say it to your companion
 

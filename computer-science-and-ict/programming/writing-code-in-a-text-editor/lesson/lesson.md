@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Writing Code in a Text Editor** 
 
 In your mind's eye: writing Code in a Text Editor.
 
+[Picture 48033 — writing Code in a Text Editor]
+
 ## Sub lesson 2 — Doing it — Writing Code in a Text Editor in practice
 
 **Doing it — Writing Code in a Text Editor in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Writing Code in a Text Editor in practice.
+
+[Picture 48034 — doing it — Writing Code in a Text Editor in practice]
 
 ## Say it to your companion
 

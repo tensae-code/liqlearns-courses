@@ -10,11 +10,15 @@ Best practice begins at the keyboard: **meaningful names** (totalMark, not x2) t
 
 In your mind's eye: names and comments — the program explains itself.
 
+[Picture 48029 — names and comments — the program explains itself]
+
 ## Sub lesson 2 — Layout and structure — the program shows its shape
 
 The second family is **shape**: **indentation** that mirrors nesting, so a loop's body and a branch's arms can be seen at a glance; **one structure per job** — sequences straight, selections and loops in their standard shapes, no jumps that tangle the flow; and development in the chapter's own order — algorithm first, code translated from it, tests planned and run. Malaysia's standard is a **production** standard: the delivered program is the one that passes its tests **and** can be handed to another programmer without an apology or a tour.
 
 In your mind's eye: layout and structure — the program shows its shape.
+
+[Picture 48030 — layout and structure — the program shows its shape]
 
 ## Say it to your companion
 

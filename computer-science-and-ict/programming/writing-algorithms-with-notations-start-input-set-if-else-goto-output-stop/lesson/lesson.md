@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Formulation of an Algorithm** �
 
 In your mind's eye: formulation of an Algorithm.
 
+[Picture 48031 — formulation of an Algorithm]
+
 ## Sub lesson 2 — Doing it — Writing Algorithms with Notations Start Input Set If Else Goto Output Stop in practice
 
 **Doing it — Writing Algorithms with Notations Start Input Set If Else Goto Output Stop in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Writing Algorithms with Notations Start Input Set If Else Goto Output Stop in practice.
+
+[Picture 48032 — doing it — Writing Algorithms with Notations Start Input Set If Else Goto Output Stop in practice]
 
 ## Say it to your companion
 
