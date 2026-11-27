@@ -10,11 +10,15 @@ A method is only real when it meets a real problem. Papua New Guinea's Grade 12 
 
 In your mind's eye: the technological method in practice.
 
+[Picture 48197 — the technological method in practice]
+
 ## Sub lesson 2 — Carrying a real problem through
 
 The application continues: **designing and planning, then making**, keeping **records that show decisions and results**, and finally **evaluation — after making, against the brief**. If evaluation fails, the method **loops back to improve the design**. The method ends when the solution works and has been evaluated.
 
 In your mind's eye: carrying a real problem through.
+
+[Picture 48198 — carrying a real problem through]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ An **advertisement (une publicité)** is a message made to persuade: to make you
 
 In your mind's eye: what an advertisement is for.
 
+[Picture 48195 — what an advertisement is for]
+
 ## Sub lesson 2 — The persuader's tools
 
 The parcours names the tools: **promise** (this will make you happy, strong, loved), **belonging** (everyone like you has one), **repetition** (the same message until it feels like your own idea), **image over words** (a feeling pictured beats a fact stated), and **hiding the ad** (inside a game, a video, a favourite person's recommendation). Naming a tool while it is used on you does not ruin the ad — it returns the choice to you.
 
 In your mind's eye: the persuader's tools.
+
+[Picture 48196 — the persuader's tools]
 
 ## Say it to your companion
 

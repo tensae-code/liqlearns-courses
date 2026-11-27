@@ -10,11 +10,15 @@ A PIN can be told to another person; a card can be lent. A fingerprint cannot. R
 
 In your mind's eye: what biometrics is.
 
+[Picture 48207 — what biometrics is]
+
 ## Sub lesson 2 — Why banks add it
 
 The guide places biometrics inside **financial transactions** because money needs certainty: a biometric is **hard to lend, steal or forget**, so it fights the frauds that cards and PINs invite — the lent card, the watched PIN, the forged signature. It also speeds the counter: one touch **proves the customer** without a document hunt. Rwanda's finance unit teaches it beside mobile banking's risks — the new lock taught next to the new door (teacher guide — evidence).
 
 In your mind's eye: why banks add it.
+
+[Picture 48208 — why banks add it]
 
 ## Say it to your companion
 

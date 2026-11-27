@@ -10,11 +10,15 @@ A **digital artefact** (computational work) is anything made with a computer: a 
 
 In your mind's eye: what quality means for a digital artefact — purpose first.
 
+[Picture 48199 — what quality means for a digital artefact — purpose first]
+
 ## Sub lesson 2 — The checks — correctness, clarity, craft and improvement
 
 After purpose come the working checks: **correctness** (the content and calculations are right), **clarity** (a user can understand and use it without help), **craft** (layout, consistency, no rough edges that distract), and **fitness details** (file type, size, names in order). Assessing ends with **improvement**: name the artefact's two weakest points and the change that would raise each — an assessment that cannot say what to improve has not finished.
 
 In your mind's eye: the checks — correctness, clarity, craft and improvement.
+
+[Picture 48200 — the checks — correctness, clarity, craft and improvement]
 
 ## Say it to your companion
 

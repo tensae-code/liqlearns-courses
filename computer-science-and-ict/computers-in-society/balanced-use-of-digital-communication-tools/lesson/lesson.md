@@ -10,11 +10,15 @@ Digital communication tools' **positives**: distance abolished (family, teachers
 
 In your mind's eye: positives and negatives — the honest list.
 
+[Picture 48201 — positives and negatives — the honest list]
+
 ## Sub lesson 2 — Irresponsible use — risks and the balanced craft
 
 **Irresponsible use** risks, for the individual and society: words sent in anger that cannot be unsent, private things shared into public keeping, rumours forwarded into fires, hours that eat sleep, study and family. The **balanced craft** answers with habits: **purpose before opening** (know the errand), **limits kept** (times and places without tools), **the pause before sending** (the angry message sleeps a night), and **presence** (the person in the room outranks the person on the screen). Balance is not less life; it is the tools kept in their place — as servants of the life, not its landlords.
 
 In your mind's eye: irresponsible use — risks and the balanced craft.
+
+[Picture 48202 — irresponsible use — risks and the balanced craft]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **§§1.7–1.8 Advantages and Dis
 
 In your mind's eye: §§1.7–1.8 Advantages and Disadvantages of ICT Devices.
 
+[Picture 48191 — §§1.7–1.8 Advantages and Disadvantages of ICT Devices]
+
 ## Sub lesson 2 — Doing it — Advantages and Disadvantages of ICT Devices in practice
 
 **Doing it — Advantages and Disadvantages of ICT Devices in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Advantages and Disadvantages of ICT Devices in practice.
+
+[Picture 48192 — doing it — Advantages and Disadvantages of ICT Devices in practice]
 
 ## Say it to your companion
 

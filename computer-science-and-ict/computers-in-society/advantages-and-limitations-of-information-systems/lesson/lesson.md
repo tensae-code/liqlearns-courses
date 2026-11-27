@@ -10,11 +10,15 @@ An information system works at machine speed: a calculation or a search that tak
 
 In your mind's eye: a clerk lifting a heavy stack of paper files on one side, and the same clerk tapping one key while report cards stream out of a printer on the other.
 
+[Picture 48193 — a clerk lifting a heavy stack of paper files on one side, and the same clerk tapping one key while report cards stream out of a printer on the other]
+
 ## Sub lesson 2 — The limitations
 
 Systems also have limits, and the book names them honestly. They **cost** — to buy, to install, to maintain and to replace. They create **dependence**: when the system, the network or the power fails, work that used to continue by hand may stop entirely. They open **security and privacy risks** — data gathered in one place is worth stealing, and personal information can leak or be misused. They can **displace jobs** — work once done by clerks is done by the system, and people must find new roles. And they demand **trained people**: an untrained user can enter wrong data, and the system's accuracy then only spreads the error faster — garbage in, garbage out.
 
 In your mind's eye: the same office in darkness during a power cut, the clerk looking at a dead screen while a queue waits.
+
+[Picture 48194 — the same office in darkness during a power cut, the clerk looking at a dead screen while a queue waits]
 
 ## Say it to your companion
 

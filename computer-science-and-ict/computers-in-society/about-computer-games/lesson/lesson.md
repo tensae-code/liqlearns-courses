@@ -10,11 +10,15 @@ A **computer game** is a program made for playing: it shows a world on the scree
 
 In your mind's eye: what a computer game is.
 
+[Picture 48189 — what a computer game is]
+
 ## Sub lesson 2 — Kinds of games and playing with care
 
 Games come in **kinds**: races and adventures, puzzles and logic games, builders and simulators, and games that teach. A good player keeps the same care as at any computer work — sits well, rests the eyes, and stops at the agreed time. The book's point is balance: the computer is a tool first and a toy second, and the pupil who can say what kind a game is, and what it trains — speed, memory, attention, planning — plays it as a lesson, not only as a pastime.
 
 In your mind's eye: kinds of games and playing with care.
+
+[Picture 48190 — kinds of games and playing with care]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Scientific work stands on other people's work, and honesty names it: a **citatio
 
 In your mind's eye: citations — giving every source its name.
 
+[Picture 48205 — citations — giving every source its name]
+
 ## Sub lesson 2 — Bibliographic managers — store once, cite everywhere
 
 A **bibliographic manager** keeps a **library of your sources**, each entered or captured once with all its parts. While you write, it **inserts the citation** at the point you choose, numbered or named as the required **style** demands; at the end it **builds the whole reference list** from the citations actually used — nothing cited missing, nothing listed unused. Change the style and the manager **re-forms every citation** to match. Cuba closes its school ICT with this tool because university work begins with it.
 
 In your mind's eye: bibliographic managers — store once, cite everywhere.
+
+[Picture 48206 — bibliographic managers — store once, cite everywhere]
 
 ## Say it to your companion
 

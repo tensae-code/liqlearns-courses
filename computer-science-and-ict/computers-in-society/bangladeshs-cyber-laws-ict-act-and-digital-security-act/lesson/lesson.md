@@ -10,11 +10,15 @@ Bangladesh's **ICT Act 2006** was the country's first law for the digital world:
 
 In your mind's eye: the ICT Act 2006 — the first cyber law.
 
+[Picture 48203 — the ICT Act 2006 — the first cyber law]
+
 ## Sub lesson 2 — The Digital Security Act 2018 — and the Pornography Act 2012
 
 The **Digital Security Act 2018** widened the frame: digital fraud and forgery, identity theft, defamation and harmful content online, and attacks on the country's digital security — with a Digital Security Agency to match. Beside it, the **Pornography Control Act 2012** criminalises making, carrying and spreading pornographic material, including through phones and the internet. The lesson the book draws is the citizen's one: online is not outside the law — the same honesty, and sharper care, is owed there.
 
 In your mind's eye: the Digital Security Act 2018 — and the Pornography Act 2012.
+
+[Picture 48204 — the Digital Security Act 2018 — and the Pornography Act 2012]
 
 ## Say it to your companion
 
