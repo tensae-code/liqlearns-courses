@@ -10,11 +10,15 @@ Cuba's Grade 12 year turns to teleformación — learning at a distance — as a
 
 In your mind's eye: teleformación — the course without a shared room.
 
+[Picture 48450 — teleformación — the course without a shared room]
+
 ## Sub lesson 2 — Moodle — the platform's working parts
 
 **Moodle** organises a course into **sections** holding **resources** — the materials to read, watch and download — and **activities** — the work to do: tasks to hand in, forums to discuss in, quizzes to answer. Pupils are **enrolled** on their courses, hand work in through the platform, and see their **grades** there; the teacher sees every hand-in and mark in one place. Cuba names Moodle plainly — *La plataforma Moodle* — the free platform its teleformación runs on.
 
 In your mind's eye: moodle — the platform's working parts.
+
+[Picture 48451 — moodle — the platform's working parts]
 
 ## Say it to your companion
 

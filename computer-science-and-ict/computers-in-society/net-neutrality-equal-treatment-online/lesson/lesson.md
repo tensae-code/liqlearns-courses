@@ -12,6 +12,8 @@ The rule forbids three things. A provider may not **block** a lawful site or ser
 
 In your mind's eye: one road carrying two cars, a giant truck and a small bicycle, both moving at the same speed under a sign that reads "same road, same rules".
 
+[Picture 48456 — one road carrying two cars, a giant truck and a small bicycle, both moving at the same speed under a sign that reads "same road, same rules"]
+
 ## Sub lesson 2 — Why it is argued about
 
 Why does the rule matter enough to be written into law in many places? Because of who gets to start something. Under neutrality, a student who publishes a site tonight reaches the world on the same terms as a company with a thousand engineers — the network does not ask who you are. Users choose what succeeds by visiting it, not providers by favouring it. France's SNT book puts the principle inside the Web's own rules, next to copyright and personal data: the Web was built as a space where publishing is open to everyone, and neutrality is what keeps the road to that space open.
@@ -19,6 +21,8 @@ Why does the rule matter enough to be written into law in many places? Because o
 Providers argue back: they built the roads, video floods them, and the heaviest services should help pay; some say priority could fund cheaper access for everyone. The argument is real, and different countries settle it differently — which is exactly why a citizen who uses the network every day should be able to state both sides. What neutrality protects, in the end, is the position of the person at the end of the line: you, choosing freely among sites that all had the same chance to reach you.
 
 In your mind's eye: a small new site and a giant platform arriving at a reader's screen at the same moment, the reader choosing between them.
+
+[Picture 48457 — a small new site and a giant platform arriving at a reader's screen at the same moment, the reader choosing between them]
 
 ## Say it to your companion
 

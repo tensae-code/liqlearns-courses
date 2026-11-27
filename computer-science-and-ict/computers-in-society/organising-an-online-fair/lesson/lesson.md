@@ -10,11 +10,15 @@ The teams first **create the guidelines**: what the fair is for, who may exhibit
 
 In your mind's eye: guidelines for the online fair.
 
+[Picture 48462 — guidelines for the online fair]
+
 ## Sub lesson 2 — Running the fair
 
 Then the **fair itself**: exhibits published, visitors welcomed and guided, presentations given at set times, questions answered, judging done by the published rules and results announced. The organisers keep the fair's records — who exhibited, who visited, what was judged best — and close it the way the campaign lesson closes: with a review. An online fair's gift is reach — families, other schools, the region beyond the gate can walk its stalls — and its review asks the organiser's question: what did the reach give that a hall could not, and what did the hall still do better?
 
 In your mind's eye: running the fair.
+
+[Picture 48463 — running the fair]
 
 ## Say it to your companion
 

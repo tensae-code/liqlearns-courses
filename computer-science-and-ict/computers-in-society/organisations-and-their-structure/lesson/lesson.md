@@ -10,11 +10,15 @@ An **organisation** is a group of people joined to reach **shared goals** they c
 
 In your mind's eye: what an organisation is.
 
+[Picture 48460 — what an organisation is]
+
 ## Sub lesson 2 — The structure — vertical levels and horizontal functions
 
 An organisation's **structure** arranges it two ways at once. **Vertically**, it stands in **levels**: a top that directs, a middle that manages, and a floor that does the daily work — authority and responsibility step down the levels, and reports step up. **Horizontally**, it divides into **functions or departments** side by side — production, sales, accounts, personnel — each doing one kind of work. The drawing of both together (who stands above whom, and which department does what) is the organisation's chart, and every later lesson in the chapter — levels of decision, types of system — is read off this chart.
 
 In your mind's eye: the structure — vertical levels and horizontal functions.
+
+[Picture 48461 — the structure — vertical levels and horizontal functions]
 
 ## Say it to your companion
 

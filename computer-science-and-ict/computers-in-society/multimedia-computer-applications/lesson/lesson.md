@@ -10,11 +10,15 @@ The applications tour ends with the loudest family: multimedia — text, image, 
 
 In your mind's eye: what multimedia applications are.
 
+[Picture 48452 — what multimedia applications are]
+
 ## Sub lesson 2 — Working with multimedia — files, weight, quality
 
 The family's working facts: media files are **heavy** (minutes of video outweigh shelves of text — compression is the family's daily bread), quality is **chosen** (resolution and sampling fit the purpose — a billboard and a thumbnail are different promises), and every medium brings its **tools and rights** (editing software to learn; creators' rights to respect — the intellectual-property lessons apply with pictures attached). Jordan closes the applications tour here because multimedia is where most pupils will meet computing as makers: the family in which school projects, and half the internet, are built.
 
 In your mind's eye: working with multimedia — files, weight, quality.
+
+[Picture 48453 — working with multimedia — files, weight, quality]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ An **Office Automation System (OAS)** is the set of technologies that **automate
 
 In your mind's eye: what office automation is.
 
+[Picture 48458 — what office automation is]
+
 ## Sub lesson 2 — The tools of the automated office
 
 The OAS toolbox is the course's familiar programs working as one system: **word processing** for documents, **email and messaging** for communication, **spreadsheets and databases** for the office's figures and records, **desktop publishing** for its printed forms, and **scheduling and filing tools** for its appointments and archives — increasingly joined in one suite on one network. Laos teaches it among the information-system types because it serves every level at once: the clerk's letter and the director's report both ride on it.
 
 In your mind's eye: the tools of the automated office.
+
+[Picture 48459 — the tools of the automated office]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The digital world speaks many languages, and a child can feel theirs is small th
 
 In your mind's eye: arabic — a language of identity.
 
+[Picture 48454 — arabic — a language of identity]
+
 ## Sub lesson 2 — Writing correct Arabic in digital communication
 
 Pride is practised in the writing: **correct Arabic** in digital communication — real words written properly, sentences that say what they mean, the language's letters and forms used with care even in a quick message. The lesson's claim is that sloppy writing is not modern and careful writing is not old-fashioned: every message a pupil sends in Arabic carries the language a little further into the digital world, exactly as well — or as badly — as it is written.
 
 In your mind's eye: writing correct Arabic in digital communication.
+
+[Picture 48455 — writing correct Arabic in digital communication]
 
 ## Say it to your companion
 

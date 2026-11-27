@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Examples of digital/traditiona
 
 In your mind's eye: , Examples of digital/traditional entrepreneurship.
 
+[Picture 48466 — , Examples of digital/traditional entrepreneurship]
+
 ## Sub lesson 2 — Doing it — Pakistani Digital Entrepreneurs and Their Startups in practice
 
 **Doing it — Pakistani Digital Entrepreneurs and Their Startups in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Pakistani Digital Entrepreneurs and Their Startups in practice.
+
+[Picture 48467 — doing it — Pakistani Digital Entrepreneurs and Their Startups in practice]
 
 ## Say it to your companion
 

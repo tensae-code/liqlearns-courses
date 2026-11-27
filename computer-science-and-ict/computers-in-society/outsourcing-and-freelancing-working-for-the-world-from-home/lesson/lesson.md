@@ -10,11 +10,15 @@ A company in one country needs a logo, a website, a set of accounts. A worker in
 
 In your mind's eye: outsourcing — work sent out.
 
+[Picture 48464 — outsourcing — work sent out]
+
 ## Sub lesson 2 — Freelancing — and its downsides
 
 A **freelancer** works job by job for many clients, with no single employer: free to choose work and hours, and free to go unpaid between jobs. The book is honest about the downsides: income is **irregular**, there is **no job security** or paid leave, payment can arrive late or not at all, and the worker competes with the whole world on price. The skills that protect a freelancer are the village's skills — a strong profile, kept promises, clear communication, and work good enough that clients return.
 
 In your mind's eye: freelancing — and its downsides.
+
+[Picture 48465 — freelancing — and its downsides]
 
 ## Say it to your companion
 

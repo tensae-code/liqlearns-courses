@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Payments, §6.7 Transactions and
 
 In your mind's eye: payments, §6.7 Transactions and §6.7.1 Difference between payments and transactions.
 
+[Picture 48468 — payments, §6.7 Transactions and §6.7.1 Difference between payments and transactions]
+
 ## Sub lesson 2 — Doing it — Payments and Transactions What Is the Difference in practice
 
 **Doing it — Payments and Transactions What Is the Difference in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Payments and Transactions What Is the Difference in practice.
+
+[Picture 48469 — doing it — Payments and Transactions What Is the Difference in practice]
 
 ## Say it to your companion
 
