@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Promotion and §6.3 Value propos
 
 In your mind's eye: promotion and §6.3 Value proposition.
 
+[Picture 48486 — promotion and §6.3 Value proposition]
+
 ## Sub lesson 2 — Doing it — Promotion and the Value Proposition in practice
 
 **Doing it — Promotion and the Value Proposition in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Promotion and the Value Proposition in practice.
+
+[Picture 48487 — doing it — Promotion and the Value Proposition in practice]
 
 ## Say it to your companion
 

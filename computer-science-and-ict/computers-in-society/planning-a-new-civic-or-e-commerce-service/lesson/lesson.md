@@ -10,11 +10,15 @@ A new service stands on **prerequisites**: a real need it answers, the people it
 
 In your mind's eye: prerequisites and the delivery plan.
 
+[Picture 48474 — prerequisites and the delivery plan]
+
 ## Sub lesson 2 — The proposal and the planning poster
 
 The plan must then persuade: the **proposal** argues the service's case — the need, the plan, the cost, the benefit — to the people who can approve and fund it. And the **planning poster** compresses the whole design onto one public sheet: the service, its users, its steps, its needs. The poster is the plan's honesty test — what cannot be drawn clearly has not been thought clearly — and the class presents and defends it, question by question, as a real service team must.
 
 In your mind's eye: the proposal and the planning poster.
+
+[Picture 48475 — the proposal and the planning poster]
 
 ## Say it to your companion
 

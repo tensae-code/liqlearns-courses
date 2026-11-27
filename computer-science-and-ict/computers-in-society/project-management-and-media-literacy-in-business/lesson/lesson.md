@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Importance of Project Management
 
 In your mind's eye: importance of Project Management and Media literacy.
 
+[Picture 48484 — importance of Project Management and Media literacy]
+
 ## Sub lesson 2 — Doing it — Project Management and Media Literacy in Business in practice
 
 **Doing it — Project Management and Media Literacy in Business in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Project Management and Media Literacy in Business in practice.
+
+[Picture 48485 — doing it — Project Management and Media Literacy in Business in practice]
 
 ## Say it to your companion
 

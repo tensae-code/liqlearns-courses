@@ -10,11 +10,15 @@ Printing spends paper, ink and energy for something a screen often shows just as
 
 In your mind's eye: the pause before printing.
 
+[Picture 48478 — the pause before printing]
+
 ## Sub lesson 2 — Printing well when you do print
 
 When paper is truly needed, print it well: choose only the pages that matter, use both sides when the printer allows, check the preview so a mistake is not printed twice, and share one printed copy between readers instead of one each. What is printed and kept should be worth keeping — a page thrown away unread was never needed at all.
 
 In your mind's eye: printing well when you do print.
+
+[Picture 48479 — printing well when you do print]
 
 ## Say it to your companion
 

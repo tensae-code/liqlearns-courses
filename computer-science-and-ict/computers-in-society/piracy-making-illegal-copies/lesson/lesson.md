@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Piracy Making Illegal Copies** �
 
 In your mind's eye: piracy Making Illegal Copies.
 
+[Picture 48472 — piracy Making Illegal Copies]
+
 ## Sub lesson 2 — Piracy Making Illegal Copies
 
 This part of Pakistan (Punjab)'s book teaches **Piracy Making Illegal Copies** — covering: Unit 5 §5.6 Piracy. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: piracy Making Illegal Copies.
+
+[Picture 48473 — piracy Making Illegal Copies]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **screen prototype** is a **working rough version** of the designed screens: t
 
 In your mind's eye: the prototype — screens you can try.
 
+[Picture 48488 — the prototype — screens you can try]
+
 ## Sub lesson 2 — Rough on purpose — cheap to change
 
 The prototype's roughness is its virtue: built in hours, it can be **changed in minutes** when evaluation condemns a screen — and evaluation will. Malaysia's rule is to prototype **before** building the system behind the screens, because moving a button on a prototype costs a drag, while moving it in a finished system costs a rebuild. The prototype is thrown into the loop the process taught: users try it, findings land, the prototype changes, users try again. A prototype nobody is allowed to criticise is a finished system wearing a false name — and priced like one.
 
 In your mind's eye: rough on purpose — cheap to change.
+
+[Picture 48489 — rough on purpose — cheap to change]
 
 ## Say it to your companion
 

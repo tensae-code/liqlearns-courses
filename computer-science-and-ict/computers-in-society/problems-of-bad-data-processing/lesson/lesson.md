@@ -10,11 +10,15 @@ Data processing fails at the stages it runs through. **Collection** faults: aski
 
 In your mind's eye: how processing goes wrong — faults at every stage.
 
+[Picture 48482 — how processing goes wrong — faults at every stage]
+
 ## Sub lesson 2 — What bad processing costs — and the care that prevents it
 
 The costs are real: decisions taken on wrong numbers, money and time spent twice, and — the slowest to heal — **trust** lost in every figure the office publishes afterwards. The prevention is the processing discipline the rest of the course teaches: validate at entry, keep one clean copy of the truth, check a result against a second road before publishing, and match the tool to the data's size and kind. Bad processing is rarely bad luck; it is skipped care, and its bill always arrives.
 
 In your mind's eye: what bad processing costs — and the care that prevents it.
+
+[Picture 48483 — what bad processing costs — and the care that prevents it]
 
 ## Say it to your companion
 

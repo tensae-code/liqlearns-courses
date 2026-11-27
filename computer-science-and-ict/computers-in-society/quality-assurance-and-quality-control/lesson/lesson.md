@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Quality assurance** — covering
 
 In your mind's eye: quality assurance.
 
+[Picture 48492 — quality assurance]
+
 ## Sub lesson 2 — Doing it — Quality Assurance and Quality Control in practice
 
 **Doing it — Quality Assurance and Quality Control in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Quality Assurance and Quality Control in practice.
+
+[Picture 48493 — doing it — Quality Assurance and Quality Control in practice]
 
 ## Say it to your companion
 

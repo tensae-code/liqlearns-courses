@@ -10,11 +10,15 @@ In **Puzzle**, a finished picture is cut into pieces, the pieces are mixed, and 
 
 In your mind's eye: the Puzzle game — a picture from pieces.
 
+[Picture 48490 — the Puzzle game — a picture from pieces]
+
 ## Sub lesson 2 — Building a word from letters
 
 In the **word-building game** («Построение слова»), the player is given letters and must build a word from them — the longer and truer the word, the better the score. It is the keyboard trainer turned into a contest: letters you can find and spell become points. Together the two games end the Grade 5 book's games lessons: one for the eye, one for letters.
 
 In your mind's eye: building a word from letters.
+
+[Picture 48491 — building a word from letters]
 
 ## Say it to your companion
 
