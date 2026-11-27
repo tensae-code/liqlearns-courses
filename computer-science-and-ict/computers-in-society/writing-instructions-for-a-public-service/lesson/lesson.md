@@ -10,11 +10,15 @@ Good instructions begin as research: **identify the steps** of the service as th
 
 In your mind's eye: finding the steps — identify before writing.
 
+[Picture 48618 — finding the steps — identify before writing]
+
 ## Sub lesson 2 — The handbook — steps a stranger can follow
 
 Then the steps become a **handbook**: numbered, in order, each step one action with its place and its needed papers named; warnings placed where the mistakes happen ('bring the photocopy — the office has no copier'); and a final checklist to run before leaving home. The test of the handbook is a stranger: hand it to someone who has never used the service and watch silently where they stumble — the stumble is the handbook's fault, and the rewrite fixes the step, not the reader.
 
 In your mind's eye: the handbook — steps a stranger can follow.
+
+[Picture 48619 — the handbook — steps a stranger can follow]
 
 ## Say it to your companion
 

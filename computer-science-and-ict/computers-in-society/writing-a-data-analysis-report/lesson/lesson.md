@@ -10,11 +10,15 @@ A data analysis report has a steady skeleton. **The question**: what was asked, 
 
 In your mind's eye: a report drawn as a house. The question as its door, the data as its foundation, findings as the walls, conclusions as the roof, and recommendations as the road leading away.
 
+[Picture 48616 — a report drawn as a house. The question as its door, the data as its foundation, findings as the walls, conclusions as the roof, and recommendations as the road leading away]
+
 ## Sub lesson 2 — Writing it clearly — and applying it
 
 A report is written for its **reader**, not its author: plain words, the question answered in the first page, every chart titled so it can be understood alone, and numbers always tied to their meaning ('mathematics fell 12 points in Grade 9' — not 'some values decreased'). Honesty is a writing rule, not only a data rule: a finding the data only half-supports is written as a half-finding. And the report's life ends in **application**: the recommendations are discussed, decided on, and acted on — the report that changes nothing was a school exercise; the report that changes a decision completes the whole data-processing process this chapter teaches.
 
 In your mind's eye: the same report in two scenes. In one it gathers dust on a shelf while the office works on unchanged; in the other it lies open in a meeting with hands pointing at its chart and a new timetable being written.
+
+[Picture 48617 — the same report in two scenes. In one it gathers dust on a shelf while the office works on unchanged; in the other it lies open in a meeting with hands pointing at its chart and a new timetable being written]
 
 ## Say it to your companion
 

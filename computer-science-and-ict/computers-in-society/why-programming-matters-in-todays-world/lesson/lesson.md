@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Importance of Programming in tod
 
 In your mind's eye: importance of Programming in today's world.
 
+[Picture 48610 — importance of Programming in today's world]
+
 ## Sub lesson 2 — Doing it — Why Programming Matters in Todays World in practice
 
 **Doing it — Why Programming Matters in Todays World in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Why Programming Matters in Todays World in practice.
+
+[Picture 48611 — doing it — Why Programming Matters in Todays World in practice]
 
 ## Say it to your companion
 

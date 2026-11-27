@@ -10,11 +10,15 @@
 
 In your mind's eye: one screen, many practices.
 
+[Picture 48606 — one screen, many practices]
+
 ## Sub lesson 2 — Surveying honestly
 
 The scenario turns pupils into surveyors of their own generation: design a few questions, ask the class, tally the practices, and present what young people around you actually do. Honest surveying has rules: ask about practices, not judgements; let answers be anonymous where truth needs it; and report what the tally says — even when it surprises the adults, or you.
 
 In your mind's eye: surveying honestly.
+
+[Picture 48607 — surveying honestly]
 
 ## Say it to your companion
 

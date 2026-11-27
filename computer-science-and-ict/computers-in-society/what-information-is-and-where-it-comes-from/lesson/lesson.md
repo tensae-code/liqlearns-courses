@@ -10,11 +10,15 @@ Someone says “I saw it online.” Saw what, exactly — and where did it come 
 
 In your mind's eye: what information is.
 
+[Picture 48604 — what information is]
+
 ## Sub lesson 2 — What a source is
 
 Every information has a **source**: the person, organisation, instrument or document it comes from. Naming the source is the beginning of judging: a measurement's source is the instrument and who read it; a report's source is the reporter and who sent them. “It says online” names no source at all. The fiche's rule is the media course in one line: no source, no trust — first find where it comes from, then decide what it is worth.
 
 In your mind's eye: what a source is.
+
+[Picture 48605 — what a source is]
 
 ## Say it to your companion
 

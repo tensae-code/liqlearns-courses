@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Creating a Business Plan** — c
 
 In your mind's eye: creating a Business Plan.
 
+[Picture 48614 — creating a Business Plan]
+
 ## Sub lesson 2 — Doing it — Writing a Business Plan in practice
 
 **Doing it — Writing a Business Plan in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Writing a Business Plan in practice.
+
+[Picture 48615 — doing it — Writing a Business Plan in practice]
 
 ## Say it to your companion
 

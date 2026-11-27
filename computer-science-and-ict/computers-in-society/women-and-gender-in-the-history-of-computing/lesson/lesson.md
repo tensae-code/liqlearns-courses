@@ -10,11 +10,15 @@ The first program ever written for a computer was written by a woman: **Ada Love
 
 In your mind's eye: the women who were there from the start.
 
+[Picture 48612 — the women who were there from the start]
+
 ## Sub lesson 2 — The question of gender today
 
 If women were there from the start, why are they a minority in computing classes and jobs today? The guides pose the question honestly as a question of **gender (le genre)**: images and stereotypes — “computing is for boys” — steer choices long before talent does, and the field loses minds it needs. The lesson the annexes teach is double: know the true history, and notice the stereotype when it speaks — in a textbook picture, a joke, or your own first thought.
 
 In your mind's eye: the question of gender today.
+
+[Picture 48613 — the question of gender today]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **capstone project** proves the whole term in one artefact. Planning starts fr
 
 In your mind's eye: planning the project — one goal, the term's tools.
 
+[Picture 48620 — planning the project — one goal, the term's tools]
+
 ## Sub lesson 2 — Building, checking and presenting
 
 Building follows the plan part by part, and **checking** is built in, not bolted on: each part is tested as it is finished — the query returns the right records, the shared link opens for a partner, the slides read clearly — because a fault found early is cheap and a fault found at presentation is not. The finished project is then **presented**: the pupil shows what it does, says what each part is for, and answers questions about the choices made. Egypt frames the whole term this way — self-assessed lessons, an activity booklet mirroring them, and a closing project — so the project's real subject is the pupil's own judgement: choosing tools for a purpose and standing behind the result.
 
 In your mind's eye: building, checking and presenting.
+
+[Picture 48621 — building, checking and presenting]
 
 ## Say it to your companion
 
