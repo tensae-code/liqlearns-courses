@@ -10,11 +10,15 @@ Jordan sorts algorithms first by **how they learn**: **supervised** algorithms l
 
 In your mind's eye: the families by their learning.
 
+[Picture 48904 — the families by their learning]
+
 ## Sub lesson 2 — Named algorithms — the working shelf
 
 The working shelf holds the names the next lessons use: **decision trees** (and their forests), **nearest neighbours**, **linear regression**, **support vector machines**, **neural networks**, and clustering's **k-means**. Choosing among them weighs the data's size and shape, the need to **explain** the answer (a tree can show its reasons; a network mostly cannot), and the cost of errors. Jordan's list is a chooser's list: the question is never 'the best algorithm' but 'the best for this data, this decision, this price of being wrong'.
 
 In your mind's eye: named algorithms — the working shelf.
+
+[Picture 48905 — named algorithms — the working shelf]
 
 ## Say it to your companion
 

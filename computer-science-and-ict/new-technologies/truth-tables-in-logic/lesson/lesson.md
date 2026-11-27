@@ -10,11 +10,15 @@ A **truth table** lists **every combination** of the parts' truths — for n pro
 
 In your mind's eye: what a truth table is.
 
+[Picture 48896 — what a truth table is]
+
 ## Sub lesson 2 — Reading tables — equivalence and validity
 
 Tables answer the logician's standing questions. Two statements with **identical columns** are **equivalent** — interchangeable everywhere. An argument whose premises-true rows **always** give a true conclusion is **valid**, proved by exhaustion. And a statement true in **every** row is a tautology — true by shape alone. Jordan's Grade 10 book teaches tables inside the AI unit because the machine's reasoning stands on exactly this: conclusions a table can certify.
 
 In your mind's eye: reading tables — equivalence and validity.
+
+[Picture 48897 — reading tables — equivalence and validity]
 
 ## Say it to your companion
 

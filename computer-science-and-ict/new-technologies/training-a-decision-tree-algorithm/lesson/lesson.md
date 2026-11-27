@@ -10,11 +10,15 @@ Of all machine-learning algorithms, the decision tree is the one you can watch t
 
 In your mind's eye: how a tree is trained.
 
+[Picture 48892 — how a tree is trained]
+
 ## Sub lesson 2 — Using and judging the tree
 
 To **use** the tree, a new case walks from the root, answering each question, until it lands in a leaf — the leaf's majority kind is the prediction. Judging a tree watches its two faults: **overgrown** trees (memorising noise — overfitting, cured by pruning or limiting depth) and **stumps** (too simple to catch the pattern). Jordan trains trees inside the ML unit because they make the whole idea of training visible: data in, questions chosen, a decider out.
 
 In your mind's eye: using and judging the tree.
+
+[Picture 48893 — using and judging the tree]
 
 ## Say it to your companion
 

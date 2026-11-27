@@ -10,11 +10,15 @@ The **perception layer** is the bottom floor: sensors and actuators and the tagg
 
 In your mind's eye: perception and network — feeling and carrying.
 
+[Picture 48886 — perception and network — feeling and carrying]
+
 ## Sub lesson 2 — Application — where value reaches people
 
 The top floor is the **application layer**: the services built on the carried data — smart-home control, health monitoring, traffic guidance. Processing lives inside this simple map as part of the journey between network and application. Jordan teaches the three-layer model first because it is the skeleton: every richer architecture — five layers, seven layers — is this skeleton with floors split and named more finely, never a different building.
 
 In your mind's eye: application — where value reaches people.
+
+[Picture 48887 — application — where value reaches people]
 
 ## Say it to your companion
 

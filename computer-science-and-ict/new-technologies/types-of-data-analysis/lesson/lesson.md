@@ -10,11 +10,15 @@ Four questions, four kinds of analysis: What happened? Why did it happen? What w
 
 In your mind's eye: descriptive and diagnostic — the past, explained.
 
+[Picture 48900 — descriptive and diagnostic — the past, explained]
+
 ## Sub lesson 2 — Predictive and prescriptive — the future, advised
 
 **Predictive analysis** answers **what will happen**: patterns projected forward — forecasts, risks, likely outcomes, with their uncertainty stated. **Prescriptive analysis** answers **what should we do**: it weighs possible actions against predicted outcomes and recommends — the most demanding type, and the one that spends all the others. The four types are a ladder of ambition and of risk: each rung is worth more and can be wrong in more expensive ways, which is why the ladder is climbed in order.
 
 In your mind's eye: predictive and prescriptive — the future, advised.
+
+[Picture 48901 — predictive and prescriptive — the future, advised]
 
 ## Say it to your companion
 

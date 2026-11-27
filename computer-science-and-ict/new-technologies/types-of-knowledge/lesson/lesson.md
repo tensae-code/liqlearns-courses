@@ -10,11 +10,15 @@ Before a machine can hold knowledge, the knowledge must be sorted: knowing that,
 
 In your mind's eye: facts and procedures — knowing that, knowing how.
 
+[Picture 48902 — facts and procedures — knowing that, knowing how]
+
 ## Sub lesson 2 — Deeper types — heuristics, meta, tacit
 
 Beyond the pair: **heuristic knowledge** — rules of thumb from experience ('a cough with this sound is usually…'); **meta-knowledge** — knowledge about knowledge: what the system knows, and what it doesn't; and **tacit knowledge** — what the expert does but cannot say, the kind knowledge engineers struggle most to capture. Jordan's lesson gives the pupil the sorter's eye: any knowledge a system is to hold must first be met in its own kind, because each kind has its own way of being written down.
 
 In your mind's eye: deeper types — heuristics, meta, tacit.
+
+[Picture 48903 — deeper types — heuristics, meta, tacit]
 
 ## Say it to your companion
 

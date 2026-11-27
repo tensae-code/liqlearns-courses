@@ -10,11 +10,15 @@ A **touch screen** is both output and input: it shows the picture and **senses w
 
 In your mind's eye: touch — the screen that listens.
 
+[Picture 48890 — touch — the screen that listens]
+
 ## Sub lesson 2 — Holography and 3D projection — pictures with depth
 
 A **hologram** records and rebuilds the light pattern of a real scene, so the image looks **solid from different angles** — you can lean and see around it a little, unlike a flat photo. **3D projection** throws images onto surfaces or into space (projection mapping can wrap a building or a stage object in moving pictures). Both give depth without the viewer wearing a headset, and both are used in medicine, design, museums and entertainment.
 
 In your mind's eye: holography and 3d projection — pictures with depth.
+
+[Picture 48891 — holography and 3d projection — pictures with depth]
 
 ## Say it to your companion
 
