@@ -10,11 +10,15 @@ A **computer program** (chương trình máy tính) is an **algorithm written in
 
 In your mind's eye: a program — an algorithm the computer can follow.
 
+[Picture 47997 — a program — an algorithm the computer can follow]
+
 ## Sub lesson 2 — Programs everywhere — and the human's share
 
 Programs run more than computers on desks: the washing machine's cycles, the phone's alarm, the game's rules are all programs someone wrote. The human's share stays the same at every size: **choose the problem, design the algorithm, write and test the program** — because a program faithfully doing the wrong steps is worse than no program. Grade 6's closing judgement is the course's: the machine is exact and tireless; the thinking is ours.
 
 In your mind's eye: programs everywhere — and the human's share.
+
+[Picture 47998 — programs everywhere — and the human's share]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A Visual Basic **variable** is a **named place in memory whose value changes** a
 
 In your mind's eye: variable types — what a variable may hold.
 
+[Picture 47991 — variable types — what a variable may hold]
+
 ## Sub lesson 2 — Assigning — and constants, the values that refuse
 
 **Assigning** puts a value into a variable — of the variable's own kind, the type's promise kept — and a variable may be assigned again as the program's work changes it. Against the variables stand the **constants**: named values declared once and **never changed** in the run — the rate, the limit, the fixed text — whose name in the code says what the number means, and whose constancy the compiler enforces. Types, declaring, assigning, constants: the four acts that make a program's memory honest.
 
 In your mind's eye: assigning — and constants, the values that refuse.
+
+[Picture 47992 — assigning — and constants, the values that refuse]
 
 ## Say it to your companion
 

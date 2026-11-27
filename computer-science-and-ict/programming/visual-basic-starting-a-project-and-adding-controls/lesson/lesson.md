@@ -10,11 +10,15 @@ Kuwait's building book opens with **planning**: what the program is **for**, wha
 
 In your mind's eye: planning the program — before the project exists.
 
+[Picture 47989 — planning the program — before the project exists]
+
 ## Sub lesson 2 — Creating the project and adding controls to the form
 
 The plan becomes a **new project** in the environment, and its **form** — the program's window — is populated by **adding controls**: each control taken from the toolbox and **placed** on the form, then positioned and sized where the plan wants it. Adding is the visual language's core verb: the interface is **assembled**, control by control, and the form on screen grows to look like the program it will be — before a line of code gives it behaviour.
 
 In your mind's eye: creating the project and adding controls to the form.
+
+[Picture 47990 — creating the project and adding controls to the form]
 
 ## Say it to your companion
 

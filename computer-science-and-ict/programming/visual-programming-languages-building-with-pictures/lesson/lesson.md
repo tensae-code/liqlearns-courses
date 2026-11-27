@@ -10,11 +10,15 @@ Programming languages stand in **levels** by their distance from the machine: **
 
 In your mind's eye: the levels of programming languages.
 
+[Picture 47993 — the levels of programming languages]
+
 ## Sub lesson 2 — Visual programming languages — building with pictures
 
 A **visual programming language** lets the programmer build **graphically**: the program's interface is drawn — forms and controls placed with the mouse — and parts of its behaviour are assembled visually, with code written where behaviour must be said in words. Visual Basic is the book's exemplar: the pupil **sees** the program while building it, because the window being built is on the desk during the building. The lesson's point is taxonomic courage: 'visual' names how the language is **worked**, a different axis from its level — a language can be both high-level and visual, and VB is both.
 
 In your mind's eye: visual programming languages — building with pictures.
+
+[Picture 47994 — visual programming languages — building with pictures]
 
 ## Say it to your companion
 

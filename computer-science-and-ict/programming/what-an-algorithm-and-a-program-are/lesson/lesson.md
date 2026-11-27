@@ -10,11 +10,15 @@ An **algorithm** is a plan of instructions **in the right order** for finishing 
 
 In your mind's eye: an algorithm — the plan in the right order.
 
+[Picture 48003 — an algorithm — the plan in the right order]
+
 ## Sub lesson 2 — A program — the plan written for an executor
 
 A **program** is an algorithm **written down for an executor** — in the book's lesson, the plan that guides a character to the treasure: forward, forward, turn, forward, drawn as arrows on the map. The writer of the program and its executor are different: the writer thinks and orders; the executor (a person, a character, later a computer) **follows exactly**. If the plan is wrong, the executor still follows it — which is why the next lesson exists: finding the wrong instruction.
 
 In your mind's eye: a program — the plan written for an executor.
+
+[Picture 48004 — a program — the plan written for an executor]
 
 ## Say it to your companion
 

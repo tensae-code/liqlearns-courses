@@ -10,11 +10,15 @@ Libya's Visual Basic course begins, statement by statement, with the pair every 
 
 In your mind's eye: lET — the assignment statement.
 
+[Picture 47985 — lET — the assignment statement]
+
 ## Sub lesson 2 — PRINT — showing what the program holds
 
 **PRINT** shows output: a **number** (`PRINT 7`), a **text constant** in quotation marks, a **variable's value** (`PRINT X` shows what X holds, not the letter X), **string variables**, the **joining of two text variables**, and the **result of a maths expression** — PRINT works the expression out and shows the answer. Read a PRINT line by asking one question: is this item in quotes (shown as it stands), a variable (its value is shown), or an expression (its result is shown)?
 
 In your mind's eye: pRINT — showing what the program holds.
+
+[Picture 47986 — pRINT — showing what the program holds]
 
 ## Say it to your companion
 

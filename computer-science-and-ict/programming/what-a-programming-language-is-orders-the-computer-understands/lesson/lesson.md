@@ -10,11 +10,15 @@ Grade 6 defines it first: a **programming language** is **orders written by fixe
 
 In your mind's eye: orders written by fixed rules.
 
+[Picture 48001 — orders written by fixed rules]
+
 ## Sub lesson 2 — Programming around us
 
 Grade 8 opens the same idea wider: **programming around us** — the **programmer writes the controlling orders**, and programming is lines of orders a machine executes. The book’s witnesses are everyday: a **remote-control TV**, a **phone ringing when called**, and **electronic games** — each one runs orders somebody wrote.
 
 In your mind's eye: programming around us.
+
+[Picture 48002 — programming around us]
 
 ## Say it to your companion
 

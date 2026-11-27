@@ -10,11 +10,15 @@ Grade 7 teaches the **wait period** inside its repetitions lesson: a **wait bloc
 
 In your mind's eye: the wait period — timing of execution.
 
+[Picture 47995 — the wait period — timing of execution]
+
 ## Sub lesson 2 — Waits at work — dialogue, journeys, repetition
 
 Once taught, the wait quietly runs the rest of the course: speakers **wait while the other talks**, the travelling parrot’s journey is **paced by waits**, and repeated drawing becomes watchable when a wait sits inside the repeat. The question is never whether to wait, but how long — long enough to read, short enough to keep the story alive.
 
 In your mind's eye: waits at work — dialogue, journeys, repetition.
+
+[Picture 47996 — waits at work — dialogue, journeys, repetition]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **What is a program?** — coverin
 
 In your mind's eye: what is a program?.
 
+[Picture 47999 — what is a program?]
+
 ## Sub lesson 2 — Introduction to Programming and §5.1.1 Program and Programming Language
 
 This part of Pakistan (Punjab)'s book teaches **Introduction to Programming and §5.1.1 Program and Programming Language** — covering: Unit 5 §5.1 Introduction to Programming and §5.1.1 Program and Programming Language. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: introduction to Programming and §5.1.1 Program and Programming Language.
+
+[Picture 48000 — introduction to Programming and §5.1.1 Program and Programming Language]
 
 ## Say it to your companion
 

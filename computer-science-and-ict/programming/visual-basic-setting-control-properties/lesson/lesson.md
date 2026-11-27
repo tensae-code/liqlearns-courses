@@ -10,11 +10,15 @@ A **property** is a **characteristic** of a control — its text, its name, its 
 
 In your mind's eye: properties — what a control is like.
 
+[Picture 47987 — properties — what a control is like]
+
 ## Sub lesson 2 — Design time and run time — and the set examples
 
 A property can be set at **design time** — in the Properties window while building, the value fixed before the program runs — or at **run time** — by **code** while the program runs, so the value can answer to events (the label turns red when the answer is wrong). The book's worked examples are the daily two: **centring a control** on its form (a position property set exactly), and the **colour property** — a control's colours set deliberately, since a program's colours are read as meaning before its words are.
 
 In your mind's eye: design time and run time — and the set examples.
+
+[Picture 47988 — design time and run time — and the set examples]
 
 ## Say it to your companion
 
