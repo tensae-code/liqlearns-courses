@@ -10,11 +10,15 @@ The **Code Viewer** displays the **project as Python**: the blocks you stacked a
 
 In your mind's eye: the project as python.
 
+[Picture 47557 — the project as python]
+
 ## Sub lesson 2 — Parameters, for with range(), and while in text
 
 In the text, each block's settings appear as **Python parameters** — the numbers and choices you picked in the block, written inside the code line. A counted repeat becomes a **for loop with range()**: range gives the count of turns. A condition loop becomes a **while loop** in text — the same condition, guarding the same lines, in Python's spelling.
 
 In your mind's eye: parameters, for with range(), and while in text.
+
+[Picture 47558 — parameters, for with range(), and while in text]
 
 ## Say it to your companion
 

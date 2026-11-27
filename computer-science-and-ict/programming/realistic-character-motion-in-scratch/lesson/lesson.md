@@ -10,11 +10,15 @@ Real movement **starts slow, hurries, and settles**: the unit builds that feel b
 
 In your mind's eye: speed that changes — acceleration and easing.
 
+[Picture 47559 — speed that changes — acceleration and easing]
+
 ## Sub lesson 2 — Falling and turning — gravity's feel in blocks
 
 The unit's second believability is **falling**: a jumping or dropped character's downward speed **grows** each step (gravity adds and adds) until it lands, where the growth must stop — a landing check is the difference between a jump and a disappearance through the floor. Turning likewise gains life when the **costume and direction answer the movement** (face the way you travel; change costume as you run). The lesson's rule collects them: believable motion is ordinary motion blocks **plus variables for the physics the eye expects**.
 
 In your mind's eye: falling and turning — gravity's feel in blocks.
+
+[Picture 47560 — falling and turning — gravity's feel in blocks]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A program that only prints its author's greeting is a poster. Give it scanf and 
 
 In your mind's eye: printf — printing with format.
 
+[Picture 47555 — printf — printing with format]
+
 ## Sub lesson 2 — scanf — reading into addresses; and the worked program
 
 **scanf** reads the user's typed values **into variables** — and its famous peculiarity is the **&**: `scanf("%d", &age);` passes the variable's **address**, because scanf must *put* the value somewhere, not merely look at it. Forgetting the & is the C beginner's rite of passage. The book's worked whole joins the pair: read a **Celsius** temperature with scanf, compute **Fahrenheit = (C × 9/5) + 32**, print the answer with printf — input, process, output in C dress, and the template of every HSC program that follows.
 
 In your mind's eye: scanf — reading into addresses; and the worked program.
+
+[Picture 47556 — scanf — reading into addresses; and the worked program]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The library’s sounds are somebody else’s. The national anthem, in your own c
 
 In your mind's eye: recording with the microphone — and editing the take.
 
+[Picture 47561 — recording with the microphone — and editing the take]
+
 ## Sub lesson 2 — Uploading a sound — the anthem project
 
 A sound can also arrive from outside: an **mp3 found on the internet** is **uploaded** into the project. The lesson’s project uses both routes’ result: **the national anthem as a sprite’s sound**, played by the program like any clip.
 
 In your mind's eye: uploading a sound — the anthem project.
+
+[Picture 47562 — uploading a sound — the anthem project]
 
 ## Say it to your companion
 

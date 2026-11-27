@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, READ and DATA Statements** —
 
 In your mind's eye: , READ and DATA Statements.
 
+[Picture 47543 — , READ and DATA Statements]
+
 ## Sub lesson 2 — Doing it — Read and Data Statements in practice
 
 **Doing it — Read and Data Statements in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Read and Data Statements in practice.
+
+[Picture 47544 — doing it — Read and Data Statements in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The pattern is: **for (i = 0; i < n; i++) { cout << prompt; cin >> a[i]; }** —
 
 In your mind's eye: reading in — the input loop.
 
+[Picture 47549 — reading in — the input loop]
+
 ## Sub lesson 2 — Printing out — the output loop
 
 Printing mirrors reading: **for (i = 0; i < n; i++) cout << a[i] << ' ';** walks the row and shows every element, usually with spaces or one per line so values do not fuse into one long digit string. Together the two loops are the standard frame: fill the array, process it (later lessons), show it. The count n must be the same count in every loop of the program.
 
 In your mind's eye: printing out — the output loop.
+
+[Picture 47550 — printing out — the output loop]
 
 ## Say it to your companion
 

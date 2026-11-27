@@ -10,11 +10,15 @@ Read an unfamiliar algorithm the slow way: note what it asks for at the start (i
 
 In your mind's eye: following an algorithm step by step.
 
+[Picture 47547 — following an algorithm step by step]
+
 ## Sub lesson 2 — Naming the task it performs
 
 With traces done on two or three different inputs, compare what went in with what came out each time: the pattern between input and output **is** the task — 'it adds the numbers from 1 to the number given', 'it finds the largest of the three values'. Say the task in one plain sentence naming the inputs and the result, then test your sentence: run one more value and check the algorithm does exactly what your sentence promises — no more, no less.
 
 In your mind's eye: naming the task it performs.
+
+[Picture 47548 — naming the task it performs]
 
 ## Say it to your companion
 

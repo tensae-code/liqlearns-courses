@@ -10,11 +10,15 @@ Programs that only print are monologues. Grade 8 and Grade 10 teach the listenin
 
 In your mind's eye: read and readln — filling variables from the keyboard.
 
+[Picture 47551 — read and readln — filling variables from the keyboard]
+
 ## Sub lesson 2 — The conversation — prompt, read, echo
 
 Interactive programs follow a courtesy protocol this section makes explicit: **prompt first** (writeln what you ask for — the user cannot guess), **read second**, **echo or use third** (show what was taken, so mistyping is caught at once). Numbers are typed separated by spaces or Enter; characters read raw, one by one, including spaces — so reading a name with readln into a string differs from reading numbers. Input is a contract: the program states the order and kinds it expects, the user supplies exactly those.
 
 In your mind's eye: the conversation — prompt, read, echo.
+
+[Picture 47552 — the conversation — prompt, read, echo]
 
 ## Say it to your companion
 
