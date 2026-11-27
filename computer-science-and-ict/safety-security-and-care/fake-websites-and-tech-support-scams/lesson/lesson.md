@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Keep an Eye Out for Scams: fak
 
 In your mind's eye: , Keep an Eye Out for Scams. Fake websites and tech support scams.
 
+[Picture 48109 — , Keep an Eye Out for Scams. Fake websites and tech support scams]
+
 ## Sub lesson 2 — Doing it — Fake Websites and Tech Support Scams in practice
 
 **Doing it — Fake Websites and Tech Support Scams in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Fake Websites and Tech Support Scams in practice.
+
+[Picture 48110 — doing it — Fake Websites and Tech Support Scams in practice]
 
 ## Say it to your companion
 

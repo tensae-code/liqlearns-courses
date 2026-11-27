@@ -10,11 +10,15 @@ The investigation asks its title question with a checklist: Is the phone **locke
 
 In your mind's eye: the inspection — locks, updates, permissions.
 
+[Picture 48125 — the inspection — locks, updates, permissions]
+
 ## Sub lesson 2 — The repair — and the family's habits
 
 Then the findings are **repaired with the family's agreement**: a real lock set, permissions withdrawn one by one, updates run, the banking app behind its own lock, and a **backup** made of the photographs that exist nowhere else. The session's last work is the family's **habits**: unknown links unclicked whoever sent them, OTP codes never shared with any caller (the bank never asks — a caller who asks is the crime in progress), and the phone's owner able to say what to do in the first hour after a loss. Safety, in this lesson, is a family that has rehearsed.
 
 In your mind's eye: the repair — and the family's habits.
+
+[Picture 48126 — the repair — and the family's habits]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **cyber security policy** is a written agreement that states: what must be **p
 
 In your mind's eye: the policy — rules with reasons.
 
+[Picture 48115 — the policy — rules with reasons]
+
 ## Sub lesson 2 — Cyber awareness — the policy goes public
 
 The final session turns outward: **cyber awareness** — the class carries its policy's teaching to the school and families, as the verification campaign carried checking: posters, a presentation, the policy's best clauses translated for younger children. A policy locked in a drawer protects one classroom's intentions; awareness multiplies it into a school's habits. The experience closes where the whole ICT course aims: citizens who do not merely survive the digital world but govern their corner of it — and teach the governing.
 
 In your mind's eye: cyber awareness — the policy goes public.
+
+[Picture 48116 — cyber awareness — the policy goes public]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Fires are classed by **what is burning** — ordinary materials, flammable liqui
 
 In your mind's eye: fire classes and extinguisher types.
 
+[Picture 48111 — fire classes and extinguisher types]
+
 ## Sub lesson 2 — Colour codes — reading the extinguisher at a glance
 
 Because a fire leaves no time to read manuals, extinguishers carry a **colour code**: the body or its band announces the type — **red for water**, **cream for foam**, **blue for dry powder**, **black for CO₂** (the standard coding the guide teaches). The drill the guide intends: read the colour **before** you lift it, match it to the fire's class, and if no colour matches the fire, **get out and raise the alarm instead** — the code's last lesson is knowing when not to fight.
 
 In your mind's eye: colour codes — reading the extinguisher at a glance.
+
+[Picture 48112 — colour codes — reading the extinguisher at a glance]
 
 ## Say it to your companion
 

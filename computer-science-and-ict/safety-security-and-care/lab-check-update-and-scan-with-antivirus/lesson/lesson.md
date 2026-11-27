@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Lab Activities** — covering: U
 
 In your mind's eye: lab Activities.
 
+[Picture 48129 — lab Activities]
+
 ## Sub lesson 2 — Doing it — Lab Check Update and Scan with Antivirus in practice
 
 **Doing it — Lab Check Update and Scan with Antivirus in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Lab Check Update and Scan with Antivirus in practice.
+
+[Picture 48130 — doing it — Lab Check Update and Scan with Antivirus in practice]
 
 ## Say it to your companion
 

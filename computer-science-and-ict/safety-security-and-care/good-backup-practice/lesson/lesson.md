@@ -10,11 +10,15 @@ Good backup practice has three standing rules. **Regular**: back up on a schedul
 
 In your mind's eye: the rules of a good backup — regular, separate, more than one.
 
+[Picture 48117 — the rules of a good backup — regular, separate, more than one]
+
 ## Sub lesson 2 — Proving the backup — check and restore
 
 A backup is only believed when it is **checked**: open the copy now and then and confirm the files are there and readable, and practise **restoring** — bringing a file back — before the day you must. Class VII teaches backup to Google Drive in the same chapter: the practice and the tool together, so the habit forms on the service the pupils actually use.
 
 In your mind's eye: proving the backup — check and restore.
+
+[Picture 48118 — proving the backup — check and restore]
 
 ## Say it to your companion
 

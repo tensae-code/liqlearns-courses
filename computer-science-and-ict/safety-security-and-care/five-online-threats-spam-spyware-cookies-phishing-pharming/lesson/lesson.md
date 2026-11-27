@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Privacy and Security Threats: §
 
 In your mind's eye: privacy and Security Threats. §7.2.1 Types of Security Threats.
 
+[Picture 48113 — privacy and Security Threats. §7.2.1 Types of Security Threats]
+
 ## Sub lesson 2 — Doing it — Five Online Threats Spam Spyware Cookies Phishing Pharming in practice
 
 **Doing it — Five Online Threats Spam Spyware Cookies Phishing Pharming in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Five Online Threats Spam Spyware Cookies Phishing Pharming in practice.
+
+[Picture 48114 — doing it — Five Online Threats Spam Spyware Cookies Phishing Pharming in practice]
 
 ## Say it to your companion
 

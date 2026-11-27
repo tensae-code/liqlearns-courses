@@ -10,11 +10,15 @@ IoT things are attacked because they are **many, similar and often weak**: shipp
 
 In your mind's eye: why IoT is attacked — weak things in vast numbers.
 
+[Picture 48123 — why IoT is attacked — weak things in vast numbers]
+
 ## Sub lesson 2 — Defending — the standing measures
 
 The defences are the course's security craft applied to things: **change default passwords**, keep device software **updated**, give the IoT network its **own segment** apart from computers holding data, switch off features and services a device does not need, and buy from makers who publish updates. Jordan's lesson sits inside network design on purpose: security decided after the design is decoration; security inside the design is architecture.
 
 In your mind's eye: defending — the standing measures.
+
+[Picture 48124 — defending — the standing measures]
 
 ## Say it to your companion
 

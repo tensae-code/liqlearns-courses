@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Encryption with Keys and Passwor
 
 In your mind's eye: encryption with Keys and Passwords. §4.4.1 Relationship between Cryptographic Keys and Passwords.
 
+[Picture 48127 — encryption with Keys and Passwords. §4.4.1 Relationship between Cryptographic Keys and Passwords]
+
 ## Sub lesson 2 — Doing it — Keys Are Not Passwords and What Captcha Does in practice
 
 **Doing it — Keys Are Not Passwords and What Captcha Does in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Keys Are Not Passwords and What Captcha Does in practice.
+
+[Picture 48128 — doing it — Keys Are Not Passwords and What Captcha Does in practice]
 
 ## Say it to your companion
 
