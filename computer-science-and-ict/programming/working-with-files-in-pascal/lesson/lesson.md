@@ -10,11 +10,15 @@ File work starts by joining a **file variable** to a real file with **assign**, 
 
 In your mind's eye: assign, reset, rewrite — opening a file.
 
+[Picture 48019 — assign, reset, rewrite — opening a file]
+
 ## Sub lesson 2 — Reading to the end, and closing
 
 A reading program cannot know a file's length in advance, so it reads **until eof** — the end-of-file test — is true. Every opened file ends with **close**: closing writes the last values safely and frees the file for others. The book places files after graphics and before procedures — the course's data now outlives the program that made it.
 
 In your mind's eye: reading to the end, and closing.
+
+[Picture 48020 — reading to the end, and closing]
 
 ## Say it to your companion
 

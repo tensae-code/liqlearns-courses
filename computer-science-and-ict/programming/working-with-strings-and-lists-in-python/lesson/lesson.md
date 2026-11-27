@@ -10,11 +10,15 @@ A **string** is worked on, not just printed. Its **length** is counted with `len
 
 In your mind's eye: string operations — cut, join, measure, change.
 
+[Picture 48025 — string operations — cut, join, measure, change]
+
 ## Sub lesson 2 — List operations — add, remove, sort, search
 
 A **list**, unlike a string, can be **changed in place**: items are **appended** at the end, **inserted** at a position, **removed** by value or position, and the whole list can be **sorted** or **reversed**. Finding is the other daily job — whether an item is **in** the list, and at which **index** it stands. The operations compose: a mark list is appended to all term, sorted for the report, searched for one pupil, sliced for the top five. The faults are the family's too: removing while looping skips items, and sorting text-numbers orders them as words, not values — two traps the book's exercises make pupils meet on small lists before real ones.
 
 In your mind's eye: list operations — add, remove, sort, search.
+
+[Picture 48026 — list operations — add, remove, sort, search]
 
 ## Say it to your companion
 

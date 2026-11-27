@@ -10,11 +10,15 @@ Sudan's Grade 9 book gives programming a lesson of honour before its mechanics: 
 
 In your mind's eye: programs run the world the pupil lives in.
 
+[Picture 48013 — programs run the world the pupil lives in]
+
 ## Sub lesson 2 — What programming gives the learner
 
 For the learner the importance is personal: programming teaches **solving problems in exact steps** — the same thinking the algorithm lessons build; it turns the computer from a machine with fixed jobs into a tool that does **new jobs the learner invents**; and it is a **skill the world pays for**, standing behind the systems every institution now needs. The book's order is the argument: importance first, so every hard lesson after it has a reason.
 
 In your mind's eye: what programming gives the learner.
+
+[Picture 48014 — what programming gives the learner]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A good program is **readable**: names that mean, structure that shows, comments 
 
 In your mind's eye: readable — and always ending.
 
+[Picture 48005 — readable — and always ending]
+
 ## Sub lesson 2 — Precise answers — and memory respected
 
 A good program gives a **precise final answer**: not approximately, not sometimes — the exact result the problem asked, for the whole range of honest inputs, with the dishonest ones refused as the calculator lesson designed. And it is **efficient with memory**: variables sized to their job, no arrays of a million for a class of thirty, no copies kept from laziness — memory is the machine's shared purse, and the good program spends it like a guest, not an owner. Four tests — readable, ending, precise, frugal — one program, judged whole.
 
 In your mind's eye: precise answers — and memory respected.
+
+[Picture 48006 — precise answers — and memory respected]
 
 ## Say it to your companion
 

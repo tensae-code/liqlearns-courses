@@ -10,11 +10,15 @@ Sudan's Grade 9 book — a whole book about programming — opens with its conce
 
 In your mind's eye: program and programmer.
 
+[Picture 48007 — program and programmer]
+
 ## Sub lesson 2 — The parts of a programming language
 
 A program is written in a **programming language**, and the book names what a language is made of: its **words** — the reserved commands the language allows; its **symbols** — the signs for operations and values; and its **rules** — the grammar that fixes how words and symbols may be joined into instructions the computer understands. Break the rules and the instruction is refused, exactly as a sentence with broken grammar fails between people. Every language met later in the book — and the Scratch blocks after — is examined against these same parts.
 
 In your mind's eye: the parts of a programming language.
+
+[Picture 48008 — the parts of a programming language]
 
 ## Say it to your companion
 

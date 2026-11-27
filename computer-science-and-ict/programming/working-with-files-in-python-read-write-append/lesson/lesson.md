@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **File Handling** — covering: Un
 
 In your mind's eye: file Handling.
 
+[Picture 48021 — file Handling]
+
 ## Sub lesson 2 — Doing it — Working with Files in Python Read Write Append in practice
 
 **Doing it — Working with Files in Python Read Write Append in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Working with Files in Python Read Write Append in practice.
+
+[Picture 48022 — doing it — Working with Files in Python Read Write Append in practice]
 
 ## Say it to your companion
 

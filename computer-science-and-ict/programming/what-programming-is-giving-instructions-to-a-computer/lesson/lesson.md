@@ -10,11 +10,15 @@ Programming, also called coding, is giving instructions to a computer. The book'
 
 In your mind's eye: the baker following a recipe step by step, with a computer beside the baker following its instructions in the same exact way.
 
+[Picture 48009 — the baker following a recipe step by step, with a computer beside the baker following its instructions in the same exact way]
+
 ## Sub lesson 2 — The words: program, code, command, script, sprite
 
 Five words carry the whole of Scratch programming. A **program** is the whole set of instructions that makes something happen. **Code** is those instructions written in the computer's form. A **command**, in Scratch a **block**, is one instruction — move, say, turn. A **script** is blocks joined together in order, so the computer runs them one after another. A **sprite** is the character or object on the stage that the script tells what to do — the cat is the first sprite everyone meets. When you build blocks into a script for a sprite, you have written a program, in code.
 
 In your mind's eye: five labelled cards — program, code, command/block, script, sprite. Around a Scratch cat with a short stack of blocks beside it.
+
+[Picture 48010 — five labelled cards — program, code, command/block, script, sprite. Around a Scratch cat with a short stack of blocks beside it]
 
 ## Say it to your companion
 

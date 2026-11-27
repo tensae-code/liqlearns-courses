@@ -10,11 +10,15 @@ The pattern: an **accumulator** starts at its neutral value (0 for a sum), the l
 
 In your mind's eye: operations over the whole array.
 
+[Picture 48015 — operations over the whole array]
+
 ## Sub lesson 2 — Largest, smallest and counting
 
 For **largest**: set max = **a[0]** (never 0 — an all-negative array would break that), then each element that **beats** max replaces it. **Smallest** mirrors it. For **counting**: a counter rises by one **only when the element passes a test** (negative? even? above the average?) — same walk, conditional fold. The links-pass reading splits this material further: inserting elements, finding largest/smallest and counting each get their own stocked lessons beside this one.
 
 In your mind's eye: largest, smallest and counting.
+
+[Picture 48016 — largest, smallest and counting]
 
 ## Say it to your companion
 

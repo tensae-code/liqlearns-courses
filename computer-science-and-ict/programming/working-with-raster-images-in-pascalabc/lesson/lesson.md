@@ -10,11 +10,15 @@ A **raster image** is a picture made of a grid of coloured points (**pixels**) �
 
 In your mind's eye: a photograph as a grid of pixels being lifted whole onto a graphics window.
 
+[Picture 48023 — a photograph as a grid of pixels being lifted whole onto a graphics window]
+
 ## Sub lesson 2 — Moving and animating
 
 **Animation** here is movement built from still steps: draw the image, wait a blink, clear or cover its old place, and draw it at the next coordinates — repeated quickly, the eye joins the steps into **motion**. Direction and speed are just the step pattern: how far the coordinates change each step, and how long the pause is. The craft problems are the visible ones — a trail left behind when the old position is not cleaned, jerky steps when the jumps are too big — and each is fixed in the step pattern, not in the picture.
 
 In your mind's eye: the same picture drawn at five positions across a window with arrows between them, joining into motion.
+
+[Picture 48024 — the same picture drawn at five positions across a window with arrows between them, joining into motion]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Sudan's Grade 9 Scratch course ends its data work with the **instructions that o
 
 In your mind's eye: instructions on data.
 
+[Picture 48017 — instructions on data]
+
 ## Sub lesson 2 — Data at work in a running project
 
 With data instructions, a Scratch project remembers and decides: a **score** that grows when a target is caught, a **counter** that ends the game at ten, a **name** the program asked for and now uses in its greeting. The project's behaviour turns on its data — the same instructions give different runs when the values differ. That is the step from drawing with blocks to programming with them, and the book's designed project after this lesson stands on it.
 
 In your mind's eye: data at work in a running project.
+
+[Picture 48018 — data at work in a running project]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **program** is a set of **instructions** written for a computer to carry out *
 
 In your mind's eye: instructions a machine can follow.
 
+[Picture 48011 — instructions a machine can follow]
+
 ## Sub lesson 2 — From problem to program
 
 Programming starts before any code: first the **problem** is understood, then a **solution method (algorithm)** is worked out, then the algorithm is written in a **programming language**, and finally the program is **run and checked**. North Macedonia's course takes this road into C++: the thinking steps come first in the book, and the language follows them.
 
 In your mind's eye: from problem to program.
+
+[Picture 48012 — from problem to program]
 
 ## Say it to your companion
 
