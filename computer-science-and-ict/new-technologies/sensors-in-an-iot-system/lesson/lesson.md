@@ -10,11 +10,15 @@ An IoT system that cannot sense is a telephone network with nothing to say. This
 
 In your mind's eye: the perception layer — the system's senses.
 
+[Picture 48860 — the perception layer — the system's senses]
+
 ## Sub lesson 2 — The gateway — collector and translator
 
 Between the sensors and the wider network stands the **gateway**: it collects readings from many nearby sensors, may do first processing on them, translates between the sensors' short-range protocols and the internet's, and passes the data onward. The gateway is also a guard post — the point where local traffic is checked before it leaves. One gateway can serve a room, a greenhouse or a street of lamps.
 
 In your mind's eye: the gateway — collector and translator.
+
+[Picture 48861 — the gateway — collector and translator]
 
 ## Say it to your companion
 

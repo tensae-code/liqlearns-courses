@@ -10,11 +10,15 @@ An image **prompt** is a description from which an AI **generates an image**: th
 
 In your mind's eye: writing a good prompt — the picture in words first.
 
+[Picture 48848 — writing a good prompt — the picture in words first]
+
 ## Sub lesson 2 — Designing Mubarak Al-Kabeer Port — iterate the description
 
 The lesson's work is a design brief: **Mubarak Al-Kabeer Port** — Kuwait's great port project — imagined and pictured by prompt. The method is **iteration**: generate, **look** at what came back as a designer (not a fan), name what is wrong or missing in **words**, and put those words into the next prompt. The pupil is the art director and the AI is a tireless, literal draughtsman — the design skill being taught is seeing clearly and saying exactly, which the GIMP lessons demanded of the hand and this one demands of the sentence.
 
 In your mind's eye: designing Mubarak Al-Kabeer Port — iterate the description.
+
+[Picture 48849 — designing Mubarak Al-Kabeer Port — iterate the description]
 
 ## Say it to your companion
 

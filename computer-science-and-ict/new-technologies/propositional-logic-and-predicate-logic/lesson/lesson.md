@@ -10,11 +10,15 @@ Logic has two toolboxes: one treats whole statements as atoms; the other opens t
 
 In your mind's eye: propositional logic — whole statements, joined.
 
+[Picture 48850 — propositional logic — whole statements, joined]
+
 ## Sub lesson 2 — Predicate logic — inside the statement
 
 **Predicate logic** opens the statement: **predicates** say things about **objects** — Bird(x), Flies(x) — and **quantifiers** speak of all (∀) or some (∃): ∀x (Bird(x) → Flies(x)). Now a machine can reason about every bird at once and about this bird in particular — the representation AI's knowledge bases actually use. Jordan's pair closes with the trade: propositional logic is simpler and decidable; predicate logic is expressive enough for real knowledge, and its reasoning costs more.
 
 In your mind's eye: predicate logic — inside the statement.
+
+[Picture 48851 — predicate logic — inside the statement]
 
 ## Say it to your companion
 

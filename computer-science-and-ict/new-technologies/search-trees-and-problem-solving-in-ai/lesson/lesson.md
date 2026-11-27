@@ -10,11 +10,15 @@ AI search begins by stating a problem as **states** (the situations that can ari
 
 In your mind's eye: problems as states and moves.
 
+[Picture 48858 — problems as states and moves]
+
 ## Sub lesson 2 — The search tree — the problem drawn out
 
 Applying actions to states grows a **search tree**: the initial state at the root, each branch an action, each node a reached state, the goal sitting somewhere in the branches. **Solving is searching** — walking the tree by a strategy until a goal node is found, then reading the path back down as the solution's steps. The tree is usually far too big to draw fully; the art of the next lessons is searching it without visiting every branch.
 
 In your mind's eye: the search tree — the problem drawn out.
+
+[Picture 48859 — the search tree — the problem drawn out]
 
 ## Say it to your companion
 

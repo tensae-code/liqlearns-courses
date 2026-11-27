@@ -10,11 +10,15 @@ An **RFID** system has three parts. The **tag** (chip with a small antenna) is f
 
 In your mind's eye: the three parts — tag, reader, system.
 
+[Picture 48854 — the three parts — tag, reader, system]
+
 ## Sub lesson 2 — Writing and reading — how the data moves
 
 In the **write process**, data is stored onto the tag — the object's identity written once or updated. In the **read process**, the reader's wave wakes the tag, the tag replies with its data, and the application system matches the reply against its records and acts. Reading needs no line of sight and can take many tags at once — the two advantages over barcodes that explain RFID's spread through shops, libraries, roads and warehouses.
 
 In your mind's eye: writing and reading — how the data moves.
+
+[Picture 48855 — writing and reading — how the data moves]
 
 ## Say it to your companion
 

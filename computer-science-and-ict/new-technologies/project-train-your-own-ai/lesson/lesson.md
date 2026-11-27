@@ -10,11 +10,15 @@ The pupil **trains an AI** of their own choosing: picks what it will learn to te
 
 In your mind's eye: the project — your AI, your teaching.
 
+[Picture 48844 — the project — your AI, your teaching]
+
 ## Sub lesson 2 — What the project proves
 
 The project is the arc's examination: AI (what it is), data (what it eats), training (how it learns) and decisions (how it answers) must all be spent together, on a machine nobody else trained. Its deepest result is usually a surprise the worksheets catch: the AI learned **exactly what it was taught** — its failures are the training's failures, visible in the recorded examples — which is the single most useful thing a citizen of an AI age can know at ten years old.
 
 In your mind's eye: what the project proves.
+
+[Picture 48845 — what the project proves]
 
 ## Say it to your companion
 

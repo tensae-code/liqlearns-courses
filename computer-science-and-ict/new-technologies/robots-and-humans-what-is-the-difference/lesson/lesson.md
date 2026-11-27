@@ -10,11 +10,15 @@ The Parcours comparison starts by honouring the machine: a robot **repeats exact
 
 In your mind's eye: what robots do better.
 
+[Picture 48856 — what robots do better]
+
 ## Sub lesson 2 — What stays human
 
 The other column is not “everything else” but named human strengths: **feeling with others** (comforting without instructions), **judging** what matters in a new situation, **caring** — wanting another's good — **inventing** questions nobody programmed, and **answering for** one's acts. The Parcours teaches the pair of columns together so pupils meet robots without fear or worship: a robot is a powerful tool with a shape, and the human beside it is not its rival but its author and its judge.
 
 In your mind's eye: what stays human.
+
+[Picture 48857 — what stays human]
 
 ## Say it to your companion
 

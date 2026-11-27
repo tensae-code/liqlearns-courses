@@ -10,11 +10,15 @@ Cloud computing requires, first, a **reliable internet connection** of enough sp
 
 In your mind's eye: the technical requirements.
 
+[Picture 48852 — the technical requirements]
+
 ## Sub lesson 2 — The human and organisational requirements
 
 Beyond machinery: **skills** (people trained, not merely told), **support** (someone to ask when it breaks), **policies** (what may go to the cloud, what must not, who decides), and a **plan for failure** — the day the connection dies in the middle of the exam week. Jordan's lesson counts cost honestly too: subscriptions are a rent forever, weighed against the purchase they replace. A cloud adopted without its requirements is not modern; it is merely moved fragility.
 
 In your mind's eye: the human and organisational requirements.
+
+[Picture 48853 — the human and organisational requirements]
 
 ## Say it to your companion
 

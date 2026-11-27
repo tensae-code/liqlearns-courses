@@ -10,11 +10,15 @@ A **prompt** is the instruction given to a generative AI — and like every inst
 
 In your mind's eye: a prompt is an instruction, and it is designed.
 
+[Picture 48846 — a prompt is an instruction, and it is designed]
+
 ## Sub lesson 2 — Better prompts, better output — the working moves
 
 The skills are a craftsman's set: be **specific** where the result matters and loose where variation is welcome; give an **example** of the wanted thing when words about it fail; ask in **steps** when the task is a journey; and **revise** — read the output as the prompt's report card, change the instruction, and ask again. Kuwait places prompt design inside the AI unit, not the writing unit, because it is a technology skill: operating a generative system well is part of knowing what it is.
 
 In your mind's eye: better prompts, better output — the working moves.
+
+[Picture 48847 — better prompts, better output — the working moves]
 
 ## Say it to your companion
 

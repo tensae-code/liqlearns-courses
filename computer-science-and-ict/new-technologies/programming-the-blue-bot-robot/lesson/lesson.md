@@ -10,6 +10,8 @@ The book's programmable device is **Blue-Bot** — a small **bee robot** that dr
 
 In your mind's eye: a picture of the Blue-Bot bee robot on a mat, its back buttons labelled — forward, back, left, right, clear, go. With a dotted route of robot steps and one quarter-turn ahead of it.
 
+[Picture 48843 — a picture of the Blue-Bot bee robot on a mat, its back buttons labelled — forward, back, left, right, clear, go. With a dotted route of robot steps and one quarter-turn ahead of it]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: The Blue-Bot is a bee-shaped floor robot: you program it with its buttons — forward, back, turns, go — or in its control environment, and it drives the route your commands describe. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.
