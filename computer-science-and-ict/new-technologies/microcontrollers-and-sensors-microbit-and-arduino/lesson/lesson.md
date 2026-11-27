@@ -10,11 +10,15 @@ A **microcontroller** is a **small computer on a single chip**: it joins a **pro
 
 In your mind's eye: a microcontroller — a small computer on one chip.
 
+[Picture 48812 — a microcontroller — a small computer on one chip]
+
 ## Sub lesson 2 — Sensors — and learning with micro:bit and Arduino
 
 A microcontroller learns about the world through **sensors**: parts that **detect a change in the environment** — light, heat, movement — and turn it into a **signal** the chip can read. The chip reads the signal and **acts** as its program says: switching, timing, warning. Pupils meet this control with real kits — the **BBC micro:bit** and **Arduino** — building circuits that sense and respond, so the lamp that lights itself stops being magic and becomes a program they wrote.
 
 In your mind's eye: sensors — and learning with micro:bit and Arduino.
+
+[Picture 48813 — sensors — and learning with micro:bit and Arduino]
 
 ## Say it to your companion
 

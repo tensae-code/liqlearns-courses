@@ -10,11 +10,15 @@ A **model** is a simplified copy of a thing or process, keeping what matters for
 
 In your mind's eye: the concept and its role in AI.
 
+[Picture 48816 — the concept and its role in AI]
+
 ## Sub lesson 2 — Applications and software
 
 Applications in AI: **training environments** for robots and game agents, **testing** systems against rare and dangerous cases no real trial may stage, **predicting** (weather, epidemics, traffic) by simulating the model forward, and **designing** — trying a bridge, a network, a policy in the model first. The **software** ranges from general simulation environments to the AI frameworks' own simulators. Jordan closes the AI unit here because the idea completes it: intelligence that can model the world can practise in the model — and so, in these lessons, can the pupil.
 
 In your mind's eye: applications and software.
+
+[Picture 48817 — applications and software]
 
 ## Say it to your companion
 

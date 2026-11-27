@@ -10,11 +10,15 @@ A **knowledge base system** holds knowledge — facts **and the rules that conne
 
 In your mind's eye: what a knowledge base system is.
 
+[Picture 48798 — what a knowledge base system is]
+
 ## Sub lesson 2 — Importance and types
 
 Their **importance**: scarce expertise becomes **shareable, permanent and tireless** — the expert retires, the system still advises; a hundred clinics ask at once. Jordan's types of knowledge-based systems include **expert systems** (advising like a specialist), **case-based systems** (reasoning from past cases), and systems built on **rules, frames or logic** as their knowledge's shape. The book places them at AI's door: they are AI's oldest working form, knowledge doing the work that data alone cannot.
 
 In your mind's eye: importance and types.
+
+[Picture 48799 — importance and types]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **3D printing, 2.1: The 3D editor** — c
 
 In your mind's eye: 3D printing, 2.1. The 3D editor.
 
+[Picture 48818 — 3D printing, 2.1. The 3D editor]
+
 ## Sub lesson 2 — The tools of the 3D editor
 
 This part of Kazakhstan's book teaches **The tools of the 3D editor** — covering: 2.2: The tools of the 3D editor. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: the tools of the 3D editor.
+
+[Picture 48819 — the tools of the 3D editor]
 
 ## Say it to your companion
 

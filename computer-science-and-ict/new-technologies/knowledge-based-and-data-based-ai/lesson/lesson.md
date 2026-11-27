@@ -12,6 +12,8 @@ This shape has two proud strengths. It is **exact** within its rules, and it can
 
 In your mind's eye: knowledge-based-rules. A wall of IF–THEN rule cards and a small engine walking from card to card along a glowing chain.
 
+[Picture 48800 — knowledge-based-rules. A wall of IF–THEN rule cards and a small engine walking from card to card along a glowing chain]
+
 Its weaknesses are the mirror image. Writing down an expert's knowledge is **slow and expensive** — experts know more than they can say, and every rule must be caught, checked and kept current. And the system is **blind outside its rules**: a case no rule covers gets no wisdom at all, only silence or a wrong match. It cannot learn from the case it just failed, either: tomorrow it fails it again, until a human writes a new rule.
 
 ## Sub lesson 2 — Data-based AI — patterns found, not written
@@ -21,6 +23,8 @@ A **data-based** system starts empty of rules. It is shown **examples** — thou
 Its strengths answer the rule-book's weaknesses exactly. Nobody can write IF–THEN rules for 'this photograph shows a cat' — fur, pose, light and breed vary beyond listing — yet data-based systems do it well, because they never needed the rules written: they **found** the pattern. Speech, handwriting, translation and recommendation all yielded to data after resisting rules for decades.
 
 In your mind's eye: data-based-learning. A river of labelled example photographs flowing into a machine whose inner dials settle a little with each one.
+
+[Picture 48801 — data-based-learning. A river of labelled example photographs flowing into a machine whose inner dials settle a little with each one]
 
 Its weaknesses are the rule-book's strengths, lost. It is **hungry**: thousands to millions of good examples, or it learns nothing reliable. It is **silent about its reasons**: it answers, but cannot show a chain of rules a human can audit — the numbers inside are not an explanation. And it **inherits its data**: examples that are few, wrong or one-sided produce a system that is few, wrong or one-sided, confidently. Two ways of building intelligence, two opposite sets of virtues — the rest of this strand lives mostly in the data-based world, and now you know what that world costs and buys.
 

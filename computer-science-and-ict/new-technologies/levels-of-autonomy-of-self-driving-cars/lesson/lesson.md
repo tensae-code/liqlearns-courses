@@ -10,11 +10,15 @@ Autonomy is measured on a **ladder of levels**: at the bottom, the car **assists
 
 In your mind's eye: the levels ladder.
 
+[Picture 48804 — the levels ladder]
+
 ## Sub lesson 2 — Responsibility climbs with the level
 
 Each level is also a **responsibility** answer: while the human must supervise, the human answers for the driving; when the car truly drives itself, responsibility shifts toward its makers and operators — the reading keys (delegation, responsibility) applied to the road. That is why the levels matter beyond engineering: a buyer, a law and an insurer all need to know which level a car really is — not what its advertisement calls it.
 
 In your mind's eye: responsibility climbs with the level.
+
+[Picture 48805 — responsibility climbs with the level]
 
 ## Say it to your companion
 

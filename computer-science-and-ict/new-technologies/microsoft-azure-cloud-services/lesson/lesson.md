@@ -10,11 +10,15 @@ Jordan's book does not teach 'the cloud' in the abstract; it opens the two cloud
 
 In your mind's eye: what Azure is.
 
+[Picture 48814 — what Azure is]
+
 ## Sub lesson 2 — Its services — the working set
 
 The pupil meets Azure through its working services: **virtual machines** (rented computers), **Azure Storage** (files and disks in the cloud), **Azure SQL Database** (a managed database), **App Service** (hosting websites and apps without managing servers), and **Azure Active Directory** (accounts and sign-in for an organisation). Each service is the cloud models made concrete: the VM is IaaS, App Service is PaaS, and Microsoft 365 above them is SaaS — Azure is where Jordan's pupils watch the models stop being a diagram.
 
 In your mind's eye: its services — the working set.
+
+[Picture 48815 — its services — the working set]
 
 ## Say it to your companion
 

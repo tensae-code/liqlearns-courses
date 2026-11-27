@@ -10,11 +10,15 @@ A **simulation** is a program that imitates a real system and **obeys its rules*
 
 In your mind's eye: what a simulation is — a world that obeys rules.
 
+[Picture 48802 — what a simulation is — a world that obeys rules]
+
 ## Sub lesson 2 — Exploring and designing — the pupil as experimenter
 
 Learning with a simulation follows the experimenter's loop: **predict** (what will happen if…), **change one thing**, **observe**, **explain** — and the guide's project spends it fully: pupils **design a circuit** in the PhET electricity world, test it, and carry the design's understanding to their presentation work. The lesson's discipline is the scientist's: a simulation is believed **as far as its rules are the real rules** — the pupil who can say where the model simplifies is using the simulation; the pupil who cannot is being used by it.
 
 In your mind's eye: exploring and designing — the pupil as experimenter.
+
+[Picture 48803 — exploring and designing — the pupil as experimenter]
 
 ## Say it to your companion
 

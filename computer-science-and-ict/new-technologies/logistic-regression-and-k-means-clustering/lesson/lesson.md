@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Logistic Regression** — coveri
 
 In your mind's eye: logistic Regression.
 
+[Picture 48810 — logistic Regression]
+
 ## Sub lesson 2 — Doing it — Logistic Regression and K Means Clustering in practice
 
 **Doing it — Logistic Regression and K Means Clustering in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Logistic Regression and K Means Clustering in practice.
+
+[Picture 48811 — doing it — Logistic Regression and K Means Clustering in practice]
 
 ## Say it to your companion
 

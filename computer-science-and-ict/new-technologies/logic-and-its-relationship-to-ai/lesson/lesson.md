@@ -10,11 +10,15 @@ Machines that reason need reasoning's own science first. This lesson meets logic
 
 In your mind's eye: what logic is — the study of arguments.
 
+[Picture 48808 — what logic is — the study of arguments]
+
 ## Sub lesson 2 — Logic in AI — knowledge that can conclude
 
 AI needs logic because a machine that knows must also **conclude**: from 'all birds fly' and 'this is a bird', the new fact must be produced by rule, not by magic. Logic gives AI its **knowledge representation** (facts as statements), its **inference** (rules for deriving new statements), and its honesty check — a conclusion drawn by valid steps from true premises cannot be false. Jordan's book walks from logic to its two working forms — propositional and predicate — in the next lessons.
 
 In your mind's eye: logic in AI — knowledge that can conclude.
+
+[Picture 48809 — logic in AI — knowledge that can conclude]
 
 ## Say it to your companion
 
